@@ -1,0 +1,530 @@
+{{short description|Canadian genomic researcher (born 1950)}}
+{{Infobox scientist
+|name              = Mark Lathrop
+|birth_date        = 1950
+|birth_place       = 
+|death_date        = 
+|death_place       = 
+|residence  = |citizenship = [[Canada]]
+|nationality       = 
+|ethnicity         = 
+|field             = [[biostatistics]], [[genetics]]
+|work_institutions = {{plain list|
+*[[University of Oxford]]
+*[[:fr:Centre d’Étude du Polymorphisme Humain|Centre d’Étude du Polymorphisme Humain]]
+*[[:fr:Centre national de génotypage|Centre National de Génotypage]]
+*[[McGill University]]}}
+|alma_mater        = [[University of Alberta]]<br>[[University of Washington]] (Ph.D)<ref name=Innovation-2011/>
+|doctoral_advisor  = 
+|doctoral_students = 
+|known_for         = genomic research<ref name=Innovation-2011/>
+|author_abbrev_bot =|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|prizes            = [[Ordre national du Mérite]]<br>[[Legion of Honour]]
+|religion = |footnotes = |signature=
+|website=https://genomic.medicine.mcgill.ca/investigator/mark-lathrop
+}}
+
+'''Mark Lathrop''' (born 1950)<ref name=histrecmed-bio/> is a Canadian genomic researcher and [[biostatistics|Biostatistician]]. He headed the  [[Center for the Study of Human Polymorphisms]] in France. As of 2011, he is the Scientific Director of the McGill University and Génome Québec Innovation Centre in 2011.<ref name=Innovation-2011>{{cite web|accessdate=21 December 2012|url=http://publications.mcgill.ca/reporter/2011/02/lathrop-takes-helm-of-genome-innovation-centre/| title=Lathrop takes helm of genome Innovation Centre |date=15 February 2011 |first=Neale |last=McDevitt |archiveurl=https://web.archive.org/web/20160305072601/http://publications.mcgill.ca/reporter/2011/02/lathrop-takes-helm-of-genome-innovation-centre/ |archive-date=5 March 2016|url-status=dead|work=[[McGill Reporter]]|publisher=[[McGill University]]}}</ref>  His research is focused on "the application of genomics and statistical/mathematical methods to understand the molecular basis of human disease."<ref name=McGill-homepage/>
+
+==Education==
+Lathrop earned his undergraduated and master's degrees at the [[University of Alberta]]. He then studied theoretical statistics and genetics at the [[University of Washington]], where he earned his PhD in biomathematics.<ref name=Innovation-2011/><ref name=histrecmed-bio/>
+
+==Career==
+After completing his doctorate, Lathrop moved to France. There he founded the
+[[:fr:Centre d’Étude du Polymorphisme Humain|Center for the Study of Human Polymorphism]].  In the 1980s and 1990s, the Centre was at the forefront of research on the [[human genome]].<ref name=Innovation-2011/>
+ 
+Lathrop, recruited by [[John Bell (physician)|Sir John Bell]], moved to Oxford, England in 1993, where he became co-founder and director of [[Wellcome Trust Centre for Human Genetics]] (WHG) at the [[University of Oxford]].<ref name=Innovation-2011/><ref name=WhG-hx/>
+
+In 1998, he returned to France where he founded the [[:fr:Centre national de génotypage|Centre National de Génotypage]] (CNG), France's national centre for the study  human genetics.<ref name=Innovation-2011/>
+
+In 2011, Lathrop returned to Canada to [[McGill University]], where he was named the Scientific Director of the McGill University Genome Centre, and a Professor in the Department of Human Genetics.  His current research focuses on "using genetic approaches to identify DNA variants that predispose people to common diseases", especially, "lung cancer, asthma and cardiovascular disease."<ref name=QLS-bio/>
+
+==Honors==
+Lathrop has been honored with the [[Ordre national du Mérite|French National Award of Merit]] and [[French Legion of Honour]].<ref name=histrecmed-bio/> 
+
+==Personal==
+Lathrop has dual citizenship - in Canada and France.<ref name=histrecmed-bio/> 
+
+==Bibliography==
+*{{cite journal
+|last=Hung
+|first=Rayjean J
+ |author2=McKay James D |author3=Gaborieau Valerie |display-authors=etal
+|date=April 2008
+|title=A susceptibility locus for lung cancer maps to nicotinic acetylcholine receptor subunit genes on 15q25
+|journal=[[Nature (journal)|Nature]]
+|volume=452
+|issue=7187
+|pages=633–7
+| pmid = 18385738
+|doi = 10.1038/nature06885
+| bibcode = 2008Natur.452..633H
+ |hdl=2318/102453
+ |s2cid=4418808
+ |url=https://hal-cea.archives-ouvertes.fr/cea-00944415/file/Hung1.pdf
+ |hdl-access=free
+}}
+*{{cite journal
+|last=Moffatt
+|first=Miriam F
+ |author2=Kabesch Michael |display-authors=etal
+|date=July 2007
+|title=Genetic variants regulating ORMDL3 expression contribute to the risk of childhood asthma
+|journal=[[Nature (journal)|Nature]]
+|volume=448
+|issue=7152
+|pages=470–3
+| pmid = 17611496
+|doi = 10.1038/nature06014
+| bibcode =  2007Natur.448..470M
+ |url=https://deepblue.lib.umich.edu/bitstream/2027.42/62682/1/nature06014.pdf
+|hdl=2027.42/62682
+ |s2cid=4373589
+ |hdl-access=free
+}}
+*{{cite journal
+|last=Bouzigon
+|first=Emmanuelle
+ |author2=Corda Eve |author3=Aschard Hugues |author4=Dizier Marie-Hélène |author5=Boland Anne |author6=Bousquet Jean |author7=Chateigner Nicolas |author8=Gormand Frédéric |author9=Just Jocelyne |author10=Le Moual Nicole |author11=Scheinmann Pierre |author12=Siroux Valérie |author13=Vervloet Daniel |author14=Zelenika Diana |author15=Pin Isabelle |author16=Kauffmann Francine |author17=Lathrop Mark |author18=Demenais Florence
+|date=November 2008
+|title=Effect of 17q21 variants and smoking exposure in early-onset asthma
+|journal=[[N. Engl. J. Med.]]
+|volume=359
+|issue=19
+|pages=1985–94
+| pmid = 18923164
+|doi = 10.1056/NEJMoa0806604
+ |doi-access=free }}
+*{{cite journal
+|last=Spanagel
+|first=Rainer
+ |author2=Pendyala Gurudutt |author3=Abarca Carolina |author4=Zghoul Tarek |author5=Sanchis-Segura Carles |author6=Magnone Maria Chiara |author7=Lascorz Jesús |author8=Depner Martin |author9=Holzberg David |author10=Soyka Michael |author11=Schreiber Stefan |author12=Matsuda Fumihiko |author13=Lathrop Mark |author14=Schumann Gunter |author15=Albrecht Urs
+|date=January 2005
+|title=The clock gene Per2 influences the glutamatergic system and modulates alcohol consumption
+|journal=[[Nat. Med.]]
+|volume=11
+|issue=1
+|pages=35–42
+| issn = 1078-8956| pmid = 15608650
+|doi = 10.1038/nm1163
+|s2cid=11106714
+ | url = http://doc.rero.ch/record/4324/files/1_albrecht_cgp.pdf
+ }}
+*{{cite journal
+|last1=Kathiresan
+ |author2=Willer |author3=Peloso |author4=Demissie |display-authors=etal
+|date=December 2008
+|title=Common variants at 30 loci contribute to polygenic dyslipidemia
+|journal=[[Nat. Genet.]]
+|volume=41
+|issue=1
+|pages=56–65
+| pmid = 19060906
+|doi = 10.1038/ng.291
+| first1 = S
+| pmc = 2881676 
+ }}
+*{{cite journal
+|last=McKay
+|first=James D
+ |author2=Hung Rayjean J |display-authors=etal
+|date=December 2008
+|title=Lung cancer susceptibility locus at 5p15.33
+|journal=[[Nat. Genet.]]
+|volume=40
+|issue=12
+|pages=1404–6
+| pmid = 18978790
+|doi = 10.1038/ng.254
+| pmc = 2748187 
+ }}
+*{{cite journal
+|last=Barrett
+|first=Jeffrey C
+ |author2=Hansoul Sarah |display-authors=etal
+|date=August 2008
+|title=Genome-wide association defines more than thirty distinct susceptibility loci for Crohn's disease
+|journal=[[Nat. Genet.]]
+|volume=40
+|issue=8
+|pages=955–62
+| pmid = 18587394
+|doi = 10.1038/ng.175
+| pmc = 2574810 
+ }}
+*{{cite journal
+|collaboration=The STAR Consortium
+|author=Saar Kathrin
+|date=May 2008
+|title=SNP and haplotype mapping for genetic analysis in the rat
+|journal=[[Nat. Genet.]]
+|volume=40
+|issue=5
+|pages=560–6
+| pmid = 18443594
+|pmc=5915293
+|doi = 10.1038/ng.124
+ }}
+*{{cite journal
+|last1=Willer
+|first1=Cristen J
+|date=February 2008
+|title=Newly identified loci that influence lipid concentrations and risk of coronary artery disease
+|journal=[[Nat. Genet.]]
+|volume=40
+|issue=2
+|pages=161–9
+| pmid = 18193043
+|doi = 10.1038/ng.76
+| last2 = Sanna
+| first2 = S
+| last3 = Jackson
+| first3 = AU
+| last4 = Scuteri
+| first4 = A
+| last5 = Bonnycastle
+| first5 = LL
+| last6 = Clarke
+| first6 = R
+| last7 = Heath
+| first7 = SC
+| last8 = Timpson
+| first8 = NJ
+| last9 = Najjar
+| first9 = SS 
+ |last10=Stringham
+|first10=Heather M
+|last11=Strait
+|first11=James
+|last12=Duren
+|first12=William L
+|last13=Maschio
+|first13=Andrea
+|last14=Busonero
+|first14=Fabio
+|last15=Mulas
+|first15=Antonella
+|last16=Albai
+|first16=Giuseppe
+|last17=Swift
+|first17=Amy J
+|last18=Morken
+|first18=Mario A
+|last19=Narisu
+|first19=Narisu
+|last20=Bennett
+|first20=Derrick
+|last21=Parish
+|first21=Sarah
+|last22=Shen
+|first22=Haiqing
+|last23=Galan
+|first23=Pilar
+|last24=Meneton
+|first24=Pierre
+|last25=Hercberg
+|first25=Serge
+|last26=Zelenika
+|first26=Diana
+|last27=Chen
+|first27=Wei-Min
+|last28=Li
+|first28=Yun
+|last29=Scott
+|first29=Laura J
+|last30=Scheet
+|first30=Paul A
+|display-authors=8
+|pmc=5206900
+}}
+*{{cite journal
+|date=November 2007
+|title=Association scan of 14,500 nsSNPs in four common diseases identifies variants involved in autoimmunity
+|journal=[[Nat. Genet.]]
+|volume=39
+|issue=11
+|pages=1329–37
+| pmid = 17952073
+|doi = 10.1038/ng.2007.17
+| author1 = Wellcome Trust Case Control Consortium
+| author2 = Australo-Anglo-American Spondylitis Consortium (TASC)
+| last3 = Burton
+| first3 = PR
+| last4 = Clayton
+| first4 = DG
+| last5 = Cardon
+| first5 = LR
+| last6 = Craddock
+| first6 = N
+| last7 = Deloukas
+| first7 = P
+| last8 = Duncanson
+| first8 = A
+| last9 = Kwiatkowski
+| first9 = DP
+|last10= Samani|first10= Nilesh J|last11= Todd|first11= John A|last12= Donnelly (Chair)|first12= Peter|last13= Barrett|first13= Jeffrey C|last14= Burton|first14= Paul R|last15= Davison|first15= Dan|last16= Donnelly|first16= Peter|last17= Easton|first17= Doug|last18= Evans|first18= David M|last19= Leung|first19= Hin-Tak|last20= Marchini|first20= Jonathan L|last21= Morris|first21= Andrew P|last22= Spencer|first22= Chris CA|last23= Tobin|first23= Martin D|last24= Cardon|first24= Lon R|last25= Clayton|first25= David G|last26= Attwood|first26= Antony P|last27= Boorman|first27= James P|last28= Cant|first28= Barbara|last29= Everson|first29= Ursula|last30= Hussey|first30= Judith M| pmc = 2680141 
+ |display-authors= 8}}
+*{{cite journal
+|last=Dixon
+|first=Anna L
+ |author2=Liang Liming |author3=Moffatt Miriam F |author4=Chen Wei |author5=Heath Simon |author6=Wong Kenny C C |author7=Taylor Jenny |author8=Burnett Edward |author9=Gut Ivo |author10=Farrall Martin |author11=Lathrop G Mark |author12=Abecasis Gonçalo R |author13=Cookson William O C
+|date=October 2007
+|title=A genome-wide association study of global gene expression
+|journal=[[Nat. Genet.]]
+|volume=39
+|issue=10
+|pages=1202–7
+| pmid = 17873877
+|doi = 10.1038/ng2109
+ |s2cid=13182548
+ }}
+*{{cite journal
+|last=Menzel
+|first=Stephan
+ |author2=Garner Chad |author3=Gut Ivo |author4=Matsuda Fumihiko |author5=Yamaguchi Masao |author6=Heath Simon |author7=Foglio Mario |author8=Zelenika Diana |author9=Boland Anne |author10=Rooks Helen |author11=Best Steve |author12=Spector Tim D |author13=Farrall Martin |author14=Lathrop Mark |author15=Thein Swee Lay
+|date=October 2007
+|title=A QTL influencing F cell production maps to a gene encoding a zinc-finger protein on chromosome 2p15
+|journal=[[Nat. Genet.]]
+|volume=39
+|issue=10
+|pages=1197–9
+| pmid = 17767159
+|doi = 10.1038/ng2108
+ |s2cid=19615925
+ }}
+*{{cite journal
+|last=Fischer
+|first=Judith
+|author2=Lefèvre Caroline |author3=Morava Eva |author4=Mussini Jean-Marie |author5=Laforêt Pascal |author6=Negre-Salvayre Anne |author7=Lathrop Mark |author8=Salvayre Robert
+|date=January 2007
+|title=The gene encoding adipose triglyceride lipase (PNPLA2) is mutated in neutral lipid storage disease with myopathy
+|journal=[[Nat. Genet.]]
+|volume=39
+|issue=1
+|pages=28–30
+| issn = 1061-4036| pmid = 17187067
+|doi = 10.1038/ng1951
+ |s2cid=23679419
+}}
+*{{cite journal
+|last=Delmaghani
+|first=Sedigheh
+ |author2=del Castillo Francisco J |author3=Michel Vincent |author4=Leibovici Michel |author5=Aghaie Asadollah |author6=Ron Uri |author7=Van Laer Lut |author8=Ben-Tal Nir |author9=Van Camp Guy |author10=Weil Dominique |author11=Langa Francina |author12=Lathrop Mark |author13=Avan Paul |author14=Petit Christine
+|date=July 2006
+|title=Mutations in the gene encoding pejvakin, a newly identified protein of the afferent auditory pathway, cause DFNB59 auditory neuropathy
+|journal=[[Nat. Genet.]]
+|volume=38
+|issue=7
+|pages=770–8
+| issn = 1061-4036| pmid = 16804542
+|doi = 10.1038/ng1829
+ |s2cid=2443891
+ }}
+*{{cite journal
+|last1=Sakuntabhai
+|first1=Anavaj
+|authorlink=Julier Cécile
+|date=May 2005
+|title=A variant in the CD209 promoter is associated with severity of dengue disease
+|journal=[[Nat. Genet.]]
+|volume=37
+|issue=5
+|pages=507–13
+| issn = 1061-4036| pmid = 15838506
+|doi = 10.1038/ng1550
+| last2 = Turbpaiboon
+| first2 = C
+| last3 = Casadémont
+| first3 = I
+| last4 = Chuansumrit
+| first4 = A
+| last5 = Lowhnoo
+| first5 = T
+| last6 = Kajaste-Rudnitski
+| first6 = A
+| last7 = Kalayanarooj
+| first7 = SM
+| last8 = Tangnararatchakit
+| first8 = K
+| last9 = Tangthawornchaikul
+| first9 = N 
+ |last10=Vasanawathana
+|first10=Sirijit
+|last11=Chaiyaratana
+|first11=Wathanee
+|last12=Yenchitsomanus
+|first12=Pa-Thai
+|last13=Suriyaphol
+|first13=Prapat
+|last14=Avirutnan
+|first14=Panisadee
+|last15=Chokephaibulkit
+|first15=Kulkanya
+|last16=Matsuda
+|first16=Fumihiko
+|last17=Yoksan
+|first17=Sutee
+|last18=Jacob
+|first18=Yves
+|last19=Lathrop
+|first19=G Mark
+|last20=Malasit
+|first20=Prida
+|last21=Desprès
+|first21=Philippe
+|last22=Julier
+|first22=Cécile
+|display-authors=8
+|pmc=7096904
+}}
+*{{cite journal
+|last1=Auwerx
+|first1=Johan
+|date=September 2004
+|title=The European dimension for the mouse genome mutagenesis program
+|journal=[[Nat. Genet.]]
+|volume=36
+|issue=9
+|pages=925–7
+| issn = 1061-4036| pmid = 15340424
+|doi = 10.1038/ng0904-925
+| last2 = Avner
+| first2 = P
+| last3 = Baldock
+| first3 = R
+| last4 = Ballabio
+| first4 = A
+| last5 = Balling
+| first5 = R
+| last6 = Barbacid
+| first6 = M
+| last7 = Berns
+| first7 = A
+| last8 = Bradley
+| first8 = A
+| last9 = Brown
+| first9 = S
+|last10=Carmeliet
+|first10=Peter
+|last11=Chambon
+|first11=Pierre
+|last12=Cox
+|first12=Roger
+|last13=Davidson
+|first13=Duncan
+|last14=Davies
+|first14=Kay
+|last15=Duboule
+|first15=Denis
+|last16=Forejt
+|first16=Jiri
+|last17=Granucci
+|first17=Francesca
+|last18=Hastie
+|first18=Nick
+|last19=De Angelis
+|first19=Martin Hrabé
+|last20=Jackson
+|first20=Ian
+|last21=Kioussis
+|first21=Dimitris
+|last22=Kollias
+|first22=George
+|last23=Lathrop
+|first23=Mark
+|last24=Lendahl
+|first24=Urban
+|last25=Malumbres
+|first25=Marcos
+|last26=von Melchner
+|first26=Harald
+|last27=Müller
+|first27=Werner
+|last28=Partanen
+|first28=Juha
+|last29=Ricciardi-Castagnoli
+|first29=Paola
+|last30=Rigby
+|first30=Peter
+| pmc = 2716028 
+ |display-authors=8
+}}
+*{{cite journal
+|last=Gut
+|first=Ivo G
+|author2=Lathrop G Mark
+ |date=August 2004
+|title=Duplicating SNPs
+|journal=[[Nat. Genet.]]
+|volume=36
+|issue=8
+|pages=789–90
+| issn = 1061-4036| pmid = 15284844
+|doi = 10.1038/ng0804-789
+ |s2cid=20840537
+}}
+*{{cite journal
+|last=Allen
+|first=Maxine
+ |author2=Heinzmann Andrea |author3=Noguchi Emiko |author4=Abecasis Gonçalo |author5=Broxholme John |author6=Ponting Chris P |author7=Bhattacharyya Sumit |author8=Tinsley Jon |author9=Zhang Youming |author10=Holt Richard |author11=Jones E Yvonne |author12=Lench Nick |author13=Carey Alisoun |author14=Jones Helene |author15=Dickens Nicholas J |author16=Dimon Claire |author17=Nicholls Rosie |author18=Baker Crystal |author19=Xue Luzheng |author20=Townsend Elizabeth |author21=Kabesch Michael |author22=Weiland Stephan K |author23=Carr David |author24=von Mutius Erika |author25=Adcock Ian M |author26=Barnes Peter J |author27=Lathrop G Mark |author28=Edwards Mark |author29=Moffatt Miriam F |author30=Cookson William O C M
+|date=November 2003
+|title=Positional cloning of a novel gene influencing asthma from chromosome 2q14
+|journal=[[Nat. Genet.]]
+|volume=35
+|issue=3
+|pages=258–63
+| issn = 1061-4036| pmid = 14566338
+|doi = 10.1038/ng1256
+ |s2cid=40595323
+ }}
+*{{cite journal
+|last=Caulfield
+|first=Mark
+ |author2=Munroe Patricia |author3=Pembroke Janine |author4=Samani Nilesh |author5=Dominiczak Anna |author6=Brown Morris |author7=Benjamin Nigel |author8=Webster John |author9=Ratcliffe Peter |author10=O'Shea Suzanne |author11=Papp Jeanette |author12=Taylor Elizabeth |author13=Dobson Richard |author14=Knight Joanne |author15=Newhouse Stephen |author16=Hooper Joel |author17=Lee Wai |author18=Brain Nick |author19=Clayton David |author20=Lathrop G Mark |author21=Farrall Martin |author22=Connell John  
+|date=June 2003
+|title=Genome-wide mapping of human loci for essential hypertension
+|journal=[[The Lancet|Lancet]]
+|volume=361
+|issue=9375
+|pages=2118–23
+| pmid = 12826435
+|doi = 10.1016/S0140-6736(03)13722-1
+ |s2cid=6625775
+ }}
+
+==References==
+<references>
+
+<ref name=McGill-homepage>{{cite web|accessdate=8 November 2025
+|url=https://genomic.medicine.mcgill.ca/investigator/mark-lathrop|title=Mark Lathrop, Professor, Department of Human Genetics|publisher=Institute of Genomic Medicine, McGill University}}
+</ref>
+<ref name=histrecmed-bio>{{cite web|accessdate=8 November 2025|url=https://www.histrecmed.fr/images/Lathrop-Mark.pdf|title=Biographical Sketch of Mark Lathrop|website=histrecmed.fr}}
+</ref>
+<ref name=QLS-bio>{{cite web|accessdate=8 November 2025
+|url=https://www.mcgill.ca/qls/researchers/mark-lathrop
+|title=Professor Mark Lathrop
+|publisher=Quantitative Life Sciences, McGill University}}
+</ref>
+<ref name=WhG-hx>{{cite web|accessdate=8 November 2025 
+|url=https://www.chg.ox.ac.uk/about-us/history
+|title=History of the WHG|publisher=Centre for Human Genetics, Nuffield Department of Medicine, Oxford University}}
+</ref>
+
+</references>
+
+
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lathrop, Mark}}
+[[Category:Biostatisticians]]
+[[Category:21st-century Canadian mathematicians]]
+[[Category:Living people]]
+[[Category:1950 births]]
+[[Category:Academic staff of McGill University]]
+[[Category:People associated with the University of Oxford]]
+[[Category:Canadian geneticists]]
+[[Category:21st-century Canadian biologists]]
+[[Category:21st-century statisticians]]

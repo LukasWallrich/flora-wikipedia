@@ -1,0 +1,108 @@
+{{Short description|none}}
+[[File:11th_IUPAP_General_Conference_1963.jpg | thumb | right | 11th IUPAP General Conference Warsaw 18-23 September 1963 From right to left: prof. Sosnowski, prof. Natanson, prof. Rubinowicz]]
+ <!-- "none" is preferred when the title is sufficiently descriptive; see [[WP:SDNONE]] -->
+{{Year topic navigation|1963|science}}
+{{Science year nav|1963}}
+
+The year '''1963 in [[science]]''' and [[technology]] involved some significant events, listed below.
+
+==Astronomy, astrophysics and space exploration==
+* January 1 – Long-period [[comet]] [[C/1963 A1 (Ikeya)]] is discovered by a Japanese amateur.
+* January 4 – Soviet [[Luna E-6 No.2|Luna]] reaches Earth orbit but fails to reach the Moon.
+* May 15 – [[Mercury program]]: [[NASA]] launches the last mission of the program [[Mercury 9]]. (On June 12 NASA Administrator [[James E. Webb]] tells Congress the program is complete.)
+* July 26 – [[Roy Kerr]] submits for publication his discovery of the [[Kerr metric]], an [[Exact solutions in general relativity|exact solution]] to the [[Einstein field equation]] of [[general relativity]], predicting a [[rotating black hole]].<ref>{{cite journal|last=Kerr|first=R. P.|title=Gravitational field of a spinning mass as an example of algebraically special metrics|journal=[[Physical Review Letters]]|year=1963|volume=11|issue=5|pages=237–238|doi=10.1103/PhysRevLett.11.237|bibcode=1963PhRvL..11..237K}}</ref>
+* October 18 – Aboard the French [[Véronique (rocket)|Véronique]] AGI 47 [[sounding rocket]], a [[bicolor cat]] designated C 341, later known as [[Félicette]], becomes the first cat in space.
+* November 1 – The [[Arecibo Observatory]], with the world's largest single-dish [[radio telescope]], officially opens in [[Arecibo, Puerto Rico]].
+* First definite identification of a radio source, [[3C 48]], with an optical object, later identified as a [[quasar]], is published by [[Allan Sandage]] and [[Thomas A. Matthews]];<ref>{{cite journal|last1=Matthews|first1=Thomas A.|author-link=Thomas A. Matthews|last2=Sandage|first2=Allan R.|author2-link=Allan Sandage|title=Optical Identification of 3c 48, 3c 196, and 3c 286 with Stellar Objects|date=1963|journal=[[The Astrophysical Journal]]|volume=138|pages=30–56|bibcode=1963ApJ...138...30M|doi=10.1086/147615|doi-access=free}}</ref> also [[Maarten Schmidt]] publishes significant observations on [[3C 273]].<ref>{{cite journal|last=Schmidt|first=Maarten|title=3C 273: a star-like object with large red-shift|journal=[[Nature (journal)|Nature]]|year=1963|volume=197|issue=4872|page=1040|bibcode=1963Natur.197.1040S|doi=10.1038/1971040a0|doi-access=free}}</ref>
+
+==Biology==
+* Geneticist [[J. B. S. Haldane]] coins the word "[[Clone (genetics)|clone]]".
+* [[Molecular biologist]] [[Emile Zuckerkandl]] and [[Physical chemistry|physical chemist]] [[Linus Pauling]] introduce the term ''[[paleogenetics]]''.<ref>{{cite journal|last1=Pauling|first1=L.|last2=Zuckerkandl|first2=E.|year=1963|title=Chemical paleogenetics: molecular restoration studies of extinct forms of life|journal=Acta Chemica Scandinavica|volume=17|page=89|doi=10.3891/acta.chem.scand.17s-0009 |doi-access=free}}</ref>
+* [[Konrad Lorenz]] publishes ''[[On Aggression]]'' (''Das sogenannte Böse: Zur Naturgeschichte der Aggression'').
+* [[Nikolaas Tinbergen|Niko Tinbergen]] poses his [[Tinbergen's four questions|four questions]] to be asked of any animal behavior.<ref>{{cite journal|last=Tinbergen|first=Niko|year=1963|title=On Aims and Methods in Ethology|journal=Zeitschrift für Tierpsychologie|volume=20|issue=4|pages=410–433|url=http://www.esf.edu/EFB/faculty/documents/Tinbergen1963onethology.pdf|doi=10.1111/j.1439-0310.1963.tb01161.x|access-date=2011-03-17|archive-date=2011-06-09|archive-url=https://web.archive.org/web/20110609122714/http://www.esf.edu/EFB/faculty/documents/Tinbergen1963onethology.pdf|url-status=dead}}</ref>
+* [[Sydney Brenner]] proposes the use of ''[[Caenorhabditis elegans]]'' as a [[model organism]] for the investigation primarily of neural development in animals.
+
+==Cartography==
+* [[Robinson projection]] devised by [[Arthur H. Robinson]].<ref>{{cite book|title=Flattening the Earth: Two Thousand Years of Map Projections|first=John P.|last=Snyder|year=1993|publisher=University of Chicago Press|isbn=978-0-226-76747-5}}</ref>
+
+==Computing==
+* [[Ivan Sutherland]] writes the revolutionary [[Sketchpad]] program and runs it on the [[Lincoln TX-2]] computer at [[Massachusetts Institute of Technology]].
+
+==Earth sciences==
+* September 7 – British geophysicists [[Fred Vine]] and [[Drummond Matthews]] publish proof of [[seafloor spreading]] on the Atlantic Ocean floor.<ref>{{cite book|title=The Hutchinson Factfinder|publisher=Helicon|year=1999|isbn=978-1-85986-000-7}}</ref><ref>{{cite journal|doi=10.1038/199947a0|last1=Vine|first1=F. J.|last2=Matthews|first2=D. H.|year=1963|title=Magnetic Anomalies Over Oceanic Ridges |journal=[[Nature (journal)|Nature]]|volume=199|pages=947–949|issue=4897|bibcode=1963Natur.199..947V|s2cid=4296143}}</ref>
+* November 14 – The [[Iceland]]ic [[Volcano|volcanic]] island of [[Surtsey]] appears above sea level.
+
+==History of science and technology==
+* April 1 – Industrial Monuments Survey for the [[Ministry of Works (United Kingdom)|Ministry of Public Building and Works (Great Britain)]] commenced by [[Rex Wailes]].
+* [[Kenneth Hudson]]'s ''Industrial Archaeology: an introduction'' published in London.
+* [[Derek J. de Solla Price]]'s ''[[Little Science, Big Science]]'' published in New York.
+
+==Mathematics==
+* [[Paul Cohen]] uses [[Forcing (mathematics)|forcing]] to prove that the [[continuum hypothesis]] and the [[axiom of choice]]  are [[Independence (mathematical logic)|independent]] from [[Zermelo–Fraenkel set theory]].
+* [[Walter Feit]] and [[John G. Thompson]] state the [[Feit–Thompson theorem]].<ref>{{cite journal|last1=Feit|first1=Walter|last2=Thompson|first2=John G.|title=Solvability of groups of odd order|url=http://projecteuclid.org/Dienst/UI/1.0/Journal?authority=euclid.pjm&issue=1103053941|mr=0166261|year=1963|journal=[[Pacific Journal of Mathematics]]|volume=13|issue=3|pages=775–1029|doi=10.2140/pjm.1963.13.775|doi-access=free}}</ref>
+* [[Edward Lorenz]] publishes his discovery of the '[[butterfly effect]]', significant in the development of [[chaos theory]].<ref>{{cite journal|last=Lorenz|first=Edward N.|title=Deterministic Nonperiodic Flow|journal=[[Journal of the Atmospheric Sciences]]|date=March 1963|volume=20|issue=2|pages=130–141|doi=10.1175/1520-0469(1963)020<0130:DNF>2.0.CO;2|bibcode=1963JAtS...20..130L|doi-access=free}}</ref>
+* [[Atiyah–Singer index theorem]] announced by [[Michael Atiyah]] and [[Isadore Singer]].<ref>{{cite journal|last1=Atiyah|first1=Michael F.|last2=Singer|first2=Isadore M.|title=The Index of Elliptic Operators on Compact Manifolds|journal=[[Bulletin of the American Mathematical Society]]|volume= 69|pages=422–433|year=1963|doi=10.1090/S0002-9904-1963-10957-X|issue=3|doi-access=free}}</ref>
+
+==Medicine==
+* June – Guy Alexandre performs the first [[kidney transplantation]] from a heart-beating, brain-dead donor, at Saint Pierre Hospital, [[Leuven]], Belgium.<ref name=transplant/>
+* [[Thomas Starzl]] performs the first [[liver transplantation]], at the [[University of Colorado Health Sciences Center]].<ref name=transplant>{{cite journal|first=Calixto|last=Machado|title=The first organ transplant from a brain-dead donor|journal=[[Neurology (journal)|Neurology]]|year=2005|volume=64|pages=1938–42|issue=11|doi=10.1212/01.wnl.0000163515.09793.cb|pmid=15955947|s2cid=219219246}}</ref>
+* James D. Hardy performs the first [[lung transplantation]].<ref name=transplant/>
+* [[Measles vaccine]]s are introduced commercially.<ref>{{cite web|last=Webb|first=Nicholas|title=HSL Research Guides: Ernst Ludwig Wynder Autograph Collection: John Enders, Ph.D.|url=https://guides.library.nymc.edu/c.php?g=117959&p=767676|website=guides.library.nymc.edu|publisher=New York Medical College Health Sciences Library|access-date=2021-02-13|quote=In 1963, Pfizer introduced a deactivated measles vaccine, and Merck & Co introduced an attenuated measles vaccine.}}</ref>
+* American endocrinologist [[Grant Liddle]] identifies [[Liddle's syndrome]].<ref>{{cite journal|title=Grant W. Liddle|journal=Transactions of the American Clinical and Climatological Association|year=1993|last=Christy|first=Nicholas P.|volume=104|pages=xliii–xlv|pmc=2376630|pmid=1343432}}</ref>
+* French pediatrician [[Jérôme Lejeune]] first describes [[cri du chat syndrome]].<ref>{{cite journal|author=Lejeune, J.|title=3 Cases of partial deletion of the short arm of chromosome 5|language=fr|journal=Comptes rendus hebdomadaires des séances de l'Académie des Sciences|volume=257|pages=3098–102|year=1963|pmid=14095841|display-authors=etal}}</ref>
+* [[Pentasomy X]] is first diagnosed.
+
+==Paleontology==
+* The type species of the early [[dinosaur]] ''[[Herrerasaurus]]'', ''Herrerasaurus ischigualastensis'' from the north of [[Argentina]], is described by [[Osvaldo Reig]].<ref>{{cite journal|last=Reig|first=O. A.|year=1963|title=La presencia de dinosaurios saurisquios en los "Estratos de Ischigualasto" (Mesotriásico Superior) de las provincias de San Juan y La Rioja (República Argentina)|journal=[[Ameghiniana]]|volume=3|issue=1|pages=3–20|language=Spanish}}</ref>
+
+==Physics==
+* [[David H. Frisch]] and [[James H. Smith (physicist)|J. H. Smith]] prove [[radioactive decay]] of [[meson]]s is slowed by their motion.<ref>''[[American Journal of Physics]]'' '''31''': 342-355.</ref> (''See'' [[Albert Einstein|Einstein]]'s [[special relativity]] ''and'' [[general relativity]].)
+
+==Psychology==
+* [[Stanley Milgram]] publishes the results of his [[Milgram experiment|shock experiment on obedience to authority figures]].<ref>{{cite journal|title=Behavioral Study of Obedience|journal=Journal of Abnormal and Social Psychology|volume=67|pages=371–378|pmid=14049516|url=http://content.apa.org/journals/abn/67/4/371|doi=10.1037/h0040525|issue=4|date=October 1963|last1=Milgram|first1=S|citeseerx=10.1.1.599.92}}</ref>
+* The term "[[contrafreeloading]]" was coined.
+
+==Technology==
+* [[Lava lamp]] invented by [[Edward Craven Walker]].<ref>{{cite web |title=Edward Craven Walker {{!}} British inventor |url=https://www.britannica.com/biography/Edward-Craven-Walker |website=Encyclopædia Britannica |accessdate=11 March 2019 |language=en}}</ref>
+* [[Mellotron]] Mark I [[electro-mechanical]], [[polyphony (instrument)|polyphonic]] [[tape replay keyboard]], developed and built in [[Aston]], [[Birmingham]], England, is marketed.
+* [[Don Buchla]] begins to design an electronic music [[synthesizer]] in [[Berkeley, California]].
+
+==Events==
+* November 23 – First episode of [[Science fiction on television|science fiction television]] series ''[[Doctor Who]]'' broadcast by the [[BBC]] in the United Kingdom.<ref>{{cite book|title=Penguin Pocket On This Day|publisher=Penguin Reference Library|isbn=978-0-14-102715-9|year=2006}}</ref><ref>{{cite book|title=The Handbook: The First Doctor&nbsp;— The William Hartnell Years 1963–1966|first1=David J.|last1=Howe|first2=Mark|last2=Stammers|authorlink3=Stephen James Walker|first3=Stephen James|last3=Walker|publisher=[[Virgin Books]]|location=London|year=1994|isbn=978-0-426-20430-5|page=54}}</ref><ref>{{cite web|url=https://www.bbc.co.uk/doctorwho/classic/episodeguide/unearthlychild/detail.shtml|title=An Unearthly Child|work=Doctor Who: The Classic Series|publisher=BBC|date=1995–2003|accessdate=2012-06-08}}</ref>
+
+==Awards==
+* [[Nobel Prize]]s
+** [[Nobel Prize in Physics|Physics]] – [[Eugene Paul Wigner]], [[Maria Goeppert-Mayer]], [[J. Hans D. Jensen]]
+** [[Nobel Prize in Chemistry|Chemistry]] – [[Karl Ziegler]], [[Giulio Natta]]
+** [[Nobel Prize in Physiology or Medicine|Medicine]] – [[Sir John Carew Eccles]], [[Alan Lloyd Hodgkin]], [[Andrew Fielding Huxley]]
+
+==Births==
+* January 4 – [[May-Britt Moser]], [[Norwegians|Norwegian]] [[neuroscientist]], winner of the [[Nobel Prize in Physiology or Medicine]].<ref>{{cite web |title=The Nobel Prize in Physiology or Medicine 2014 |url=https://www.nobelprize.org/prizes/medicine/2014/may-britt-moser/facts/ |website=NobelPrize.org |accessdate=11 March 2019}}</ref>
+* February 9 – [[Brian Greene]], American [[theoretical physicist]].
+* February 10 – [[Vivian Wing-Wah Yam]], Hong Kong [[chemist]] working on [[OLED]]s
+* March – [[Jin Li]], Chinese [[geneticist]].
+* August 14  – [[Saiful Islam (professor)|Saiful Islam]], Pakistani-born materials chemist.
+* August 30 – [[Magdalena Zernicka-Goetz]], Polish-born [[developmental biologist]].
+* [[W. Tecumseh Fitch]], American-born [[evolutionary biologist]].
+* [[Daniel Jackson (computer scientist)|Daniel Jackson]], English-born American [[computer scientist]].
+
+==Deaths==
+* January 28 – [[Jean Piccard]] (born [[1884 in science|1884]]), [[Switzerland|Swiss]]-born American [[chemist]] and explorer.
+* February 5 – [[Barnum Brown]] (born [[1873 in science|1873]]), American [[paleontologist]].
+* April 6 – [[Otto Struve]] (born [[1897 in science|1897]]), Russian [[astronomer]].
+* May 11 – [[Herbert Spencer Gasser]] (born [[1888 in science|1888]]), American physiologist, winner of the Nobel Prize in Physiology or Medicine.
+* May 19 – [[Walter Russell]] (born [[1871 in science|1871]]), American [[polymath]].
+* June 16 – [[Eleanor Williams]] (born 1884), Australian [[bacteriologist]] and [[serologist]].
+* August 30 – [[Marietta Pallis]] (born [[1882 in science|1882]]), British [[ecologist]].
+* October 13 – [[Alan Arnold Griffith|Alan A. Griffith]] (born [[1893 in science|1893]]), English [[Stress (physics)|stress]] engineer.
+* October 2 – [[Olga Lepeshinskaya (biologist)|Olga Lepeshinskaya]] (born [[1871 in science|1871]]), [[Soviet Union|Soviet]] [[Lysenkoism|Lysenkoist]] [[biologist]].
+* October 25 – [[Karl von Terzaghi]] (born [[1883 in science|1883]]), Austrian "father of [[soil mechanics]]".
+* November 13 – [[Margaret Murray]] (born [[1863 in science|1863]]), Indian-English anthropologist and author.<ref>{{cite book|first=Kathleen L.|last=Sheppard|title=The Life of Margaret Alice Murray: A Woman's Work in Archaeology|location=Lanham|publisher=Lexington|year=2013|isbn=978-0-73917-417-3|page=223}}</ref>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:1963 In Science}}
+[[Category:1963 in science| ]]
+[[Category:20th century in science]]
+[[Category:1960s in science]]

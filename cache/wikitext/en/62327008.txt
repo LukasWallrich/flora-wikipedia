@@ -1,0 +1,96 @@
+{{short description|Canadian social psychologist}}
+{{Infobox academic
+| honorific_prefix   =
+| name               = Lara Aknin
+| image              = File:Lara Aknin.jpg
+| image_size         = 
+| alt                = 
+| caption            =Lara Aknin in 2014
+| birth_name         =  
+| birth_date         = 
+| birth_place        =
+| death_date         = 
+| death_place        = 
+| death_cause        = 
+| region             = 
+| nationality        =
+| citizenship        = 
+| residence          = 
+| other_names        = 
+| occupation         = 
+| period             = 
+| known_for          = 
+| home_town          = 
+| title              = 
+| spouse             =  
+| partner            = 
+| children           = 
+| parents            =
+| relatives          =
+| awards             = 
+| website            =
+| education          = BA., MA., PhD, [[University of British Columbia]]
+| alma_mater         = <!--will often consist of the linked name of the last-attended higher education institution-->
+| thesis_title       =	From wealth to well-being: spending money on others promotes happiness.
+| thesis_year        = 2008
+| school_tradition   = 
+| doctoral_advisor   = 
+| academic_advisors  = 
+| influences         = <!--must be referenced from a third party source-->
+| era                = 
+| discipline         =
+| sub_discipline     = 
+| workplaces         = [[Simon Fraser University]]
+| doctoral_students  = <!--only those with WP articles-->
+| notable_students   = <!--only those with WP articles-->
+| main_interests     = 
+| notable_works      = 
+| notable_ideas      = 
+| influenced         = <!--must be referenced from a third party source-->
+| signature          = 
+| signature_alt      = 
+| signature_size     = 
+| footnotes          = 
+}}
+'''Lara Beth Aknin''' is a Canadian professor of social psychology at [[Simon Fraser University]], and associate editor of the [[World Happiness Report]].<ref>{{cite web |date=March 19, 2021 |title=Report assesses impact of COVID-19 on global happiness |url=http://www.sfu.ca/sfunews/stories/2021/03/report-assesses-impact-of-covid-19-on-global-happiness.html |access-date=March 19, 2021 |website=sfu.ca}}</ref>
+
+==Career==
+After earning her PhD in social psychology from the [[University of British Columbia]], Aknin joined the faculty of psychology at [[Simon Fraser University]] in 2012.<ref name = "x">{{cite web |title=Generous spending leads to increased happiness, concludes SFU psychologist Lara Aknin in World Happiness Report |url=https://www.sfu.ca/fass/news/2019/03/generous-spending-increased-happiness-lara-aknin.html |website=sfu.ca |access-date=November 12, 2019 |date=March 29, 2019}}</ref> That year, she published "''Giving Leads to Happiness in Young Children''" with J. Kiley Hamlin and Elizabeth Dunn, which supported the idea that humans may have evolved to find giving rewarding.<ref>{{cite web |last1=Enayati |first1=Amanda |title=For kids, it's better to give than receive |url=https://www.cnn.com/2012/09/17/living/giving-makes-children-happy/index.html |website=cnn.ca |access-date=November 12, 2019 |date=September 17, 2012}}</ref>
+
+In 2014, Aknin, [[Michael Norton (professor)|Michael Norton]] and [[Elizabeth Dunn]] co-published a [[Social Sciences and Humanities Research Council]] (SSHRC) and CIHR funded review of whether spending money had a positive effect on people's happiness. Her research has shown that people often experience greater happiness when they spend money on others, rather then themselves. <ref>{{cite web |title=Looking to increase your sense of abundance? Research by Dr. Lara Aknin has established that giving to others can increase feelings of well-being |url=https://www.sfu.ca/vpresearch/Research50/abundance.html |website=sfu.ca |access-date=November 12, 2019 }}{{Dead link|date=July 2025 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> The following year, her contributions to the field of social psychology earned her the President's New Researcher Award from the [[Canadian Psychological Association]]<ref>{{cite web |title=2014–2015 Annual Performance Report |url=https://www.cifar.ca/docs/default-source/accountability/capr-2014-2015-final-english.pdf?sfvrsn=a557929d_2 |website=cifar.ca |access-date=November 12, 2019 |page=72 |archive-date=July 2, 2020 |archive-url=https://web.archive.org/web/20200702112917/https://www.cifar.ca/docs/default-source/accountability/capr-2014-2015-final-english.pdf?sfvrsn=a557929d_2 }}</ref> and a fellowship at the [[Canadian Institute for Advanced Research]].<ref name = "x"/> By 2019, she received a SSHRC grant for her project, "Can Repeated and Reflective Giving Nurture Canada's Next Generation of Philanthropists?"<ref>{{cite web |title=Lara Aknin awarded SSHRC Partnership Engage grant for nurturing the next generation of philanthropists |url=https://www.sfu.ca/psychology/news/LaraAkninAwardedSSHRCGrant.html |website=sfu.ca |access-date=November 12, 2019 |date=October 15, 2019 |archive-date=February 19, 2020 |archive-url=https://web.archive.org/web/20200219211357/http://www.sfu.ca/psychology/news/LaraAkninAwardedSSHRCGrant.html }}</ref> She was also honoured by the university for her research and contributions to social Psychology with the title "Distinguished SFU Professor."<ref>{{cite web |title=Simon Fraser University honours our inaugural Distinguished SFU Professors |url=https://www.sfu.ca/sfunews/stories/2019/09/simon-fraser-university-honours-our-inaugural-distinguished-sfu-.html |website=sfu.ca |access-date=November 12, 2019 |date=September 19, 2019}}</ref>
+
+During the [[COVID-19 pandemic]], she served as chair of the [[Mental Health and Wellbeing Task Force of the Lancet COVID-19 Commission]].<ref>{{cite journal |title=Lancet COVID-19 Commission Statement on the occasion of the 75th session of the UN General Assembly |journal=The Lancet |date=September 14, 2020 |volume=396 |issue=10257 |url=https://www.thelancet.com/article/S0140-6736(20)31927-9/fulltext |access-date=March 19, 2021}}</ref> 
+
+==Publications==
+{{Scholia|Q74770207}}
+
+* {{cite journal |last1=Dunn |first1=Elizabeth W. |last2=Aknin |first2=Lara B. |last3=Norton |first3=Michael I. |title=Spending Money on Others Promotes Happiness |journal=Science |date=21 March 2008 |volume=319 |issue=5870 |pages=1687–1688 |doi=10.1126/science.1150952 |pmid=18356530 |bibcode=2008Sci...319.1687D |s2cid=29589887 |url=https://www.science.org/doi/abs/10.1126/science.1150952 |language=EN|url-access=subscription }}
+* {{cite journal |last1=Aknin |first1=Lara B. |last2=Barrington-Leigh |first2=Christopher P. |last3=Dunn |first3=Elizabeth W. |last4=Helliwell |first4=John F. |author-link4=John F. Helliwell |last5=Burns |first5=Justine |author-link5=Justine Burns |last6=Biswas-Diener |first6=Robert |author-link6=Robert Biswas-Diener |last7=Kemeza |first7=Imelda |last8=Nyende |first8=Paul |last9=Ashton-James |first9=Claire E. |last10=Norton |first10=Michael I. |title=Prosocial spending and well-being: Cross-cultural evidence for a psychological universal. |journal=Journal of Personality and Social Psychology |date=April 2013 |volume=104 |issue=4 |pages=635–652 |doi=10.1037/a0031578 |pmid=23421360 |s2cid=5403883 |url=https://psycnet.apa.org/doiLanding?doi=10.1037/a0031578 |language=en |issn=1939-1315|hdl=11370/24a6ab33-643b-47af-9e5b-4110f51a55bb |hdl-access=free }}
+* {{cite journal |last1=Aknin |first1=Lara B. |last2=Dunn |first2=Elizabeth W. |last3=Norton |first3=Michael I. |title=Happiness Runs in a Circular Motion: Evidence for a Positive Feedback Loop between Prosocial Spending and Happiness |journal=Journal of Happiness Studies |date=1 April 2012 |volume=13 |issue=2 |pages=347–355 |doi=10.1007/s10902-011-9267-5 |s2cid=32032719 |url=https://link.springer.com/article/10.1007/s10902-011-9267-5 |language=en |issn=1573-7780|url-access=subscription }}
+* {{cite journal |last1=Aknin |first1=Lara B. |last2=Hamlin |first2=J. Kiley |last3=Dunn |first3=Elizabeth W. |title=Giving Leads to Happiness in Young Children |journal=PLOS ONE |date=14 June 2012 |volume=7 |issue=6 |article-number=e39211 |doi=10.1371/journal.pone.0039211 |pmid=22720078 |pmc=3375233 |bibcode=2012PLoSO...739211A |language=en |issn=1932-6203|doi-access=free }}
+* {{cite journal |last1=Dunn |first1=Elizabeth W. |last2=Aknin |first2=Lara B. |last3=Norton |first3=Michael I. |title=Prosocial Spending and Happiness |journal=Current Directions in Psychological Science |date=February 2014 |volume=23 |issue=1 |pages=41–47 |doi=10.1177/0963721413512503 |url=https://journals.sagepub.com/doi/abs/10.1177/0963721413512503 |issn=0963-7214|url-access=subscription }}
+* {{cite journal |last1=Aknin |first1=Lara B. |last2=Norton |first2=Michael I. |last3=Dunn |first3=Elizabeth W. |title=From wealth to well-being? Money matters, but less than people think |journal=The Journal of Positive Psychology |date=1 November 2009 |volume=4 |issue=6 |pages=523–527 |doi=10.1080/17439760903271421 |s2cid=9911004 |url=https://www.tandfonline.com/doi/abs/10.1080/17439760903271421 |issn=1743-9760|url-access=subscription }}
+* {{cite journal |last1=Aknin |first1=Lara B. |last2=Dunn |first2=Elizabeth W. |last3=Whillans |first3=Ashley V. |last4=Grant |first4=Adam M. |last5=Norton |first5=Michael I. |title=Making a difference matters: Impact unlocks the emotional benefits of prosocial spending |journal=Journal of Economic Behavior & Organization |date=1 April 2013 |volume=88 |pages=90–95 |doi=10.1016/j.jebo.2013.01.008 |s2cid=55775819 |url=https://www.sciencedirect.com/science/article/pii/S0167268113000176 |language=en |issn=0167-2681|url-access=subscription }}
+* {{cite journal |last1=Anik |first1=Lalin |last2=Aknin |first2=Lara B. |last3=Norton |first3=Michael I. |last4=Dunn |first4=Elizabeth W. |title=Feeling Good About Giving: The Benefits (and Costs) of Self-Interested Charitable Behavior |date=6 August 2009 |url=https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1444831 |publisher=Social Science Research Network |ssrn=1444831 |language=en}}
+* {{cite journal |last1=Aknin |first1=Lara B. |last2=Broesch |first2=Tanya |last3=Hamlin |first3=J. Kiley |last4=Van de Vondervoort |first4=Julia W. |title=Prosocial behavior leads to happiness in a small-scale rural society. |journal=Journal of Experimental Psychology: General |date=August 2015 |volume=144 |issue=4 |pages=788–795 |doi=10.1037/xge0000082 |pmid=26030168 |url=https://psycnet.apa.org/getdoi.cfm?doi=10.1037/xge0000082 |language=en |issn=1939-2222|url-access=subscription }}
+* {{cite journal |last1=Aknin |first1=Lara B |last2=Van de Vondervoort |first2=Julia W |last3=Hamlin |first3=J Kiley |title=Positive feelings reward and promote prosocial behavior |journal=Current Opinion in Psychology |date=1 April 2018 |volume=20 |pages=55–59 |doi=10.1016/j.copsyc.2017.08.017 |pmid=28837957 |url=https://www.sciencedirect.com/science/article/pii/S2352250X17301124 |language=en |issn=2352-250X|url-access=subscription }}
+* {{cite journal |last1=Shariff |first1=Azim F. |last2=Wiwad |first2=Dylan |last3=Aknin |first3=Lara B. |title=Income Mobility Breeds Tolerance for Income Inequality |journal=Perspectives on Psychological Science |date=May 2016 |volume=11 |issue=3 |pages=373–380 |doi=10.1177/1745691616635596 |pmid=27217250 |s2cid=12557460 |url=https://journals.sagepub.com/doi/abs/10.1177/1745691616635596 |issn=1745-6916|url-access=subscription }}
+* {{cite journal |last1=Aknin |first1=Lara B. |last2=Sandstrom |first2=Gillian M. |last3=Dunn |first3=Elizabeth W. |last4=Norton |first4=Michael I. |title=It's the Recipient That Counts: Spending Money on Strong Social Ties Leads to Greater Happiness than Spending on Weak Social Ties |journal=PLOS ONE |date=10 February 2011 |volume=6 |issue=2 |article-number=e17018 |doi=10.1371/journal.pone.0017018 |pmid=21347326 |pmc=3037397 |bibcode=2011PLoSO...617018A |language=en |issn=1932-6203|doi-access=free }}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{google scholar id|6a21v6wAAAAJ}}
+
+{{Authority control}}
+{{DEFAULTSORT:Aknin, Lara}}
+[[Category:Living people]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Canadian social psychologists]]
+[[Category:Canadian women psychologists]] 
+[[Category:Canadian academic journal editors]]
+[[Category:Canadian women academics]]
+[[Category:Academic staff of Simon Fraser University]]
+[[Category:University of British Columbia Faculty of Arts alumni]]

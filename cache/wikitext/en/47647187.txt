@@ -1,0 +1,36 @@
+{{Short description|Experimental collaboration replicating 100 studies}}
+The '''Reproducibility Project''' is a series of crowdsourced collaborations aiming to reproduce published scientific studies, finding high rates of results which could not be replicated. It has resulted in two major initiatives focusing on the fields of [[psychology]]<ref>{{Cite web |last=Yong |first=Ed |date=2015-08-27 |title=How Reliable Are Psychology Studies? |url=https://www.theatlantic.com/science/archive/2015/08/psychology-studies-reliability-reproducability-nosek/402466/ |access-date=2023-11-07 |website=The Atlantic |language=en}}</ref> and [[cancer]] biology.<ref>{{Cite journal |last1=Nelson |first1=Bryn |last2=Wiles |first2=Austin |date=2022-09-15 |title=A troubling lack of replicability for cancer biology studies: After an ambitious project struggled to replicate high-profile studies, researchers are calling for a new focus on protocol and data sharing as essential steps for building confidence in the field |url=https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncy.22639 |journal=Cancer Cytopathology |language=en |volume=130 |issue=9 |pages=656–657 |doi=10.1002/cncy.22639 |pmid=36108146 |issn=1934-662X|url-access=subscription }}</ref> The project has brought attention to the [[replication crisis]], and has contributed to shifts in scientific culture and publishing practices to address it.<ref name=":0" />
+
+The project was led by the [[Center for Open Science]] and its co-founder, [[Brian Nosek]], who started the project in November 2011.<ref name="Wired2017" />
+
+== Results ==
+Brian Nosek of [[University of Virginia]] and colleagues sought out to replicate 100 different studies, all published in 2008.<ref>{{cite web|last1=Weir|first1=Kristen|title=A reproducibility crisis?|url=http://www.apa.org/monitor/2015/10/share-reproducibility.aspx|website=American Psychological Association|access-date=24 November 2016}}</ref> The project pulled these studies from three different journals'', [[Psychological Science]]'', the ''[[Journal of Personality and Social Psychology]]'', and the ''[[Journal of Experimental Psychology: Learning, Memory, and Cognition]]'',  published in 2008 to see if they could get the same results as the initial findings.  97 of the original studies had significant effects, but of those 97, only 36% of the replications yielded significant findings (''p'' value below 0.05),<ref name="RP:Psychology">{{cite journal | author = Open Science Collaboration | title = PSYCHOLOGY. Estimating the reproducibility of psychological science | journal = Science | volume = 349 | issue = 6251 | article-number = aac4716 | date = August 2015 | pmid = 26315443 | doi = 10.1126/science.aac4716 | hdl-access = free | s2cid = 218065162 | hdl = 10722/230596 | url = https://ink.library.smu.edu.sg/lkcsb_research/5257 }}</ref> and the effects were often smaller than those in the original papers. The authors emphasized that the findings reflect a problem that affects all of science and not just psychology, and that there is room to improve reproducibility in psychology.
+
+In 2021, the project showed that of 193 experiments from 53 top papers about cancer published between 2010 and 2012, only 50 experiments from 23 papers could be replicated. Moreover, it showed that the effect sizes of that fraction were 85% smaller on average than the original findings. None of the papers had its experimental [[open science|protocols fully described]] and 70% of experiments required asking for key reagents.<ref>{{cite news |title=Dozens of major cancer studies can't be replicated |url=https://www.sciencenews.org/article/cancer-biology-studies-research-replication-reproducibility |access-date=19 January 2022 |work=Science News |date=7 December 2021}}</ref><ref>{{cite web |title=Reproducibility Project: Cancer Biology |url=https://www.cos.io/rpcb |website=www.cos.io |publisher=[[Center for Open Science]] |access-date=19 January 2022 |language=en}}</ref>
+
+== Impact ==
+The project, along with broader action in response to the [[replication crisis]], has helped spur changes in scientific culture and publishing practices.<ref name=":0">{{Cite web |last=Loken |first=Eric |date=2019-04-08 |title=The replication crisis is good for science |url=http://theconversation.com/the-replication-crisis-is-good-for-science-103736 |access-date=2023-11-07 |website=The Conversation |language=en-US}}</ref><ref name="Wired2017">{{cite magazine |last1=Apple |first1=Sam |date=22 January 2017 |title=The Young Billionaire Behind the War on Bad Science |url=https://www.wired.com/2017/01/john-arnold-waging-war-on-bad-science/ |magazine=Wired}}</ref> The results of the Reproducibility Project might also affect public trust in psychology.<ref name="osf.io">{{Cite journal|last1=Wingen|first1=Tobias|last2=Berkessel|first2=Jana B.|last3=Englich|first3=Birte|date=2019-10-24|title=No Replication, No Trust? How Low Replicability Influences Trust in Psychology|journal=Social Psychological and Personality Science|volume=11|issue=4|language=en-US|pages=454–463|doi=10.1177/1948550619877412|s2cid=210383335|issn=1948-5506|url=http://osf.io/4ukq5/download|url-access=subscription}}</ref><ref>{{Cite journal|last1=Anvari|first1=Farid|last2=[[Daniel Lakens|Lakens]]|first2=Daniël|date=2019-11-19|title=The replicability crisis and public trust in psychological science|journal=Comprehensive Results in Social Psychology|volume=3|issue=3|pages=266–286|doi=10.1080/23743603.2019.1684822|issn=2374-3603|doi-access=free}}</ref> Lay people who learned about the low replication rate found in the Reproducibility Project subsequently reported a lower trust in psychology, compared to people who were told that a high number of the studies had replicated.<ref>{{Cite web|url=https://digest.bps.org.uk/2019/10/31/the-replication-crisis-lowers-the-publics-trust-in-psychology-but-can-that-trust-be-built-back-up/|title=The Replication Crisis Lowers The Public's Trust In Psychology — But Can That Trust Be Built Back Up?|date=2019-10-31|website=Research Digest|language=en|access-date=2019-11-30}}</ref><ref name="osf.io" />
+
+==See also==
+* [[Invalid science]]
+* [[John Ioannidis]]
+* [[Meta-analysis]]
+* [[Metascience]]
+* [[Proteus phenomenon]]
+* [[Publication bias]]
+* [[Replication crisis]]
+* [[Scientific method]]
+{{Portal bar|Philosophy|Science|Psychology}}
+
+==External links==
+*[https://osf.io/ezcuj/ Official website for the Reproducibility Project: Psychology]
+*[https://www.cos.io/rpcb Official website for the Reproducibility Project: Cancer Biology]
+
+==References==
+{{Reflist|30em}}
+{{Use dmy dates|date=October 2019}}
+
+[[Category:Validity (statistics)]]
+[[Category:Scientific method]]
+[[Category:Criticism of academia]]
+[[Category:Metascience]]

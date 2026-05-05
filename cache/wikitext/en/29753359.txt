@@ -1,0 +1,32 @@
+{{Short description|Asymmetric similarity measure on sets}}
+The '''Tversky index''', named after [[Amos Tversky]],<ref>{{cite journal |last=Tversky |first=Amos |title=Features of Similarity |journal=Psychological Review |volume=84 |number=4 |year=1977 |pages=327–352 |url=http://www.cogsci.ucsd.edu/~coulson/203/tversky-features.pdf |doi=10.1037/0033-295x.84.4.327}}</ref> is an asymmetric [[similarity measure]] on [[set theory|sets]] that compares a variant to a prototype. The Tversky index can be seen as a generalization of the [[Sørensen–Dice coefficient]] and the [[Jaccard index]].
+
+For sets ''X'' and ''Y'' the Tversky index is a number between 0 and 1 given by
+
+<math>S(X, Y) = \frac{| X \cap Y |}{| X \cap Y | + \alpha | X \setminus  Y | + \beta | Y \setminus  X |} </math>
+
+Here, <math>X \setminus Y</math> denotes the [[Complement (set theory)#Relative_complement|relative complement]] of Y in X.
+
+Further, <math>\alpha, \beta \ge 0 </math> are parameters of the Tversky index.  Setting <math>\alpha = \beta = 1 </math> produces the Jaccard index; setting <math>\alpha = \beta = 0.5 </math> produces the Sørensen–Dice coefficient.
+
+If we consider ''X'' to be the prototype and ''Y'' to be the variant, then <math>\alpha</math> corresponds to the weight of the prototype and <math>\beta</math> corresponds to the weight of the variant. Tversky measures with <math>\alpha + \beta = 1</math> are of special interest.<ref>{{Cite web|url=http://www.daylight.com/dayhtml/doc/theory/theory.finger.html|title = Daylight Theory: Fingerprints}}</ref>
+
+Because of the inherent asymmetry, the Tversky index does not meet the criteria for a similarity metric. However, if symmetry is needed a variant of the original formulation has been proposed using '''max''' and '''min''' functions<ref>Jimenez, S., Becerra, C., Gelbukh, A. [http://aclweb.org/anthology/S/S13/S13-1028.pdf SOFTCARDINALITY-CORE: Improving Text Overlap with Distributional Measures for Semantic Textual Similarity]. Second Joint Conference on Lexical and Computational Semantics (*SEM), Volume 1: Proceedings of the Main Conference and the Shared Task: Semantic Textual Similarity, p.194-201, June 7–8, 2013, Atlanta, Georgia, USA.</ref>
+.
+
+<math>S(X,Y)=\frac{| X \cap Y |}{| X \cap Y |+\beta\left(\alpha a+(1-\alpha)b\right)}</math>
+
+<math>a=\min\left(|X \setminus Y|,|Y \setminus X|\right) </math>,
+
+<math>b=\max\left(|X \setminus Y|,|Y \setminus X|\right) </math>,
+
+This formulation also re-arranges parameters <math>\alpha </math> and <math>\beta </math>. Thus, <math> \alpha </math> controls the balance between <math> |X \setminus Y| </math> and <math> |Y \setminus X| </math> in the denominator. Similarly, <math>\beta</math> controls the effect of the symmetric difference <math> |X\,\triangle\,Y\,| </math> versus <math> | X \cap Y | </math> in the denominator.
+
+==Notes==
+{{reflist}}
+
+[[Category:Eponymous indices]]
+[[Category:Index numbers]]
+[[Category:Measure theory]]
+[[Category:Similarity measures]]
+[[Category:Asymmetry]]

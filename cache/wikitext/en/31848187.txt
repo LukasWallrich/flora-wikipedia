@@ -1,0 +1,246 @@
+{{Short description|Hungarian-born British linguist (1960–2022)}}
+{{eastern name order|Dörnyei Zoltán}}
+{{Infobox scientist
+| name              = Zoltán Dörnyei
+| image             = Zoltán_Dörnyei_2012.jpg
+| image_size        = 
+| alt = 
+| caption           = 
+| birth_name        = 
+| birth_date        = {{birth date|df=y|1960|03|11}}
+| birth_place       = [[Budapest]], [[Hungarian People's Republic|Hungary]]
+| death_date       = {{death date and age|df=y|2022|06|10|1960|03|11}} <ref>{{cite web|url=https://www.nottingham.ac.uk/english/news/2021-22/in-memoriam-professor-zolt%C3%A1n-d%C3%B6rnyei.aspx|title=In Memoriam - Professor Zoltán Dörnyei}}</ref>
+| death_place      = [[Nottingham]], England
+| resting_place    = 
+| fields =
+  {{plainlist |
+*[[Second language acquisition]]
+*[[Dynamic approach to second language development]]
+*[[Motivation in second-language learning]]
+  }}
+| workplaces =
+  {{plainlist |
+*[[Eötvös Loránd University]]
+*[[University of Nottingham]]
+  }}
+| alma_mater =
+  {{plainlist |
+* [[Eötvös Loránd University]]
+* [[University of Nottingham]]
+* [[Durham University]]
+  }}
+| doctoral_advisor  = 
+| thesis_title = Psycholinguistic factors in foreign language learning
+| thesis_url = 
+| thesis_year = 1989
+| academic_advisors = 
+| doctoral_students = [[Kata Csizér]] <br /> [[Judit Kormos]]
+| known_for =
+  {{plainlist |
+*L2 Motivational Self System
+*Directed Motivational Currents
+  }}
+| author_abbrev_bot =
+| author_abbrev_zoo =
+| awards =
+  {{plainlist | style = white-space: nowrap; |
+*1999: [[Kenneth W. Mildenberger Prize]] 
+  }}
+| religion = 
+| website = {{URL|http://www.zoltandornyei.co.uk/|Dörnyei on the website of the University of Nottingham}}
+}}
+
+'''Zoltán Dörnyei''' ({{IPA|hu|ˈzoltaːn ˈdørɲɛi}}) (11 March 1960 &nbsp;– 10 June 2022) was a Hungarian [[linguist]]. He was a professor of [[psycholinguistics]] at the [[University of Nottingham]] in the United Kingdom.<ref>Kormos, J. (2013). Dörnyei, Zoltán. In C. A. Chapelle (Ed.), The encyclopedia of Applied Linguistics (on-line). Malden, MA: Wiley-Blackwell.</ref><ref name=":11">{{Cite journal|last=Dörnyei|first=Zoltán|date=December 2000|title=Motivation in action: Towards a process-oriented conceptualisation of student motivation|url=http://doi.wiley.com/10.1348/000709900158281|journal=British Journal of Educational Psychology|language=en|volume=70|issue=4|pages=519–538|doi=10.1348/000709900158281|pmid=11191185|url-access=subscription}}</ref> He was known for his work on [[second language acquisition]] and the psychology of the language learner, in particular on [[motivation in second language learning]], having published numerous books and papers on these topics.<ref name=":1">Dörnyei, Z. (2016). From English language teaching to psycholinguistics: A story of three decades. In R. Ellis (Ed.), ''Becoming and being an applied linguist: The life histories of some applied linguists'' (pp. 119-135). Amsterdam: John Benjamins.</ref><ref name=":12">{{cite web |url=http://www.zoltandornyei.co.uk/ |title=Home |website=zoltandornyei.co.uk}}</ref>
+
+== Career ==
+===Education===
+Dörnyei obtained a combined [[Master of Arts]] degree in [[English language]] and [[English literature|literature]] and in [[art history]] in 1985 at the [[ELTE School of English and American Studies|School of English and American Studies]] of the [[ELTE Faculty of Humanities|Faculty of Humanities]] of the [[Eötvös Loránd University]] in [[Budapest]], Hungary. His dissertation was entitled ''Art dealing in Hungary before 1945''.<ref>{{cite web|url=https://www.zoltandornyei.co.uk/_files/ugd/ba734f_90b3779d210846cca8d190fd044e0498.pdf|title=History of Art (Eötvös University, Budapest). Dissertation title: "Art dealing in Hungary before 1945" (in Hungarian)|access-date=2022-06-12|archive-date=2022-06-10|archive-url=https://web.archive.org/web/20220610232455/https://www.zoltandornyei.co.uk/_files/ugd/ba734f_90b3779d210846cca8d190fd044e0498.pdf|url-status=dead}}</ref><ref name=":1"/>
+
+In 1989 he received a [[Doctor of Philosophy|PhD]] degree in [[Psycholinguistics]] at the Eötvös Loránd University and his thesis was titled ''Psycholinguistic factors in foreign language learning''.
+
+In 2003 he earned a [[D.Sc.]] in Linguistics at the [[Hungarian Academy of Sciences]].
+
+Between 2008 and 2010 he conducted part-time [[undergraduate studies]] in [[Theology]] at [[St John's College, Nottingham|St John's College]], [[Nottingham]].
+
+In 2011 he obtained an [[Master of Arts|MA]] degree in Theology and Religious Studies at the Department of Theology of the [[University of Nottingham]]. The title of his dissertation was ''Transfiguration, beauty and biblical interpretation''. In 2017 he received a [[Ph.D. degree]] in [[Theology]] at the Department of Theology and Religion of [[Durham University]]. The title of his thesis was ''Progressive creation and the struggles of humankind in the Bible: An experiment in canonical narrative interpretation''.
+
+===Teaching===
+He began his career at the School of English and American Studies of the [[ELTE Faculty of Humanities|Faculty of Humanities]] of the [[Eötvös Loránd University]] in 1988. In 1998, he moved to the United Kingdom and after two years at [[Thames Valley University]], [[London]], he took up a position at the School of English, [[University of Nottingham]], where he was Professor of Psycholinguistics.<ref>{{cite web|url=http://www.nottingham.ac.uk/english/people/zoltan.dornyei|title=Official University website for Zoltán Dörnyei|access-date=2011-05-22|archive-date=2014-01-14|archive-url=https://web.archive.org/web/20140114221135/http://www.nottingham.ac.uk/english/people/zoltan.dornyei|url-status=dead}}</ref><ref name=":1"/>
+
+== Research ==
+
+=== Process-Oriented Model of Motivation ===
+Dörnyei's theory of motivation is the idea that motivation is developed in a unique and dynamic way that is necessary to gain success in areas where prolonged learning is required.<ref name=":11" /> The process-oriented model of motivation seeks to explain Dörnyei's theory through student motivation by focusing on (a) motivational maintenance and volition, and (b) motivational evolution and fluctuation.<ref name=":11" /> This model shifts the emphasis from the historic assumptions of pre-actional ‘choice motivation’ to volitional/executive aspects of goal attainment during the actional phrase.<ref name=":11" /> This model is rooted in the assumption that people unconsciously monitor their motivation and make adjustments or choices to increase or decrease motivation based on the outcome of their current goals.<ref name=":11" />
+The first dimension of the behavioural process indicates a motivational influence (wishes, hopes, and desires).<ref name=":0">{{Citation|last=Dörnyei|first=Zoltán|title=18. Motivation, Language Identities and the L2 Self: Future Research Directions|date=2009-12-31|url=http://dx.doi.org/10.21832/9781847691293-019|work=Motivation, Language Identity and the L2 Self|pages=350–356|place=Bristol, Blue Ridge Summit|publisher=Multilingual Matters|doi=10.21832/9781847691293-019|isbn=978-1-84769-129-3|access-date=2020-12-02|url-access=subscription}}</ref> These influences indicate a starting point for the motivational process and are directly linked to the preactional phase.<ref name=":0" /> The preactional phase is a very high paced process, where an individual cycles through wishes, hopes, and desires to get to a point of action.<ref name=":0" /> The second dimension of the behavioural process indicates that the initial motivational influences have  progressed  into goal, which ultimately lead to intention and action.<ref name=":0" /> The actional phase is where the energy to have continued motivation comes from that will support the behavioural process. The final dimension found in the figure of motivational influences is the post actional phase.<ref name=":0" /> Within this phase the goal is evaluated and assessed and further steps will be made to adjust behaviours to achieve goals or the goal will be abandoned.<ref name=":0" />
+
+=== The Principled Communicative Approach ===
+
+The principled communicative approach bridges the gap between previous language teaching methods like communicative language teaching and recent research.<ref name=":14">{{Cite journal|last1=Celce-Murcia|first1=Marianne|last2=Dörnyei|first2=Zoltán|last3=Thurrell|first3=Sarah|last4=Dornyei|first4=Zoltan|date=1997|title=Direct Approaches in L2 Instruction: A Turning Point in Communicative Language Teaching?|url=https://www.jstor.org/stable/3587979|journal=TESOL Quarterly|volume=31|issue=1|pages=141|doi=10.2307/3587979|jstor=3587979|url-access=subscription}}</ref> Using current research, PCA attempts to extend the communicative approach by focusing on the explicit development of other knowledge areas and skills necessary for efficient communication instead of focusing solely on the systematic components of languages that language teachers traditionally focused on.<ref name=":14" /> The PCA focuses on three main areas including focus on form and form-focused instruction, fluency and automatization and formulaic language.<ref name=":14" /> Each aspect is to ensure meaningful communication with relevant and useful input of both linguistic rules and lexical terms.<ref name=":14" />
+
+Seven Key points for PCA:<ref name=":14" />
+
+1.     The Personal significance principle: The material needs to focus on meaning and it must be classified as significant to the language learner.<ref name=":14" /> An example of this would be having language students fill out a check for an item they would like to buy.<ref name=":14" />
+
+2.     The Controlled Practice Principle: Practice activities should be controlled and promote automatization of skills found in the target language.<ref name=":14" /> Language learners should be given the framework to practice forms and skills of the target language.<ref name=":14" />
+
+3.     Formulaic Language Principle: Selected phrases and practices that are significant to the target language should be intensively practiced and recycled.<ref name=":14" /> Language learners should have a significant amount of opportunities to use specific important phrases of target language.<ref name=":14" />
+
+4.     Language Exposure Principle: Learners should have access to a large amount of target language input to feed the learners implicit learning mechanisms.<ref name=":14" /> Language learners should be exposed to many different inputs that cover the four main categories (reading, writing, speaking, and listening).<ref name=":14" />
+
+5.     The Focused Interaction Principle: Language learners should interact with target language in a genuine context.<ref name=":14" /> Full exposure to language is required for mastery of language. Students in a language classroom tend to have very structured classes which often do not allow for the development of spontaneous speech.<ref name=":14" /> Natural interaction is required to ensure mastery.<ref name=":14" />
+
+=== Group Dynamics ===
+Dörnyei studied the impact of group dynamics on second language learning.<ref name=":1" /> He found that group psychology can shape a learner's behavior as well as their motivation to learn.<ref name=":1" /> The way that learners feel when they are in a classroom group can influence the effort they put into learning.<ref name=":2">{{Cite journal|last1=Dörnyei|first1=Zoltán|last2=Malderez|first2=Angi|date=1997-03-01|title=Group dynamics and foreign language teaching|url=http://www.sciencedirect.com/science/article/pii/S0346251X96000619|journal=System|language=en|volume=25|issue=1|pages=65–81|doi=10.1016/S0346-251X(96)00061-9|issn=0346-251X|url-access=subscription}}</ref>
+
+Group cohesiveness, group norms and group roles play a central role in creating motivated learning communities.<ref name=":1" />
+
+==== Group Cohesiveness and Interpersonal Relationships ====
+A group's cohesiveness is determined by the quality of the relationships between group members combined with an accepting classroom community.<ref name=":3">{{Cite book|url=http://link.springer.com/10.1007/978-0-387-46301-8|title=International Handbook of English Language Teaching|date=2007|publisher=Springer US|isbn=978-0-387-46300-1|editor-last=Cummins|editor-first=Jim|location=Boston, MA|language=en|doi=10.1007/978-0-387-46301-8|editor-last2=Davison|editor-first2=Chris}}</ref> Other contributing factors to group cohesiveness include a group's common purpose and group pride.<ref name=":3" /> Cohesive groups interact and share personal information, participating actively in conversations essential for second language acquisition.<ref name=":4">{{Cite journal|last=Dornyei|first=Zoltan|date=1997|title=Psychological Processes in Cooperative Language Learning: Group Dynamics and Motivation|url=http://www.jstor.org/stable/328891|journal=The Modern Language Journal|volume=81|issue=4|pages=482–493|doi=10.2307/328891|jstor=328891|url-access=subscription}}</ref> They perform better and are more productive than non-cohesive groups.<ref name=":2" /> Dörnyei suggests many ways teachers can create group cohesiveness in a second language learning classroom including, but not  limited to:
+
+1. Learning about each other - The more personal information students share, the more acceptance will exist between classmates.<ref name=":3" />
+
+2. Proximity, contact and interaction - When designing their classrooms and learning tasks, teachers should consider students' physical closeness in their seating plans.<ref name=":3" /> The way desks are arranged and how a classroom is personalized has an impact on students' ownership and engagement with the learning environment.<ref name=":2" /> Students who are seated in groups are more likely to talk and form personal relationships.<ref name=":4" /> Group cohesiveness is improved by providing time to interact during in-class group work as well as including opportunities for students to collaborate on independent group projects.<ref name=":3" />
+
+3. Rewarding and enjoyable group activities - Rewards can be the joy of performing certain activities, success in achieving goals, or more tangible rewards, such as grades or prizes.<ref name=":3" />
+
+4. Extracurricular activities - Experiences shared outside of the classroom allow students to see each other as real people, not just classmates. These positive feelings, memories and shared experiences are brought back to the classroom, building group cohesiveness.<ref name=":3" />
+
+5. Group competitions - Games played with different teams encourage friendly competition within a classroom which can boost group cohesiveness as students unite to win.<ref name=":3" />
+
+6. Sharing a common goal - When a class collaborates to achieve a common goal, group cohesiveness is strengthened.<ref name=":3" />
+
+7. Teacher role modelling - If a teacher is positive, encouraging, friendly and accepting, students are more likely to demonstrate the same behaviors.<ref name=":3" />
+
+==== Group Norms and Group Roles ====
+Rules and routines help groups function smoothly and effectively.<ref name=":3" /> When rules are agreed upon and shared by a group these behaviors are known as group norms.<ref name=":3" /> When certain people carry out specific tasks or functions these are known as group roles.<ref name=":3" />
+
+==== Group Norms ====
+Group norms can be applied explicitly by the teacher or school, or can develop implicitly as an unspoken, agreed upon code of conduct.<ref name=":3" /> Studies have shown that positive group norms can have a significant impact on a student's motivation and academic achievement.<ref name=":3" /> Unstated negative group norms, such as the acceptance and promotion of mediocrity, can adversely impact a group's success.<ref name=":3" /> Students in this situation suffer socially if their goal is to succeed academically.<ref name=":4" /> Positive group norms, such as tolerance and acceptance of errors as part of learning, enhance student morale and strengthen group cohesiveness.<ref name=":3" /> Students perform well to uphold their responsibility to the group, and support their classmates to achieve academic excellence.<ref name=":4" /> If group norms are agreed upon and internalized, the group itself will often assume responsibility for dealing with wayward members who violate the norms.<ref name=":2" />
+
+Group Roles
+
+Roles are shared expectations of a person's purpose in a group.<ref name=":3" /> If constructive roles are assigned that complement each student's strengths and interests, the group will function more effectively.<ref name=":3" /> Individuals will benefit in terms of confidence and self-image.<ref name=":3" /> If roles are assigned that do not complement group members, group cohesion may suffer and lead to conflict.<ref name=":3" /> Student roles may emerge naturally, be assigned by the teacher, or be encouraged and reinforced based on classroom observation of student behavior.<ref name=":3" />
+
+==== Teachers' Leadership Styles and Group Dynamics ====
+Language teachers are group leaders.<ref name=":3" /> A group's character and dedication to common goals will often follow that of the teacher's.<ref name=":2" />  Positive group dynamics can strengthen the stamina needed to learn a second language.<ref name=":2" /> Although there are many leadership styles, studies have found that a democratic style of leadership promotes group cohesion, friendly communication and positive interpersonal relationships.<ref name=":3" /> A democratic leadership style involves sharing leadership roles with students by involving them in some of the decision-making processes about how the group will function.<ref name=":3" /> A democratic approach to the teacher/leader style leads to more of a facilitator role in educational settings.<ref name=":3" /> The teacher provides the right conditions for the group to cooperate and develop cohesiveness.<ref name=":4" /> The degree of guidance a teacher provides will change depending on a group's level of maturity and their development towards self-direction in their learning.<ref name=":3" />
+
+==== The teachers' role in motivation ====
+Language teachers have a major role to play in creating and enhancing the motivational aspects of a second language learning classroom.<ref name=":3" /> Classroom motivation levels are influenced by a teacher's motivational teaching practice.<ref name=":3" /> There are practical and deliberate strategies a teacher can use to promote student motivation once group cohesiveness and positive interpersonal relationships have been established.<ref name=":3" />
+
+==== Generating Initial Motivation ====
+There is no guarantee that students will be motivated to learn a second language, and often the opposite is true.<ref name=":3" /> Teachers need to generate enthusiasm and share the benefits of learning a second language to promote positive student attitudes.<ref name=":3" /> They need to create a safe and accepting space for students to learn.<ref name=":2" /> Dörnyei suggests five ways a teacher can build initial motivation in second language learning: (1) promoting language-related values and the benefits of knowing a second language; (2) increasing the expectancy of success; (3) encouraging goal setting; (4) ensuring teaching materials are relevant to learners; and (5) establishing realistic learner beliefs about second language learning.<ref name=":3" />
+
+==== Maintaining and Protecting Motivation ====
+Once initial motivation has been activated, it is important for teachers to keep students focused on their goals and engaged in stimulating and enjoyable learning activities.<ref name=":3" /> Tasks should be motivating and learners' self-esteem and confidence protected, as there will be many distractions, and commitment to self-established goals may diminish.<ref name=":3" /> Learning a second language is a long-term endeavor and motivation must be maintained for continued learning to take place.<ref name=":3" />
+
+==== Encouraging Positive Retrospective Self-Evaluation ====
+Research has shown that how learners feel about their past learning achievements has a significant impact on their attitude towards current learning challenges and goals.<ref name=":3" /> Teachers can help students re-evaluate previous disappointments with their L2 learning in a more constructive way, building self-confidence, increasing learning satisfaction and leading to self-reflection regarding areas that need improvement.<ref name=":3" /> They can highlight students' progress and successes, reinforce the importance of effort over ability and provide supportive and motivating feedback.<ref name=":3" />
+
+=== L2 Motivational Self System ===
+Dörnyei believed that acquiring a second language entails more than just learning another academic subject, it involves a learner's whole being.<ref name=":1"/> A new dimension is added to their identity, their second language speaking self.<ref name=":1"/> Building on the work of  psychologists Hazel Markus and Paula Nurius (1986) and their article ''Possible Selves'' https://cursa.ihmc.us/rid=1LQJK1Z9J-16LFNTG-39MK/Possible%20Selves%20ARTICLE.pdf, Dörnyei developed the L2 Motivational Self System framework.<ref name=":3" /> He was interested in the concept of mental imagery, a person's vision of their second language speaking self as a powerful motivator, the fuel required to sustain the ups and downs, and sometimes tiresome journey, towards second language acquisition.<ref name=":13">{{Citation|last=Dörnyei|first=Zoltán|title=18. Motivation, Language Identities and the L2 Self: Future Research Directions|date=2009-12-31|url=http://dx.doi.org/10.21832/9781847691293-019|work=Motivation, Language Identity and the L2 Self|pages=350–356|place=Bristol, Blue Ridge Summit|publisher=Multilingual Matters|doi=10.21832/9781847691293-019|isbn=978-1-84769-129-3|access-date=2020-11-22|url-access=subscription}}</ref>
+
+The L2 Motivational Self System is composed of three parts:
+
+1. The Ideal L2 Self  - This is the learner's image of their future L2 speaking self, the second language speaker they aspire to become.<ref name=":13" /> This image motivates the L2 learner as they work towards reducing the difference between their actual self and their ideal self.<ref name=":13" />
+
+2. The Ought-to L2 Self - This is the learner's image of what future qualities they ought to possess to prevent negative outcomes, involving duties, expectations and responsibilities imposed externally by others.<ref name=":13" />
+
+3. The L2 learning experience - This  involves the immediate motivating and enjoyable elements in the actual L2 learning environment.<ref name=":13" />
+
+In order for the Ideal L2 Self to act as a  motivator, the learner must have a strong and detailed vision of themselves as an L2 speaker.<ref name=":13" />  Their Ideal L2 Self must be within reason and should not vary drastically from their Ought-to Self and its associated external social pressures.<ref name=":13" />  The Ideal L2 Self must have an action plan - tasks and strategies developed to reach their goal.<ref name=":13" />  A clear picture of  their Feared Self is also important, with negative consequences resulting if their Ideal L2 self is not realized.<ref name=":13" />
+
+Many research studies have been conducted that support the relationship between an Ideal L2 Self with motivated learning behavior.<ref name=":6">{{Cite journal|last1=Dörnyei|first1=Zoltán|last2=Chan|first2=Letty|date=2013|title=Motivation and Vision: An Analysis of Future L2 Self Images, Sensory Styles, and Imagery Capacity Across Two Target Languages|url=https://onlinelibrary.wiley.com/doi/abs/10.1111/lang.12005|journal=Language Learning|language=en|volume=63|issue=3|pages=437–462|doi=10.1111/lang.12005|issn=1467-9922|url-access=subscription}}</ref> The Ought-to self, while being a facet of the L2 learning experience, and being perceived by students as important, is less of a motivating factor and predictor of L2 learning success.<ref name=":6" /> The juxtaposition of the Ideal L2 Self with the Feared Self has been found to be highly motivating.<ref name=":13" />
+
+An environment for second language learning, where specific instruction techniques are used, is a factor in language learning behaviors.<ref name=":7">{{Cite journal|last=Dörnyei|first=Zoltán|date=2019-03-22|title=Towards a better understanding of the L2 Learning Experience, the Cinderella of the L2 Motivational Self System|url=https://pressto.amu.edu.pl/index.php/ssllt/article/view/18533|journal=Studies in Second Language Learning and Teaching|volume=9|issue=1|pages=19–30|doi=10.14746/ssllt.2019.9.1.2|issn=2084-1965|doi-access=free}}</ref><ref name=":6" /> Teachers can help learners realize their Ideal L2 self by raising self-awareness and enhancing the vivacity of students' L2  images, dreams, and desires.<ref name=":13" /> Creative and guided imagery can be used in class to strengthen the Ideal L2 Self.<ref name=":13" />
+
+A meta-analysis by Al-Hoorie (2018)<ref>{{cite journal |last1=Al-Hoorie |first1=A. H. |title=The L2 motivational self system: A meta-analysis |journal=Studies in Second Language Learning and Teaching |date=2018 |volume=8 |issue=4 |pages=721–754 |doi=10.14746/ssllt.2018.8.4.2|s2cid=150171118 |doi-access=free }}</ref> examined the predictive validity of this model, showing poorer predictive validity of objective measures compared with subjective measures of language learning. Recently, this model has received criticism based on its reliance on scales with questionable validity<ref>{{cite journal |last1=Hiver |first1=P. |last2=Al-Hoorie |first2=Ali H. |title=Reexamining the Role of Vision in Second Language Motivation: A Preregistered Conceptual Replication of You, Dörnyei, and Csizér (2016) |journal=Language Learning |date=2020 |volume=70 |issue=1 |pages=48–102 |doi=10.1111/lang.12371|s2cid=201374315 }}</ref> and on constructs that are not clearly distinct from existing constructs in psychology.<ref>{{cite journal |last1=Al-Hoorie |first1=A. H. |last2=Alshlowiy |first2=A. |title=Vision Theory vs. Goal-Setting Theory: A Critical Analysis |journal=Porta Linguarum |date=2020 |volume=33 |pages=217–229}}</ref>
+
+=== Directed Motivational Currents ===
+Dörnyei argued that motivation is not static or constant, it is not something you either have or don't have, a person is not either motivated or unmotivated.<ref name=":8">{{Cite journal|title=Directed Motivational Currents: Using vision to create effective motivational pathways {{!}} Studies in Second Language Learning and Teaching|journal=Studies in Second Language Learning and Teaching |date=April 2016|volume=3 |issue=3 |pages=357–375 |url=https://pressto.amu.edu.pl/index.php/ssllt/article/view/5022|language=en-US|doi=10.14746/ssllt.2013.3.3.3|doi-access=free}}</ref> Rather, motivation ebbs and flows, depending on many factors including the day, the topic, or the context, constantly changing over time.<ref name=":8" /> Vision, according to Dörnyei, is the highest-order of motivation, a goal combined with an imagined future reality, capable of overcoming these natural ebbs and flows, transforming action and engagement into long term effort.<ref name=":8" />
+
+Directed motivational currents (DMCs) are intense and enduring motivational pathways, surges of energy people experience when pursuing a personal goal or vision.<ref name=":9">{{Cite journal|last1=HENRY|first1=ALASTAIR|last2=DAVYDENKO|first2=SOFIA|last3=DÖRNYEI|first3=ZOLTÁN|date=2015|title=The Anatomy of Directed Motivational Currents: Exploring Intense and Enduring Periods of L2 Motivation|url=https://www.jstor.org/stable/43650030|journal=The Modern Language Journal|volume=99|issue=2|pages=329–345|doi=10.1111/modl.12214|jstor=43650030|s2cid=51839979 |issn=0026-7902}}</ref> These Directed Motivational Currents spur focused and sustained action and are energy-producing, not energy-draining.<ref name=":1"/> People find themselves not just motivated to achieve a goal, but driven to do so, imagining a desired future reality.<ref name=":8" /><ref name=":9" /> A DMC combines visions with motivated focused action, sequences of strategic behavior designed to move visions from daydreams to targeted accomplishments.<ref name=":8" /><ref name=":9" /> The DMC, combined with tangible achievement of sub-goals, propels a learner forward, maintaining momentum.<ref name=":8" />
+
+Sometimes a person's vision for themselves can lay dormant for many years, waiting for the right set of circumstances to present themselves, a turning point in their lives.<ref name=":8" /> DMCs have a definite trigger, a starting point that activates the active pursuit of an imagined reality, where an attainable structured pathway to the goal is formed and put in place.<ref name=":8" /> Once a DMC is activated, everything in a person's life is focused on achieving the goal.<ref name=":8" /> There is an urgency to DMCs, an intensity, a shift in routines.<ref name=":10">{{Cite book|date=2014-07-15|title=Motivation and Foreign Language Learning: From theory to practice|url=https://www.jbe-platform.com/content/books/9789027269751|access-date=2020-11-19|website=www.jbe-platform.com|series=Language Learning & Language Teaching|volume=40|language=en|doi=10.1075/lllt.40|isbn=978-90-272-1322-8}}</ref> DMCs take on a life of their own, they create an all-consuming preoccupation, a momentum that propels a person towards the attainment of their goal.<ref name=":9" />  Other things in their lives may have to change, or take a backseat, in order to accommodate the DMC.<ref name=":9" />
+
+The main components of a Directed Motivational Current are: (1) A vision directed towards achieving an end goal;  (2) A clear starting point, or triggering event, activated by something specific, either cognitive or contextual, with new structural routines and procedures established to reach a goal; (3) Perceived personal ownership of the goal and control over its progress; (4) Progress towards the goal must be evident, providing continued momentum;  and (5) Positive emotions experienced with the achievement of necessary sub-goals transporting a person closer to their final goal in an energizing and self-propelling motivational stream.<ref name=":10" /><ref name=":9" />
+
+In second language classrooms, long-term effort and sustained motivation is essential for achievement.<ref name=":8" /> The goal of language teachers then, who often struggle to initiate and maintain motivation in students, would be to inspire and lead learners, or groups of learners, to imagine, activate and realize Directed Motivational Currents in their second language learning journey.<ref name=":8" /><ref name=":9" />
+
+To create a vision-inspired second language learning environment where students' Directed Motivational Currents may emerge and are nurtured, Dörnyei suggests the following:
+
+1. Help students create the image of their Ideal L2 self.<ref name=":10" />
+
+2. Strengthen the vision through imagery practice, clarifying details and intensifying urgency.<ref name=":10" />
+
+3. Support the vision with realistic expectations.<ref name=":10" />
+
+4. Help students transform their visions into a plan of action.<ref name=":10" />
+
+5.  Keep the vision alive. Don't let it get pushed aside. Activate it regularly.<ref name=":10" />
+
+6. Refer back to a student's Feared Self, the self that will result if their vision is not attained.<ref name=":10" />
+
+A recent systematic review of Directed Motivational Currents has shown that, when they are deliberately induced by teachers, Directed Motivational Currents can result in intense stress, anxiety, depression, sleeplessness, and panic attacks in students—raising ethical concerns about this teaching strategy.<ref>{{cite journal |last1=Jahedizadeh |first1=S. |last2=Al-Hoorie |first2=A. H. |title=Directed motivational currents: A systematic review |journal=Studies in Second Language Learning and Teaching |date=2021 |volume=11 |issue=4 |pages=517–541 |doi=10.14746/ssllt.2021.11.4.3|s2cid=245551648 |doi-access=free }}</ref>
+
+=== Later Research ===
+As of the late 2010s, Dörnyei has focused his research on theology and biblical interpretation as he recently completed a PhD in theology with the department of Theology and Religion at Durham University.<ref name=":12" /> Dornyei's most recent research in applied linguistics and motivation has continued to focus on motivation.<ref name=":12" /> More specifically on motivational strategies for second language learners.<ref name=":12" /> In his most recent article it was identified that there is more benefit for language learners who have access to deeper engagement with materials that include mental imagery.<ref name=":15">{{Cite journal|last1=Le-Thi|first1=Duyen|last2=Dörnyei|first2=Zoltán|last3=Pellicer-Sánchez|first3=Ana|date=2020-06-05|title=Increasing the effectiveness of teaching L2 formulaic sequences through motivational strategies and mental imagery: A classroom experiment|url=http://dx.doi.org/10.1177/1362168820913125|journal=Language Teaching Research|volume=26 |issue=6 |pages=1202–1230|doi=10.1177/1362168820913125|s2cid=219912422|issn=1362-1688}}</ref> This research study used 150 intermediate students from nine different English as a foreign language (EFL) classes.<ref name=":15" /> These students were then divided into three groups; Motivational, visionary, and control.<ref name=":15" /> These groups were tested with a 56 formulaic sequence, and their outcome on the test was assessed by a multiple-choice vocabulary test.<ref name=":15" /> These assessments were created to directly assess the students’ ability to recognize the form of the target sequence.<ref name=":15" /> The result of this study indicates that there are deeper engagement levels associated with mental imagery when it is corroborated by a delayed posttest.<ref name=":15" />
+
+==Academic Awards==
+*1994: Gombócz Zoltán Award of the Hungarian Association of Linguists
+*1998: Distinguished Research Award of the American TESOL Organization (co-author: [[Kathleen Bardovi-Harlig]])
+*1999: [[Kenneth W. Mildenberger Prize]] of the [[Modern Language Association]]<ref>{{cite web|title=Kenneth W. Mildenberger Prize Winners|url=https://www.mla.org/Resources/Career/MLA-Grants-and-Awards/Winners-of-MLA-Prizes/Biennial-Prize-and-Award-Winners/Kenneth-W.-Mildenberger-Prize-Winners|publisher=Modern Language Association|language=en|date=9 June 2011|access-date=19 April 2019}}</ref>
+*2006: ILTA Best Paper Award<ref>{{cite web|url=http://iltaonline.com/index.php?option=com_content&task=view&id=134&Itemid=145|title=2006 ILTA Best Paper Award|date=2 July 2006|publisher=International Language Testing Association|access-date=8 July 2014|archive-date=4 March 2016|archive-url=https://web.archive.org/web/20160304081525/http://www.iltaonline.com/index.php?option=com_content&task=view&id=134&Itemid=145|url-status=dead}}</ref>
+*2010: Ben Warren International House Trust Prize
+*2011: Henry Osborn Award of Cornerstone University, USA 
+*2014: Highly Commended Award of the English-Speaking Union's HRH The Duke of Edinburgh English Language Book Awards
+
+==Main Monographs==
+*Dörnyei, Z. &  Mentzelopoulos, K. (2022). ''Lessons from Exceptional Language Learners Who Have Achieved Nativelike Proficiency: Motivation, Cognition and Identity''. Bristol: Multilingual Matters (Psychology of Language Learning and Teaching Book 18)
+*Dörnyei, Z. (2020). ''Innovations and challenges in language learning motivation''. London: Routledge.
+*Mercer, S., & Dörnyei, Z. (2020). ''Engaging language learners in contemporary classrooms''. Cambridge: Cambridge University Press.
+*Dörnyei, Z. (2020). ''Vision, mental imagery and the Christian life: Insights from science and Scripture''. London: Routledge.
+*Dörnyei, Z (2018). ''Progressive creation and humanity’s struggles in the Bible: A canonical narrative interpretation''. Eugene, OR: Pickwick Publications.
+*Dörnyei, Z., Henry, A., & Muir, C. (2016). ''Motivational currents in language learning: Frameworks for focused interventions''. New York: Routledge.
+*Dörnyei. Z., & Ryan, S. (2015). ''The psychology of the language learner revisited''. New York: Routledge.
+*Dörnyei. Z., MacIntyre, P., & Henry, A. (Eds.) (2015). ''Motivational dynamics in language learning''. Bristol: Multilingual Matters.
+*Dörnyei. Z., & Kubanyiova, M. (2014). ''Motivating students, motivating teachers: Building vision in the language classroom''. Cambridge: Cambridge University Press.
+*Wong, M. S., Kristjánsson, C., & Dörnyei, Z. (Eds.). (2013). ''Christian faith and English language teaching and learning: Research on the interrelationship of religion and ELT''. New York: Routledge.
+*Dörnyei, Z. & Ushioda, E. (2011). ''Teaching and researching motivation (2nd ed.)''. Harlow: Longman. 
+*Dörnyei, Z. (2010). ''Questionnaires in second language research: Construction, administration, and processing (2nd ed.)''. New York: Routledge.
+*Dörnyei, Z. (2009). ''The psychology of second language acquisition''. Oxford: Oxford University Press.
+*Dörnyei, Z., & Ushioda, E. (Eds.). (2009). ''Motivation, language identity and the L2 self''. Bristol: Multilingual Matters.
+*Dörnyei, Z. (2007). ''Research methods in applied linguistics: Quantitative, qualitative and mixed methodologies''. Oxford: Oxford University Press.
+*Dörnyei, Z., Csizér, K., & Németh, N. (2006). ''Motivation, language attitudes and globalisation: A Hungarian perspective''. Clevedon, England: Multilingual Matters.
+*Dörnyei, Z. (2005). ''The psychology of the language learner: Individual differences in second language acquisition''. Mahwah, NJ: Lawrence Erlbaum.
+*Dörnyei, Z., & Murphey, T. (2003). ''Group dynamics in the language classroom''. Cambridge: Cambridge University Press.
+*Dörnyei, Z. (2001). ''Motivational strategies in the language classroom''. Cambridge: Cambridge University Press.
+*Ehrman, M., & Dörnyei, Z. (1998). ''Interpersonal dynamics in second language education: The visible and invisible classroom''. Thousand Oaks, CA: Sage.
+
+== Personal life ==
+Dörnyei married his wife Sarah on 13 June 1991. They left Budapest in 1998 to live in [[Nottingham]] with their two sons, Aaron and Benedict. He died on 10 June 2022 in Nottingham after an illness.<ref>{{cite web|url=https://www.nottingham.ac.uk/english/news/2021-22/in-memoriam-professor-zolt%c3%a1n-d%c3%b6rnyei.aspx|title=In Memoriam - Professor Zoltán Dörnyei|date=13 June 2022|accessdate=13 June 2022|publisher=University of Nottingham}}</ref> 
+Members of the Christian [[Teaching English as a second or foreign language|TESOL]] community paid tribute to Dörnyei in a memoir in ''International Journal of Christianity and English Language Teaching'' in 2022. <ref>{{Cite journal |last=Pease |first=Eleanor |last2=Lepp-Kaethler |first2=Elfrieda |last3=Wong |first3=Mary Shephard |date=2022 |title=In Memoriam Zoltán Dörnyei (1960-2022) |url=https://digitalcommons.biola.edu/ijc-elt/vol9/iss1/8/ |journal=International Journal of Christianity and English Language Teaching |volume=9 |archive-date=2024-10-09 |access-date=2025-03-18 |archive-url=https://web.archive.org/web/20241009012310/https://digitalcommons.biola.edu/ijc-elt/vol9/iss1/8/ |url-status=dead }}</ref> [[Judit Kormos]] also said farewell in a memoir, published in ''Modern Nyelvoktatás'' in 2022.<ref>{{Cite journal |last=Kormos |first=Judit |date=2022 |title=Búcsú Dörnyei Zoltántól |url=https://real-j.mtak.hu/23222/7/MoNyO_2022_28_3-4.pdf |journal=Modern Nyelvoktatás |volume=28 |issue=3-4 |pages=169-192 |via=REAL-J}}</ref>
+
+== References ==
+{{Reflist|colwidth=30em}}
+
+==External links ==
+* Zoltán Dörnyei's personal website: http://www.zoltandornyei.co.uk/
+* Professor Dörnyei on University of Nottingham's website: http://www.nottingham.ac.uk/english/people/zoltan.dornyei {{Webarchive|url=https://web.archive.org/web/20140114221135/http://www.nottingham.ac.uk/english/people/zoltan.dornyei |date=2014-01-14 }}
+
+{{Psycholinguistics}}
+{{Complex Dynamic Systems Theory}}
+{{School of English and American Studies, Eötvös Loránd University}}
+{{authority control}}
+
+{{DEFAULTSORT:Dornyei, Zoltan}}
+[[Category:1960 births]]
+[[Category:2022 deaths]]
+[[Category:Applied linguists]]
+[[Category:Psycholinguists]]
+[[Category:Linguists from Hungary]]
+[[Category:Budapest University alumni]]
+[[Category:Alumni of the University of Nottingham]]
+[[Category:Academics of the University of Nottingham]]
+[[Category:Academics from Budapest]]
+[[Category:Alumni of Durham University]]
+[[Category:Hungarian emigrants to England]]

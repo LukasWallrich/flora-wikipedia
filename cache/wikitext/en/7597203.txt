@@ -1,0 +1,54 @@
+{{Short description|Grotesque sans-serif typeface}}
+{{Infobox font
+| name = Haettenschweiler
+| image = Haettenschweiler  specimen (1).svg
+| style = [[Sans-serif]]
+| classifications = [[Sans-serif#Neo-grotesque|Grotesque]]
+| creator = Walter Haettenschweiler<br>[[Robert Norton (typographer)|Robert Norton]] (?)
+| foundry = [[Microsoft]]
+| creationdate = 1954
+}}
+'''Haettenschweiler''' is a [[sans-serif]] typeface in the [[Sans-serif#Neo-grotesque|grotesque]] style that is very bold and condensed. It is intended for headlines and display text.
+
+==Schmalfette Grotesk==
+Versions of the font that are now commonly used are descended from an upper-case only design called Schmalfette Grotesk (German for bold condensed sans-serif) by Walter Haettenschweiler that was published in 1954. 
+
+Schmalfette was published in the book ''Lettera'' (1954) which Haettenschweiler had written with Armin Haab.<ref name="Webpaper.nzz.ch">{{cite web|title=Entwerfer und Gestalter|url=http://webpaper.nzz.ch/2014/10/19/hintergrund/LM7CV/entwerfer-und-gestalter?guest_pass=110dd13ffe%3ALM7CV%3A8b615dc3c8b2674961980dd84e6489abe772e377|website=Webpaper.nzz.ch|accessdate=4 October 2016}}</ref> The ''Lettera'' series collected lettering designs (mostly hand-painted) and original designs, and was often used by designers as a source of inspiration.<ref>{{cite book|isbn=0803842821}}</ref><ref>{{cite book|isbn=9780803842823}}</ref><ref name="Grafiker «Haetti» ist gestorben">{{cite web|title=Grafiker "Haetti" ist gestorben|url=http://www.zugkultur.ch/BZkpug/grafiker-haetti-ist-gestorben-zug|website=Zugcultur.ch|accessdate=4 October 2016}}</ref> 
+
+An early reuse of the design was in the German young peoples' magazine ''[[Twen]]''.<ref name="Form.de">{{cite web|title=Walter Haettenschweiler. Obituary|url=http://www.form.de/en/news/nachruf-walter-haettenschweiler|website=Form.de|accessdate=4 October 2016}}</ref> Microsoft's history of the font, possibly written by [[Robert Norton (typographer)|Robert Norton]] (see below) notes that after ''Lettera 4'' was published the design 'was immediately picked up by designers at ''[[Paris Match]]'' who cut up pictures of it to make headlines' until it was publicly released. Similar methods were also used by British designers, as it was not available in Britain.<ref name="Graphic Journey Schmalfette: Tall, dark and handsome">{{cite web|last1=Dempsey|first1=Mike|title=Schmalfette: Tall, dark and handsome|url=http://mikedempsey.typepad.com/graphic_journey_blog/2013/04/schmalfette-tall-dark-and-handsome.html|website=Graphic Journey|accessdate=22 August 2015}}</ref><ref name="Blast from the past">{{cite web|last1=Dempsey|first1=Mike|title=Blast from the past|url=http://mikedempsey.typepad.com/graphic_journey_blog/2014/06/blast-from-a-distant-graphic-past.html|website=Design Journey|accessdate=23 August 2015}}</ref>
+
+==Adaptations and digitisation==
+According to Microsoft's release notes, the Haettenschweiler font in common modern use descends from a later [[phototypesetting]] adaptation by the company Photoscript, who created a lower-case for it; its owner Robert Norton would later become Microsoft's font consultant and may also have written Microsoft's unsigned article on its history.<ref name="Macmillan2006">{{cite book|author=Neil Macmillan|title=An A-Z of Type Designers|url=https://books.google.com/books?id=jxV4qEolEo8C&pg=PA141|year=2006|publisher=Yale University Press|isbn=0-300-11151-7|page=141}}</ref><ref name="Haettenschweiler Microsoft" /><ref name="Walter Haettenschweiler 1933 – 2014">{{cite web|last1=Dempsey|first1=Mike|title=Walter Haettenschweiler 1933 – 2014|url=http://mikedempsey.typepad.com/graphic_journey_blog/2015/01/walter-haettenschweiler-1933-2014.html|website=Graphic Journey|accessdate=23 August 2015}}</ref><ref name="Robert Norton - obituary">{{cite web|last1=Barker |first1=Nicolas|author-link=Nicolas Barker |title=Robert Norton - obituary |url=http://www.independent.co.uk/story.jsp?story=63608 |website=The Independent |accessdate=11 May 2016 |url-status=unfit |archiveurl=https://web.archive.org/web/20010623195507/http://www.independent.co.uk/story.jsp?story=63608 |archivedate=23 June 2001 }}</ref><ref name="Mischievous Mind Berry">{{cite web|last1=Berry|first1=John|title=The Mischievous Mind behind Microsoft's TrueType Fonts|url=http://creativepro.com/dot-font-the-mischievous-mind-behind-microsoft-s-truetype-fonts/|website=Creative Pro|date=20 April 2001 |accessdate=11 May 2016}}</ref> The font Haettenschweiler now bundled with much [[Microsoft]] software is a digitisation credited to Eraman Ltd. and [[Monotype Imaging]].<ref name="Haettenschweiler Microsoft">{{cite web|title=Haettenschweiler font information|url=https://www.microsoft.com/typography/fonts/family.aspx?FID=30|publisher=Microsoft|accessdate=22 August 2015}}</ref><ref name="Zug Cultur interview">{{cite web|title=Die Microsoft-Schrift aus Zug|url=http://www.zugkultur.ch/m6GXq5/die-microsoft-schrift-aus-zug-zug|website=Zug Cultur|accessdate=4 October 2016}}</ref> Haettenschweiler himself did not receive royalties for the design, and commented: "I never received a single cent, but at least they named it after me."<ref name="Fonts in Use Schmalfette">{{cite web|title=Schmalfette|url=https://fontsinuse.com/typefaces/41539/schmalfette-grotesk|website=Fonts in Use|accessdate=4 October 2016}}</ref>
+
+==Aesthetic==
+Haettenschweiler's highly compact, tightly spaced and industrial design is a prominent example of the aggressive, menacing style of graphic design that despite its poor legibility was popular in the 1960s and 70s, and was often used for purposes besides newspapers, such as book covers.<ref name="Permanent Headline - Fonts in Use">{{cite web|title=Permanent Headline - Fonts in Use|url=http://fontsinuse.com/typefaces/7242/permanent-headline|website=Fonts in Use|accessdate=17 June 2016}}</ref> 
+
+This type of design has been criticised for having low legibility in smaller point sizes, in situations with low contrast between background and text colours, or at a distance, with (for example) 8 and 9 seeming very similar. [[Counter (typography)|Counters]] are minimal and normally fully enclosed, a common feature of 'Grotesk' typefaces, while apertures are very narrow. This folded-up effect gives it a striking appearance at the cost of legibility. The problems are particularly large in a lower-case (which, as previously noted, Haettenschweiler himself declined to design), where the fine detail of the characters mean that strokes run closer together than in the capitals.<ref>{{cite web|last1=Covert|first1=Adrian|title=Why Apple's New Font Won't Work On Your Desktop|url=http://www.fastcodesign.com/3031432/why-apples-new-font-wont-work-on-your-desktop|website=FastCoDesign|date=3 June 2014 |accessdate=28 November 2014}}</ref>
+
+==Related typefaces==
+Several fonts were created in the same style in the early-to-mid 1960s, including [[Helvetica#Helvetica Inserat|Helvetica Inserat]] and British imitators [[Compacta (typeface)|Compacta]] and [[Impact (typeface)|Impact]]. Haettenschweiler has narrower characters than Impact. Geoffrey Lee, who designed Impact in 1963, wrote that "many of us admired the vitality and colour of what we knew only as Schmalfette, and used it by old-fashioned cut and paste. Use was limited as it was never made in metal as far as I know, and existed then in capitals and numerals only."<ref>{{cite web|last1=Lee |first1=Geoffrey |title=Comments on Typophile thread |url=http://typophile.com/node/7921 |website=Typophile (archived) |accessdate=27 October 2014 |url-status=dead |archiveurl=https://web.archive.org/web/20050826182110/http://typophile.com/node/7921 |archivedate=August 26, 2005 }}</ref> Lee wrote that a motivation for designing Impact was to allow a similar design to be used by British designers, since at the time continental metal type was expensive and complex for British companies to license and use. He also commented that he felt that the lower-case characters added were not so useful: "Later someone added (or found) a lowercase for its new existence. I personally find the style lacks the attractive feel of the caps." [[Matthew Carter]] would later design Helvetica Compressed for similar reasons.<ref name="Typographically speaking : the art of Matthew Carter">{{cite book|last1=Drucker|first1=Margaret Re ; essays by Johanna|last2=Mosley|first2=James|title=Typographically speaking : the art of Matthew Carter|date=2003|publisher=Princeton Architectural|location=New York|isbn=9781568984278|page=53|url=https://www.flickr.com/photos/nicksherman/16656369014/in/photolist-976eu9-9769qL-rnSfd7-mkF5g8-cJepi3|edition=2.}}</ref>
+
+A number of alternative digitisations of Schmalfette exist. A custom digitisation is used for the American television show ''[[Charlie Rose]]'' for branding.<ref name="Fonts in Use Charlie Rose">{{cite web|last1=Coles|first1=Stephen|title=Charlie Rose: One of the strongest talk shows on television finally has a typographic identity that carries as much weight.|url=https://fontsinuse.com/uses/12506/charlie-rose|website=Fonts in Use|date=13 April 2016 |accessdate=4 October 2016}}</ref> Another is "Schmalfette CP", by CounterPoint Type Studio.
+
+==Usage==
+A 2010 [[Princeton University]] study involving presenting students with text in a font slightly harder to read found that they consistently retained more information from material displayed in fonts perceived as ugly or disfluent ([[ITC Zapf Chancery#Variants and similar typefaces|Monotype Corsiva]], Haettenschweiler, and [[Comic Sans]] Italic) than in a simpler, more traditional font like [[Helvetica]].<ref>{{Cite journal | doi = 10.1016/j.cognition.2010.09.012| pmid = 21040910| title = Fortune favors the bold (and the italicized): Effects of disfluency on educational outcomes| journal = Cognition| volume = 118| issue = 1| pages = 111–5| year = 2011| last1 = Diemand-Yauman | first1 = C. | last2 = Oppenheimer | first2 = D. M. | last3 = Vaughan | first3 = E. B. | s2cid = 1003005}}</ref>
+
+It is used in the [[Nottingham Forest F.C.|Nottingham Forest]] logo, with a modified R and a lowercase E at upper-case height.
+
+The font is also seen in the Cartoon Network show ''[[The Powerpuff Girls]]'', as the text was used for the end credits and promos for the show.
+
+==Bibliography==
+* Haettenschweiler, Walter and Armin Haab. ''Lettera 4: a standard book of fine lettering''. Hastings House, 1972.
+==See also==
+*[[Impact (typeface)|Impact]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [http://www.fonts.com/font/microsoft-corporation/haettenschweiler Fonts.com: Haettenschweiler]
+
+[[Category:Grotesque sans-serif typefaces]]
+[[Category:Microsoft typefaces]]
+[[Category:Typefaces and fonts introduced in 1954]]
+[[Category:Display typefaces]]

@@ -1,0 +1,40 @@
+{{Short description|Psychologist, linguist and cognitive scientist}}
+'''Agnes Melinda Kovacs''' ({{langx|hu|Kovács Ágnes Melinda}}) is a Hungarian [[psychology|psychologist]], [[linguistics|linguist]] and [[cognitive science|cognitive scientist]] based at the [[Central European University]].<ref name="ae">{{cite web|url=https://www.ae-info.org/ae/Member/Kovacs_Agnes_Melinda|title=Agnes Melinda Kovacs|website=Academia Europaea|access-date=13 April 2024}}</ref>
+
+==Education, career and honours==
+Kovacs received an MSc in [[psychology]] from [[Babeș-Bolyai University]] in [[Cluj-Napoca]], Romania, in 2002, then studied for a PhD at the [[International School for Advanced Studies]] (SISSA) in [[Trieste]], Italy, which she received in 2008.<ref name="ae-cv">{{cite web|url=https://www.ae-info.org/ae/Member/Kovacs_Agnes_Melinda/CV|title=Agnes Melinda Kovacs - Curriculum Vitae|website=Academia Europaea|access-date=13 April 2024}}</ref> Her doctoral studies focused on [[bilingualism]] and [[theory of mind]].<ref name="erc">{{cite web|url=https://erc.europa.eu/projects-statistics/science-stories/building-career-understanding-minds-others|title=Building a career on understanding the minds of others|website=European Research Council|access-date=13 April 2024}}</ref>
+
+From 2008 to 2010 she was a postdoctoral researcher at the Institute for Psychology of the [[Hungarian Academy of Sciences]], supported by a [[Marie Curie]] research fellowship. In 2010 she moved to the [[Central European University]] to continue her postdoctoral research at the Cognitive Development Center there.<ref name="ae"/><ref name="ae-cv"/>
+
+In 2012 Kovacs was the recipient of a [[European Research Council]] Starting Grant for her project REPCOLLAB (Representational preconditions for understanding other minds in the service of human collaboration and social learning), which she carried out at the Central European University (CEU).<ref name="ae-cv"/><ref name="erc"/> She was promoted to Research Fellow in 2015 and took up a position as associate professor in 2017.<ref name="ae"/> She is currently director of the Cognitive Development Center at CEU.<ref name="cdc">{{cite web|url=https://people.ceu.edu/unit/cognitive-development-center|title=Cognitive Development Center|website=Central European University|access-date=13 April 2024}}</ref>
+
+In 2019 Kovacs was elected ordinary member of the [[Academia Europaea]].<ref name="ae"/>
+
+==Research==
+Kovacs's team combines methods from [[cognitive neuroscience]] with ideas from [[philosophy of mind]]. Their focus is on understanding the minds of others, and they conduct neuroimaging and behavioural experiments on infants and adults.<ref name="erc"/> In her early work, conducted with [[Jacques Mehler]] among others, she investigated the effects of bilingualism on [[executive functions]] and on false-belief reasoning.<ref name="illinois">{{cite web|url=https://www.ideals.illinois.edu/items/126926/bitstreams/414646/data.pdf|title=The academic advantages of a bilingual brain|website=Brain Matters (University of Illinois)|access-date=13 April 2024}}</ref>
+
+==Selected publications==
+* Kovacs, Agnes Melinda. 2009. Early bilingualism enhances mechanisms of false-belief reasoning. ''Developmental science'' 12 (1), 48–54. {{doi|10.1111/j.1467-7687.2008.00742.x}}
+* Kovacs, Agnes Melinda, and Jacques Mehler. 2009. Cognitive gains in 7-month-old bilingual infants. ''Proceedings of the National Academy of Sciences'' 106 (16), 6556–6560. {{doi|10.1073/pnas.0811323106}}
+* Kovacs, Agnes Melinda, and Jacques Mehler. 2009. Flexible learning of multiple speech structures in bilingual infants. ''Science'' 325, 611–612. {{doi|10.1126/science.1173947}}
+* Kovacs, Agnes Melinda, Ernő Téglás, and Ansgar Denis Endress. 2010. The social sense: Susceptibility to others' beliefs in human infants and adults. ''Science'' 330, 1830–1834. {{doi|10.1126/science.1190792}}
+* Kovacs, Agnes Melinda, Tibor Tauzin, Ernő Téglás, György Gergely and Gergely Csibra. 2014. Pointing as epistemic request: 12-month-olds point to receive new information. ''Infancy'' 19 (6), 543–547. {{doi|10.1111/infa.12060}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Google Scholar id | t6sb0foAAAAJ | Agnes Melinda Kovacs }}
+{{Authority control}}
+
+{{DEFAULTSORT:Kovacs, Agnes Melinda}}
+[[Category:Women linguists]]
+[[Category:Linguists from Hungary]]
+[[Category:Hungarian psychologists]]
+[[Category:Hungarian women psychologists]]
+[[Category:Women cognitive scientists]]
+[[Category:Living people]]
+[[Category:Academic staff of Central European University]]
+[[Category:Babeș-Bolyai University alumni]]
+[[Category:Members of Academia Europaea]]
+[[Category:Year of birth missing (living people)]]

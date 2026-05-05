@@ -1,0 +1,14 @@
+{{short description|Use of technology to aid education}}
+{{Use British English|date=April 2026}}
+{{Use dmy dates|date=April 2026}}
+
+'''Technology integration''' is the use of technology in classrooms to support student learning, as well as for school management.<ref>{{cite web |last1=Gilbertson |first1=Nana |title=What Is Successful Technology Integration? |url=https://www.edutopia.org/technology-integration-guide-description |website=edutopia.org |publisher=[[George Lucas Educational Foundation]] |access-date=27 March 2026 |date=5 November 2007}}</ref> Technology integration includes practises such as [[virtual classroom]]s, [[Gamification of learning|gamified learning]], and use of the internet to research and collaborate. The use of technology integration increased after the [[COVID-19 pandemic]].<ref name="Caceres-Nakiche-2024">{{Cite journal |last=Cáceres-Nakiche |first=Karim |last2=Carcausto-Calla |first2=Wilfredo |last3=Yabar Arrieta |first3=Silvia Rosio |last4=Lino Tupiño |first4=Ruth Milagros |display-authors=2 |date=2024-02-15 |title=The SAMR Model in Education Classrooms: Effects on Teaching Practice, Facilities, and Challenges |url=https://doi.org/10.33423/jhetp.v24i2.6816 |journal=Journal of Higher Education Theory and Practice |volume=24 |issue=2 |doi=10.33423/jhetp.v24i2.6816 |issn=2158-3595}}</ref>
+
+Studies have shown that technology integration is not always positive.<ref name="Caceres-Nakiche-2024" /> Taking notes using a [[laptop]] instead of handwriting has been found to decrease the learning ability of students.<ref>{{Cite journal |last=Mueller |first=Pam A. |last2=Oppenheimer |first2=Daniel M. |date=2014-06-12 |title=The Pen Is Mightier Than the Keyboard: Advantages of Longhand Over Laptop Note Taking |url=https://journals.sagepub.com/doi/10.1177/0956797614524581 |journal=Psychological Science |language=en |volume=25 |issue=6 |pages=1159–1168 |doi=10.1177/0956797614524581 |issn=0956-7976|url-access=subscription }}</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:Educational technology]]
+
+{{Edu-stub}}

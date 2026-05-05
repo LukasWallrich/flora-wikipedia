@@ -1,0 +1,93 @@
+{{Short description|Psychological bias in predicting future emotion}}
+In the psychology of [[affective forecasting]], the '''impact bias''', a form of which is the '''durability bias''', is the tendency for people to overestimate the length or the intensity of future emotional states.<ref>{{Cite journal|last1=Wilson|first1=Timothy D.|last2=Gilbert|first2=Daniel T.|date=2005|title=Affective Forecasting: Knowing What to Want|url=https://www.jstor.org/stable/20183006|journal=Current Directions in Psychological Science|volume=14|issue=3|pages=131–134|doi=10.1111/j.0963-7214.2005.00355.x |jstor=20183006 |s2cid=18373805 |issn=0963-7214|url-access=subscription}}</ref>
+
+== Overview ==
+People display an impact bias when they overestimate the intensity and durability of affect when making predictions about their emotional responses.  It is a [[cognitive bias]] that has been found in populations ranging from college students (e.g. Dunn, Wilson, & Gilbert, 2003; Buehler & McFarland, 2001), to sports fans (Wilson et al, 2000), to registered voters (Gilbert et al, 1998).<ref name="Wilson & Gilbert, 2003" /><ref name="Buehler & Mcfarland, 2001" />
+
+=== Affective forecasting ===
+{{Main|Affective forecasting}}
+Research shows that people often make errors about how much positive or negative effect an event will have on them. People mispredict their emotional reactions (how much pleasure or displeasure an event will bring them) when they mispredict how the event will occur. These mistaken projections can lead to mistaken assumptions about the impact of an event on their happiness. Generally, people accurately predict the [[Valence (psychology)|valence]], if an event will generate a positive or negative reaction, but people are less accurate in their predictions about the intensity and the duration of these effects.<ref name="Wilson & Gilbert, 2005" />
+
+=== Mistaken projections ===
+To make decisions, people try to predict how an event will play out and what it will make them feel. However, when making these predictions, people are subject to many [[cognitive bias]]es, including the impact bias. Research shows that people’s projections are often mistaken (e.g. Wilson & Gilbert, 2005;<ref name="Wilson & Gilbert, 2005" /> Buehler & McFarland, 2001;<ref name="Buehler & Mcfarland, 2001" /> Loewenstein & Schake, 1999). Early studies revealed that this phenomenon is a result of people’s inability to anticipate how their feelings will be affected by external factors, and change over time (e.g. Kahneman, 1994). People are more prone to make errors about intensity and duration of affect, than about valence. These mistaken projections affect people’s ability to make decisions that maximize their happiness.<ref name="Wilson & Gilbert, 2005" /><ref name="Wilson & Gilbert, 2003" />
+
+== Example ==
+
+Gilbert et al. (1998) conducted a study on individuals participating in a [[job interview]].  The participants were separated into two groups; the ''unfair decision condition'' (where the decision of being hired was left up to a single MBA student with sole authority listening to the interview) and the ''fair decision condition'' (where the decision was made by a team of MBA students who had to independently and unanimously decide the fate of the interviewee). Then, certain participants were chosen to forecast how they would feel if they were chosen or not chosen for the job immediately after learning if they had been hired or fired and then they had to predict how they would feel ten minutes after hearing the news. Then following the interview, all participants were given letters notifying them they had not been selected for the job.  All participants were then required to fill out a questionnaire that reported their current happiness.  Then after waiting ten minutes, the experimenter presented all the participants with another questionnaire that once again asked them to report their current level of happiness. The predictions made by the participants in both the unfair and fair groups were about the same regarding how they would feel immediately after hearing the news as well as ten minutes later.  Both groups accurately predicted how they would feel immediately after hearing the news.  The study showed that both groups felt much better than they had originally predicted, ten minutes later, demonstrating the impact bias.<ref name="Gilbert1998"/>
+
+== Causes ==
+
+Explanations for the occurrence of the impact bias include the following:<ref name="Gilbert1998"/>
+
+=== Misconstrual problem ===
+'''Misconstrual of future events''': When predicting how an experience will impact us emotionally, events which have not been experienced are particularly difficult.  Often what we think an event may be like does not relate to what the experience is like. People know that the future is uncertain, but fail to recognize their projections as construals, subjective perceptions or interpretations of reality. (Griffin & Ross, 1998; Wilson & Gilbert, 2003). Misconstruals can be responsible for a great range of mispredictions because there is no limit to the degree of error one can make. It leads to the impact bias when misconstruals are accurate about the valence of an event, but overpredict intensity and duration of emotional reaction.<ref name="Wilson & Gilbert, 2005" />
+
+'''Inaccurate theories''': People have created cultural theories and had experiences that greatly influence beliefs of how an event will affect us.  For example, American culture has emphasized a correlation between wealth and happiness, however despite this belief; money does not necessarily bring happiness.<ref>{{Cite journal |last1=Sheldon |first1=Kennon M. |last2=Gunz |first2=Alexander |last3=Nichols |first3=Charles P. |last4=Ferguson |first4=Yuna |date=February 2010 |title=Extrinsic Value Orientation and Affective Forecasting: Overestimating the Rewards, Underestimating the Costs |url=https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6494.2009.00612.x |journal=Journal of Personality |language=en |volume=78 |issue=1 |pages=149–178 |doi=10.1111/j.1467-6494.2009.00612.x|pmid=20433616 |url-access=subscription }}</ref>
+
+'''Motivated Distortions''': When faced with a negative event people may have forecasts that are overestimated and can evoke either comfort or fear in the present.  The overestimation however can often be used to soften the effects of an event or make it easier by the reality not being as extreme as the forecasted impact.
+
+'''Under correction (anchoring and adjustment)''': People anchor their prediction on how they currently feel and never accurately adjust their predictions. An illustrative example proposed by Wilson and Gilbert (2005), is that if you are currently in bed with a cold, and are invited to a party a month from now, it will be very difficult to separate your negative feelings from your prediction of how you will feel on a Saturday night a month later.<ref name="Wilson & Gilbert, 2005" /> This process is sometimes referred to as the projection bias (Loewenstein et al., 1999) whereby people’s affective forecasts are unconsciously or consciously influenced by their current state.
+
+=== Focalism ===
+Often when making a prediction of the impact of an event people focus solely on the event in question.  This ignores the fact that with the passage of time, other events will occur that influence happiness. Disregarding the effect of unrelated events on future thoughts emotions, leads to erroneous predictions of our emotional reactions. Whereby, since we are focusing on the impact on one specific event, we simultaneously overestimate the intensity and duration of our emotional reaction to that event and underestimate the effect of other unrelated events. However, we fail to consider that these unrelated events can moderate our emotional responses.<ref name="Wilson & Gilbert, 2005" /><ref name="Schkade & Kahneman, 1998" />
+
+=== Distinction bias ===
+Cognitive bias whereby people focus too much on the differences between two future events instead of the shared features. This bias leads to the impact bias when people focus too much on a distinction that does affect their future happiness instead of focusing on features that do. As a result, people overestimate the impact of that difference on their wellbeing. For example, a study asked college students to predict how happy they would be a year later if assigned to a desired or undesired dormitory. Results showed that the students largely overestimated their unhappiness when assigned to an undesired dormitory, as their overall happiness was nearly identical to those living in desired houses the following year.<ref name="Wilson & Gilbert, 2005" /><ref name="Hsee & Zhang, 2004" />
+
+=== Sense-making ===
+People fail to recognize how quickly they will make sense of an event, thereby, failing to anticipate the deceleration of emotional reactions. Research suggests that there are four processes by which our psychological immune system deals with unpredicted and poorly understood events: First, they pay a lot of attention to the event, then, they react emotionally, they attempt to make sense of the event, and finally, they adapt emotionally. Failure to recognize that these processes will occur or how fast they will occur causes people to overestimate the impact (and the duration of impact) of such events.<ref name="Wilson & Gilbert, 2005" />
+
+'''Immune Neglect''':
+We have unconscious psychological processes such as ego defense, dissonance reductions, self-serving biases, etc. that will cushion the effects of a negative event. When making predictions, people are generally unaware of these unconscious processes, and fail to take them into account when making affective forecasts.
+
+== Consequences ==
+In the context of [[decision-making]], the impact bias has important consequences. When making decisions (ranging from deciding whether to move to California or not to deciding whether to bike or drive to work), people attempt to predict the outcome of their decisions by projecting their emotional reactions to future events (e.g.: “''How will this make me feel?''”). Thereby, they base their decisions on affective forecasts (Wilson & Gilbert, 2005).<ref name="Wilson & Gilbert, 2005" /> Erroneous projections about future emotional reactions, such as overestimating the intensity and durability of affect (i.e.: impact bias) can lead to mistaken projections. These mistakes impact decisions, and  misguide people into making decisions that are not compatible with their future states and may be harmful to their wellbeing.
+
+The impact bias can also result in error in recollecting memories. People display '''retrospective impact bias''' when they overestimate the intensity and duration of an emotional reaction to a past event. This can lead to errors in decision making because it can lead people overestimating how an event positively or negatively impacts their wellbeing. Furthermore, people are influenced by their current emotion when recalling their past emotions. This can explain why people do not learn from their mistakes, and make more accurate forecasts.<ref name="Wilson, Meyers, & Gilbert, 2003" /> This phenomenon can cause people to make irrational or unbalanced decisions because they recollect that an example was positive (or negative), but fail to recollect the degree of positive (or negative) effect, leading to an inaccurate cost-benefit analysis.
+
+== Development in children ==
+Recent evidence suggests that 3, 4 and 5 year-old children show an impact bias for the intensity of their negative future emotions, but not their positive future emotions.<ref>{{Cite journal|date=2017-07-01|title=Affective forecasting bias in preschool children|journal=Journal of Experimental Child Psychology|language=en|volume=159|pages=175–184|doi=10.1016/j.jecp.2017.02.005|pmid=28288413|issn=0022-0965|last1=Gautam|first1=Shalini|last2=Bulley|first2=Adam|last3=von Hippel|first3=William|last4=Suddendorf|first4=Thomas}}</ref><ref>{{Cite journal|last1=Kopp|first1=Leia|last2=Atance|first2=Cristina M.|last3=Pearce|first3=Sean|date=2017-09-13|title='Things aren't so bad!': Preschoolers overpredict the emotional intensity of negative outcomes|journal=British Journal of Developmental Psychology|language=en|volume=35|issue=4|pages=623–627|doi=10.1111/bjdp.12210|pmid=28901558|s2cid=6246862 |issn=0261-510X}}</ref>
+
+==See also==
+* [[List of cognitive biases]]
+*[[Hot-cold empathy gap]]
+*[[Hedonic treadmill]]
+*[[Projection bias]]
+*[[Affective forecasting|Affective Forecasting]]
+*[[Decision-making]]
+*[[Distinction bias]] 
+*[[Anchoring (cognitive bias)|Focusing effects]]
+*[[Duration neglect]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Buehler & Mcfarland, 2001">{{cite journal |last1=Buehler |first1=Roger |last2=McFarland |first2=Cathy |title=Intensity Bias in Affective Forecasting: The Role of Temporal Focus |journal=Personality and Social Psychology Bulletin |date=2 November 2001 |volume=27 |issue=11 |pages=1480–1493 |doi=10.1177/01461672012711009|s2cid=145441451 }}</ref>
+
+<ref name= "Hsee & Zhang, 2004">{{cite journal |last1=Hsee |first1=Christopher K. |last2=Zhang |first2=Jiao |title=Distinction Bias: Misprediction and Mischoice Due to Joint Evaluation. |journal=Journal of Personality and Social Psychology |date=2004 |volume=86 |issue=5 |pages=680–695 |doi=10.1037/0022-3514.86.5.680|pmid=15161394 }}</ref>
+
+<ref name="Gilbert1998">{{cite journal|last1=Gilbert |first1=Daniel T. |last2=Pinel |first2=Elizabeth C. |last3=Wilson |first3=Timothy D. |last4=Blumberg |first4=Stephen J. |last5=Wheatley |first5=Thalia P. |title=Immune neglect: A source of durability bias in affective forecasting. |journal=Journal of Personality and Social Psychology |date=1998 |volume=75 |issue=3 |pages=617–638 |doi=10.1037/0022-3514.75.3.617 |url=http://www.danielgilbert.com/Gilbert%20et%20al%20%28IMMUNE%20NEGLECT%29.pdf |pmid=9781405 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20160517091130/http://www.danielgilbert.com/Gilbert%20et%20al%20%28IMMUNE%20NEGLECT%29.pdf |archive-date=2016-05-17 }}</ref>
+
+<ref name=" Schkade & Kahneman, 1998">{{cite journal|author1-link=David Schkade|author2-link=Daniel Kahneman|last1=Schkade |first1=David A. |last2=Kahneman |first2=Daniel |title=Does Living in California Make People Happy? A Focusing Illusion in Judgments of Life Satisfaction |journal=Psychological Science |date=6 May 2016 |volume=9 |issue=5 |pages=340–346 |doi=10.1111/1467-9280.00066|s2cid=14091201 }}</ref>
+
+<!-- {{cite journal |last1=Tversky |first1=Amos |last2=Kahneman |first2=Daniel |title=Judgment under Uncertainty: Heuristics and Biases |journal=Science |date=1974 |volume=185 |url=www.jstor.org/stable/1738360 |issn=0036-8075}} -->
+
+<ref name="Wilson & Gilbert, 2005">{{cite journal |last1=Wilson |first1=Timothy D. |last2=Gilbert |first2=Daniel T. |title=Affective Forecasting |journal=Current Directions in Psychological Science |date=23 June 2016 |volume=14 |issue=3 |pages=131–134 |doi=10.1111/j.0963-7214.2005.00355.x|s2cid=18373805 }}</ref>
+
+<ref name="Wilson, Meyers, & Gilbert, 2003">{{cite journal |last1=Wilson |first1=Timothy D. |last2=Meyers |first2=Jay |last3=Gilbert |first3=Daniel T. |title="How Happy Was I, Anyway?" A Retrospective Impact Bias |journal=Social Cognition |date=1 December 2003 |volume=21 |issue=6 |pages=421–446 |doi=10.1521/soco.21.6.421.28688 |issn=0278-016X}}</ref>
+
+<ref name="Wilson & Gilbert, 2003">{{cite book |last1=Zanna |first1=Mark P. |title=Advances in Experimental Psychology |date=2003 |publisher=Academic |chapter=Affective Forecasting}}</ref>
+
+}}
+;Sources
+*{{cite journal |last1=Wilson |first1=Timothy D. |last2=Wheatley |first2=Thalia |last3=Meyers |first3=Jonathan M. |last4=Gilbert |first4=Daniel T. |last5=Axsom |first5=Danny |title=Focalism: A source of durability bias in affective forecasting. |journal=Journal of Personality and Social Psychology |date=2000 |volume=78 |issue=5 |pages=821–836 |doi=10.1037/0022-3514.78.5.821 |pmid=10821192 |language=en |issn=1939-1315}}
+*{{cite journal |last1=Wilson |first1=Timothy D. |last2=Gilbert |first2=Daniel T. |title=Affective Forecasting |journal=Current Directions in Psychological Science |date=23 June 2016 |volume=14 |issue=3 |pages=131–134 |doi=10.1111/j.0963-7214.2005.00355.x|s2cid=18373805 }}
+
+==External links==
+* [https://www.ted.com/embed/dan_gilbert_the_surprising_science_of_happiness Video] of Gilbert discussing humans' failure to predict what makes us happy. Presented July 2005 at the [[TED Conference]] in Oxford, UK. Duration: 22:02
+*{{cite news|last1=Gertner|first1=Jon|title=The Futile Pursuit of Happiness|url=https://www.nytimes.com/2003/09/07/magazine/the-futile-pursuit-of-happiness.html|access-date=17 May 2016|work=The New York Times|date=7 September 2003}}
+* [http://www.rn.org/courses/coursematerial-10047.pdf Impact Bias course on www.RN.org]
+
+{{Biases}}
+
+[[Category:Cognitive biases]]

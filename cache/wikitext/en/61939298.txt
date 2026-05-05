@@ -1,0 +1,61 @@
+{{short description|Ophthalmologist and researcher}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox scientist
+| honorific_prefix = 
+| name = Robyn Guymer
+| honorific_suffix = {{post-nominals|country=AUS|AM|FAHMS|size=100}}
+| birth_name = Robyn Heather Guymer
+| fields = Ophthalmology
+| workplaces = Melbourne University
+| alma_mater = Walter & Eliza Hall Institute of Medical Research
+| thesis_title = A comparison of corneal, pancreas and skin allografts in mice<ref>{{Citation | author1=Guymer, Robyn Heather | title=A comparison of corneal, pancreas and skin allografts in mice | date=1991 | url=https://trove.nla.gov.au/work/34788324 | accessdate=2 October 2019 }}</ref>
+| thesis_year = 1991
+| known_for = Ophthalmology
+| influences = 
+| influenced = 
+| awards = Member, Order of Australia
+}}{{Scholia}}
+
+'''Robyn Guymer''' is an Australian ophthalmologist who was awarded an Elizabeth Blackburn Fellowship from the [[National Health and Medical Research Council|NHMRC]], and works in ophthalmology at Melbourne University. Guymer is a senior retinal specialist within the Royal Victorian Eye and Ear Hospital, and is the deputy director, Centre for Eye Research Australia. She works in age-related macular degeneration as a clinician, academic, and researcher,<ref name="bionicsinstitute.org">{{Cite web|url=http://www.bionicsinstitute.org/staffs/dr-robyn-guymer/|title=Prof Robyn Guymer – Bionics Institute|language=en-US|access-date=2019-10-02}}</ref><ref>{{Cite web|url=https://research.monash.edu/en/persons/robyn-guymer|title=Robyn Guymer|website=Monash University|language=en|access-date=2019-10-02}}</ref><ref name=":0">{{Cite web|url=https://www.mdfoundation.com.au/content/professor-robyn-guymer|title=Professor Robyn Guymer, MBBS, PhD, FRANZCO|date=2015-12-07|website=Macular Disease Foundation Australia|language=en|access-date=2019-10-02}}</ref> and has used nano-lasers to treat Age-related Macular Degeneration.<ref>{{Cite web|url=https://www.smh.com.au/education/researcher-eyes-off-older-generation-20120227-1tyk6.html|title=Researcher eyes off older generation|last=Anderson|first=Deb|date=2012-02-27|website=The Sydney Morning Herald|language=en|access-date=2019-10-02}}</ref>
+
+== Career ==
+Guymer was awarded her Ph.D. from the [[Walter and Eliza Hall Institute of Medical Research]]. She then trained in ophthalmology in Melbourne. Subsequently, she completed a medical retinal fellowship, in London, at the Moorfields Eye Hospital, with Professor [[Alan C. Bird|Alan Bird]].<ref name=":0" /> She directs a team of researchers who specialise in investigating [[macular degeneration|age-related macular degeneration]] (AMD).<ref name=":0" />
+
+Guymer works in retinal disease<ref>{{Cite web|url=http://www.globenewswire.com/news-release/2019/03/26/1773553/0/en/Lutronic-Vision-Engages-World-Renowned-Retina-Expert-for-R-GEN-Pilot-AMD-Clinical-Study.html|title=Lutronic Vision Engages World Renowned Retina Expert for R:GEN™ Pilot AMD Clinical Study|date=2019-03-26|website=GlobeNewswire News Room|access-date=2019-10-02}}</ref> and has researched both environmental and genetic risk factors for the condition AMD. She has also investigated predictors of the responses to treatments for late AMD. Guymer is a principal investigator in a range of trials. She is on pharmaceutical advisory boards, including as the Mactel consortium, the Beckman/Ryan AMD initiative (USA) in addition to the International Classification of Atrophy (CAM) group.<ref>{{Cite web|url=https://www.cera.org.au/2019/09/sylvias-gift/|title=Sylvia's gift {{!}} CERA|date=2019-09-05|website=www.cera.org.au|language=en-AU|access-date=2019-10-02}}</ref>
+
+Guymer's career has involved investigating new strategies for the treatment of the early stages of AMD. She also researches imaging and functional biomarkers as well as surrogate endpoints with the goal of improving trials for early interventions.<ref name="bionicsinstitute.org"/><ref>{{Cite web|url=http://mciaustralia.eventsair.com/|title=FDO 2019 - 2026 NVS Future Directions in Ophthalmology (FDO) 2019 - Sheraton Grand Hyde Park|last=Ophthalmology (FDO) 2019|first=2026 NVS Future Directions in|website=FDO 2019|access-date=2019-10-02}}</ref> Guymer has supported other Early Career Researchers in studying and treating eye conditions at the CERA.<ref>{{Cite web|url=https://www.cera.org.au/2019/07/supporting-the-next-generation-of-eye-research-innovators/|title=Supporting the next generation of eye research innovators {{!}} CERA|date=2019-07-08|website=www.cera.org.au|language=en-AU|access-date=2019-10-02}}</ref>
+
+== Select publications ==
+
+Guymer has over 11,000 citations and an H-Index of over 57, as at September 2019.<ref>{{Cite web|url=https://scholar.google.com.au/citations?user=PUTkZ7wAAAAJ&hl=en&oi=ao|title=Robyn Guymer - Google Scholar Citations|website=scholar.google.com.au|access-date=2019-10-02}}</ref>
+
+=== Peer-reviewed articles ===
+R Guymer, P Luthert, A Bird (1999) Changes in Bruch's membrane and related structures with age. ''Progress in retinal and eye research'' 18 (1), 59-90.<ref>{{Cite journal|last1=Guymer|first1=R.|last2=Luthert|first2=P.|last3=Bird|first3=A.|date=1999|title=Changes in Bruch's membrane and related structures with age|journal=Progress in Retinal and Eye Research|volume=18|issue=1|pages=59–90|issn=1350-9462|pmid=9920499|doi=10.1016/s1350-9462(98)00012-3|s2cid=26123007 }}</ref>
+
+LG Fritsche, W Chen, M Schu, BL Yaspan, Y Yu, G Thorleifsson, DJ Zack, ''et al.'' (2013) Seven new loci associated with age-related macular degeneration. ''Nature genetics'' 45 (4), 433.<ref>{{Cite journal|last1=Fritsche|first1=Lars G.|last2=Chen|first2=Wei|last3=Schu|first3=Matthew|last4=Yaspan|first4=Brian L.|last5=Yu|first5=Yi|last6=Thorleifsson|first6=Gudmar|last7=Zack|first7=Donald J.|last8=Arakawa|first8=Satoshi|last9=Cipriani|first9=Valentina|last10=Ripke|first10=Stephan|last11=Igo|first11=Robert P.|date=2013|title=Seven new loci associated with age-related macular degeneration|journal=Nature Genetics|volume=45|issue=4|pages=433–439, 439e1–2|doi=10.1038/ng.2578|issn=1546-1718|pmc=3739472|pmid=23455636}}</ref>
+
+LG Fritsche, W Igl, JNC Bailey, F Grassmann, S Sengupta, ''et al.'' (2016) A large genome-wide association of age-related macular degeneration highlights contributions of rare and common variants. ''Nature genetics'' 48 (2), 134.<ref>{{Cite journal|last1=Fritsche|first1=Lars G.|last2=Igl|first2=Wilmar|last3=Bailey|first3=Jessica N. Cooke|last4=Grassmann|first4=Felix|last5=Sengupta|first5=Sebanti|last6=Bragg-Gresham|first6=Jennifer L.|last7=Burdon|first7=Kathryn P.|last8=Hebbring|first8=Scott J.|last9=Wen|first9=Cindy|last10=Gorski|first10=Mathias|last11=Kim|first11=Ivana K.|date=2016|title=A large genome-wide association study of age-related macular degeneration highlights contributions of rare and common variants|journal=Nature Genetics|language=en|volume=48|issue=2|pages=134–143|doi=10.1038/ng.3448|pmid=26691988|pmc=4745342|issn=1546-1718|hdl=2328/35971}}</ref>
+
+== Awards, honours and recognition ==
+* 2021: [[Victorian Honour Roll of Women]] inductee.<ref name=":4">{{Cite web|date=2021-11-12|title=Outstanding Victorian Women Recognised|url=https://www.miragenews.com/outstanding-victorian-women-recognised-672647/|access-date=2021-11-14|website=Mirage News|language=en-AU}}</ref>
+*2019: Plenary at Science on the Swan.<ref>{{Cite web|url=https://scienceontheswan.com.au/speakers/|title=Science on the Swan|website=|access-date=}}</ref>
+*2019: Named Lecturer at RANZCO's 50th Annual Scientific Congress.<ref>{{Cite web|url=https://www.insightnews.com.au/Article3/2021/Gold-Standard-program-at-RANZCOs-50th-congress|title=Gold Standard program at RANZCO's 50th congress|website=insightnews.com.au|access-date=2019-10-02}}</ref>
+* 2018: Member in the General Division (AM) in the [[2018 Queen's Birthday Honours (Australia)|2018 Queen's Birthday Honours List]], recognised for her "significant service to medicine in the field of ophthalmology, particularly age related macular degeneration as a clinician, academic and researcher".<ref>{{Cite web|url=https://honours.pmc.gov.au/honours/awards/2001856|title=Professor Robyn Heather Guymer|last=|first=|date=|website=honours.pmc.gov.au|archive-url=|archive-date=|access-date=2019-10-02}}</ref>
+* 2016: NHMRC's Elizabeth Blackburn Fellowship, for the top female researchers in clinical medicine.<ref>{{Cite web|url=https://www.insightnews.com.au/Article3/1210/A-professor-on-a-mission-to-fight-against-AMD|title=A professor on a mission to fight against AMD|website=insightnews.com.au|access-date=2019-10-02}}</ref><ref>{{Cite web|url=https://www.insightnews.com.au/Article3/1641/Queens-Birthday-honours-for-eyecare-professionals|title=Queen's Birthday honours for eyecare professionals|website=insightnews.com.au|access-date=2019-10-02}}</ref>
+* 2015: Fellow of the Australian Academy of Health and Medical Sciences.<ref>{{Cite web|url=https://www.aahms.org/wp-content/uploads/2016/09/AAHMS_Fellowship_October-2015.pdf|title=Fellowship of the Australian Academy of Health and Medical Sciences October 2015|last=|first=|date=|website=Australian Academy of Health and Medical Sciences|archive-url=|archive-date=|access-date=2019-10-02}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Guymer, Robyn}}
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Australian women scientists]]
+[[Category:Australian women academics]]
+[[Category:Australian ophthalmologists]]
+[[Category:Women ophthalmologists]]
+[[Category:Members of the Order of Australia]]
+[[Category:Fellows of the Australian Academy of Health and Medical Sciences]]
+[[Category:Academic staff of the University of Melbourne]]

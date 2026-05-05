@@ -1,0 +1,25 @@
+{{short description|American psychologist}}
+'''Dana R. Carney'''<ref>{{Cite web|url=https://faculty.haas.berkeley.edu/dana_carney/|title=Dana R. Carney's Research Webpage at UC Berkeley}}</ref> is an American psychologist. She is associate professor of business at the [[Haas School of Business]] at the [[University of California, Berkeley]].<ref>{{Cite web|url=https://www.berkeley.edu/|title=UC Berkeley website}}</ref> She is a Barbara and Gerson Bakar Faculty Fellow, an affiliate of the Department of Psychology and the director of the Institute of Personality and Social Research at the [[University of California, Berkeley]].<ref>{{Cite web|url=https://vcresearch.berkeley.edu/research-unit/institute-personality-and-social-research|title=Dana Carney, IPSR Director}}</ref>
+
+==Education and research ==
+Carney's field of study is nonverbal communication,<ref name="auto1">{{Cite web|url=https://scholar.google.com/citations?user=SfsfrbUAAAAJ&hl=en|title=Google Scholar}}</ref><ref>{{Cite news |first=John |last=Cloud |date=November 29, 2010 |url=http://content.time.com/time/magazine/article/0,9171,2032113,00.html|title=Strike a Pose |work=[[Time (magazine)|Time]]}}</ref> power and status,<ref name="auto1"/> and racial bias and discrimination.<ref name="auto1"/> She has published over 50 articles on these topics in her ten years as a faculty member.<ref name="auto">{{Cite web|url=http://faculty.haas.berkeley.edu/dana_carney/cv.html|title=CV}}</ref><ref name="auto1"/> Prior to serving on the faculty at UC Berkeley she was an assistant professor at Columbia University's Graduate School of Business. Previous to Columbia she spent time as a postdoctoral fellow at [[Harvard University|Harvard]] in the Psychology Department working with [[Mahzarin Banaji]],<ref>{{Cite web|url=http://www.people.fas.harvard.edu/~banaji/people/labmembers/past_lab|title=Carney on Banaji's Web Page}}</ref> [[Wendy Berry Mendes]], and [[Moshe Bar (neuroscientist)|Moshe Bar]]. She received her PhD in experimental psychology from [[Northeastern University]] working with Judith A. Hall and C. Randall Colvin. She also received a master's degree at [[California State University, Fullerton]] working with Jinni A. Harrigan and Ronald E. Riggio and a B.A. from the [[University of San Francisco]] working with Maureen O'Sullivan.<ref name="auto"/>
+
+==Power poses==
+Carney is the primary author of the [[power pose]] phenomenon popularized by [[Amy Cuddy]].{{Citation needed|date=April 2025}} The idea of power posing builds on a paper Carney published in 2005 called "Beliefs about the nonverbal expression of social power" and a finding called the [[facial feedback hypothesis]] (which has come under some scrutiny for possibly being a false positive finding; however a recent paper suggests the facial feedback hypothesis may be a true phenomenon after all).<ref>{{Cite journal|title=Facial Feedback Hypothesis May be True After All|journal=[[Journal of Personality and Social Psychology]] |volume=114 |issue=5 |pages=657–664 |pmid=29672101 |year=2018 |last1=Noah |first1=T. |last2=Schul |first2=Y. |last3=Mayo|first3=R.|doi=10.1037/pspa0000121|s2cid=4985655}}</ref> After many failed replications of Carney's power pose work, Carney posted a note on her personal website explaining that she no longer believed in the effects of power posing on feelings, hormones, and risk-taking behavior. This "position on power poses"<ref>{{Cite web|url=http://faculty.haas.berkeley.edu/dana_carney/pdf_My%20position%20on%20power%20poses.pdf |title=Power Pose Position}}</ref> note contributed to the discussion of [[replicability]] in psychological science by Carney being among a first recent batch of scientists publicly disclosing they did not, after failed replications, have faith in their own research. Carney was applauded for her willingness to disclose her doubts.<ref>{{Cite web|url=https://undark.org/article/loss-of-confidence-project-replication-crisis/|title=Loss of Confidence Project}}</ref><ref>{{Cite web|url=http://psychbrief.com/credit/|title=Psych Brief News|date=2016-09-27}}</ref><ref>{{Cite web|url=https://www.npr.org/2016/10/01/496093672/power-poses-co-author-i-do-not-believe-the-effects-are-real|title=Replicability of Power Poses}}</ref>
+
+== References ==
+<references />
+
+{{Authority control}}
+
+{{DEFAULTSORT:Carney, Dana R.}}
+[[Category:American women psychologists]]
+[[Category:21st-century American psychologists]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Haas School of Business faculty]]
+[[Category:Northeastern University alumni]]
+[[Category:California State University, Fullerton alumni]]
+[[Category:University of San Francisco alumni]]
+[[Category:American women academics]]
+[[Category:21st-century American women]]

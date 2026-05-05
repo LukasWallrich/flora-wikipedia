@@ -1,0 +1,58 @@
+{{Short description|American parasitologist}}
+
+[[File:Dr. C.W. Stiles LCCN2014699248.jpg|thumb]]
+'''Charles Wardell Stiles''' (May 15, 1867 – January 24, 1941)<ref>{{cite journal | last1 = Wright | first1 = Willard H | year = 1941 | title = Charles Wardell Stiles: 1867–1941 | url = | journal = The Journal of Parasitology | volume = 27 | issue = 3| pages = 195–201 }}</ref> was an American [[parasitology|parasitologist]] born in [[Spring Valley, New York]]. He was notable for working on a campaign against [[hookworm]] infestation in the American South, where it had been found to cause high rates of [[anemia]], a debilitating disease.<ref>John Ettling, ''The Germ of Laziness: Rockefeller Philanthropy and Public Health in the New South'' (Harvard University Press, 1981), pp. 9-48, 98-129, 200-202 on Stiles.</ref>
+
+==Biography==
+He studied science at [[Wesleyan University (Connecticut)|Wesleyan University]] in [[Connecticut]] (1885–86), [[Collège de France]] (1886–87), the [[University of Berlin]] (1887–89) and the [[University of Leipzig]] (1889–90). In 1891, he continued his education at the zoological station in [[Trieste]] and at the [[Institut Pasteur]] in [[Paris]]. He obtained his doctorate in [[Leipzig]] under the direction of [[parasitology|parasitologist]] [[Rudolf Leuckart]] (1822–1898).
+
+He taught classes in medical [[zoology]] at [[Johns Hopkins School of Medicine]] and at [[Georgetown University]]. He also worked as a zoologist at the Bureau of Animal Industry in the [[United States Department of Agriculture]] from 1891 to 1902, and was later chief zoologist at the Hygienic Laboratory of the US Public Health and Marine Hospital Service from 1902 to 1931. In 1898, Stiles was deployed to Germany as scientific ambassador on the BAI's behalf to investigate reports of [[trichinosis]] in American pork. The investigation concluded that the contemporary standard of microscopic examination of pork was insufficient for preventing the disease.<ref>{{cite web|title=Trichinellosis (Trichinosis)|url=https://www.nal.usda.gov/exhibits/speccoll/exhibits/show/parasitic-diseases-with-econom/parasitic-diseases-with-econom/trichinosis|website=nal.usda.gov}}</ref>
+
+In addition, he helped establish the Rockefeller Sanitary Commission for the Eradication of Hookworm Disease. In 1921, Stiles was awarded the [[Public Welfare Medal]] from the [[United States National Academy of Sciences|National Academy of Sciences]].<ref name=PublicWelfare>{{cite web|title=Public Welfare Award |url=http://www.nasonline.org/site/PageServer?pagename=AWARDS_pwm |publisher=National Academy of Sciences |accessdate=14 February 2011 |url-status=dead |archiveurl=https://web.archive.org/web/20110604024100/http://www.nasonline.org/site/PageServer?pagename=AWARDS_pwm |archivedate=4 June 2011 }}</ref>
+
+Stiles is remembered for his investigations of parasitic diseases such as [[trichinosis]] and [[hookworm]]. While working at the Department of Agriculture, he identified a new species of hookworm called ''[[Necator americanus]]'' ("American murderer") from samples brought from [[Puerto Rico]] by his former student, [[Bailey Ashford]]. In 1908, he diagnosed widespread hookworm infestation in the "dirt eaters" of the [[American South]] ([[eating dirt]] is a symptom of severe anemia). Through the journalist [[Walter Hines Page]], this led to the creation of the Rockefeller Sanitary Commission (a forerunner of the [[Rockefeller Foundation]]) campaign for the eradication of hookworm, especially in the American South.<ref name="Immerwahr">{{cite book |last=Immerwahr |first=Daniel |date=2019 |title=How to Hide an Empire |location=New York |publisher=Farrar, Straus and Giroux |chapter=9: Doctors Without Borders |pages=139–142 |isbn=9780374172145 }}</ref> He also dealt with health and sanitation issues that involved miners and [[cotton mill]] workers.
+
+Stiles was secretary of the [[International Commission on Zoological Nomenclature]], a group involved in setting standards for zoological classifications.
+
+== Selected writings ==
+[[File:Charles_W_Stiles.jpg|thumb|Portrait c. 1912]]
+* "Trichinosis in Germany", 1901
+* "Index-Catalog of Medical and Veterinary Zoology", (1902–20)
+* "Report upon the prevalence and geographic distribution of hookworm disease ([[uncinariasis]] or [[anchylostomiasis]]) in the United States", 1903
+* "A zoological investigation into the cause, transmission, and source of [[Rocky Mountain spotted fever|Rocky Mountain "spotted fever]]", 1905
+* "A statistical study of the prevalence of [[intestinal worms]] in man", 1906
+* "The Sanitary Privy: Its Purpose and Construction", 1910
+* "Key-catalogue of the [[Protozoa]] reported for man", 1925
+* "Key-catalogue of the worms reported for man", 1926
+{{-}}
+{{botanist|Stiles}}
+
+==References==
+{{Reflist}}
+* ''Parts of this article are based on a translation of the equivalent article from the French Wikipedia.''
+* [https://web.archive.org/web/20090526015941/http://nihrecord.od.nih.gov/newsletters/10_29_2002/story04.htm NIH Newsletters] Another Kind of NIH Centennial
+* [https://openlibrary.org/a/OL154908A/Charles-Wardell-Stiles Open Library] (bibliography)
+* "Applied Microscopy and American Pork Diplomacy: Charles Wardell Stiles in Germany" (1898–1899).
+==Further reading==
+*{{cite journal | pmid = 24146438 | doi=10.1162/qjec.121.1.73 | volume=122 | title=Disease and Development: Evidence from Hookworm Eradication in the American South | pmc=3800113 | year=2007 | journal=Q J Econ | pages=73–117  | last1 = Bleakley | first1 = H}}
+
+* Ettling, John. ''The Germ of Laziness: Rockefeller Philanthropy and Public Health in the New South'' (Harvard University Press, 1981), [https://archive.org/details/germoflazinessro0000ettl/page/n6/mode/1up online]
+
+==External links==
+{{Commons category}}
+* [https://web.archive.org/web/20150416114628/http://www.nal.usda.gov/speccoll/collectionsguide/collection2.php?search=National+Animal+Parasite+Collection+Records U.S. National Animal Parasite Collection Records] (Contains historical information on parasitology research at the Beltsville Agricultural Research Center from 1886 through the 1980s.)
+* {{Internet Archive author |sname=Charles Wardell Stiles}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Stiles, Charles Wardell}}
+[[Category:American parasitologists]]
+[[Category:1867 births]]
+[[Category:1941 deaths]]
+[[Category:People from Spring Valley, New York]]
+[[Category:Wesleyan University alumni]]
+[[Category:Georgetown University faculty]]
+[[Category:19th-century American zoologists]]
+[[Category:20th-century American zoologists]]
+[[Category:Scientists from New York (state)]]
+[[Category:Presidents of the American Society of Parasitologists]]

@@ -1,0 +1,123 @@
+{{Short description|German-born clinical psychologist}}
+{{Multiple issues|
+{{Independent sources|date=May 2022}}
+{{COI|date=May 2022}}
+}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Stefan Georg Hofmann
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = <!--()-->
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = {{birth date |1964|12|15}}
+| birth_place       = [[Bietigheim-Bissingen]], Germany
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| siglum            = 
+| pronounce         = 
+| citizenship       = German
+| fields            = Emotions<br/>Anxiety disorders<br/>Clinical psychology<br/>Neuroscience
+| workplaces        = [[Philipps University of Marburg]], Germany<br/>
+[[Boston University]], USA
+| patrons           = 
+| education         = 
+| alma_mater        = [[Philipps University of Marburg]], Germany
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = [[Anke Ehlers]]<br/>[[Walton T. Roth]]<br/>[[David H. Barlow]]<br/>[[Aaron T. Beck]]
+| doctoral_students = 
+| notable_students  = 
+| known_for         = Translational clinical psychology<br/>
+Process-based therapy
+| influences        = 
+| influenced        = 
+| awards            = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 2
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!--{{URL|www.bostonanxiety.org}}-->
+| footnotes         = 
+}}
+ 
+'''Stefan G. Hofmann''' (born December 15, 1964) is a German-born clinical psychologist. He is the [[Alexander von Humboldt Professor]] and recipient of the LOEWE<ref>{{Cite web |url=https://wissenschaft.hessen.de/wissenschaft/landesprogramm-loewe |title=Landesprogramm LOEWE {{pipe}} Hessisches Ministerium für Wissenschaft und Kunst |access-date=2021-07-28 |archive-date=2021-07-27 |archive-url=https://web.archive.org/web/20210727234509/https://wissenschaft.hessen.de/wissenschaft/landesprogramm-loewe |url-status=dead }}</ref> Spitzenprofessur for Translational Clinical Psychology at the [[Philipps University of Marburg]] in Germany, examining [[cognitive behavioral therapy]],<ref>{{Cite web | title=Expertscape Busy | url=https://expertscape.com/ex/cognitive+behavioral+therapy | access-date=2026-02-12 | website=expertscape.com}}</ref> especially for [[anxiety disorders]].<ref>{{cite web | url=https://www.humboldt-foundation.de/en/explore/newsroom/dossier-alexander-von-humboldt-professorship/stefan-g-hofmann | title=Stefan G. Hofmann }}</ref><ref>{{Cite web | title=Expertscape Busy | url=https://expertscape.com/ex/anxiety+disorders | access-date=2026-02-12 | website=expertscape.com}}</ref><ref>{{cite web | url=https://www.aaas.org/news/aaas-announces-leading-scientists-elected-2020-fellows | title=AAAS Announces Leading Scientists Elected as 2020 Fellows {{pipe}} American Association for the Advancement of Science }}</ref>
+
+Since 2012, he has been editor in chief of the journal ''Cognitive Therapy and Research''.<ref>{{cite web | url=https://www.springer.com/journal/10608 | title=Cognitive Therapy and Research }}</ref>
+
+== Education ==
+
+Hofmann was born on December 15, 1964, in [[Bietigheim-Bissingen]].{{citation needed|date=August 2023}}He majored in psychology at the [[University of Marburg|Philipps University of Marburg]], where he eventually earned his Ph.D. in 1993.
+
+== Scientific contributions ==
+
+=== Clinical translational research ===
+
+Hofmann has been studying the nature of emotional disorders and the processes through which psychological treatments alleviate symptoms by translating discoveries from emotion research and neuroscience into clinical applications.
+
+=== Pharmacological augmentation of psychotherapy ===
+
+An important mechanism of [[exposure therapy]] for anxiety disorders is [[extinction learning]]. Hofmann has shown that [[d-cycloserine]], a partial agonist of the [[glutamate receptor]] can augment extinction learning and speed up exposure therapy of anxiety disorders.<ref>{{Cite journal|last=Hofmann|first=Stefan G.|date=March 2014|title=D-cycloserine for Treating Anxiety Disorders: Making Good Exposures Better and Bad Exposures Worse|journal=Depression and Anxiety|volume=31|issue=3|pages=175–177|doi=10.1002/da.22257|issn=1091-4269|pmc=4006201|pmid=24677604}}</ref>
+
+=== Emotion research ===
+
+Some of his other major contributions are on [[Mindfulness]] and research on [[Emotion]] in therapy. In particular, he advanced the concept of [[Interpersonal emotion regulation]].
+
+=== Processes-based therapy ===
+
+In collaboration with [[Steven C. Hayes]] and [[David Sloan Wilson]], he has been developing process-based therapy, an [[idiographic]] treatment approach based on [[cognitive behavioral therapy]] that combines insights from [[evolution theory]] and [[complex network]] theory to target processes that underlie effective psychological treatments.
+
+== Awards and recognition ==
+
+Hofmann has published more than 400 peer-reviewed scientific articles and 20 books and is listed by [[Clarivate Analytics]] and the [[Institute for Scientific Information]] as a [[ISI Highly Cited Researcher]].<ref>{{cite web | url=https://publons.com/researcher/1264183/stefan-g-hofmann/ | title=Stefan G Hofmann's Publons profile }}</ref>
+
+== Selected works ==
+
+=== Books ===
+*Hofmann, S. G. (2011). ''An introduction to modern CBT: Psychological solutions to mental health problems''. Chichester, UK: Wiley-Blackwell. {{ISBN|978-0470971765}}.
+*Hofmann, S. G. (2016). ''Emotion in therapy: From science to practice''. New York, NY: Guilford Press. {{ISBN|978-1462524488}}.
+*Barlow, D. H., Durand, V. M., & Hofmann, S. G. (2017). ''Abnormal psychology: An Integrative approach'' (8th edition).  Brooks/Cole Cengage Learning. {{ISBN|978-1305950443}}.
+*Hayes, S. C. & Hofmann, S. G. (Eds.) (2018). "Process-based CBT: The science and core clinical competencies of [[cognitive behavioral therapy]]". Oakland, CA: New Harbinger Publications. {{ISBN|978-1626255968}}.
+*Hofmann, S. G. Doan, S. N. (2018). "The social foundations of emotion: Developmental, cultural, and clinical dimensions". Washington, DC: American Psychological Association. {{ISBN|978-1433829277}}.
+*Hayes, S. C. & Hofmann, S. G. (Eds.) (2020). Beyond the DSM: Toward a process-based alternative for diagnosis and mental health treatment. Oakland, CA: Context Press / New Harbinger Publications. {{ISBN|978-1684036615}}.
+*Hofmann, S. G. (2020). The anxiety skills workbook: Simple CBT and mindfulness strategies for overcoming anxiety, fear, and worry.  Oakland, CA: New Harbinger Press. {{ISBN|1684034523}}.
+*Hofmann, S. G. (2023). CBT for social anxiety.  Oakland, CA: New Harbinger Press. {{ISBN|1648481205}}.
+*Hofmann, S. G., Hayes, S. C., & Lorscheid, D. (2021). Learning process-based therapy: A skills training manual for targeting the core processes of psychological change in clinical practice. Oakland, CA: New Harbinger Press. {{ISBN|1684037557}}.
+
+=== Articles ===
+*Hofmann, S. G., Sawyer, A. T., Witt, A., & Oh, D. (2010). The effect of mindfulness-based therapy on anxiety and depression: A meta-analytic review. Journal of Consulting and Clinical Psychology, 78, 169–183. {{doi|10.1037/a0018555}}<ref>{{cite journal|last1=Hofmann|first1=Stefan|title=The effect of mindfulness-based therapy on anxiety and depression: A meta-analytic review.|journal=Journal of Consulting and Clinical Psychology|date=2010|volume=78|issue=2|pages=169–183|doi=10.1037/a0018555|pmc=2848393|pmid=20350028}}</ref>
+*Hofmann, S. G., Asnaani, A., Vonk, J. J., Sawyer, A. T., & Fang, A. (2012). The efficacy of cognitive behavioral therapy: A review of meta-analyses. Cognitive Therapy and Research, 36, 427–440. {{doi|10.1007/s10608-012-9476-1}}<ref>{{cite journal|last1=Hofmann|first1=Stefan|title=The efficacy of cognitive behavioral therapy: A review of meta-analyses.|journal=Cognitive Therapy and Research|date=2012|volume=36|issue=5|pages=427–440|doi=10.1007/s10608-012-9476-1|pmc=3584580|pmid=23459093}}</ref>
+*Hofmann, S. G., Sawyer, A. T., Fang, A., & Asnaani, A. (2012). Emotion dysregulation model of mood and anxiety disorders. Depression and Anxiety, 29, 409–416. {{doi|10.1002/da.21888}}.<ref>{{cite journal|last1=Hofmann|first1=Stefan|title=Emotion dysregulation model of mood and anxiety disorders.|journal=Depression and Anxiety|volume=239|pages=409–416|doi=10.1002/da.21888|year=2012|issue=5|pmid=22430982|s2cid=31613526|doi-access=free}}</ref>
+*Whitfield-Gabrieli, S., Ghosh, S. S., Nieto-Castanon, A., Saygin, Z., Doehrmann, O., Chai, X. J., Reynold, G. O. , Hofmann, S. G., Pollack, M. H., & Gabrieli, J. D. E. (2016). Brain connectomics predict response to treatment in social anxiety disorder. Molecular Psychiatry, 21, 680–685. {{doi|10.1038/mp.2015.109}}<ref>{{cite journal |last1=Whitfield-Gabrieli |first1=Susan |date=2016 |title=Brain connectomics predict response to treatment in social anxiety disorder |journal=Molecular Psychiatry |volume=21 |issue=5 |pages=680–685 |doi=10.1038/mp.2015.109 |pmid=26260493 |s2cid=1654492 |doi-access=free}}</ref>
+*Hofmann, S. G. (2016). Schrödinger's cat and d-cycloserine to augment exposure therapy – both are dead and alive. JAMA Psychiatry, 73, 771–772. {{doi|10.1001/jamapsychiatry.2016.1132}}.<ref>{{cite journal|last1=Hofmann|first1=Stefan|title=Schrödinger's cat and d-cycloserine to augment exposure therapy – both are dead and alive|journal=JAMA Psychiatry|date=2016|volume=73|issue=8|pages=771–772|doi=10.1001/jamapsychiatry.2016.1132|pmid=27367470|s2cid=13130235 |hdl=2144/26171|hdl-access=free}}</ref>
+*Hayes, S. C. & Hofmann, S. G. (2017). The third wave of CBT and the rise of process-based care. World Psychiatry, 16, 245–246. {{doi|10.1002/wps.20442}}
+*Hayes, S. C. & Hofmann, S. G. (2021). "Third-wave" cognitive and behavioral therapies and the emergence of a process-based approach to intervention in psychiatry. World Psychiatry, 20, 363–375. {{doi|10.1002/wps.20884}}
+*Hofmann, S. G. & Hayes, S. C. (2019). The future of intervention science: Process-based therapy. Clinical Psychological Science, 7, 37–50. {{doi|10.1177/2167702618772296}}.<ref>{{cite journal|last1=Hofmann|first1=Stefan|title=The future of intervention science: Process-based therapy|journal=Clinical Psychological Science|date=2019|volume=7|issue=1|pages=37–50|doi=10.1177/2167702618772296|pmid=30713811|pmc=6350520}}</ref>
+*Hofmann, S. G. (2020). The age of depression and its treatment. JAMA Psychiatry, 77, 667–668. {{doi|10.1001/jamapsychiatry.2020.0158}}.<ref>{{cite journal|last1=Hofmann|first1=Stefan|title=The age of depression and its treatment|journal=JAMA Psychiatry|date=2016|volume=73|issue=7|pages=771–772|doi=10.1001/jamapsychiatry.2020.0158|pmid=32186662|s2cid=212752180}}</ref>
+*Phelps, E. A. & Hofmann, S. G. (2019). Memory editing from science fiction to clinical practice. Nature, 572, 43–50. {{doi|10.1038/s41586-019-1433-7}}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Hofmann, Stefan}}
+[[Category:1964 births]]
+[[Category:Living people]]
+[[Category:People from Bietigheim-Bissingen]]
+[[Category:20th-century German psychologists]]
+[[Category:21st-century German psychologists]]

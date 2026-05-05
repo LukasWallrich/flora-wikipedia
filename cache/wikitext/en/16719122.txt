@@ -1,0 +1,174 @@
+{{Short description|Finnish and American cancer researcher}}
+{{Infobox scientist
+| name = Erkki Ruoslahti
+| image = Erkki Ruoslahti.jpg
+| caption = Ruoslahti in 1965
+| birth_date = {{birth date and age|df=yes|1940|2|16}}
+| birth_place = [[Imatra]], Finland
+| fields = Cancer, tumor biology, vascular biology, [[neurodegeneration]]
+| citizenship = {{Hlist|Finland|United States}}
+| alma_mater = University of Helsinki, Finland
+| known_for = Work on cell adhesion and nanomedicine
+| awards = {{Plainlist|[[Robert J. and Claire Pasarow Foundation Medical Research Award]] (Cancer, 1990)
+* G.H.A. Clowes Memorial Award, [[American Association for Cancer Research]] (1990)
+* Nobel Fellow at the [[Karolinska Institutet]], Stockholm (1995)
+* [[Gairdner Foundation International Award]] (1997)
+* Jacobaeus International Prize (1998)
+* Jubilee Lecturer, [[Biochemical Society]] (2003)
+* [[Japan Prize]] (Cell Biology, 2005)
+* [[Thomson Reuters Citation Laureate]] (2012)}}
+| work_institution = {{Plainlist|
+* [[California Institute of Technology]]
+* [[University of Turku]]
+* [[City of Hope National Medical Center]]
+* [[Sanford Burnham Prebys Medical Discovery Institute]]}}
+}}
+'''Erkki Ruoslahti''' (born 16 February 1940) is a Finnish and American cancer researcher. He is a distinguished professor at [[Sanford Burnham Prebys Medical Discovery Institute]].<ref>{{cite web|url=https://www.sbpdiscovery.org/team/erkki-ruoslahti-md-phd|title=Erkki Ruoslahti|publisher=Sanford Burnham Prebys Medical Discovery Institute|access-date=October 30, 2017}}</ref> He moved from Finland to the United States in 1976, and he has received U.S. citizenship.<ref name="latimes-1">[https://www.latimes.com/archives/la-xpm-1989-02-19-tm-288-story.html Closing In on Cancer : In Search of a Cure, a La Jolla Research Center Reaches Into the Outer Limits] Los Angeles Times</ref><ref name="yle-1">{{Cite web |url=https://yle.fi/a/3-5266556 |title=Presidentti nimitti kaksi uutta akateemikkoa |trans-title=The President appointed two new academicians|date=12 June 2009 |website=[[Yle]] |language=fi |access-date=3 March 2026}}</ref>
+
+Ruoslahti made seminal contributions to biology of extracellular matrix and its receptors.<ref>
+{{cite journal
+|last1       = Ruoslahti      |first1= E
+|last2       = Pierschbacher  |first2= MD
+|doi         = 10.1126/science.2821619
+|title       = New perspectives in cell adhesion: RGD and integrins
+|journal     = Science
+|volume      = 238
+|issue       = 4826
+|pages       = 491–497
+|year        = 1987
+|pmid        = 2821619|bibcode= 1987Sci...238..491R
+}}</ref>
+He was one of the discoverers of [[fibronectin]], an adhesion molecule and component of extracellular matrices, and he subsequently identified and cloned a number of other extracellular matrix components and adhesion molecules. In 1984, he identified the sequence within fibronectin that mediates cell attachment, called RGD for the amino acids of which it's composed,<ref>{{cite journal
+|last1       = Pierschbacher      |first1= MD
+|last2       = Ruoslahti |first2= E
+|doi         = 10.1038/309030a0
+|title       = Cell attachment activity of fibronectin can be duplicated by small synthetic fragments of the molecule.
+|journal     = Nature
+|volume      = 309
+|issue       = 5963
+|pages       = 30–33
+|year        = 1984
+|pmid        = 6325925|bibcode= 1984Natur.309...30P
+|s2cid= 4371931
+}}</ref> and isolated the cellular receptors that bind that sequence, now known as integrins.<ref>{{Cite journal|last1=Dedhar|first1=S|last2=Ruoslahti|first2=E|last3=Pierschbacher|first3=MD|doi=10.1083/jcb.104.3.585|title=A cell surface receptor complex for collagen type I recognizes the Arg-Gly-Asp sequence.|journal=J Cell Biol|volume=104|issue=3 |pages=585–593|year=1987 |pmid= 3469204|pmc=2114550}}</ref> The RGD discovery has led to the development of drugs for vascular thrombosis and cancer, among other diseases.<ref>
+{{cite journal
+|last1       = Ley      |first1= K
+|last2       = Rivera-Nieves  |first2= J
+|last3       = Sandborn  |first3= WJ
+|last4       = Shattil  |first4= S
+|doi         = 10.1038/nrd.2015.10
+|title       = Integrin-based therapeutics: biological basis, clinical use and new drugs.
+|journal     = Nat Rev Drug Discov 
+|volume      = 15
+|issue       = 3
+|pages       = 173–183
+|year        = 2016
+|pmid        = 26822833 |pmc=4890615}}</ref>
+
+Ruoslahti currently studies specific marker molecules in blood vessels.  He introduced the concept of vascular "zip codes," the idea that each tissue bears molecular signatures that can be targeted by affinity ligands, and used in vivo peptide phage display to prove the concept and develop numerous tumor-homing peptides.<ref>{{Cite journal|last=Ruoslahti|first=E.|year=2004|title=Vascular zip codes in angiogenesis and metastasis|journal=Biochem Soc Trans|volume=32|issue=3|pages=397–402|doi=10.1042/bst0320397|issn=0300-5127|pmid=15157146}}</ref>
+
+==Early life and education==
+Ruoslahti was born in [[Imatra]], [[Finland]]. He received his M.D. from the [[University of Helsinki]] in 1965 and his Ph.D. from the same institution in 1967. He completed postdoctoral studies at [[Caltech]].
+
+==Career==
+Ruoslahti held various academic appointments with the [[University of Helsinki]] and the [[University of Turku]] in Finland and [[City of Hope National Medical Center]] in Duarte, California until joining the La Jolla Cancer Research Foundation (now [[Sanford Burnham Prebys Medical Discovery Institute]], or SBP) in 1979. He had moved from Finland to the United States in 1976.{{r|latimes-1}} He served as SBP's president from 1989 to 2002, and was a distinguished professor at the [[University of California, Santa Barbara]] from 2005 to 2015. He has received U.S. citizenship.{{r|yle-1}}
+
+==Recent work on homing peptides and nanomedicine==
+Ruoslahti's research group has developed a novel class of tumor-homing peptides that can be used to enhance delivery of drugs and nanoparticles to tumors.<ref>{{cite journal|last1=Teesalu|first1=T.|last2=Sugahara|first2=K. N.|last3=Kotamraju|first3=V. R.|last4=Ruoslahti|first4=E.|year=2009|title=C-end rule peptides mediate neuropilin-1-dependent cell, vascular, and tissue penetration|journal=Proc Natl Acad Sci USA|volume=106|issue=38|pages=16157–16162|doi=10.1073/pnas.0908201106|pmid=19805273|pmc=2752543|bibcode=2009PNAS..10616157T|doi-access=free}}</ref><ref name="cell.com">{{cite journal
+|last1       = Sugahara       |first1= K. N.
+|last2       = Teesalu        |first2= T.
+|last3       = Karmali        |first3= P. P.
+|last4       = Kotamraju      |first4= V. R.
+|last5       = Agemy          |first5= L.
+|last6       = Girard         |first6= O. M.
+|last7       = Hanahan        |first7= D.
+|last8       = Mattrey        |first8= R. F.
+|last9       = Ruoslahti      |first9= E.
+|doi         = 10.1016/j.ccr.2009.10.013
+|title       = Tissue-Penetrating Delivery of Compounds and Nanoparticles into Tumors
+|journal     = Cancer Cell
+|volume      = 16
+|issue       = 6
+|pages       = 510–520
+|year        = 2009
+|pmid        = 19962669
+|pmc         = 2791543}}</ref> These tumor-penetrating peptides selectively home to tumor vessels, where they activate a transport pathway that delivers the peptide, and along with it drugs and even nanoparticles, through the wall of tumor blood vessels and deep into tumor tissue. Having bound to tumor vessels the peptide is cleaved and an amino acid sequence motif named the C-end rule or [[CendR]] motif (pronounced "sender") is exposed at the C-terminus of the peptide. Subsequent binding of the peptide to neuropilin-1 activates the CendR transport pathway into and through tumor tissue.<ref>{{Cite journal|last1=Pang|first1=HB|last2=Braun|first2=GB|last3=Friman|first3=T|last4=Aza-Blanc|first4=P|last5=Ruidiaz|first5=ME|last6=Sugahara|first6=KN|last7=Teesalu|first7=T|last8=Ruoslahti|first8=E|year=2014|title=An endocytosis pathway initiated through neuropilin-1 and regulated by nutrient availability|journal=Nat Commun|volume=5|article-number=ncomms5904|doi=10.1038/ncomms5904|pmid=25277522|pmc=4185402|bibcode=2014NatCo...5.4904P}}</ref><ref>{{Cite journal|last1=Pang|first1=HB|last2=Braun|first2=GB|last3=Ruoslahti|first3=E|year=2015|title=Neuropilin-1 and heparan sulfate proteoglycans cooperate in cellular uptake of nanoparticles functionalized by cationic cell-penetrating peptides|journal=Sci Adv|volume=1|issue=10|article-number=e1500821|doi=10.1126/sciadv.1500821|pmid=26601141|pmc=4640594|bibcode=2015SciA....1E0821P}}</ref>
+
+The prototype tumor-penetrating peptide, [[iRGD]], is in clinical trials in solid tumor patients tested as an enhancer of cancer therapies.<ref>{{Cite web | url=https://www.sbpdiscovery.org/press/compound-discovered-at-sanford-burnham-prebys-advances-into-phase-1-trial-for-pancreatic/ | title=Compound discovered at Sanford Burnham Prebys advances into Phase 1 trial for pancreatic cancer &#124; SBP}}</ref> This peptide recognizes many different types of cancers, and it can be used for tumor delivery of various payloads that are either coupled to the peptide, or given together with it.<ref name="cell.com" /><ref>{{cite web
+|title       = Cancer Drug Effectiveness Substantially Advanced
+|url         = http://www.sanfordburnham.org/default.asp?contentID%3D964
+|access-date  = April 17, 2010
+|archive-url  = https://web.archive.org/web/20100507080918/http://www.sanfordburnham.org/default.asp?contentID=964
+|archive-date = May 7, 2010}}</ref><ref>{{cite journal
+|last1       = Sugahara       |first1= K. N.
+|last2       = Teesalu        |first2= T.
+|last3       = Karmali        |first3= P. P.
+|last4       = Kotamraju      |first4= V. R.
+|last5       = Agemy          |first5= L.
+|last6       = Greenwald      |first6= D. R.
+|last7       = Ruoslahti      |first7= E.
+|doi         = 10.1126/science.1183057
+|title       = Coadministration of a Tumor-Penetrating Peptide Enhances the Efficacy of Cancer Drugs
+|journal     = Science
+|volume      = 328
+|issue       = 5981
+|pages       = 1031–1035
+|year        = 2010
+|pmid        = 20378772
+|pmc         = 2881692|bibcode= 2010Sci...328.1031S
+}}</ref><ref>{{cite news
+ |last=Couzin-Frankel 
+ |first=Jennifer 
+ |title=New Peptide Helps Cancer Drugs Break Into Tumors 
+ |url=http://news.sciencemag.org/sciencenow/2010/04/new-peptide-helps-cancer-drugs-b.html 
+ |access-date=March 14, 2013 
+ |newspaper=ScienceNOW 
+ |date=8 April 2010 
+ |archive-url=https://web.archive.org/web/20130608034525/http://news.sciencemag.org/sciencenow/2010/04/new-peptide-helps-cancer-drugs-b.html 
+ |archive-date=June 8, 2013 
+}}</ref><ref>{{Cite journal|last1=Agemy|first1=L|last2=Kotamraju|first2=VR|last3=Friedmann-Morvinski|first3=D|last4=Sharma|first4=S|last5=Sugahara|first5=KN|last6=Ruoslahti|first6=E|year=2013|title=Proapoptotic Peptide-Mediated Cancer Therapy Targeted to Cell Surface p32|journal=Mol Ther|volume=21|issue=12|pages=2195–2204|doi=10.1038/mt.2013.191|pmid=23959073|pmc=3863797}}</ref><ref>{{Cite journal|last1=Sharma|first1=S|last2=Kotamraju|first2=VR|last3=Mölder|first3=T|last4=Tobi|first4=A|last5=Teesalu|first5=T|last6=Ruoslahti|first6=E|year=2017|title=Tumor-Penetrating Nanosystem Strongly Suppresses Breast Tumor Growth|journal=Nano Lett|volume=17|issue=3|pages=1356–1364|doi=10.1021/acs.nanolett.6b03815|pmid=28178415|pmc=5819594|bibcode=2017NanoL..17.1356S}}</ref>
+iRGD has also been shown to effectively deliver drugs to the placenta, which could aid in the treatment of slow fetal growth.<ref>{{Cite journal|last1=King|first1=A|last2=Ndifon|first2=C|last3=Lui|first3=S|last4=Widdows|first4=K|last5=Kotamraju|first5=VR|last6=Agemy|first6=L|last7=Teesalu|first7=T|last8=Glazier|first8=JD|last9=Cellesi|first9=F|year=2016|title=Tumor-homing peptides as tools for targeted delivery of payloads to the placenta|journal=Sci Adv|volume=2|issue=5|article-number=e1600349|doi=10.1126/sciadv.1600349|pmid=27386551|pmc=4928982|last10=Tirelli|first10=N|last11=Aplin|first11=JD|last12=Ruoslahti|first12=E|last13=Harris|first13=LK|bibcode=2016SciA....2E0349K}}</ref>
+
+Recently, in vivo phage screening has been used to identify peptides that target hypertensive pulmonary arteries,<ref>{{Cite journal|last1=Toba|first1=M|last2=Alzoubi|first2=A|last3=O'Neill|first3=K|last4=Abe|first4=ohtaro|last5=Urakami|first5=T|last6=Komatsu|first6=M|last7=Alvarez|first7=D|last8=Järvinen|first8=TAH|last9=Mann|first9=D|year=2014|title=A Novel Vascular Homing Peptide Strategy to Selectively Enhance Pulmonary Drug Efficacy in Pulmonary Arterial Hypertension|journal=Am J Pathol|volume=184|issue=2|pages=369–375|doi=10.1016/j.ajpath.2013.10.008|pmid=24401613|pmc=3906494}}</ref> atherosclerosis,<ref>{{Cite journal|last1=She|first1=ZG|last2=Hamzah|first2=J|last3=Kotamraju|first3=VR|last4=Pang|first4=HB|last5=Jansen|first5=S|last6=Ruoslahti|first6=E|year=2016|title=Plaque-penetrating peptide inhibits development of hypoxic atherosclerotic plaque|journal=J Control Release|volume=238|pages=212–220|doi=10.1016/j.jconrel.2016.07.020|pmid=27423327}}</ref> and diseases of the brain.<ref>{{Cite journal|last1=Mann|first1=AP|last2=Scodeller|first2=P|last3=Hussain|first3=S|last4=Joo|first4=J|last5=Kwon|first5=E|last6=Braun|first6=GB|last7=Mölder|first7=T|last8=She|first8=Z|last9=Kotamraju|first9=VR|year=2016|title=A peptide for targeted, systemic delivery of imaging and therapeutic compounds into acute brain injuries|journal=Nat Commun|language=en|volume=7|article-number=11980|doi=10.1038/ncomms11980|pmid=27351915|last10=Ranscht|first10=B|last11=Krajewski|first11=S|last12=Teesalu|first12=T|last13=Bhatia|first13=S|last14=Sailor|first14=MJ|last15=Ruoslahti|first15=E|pmc=4931241|bibcode=2016NatCo...711980M}}</ref>
+
+==Awards and honors==
+* 1990 - [[Robert J. and Claire Pasarow Foundation Medical Research Award]]
+* 1990 - [[American Association for Cancer Research]] - [http://www.aacr.org/Research/Awards/Pages/clowes-memorial-award___8470D6.aspx#.WfJXdSMrK1s G.H.A. Clowes Memorial Award] {{Webarchive|url=https://web.archive.org/web/20171024174404/http://www.aacr.org/RESEARCH/AWARDS/PAGES/CLOWES-MEMORIAL-AWARD___8470D6.ASPX#.WfJXdSMrK1s |date=2017-10-24 }}
+* 1991 - Honorary doctorate in medicine from [[Lund University]], Sweden
+* 1995 - Nobel Fellow at the [[Karolinska Institutet]] in Stockholm
+* 1997 - [[Gairdner Foundation International Award]]
+* 1998 - [https://web.archive.org/web/20180827182800/http://novonordiskfonden.dk/en/content/jacobaeus-prize Jacobaeus International Prize]
+* 2003 - Jubilee Lecturer, [[Biochemical Society]]
+* 2005 - [[Japan Prize]] in Cell Biology
+* 2012 - [[Thomson Reuters Citation Laureates|Thomson Reuters Citation Laureate]]
+* Knight of the [[Order of the White Rose of Finland]]
+* Commander of the [[Order of the Lion of Finland]]
+* 2022 - [[Albert Lasker Award for Basic Medical Research]].<ref>[https://laskerfoundation.org/winners/integrins-mediators-of-cell-matrix-cell-adhesion/  Albert Lasker Award for Basic Medical Research].</ref>
+* 2023 - Fellow of the [[American Association for Cancer Research]].<ref>[https://www.aacr.org/professionals/membership/aacr-academy/fellows/erkki-ruoslahti/   AACR Academy Fellows: Erkki Ruoslahti].</ref>
+* Member of
+** [[National Academy of Sciences]]<ref>
+{{cite web
+|title      = Erkki Ruoslahti
+|url        = http://www.nasonline.org/member-directory/members/3008586.html
+|publisher  = United States National Academy of Sciences
+|access-date = 14 March 2013}}</ref> 
+** [[National Academy of Medicine]]
+** [[American Academy of Arts and Sciences]]
+** [[European Molecular Biology Organization]]
+
+==References==
+{{Scholia|author}}
+{{reflist}}
+
+{{Japan Prize}}
+{{Authority control}}
+
+{{DEFAULTSORT:Ruoslahti, Erkki}}
+[[Category:1940 births]]
+[[Category:Living people]]
+[[Category:American medical researchers]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Finnish expatriates in the United States]]
+[[Category:Members of the National Academy of Medicine]]
+[[Category:Recipients of the Albert Lasker Award for Basic Medical Research]]
+[[Category:Naturalized citizens of the United States]]

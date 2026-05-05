@@ -1,0 +1,66 @@
+{{Infobox single nucleotide polymorphism
+ | rsid = 1799913
+ | name_1 = A779C
+ | gene = TPH1
+ | chromosome = 11
+ | region = Intron 7
+ | szgene_geneid = 111
+ | szgene_polyid = 586
+}}
+In genetics, '''rs1799913''', also called '''A779C''', is a gene variation&mdash;a [[single nucleotide polymorphism]] (SNP)&mdash; in the [[TPH1]] [[gene]].
+It is located in [[intron]] 7.<ref name="NielsenD1997Sequence">{{Cite journal
+ | author = [[D. A. Nielsen]], [[G. L. Jenkins]], [[K. M. Stefanisko]], [[K. K. Jefferson]] & [[D. Goldman]]
+ | title = Sequence, splice site and population frequency distribution analyses of the polymorphic human tryptophan hydroxylase intron 7
+ | journal = [[Brain Research. Molecular Brain Research]]
+ | volume = 45
+ | issue = 1
+ | pages = 145–148
+ |date=April 1997
+ | pmid = 9105682
+ | doi = 10.1016/S0169-328X(96)00304-X
+| url = https://zenodo.org/record/1259929
+ }}</ref>
+
+The SNP association with [[schizophrenia]] has been examined in several studies, though as of 2007 with no definitive conclusion.<ref>{{Cite journal
+ | author = [[P. G. Sand]]
+ | title = Comments on the paper by D. Li and L. He: Meta-analysis shows association between the tryptophan hydroxylase (TPH) gene and schizophrenia
+ | journal = [[Human Genetics (journal)|Human Genetics]]
+ | volume = 122
+ | issue = 3–4
+ |date=November 2007
+ | doi = 10.1007/s00439-007-0383-6
+ | pages = 409&ndash;411
+ | pmid = 17653577
+| s2cid = 13181665
+ }}</ref>
+
+One study has found that the SNP may be associated with [[heroin addiction]].<ref>{{Cite journal
+ | author = [[David A. Nielsen]], [[Sandra Barral]], [[Dmitri Proudnikov]], [[Scott Kellogg]], [[Ann Ho]], [[Jurg Ott]] & [[Mary Jeanne Kreek]]
+ | title = TPH2 and TPH1: association of variants and interactions with heroin addiction
+ | journal = [[Behavior Genetics (journal)|Behavior Genetics]]
+ | volume = 38
+ | issue = 2
+ | pages = 133–50
+ |date=March 2008
+ | doi = 10.1007/s10519-007-9187-7
+ | pmid = 18181017
+| s2cid = 2774846
+ }}</ref> Other study relate it to figural and numeric creativity.<ref>{{Cite journal
+ | author = [[Reuter M]], [[Roth S]], [[Holve K]] & [[Hennig J.]] 
+ | title = Identification of first candidate genes for creativity: a pilot study. 
+ | journal = [[Brain Res.]] 
+ | year = 2006 
+ | volume = 1069 
+ | issue = 1 
+ | pages = 190–197 
+ | doi = 10.1016/j.brainres.2005.11.046
+ | pmid = 16403463
+| s2cid = 25365017 
+ }}</ref>
+
+[[A218C]] ([[rs1800532]]) is another SNP in the same [[intron]] in the same gene.<ref name="NielsenD1997Sequence"/>
+
+==References==
+{{Reflist}}
+
+[[Category:SNPs on chromosome 11]]

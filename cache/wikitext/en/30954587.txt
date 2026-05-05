@@ -1,0 +1,227 @@
+'''Second-language acquisition classroom research''' is an area of research in [[second-language acquisition]] concerned with how people learn languages in educational settings. There is a significant overlap between classroom research and [[language education]]. Classroom research is [[empirical]], basing its findings on [[data]] and [[statistics]] wherever possible. It is also more concerned with what the [[student|learners]] do in the classroom than with what the [[teacher]] does. Where [[Methods of teaching foreign languages|language teaching methods]] may only concentrate on the activities the teacher plans for the class, classroom research concentrates on the effect the things the teacher does has on the students.
+
+==Evaluating teaching practices==
+Efforts have been made to systematically measure or evaluate the effectiveness of language teaching practices in promoting second-language acquisition. Such studies have been undertaken for every level of language, from phonetics to pragmatics, and for almost every current teaching methodology. It is therefore impossible to summarize their findings here. However, some more general issues have been addressed.
+
+Research has indicated that many traditional [[Language education|language-teaching]] techniques are extremely inefficient.<ref>{{Harvnb|Lightbown|1990}} cited in {{Harvnb|Ellis|1994}}.</ref> One issue is the effectiveness of explicit teaching: can language teaching have a constructive effect ''beyond'' providing learners with enhanced input?  Research on this at different levels of language has produced quite different results.  Traditional areas of explicit teaching, such as [[phonology]], grammar and vocabulary, have had decidedly mixed results. It is generally agreed that pedagogy restricted to teaching grammar rules and vocabulary lists does not give students the ability to use the L2 with accuracy and fluency.  Rather, to become proficient in the L2, the learner must be given opportunities to use the L2 for communicative purposes, learning (as for example, through a teacher's corrective feedback) to attend to both meaning and formal accuracy.<ref>{{Harvnb|Doughty|Williams|1998}}.</ref><ref>{{Harvnb|Ellis|2002}}.</ref>
+
+==Corrective feedback==
+There is considerable promising research in the classroom on the impact of corrective feedback on L2 learners' use and acquisition of target language forms. The effectiveness of corrective feedback has been shown to vary depending on the technique used to make the correction, and the overall focus of the classroom, whether on formal accuracy or on communication of meaningful content.<ref>{{Harvnb|Lightbown|Spada|1990}}.</ref><ref>{{Harvnb|Lyster|Ranta|1997}}.</ref><ref>{{Harvnb|Lyster|Mori|2006}}.</ref> However, it appears that a learner's ability to focus on corrective feedback on grammatical features that do not affect meaning is considerably altered when the learner has low alphabetic literacy.<ref>{{Harvnb|Tarone|Bigelow|Hansen|2009}}.</ref>
+
+==Action research==
+There is considerable interest in supplementing published research with approaches that engage language teachers in action research on learner language in their own classrooms.<ref>{{Harvnb|Allwright|Hanks|2009}}.</ref> As teachers become aware of the features of learner language produced by their students, they can refine their pedagogical intervention to maximize interlanguage development.<ref>{{Harvnb|Tarone|Swierzbin|2009}}.</ref>
+
+Horwitz summarises findings of SLA research, and applies to L2 teaching some principles of L2 acquisition honed from a vast body of relevant literature.<ref>{{Harvnb|Horwitz|1986}}.</ref> Like Asher,{{vague|date=November 2010}} Horwitz highlights the importance of naturalistic experience in L2, promoting listening and reading practice and stressing involvement in lifelike conversations. She explicitly suggests teaching practices based on these principles; '{{Not a typo|[m]uch}} class time should be devoted to the development of listening and reading abilities', and '{{Not a typo|[t]eachers}} should assess student interests and supply appropriate...materials'.<ref>{{Harvnb|Horwitz|1986|pp=685–686}}.</ref> The 'audio-lingual' teaching practices used in the present study are based on principles explicated by Asher and Horwitz; listening featured heavily, closely followed by reading and speaking practice. The vocabulary items taught were deemed relevant for all learners, regardless of age, and, according to Pfeffer, they are among the most commonly used nouns in everyday German language.<ref>{{Harvnb|Pfeffer|1964}}.</ref>
+
+== Pedagogical content knowledge ==
+
+[[Pedagogical content knowledge]] is understood as the "blending of content and pedagogy"<ref>Shulman, L.S. (1987). Knowledge and teaching: Foundations of the new reform. Harvard Educational Review, 57, 1-22.p.8</ref> that guides the organization, representation and adaptation of the material for all learners through instruction. This concept goes beyond the consideration of the content knowledge as isolated from the pedagogical knowledge teachers must possess to effectively cater to the needs of their students. In order to illustrate how pedagogical content knowledge operates in reference to a specific [[knowledge domain]], we can turn to the field of [[second language teaching]]. In this field, pedagogical content knowledge can be considered a "developmental construct" <ref name="Watzke, J. L. 2007">Watzke, J. L. (2007). "Foreign language pedagogical knowledge: Toward a developmental theory of beginning teacher practices". The Modern Language Journal. 91(1), 63 – 82.</ref> initiated in pre-service teacher education programs and continued through in-service classroom experiences or "knowledge in action".<ref>Schon, D. A. (1983). The Reflective Practitioner: How professionals think in action. New York: Basic Books.</ref> From this perspective, it is useful to look at the various components. Pedagogical knowledge refers to the different instructional approaches and techniques used to teach languages as well as the consideration of how the linguistic knowledge progresses and grows in complexity along the continuum of a curriculum (i.e., Schulman's lateral curricular knowledge). This pedagogical knowledge also involves a growing understanding of content choice and [[pedagogy]] that views language learning as communication, performance in tasks, student-centered instruction, attention to accuracy and message.<ref name="Watzke, J. L. 2007"/> On the other hand, if we were to characterize the content knowledge in language teaching, we would be talking about the [[Second language|target language]]. What it entails for the second language teacher is not only the mastery of the target language but also "discipline-derived understandings from [[applied linguistics]], SLA, [[psychology]] and curriculum development, among other areas, in a deeper examination of [the] subject matter -language- as it becomes classroom content".<ref>Freeman, D. & Johnson, K. E. (1998). Reconceptualizing the Knowledge-Base of Language Teacher Education. TESOL Quarterly , 32 (3), 397-417. p. 413.</ref> However, if we are to enhance the definition of the pedagogical content knowledge in [[second language teaching]], we need to include aspects related to language knowledge for teaching by following Schulman's dimension of "subject matter knowledge for teaching".<ref>Shulman, L.S. (1986). Those who understand: Knowledge growth in teaching. Educational
+Researcher, 15(2), 4-2. p. 9</ref> These aspects include language teachers' use of effective ways to represent the various types of knowledge involved in learning a language <ref name="Day">Day, R. (1993). Models and the knowledge base of second language teacher education.
+University of Hawai‘i Working Papers in ESL, 11 (2), 1–13.</ref> that include but are not limited to [[syntax]], [[semantics]], [[pragmatics]], and [[phonology]]. Besides it will require teachers to have a wide understanding of their language learners' characteristics to be able to identify and explore the conceptions and misconceptions and, more importantly, "potential misunderstandings of [the] subject area" <ref>Grossman, P. L. (1988). A study in contrast: Sources of pedagogical content knowledge for secondary English. Unpublished doctoral dissertation, Stanford University, Palo Alto, CA.</ref> these learners bring and/or develop in the learning situation. It also includes ways to help learners overcome these difficulties.<ref name="Day" /> For instance, Spanish speakers tend to omit subjects while learning a language with weak nominal features such as English, due to the fact that Spanish is predominantly a [[null subject language]].<ref>Montrul, S. (2004). Subject and object expression in Spanish Heritage speakers: a
+case of morphosyntactic convergence. Bilingualism: Language and Cognition, 7. 125-142.</ref> Therefore, this may turn into a source of overgeneralization while these learners learn the target language.  The two main aspects of pedagogical content knowledge presented here correspond to the two domains defined by Ball, Thames and Phelps <ref>Ball, D. L., Thames, M., and Phelps, G. (2008). Content knowledge for teaching: What makes it special? Journal of Teacher Education, 59(5), 389-407.</ref> as knowledge of content and teaching as well as knowledge of content and students respectively. The consideration of all these components constitutes the pedagogical content knowledge language teachers need to possess to become effective practitioners.
+
+==Time required==
+A 1999 study of 50 years of second-language education at the [[United States Department of State]]'s [[Foreign Service Institute]] found that adult native speakers of English required 24 weeks or 600 classroom hours to achieve general proficiency ("3" on the [[Defense Language Proficiency Tests|DLPT]], or "Superior" rating on the [[ACTFL Proficiency Guidelines|ACTFL scale]]) in "Category I" closely [[cognate]] languages, such as French, Spanish, and Swedish. "Category II" languages such as Finnish, Russian, and Vietnamese required 44 weeks or 1,100 hours. The "Category III" languages Arabic, Chinese, Japanese, and Korean required 88 weeks with the second year in the language's country, or 2,200 hours.<ref name="jackson1999">{{cite journal | url=http://aladinrc.wrlc.org/bitstream/1961/3455/8/gurt_1999_07.pdf | title=Lessons learned from fifty years of theory and practice in government language teaching | author1=Jackson, Frederick H. | author2=Kaplan, Marsha A. | journal=Georgetown University Round Table on Languages and Linguistics | year=1999 | pages=71–87 }}{{Dead link|date=December 2025 |bot=InternetArchiveBot }}</ref>
+
+==E-Learning 2.0==
+{{Main|E-Learning}}
+The term E-Learning 2.0<ref>Karrer, T (2006) What is eLearning 2.0? [https://elearningtech.blogspot.com/2006/02/what-is-elearning-20.html Elearningtech.blogspot.com]</ref><ref>Karrer, T (2007) [http://www.astd.org/LC/2007/0707_karrer.htm Understanding eLearning 2.0] {{Webarchive|url=https://web.archive.org/web/20120707141150/http://www.astd.org/LC/2007/0707_karrer.htm |date=2012-07-07 }}. Learning circuit</ref> is a [[neologism]] for Computer Supported Collaborative Learning (CSCL) systems that came about during the emergence of [[Web 2.0]].<ref>Downes, S (2005) E-Learning 2.0. [http://www.downes.ca/post/31741 Downes.ca]</ref> From an E-Learning 2.0 perspective, conventional e-learning systems were based on instructional packets, which were delivered to students using assignments, and then evaluated by the teacher. In contrast, the new e-learning places increased emphasis on [[Social learning (social pedagogy)|social learning]] and use of [[social software]] such as blogs, wikis and  podcast.<ref>
+{{cite journal
+ | last=Redecker | first=Christine
+ | year=2009
+ | title=Review of Learning 2.0 Practices: Study on the Impact of Web 2.0 Innovations on Education and Training in Europe
+ | journal=JRC Scientific and Technical Reports
+ | issue=EUR 23664 EN – 2009
+ | url=http://ipts.jrc.ec.europa.eu/publications/pub.cfm?id=2059
+}}
+</ref>
+This phenomenon has also been referred to as Long Tail Learning<ref>Karrer, T (2008) Corporate Long Tail Learning and Attention Crisis [https://elearningtech.blogspot.com/2008/02/corporate-learning-long-tail-and.html Elearningtech.blogspot.com]</ref>
+See also {{Harv|Seely Brown|Adler|2008}}<ref name="Minds on Fire">
+{{cite journal
+ |last1        = Seely Brown
+ |first1       = John
+ |author-link = John Seely Brown
+ |last2       = Adler
+ |first2      = Richard P.
+ |year        = 2008
+ |title       = Minds on Fire:Open Education, the Long Tail, and Learning 2.0
+ |journal     = Educause Review
+ |issue       = January/February 2008
+ |pages       = 16–32
+ |url         = http://net.educause.edu/ir/library/pdf/ERM0811.pdf
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20140716025801/http://net.educause.edu/ir/library/pdf/ERM0811.pdf
+ |archive-date = 2014-07-16
+}}
+</ref>
+
+E-Learning 2.0, by contrast to e-learning systems not based on CSCL, assumes that knowledge (as meaning and understanding) is [[Social constructionism|socially constructed]]. Learning takes place through conversations about content and [[Grounded theory|grounded]] interaction about problems and actions. Advocates of social learning claim that one of the best ways to learn something is to teach it to others.<ref name="Minds on Fire" />
+
+In addition to virtual classroom environments, social networks have become an important part of E-learning 2.0.<ref>Dunlap, J. C., & Lowenthal, P. R. (2009). Horton hears a tweet. ''EDUCAUSE Quarterly, 32''(4). Retrieved from
+http://www.educause.edu/EDUCAUSE+Quarterly/EDUCAUSEQuarterlyMagazineVolum/HortonHearsaTweet/192955</ref> Social networks have been used to foster [[Online learning community|online learning communities]] around [[language education]].<ref>{{cite web|url=http://www.studentpulse.com/articles/414/using-online-forums-in-language-learning-and-education|title=Using Online Forums in Language Learning and Education|author=Manprit Kaur|publisher=StudentPulse.com|year=2011|access-date=2012-08-22}}</ref> [[Mobile Assisted Language Learning]] (MALL) is the use of handheld computers or cell phones to assist in language learning. Some feel, however, that schools have not caught up with the social networking trends. Few traditional educators promote social networking unless they are communicating with their own colleagues.<ref>Crane, Beverley E. "Using Web 2.0 Tools in the k-12 Classroom" Neal-Shuman Publishers Inc., 2009, p.3</ref>
+
+== Use of technology to practice speaking ==
+Historically, language learning in classrooms focused more on reading and writing than on speaking. The use of modern technology has made it more practical for second language learners to actually practice speaking. One approach is to use a video-call technology such as [[Skype]] to pair off two students who wish to learn each other's native language.<ref>ERIC paper on [http://www.eric.ed.gov/ERICWebPortal/search/detailmini.jsp?_nfpb=true&_&ERICExtSearch_SearchValue_0=EJ846339&ERICExtSearch_SearchType_0=no&accno=EJ846339 Skype and Podcasting: Disruptive Technologies for Language Learning]</ref> One obvious advantage of using such technology is that there is no need for the two students to be geographically close. However, if they are in very different time-zones, finding a suitable time can be a challenge.<br>
+Another approach is to use [[speech recognition]] software.<ref>A. Neri, C. Cucchiarini, W. Strik (2003) [https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2003/p15_1157.html Automatic speech recognition for second language learning: how and why it actually works.] In Proceedings ICPhS-15, 1157-1160.</ref> In the past, the hardware costs alone were so high that this was not a viable option in public schooling. However, in recent years as technology improved and prices fell, schools around the world introduced tablet computers to the classroom. Thus, the required computing power is already in the hands of an increasing number of children. One of the major advantages of using speech recognition software is that it can give feedback and so can be used to help improve pronunciation.
+
+==Notes==
+{{reflist|3}}
+
+==References==
+{{refbegin}}
+*{{cite book
+  |title     = The Developing Language Learning: An Introduction to Exploratory Practice 
+  |last1      = Allwright 
+  |first1     = Dick
+  |last2     = Hanks 
+  |first2    = Judith
+  |year      = 2009
+  |publisher = Palgrave MacMillan
+  |location  = Basingstoke
+  |isbn      = 978-1-4039-8531-6
+}}
+*{{cite book
+  |editor1-last  = Doughty
+  |editor1-first = Catherine
+  |editor2-last  = Williams
+  |editor2-first = Jessica
+  |year          = 1998
+  |title         = Focus on Form in Classroom Second Language Acquisition
+  |publisher     = Cambridge University Press
+  |location      = Cambridge
+  |isbn          = 978-0-521-62390-2
+}}
+*{{cite book
+  |last      = Ellis 
+  |first     = Rod 
+  |title     = The Study of Second Language Acquisition 
+  |publisher = Oxford University Press 
+  |location  = Oxford Oxfordshire 
+  |year      = 1994 
+  |isbn      = 0-19-437189-1 
+}}
+*{{Cite journal
+  |last1 = Ellis 
+  |first1 = R. 
+  |year = 2002
+  |title = Does form-focused instruction affect the acquisition of implicit knowledge? 
+  |url = 
+  |journal = Studies in Second Language Acquisition 
+  |volume = 24 
+  |issue = 2
+  |pages = 223–236
+  |doi=10.1017/s0272263102002073
+|s2cid = 145684013 
+ }}
+*{{Cite journal
+  |last1 = Horwitz
+  |first1 = E. K. 
+  |year = 1986
+  |title = Some Language Acquisition Principles and their Implications for Second Language Teaching 
+  |url = 
+  |journal = Hispania
+  |volume = 69 
+  |issue = 3
+  |pages = 684–689
+  |doi=10.2307/342782
+|jstor = 342782
+ }}
+*{{cite book
+  |last          = Lightbown
+  |first         = Patsy
+  |author1-link=Patsy M. Lightbown
+  |editor1-last  = Harley
+  |editor1-first = Birgit
+  |year          = 1990
+  |title         = The Development of Second Language Proficiency
+  |pages         = 82–92
+  |chapter       = Chapter 6: Process-product research on second language learning in classrooms
+  |publisher     = Cambridge University Press
+  |location      = Cambridge, New York
+  |isbn          = 978-0-521-38410-0
+}}
+*{{Cite journal
+  |last1 = Lightbown 
+  |first1 = Patsy
+  |author1-link=Patsy M. Lightbown
+  |last2 = Spada
+  |first2 = Nina
+  |year = 1990 
+  |title = Focus-on-Form and Corrective Feedback in Communicative Language Teaching: Effects on Second Language Learning
+  |journal = Studies in Second Language Acquisition 
+  |volume = 12 
+  |issue = 4
+  |pages = 429–48 
+  |doi = 10.1017/S0272263100009517
+|s2cid = 144068806
+ }}
+*{{Cite journal
+  |last1 = Lyster 
+  |first1 = R. 
+  |last2 = Mori 
+  |first2 = H. 
+  |year = 2006 
+  |title = Interactional feedback and instructional counterbalance 
+  |url = http://digitool.Library.McGill.CA:80/R/?func=dbin-jump-full&object_id=19367
+  |journal = Studies in Second Language Acquisition 
+  |volume = 28 
+  |issue = 2
+  |pages = 269–300
+  |doi=10.1017/s0272263106060128
+|s2cid = 17775491 
+ }}
+*{{Cite journal
+  |last1 = Lyster 
+  |first1 = R. 
+  |last2 = Ranta 
+  |first2 = L. 
+  |year = 1997 
+  |title = Corrective feedback and learner uptake: Negotiation of form in communicative classrooms 
+  |url = 
+  |journal = Studies in Second Language Acquisition 
+  |volume = 19 
+  |issue = 
+  |pages = 37–66
+  |doi=10.1017/s0272263197001034
+|s2cid = 67829334 
+ }}
+*{{cite book
+  |last          = Pfeffer
+  |first         = J. A.
+  |year          = 1964
+  |title         = Grunddeutsch: Basic (Spoken) German Word List
+  |publisher     = Prentice Hall
+  |location      = Englewood Cliffs, N. J.
+  |oclc          = 475772972
+}}
+*{{cite book
+  |last1         = Tarone
+  |first1        = Elaine
+  |last2         = Bigelow
+  |first2        = Martha
+  |last3         = Hansen
+  |first3        = Kit
+  |year          = 2009
+  |title         = Literacy and Second Language Oracy
+  |publisher     = Oxford University Press
+  |location      = Oxford
+  |isbn          = 978-0-19-442300-7
+}}
+*{{cite book
+  |last1         = Tarone
+  |first1        = Elaine
+  |last2         = Swierzbin
+  |first2        = Bonnie
+  |year          = 2009
+  |title         = Exploring Learner Language
+  |publisher     = Oxford University Press
+  |location      = Oxford
+  |isbn          = 978-0-19-442291-8
+}}
+{{refend}}
+
+{{SLA topics}}
+
+[[Category:Language-teaching methodology]]
+[[Category:Language teacher training]]
+[[Category:Second-language acquisition]]

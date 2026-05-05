@@ -1,0 +1,67 @@
+{{Short description|American anthropologist (born 1973)}}
+{{Use mdy dates|date=December 2023}} {{Use American English|date=December 2023}}
+{{Infobox scientist
+| image             = 
+| caption           = 
+| birth_name        = 
+| birth_date        = {{birth date and age|1973|04|18|df=y}}
+| birth_place       = [[Landstuhl]], [[West Germany]]
+| death_date        = 
+| death_place       = 
+| resting_place     = 
+| field             = [[Evolutionary anthropology]]
+| work_institutions = [[Max Planck Institute for Evolutionary Anthropology]]
+| alma_mater        = [[Emory University]] ([[Bachelor of Science|BS]])<br />[[University of California, Los Angeles]] ([[Doctor of Philosophy|PhD]])
+| doctoral_advisor  = [[Robert Boyd (anthropologist)|Robert Boyd]]
+| doctoral_students = 
+| thesis_title      = Culture and ecology of Usangu, Tanzania
+| thesis_url        = https://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4704080
+| thesis_year       = 2001
+| known_for         = 
+| prizes            = 
+| website           = {{URL|https://xcelab.net/rm/}}
+}}
+
+'''Richard McElreath''' (born 18 April 1973) is an American professor of [[anthropology]] and a director of the [[Max Planck Institute for Evolutionary Anthropology]] in [[Leipzig]], Germany.<ref name="psmag">{{Cite web|url=https://psmag.com/news/can-auditing-scientific-research-help-fix-its-reproducibility-crisis|title=Can Auditing Scientific Research Help Fix Its Reproducibility Crisis?|last=Chawla|first=Dalmeet Singh|date=2018-06-05|website=Pacific Standard|language=en|access-date=2019-03-08}}</ref><ref>{{cite news|first1=Presented by Ian|last1=Sample|first2=produced by Sandra|last2=Ferrari|access-date=2019-06-17|title=The trouble with science - Science Weekly podcast|url=https://www.theguardian.com/science/audio/2018/mar/30/the-trouble-with-science-science-weekly-podcast|newspaper=The Guardian|date=30 March 2018|issn=0261-3077|via=www.theguardian.com}}</ref> He is an author of the ''[[Statistical Rethinking]]'' applied [[Bayesian statistics]] textbook, among the first to largely rely on the [[Stan (software)|Stan]] statistical environment, and the accompanying ''rethinking'' [[R (programming language)|R language]] package.<ref>{{Cite journal|last=Sweet|first=Tracy M.|date=2017-07-27|title=A Review of Statistical Rethinking: A Bayesian Course With Examples in R and Stan|journal=Journal of Educational and Behavioral Statistics|language=en|volume=42|issue=1|pages=107–110|doi=10.3102/1076998616659752|s2cid=125035918|issn=1076-9986}}</ref><ref>{{Cite journal|last1=Gelman|first1=Andrew|last2=Lee|first2=Daniel|last3=Guo|first3=Jiqiang|date=2015-10-01|title=Stan: A Probabilistic Programming Language for Bayesian Inference and Optimization|journal=Journal of Educational and Behavioral Statistics|language=en|volume=40|issue=5|pages=530–543|doi=10.3102/1076998615606113|s2cid=220415167 |issn=1076-9986}}</ref>
+
+He earned his [[Bachelor of Science|B.S.]] at [[Emory University]] in 1995 and a [[Doctor of Philosophy|Ph.D.]] in anthropology under [[Robert Boyd (anthropologist)|Robert Boyd]] at the [[University of California, Los Angeles]] in 2001 with [[field research]] in [[Tanzania]].<ref name=":0">{{Cite web|url=https://www.mpg.de/9349950/anthropologie_wissM4|title=Richard McElreath|website=www.mpg.de|language=en|access-date=2019-03-08}}</ref><ref>{{Cite web|url=https://www.eva.mpg.de/ecology/staff/richard-mcelreath/cv.html|title=Dept. of Human Behavior, Ecology and Culture {{!}} Richard McElreath {{!}} CV|website=www.eva.mpg.de|access-date=2019-03-08}}</ref><ref>{{Cite web|url=https://www.genealogy.math.ndsu.nodak.edu/id.php?id=226708|title=Richard McElreath - The Mathematics Genealogy Project|website=www.genealogy.math.ndsu.nodak.edu|access-date=2019-03-08}}</ref>
+
+== Research ==
+In 2001 to 2002 McElreath won a fellowship to work as a [[postdoctoral researcher]] studying [[bounded rationality]] at the Max Planck Institute under [[Gerd Gigerenzer]]. Since 2002 he is working for the [[University of California, Davis]], teaching anthropology and conducting field work. He was awarded tenure (2006) and promoted to full [[Professor (highest academic rank)|professor]] (2014), holding the chair of the Evolutionary Anthropology department from 2014 to 2015. Since 2015 he is one of the directors at the [[Max Planck Institute for Evolutionary Anthropology]].<ref name=":0" />
+
+His main research focus lies in the evolution of cultural behaviors. Expanding on his work in anthropology, he has also been researching the social dynamics of the [[replication crisis]] in science and contributing to  statistical education.<ref>{{Cite journal|last1=Smaldino Paul E.|last2=McElreath Richard|title=The natural selection of bad science|journal=Royal Society Open Science|volume=3|issue=9|article-number=160384|doi=10.1098/rsos.160384|doi-access=free|pmc=5043322|pmid=27703703|year=2016|bibcode=2016RSOS....360384S|arxiv=1605.09511}}</ref><ref>{{Cite journal|last1=Smaldino|first1=Paul E.|last2=McElreath|first2=Richard|date=2015-08-26|title=Replication, Communication, and the Population Dynamics of Scientific Discovery|journal=PLOS ONE|language=en|volume=10|issue=8|article-number=e0136088|doi=10.1371/journal.pone.0136088|issn=1932-6203|pmc=4550284|pmid=26308448|bibcode=2015PLoSO..1036088M|arxiv=1503.02780|doi-access=free}}</ref> His work has been covered by professional and popular media, e.g. in ''[[Nature (journal)|Nature]],''<ref>{{Cite journal|last=Ball|first=Philip|date=2016-11-16|title=The mathematics of science's broken reward system|journal=Nature|doi=10.1038/nature.2016.20987|s2cid=185609227|issn=1476-4687}}</ref> ''[[The Economist]]''<ref>{{Cite news|url=https://www.economist.com/science-and-technology/2016/09/24/incentive-malus|title=Incentive malus|date=2016-09-24|newspaper=The Economist|access-date=2019-03-08|issn=0013-0613}}</ref> ''[[Pacific Standard]],''<ref name="psmag"/> and ''[[The Atlantic]].''<ref>{{Cite web|url=https://www.theatlantic.com/science/archive/2016/09/the-inevitable-evolution-of-bad-science/500609/|title=The Inevitable Evolution of Bad Science|last=Yong|first=Ed|date=2016-09-21|website=The Atlantic|language=en-US|access-date=2019-03-08}}</ref>
+
+==Selected publications==
+
+=== Books ===
+
+* {{Cite book |last=McElreath |first=Richard |url=https://press.uchicago.edu/ucp/books/book/chicago/M/bo4343149.html |title=Mathematical Models of Social Evolution: A Guide for the Perplexed |last2=Boyd |first2=Robert |publisher=[[The University of Chicago Press]] |year=2007 |isbn=978-0-226-55827-1}}
+* {{Cite book |last=McElreath |first=Richard |title=Statistical Rethinking: A Bayesian Course with Examples in R and Stan |publisher=[[Chapman & Hall]] |year=2015 |isbn=978-1-4822-5344-3 |edition=1st |publication-date=December 21, 2015 |doi=10.1201/9781315372495}}
+* {{Cite book |last=McElreath |first=Richard |url=https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919 |title=Statistical Rethinking: A Bayesian Course with Examples in R and STAN |year=2020 |isbn=978-0-367-13991-9 |edition=2nd |location=New York |publication-date=March 16, 2020 |doi=10.1201/9780429029608}}
+
+=== Articles and chapters ===
+
+* Henrich, Joseph, Robert Boyd, Samuel Bowles, Colin Camerer, Ernst Fehr, Herbert Gintis, and Richard McElreath. "In search of homo economicus: behavioral experiments in 15 small-scale societies." ''American Economic Review'' 91, no. 2 (2001): 73–78.
+* Henrich, Joseph, Richard McElreath, Abigail Barr, Jean Ensminger, Clark Barrett, Alexander Bolyanatz, Juan Camilo Cardenas et al. "Costly punishment across human societies." ''Science'' 312, no. 5781 (2006): 1767–1770.
+* Henrich, Joseph, Jean Ensminger, Richard McElreath, Abigail Barr, Clark Barrett, Alexander Bolyanatz, Juan Camilo Cardenas et al. "Markets, religion, community size, and the evolution of fairness and punishment." ''Science'' 327, no. 5972 (2010): 1480–1484.
+* Henrich, Joseph, and Richard McElreath. "The evolution of cultural evolution." ''Evolutionary Anthropology: Issues, News, and Reviews: Issues, News, and Reviews'' 12, no. 3 (2003): 123–135.
+* Dawes, Christopher T., James H. Fowler, Tim Johnson, Richard McElreath, and Oleg Smirnov. "Egalitarian motives in humans." ''Nature'' 446, no. 7137 (2007): 794.
+
+==See also==
+*[[Stan (software)]]
+
+== References ==
+{{reflist}}
+{{authority control}}
+
+{{DEFAULTSORT:McElreath, Richard}}
+[[Category:American anthropologists]]
+[[Category:1973 births]]
+[[Category:Living people]]
+[[Category:Emory University alumni]]
+[[Category:University of California, Los Angeles alumni]]
+[[Category:People from Landstuhl]]
+[[Category:University of California, Davis faculty]]
+[[Category:R (programming language) people]]
+[[Category:Max Planck Institute for Evolutionary Anthropology]]
+[[Category:Max Planck Institute directors]]

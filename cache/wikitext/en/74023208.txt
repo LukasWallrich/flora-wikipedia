@@ -1,0 +1,175 @@
+{{Short description|German economist}}
+{{Infobox academic
+| name               = Martin C. Schmalz
+| image              = 
+| image_size         = 
+| alt                = 
+| caption            = 
+| birth_date         = {{birth based on age as of date | 33 | 2018 | 04 | 23 }}<ref>{{cite web |url=https://poetsandquants.com/2018/04/23/2018-best-40-under-40-professors-martin-schmalz-ross-school-of-business/ |title=2018 Best 40 Under 40 Professors: Martin Schmalz, Ross School of Business |date=April 23, 2018 |publisher=Poets and Quants}}</ref>
+| birth_place        = 
+| death_date         = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place        = 
+| death_cause        = 
+| occupation         = [[Economist]]
+| known_for          = 
+| spouse             = 
+| awards             = [[Artur Fischer]] Preis
+| website            = 
+| education          = [[University of Stuttgart]] and [[Princeton University]]
+| discipline         = Finance, Accounting, Management, and Economics
+| sub_discipline     = 
+| workplaces         = [[University of Oxford]]'s [[Saïd Business School]]
+| notable_works      = 
+| notable_ideas      = 
+| influenced         = <!--must be referenced from a third-party source-->
+}}
+
+'''Martin Schmalz''' is a German [[financial economist]]. He is a professor of Finance, Economics, and Real Estate at the [[University of Oxford]]'s [[Saïd Business School]].<ref>{{cite web |title=Martin Schmalz - Saïd Business School |url=https://www.sbs.ox.ac.uk/about-us/people/martin-schmalz}}</ref>
+
+== Education ==
+Schmalz graduated with a Diplom-Ingenieur in Mechanical Engineering from the [[University of Stuttgart]]<ref>{{cite web |title=New hires at Saïd Business School |url=https://www.sbs.ox.ac.uk/sites/default/files/2021-10/sbs-review-2019.pdf|publisher=Saïd Business School}}</ref> as the valedictorian, winning the [[Artur Fischer]] Preis. He received a scholarship from the [[Studienstiftung|Studienstiftung des Deutschen Volkes]], Germany’s most prestigious scholarship foundation. He obtained his PhD in economics from [[Bendheim Center for Finance]]<ref>{{cite web |title=Annual Report 2012 |url=https://bcf.princeton.edu/wp-content/uploads/sites/3/2020/11/BCF-Annual-Report-2012.pdf |website=BCF, Princeton University|language=en | page=7}}</ref> of [[Princeton University]],<ref>{{cite web |title=Martin Schmalz |url=https://europe.princeton.edu/people/martin-schmalz |website=Princeton University|language=en}}</ref> and was granted a [[The Institute for Citizens & Scholars|Fellowship of Woodrow Wilson Scholars]] while pursuing it.<ref>{{cite web |title=Martin Schmalz's personal website |url=https://sites.google.com/site/martincschmalz/ |website=Google sites|language=en}}</ref>
+
+== Career ==
+Schmalz served as assistant professor of finance at the [[University of Michigan]]'s [[Ross School of Business]] from 2012 to 2018.<ref>{{cite web |title=Martin Schmalz, Ph.D. |url=https://news.umich.edu/for-journalists/find-experts/martin-schmalz-ph-d/ |publisher=University of Michigan}}</ref><ref>{{cite web |last1=Carter |first1=Andrea |title=2018 Best 40 Under 40 Professors: Martin Schmalz, Ross School of Business |url=https://poetsandquants.com/2018/04/23/2018-best-40-under-40-professors-martin-schmalz-ross-school-of-business/ |website=Poets&Quants |date=24 April 2018}}</ref> He then joined Oxford's Saïd Business School as associate professor of finance (with tenure) in 2019. He was elected Head of the Finance, Accounting, Management, and Economics Area in 2022.<ref name=sbs>{{cite web |title=Martin Schmalz |url=https://www.sbs.ox.ac.uk/about-us/people/martin-schmalz |website=Saïd Business School |date=22 June 2023 |language=en}}</ref>
+
+In 2023, Schmalz was also named the Chief Economist and Director of the Office of Economic and Risk Analysis (OERA) of the [[Public Company Accounting Oversight Board]] (PCAOB).<ref name=pcaob>{{Cite web | url = https://pcaobus.org/news-events/news-releases/news-release-detail/martin-c-schmalz-named-pcaob-chief-economist-and-director-of-its-office-of-economic-and-risk-analysis | title = Martin C. Schmalz Named PCAOB Chief Economist and Director of Its Office of Economic and Risk Analysis | author = Public Company Accounting Oversight Board | date = August 28, 2023 | website = pcaobus.org | access-date = August 29, 2023}}</ref> He succeeded [[Luigi Zingales]] in this role, who was the founding director of [[Public Company Accounting Oversight Board|PCAOB]]'s Center for Economic Analysis since 2013.<ref>{{Cite web | url = https://pcaobus.org/news-events/news-releases/news-release-detail/pcaob-announces-center-for-economic-analysis_446 | title = PCAOB Announces Center for Economic Analysis | author = Public Company Accounting Oversight Board | date = November 6, 2013 | website = pcaobus.org | access-date = August 30, 2023}}</ref> He served there until May 2025. <ref>{{Cite web | url = https://pcaobus.org/news-events/news-releases/news-release-detail/dr-joshua-t-white-named-pcaob-s-acting-chief-economist-and-oera-director--dr-martin-c.-schmalz-returns-to-university-of-oxford | title = Dr. Joshua T. White Named PCAOB’s Acting Chief Economist and OERA Director; Dr. Martin C. Schmalz Returns to University of Oxford | author = Public Company Accounting Oversight Board | date = May 8, 2025 | website = pcaobus.org | access-date = May 14, 2025}}</ref> 
+
+Additionally, since 2023 he serves as a Director of Global Corporate Governance Colloquia (GCGC).<ref name=gcgc>{{Cite web | url = https://www.ecgi.global/news/global-corporate-governance-colloquia-forges-ahead-its-second-phase | title = Global corporate governance colloquia forges ahead into its second phase | date = June 17, 2023 | website = ecgi.global | access-date = August 29, 2023}}</ref>
+
+=== Teaching ===
+Schmalz is the Academic Director of Oxford's Blockchain Strategy Programme<ref>{{cite web|title=Oxford Blockchain Strategy Programme |url=https://www.sbs.ox.ac.uk/programmes/executive-education/online-programmes/oxford-blockchain-strategy-programme |website=Saïd Business School |language=en}}</ref> and co-director of the AI in Fintech and Open Banking Programme. He co-authored the book ''The Business of Big Data: How to Create Lasting Value in the Age of AI''.<ref>{{cite web |title=Henry Thornton Lecture with Professor Martin Schmalz |url=https://www.city.ac.uk/news-and-events/events/2023/may/henry-thornton-lecture-with-professor-martin-schmalz |website=City, University of London |date=31 March 2023}}</ref> [[Poets and Quants]] named him one of the "40 under 40" best business school professors in the world in 2018.<ref>{{cite web |last1=Carter |first1=Andrea |title=2018 Best 40 Under 40 Professors: Martin Schmalz, Ross School of Business |url=https://poetsandquants.com/2018/04/23/2018-best-40-under-40-professors-martin-schmalz-ross-school-of-business/ |website=Poets&Quants |date=24 April 2018}}</ref>
+
+=== Research ===
+Schmalz is most well known for his research at the intersection of corporate governance,<ref>{{cite web |title=Are ETFs Killing Future Stock Market Returns? |url=https://www.bloomberg.com/news/articles/2023-02-02/podcast-are-etfs-killing-future-stock-market-returns#xj4y7vzkg |website=Bloomberg.com |language=en |date=2 February 2023}}</ref> [[industrial organization]], and antitrust economics.<ref name=hand>{{cite web |title=Martin Schmalz: Asset managers will not solve the world's problems |url=https://www.handelsblatt.com/meinung/homo-oeconomicus/kolumne-homo-oeconomicus-martin-schmalz-vermoegensverwalter-werden-die-probleme-der-welt-nicht-loesen/26638790.html |website=Handelsblatt}}</ref><ref>{{cite web |title=Research from Martin Schmalz referenced by the White House |url=https://www.sbs.ox.ac.uk/news/research-martin-schmalz-referenced-white-house |website=Saïd Business School |date=7 June 2022 |language=en}}</ref><ref>{{cite web |title=Why Larry Fink May Be the Trustbusters' Next Target |date=30 September 2016 |url=https://www.thestreet.com/investing/funds/mutual-funds/why-larry-fink-may-be-the-trustbusters-next-target-13773419 |publisher=TheStreet}}</ref>
+
+His research covers law, finance, and economics, and focuses on the intersection of asset management, asset pricing, industrial organization, and corporate governance. He has been called to testify to [[Council of Economic Advisers|The White House Council of Economic Advisers]], [[Federal Trade Commission|FTC]] Hearings on [[Common ownership]] and [[Competition (economics)|competition]],<ref>{{cite web |title=Martin Schmalz' Presentation on Common Ownership |url=https://www.ftc.gov/media/70147 |website=Federal Trade Commission |date=16 June 2023 |language=en}}</ref> The U.S. Department of Justice, European Parliament, Australian Parliament, various central banks, and competition authorities worldwide.<ref name=sbs />
+
+==== Common Ownership and Competition ====
+His 2018 [[Journal of Finance]] paper with José Azar and Isabel Tecu, "Anticompetitive Effects of Common Ownership" found evidence that common ownership by institutional investors was associated with higher airline prices, with estimated increases of 3-11% compared to separate ownership structures.<ref>{{cite journal |last1=Azar |first1=José |last2=Schmalz |first2=Martin C. |last3=Tecu |first3=Isabel|title=Anticompetitive Effects of Common Ownership |journal=Journal of Finance |volume=73 |issue=4|pages=1513–1565 |year=2018 |doi=10.1111/jofi.12698}}</ref> Following his testimony at a 2018 [[Federal Trade Commission]] hearing on common ownership,<ref>{{cite web|url=https://www.ftc.gov/news-events/events/2018/12/ftc-hearing-8-common-ownership |title=FTC Hearing #8: Common Ownership |publisher=Federal Trade Commission |date=2018-12-06 |access-date=2025-08-04}}</ref> the topic gained regulatory attention. The 2023 Federal Merger Guidelines included common ownership as an enforcement concern, stating that such arrangements "can reduce competition by softening firms' incentives to compete."<ref>{{cite web|url=https://www.ftc.gov/system/files/ftc_gov/pdf/2023_merger_guidelines_final_12.18.2023.pdf |title=2023 Merger Guidelines |publisher=U.S. Department of Justice and Federal Trade Commission|date=2023-12-18 |access-date=2025-08-04}}</ref> In 2025, the [[United States Department of Justice|Department of Justice]] and [[Federal Trade Commission]] filed their first formal statement in federal court on the antitrust implications of common shareholdings in the Texas v. BlackRock case, where eleven state attorneys general alleged that major asset managers used their shareholdings to coordinate coal output reductions.<ref>{{cite web|url=https://www.justice.gov/opa/pr/justice-department-and-federal-trade-commission-file-statement-interest-anticompetitive-uses |title=Justice Department and Federal Trade Commission File Statement of Interest on Anticompetitive Uses of Common Shareholdings |publisher=U.S. Department of Justice|date=2025-05-22 |access-date=2025-08-04}}</ref> The paper launched a literature on "common ownership" of competitors and, as of 2023, was one of the most cited articles published in [[The Journal of Finance]] in the past five years, and has been called an "economic blockbuster" by [[Harvard Law School]] Professor Einer Elhauge.
+
+He also co-authored the [[Journal of Political Economy]] article "Common Ownership, Competition, and Top Management Incentives" which proves that benign neglect by shareholders is a sufficient mechanism to explain the results in the empirical literature on "common ownership".<ref>{{cite journal |title=Common Ownership, Competition, and Top Management Incentives |journal=Yale Department of Economics |url=https://economics.yale.edu/research/common-ownership-competition-and-top-management-incentives |language=en}}</ref>
+
+Despite his extensive research on common ownership and its competitive effects, Schmalz has stated in his FTC testimony that he has "always held back with policy proposals or endorsing them" on the topic, maintaining a research-focused rather than advocacy position.<ref>{{cite web |title=Martin Schmalz' Presentation on Common Ownership |url=https://www.ftc.gov/media/70147 |website=Federal Trade Commission |date=16 June 2023 |language=en}}</ref>
+
+Arte's documentary on BlackRock also covers the research on antitrust.<ref name=hand />
+
+==== Audit Market Regulation ====
+In his role as PCAOB Chief Economist, Schmalz has contributed to research on audit regulation reform. He co-authored a 2024 study examining how equity markets respond to audit inspection reports, finding that market-based transparency mechanisms could provide effective incentives for audit quality when issuers can be identified from inspection results.<ref>{{cite journal |last1=Acito |first1=Andrew |last2=Amel-Zadeh |first2=Amir |last3=Anderson |first3=James |last4=Anderson |first4=William |last5=Aobdia |first5=Daniel |last6=Bourveau |first6=Thomas |last7=Brochet |first7=Francois |last8=Chen |first8=Huaizhi |last9=Fluharty-Jaidee |first9=Jonathan |last10=Schmalz |first10=Martin |display-authors=etal |date=December 2024 |title=Market-Based Incentives for Optimal Audit Quality |journal=SSRN Electronic Journal |doi=10.2139/ssrn.4997362 |url=https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4997362}}</ref>
+
+Schmalz has also examined labor market dynamics in auditing, proposing that monopsony power in the audit labor market could explain apparent auditor shortages rather than solely supply-side factors. He argued that [[market concentration]] may enable audit firms to suppress wages below competitive levels, leading to reduced audit quality and perceived talent shortages.<ref>{{cite web |last=Schmalz |first=Martin |date=2024 |title=Talent "pipeline," audit quality, and other research topics of interest |publisher=Public Company Accounting Oversight Board |url=https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4754836}}</ref>
+
+====Central Banking====
+In 2023, Schmalz co-authored research examining whether central banks exhibit profit-seeking behavior. The study, published in the ''Journal of Finance'' with Igor Goncharov and Vasso Ioannidou, found empirical evidence that central banks actively manage earnings to avoid reporting losses, particularly when political pressure is greater.<ref>{{cite journal |last1=Goncharov |first1=Igor |last2=Ioannidou |first2=Vasso |last3=Schmalz |first3=Martin C. |date=October 2023 |title=(Why) Do Central Banks Care about Their Profits? |journal=The Journal of Finance |volume=78 |issue=5 |pages=2969–3021 |doi=10.1111/jofi.13268 |url=https://onlinelibrary.wiley.com/doi/10.1111/jofi.13268|url-access=subscription }}</ref> The research found that the propensity to avoid losses was correlated with more lenient monetary policy and higher inflation. The authors stated that their findings inform debates about the political economy of central banking and the effectiveness of non-traditional central banking.
+
+==== Other Research ====
+The 2017 paper "Housing Collateral and Entrepreneurship", written together with David Sraer and [[David Thesmar]], received the [[Brattle Group]] Distinguished Paper Prize.<ref>{{cite web |title=The Brattle Group Prizes for best papers in Corporate Finance for 2017 |url=https://www.brattle.com/insights-events/news/american-finance-association-announces-2017-recipients-of-the-brattle-group-prize/ |date=15 February 2018}}</ref>
+
+As of May 2025, Schmalz is cited over 4600 times according to his [[Google Scholar]] page.<ref>{{cite web |title=Martin C Schmalz | url=https://scholar.google.com/citations?user=Iae7qqcAAAAJ}}</ref>
+
+=== Fellowships and grants ===
+
+In 2024, Schmalz was awarded with a €1.7 million HORIZON-ERC research grant by [[European Research Council]].
+<ref>{{cite report
+ |title = ERC Consolidator Grants 2024 – List of Principal Investigators (All Domains)
+ |url = https://erc.europa.eu/sites/default/files/2024-12/erc-2024-cog-results-all-domains.pdf
+ |publisher = European Research Council
+ |date = 3 December 2024
+ |access-date = 14 May 2025
+ |format = PDF
+ |page = 22
+ |language = en
+}}</ref>
+<ref>{{cite web
+ |title = Professor Martin Schmalz wins major European grant for key investment research
+ |url = https://www.sbs.ox.ac.uk/news/professor-martin-schmalz-wins-major-european-grant-key-investment-research
+ |website = Saïd Business School, University of Oxford
+ |date = 19 December 2024
+ |access-date = 14 May 2025
+}}</ref>
+
+In 2021, Schmalz received a $45 000 grant from the Washington Center for Equitable Growth for his project “Welfare Effects of Common Ownership.”<ref>{{cite web
+  |url=https://equitablegrowth.org/grants/welfare-effects-of-common-ownership/
+  |title=Welfare Effects of Common Ownership
+  |publisher=Washington Center for Equitable Growth
+  |accessdate=14 May 2025
+}}</ref>
+
+In 2020, Schmalz received a three-year research grant from the Norwegian Finance Initiative at [[Norges Bank#Norges Bank Investment Management|Norges Bank Investment Management]] to analyse how changes in ownership, compensation structures, and communication from owners affect management behaviour.<ref>{{cite web
+  |url=https://www.nbim.no/en/news-and-insights/the-press/press-releases/2020/funding-three-research-projects-to-study-effects-of-corporate-governance/
+  |title=Funding three research projects to study effects of corporate governance
+  |publisher=Norges Bank Investment Management
+  |date=17 November 2020
+  |accessdate=15 May 2025
+}}</ref>
+
+In 2019, Schmalz was awarded a £40 000 Pemberton grant to support his research on the European private debt market.<ref>{{cite web
+  |url=https://www.abfjournal.com/private-debt-funds-and-direct-lending-grew-significantly-in-the-last-decade/
+  |title=Private debt funds and direct lending grew significantly in the last decade
+  |publisher=ABF Journal
+  |accessdate=14 May 2025
+}}</ref>
+The same year, he received two awards from the Oxford Saïd Business School Faculty Research Fund: for his study “Horizon dependent risk aversion, preference reversals and demand for commitment,” and for his research on “Disagreement in Optimal Security Design.”<ref>{{cite web
+  |url=https://www.sbs.ox.ac.uk/sites/default/files/2020-10/Research_Community_Newsletter%20MT19.pdf
+  |title=Research Community Newsletter MT19
+  |publisher=Saïd Business School, University of Oxford
+  |accessdate=14 May 2025
+}}</ref>
+<ref>{{cite web
+  |url=https://www.sbs.ox.ac.uk/sites/default/files/2019-08/Research_Community_Newsletter_%20Trinity_2019_WEB.pdf
+  |title=Research Community Newsletter Trinity 2019
+  |publisher=Saïd Business School, University of Oxford
+  |accessdate=14 May 2025
+}}</ref>
+
+In 2016, Schmalz was appointed to the NBD Bancorp Assistant Professorship in Business Administration at the University of Michigan’s Ross School of Business.<ref>{{cite web
+  |url=https://positiveorgs.bus.umich.edu/news/michigan-ross-and-university-regents-recognize-outstanding-faculty/
+  |title=Michigan Ross and University Regents Recognize Outstanding Faculty
+  |publisher=Positive Orgs, University of Michigan
+  |accessdate=15 May 2025
+}}</ref>
+From 2014 to 2015, he was awarded the NTT Research Fellowship.<ref>{{cite web
+  |url=http://bs.uibe.edu.cn/acconf/download/16-Joan%20Farre%20Mensa-Financing%20Payouts.pdf
+  |title=Conference Proceedings: Financing Payouts (NTT Research Fellowship)
+  |publisher=University of International Business and Economics
+  |accessdate=15 May 2025
+}}</ref>
+
+===Academic visits===
+Schmalz was a visiting scholar at the [[Center for Economic Studies]] (CES) at [[LMU Munich]] in 2016, during which time he was affiliated with the [[University of Michigan]].<ref name="CES_LMU_Visit2016">{{cite web |url=https://www.en.ces.econ.uni-muenchen.de/ces-visiting-program/ces-visiting-scholars/former/index.html |title=Former Visiting Scholars - Center for Economic Studies (CES) - LMU Munich |website=Center for Economic Studies, LMU Munich |access-date=2024-12-04}}</ref>
+
+== Other activities ==
+In addition to his academic career, Schmalz is also a licensed commercial pilot certified by the U.S. Department of Transportation [[Federal Aviation Administration]] (FAA). He holds a license to fly commercial planes and private helicopters,<ref>{{cite web |title=FAA Registry Search |url=https://amsrvs.registry.faa.gov/airmeninquiry/ |website=FAA Registry |publisher=Federal Aviation Administration |access-date=March 7, 2024 |quote=Information obtained from the FAA Registry search using the person's name}}</ref> demonstrating proficiency in aviation operations and safety regulations.
+
+In February 2020, Schmalz was a guest on [[Chris Williamson (TV personality)|Chris Williamson's]] podcast ''Modern Wisdom''<ref>{{cite web |title=Modern Wisdom #144 - Martin Schmalz - Artificial Intelligence, Big Data & China |url=https://podcasts.apple.com/gb/podcast/144-martin-schmalz-artificial-intelligence-big-data-china/id1347973549?i=1000466150137 |website=Apple Podcasts | access-date=May 1, 2025}}</ref>
+
+== References ==
+<!-- Inline citations added to your article will automatically display here. See en.wikipedia.org/wiki/WP:REFB for instructions on how to add citations. -->
+{{reflist}}
+
+== External links ==
+*{{GoogleScholar|Iae7qqcAAAAJ}}
+* {{cite journal | title = (Why) do central banks care about their profits? | journal = Journal of Finance | date = 2023 |author=Igor Goncharov |author2=Vasso Ioannidou |author3=Martin Schmalz | volume = 78 | issue = 5 | pages = 2991–3045 | doi = 10.1111/jofi.13257 | doi-access = free | hdl = 10419/167532 | hdl-access = free }}
+* {{cite journal | title = Common ownership, competition, and top management incentives | journal = Journal of Political Economy | date = 2023 |author=Miguel Antón |author2=Florian Ederer |author3=Mireia Giné |author4=Martin Schmalz | volume = 131 | issue = 5 | pages = 1294–1355 | doi = 10.1086/722414 | s2cid = 19922751 | url = https://www.cesifo.org/DocDL/cesifo1_wp6178_0.pdf }}
+* {{cite journal | title = Direct Lending: Evidence from European and US Markets | date = 2022 |author=Laura Fritsch |author2=Wayne Lim |author3=Alexander Montag |author4=Martin C Schmalz | journal = The Journal of Alternative Investments | volume = 24 | issue = 3 | pages = 80–98 | doi = 10.3905/jai.2021.1.150 | s2cid = 238191975 }}
+* {{cite journal | title = Recent Studies on Common Ownership, Firm Behavior, and Market Outcomes | journal = Antitrust Bulletin | date = 2021 |author=MC Schmalz | volume = 66 | pages = 12–38 | doi = 10.1177/0003603X20985804 | s2cid = 231857956 | doi-access = free }}
+* {{cite journal | title = Research on the Competitive Consequences of Common Ownership: A Methodological Critique | journal = Antitrust Bulletin | date = 2021 |author=J Azar |author2=MC Schmalz |author3=I Tecu | volume = 66 | pages = 113–122 | doi = 10.1177/0003603X20985799 | s2cid = 231858012 | doi-access = free }}
+* {{cite journal | title = Revealing Downturns | journal = Review of Financial Studies | date = 2018 |author=MC Schmalz |author2=Z Sergey | doi = 10.1111/jofi.12698 | doi-access = free }}
+* {{cite journal | title = Anticompetitive Effects of Common Ownership | date = 2018 |author=Jose Azar |author2=Martin C Schmalz |author3=Isabel Tecu | journal = The Journal of Finance | volume = 73 | issue = 4 | pages = 1513–1565 | doi = 10.1111/jofi.12698 | doi-access = free }}
+* {{cite journal | title = Common-Ownership Concentration and Corporate Conduct | date = 2018 |author=Martin C Schmalz | journal = Annual Review of Financial Economics | volume = 10 | pages = 413–448 | doi = 10.1146/annurev-financial-110217-022747 | s2cid = 168903814 | url = https://www.cesifo.org/DocDL/cesifo1_wp6908.pdf }}
+* {{cite journal | title = Common ownership of competitors raises antitrust concerns | journal = Journal of European Competition Law and Practice | date = 2017 |author=J Azar |author2=MC Schmalz | volume = 8 | issue = 5 | pages = 329–332 | doi = 10.1093/jeclap/lpx032 | doi-access = free }}
+* {{cite journal | title = Housing Collateral and Entrepreneurship | date = 2017 |author=Martin C Schmalz |author2=David A Sraer |author3=David Thesmar | journal = The Journal of Finance | volume = 72 | pages = 99–132 | doi = 10.1111/jofi.12468 | url = http://www.nber.org/papers/w19680.pdf }}
+* {{cite journal | title = Fund Flows and Market States | date = 2017 |author=Francesco Franzoni |author2=Martin C Schmalz | journal = The Review of Financial Studies | volume = 30 | issue = 8 | pages = 2621–2673 | doi = 10.1093/rfs/hhx015 }}
+* {{cite journal | title = Can Changes in the Cost of Carry Explain the Dynamics of Corporate "Cash" Holdings? | date = 2016 |author=Jose A Azar |author2=Jean-Francois Kagy |author3=Martin C Schmalz | journal = Review of Financial Studies | volume = 29 | issue = 8 | pages = 2194–2240 | doi = 10.1093/rfs/hhw021 }}
+* {{cite journal | title = Anxiety in the face of risk | date = 2016 |author=Thomas M Eisenbach |author2=Martin C Schmalz | journal = Journal of Financial Economics | volume = 121 | issue = 2 | pages = 414–426 | doi = 10.1016/j.jfineco.2015.10.002 }}
+* {{cite journal | title = Payout Policy | date = 2014 |author=Joan Farre-Mensa |author2=Roni Michaely |author3=Martin Schmalz | journal = Annual Review of Financial Economics | volume = 6 | pages = 75–134 | doi = 10.1146/annurev-financial-110613-034259 | doi-access = free }}
+* {{cite journal | title = Inequality and Market Concentration, when Shareholding is More Skewed than Consumption | journal = SSRN Electronic Journal |author=Joshua Gans |author2=Andrew Leigh |author3=Martin C Schmalz |author4=Adam Triggs | date = 2018 | doi = 10.2139/ssrn.3301054 | url = https://econpapers.repec.org/RePEc:iza:izadps:dp12034 | hdl = 10419/191427 | hdl-access = free }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Schmalz, Martin C.}}
+[[Category:German economists]]
+[[Category:Academics of Saïd Business School]]
+[[Category:Academics of the University of Oxford]]
+[[Category:University of Stuttgart alumni]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]

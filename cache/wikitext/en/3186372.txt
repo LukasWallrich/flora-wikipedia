@@ -1,0 +1,337 @@
+{{Short description|Study of reaction between humans and robots}}
+'''Human–robot interaction''' ('''HRI''') is the study of interactions between humans and robots. Human–robot interaction is a multidisciplinary field with contributions from [[human–computer interaction]], [[artificial intelligence]], [[robotics]], [[natural language processing]], [[design]], [[psychology]] and [[philosophy]].  A subfield known as physical human–robot interaction (pHRI) has tended to focus on device design to enable people to safely interact with robotic systems.<ref name="Kalinowska"/>
+
+==Origins==
+Human–robot interaction has been a topic of both science fiction and academic speculation even before any robots existed. Because much of active HRI development depends on [[natural language processing]], many aspects of HRI are continuations of [[human communication]]s, a field of research which is much older than robotics.
+
+The origin of HRI as a discrete problem was stated by 20th-century author [[Isaac Asimov]] in 1941, in his novel ''I, Robot''. Asimov coined [[Three Laws of Robotics]], namely:
+# A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+# A robot must obey the orders <!-- Do not add "to" here: it's not in the source. -->{{sic|given it|expected=given to it|hide=y}}<!-- Do not add "to" here: it's not in the source. --> by human beings except where such orders would conflict with the First Law.
+# A robot must protect its own existence as long as such protection does not conflict with the First or Second Laws.<ref name=IROBOT>{{cite book |last1=Asimov |first1=Isaac |title=I, Robot |date=1950 |publisher=Doubleday |location=New York |isbn=978-0-385-42304-5 |page=40 |series=The Isaac Asimov Collection |chapter=Runaround |quote=This is an ''exact'' transcription of the laws. They also appear in the front of the book, and in both places there is ''no'' "to" in the 2nd law. Note that this snippet has been copy-pasted from [[Three Laws of Robotics]]}}</ref>
+
+These three laws provide an overview of the goals engineers and researchers hold for safety in the HRI field, although the fields of [[robot ethics]] and [[machine ethics]] are more complex than these three principles. However, generally human–robot interaction prioritizes the safety of humans that interact with potentially dangerous robotics equipment. Solutions to this problem range from the philosophical approach of treating robots as ethical agents (individuals with [[moral agency]]), to the practical approach of creating safety zones. These safety zones use technologies such as [[lidar]] to detect human presence or physical barriers to protect humans by preventing any contact between machine and operator.<ref>{{cite web |last=Hornbeck |first=Dan |date=2008-08-21 |title=Safety in Automation |website=machinedesign.com |url=https://www.machinedesign.com/news/article/21829303/safety-in-automation |access-date=2020-06-12}}</ref>
+
+Although initially robots in the human–robot interaction field required some human intervention to function, research has expanded this to the extent that fully autonomous systems are now far more common than in the early 2000s.<ref name=scholtz_eval_methods>{{cite journal | last1=Scholtz | first1=Jean | title=Evaluation methods for human-system performance of intelligent systems | journal=Proceedings of the 2002 Performance Metrics for Intelligent Systems (PerMIS) Workshop | doi=10.1007/s10514-006-9016-5 | s2cid=31481065 }}</ref> Autonomous systems include from [[simultaneous localization and mapping]] systems which provide intelligent robot movement to [[natural language processing|natural-language processing]] and [[natural language generation|natural-language generation]] systems which allow for natural, human-esque interaction which meet well-defined psychological benchmarks.<ref>{{cite conference |last1=Kahn |first1=Peter H. |last2=Ishiguro |first2=Hiroshi |last3=Friedman |first3=Batya |last4=Kanda |first4=Takayuki |date=2006-09-08 |title=What is a human? - Toward psychological benchmarks in the field of human–robot interaction |conference=ROMAN 2006 - the 15th IEEE International Symposium on Robot and Human Interactive Communication |pages=364–371 |doi=10.1109/ROMAN.2006.314461 |isbn=1-4244-0564-5 |s2cid=10368589}}</ref>
+
+[[Anthropomorphism|Anthropomorphic]] robots (machines which imitate human body structure) are better described by the [[biomimetic]]s field, but overlap with HRI in many research applications. Examples of robots which demonstrate this trend include [[Willow Garage]]'s [[PR2 robot]], the [[NASA]] [[Robonaut]], and [[Honda]] [[ASIMO]]. However, robots in the human–robot interaction field are not limited to human-like robots: [[Paro (robot)|Paro]] and [[Kismet (robot)|Kismet]] are both robots designed to elicit emotional response from humans, and so fall into the category of human–robot interaction.<ref>{{cite web |title=Meet Paro, the therapeutic robot seal |date= November 20, 2003 |website=[[CNN]] |url=https://www.cnn.com/2003/TECH/ptech/11/20/comdex.bestof/index.html |access-date=2020-06-12}}</ref>
+
+Goals in HRI range from industrial manufacturing through [[Cobot]]s, medical technology through rehabilitation, autism intervention, and elder care devices, entertainment, human augmentation, and human convenience.<ref>{{cite web |title=The future of human–robot interaction |website=as.cornell.edu |date=27 September 2017 |url=https://as.cornell.edu/news/future-human-robot-interaction |access-date=2020-06-12 |language=en}}</ref> Future research therefore covers a wide range of fields, much of which focuses on assistive robotics, robot-assisted search-and-rescue, and space exploration.<ref>{{cite web |title=3: Emergence of HRI as a Field |website=Human–Robot Interaction |url=http://humanrobotinteraction.org/3-emergence-of-hri-as-a-field/ |access-date=2020-06-12 |language=en-US}}</ref>
+
+==The goal of friendly human–robot interactions==
+[[File:Kismet-IMG 6007-gradient.jpg|right|thumb|[[Kismet (robot)|Kismet]] can produce a range of facial expressions.]]
+Robots are [[artificial agents]] with capacities of perception and action in the physical world often referred by researchers as workspace. Their use has been generalized in factories but nowadays they tend to be found in the most technologically advanced societies in such critical domains as search and rescue, military battle, mine and bomb detection, scientific exploration, law enforcement, entertainment and hospital care.
+
+These new domains of applications imply a closer interaction with the user, sharing the workspace but also goals in terms of task achievement. The subfield of physical human–robot interaction (pHRI) has largely focused on device design to enable people to safely interact with robotic systems but is increasingly developing algorithmic approaches in an attempt to support fluent and expressive interactions between humans and robotic systems.<ref name="Kalinowska">{{cite journal |last1=Kalinowska |first1=Aleksandra |last2=Pilarski |first2=Patrick M. |last3=Murphey |first3=Todd D. |title=Embodied Communication: How Robots and People Communicate Through Physical Interaction |journal=Annual Review of Control, Robotics, and Autonomous Systems |date=3 May 2023 |volume=6 |issue=1 |pages=205–232 |doi=10.1146/annurev-control-070122-102501 |s2cid=255701603 |language=en |issn=2573-5144|doi-access=free }}</ref>
+
+With the advance in [[AI]], the research is focusing on one part towards the safest physical interaction but also on a socially correct interaction, dependent on cultural criteria. The goal is to build an intuitive, and easy communication with the robot through speech, gestures, and facial expressions.
+
+[[Kerstin Dautenhahn]] refers to friendly Human–robot interaction as "Robotiquette" defining it as the "social rules for robot behaviour (a 'robotiquette') that is comfortable and acceptable to humans"<ref name=":8">{{cite journal |last=Dautenhahn |first=Kerstin |author-link=Kerstin Dautenhahn |date=29 April 2007 |title=Socially intelligent robots: Dimensions of human–robot interaction |journal=Philosophical Transactions of the Royal Society B: Biological Sciences |volume=362 |issue=1480 |pages=679–704 |doi=10.1098/rstb.2006.2004 |pmid=17301026 |pmc=2346526 }}</ref> The robot has to adapt itself to our way of expressing desires and orders and not the contrary. But every day environments such as homes have much more complex social rules than those implied by factories or even military environments. Thus, the robot needs perceiving and understanding capacities to build dynamic models of its surroundings. It needs to [[Object recognition|categorize objects]], recognize and locate humans and further [[emotion recognition|recognize their emotions]]. The need for dynamic capacities pushes forward every sub-field of robotics.
+
+Furthermore, by understanding and perceiving social cues, robots can enable collaborative scenarios with humans. For example, with the rapid rise of personal fabrication machines such as desktop [[3D printing|3D printers]], [[laser cutters]], etc., entering our homes, scenarios may arise where robots can collaboratively share control, co-ordinate and achieve tasks together. [[Industrial robots]] have already been integrated into industrial assembly lines and are collaboratively working with humans. The social impact of such robots have been studied<ref name=":9">{{cite conference |last1=Sauppé |first1=Allison |last2=Mutlu |first2=Bilge |year=2015 |chapter=The social impact of a robot co-worker in industrial settings |book-title=Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems |conference=ACM Conference on Human Factors in Computing Systems - CHI '15 |pages=3613–3622 |isbn=978-1-4503-3145-6 |s2cid=3136657 |doi=10.1145/2702123.2702181}}</ref> and has indicated that workers still treat robots and social entities, rely on social cues to understand and work together.
+
+On the other end of HRI research the [[cognitive model]]ling of the "relationship" between human and the robots benefits the psychologists and robotic researchers the user study are often of interests on both sides. This research endeavours part of human society. For effective ''human – humanoid robot'' interaction<ref name=":10">{{cite book |title=Human–Robot Interaction |via=www.interaction-design.org |url=https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-robot-interaction}}</ref> numerous communication skills<ref>{{cite conference |last1=Bubaš |first1=Goran |last2=Lovrenčić |first2=Alen |year=2002 |title=Implications of interpersonal communication competence research on the design of artificial behavioral systems that interact with humans |book-title=Proceedings of the 6th International Conference on Intelligent Engineering Systems |conference=International Conference on Intelligent Engineering Systems - INES 2002 |url=https://www.bib.irb.hr/136705}}</ref> and related features should be implemented in the design of such artificial agents/systems.
+
+==General HRI research==
+HRI research spans a wide range of fields, some general to the nature of HRI.
+
+===Methods for perceiving humans===
+Methods for perceiving humans in the environment are based on sensor information. Research on sensing components and software led by Microsoft provide useful results for extracting the human kinematics (see [[Kinect]]). An example of older technique is to use colour information for example the fact that for light skinned people the hands are lighter than the clothes worn. In any case a human modelled a priori can then be fitted to the sensor data. The robot builds or has (depending on the level of autonomy the robot has) a 3D [[robotic mapping|mapping of its surroundings]] to which is assigned the humans locations.
+
+Most methods intend to [[3D reconstruction|build a 3D model]] through [[Computer vision|vision]] of the environment. The [[proprioception]] sensors permit the robot to have information over its own state. This information is relative to a reference.   Theories of [[proxemics]] may be used to perceive and plan around a person's personal space.
+
+A speech recognition system is used to interpret human desires or commands. By combining the information inferred by proprioception, sensor and speech the human position and state (standing, seated). In this matter, [[natural language processing|natural-language processing]] is concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of [[natural language|natural-language]] data.  For instance, neural-network architectures and learning algorithms that can be applied to various natural-language processing tasks including part-of-speech tagging, chunking, [[named-entity recognition]], and [[semantic role labeling]].<ref>{{cite book |author1=Collobert, Ronan |author2=Weston, Jason |author3=Bottou, Léon |author4=Karlen, Michael |author5=Kavukcuoglu, Koray |author6=Kuksa, Pavel |year=2011 |title=Natural Language Processing (Almost) from Scratch |oclc=963993063}}</ref>
+
+===Methods for motion planning===
+[[Motion planning]] in dynamic environments is a challenge that can at the moment only be achieved for robots with 3 to 10&nbsp;[[Degrees of freedom (mechanics)|degrees of freedom]]. Humanoid robots or even 2&nbsp;armed robots, which can have up to 40&nbsp;degrees of freedom, are unsuited for dynamic environments with today's technology. However lower-dimensional robots can use the potential field method to compute trajectories which avoid collisions with humans.
+
+===Cognitive models and theory of mind===
+Humans exhibit negative social and emotional responses as well as decreased trust toward some robots that closely, but imperfectly, resemble humans; this phenomenon has been termed the "[[Uncanny valley|Uncanny Valley]]".<ref name="Mathur20162">{{cite journal |last1=Mathur |first1=Maya B. |last2=Reichling |first2=David B. |year=2016 |title=Navigating a social world with robot partners: S quantitative cartography of the Uncanny Valley |journal=Cognition |volume=146 |pages=22–32 |doi=10.1016/j.cognition.2015.09.008 |doi-access=free |pmid=26402646}}</ref> However recent research in telepresence robots has established that mimicking human body postures and expressive gestures has made the robots likeable and engaging in a remote setting.<ref>{{cite conference |last1=Adalgeirsson |first1=Sigurdur |last2=Breazeal |first2=Cynthia |year=2010 |title=MeBot: A Robotic Platform for Socially Embodied Presence |conference=ACM/IEEE International Conference on Human–Robot Interaction – HRI '10 |book-title=Proceedings of the 5th ACM/IEEE International Conference on Human–Robot Interaction |pages=15–22 |isbn=978-1-4244-4893-7 |format=pdf |url=http://dl.acm.org/citation.cfm?id=1734467}}</ref> Further, the presence of a human operator was felt more strongly when tested with an android or humanoid telepresence robot than with normal video communication through a monitor.<ref>{{cite conference |last1=Sakamoto |first1=Daisuke |last2=Kanda |first2=Takayuki |last3=Ono |first3=Tetsuo |last4=Ishiguro |first4=Hiroshi |last5=Hagita |first5=Norihiro |year=2007 |title=Android as a telecommunication medium with a human-like presence |book-title=Proceeding of the ACM/IEEE International Conference on Human–Robot Interaction  |conference=ACM/IEEE International Conference on Human–Robot Interaction - HRI '07 |page=193 |isbn=978-1-59593-617-2 |s2cid=1093338 |doi=10.1145/1228716.1228743}}</ref>
+
+While there is a growing body of research about users' perceptions and emotions towards robots, we are still far from a complete understanding.  Only additional experiments will determine a more precise model.
+
+Based on past research, we have some indications about current user sentiment and behavior around robots:<ref>{{cite journal |last1=Spence |first1=Patric R. |last2=Westerman |first2=David |last3=Edwards |first3=Chad |last4=Edwards |first4=Autumn |title=Welcoming Our Robot Overlords: Initial Expectations About Interaction With a Robot |journal=Communication Research Reports |date=July 2014 |volume=31 |issue=3 |pages=272–280 |doi=10.1080/08824096.2014.924337 |s2cid=144545474 }}</ref><ref>{{cite journal |last1=Edwards |first1=Chad |last2=Edwards |first2=Autumn |last3=Spence |first3=Patric R. |last4=Westerman |first4=David |title=Initial Interaction Expectations with Robots: Testing the Human-To-Human Interaction Script |journal=Communication Studies |date=21 December 2015 |volume=67 |issue=2 |pages=227–238 |doi=10.1080/10510974.2015.1121899 |s2cid=146204935 |url=https://works.bepress.com/patric_spence/50 }}</ref>
+
+* During initial interactions, people are more uncertain, anticipate less social presence, and have fewer positive feelings when thinking about interacting with robots, and prefer to communicate with a human. This finding has been called the human-to-human interaction script.
+* It has been observed that when the robot performs a proactive behaviour and does not respect a "safety distance" (by penetrating the user space) the user sometimes expresses fear. This fear response is person-dependent.
+* It has also been shown that when a robot has no particular use, negative feelings are often expressed. The robot is perceived as useless and its presence becomes annoying.
+* People have also been shown to attribute personality characteristics to the robot that were not implemented in software.
+* People similarly infer the mental states of both humans and robots, except for when robots and humans use non-literal language (such as sarcasm or white lies).<ref>{{cite journal |last=Banks |first=Jaime |date=2021-01-28 |title=Of like mind: The (mostly) similar mentalizing of robots and humans |journal=Technology, Mind, and Behavior |volume=1 |issue=2 |pages=101–113 |doi=10.1037/tmb0000025 |doi-access=free}}</ref>
+* In line with the contact hypothesis,<ref>{{cite journal |last1=Pettigrew |first1=T.F. |last2=Tropp |first2=L.R. |year=2006 |title=A meta-analytic test of intergroup contact theory |journal=Journal of Personality and Social Psychology |volume=90 |issue=5 |pages=751–783 |doi=10.1037/0022-3514.90.5.751|pmid=16737372 |s2cid=14149856 }}</ref> supervised exposure to a social robot can decrease uncertainty and increase willingness to interact with the robot, compared to pre-exposure attitudes toward robots as a class of agents.<ref>{{cite journal |last1=Haggadone |first1=Brad A. |last2=Banks |first2=Jaime |last3=Koban |first3=Kevin |date=2021-04-07 |title=Of robots and robotkind: Extending intergroup contact theory to social machines |journal=Communication Research Reports |volume=38 |issue=3 |pages=161–171 |doi=10.1080/08824096.2021.1909551|s2cid=233566369 }}</ref>
+* Interacting with a robot by looking at or touching the robot can reduce negative feelings that some people have about robots before interacting with them. Even imagined interaction can reduce negative feelings. However, in some cases, interacting with a robot can increase negative feelings for people with strong pre-existing negative sentiments towards robots.<ref>{{cite conference |last1=Wullenkord |first1=Ricarda |last2=Fraune |first2=Marlena R. |last3=Eyssel |first3=Friederike |last4=Šabanović |first4=Selma |date=August 2016 |title=Getting in touch: How imagined, actual, and physical contact affect evaluations of robots |conference=25th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN 2016) |pages=980–985 |doi=10.1109/ROMAN.2016.7745228}}</ref>
+
+===Methods for human–robot coordination===
+A large body of work in the field of human–robot interaction has looked at how humans and robots may better collaborate. The primary social cue for humans while collaborating is the shared perception of an activity, to this end researchers have investigated anticipatory robot control through various methods including: monitoring the behaviors of human partners using [[eye tracking]], making inferences about human task intent, and proactive action on the part of the robot.<ref>{{cite conference |title=Anticipatory robot control for efficient human–robot collaboration |year=2016 |conference=HRI '16: The Eleventh ACM/IEEE International Conference on Human–Robot Interaction |isbn=978-1-4673-8370-7 |pages=83–90 |url=http://dl.acm.org/citation.cfm?id=2906846}}</ref> The studies revealed that the anticipatory control helped users perform tasks faster than with reactive control alone.
+
+A common approach to program social cues into robots is to first study human–human behaviors and then transfer the learning.<ref>{{Cite journal |last1=Roy|first1=Someshwar |last2=Edan|first2=Yael|date=2018-03-27 |title=Investigating Joint-Action in Short-Cycle Repetitive Handover Tasks: The Role of Giver Versus Receiver and its Implications for Human–Robot Collaborative System Design |journal=International Journal of Social Robotics |volume=12 |issue=5 |pages=973–988 |language=en |doi=10.1007/s12369-017-0424-9 |s2cid=149855145 |issn=1875-4805}}</ref> For example, coordination mechanisms in human–robot collaboration<ref>{{cite conference |year=2013 |title=Coordination mechanisms in human–robot collaboration |book-title=Proceedings of the 2013 ACM/IEEE International Conference on Human–Robot Interaction |conference=ACM/IEEE International Conference on Human–Robot Interaction - HRI 2013 |citeseerx=10.1.1.478.3634}}</ref> are based on work in neuroscience<ref>{{cite journal |last1=Sebanz |first1=Natalie |last2=Bekkering |first2=Harold |last3=Knoblich |first3=Günther |title=Joint action: bodies and minds moving together |journal=Trends in Cognitive Sciences |date=February 2006 |volume=10 |issue=2 |pages=70–76 |doi=10.1016/j.tics.2005.12.009 |pmid=16406326 |s2cid=1781023 |hdl=2066/55284 |hdl-access=free }}</ref> which examined how to enable joint action in human–human configuration by studying perception and action in a social context rather than in isolation. These studies have revealed that maintaining a shared representation of the task is crucial for accomplishing tasks in groups. For example, the authors have examined the task of driving together by separating responsibilities of acceleration and braking i.e., one person is responsible for accelerating and the other for braking; the study revealed that pairs reached the same level of performance as individuals only when they received feedback about the timing of each other's actions. Similarly, researchers have studied the aspect of human–human handovers with household scenarios like passing dining plates in order to enable an adaptive control of the same in human–robot handovers.<ref>{{cite conference |first1=Chien-Ming |last1=Huang |first2=Maya |last2=Cakmak |first3=Bilge |last3=Mutlu |year=2015 |title=Adaptive coordination strategies for human–robot handovers |conference=Robotics: Science and Systems |url=http://www.roboticsproceedings.org/rss11/p31.pdf}}</ref> Another study in the domain of [[Human factors and ergonomics|Human Factors and Ergonomics]] of human–human handovers in warehouses and supermarkets reveal that Givers and Receivers perceive handover tasks differently which has significant implications for designing user-centric [[human–robot collaboration|human–robot collaborative]] systems.<ref>{{cite arXiv |last1=Someshwar |first1=Roy |last2=Edan |first2=Yael |date=2017-08-30 |title=Givers & receivers perceive handover tasks differently: Implications for human–robot collaborative system design |class=cs.HC |eprint=1708.06207}}</ref> Most recently, researchers have studied a system that automatically distributes assembly tasks among co-located workers to improve co-ordination.<ref>{{cite conference |year=2017 |title=WeBuild: Automatically distributing assembly tasks among collocated workers to improve coordination |book-title=CHI '17: Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems |publisher=Association for Computing Machinery |doi=10.1145/3025453.3026036 }}</ref>
+
+=== Contextual framing of social robots ===
+Recent HRI research has introduced ''nonessentalist'' perspectives on how robots are perceived as social actors. Kaptelinin and Dalli (2025) argue that the "sociality" of robots emerges from how people experience them within meaningful collaborative contexts as a whole, rather than from intrinsic properties or human predispositions. They refer to this process as ''contextual framing.''<ref name=":11">{{Cite book |last1=Kaptelinin |first1=Victor |last2=Dalli |first2=Kevin C. |chapter=Understanding Contextual Framing: A Nonessentialist Perspective on Social Interactions with Technological Artifacts |date=2025-03-04 |title=2025 20th ACM/IEEE International Conference on Human-Robot Interaction (HRI) |publisher=IEEE |pages=1121–1130 |doi=10.1109/HRI61500.2025.10974062 |isbn=979-8-3503-7893-1}}</ref> In their paper they propose analytical tools for studying how the social perception of robots depends on situational factors such as collaboration, shared goals, and personal significance, contributing to a more context-centered understanding of social interaction with robots.<ref name=":11" /> While they propose rejecting essentialist accounts that locate sociality in a robot's design alone, the authors do acknowledge that design choices (such as anthropomorphic form, communicative capability, behavioral cues etc.) can shape how interaction contexts develop and therefor influence social experience. However, they emphasize that design features do not directly determine social perception alone, rather, their effects mediate and are mediated by the contexts in which interactions occur.<ref name=":11" />
+
+=== Robots used for research in HRI ===
+Some research involved designing a new robot while others use available robots to conduct study. Some commonly used robots are [[Nao (robot)|Nao]], a humanoid and programmable robot, [[Pepper (robot)|Pepper]] and [[Furhat]], two other social humanoid robots, and [https://www.mistyrobotics.com/ Misty], a programmable companion robot.
+[[File:NAO Robot .jpg|thumb|alt=This is a Nao robot often used for HRI research|This Nao Robot is often used for HRI research as well as other HRI applications.]]
+
+==== Color ====
+The majority of robots are of a white color, stemming from a bias against robots of other colors.<ref>{{cite book |last1=Bartneck |first1=Christoph |last2=Yogeeswaran |first2=Kumar |last3=Ser |first3=Qi Min |last4=Woodward |first4=Graeme |last5=Sparrow |first5=Robert |last6=Wang |first6=Siheng |last7=Eyssel |first7=Friederike |title=Proceedings of the 2018 ACM/IEEE International Conference on Human-Robot Interaction |chapter=Robots And Racism |date=26 February 2018 |pages=196–204 |doi=10.1145/3171221.3171260|isbn=978-1-4503-4953-6 }}</ref><ref>{{cite news |last1=Paterson |first1=Mark |title=Why are so many robots white? |url=https://theconversation.com/why-are-so-many-robots-white-213336 |access-date=8 June 2024 |work=The Conversation |date=26 January 2024}}</ref><ref>{{cite news |last1=Allan |first1=Caroline Klein, David |title=Robot racism? Yes, says a study showing humans' biases extend to robots |url=https://www.cnn.com/2019/08/01/tech/robot-racism-scn-trnd/index.html |access-date=8 June 2024 |work=CNN |date=1 August 2019 |language=en}}</ref><ref>{{cite news |last1=Samuel |first1=Sigal |title=Humans keep directing abuse — even racism — at robots |url=https://www.vox.com/future-perfect/2019/8/2/20746236/ai-robot-empathy-ethics-racism-gender-bias |access-date=8 June 2024 |work=Vox |date=2 August 2019}}</ref><ref>{{cite news |last1=Ackerman |first1=Evan |title=Humans Show Racial Bias Towards Robots of Different Colors: Study - IEEE Spectrum |url=https://spectrum.ieee.org/robots-and-racism |access-date=8 June 2024 |work=[[IEEE]] |date=July 17, 2018 |language=en}}</ref>
+
+==Application areas==
+The application areas of human–robot interaction include robotic technologies that are used by humans for industry, medicine, and companionship, among other purposes.
+
+===Industrial robots===
+[[File:Tennplasco-_12.jpg|thumb|204x204px|This is an example of industrial collaborative robot, Sawyer, on the factory floor working alongside humans.]]
+[[Industrial robot]]s have been implemented to collaborate with humans to perform industrial manufacturing tasks. While humans have the flexibility and the intelligence to consider different approaches to solve the problem, choose the best option among all choices, and then command robots to perform assigned tasks, robots are able to be more precise and more consistent in performing repetitive and dangerous work.<ref name=":0">{{cite journal |last1=Hentout |first1=Abdelfetah |last2=Aouache |first2=Mustapha |last3=Maoudj |first3=Abderraouf |last4=Akli |first4=Isma |date=2019-08-18 |title=Human–robot interaction in industrial collaborative robotics: A literature review of the decade 2008–2017 |journal=Advanced Robotics |volume=33 |issue=15–16 |pages=764–799 |doi=10.1080/01691864.2019.1636714 |s2cid=198488518 |issn=0169-1864}}</ref> Together, the collaboration of industrial robots and humans demonstrates that robots have the capabilities to ensure efficiency of [[manufacturing]] and assembling.<ref name=":0"/> However, there are persistent concerns about the safety of human–robot collaboration, since industrial robots have the ability to move heavy objects and operate often dangerous and sharp tools, quickly and with force. As a result, this presents a potential threat to the people who work in the same workspace.<ref name=":0" /> Therefore, the planning of safe and effective layouts for collaborative workplaces is one of the most challenging topics that research faces.<ref>{{cite journal |last1=Rega |first1=Andrea |last2=Di Marino |first2=Castrese |last3=Pasquariello |first3=Agnese |last4=Vitolo |first4=Ferdinando |last5=Patalano |first5=Stanislao |last6=Zanella |first6=Alessandro |last7=Lanzotti |first7=Antonio |title=Collaborative Workplace Design: A Knowledge-Based Approach to Promote Human–Robot Collaboration and Multi-Objective Layout Optimization |journal=Applied Sciences |date=20 December 2021 |volume=11 |issue=24 |article-number=12147 |doi=10.3390/app112412147 |doi-access=free |hdl=10446/285754 |hdl-access=free }}</ref>
+
+===Medical robots===
+
+====Rehabilitation====
+[[File:SD_tours_the_Rehabilitation_and_Neuromuscular_Robotics_Lab._160331-D-LN567-118.jpg|alt=|thumb|206x206px|Researchers from the University at Texas demonstrated a rehabilitation robot in helping hand movements.]]
+A [[Rehabilitation robotics|rehabilitation robot]] is an example of a robot-aided system implemented in [[health care]]. This type of robot would aid [[stroke]] survivors or individuals with neurological impairment to recover their hand and finger movements.<ref name=":1">{{cite journal |last1=Aggogeri |first1=Francesco |last2=Mikolajczyk |first2=Tadeusz |last3=O'Kane |first3=James |date=April 2019 |title=Robotics for rehabilitation of hand movement in stroke survivors |journal=Advances in Mechanical Engineering |volume=11 |issue=4 |page=168781401984192 |doi=10.1177/1687814019841921 |doi-access=free |issn=1687-8140}}</ref><ref name=":2">{{cite journal |last1=Oña |first1=Edwin Daniel|last2=Garcia-Haro |first2=Juan Miguel |last3=Jardón |first3=Alberto |last4=Balaguer |first4=Carlos |date=2019-06-26 |title=Robotics in health care: Perspectives of robot-aided interventions in clinical practice for rehabilitation of upper limbs |journal=Applied Sciences |volume=9 |issue=13 |page=2586 |doi=10.3390/app9132586 |doi-access=free |issn=2076-3417|hdl=10016/34029 |hdl-access=free }}</ref> In the past few decades, the idea of how human and robot interact with each other is one factor that has been widely considered in the design of rehabilitation robots.<ref name=":2"/> For instance, human–robot interaction plays an important role in designing [[exoskeleton]] rehabilitation robots since the exoskeleton system makes direct contact with humans' body.<ref name=":1"/>
+
+====Elder care and companion robot====
+[[File:Paro robot.jpg|thumb|Paro, a therapeutic robot intended for use in hospitals and nursing homes]]
+Nursing robots are aimed to provide assistance to [[elderly]] people who may have faced a decline in physical and [[Cognition|cognitive]] function, and, consequently, developed [[psychosocial]] issues.<ref name=":3">{{Cite journal |last1=Robinson |first1=Hayley |last2=MacDonald |first2=Bruce |last3=Broadbent |first3=Elizabeth |date=November 2014 |title=The role of healthcare robots for older people at Home: A review |journal=International Journal of Social Robotics |volume=6 |issue=4 |pages=575–591 |doi=10.1007/s12369-014-0242-2 |s2cid=25075532 |issn=1875-4791}}</ref> By assisting in daily physical activities, physical assistance from the robots would allow the elderly to have a sense of [[autonomy]] and feel that they are still able to take care of themselves and stay in their own homes.<ref name=":3"/>
+
+Long-term research on human-robot interaction could show that residents of care home are willing to interact with humanoid robots and benefit from cognitive and physical activation that is led by the robot Pepper.<ref>{{cite book |last1=Carros |first1=Felix |last2=Meurer |first2=Johanna |last3=Löffler |first3=Diana |last4=Unbehaun |first4=David |last5=Matthies |first5=Sarah |last6=Koch |first6=Inga |last7=Wieching |first7=Rainer |last8=Randall |first8=Dave |last9=Hassenzahl |first9=Marc |last10=Wulf |first10=Volker |title=Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems |chapter=Exploring Human-Robot Interaction with the Elderly: Results from a Ten-Week Case Study in a Care Home |date=21 April 2020 |pages=1–12 |doi=10.1145/3313831.3376402|isbn=978-1-4503-6708-0 |s2cid=218483496 }}</ref> Another long-term study in a care home could show that people working in the care sector are willing to use robots in their daily work with the residents.<ref name=":49">{{cite book |last1=Carros |first1=Felix |last2=Schwaninger |first2=Isabel |last3=Preussner |first3=Adrian |last4=Randall |first4=Dave |last5=Wieching |first5=Rainer |last6=Fitzpatrick |first6=Geraldine |last7=Wulf |first7=Volker |title=CHI Conference on Human Factors in Computing Systems |chapter=Care Workers Making Use of Robots: Results of a Three-Month Study on Human-Robot Interaction within a Care Home |date=May 2022 |pages=1–15 |doi=10.1145/3491102.3517435|isbn=978-1-4503-9157-3 |s2cid=248419908 |doi-access=free }}</ref> But it also revealed that even though that the robots are ready to be used, they do need human assistants, they cannot replace the human work force but they can assist them and give them new possibilities.<ref name=":49" /> In addition to supporting care recipients, robots are also being studied as a source of support for their caregivers. A study found that informal caregivers who engaged in repeated self-disclosure to a social robot experienced reduced stress and loneliness, improved mood, and greater acceptance of their caregiving roles, suggesting potential benefits of social robots as emotional support tools for caregivers.<ref>Laban, G., Morrison, V., Kappas, A., & Cross, E. S. (2025). Coping with emotional distress via self-disclosure to robots: An intervention with caregivers. International Journal of Social Robotics. https://doi.org/10.1007/s12369-024-01207-0</ref>
+
+===Social robots===
+[[File:Science_Museum_-_Robots_-_Robot_for_autistic_children_(32781592346)--modfied.jpg|thumb|207x207px|This is an exhibition at the Science Museum, London that demonstrates robot toys for children with autism, in hopes for helping autistic children to pick up social cues from the facial expression.<ref>{{cite news |last=Curtis |first=Sophie |date=2017-07-28 |newspaper=[[Daily Mirror|The Mirror]] |title=This creepy-looking humanoid robot has a very important purpose |url=http://www.mirror.co.uk/tech/creepy-looking-humanoid-robot-helps-9768571 |access-date=2019-10-28}}</ref>]]
+
+====Autism intervention====
+Over the past decade, human–robot interaction has shown promising outcomes in autism intervention.<ref name=":4">{{cite journal |last1=Begum|first1=Momotaz |last2=Serna |first2=Richard W. |last3=Yanco |first3=Holly A. |author3-link=Holly Yanco |date=April 2016 |title=Are robots ready to deliver autism interventions? A comprehensive review |journal=International Journal of Social Robotics |volume=8 |issue=2 |pages=157–181 |doi=10.1007/s12369-016-0346-y |s2cid=15396137 |issn=1875-4791}}</ref> Children with [[Autism Spectrum Disorders|autism spectrum disorders]] (ASD) are more likely to connect with robots than humans, and using [[social robot]]s is considered to be a beneficial approach to help these children with ASD.<ref name=":4"/>
+
+However, social robots that are used to intervene in children's ASD are not viewed as viable treatment by clinical communities because the study of using social robots in ASD intervention, often, does not follow standard research protocol.<ref name=":4"/> In addition, the outcome of the research could not demonstrate a consistent positive effect that could be considered as [[evidence-based practice]] (EBP) based on the clinical systematic evaluation.<ref name=":4"/> As a result, the researchers have started to establish guidelines which suggest how to conduct studies with robot-mediated intervention and hence produce reliable data that could be treated as EBP that would allow clinicians to choose to use robots in ASD intervention.<ref name=":4"/>
+
+==== Mental health intervention and assessment ====
+Recent research in human–robot interaction has demonstrated that social robots hold significant potential in mental health contexts. They can be employed in mental health interventions to promote wellbeing and reduce stress and anxiety,<ref>{{Cite journal |last1=Rossi |first1=Silvia |last2=Larafa |first2=Marwa |last3=Ruocco |first3=Martina |date=2020-07-01 |title=Emotional and Behavioural Distraction by a Social Robot for Children Anxiety Reduction During Vaccination |url=https://doi.org/10.1007/s12369-019-00616-w |journal=International Journal of Social Robotics |language=en |volume=12 |issue=3 |pages=765–777 |doi=10.1007/s12369-019-00616-w |issn=1875-4805|url-access=subscription }}</ref> and assist in the assessment of wellbeing-related issues, for example in children, where studies have shown advantages over traditional standardized assessment methods.<ref>{{Cite book |last1=Abbasi |first1=Nida Itrat |last2=Spitale |first2=Micol |last3=Anderson |first3=Joanna |last4=Ford |first4=Tamsin |last5=Jones |first5=Peter B. |last6=Gunes |first6=Hatice |chapter=Can Robots Help in the Evaluation of Mental Wellbeing in Children? An Empirical Study |date=2022 |title=2022 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) |chapter-url=https://ieeexplore.ieee.org/document/9900843 |pages=1459–1466 |doi=10.1109/RO-MAN53752.2022.9900843 |isbn=978-1-7281-8859-1 |url=https://www.repository.cam.ac.uk/handle/1810/338405 }}</ref>
+
+'''Education robots'''
+
+Robots can become tutors or peers in the classroom.<ref>{{Cite journal |last1=Belpaeme |first1=Tony |last2=Kennedy |first2=James |last3=Ramachandran |first3=Aditi |last4=Scassellati |first4=Brian |last5=Tanaka |first5=Fumihide |date=2018-08-22 |title=Social robots for education: A review |journal=Science Robotics |language=en |volume=3 |issue=21 |article-number=eaat5954 |doi=10.1126/scirobotics.aat5954 |pmid=33141719 |s2cid=52033756 |issn=2470-9476|doi-access=free }}</ref> When acting as a tutor, the robot can provide instruction, information and also individual attention to student. When acting as a peer learner, the robot can enable "learning by teaching" for students.<ref>{{cite book |last=Catlin |first=Dave |chapter=Using Peer Assessment with Educational Robots |date=2014 |chapter-url=http://link.springer.com/10.1007/978-3-319-13296-9_6 |title=New Horizons in Web Based Learning |series=Lecture Notes in Computer Science |volume=8699 |pages=57–65 |editor-last=Cao |editor-first=Yiwei |place=Cham |publisher=Springer International Publishing |doi=10.1007/978-3-319-13296-9_6 |isbn=978-3-319-13295-2 |access-date=2023-03-01 |editor2-last=Väljataga |editor2-first=Terje |editor3-last=Tang |editor3-first=Jeff K.T. |editor4-last=Leung |editor4-first=Howard|chapter-url-access=subscription }}</ref>
+
+====Rehabilitation====
+Robots can be configured as collaborative robot and can be used for rehabilitation of users with motor impairment. Using various interactive technologies like automatic [[speech recognition]], eye gaze tracking and so on, users with motor impairment can control robotic agents and use it for rehabilitation activities like powered wheelchair control, object manipulation and so on.
+
+===Automatic driving===
+A specific example of human–robot interaction is the human-vehicle interaction in automated driving. The goal of human-vehicle cooperation is to ensure safety, security, and comfort in [[automated driving system]]s.<ref name="Biondi 932–946">{{Cite journal|last1=Biondi|first1=Francesco|last2=Alvarez|first2=Ignacio|last3=Jeong|first3=Kyeong-Ah|date=2019-07-03|title=Human–Vehicle Cooperation in Automated Driving: A Multidisciplinary Review and Appraisal|journal=International Journal of Human–Computer Interaction|volume=35|issue=11|pages=932–946|doi=10.1080/10447318.2018.1561792|s2cid=86447168|issn=1044-7318}}</ref> The continued improvement in this system and the progress in advancements towards highly and fully automated vehicles aim to make the driving experience safer and more efficient in which humans do not need to intervene in the driving process when there is an unexpected driving condition such as a pedestrian walking across the street when it is not supposed to.<ref name="Biondi 932–946" />
+[[File:EM120_night.jpg|thumb|209x209px|This drone is an example of UAV that could be used to locate a missing person in the mountain for example.]]
+
+===Search and rescue===
+[[Unmanned aerial vehicle]]s (UAV) and [[unmanned underwater vehicle]]s (UUV) have the potential to assist search and rescue work in [[wilderness area]]s, such as locating a missing person remotely from the evidence that they left in surrounding areas.<ref name=":5">{{Cite book|last1=Goodrich|first1=M. A.|last2=Lin|first2=L.|last3=Morse|first3=B. S.|title=2012 International Conference on Collaboration Technologies and Systems (CTS) |chapter=Using camera-equipped mini-UAVS to support collaborative wilderness search and rescue teams |date=May 2012|page=638|doi=10.1109/CTS.2012.6261008|isbn=978-1-4673-1382-7|s2cid=13164847}}</ref><ref name=":6">{{Cite book|last1=Morse|first1=Bryan S.|last2=Engh|first2=Cameron H.|last3=Goodrich|first3=Michael A.|title=Proceeding of the 5th ACM/IEEE international conference on Human-robot interaction - HRI '10 |chapter=UAV video coverage quality maps and prioritized indexing for wilderness search and rescue |date=2010|chapter-url=http://portal.acm.org/citation.cfm?doid=1734454.1734548|location=Osaka, Japan|publisher=ACM Press|pages=227–234|doi=10.1145/1734454.1734548|isbn=978-1-4244-4893-7|s2cid=11511362|url=https://scholarsarchive.byu.edu/context/facpub/article/1106/viewcontent/IR_CISOPTR_1164.pdf }}</ref> The system integrates autonomy and information, such as [[coverage map]]s, GPS information and quality search video, to support humans performing the [[search and rescue]] work efficiently in the given limited time.<ref name=":5" /><ref name=":6" />
+[[File:MOONWALK_project_astronaut_-_robot_cooperation_2016-04-27_Rio_Tinto.jpg|thumb|211x211px|The project "Moonwalk" is aimed to simulate the crewed mission to Mars and to test the robot-astronaut cooperation in an analogue environment.]]
+
+===Space exploration===
+Humans have been working on achieving the next breakthrough in space exploration, such as a crewed mission to Mars.<ref name=":7">{{cite conference |last1=Bernard |first1=Tiziano |last2=Martusevich |first2=Kirill |last3=Rolins |first3=Armando A. |last4=Spence |first4=Isaac |last5=Troshchenko |first5=Alexander |last6=Chintalapati |first6=Sunil |date=2018-09-17 |title=A novel Mars rover concept for astronaut operational support on surface EVA missions |conference=2018 AIAA SPACE and Astronautics Forum and Exposition |place=Orlando, FL |publisher=American Institute of Aeronautics and Astronautics |doi=10.2514/6.2018-5154 |isbn=978-1-62410-575-3}}</ref> This challenge identified the need for developing planetary rovers that are able to assist astronauts and support their operations during their mission.<ref name=":7"/> The collaboration between rovers, UAVs, and humans enables leveraging capabilities from all sides and optimizes task performance.<ref name=":7"/>
+
+=== Agricultural robots ===
+Human labor has been greatly used in agriculture but [[Agricultural robot#Applications|Agricultural robots]] like milking robots have been adopted in large-scale farming. Hygiene is the main issue in the agri-food sector and the invention of this technology has widely impacted agriculture. Robots can also be used in tasks that might be hazardous to human health like in the application of chemicals to plants.<ref>{{Cite web |date=2019-01-01 |title=Emerging Technology for Application in the Agri-Food Sector - SIPMM Publications |url=https://publication.sipmm.edu.sg/emerging-technology-application-agri-food-sector/#Robotics_in_the_Agri-Food_Sector |access-date=2022-11-15 |website=publication.sipmm.edu.sg |language=en-US}}</ref>
+{{clear}}
+
+==See also==
+===Robotics===
+{{div col|colwidth=18em}}
+* [[Autonomous robot]]s
+* [[Cobot]]s
+* [[Gesture recognition]]
+* [[Humanoid robot]]s
+* [[Human–robot collaboration]]
+* [[Mobile robot]]s
+* [[Motion planning]]
+* [[Personal robot]]
+* [[Robot simulations]]
+* [[Robot teams]]
+* [[Social robot]]
+{{div col end}}
+
+===Technology===
+{{div col|colwidth=18em}}
+<!---♦♦♦ Please keep the list in alphabetical order ♦♦♦--->
+* [[Artificial intelligence]]
+* [[CAPTCHA]]
+* [[Computer supported collaborative work]]
+* [[Dialog management]]
+* [[Face detection]]
+* [[Haptic technology]]
+* [[Human–computer interaction]]
+* [[Interactive Systems Engineering]]
+* [[Multimodal interaction]]
+* [[Natural-language understanding]]
+* [[Telematics]]
+* [[Facial recognition system|Face recognition]]
+* [[Human sensing]]
+{{div col end}}
+
+===Psychology===
+* Anthropomorphism and the [[uncanny valley]]
+
+===Properties===
+Bartneck and Okada<ref>{{cite conference|last=Bartneck|first=Christoph|author2=Michio Okada |year=2001 |title=Robotic User Interfaces |url=http://bartneck.de/publications/2001/roboticUserInterfaces/bartneckHC2001.pdf |pages=130–140|book-title=Proceedings of the Human and Computer Conference}}</ref> suggest that a robotic user interface can be described by the following four properties:
+
+; Tool – toy scale
+
+* Is the system designed to solve a problem effectively or is it just for entertainment?
+
+; [[Remote control]] – autonomous scale
+
+* Does the robot require remote control or is it capable of action without direct human influence?
+
+; Reactive – dialogue scale
+
+* Does the robot rely on a fixed interaction pattern or is it able to have dialogue — exchange of information — with a human?
+
+; Anthropomorphism scale
+
+* Does it have the shape or properties of a human?
+
+===Conferences===
+====ACE – International Conference on Future Applications of AI, Sensors, and Robotics in Society====
+The International Conference on Future Applications of AI, Sensors, and Robotics in Society explore the state of the art research, highlighting the future challenges as well as the hidden potential behind the technologies. The accepted contributions to this conference will be published annually in the special edition of the Journal of Future Robot Life.
+
+====International Conference on Social Robotics====
+The International Conference on Social Robotics is a conference for scientists, researchers, and practitioners to report and discuss the latest progress of their forefront research and findings in social robotics, as well as interactions with human beings and integration into our society. The following is a complete list of conferences since 2009:<ref>{{cite web | title=International Conference on Social Robotics &#124; SpringerLink | url=https://link.springer.com/conference/socrob }}</ref>
+
+* ICSR 2009, Incheon, Korea, co-located with the [[Federation of International Robot-soccer Association|FIRA]] RoboWorld Congress
+* ICSR 2010, Singapore
+* ICSR 2011, Amsterdam, Netherlands
+* ICSR 2012, Chengdu, China
+* ICSR 2013, Bristol, United Kingdom
+* ICSR 2014, Sydney, Australia
+* ICSR 2015, Paris, France
+* ICSR 2016, Kansas City, Kansas, USA
+* ICSR 2017, Tsukuba, Japan
+* ICSR 2018, Qingdao, China
+* ICSR 2019, Madrid, Spain
+* ICSR 2020, Golden, Colorado, USA
+* ICSR 2021, Singapore
+* ICSR 2022, Florence, Italy
+* ICSR 2023, Doha, Qatar
+* ICSR 2024 + Biomed, Singapore
+* ICSR 2024 + InnoBiz, Shenzhen, China
+* ICSR 2024 + AI, Odense, Denmark
+
+====International Conference on Human–Robot Personal Relationships====
+* HRPR2008, Maastricht
+* HRPR 2009, Tilburg. Keynote speaker was [[Hiroshi Ishiguro]].
+* HRPR2010, Leiden. Keynote speaker was [[Kerstin Dautenhahn]].
+
+==== International Congress on Love and Sex with Robots ====
+The International Congress on Love and Sex with Robots is an annual congress that invites and encourages a broad range of topics, such as AI, Philosophy, Ethics, Sociology, Engineering, Computer Science, Bioethics.
+
+The earliest academic papers on the subject were presented at the 2006 E.C. Euron Roboethics Atelier, organized by the School of Robotics in Genoa, followed a year later by the first book – "Love and Sex with Robots" – published by Harper Collins in New York. Since that initial flurry of academic activity in this field the subject has grown significantly in breadth and worldwide interest. Three conferences on Human–Robot Personal Relationships were held in the Netherlands during the period 2008–2010, in each case the proceedings were published by respected academic publishers, including Springer-Verlag. After a gap until 2014 the conferences were renamed as the "International Congress on Love and Sex with Robots", which have previously taken place at the University of Madeira in 2014; in London in 2016 and 2017; and in Brussels in 2019. Additionally, the Springer-Verlag "International Journal of Social Robotics", had, by 2016, published articles mentioning the subject, and an open access journal called "Lovotics" was launched in 2012, devoted entirely to the subject. The past few years have also witnessed a strong upsurge of interest by way of increased coverage of the subject in the print media, TV documentaries and feature films, as well as within the academic community.
+
+The International Congress on Love and Sex with Robots provides an opportunity for academics and industry professionals to present and discuss their work and ideas in an academic symposium.
+
+* 2020, Berlin, Germany
+* 2019, Brussels, Belgium
+* 2017, London, United Kingdom
+* 2016, London, United Kingdom
+* 2014, Madeira, Portugal
+
+====International Symposium on New Frontiers in Human–Robot Interaction====
+This symposium is organized in collaboration with the Annual Convention of the Society for the Study of Artificial Intelligence and Simulation of Behaviour.
+
+* 2015, Canterbury, United Kingdom
+* 2014, London, United Kingdom
+* 2010, Leicester, United Kingdom
+* 2009, Edinburgh, United Kingdom
+
+====IEEE International Symposium in Robot and Human Interactive Communication====
+The IEEE International Symposium on Robot and Human Interactive Communication ( RO-MAN ) was founded in 1992 by Profs. Toshio Fukuda, Hisato Kobayashi, Hiroshi Harashima and Fumio Hara. Early workshop participants were mostly Japanese, and the first seven workshops were held in Japan. Since 1999, workshops have been held in Europe and the United States as well as Japan, and participation has been of international scope.
+
+====ACM/IEEE International Conference on Human–Robot Interaction====
+{{Main |International Conference on Human–Robot Interaction}}
+This conference is one of the most selective in the field of HRI with an average acceptance rate of 26% and an average attendance of 187. Around 65% of the contributions to the conference come from the US and submissions to the conference have been cited in academic journals.<ref>{{Cite journal |last=Bartneck |first=Christoph |date=February 2011 |title=The end of the beginning: a reflection on the first five years of the HRI conference |journal=Scientometrics |volume=86 |issue=2 |pages=487–504 |doi=10.1007/s11192-010-0281-x |pmc=3016230 |pmid=21297856}}</ref>
+* HRI 2006 in [[Salt Lake City]], Utah, USA, Acceptance Rate: 0.29
+* HRI 2007 in [[Washington, D.C.]], USA, Acceptance Rate: 0.23
+* HRI 2008 in [[Amsterdam]], Netherlands, Acceptance Rate: 0.36 (0.18 for oral presentations)
+* HRI 2009 in [[San Diego]], CA, USA, Acceptance Rate: 0.19
+* HRI 2010 in [[Osaka]], Japan, Acceptance Rate: 0.21
+* HRI 2011 in [[Lausanne]], Switzerland, Acceptance Rate: 0.22 for full papers
+* HRI 2012 in [[Boston]], Massachusetts, USA, Acceptance Rate: 0.25 for full papers
+* HRI 2013 in [[Tokyo]], Japan, Acceptance Rate: 0.24 for full papers
+* HRI 2014 in [[Bielefeld]], Germany, Acceptance Rate: 0.24 for full papers
+* HRI 2015 in [[Portland, Oregon]], USA, Acceptance Rate: 0.25 for full papers
+* HRI 2016 in [[Christchurch]], New Zealand, Acceptance Rate: 0.25 for full papers
+* HRI 2017 in [[Vienna]], Austria, Acceptance Rate: 0.24 for full papers
+* HRI 2018 in [[Chicago]], USA, Acceptance Rate: 0.24 for full papers
+* HRI 2021 in [[Boulder, Colorado|Boulder]], USA, Acceptance Rate: 0.23 for full papers
+
+====International Conference on Human–Agent Interaction====
+* HAI 2013 in [[Sapporo]], Japan
+* HAI 2014 in [[Tsukuba]], Japan
+* HAI 2015 in [[Daegu]], Korea
+* HAI 2016 in Singapore
+* HAI 2017 in [[Bielefeld]], Germany
+
+====Related conferences====
+There are many conferences that are not exclusively HRI, but deal with broad aspects of HRI, and often have HRI papers presented.
+
+* IEEE-RAS/RSJ International Conference on Humanoid Robots (Humanoids)
+* Ubiquitous Computing (UbiComp)
+* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+* Intelligent User Interfaces (IUI)
+* Computer Human Interaction (CHI)
+* American Association for Artificial Intelligence (AAAI)
+* INTERACT
+
+===Journals===
+There are currently two dedicated HRI Journals
+
+* ''ACM Transactions on Human–Robot Interaction'' (Originally Journal of Human–Robot Interaction)
+* ''International Journal of Social Robotics''
+
+and there are several more general journals in which one will find HRI articles.
+
+* ''[[International Journal of Humanoid Robotics]]''
+* 'Entertainment robotics' section of the ''Entertainment Computing Journal''
+* ''Interaction Studies Journal''
+* [[Artificial Intelligence (journal)|''Artificial Intelligence'']]
+* ''Systems, Man and Cybernetics''
+
+===Books===
+There are several books available that specialise on Human–Robot Interaction. While there are several edited books, only a few dedicated texts are available:
+* {{cite book |title=Human–Robot Interaction - an introduction |last1=Bartneck, C. |last2=Belpaeme, T. |last3=Eyssel, F. |last4=Kanda, T. |last5=Keijsers, M. |last6=Šabanović, S. |year=2019 |publisher=Cambridge U.P.}}<ref name="hri-textbook">{{cite book |last1=Bartneck |first1=Christoph |last2=Belpaeme |first2=Tony |last3=Eyssel |first3=Friederike |last4=Kanda |first4=Takayuki |last5=Keijsers |first5=Merel |last6=Šabanović |first6=Selma |year=2019 |title=Human–Robot Interaction - An Introduction |publisher=Cambridge University Press |place=Cambridge, UK |isbn=978-1-108-73540-7 |url=https://www.human-robot-interaction.org |access-date=27 January 2020}}</ref> – free PDF available online<ref>{{cite web |url=https://www.human-robot-interaction.org/|title=Human Robot Interaction – Share and enjoy!}}</ref>
+* {{cite book |author1=Kanda, T. |author2=Ishiguro, H. |year=2012 |title=Human–Robot Interaction in Social Robotics |publisher=CRC Press}}<ref>{{cite book |last=Kanda |first=Takayuki |year=2012 |title=Human–Robot Interaction in Social Robotics |publisher=CRC Press |place=Boca Raton, FL |isbn=978-1-4665-0697-8}}</ref>
+* {{cite book |section=Social Robotics |author1=Breazeal, C. |author2=Dautenhahn, K. |author3=Kanda, T. |year=2016 |title=Springer Handbook of Robotics |pages=1935–1972}} – chapter in an extensive handbook.<ref>{{cite book |last1=Breazeal |first1=Cynthia |last2=Dautenhahn |first2=Kerstin |last3=Takayuki |first3=Kanda |year=2016 |chapter=Social Robotics |editor1-last=Siciliano |editor1-first=Bruno |editor2-last=Khatib |editor2-first=Oussama |title=Springer Handbook of Robotics |publisher=Springer |location=Berlin |isbn=978-3-319-32550-7 |pages=1935–1972}}</ref>
+
+===Courses===
+Many universities offer courses in Human–Robot Interaction.
+
+====University Courses and Degrees====
+* [[Tufts University]], Medford, MA, USA, MS and PhD programs in Human–Robot Interaction
+* [[University of Waterloo]], Canada, Kerstin Dautenhahn, Social Robotics – Foundations, Technology and Applications of Human-Centered Robotics
+* [[National Taipei University]] in Taiwan, Taiwan, Hooman Samani, M5226 Advanced Robotics
+* [[Ontario Tech University]], Canada, Patrick C. K. Hung, BUSI4590U Topics in Technology Management & INFR 4599U Service Robots Innovation for Commerce
+* The [[Colorado School of Mines]], USA, Tom Williams, CSCI 436 / 536: Human–Robot Interaction
+* [[Heriot-Watt University]], UK, Lynne Baillie, F21HR Human Robot Interaction
+* [[Uppsala University]], Sweden, Filip Malmberg, UU-61611 Social Robotics and Human–Robot Interaction
+* [[Skövde University]], Sweden, MSc Human–Robot Interaction program
+* [[Indiana University]], Bloomington, USA, Selma Sabanovic, INFO-I 440 Human–Robot Interaction
+* [[Ghent University]], Belgium, Tony Belpaeme, E019370A Robotics module
+* [[Bielefeld University]], Germany, Frederike Eyssel, 270037 Sozialpsychologische Aspekte der Mensch-Maschine Interaktion
+* [[Kyoto University]], Japan, Takayuki Kanda, 3218000 Human–Robot Interaction (ヒューマンロボットインタラクション)
+* [[KTH Royal Institute of Technology]], Sweden, Iolanda Leite, DD2413 Social Robotics
+* [[Chalmers University of Technology]], Sweden, Mohammad Obaid, DAT545 Human-Robot Interaction Design
+
+====Online Courses and Degrees====
+There are also online courses available such as [[Mooc]]:
+* [[University of Canterbury]] (UCx) – edX program
+** Professional Certificate in Human–Robot Interaction<ref>{{cite web |title=Professional Certificate in Human–Robot Interaction |website=edX |date=2021-09-01 |place=Canterbury, UK |publisher=[[University of Canterbury]] (UCx) |url=https://www.edx.org/professional-certificate/ucx-human-robot-interaction |access-date=2021-09-01}}</ref>
+** Introduction to Human–Robot Interaction<ref>{{cite web |title=Introduction to Human–Robot Interaction |website=edX |date=2021-09-01 |place=Canterbury, UK |publisher=[[University of Canterbury]] (UCx) |url=https://www.edx.org/course/introduction-to-human-robot-interaction |access-date=2021-09-01}}</ref>
+** Methods and Application in Human–Robot Interaction<ref>{{cite web |title=Methods and Application in Human–Robot Interaction |website=edX |date=2021-09-01 |place=Canterbury, UK |publisher=[[University of Canterbury]] (UCx) |url=https://www.edx.org/course/methods-and-application-in-human-robot-interaction |access-date=2021-09-01}}</ref>
+
+==Footnotes==
+{{notelist}}
+
+==References==
+{{reflist|30em}}
+
+==External resources==
+* {{cite web |title=Human interaction with the robot J2B2 |series=Algorithms, graphics, and video material |website=hakenberg.de |url=http://www.hakenberg.de/automation/j2b2_human_interaction.htm}}
+* {{cite news |author=Hottelet, Ulrich |date=June 2009 |title=Albert is not happy – How robots learn to live with people |newspaper=African Times |url=http://african-times.com/index.php?option=com_content&view=article&id=2478%3Aalbert-is-not-happy&catid=73%3Ajune-2009-business&Itemid=63 |url-status=usurped <!-- presumed --> |archive-url=https://web.archive.org/web/20120112102726/http://african-times.com/index.php?option=com_content&view=article&id=2478%3Aalbert-is-not-happy&catid=73%3Ajune-2009-business&Itemid=63 |archive-date=2012-01-12}}
+{{Robotics}}
+
+{{DEFAULTSORT:Human-Robot Interaction}}
+[[Category:Human communication]]
+[[Category:Multimodal interaction]]
+[[Category:Robotics]]
+[[Category:Robotics engineering]]

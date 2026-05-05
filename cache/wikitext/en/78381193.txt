@@ -1,0 +1,107 @@
+{{Short description|German psychiatrist and academic}}
+{{Orphan|date=December 2024}}
+{{Infobox academic
+| honorific_prefix   = 
+| name               = Reinhard Heun
+| honorific_suffix   = 
+| image              = 
+| image_size         = 
+| alt                = 
+| caption            = 
+| native_name        = 
+| native_name_lang   = 
+| birth_name         = 
+| birth_date         = 
+| birth_place        = [[Germany]]
+| death_date         = 
+| death_place        = 
+| death_cause        = 
+| citizenship        = German
+| other_names        = 
+| occupation         = [[Psychiatrist]] and an [[Academic staff|academic]]
+| period             = 
+| known_for          = 
+| title              = 
+| boards             = 
+| spouse             = 
+| partner            = 
+| children           = 
+| parents            = 
+| relatives          = 
+| awards             = 
+| website            = 
+| education          = [[Bachelor's degree|Baccalaureate]]<br>[[Diploma]] in [[Biology]] ([[Biochemistry]])<br>[[Doctor of Medicine|Medical Doctorate]]<br>[[Doctor of Philosophy|Ph.D.]] in [[Psychiatry]] and [[Psychotherapy]]<br>Diploma in Management for Physicians<br>[[Bachelor of Science|B.Sc.]] in [[Mathematics]]
+| alma_mater         = 
+| thesis_title       = 
+| thesis_url         = 
+| thesis_year        = 
+| school_tradition   = 
+| doctoral_advisor   = 
+| academic_advisors  = 
+| influences         = 
+| era                = 
+| discipline         = 
+| sub_discipline     = 
+| workplaces         = [[University of Bonn]]
+| doctoral_students  = 
+| notable_students   = 
+| main_interests     = 
+| notable_works      = 
+| notable_ideas      = 
+| influenced         = 
+| signature          = 
+| signature_alt      = 
+| signature_size     = 
+| footnotes          = 
+}}
+
+'''Reinhard Heun''' is a [[Germans|German]] [[psychiatrist]] and an [[Academic staff|academic]]. He is an [[associate professor]] of [[psychiatry]] and [[psychotherapy]] at the [[University of Bonn]].<ref name=lkj>{{Cite web|url=https://scholar.google.com/citations?user=eAUzkLYAAAAJ&hl=en|title=Reinhard Heun - Google Scholar|website=scholar.google.com}}</ref>
+
+Heun is known for his works on [[functional neuroimaging]], [[genetics|genetic]] and epidemiological studies, and clinical trials for mental disorders, particularly [[dementia]], [[Depression (mood)|depression]], schizophrenia, and [[anxiety]]. He has received funding for his research from various institutions, including the [[German Research Foundation]], and is a recipient of multiple Clinical Excellence Awards from the [[NHS Trust]]. His work has been published in leading academic journals, including ''[[Nature Genetics]]'' and ''[[JAMA Psychiatry|Archives of General Psychiatry]]''.<ref name=lkj/> Additionally, he is the editor-in-chief of ''Global Psychiatry Archives''.<ref>{{Cite web|url=https://globalpsychiatry.co.uk/journal/editorial.board|title=Editorial Board - Global Psychiatry Archives|website=globalpsychiatry.co.uk}}</ref>
+
+==Education==
+Heun completed his [[Bachelor's degree|Baccalaureate]] at Corvinianum Northeim in 1976, followed by a [[Diploma]] in [[Biology]] ([[Biochemistry]]) from the [[University of Göttingen]] in 1982. He obtained his Medical Doctorate from the [[University of Würzburg]] in 1985.<ref>{{cite web|url=https://www.researchgate.net/profile/Professor-Dr-Reinhard-Heun-2|title=Prof. Reinhard Heun - ResearchGate}}</ref> In 1996, he completed his [[Habilitation]] in Psychiatry from the [[University of Mainz]], followed by a [[Doctor of Philosophy|Ph.D.]] in Psychiatry and Psychotherapy from the University of Bonn in 1999. In 2003, he received a Diploma in Management for Physicians from the University of Chur. Most recently, in 2023, he completed a [[Bachelor of Science|B.Sc.]] in Mathematics from the [[Open University]] in the [[United Kingdom|UK]].
+
+==Career==
+Heun has held several academic appointments. From 2003 to 2010, he was an Honorary Senior Clinical Lecturer in the School of Neurology, [[Neurobiology]], and Psychiatry at the [[Newcastle University|University of Newcastle]]. Concurrently, he served as an Honorary Reader in the Department of Psychology at the [[University of Durham]] from 2003 to 2008, and as chair and Professor of Old Age Psychiatry at the [[University of Birmingham]] from 2005 to 2008. Since 2002, he has been an associate professor of Psychiatry and Psychotherapy at the University of Bonn.<ref name=lkj/>
+
+Heun has held numerous administrative and professional appointments throughout his career. He began in the Department of Neurology at the [[University of Saarland]] from 1985 to 1987, and then moved to a similar role in the Department of Neurology at the [[University of Würzburg]] from 1988 to 1989. Following this, he transitioned to the Department of Psychiatry at the University of Mainz, where he worked from 1989 to 1995. Subsequently, from 1995 to 2002, he served as deputy director of the Department of Psychiatry at the University of Bonn. In 2002, he briefly held the position of head of the Department of Gerontopsychiatry and deputy director of the Centre for Social Psychiatry Bergstrasse, concluding this role in 2003. From 2003 to 2005, he continued his career in the UK as a consultant psychiatrist in general adult and community psychiatry at the County Durham and Darlington Priority Services NHS Trust. From 2005 to 2008 he held the chair of old age psychiatry at the University of Birmingham, UK. Later, he joined the Derbyshire Healthcare NHS Foundation Trust, serving as a full-time consultant general adult psychiatrist from 2008 to 2017. Most recently, from 2021 to 2022, he served as Consultant in Adult Psychiatry at [[National Health Service|NHS]] Tayside. Additionally, he has led committees at various national and international institutions. Furthermore, he founded the Global Psychiatric Association and has been serving as its president since its inception.<ref>{{cite web|url=https://globalpsychiatricassociation.com/about/|title=Members - Global Psychiatric Association|date=27 November 2018 }}</ref><ref>{{Cite web|url=https://globalpsychiatricassociation.com/about/|title=Members - Global Psychiatric Association|website=globalpsychiatricassociation.com|date=27 November 2018 }}</ref>
+
+==Research==
+In his early research, he investigated whether familial risks for [[schizophrenia]] and affective disorders are distinct or overlapping. His findings suggested a potential familial link between schizophrenia and major [[Major depressive disorder|depression]], challenging the traditional view of separate genetic risks.<ref>{{Cite journal|title=Continuity and discontinuity of affective disorders and schizophrenia. Results of a controlled family study|first1=W|last1=Maier|first2=D|last2=Lichtermann|first3=J|last3=Minges|date=November 1993|journal=Arch Gen Psychiatry|volume=50|issue=11|pages=871–83|doi=10.1001/archpsyc.1993.01820230041004|pmid=8215813 }}</ref> His 2000 study examined plasma 24S-hydroxycholesterol as a potential biomarker for disrupted brain cholesterol homeostasis in [[Alzheimer's disease|Alzheimer's]] and [[vascular dementia]] patients, revealing elevated levels that correlated with ApoE genotype and dementia severity.<ref>{{Cite journal|title=Plasma 24S-hydroxycholesterol (cerebrosterol) is increased in Alzheimer and vascular demented patients|first1=D|last1=Lütjohann|first2=A|last2=Papassotiropoulos|first3=I|last3=Björkhem|date=Feb 2000|journal=J Lipid Res|volume=41|issue=2|pages=195–8|doi=10.1016/S0022-2275(20)32052-6 |pmid=10681402 |doi-access=free}}</ref> In the following year, he evaluated the [[World Health Organization|WHO]]-5 Well-Being Index as a valid tool for detecting depression in older adults, finding both versions effective, with the second version more specific for depression identification.<ref>{{Cite journal|title=Validity of the five-item WHO Well-Being Index (WHO-5) in an elderly population|first1=M|last1=Bonsignore|first2=K|last2=Barkow|first3=F|last3=Jessen|date=2001|journal=Eur Arch Psychiatry Clin Neurosci|volume=251|issue=2|pages=27–31|doi=10.1007/BF03035123|pmid=11824831 }}</ref>
+
+Through his 2006 study, Heun examined [[Cognitive impairment|subjective memory impairment (SMI)]] and its correlation with reduced [[entorhinal cortex]] and [[Hippocampus|hippocampal]] volumes, suggesting SMI as an early indicator of neurodegeneration in Alzheimer's disease.<ref>{{Cite journal|title=Volume reduction of the entorhinal cortex in subjective memory impairment|first1=Frank|last1=Jessen|first2=Ludger|last2=Feyen|first3=Katrin|last3=Freymann|date=Dec 2006|journal=Neurobiol Aging|volume=27|issue=12|pages=1751–6|doi=10.1016/j.neurobiolaging.2005.10.010|pmid=16309795 }}</ref> Two years later, he explored the inconsistent definitions of Subjective Memory Impairment (SMI) in the elderly, proposing standardized criteria to enhance its predictive power for dementia and calling for further research and expert consensus on these definitions.<ref>{{Cite journal|title=Subjective Memory Impairment. A review of its definitions indicates the need for a comprehensive set of standardized and validated criteria|first1=Khaled|last1=Abdulrab|first2=Reinhard|last2=Heun|date=August 2008|journal=Eur Psychiatry|volume=23|issue=5|pages=321–30|doi=10.1016/j.eurpsy.2008.02.004|pmid=18434102 }}</ref> Through his 2009 research, he co-authored a two-stage genome-wide association study of Alzheimer's disease, identifying significant associations with apolipoprotein E, clusterin, and phosphatidylinositol-binding clathrin assembly protein genes. It confirmed apolipoprotein E's role and revealed new loci potentially influencing Alzheimer's disease risk.<ref>{{Cite journal|url=https://www.nature.com/articles/ng.440|title=Genome-wide association study identifies variants at CLU and PICALM associated with Alzheimer's disease|first1=Denise|last1=Harold|first2=Richard|last2=Abraham|first3=Paul|last3=Hollingworth|date=September 2009|journal=Nature Genetics|volume=41|issue=10 |pages=1088–1093|via=nature.com|doi=10.1038/ng.439|pmid=19734903 |hdl=10281/9031|hdl-access=free}}</ref> In 2011, he collaborated with P. Hollingworth on a multi-stage genome-wide association study, identifying new Alzheimer's disease susceptibility loci (ABCA7, MS4A) and confirming others (CD2AP, CD33, EPHA1), thus enhancing the understanding of genetic risk factors for Alzheimer's.<ref>{{Cite journal|title=Common variants at ABCA7, MS4A6A/MS4A4E, EPHA1, CD33 and CD2AP are associated with Alzheimer's disease|first1=Paul|last1=Hollingworth|first2= Denise|last2=Harold|first3= Rebecca|last3=Sims|date=April 2011|journal=Nature Genetics|volume=43|issue=5 |pages=429–435|doi=10.1038/ng.803|pmid=21460840 |pmc=3084173 }}</ref> In 2017 the study he had contributed to identified three rare genetic variants linked to Alzheimer's risk, emphasizing that immune-related genetic factors, particularly in [[microglia]], played a significant role in the disease's development.<ref>{{Cite journal|title=Rare coding variants in PLCG2, ABI3, and TREM2 implicate microglial-mediated innate immunity in Alzheimer's disease|first1=Rebecca|last1=Sims|first2=Sven|last2= J van der Lee|first3=Adam|last3= C Naj|date=July 2017|journal=Nature Genetics|volume=49|issue=9 |pages=1373–1384|doi=10.1038/ng.3916|pmid=28714976 |pmc=5669039 }}</ref>
+
+Through a large-scale GWAS, Heun's 2019 paper identified genetic risk factors for late-onset Alzheimer's disease (LOAD), confirming 20 known loci, discovering five new ones, and highlighting pathways involving [[Immunity (medical)|immunity]], [[lipid metabolism]], and APP processing.<ref>{{Cite journal|title=Genetic meta-analysis of diagnosed Alzheimer's disease identifies new risk loci and implicates Aβ, tau, immunity and lipid processing|first1=Brian|last1=W. Kunkle|first2=Benjamin|last2=Grenier-Boley|first3=Rebecca|last3=Sims|date=February 2019|journal=Nature Genetics|volume=51|issue=3 |pages=414–430|doi=10.1038/s41588-019-0358-2|pmid=30820047 |pmc=6463297 }}</ref> More recently in 2023, he examined the prevalence of psychiatric disorders, including [[Post-traumatic stress disorder|PTSD]], depression, and [[anxiety]], among the [[Yazidis|Yazidi community]] following the 2014 [[Islamic State|ISIS]] invasion, highlighting the psychological impact of violence, persecution, and forced migration.<ref>{{Cite journal|url=https://www.sciencedirect.com/science/article/abs/pii/S1876201823002599|title=The prevalence of psychiatric disorders among Yazidi people results from ISIS invasion and consecutive trauma: A systematic review|first1=Darya|last1=Rostam Ahmed|first2=Reinhard|last2=Heun|date=Oct 2023|journal=Asian Journal of Psychiatry|volume=88|article-number=103703 |via=ScienceDirrect|doi=10.1016/j.ajp.2023.103703|pmid=37517332 |url-access=subscription}}</ref>
+
+==Awards and honors==
+*1998 – Young Investigator Award, Association of European Psychiatrists
+*2003 – Fellow, Association of European Psychiatrists
+*2016 – National Clinical Excellence Award, United Kingdom<ref>{{cite web|url=https://www.gov.uk/government/publications/clinical-excellence-awards-successful-candidates-2016|title=Clinical excellence awards: successful candidates 2016|website=GOV.UK}}</ref>
+
+==Selected articles==
+*Maier, W., Lichtermann, D., Minges, J., Hallmayer, J., Heun, R., Benkert, O., & Douglas, F. L. (1993). Continuity and discontinuity of affective disorders and schizophrenia: results of a controlled family study. [[JAMA Psychiatry|Archives of General Psychiatry]], 50(11), 871–883.
+*Harold, D., Abraham, R., Hollingworth, P., Sims, R., Gerrish, A., Hamshere, M. L., ... & Williams, J. (2009). Genome-wide association study identifies variants at CLU and PICALM associated with Alzheimer's disease. [[Nature Genetics|Nature genetics]], 41(10), 1088–1093.
+*Hollingworth, P., Harold, D., Sims, R., Gerrish, A., Lambert, J. C., Carrasquillo, M. M., ... & Mancuso, M. (2011). Common variants at ABCA7, MS4A6A/MS4A4E, EPHA1, CD33 and CD2AP are associated with Alzheimer's disease. Nature genetics, 43(5), 429–435.
+*Sims, R., Van Der Lee, S. J., Naj, A. C., Bellenguez, C., Badarinarayan, N., Jakobsdottir, J., ... & Daniilidou, M. (2017). Rare coding variants in PLCG2, ABI3, and TREM2 implicate microglial-mediated innate immunity in Alzheimer's disease. Nature genetics, 49(9), 1373–1384.
+*Kunkle, B. W., Grenier-Boley, B., Sims, R., Bis, J. C., Damotte, V., Naj, A. C., ... & Rotter, J. I. (2019). Genetic meta-analysis of diagnosed Alzheimer's disease identifies new risk loci and implicates Aβ, tau, immunity and lipid processing. Nature genetics, 51(3), 414–430.
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.gov.uk/government/publications/clinical-excellence-awards-successful-candidates-2016 Clinical excellence awards]
+*[https://scholar.google.com/citations?user=eAUzkLYAAAAJ&hl=en Rein Heun publications indexed by Google Scholar]
+
+{{authority control}}
+
+{{DEFAULTSORT:Heun, Reinhard}}
+[[Category:German psychiatrists]]
+[[Category:University of Göttingen alumni]]
+[[Category:University of Würzburg alumni]]
+[[Category:Johannes Gutenberg University Mainz alumni]]
+[[Category:University of Bonn alumni]]
+[[Category:Alumni of the Open University]]
+[[Category:Academic staff of the University of Bonn]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]

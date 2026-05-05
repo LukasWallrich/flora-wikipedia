@@ -1,0 +1,80 @@
+{{Short description|American neuroscientist, psychologist, and economist (born 1961)}}
+
+{{Infobox scientist
+| name        = Paul Glimcher
+| image       = 
+| image_size  = 
+| caption     = 
+| birth_date  = {{Birth date and age|1961|11|03}}
+| birth_place = [[Boston]], Massachusetts, U.S.
+| workplaces  = [[New York University]]
+| alma_mater  = [[Princeton University]]<br />[[University of Pennsylvania]]
+| known_for   = [[Neuroeconomics]], [[Neuroscience]]
+| awards      = Margaret and Herman Sokol Faculty Award in the Sciences <small>2003</small><br />NYU Lifetime Accomplishment Teaching Award <small>2006</small>
+| website     = 
+| field       = [[Neuroeconomics]], [[Neuroscience]], [[Psychology]], [[Economics]]
+| birth_name  = Paul W. Glimcher
+}}
+
+'''Paul W. Glimcher''' (born November 3, 1961) is an American [[neuroeconomics|neuroeconomist]], [[neuroscientist]], [[psychologist]], and [[economist]]. He is the Julius Silver Professor of Neural Science at [[New York University]] and has held leadership roles in NYU's neuroscience programs, including Director of the Neuroscience Institute at NYU Langone Health and Chair of the Department of Neuroscience and Physiology.<ref name="NYUmed">{{Cite web |title=Paul W. Glimcher |url=https://med.nyu.edu/faculty/paul-w-glimcher |access-date=2025-07-19 |website=NYU Langone Health}}</ref><ref name="NYULnews">{{Cite web |title=Renowned Researcher, Founder of Neuroeconomics Named Director of NYU Langone Health's Neuroscience Institute |url=https://nyulangone.org/news/renowned-researcher-founder-neuroeconomics-named-director-nyu-langone-healths-neuroscience-institute |website=NYU Langone News}}</ref><ref name="PRN">{{Cite press release |title=Renowned Researcher, Founder of Neuroeconomics Named Director of NYU Langone Health's Neuroscience Institute |url=https://www.prnewswire.com/news-releases/renowned-researcher-founder-of-neuroeconomics-named-director-of-nyu-langone-healths-neuroscience-institute-301867257.html |website=PR Newswire |access-date=2023-07-25}}</ref> His research has focused on neural mechanisms of decision-making and the development of [[neuroeconomics]].<ref name="NYUmed" />
+
+Glimcher co-founded NYU's Institute for the Study of Decision Making (ISDM) and helped establish the Center for Neuroeconomics, which later became ISDM.<ref name="NYULendowed">{{Cite web|url=http://www.nyu.edu/giving/donor-recognition/endowed-chairs/|title=New York University - Endowed Professorships|website=NYU}}</ref> He also helped launch the HUMAN Project, a longitudinal research initiative, and co-founded Datacubed Health, a software company supporting behavioral and clinical research.<ref name="SciOfUs">{{Cite news |title=Behind the Scenes of an Audaciously Ambitious Social-Science Project |url=https://nymag.com/scienceofus/2016/03/would-you-give-away-all-your-personal-data-to-science.html |newspaper=Science of Us}}</ref>
+
+==Early life and education==
+Paul W. Glimcher was born in [[Boston]], [[Massachusetts]], the son of Arne and Mildred Glimcher. His father, [[Arne Glimcher]], founded New York City's [[Pace Gallery]].<ref>{{Cite news|url=https://www.wsj.com/articles/SB10001424053111903596904576517164002381464|title=Keeping Pace|last=Crow|first=Kelly|date=2011-08-26|newspaper=Wall Street Journal|issn=0099-9660}}</ref> He attended the [[Dalton School]] in Manhattan, earned an A.B. in neuroscience from [[Princeton University]] in 1983, and a Ph.D. in neuroscience from the [[University of Pennsylvania]] in 1989 under psychologist [[C. Randy Gallistel]].<ref name="NYUShanghai">{{cite web|title=NYU Shanghai Profile|url=https://shanghai.nyu.edu/academics/faculty/directory/paul-glimcher|website=NYU Shanghai|archive-url=https://web.archive.org/web/20180215083912/https://shanghai.nyu.edu/academics/faculty/directory/paul-glimcher|archive-date=2018-02-15}}</ref> His postdoctoral work on oculomotor physiology examined how circuits controlling [[saccade]]s may also participate in movement planning.<ref>{{Cite web |title=Paul Glimcher |url=http://www.shanghai-neuroeconomics.org/glimcher-page |website=Neuroeconomics in Shanghai}}</ref>
+
+==Career and role in founding neuroeconomics==
+Glimcher joined NYU's Center for Neural Science in 1994.<ref name="NYUmed" /> In 2004 he founded NYU's Center for Neuroeconomics (later ISDM), and in 2010 was named to the Silver Endowed Chair in Neural Science.<ref name="NYULendowed" /> He has argued for integrating neuroscience, psychology, and economics to study choice behavior, co-authoring early neuroeconomics work such as a 1999 ''Nature'' paper with Michael Platt on decision variables in parietal cortex.<ref name="PlattGlim">{{cite journal |last1=Platt |first1=Michael L. |last2=Glimcher |first2=Paul W. |year=1999 |title=Neural correlates of decision variables in parietal cortex |journal=Nature |volume=400 |issue=6741 |pages=233–238 |doi=10.1038/22268 |pmid=10421364 |bibcode=1999Natur.400..233P }}</ref> His book ''Decisions, Uncertainty and the Brain'' (MIT Press, 2003) helped popularize the term "neuroeconomics" and received a PROSE Award.<ref>{{cite web|url=https://proseawards.com/winners/2003-award-winners/#body|title=2003 PROSE Award Winners|website=PROSE Awards}}</ref>
+
+He co-edited the textbook ''Neuroeconomics: Decision Making and the Brain'' (Elsevier, 2008; 2nd ed. 2013) with Colin Camerer, Ernst Fehr, and Russell Poldrack; the first edition received a 2009 PROSE Award for Excellence in the Economic and Social Sciences.<ref name="PROSE2009">{{Cite web|url=https://proseawards.com/winners/2009-award-winners/#body|title=2009 Award Winners - PROSE Awards}}</ref> He later published ''Foundations of Neuroeconomic Analysis'' (Oxford, 2011).
+
+===The HUMAN Project===
+In collaboration with the Kavli Foundation's Miyoung Chun, Glimcher helped develop the Kavli HUMAN Project, a large-scale longitudinal study inspired by big‑data approaches, modeled on efforts such as the [[Framingham Heart Study]].<ref name="SciOfUs" /> The study's aims and potential were discussed across scientific and policy venues.<ref>{{Cite journal|last=Servick|first=Kelly|date=2015-10-30|title=Proposed study would closely track 10,000 New Yorkers|journal=Science|volume=350|issue=6260|pages=493–494|doi=10.1126/science.350.6260.493 |pmid=26516261 }}</ref>
+
+===Datacubed Health LLC===
+Glimcher co-founded Human Project Inc. (now Datacubed Health), commercializing software to support behavioral/clinical research and participant engagement; he has served as chief scientific officer.<ref name="SciOfUs" />
+
+==Research==
+
+Glimcher's research examines how the brain encodes value and guides decision-making, combining tools from systems neuroscience, psychology, and economics (including fMRI, single-unit electrophysiology, and experimental economics). Key contributions include:
+- Evidence for utility-like value coding in primate cortex (parietal decision variables).<ref name="PlattGlim" />
+- Tests linking internal value representations to mixed-strategy equilibria in strategic choice (posterior parietal correlates).<ref>{{cite journal |last1=Dorris |first1=Michael C. |last2=Glimcher |first2=Paul W. |year=2004 |title=Activity in Posterior Parietal Cortex is Correlated with the Subjective Desirability of an Action |journal=Neuron |volume=44 |pages=365–378 |doi=10.1016/j.neuron.2004.09.009 |pmid=15473973 }}</ref>
+- Quantitative tests of dopamine reward prediction error signals in midbrain neurons.<ref>{{cite journal |last1=Bayer |first1=Hannah M. |last2=Glimcher |first2=Paul W. |year=2005 |title=Midbrain Dopamine Neurons Encode a Quantitative Reward Prediction Error Signal |journal=Neuron |volume=47 |issue=1 |pages=129–141 |doi=10.1016/j.neuron.2005.05.020 |pmid=15996553 |pmc=1564381 }}</ref>
+- Identification of subjective value signals in human medial prefrontal cortex during intertemporal choice.<ref>{{cite journal |last1=Kable |first1=Joseph W. |last2=Glimcher |first2=Paul W. |year=2007 |title=The neural correlates of subjective value during intertemporal choice |journal=Nature Neuroscience |volume=10 |issue=12 |pages=1625–1633 |doi=10.1038/nn2007 |pmid=17982449 |pmc=2845395 }}</ref>
+- Axiomatic approaches to measuring beliefs and rewards in neuroeconomic data.<ref>{{cite journal |last1=Caplin |first1=Andrew |last2=Dean |first2=Mark |last3=Glimcher |first3=Paul W. |last4=Rutledge |first4=Robb B. |year=2010 |title=Measuring beliefs and rewards: A neuroeconomic approach |journal=The Quarterly Journal of Economics |volume=125 |issue=3 |pages=923–960 |doi=10.1162/qjec.2010.125.3.923 |pmid=25018564 |pmc=4092011 }}</ref>
+- Context-dependent "normalization" as a general neural mechanism for value coding and choice.<ref>{{cite journal |last1=Louie |first1=Kenway |last2=Khaw |first2=Mel W. |last3=Glimcher |first3=Paul W. |year=2013 |title=Normalization is a general neural mechanism for context-dependent decision-making |journal=Proceedings of the National Academy of Sciences |volume=110 |issue=15 |pages=6129–6144 |doi=10.1073/pnas.1217854110 |bibcode=2013PNAS..110.6139L |doi-access=free |pmc=3625302 }}</ref>
+
+His work has also discussed applications to valuation of public goods using fMRI measures of subjective value.<ref>{{Cite journal|last1=Khaw|first1=Mel W.|last2=Grab|first2=Denise A.|last3=Livermore|first3=Michael A.|last4=Vossler|first4=Christian A.|last5=Glimcher|first5=Paul W.|date=2015-07-29|title=The Measurement of Subjective Value and Its Relation to Contingent Valuation and Environmental Public Goods|journal=PLOS ONE|volume=10|issue=7|article-number=e0132842|doi=10.1371/journal.pone.0132842|pmid=26221734 |doi-access=free |pmc=4519262 |bibcode=2015PLoSO..1032842K }}</ref>
+
+==Honors and other work==
+Glimcher is a fellow of the [[American Association for the Advancement of Science]] and has received foundation support from McKnight, Whitehall, Klingenstein, and McDonnell Foundations. He has served on advisory and study committees for the U.S. National Academies and other national bodies.<ref>{{Cite web|url=http://sites.nationalacademies.org/DBASSE/BBCSS/DBASSE_174232|title=SBS Decadal Summit Speaker Bios|website=National Academies}}</ref><ref>{{Cite book|url=https://www.nap.edu/catalog/18321/making-the-soldier-decisive-on-future-battlefields|title=Making the Soldier Decisive on Future Battlefields|date=2013-04-23|publisher=National Academies Press |doi=10.17226/18321 |isbn=978-0-309-28453-0 }}</ref><ref>{{Cite book|url=https://www.nap.edu/catalog/12500/opportunities-in-neuroscience-for-future-army-applications|title=Opportunities in Neuroscience for Future Army Applications|date=2009-05-11|publisher=National Academies Press |doi=10.17226/12500 |pmid=25032335 |isbn=978-0-309-12740-0 }}</ref> His textbooks and edited volumes have received PROSE Awards.<ref name="PROSE2009" />
+
+==Popular press==
+Glimcher's work has been covered in outlets including ''Time'', ''Newsweek'', ''Los Angeles Times'', BBC, ''Le Monde'', ''Frankfurter Allgemeine Zeitung'', ''Quanta'', ''New York Magazine'', ''Science'', ''New Scientist'', ''Fast Company'', and ''Vox''.<ref>{{cite magazine|author=Bill Saporito|title=Stocking Up|magazine=Time|date=2013-03-04|url=http://content.time.com/time/magazine/article/0,9171,2136862,00.html}}</ref><ref>Adler, Jerry. "Mind Reading". ''Newsweek''.</ref><ref>{{cite web|author=Eryn Brown|title=Teens and risky behavior: more complicated than it seems?|website=[[Los Angeles Times]] |date=2012-10-02|url=https://www.latimes.com/health/la-xpm-2012-oct-02-la-heb-teens-risk-averse-20121001-story.html}}</ref><ref>{{cite web|author=Tim Harford|title=Where economics meets neuroscience|date=2008-10-27|url=http://news.bbc.co.uk/2/hi/business/7684118.stm}}</ref><ref>{{cite web |author=Schmidt |first=Christian |date=2004-11-09 |title=Economie et psychologie: la nouvelle alliance |url=https://www.lemonde.fr/}}</ref><ref>{{cite news |first=Corinna |last=Budras |title=Aktienhändler denken anders |newspaper=Frankfurter Allgemeine |date=2009-10-30 |url=https://www.faz.net/aktuell/wirtschaft/forschung-aktienhaendler-denken-anders-1870180.html }}</ref><ref>{{Cite web|url=https://www.quantamagazine.org/the-neuroscience-behind-bad-decisions-20160823/|title=The Neuroscience Behind Bad Decisions|website=Quanta Magazine|date=2016-08-23}}</ref><ref name="SciOfUs" /><ref>{{Cite news|url=https://www.newscientist.com/article/mg22830442-200-inside-the-massive-plan-to-track-the-lives-of-10000-new-yorkers/|title=Inside the massive plan to track the lives of 10,000 New Yorkers|newspaper=New Scientist}}</ref><ref>{{Cite news|url=http://www.fastcoexist.com/3057514/your-data-footprint-is-affecting-your-life-in-ways-you-cant-even-imagine|title=Your Data Footprint Is Affecting Your Life In Ways You Can't Even Imagine|date=2016-03-15}}</ref><ref>{{Cite web|url=https://www.vox.com/2016/8/26/12172062/kavli-human-project-new-yorkers-big-data-health|title=This audacious study will track 10,000 New Yorkers' every move for 20 years|last=Resnick|first=Brian|date=2016-08-26}}</ref><ref>{{Cite news|url=http://www.citylab.com/tech/2016/10/kavli-human-project-index-new-york-data-index/504119/|title=Compiling a Massive Index of Urban Life|newspaper=CityLab}}</ref>
+
+==Books==
+* {{cite book |title=Decisions, Uncertainty, and the Brain |year=2003 |isbn=978-0-262-07244-1 |last1=Glimcher |first1=Paul W. |publisher=MIT Press }}
+* {{cite book |title=Neuroeconomics: Decision Making and the Brain |year=2008 |isbn=978-0-12-374176-9 |editor-last=Camerer |editor-first=Colin |editor2-last=Fehr |editor2-first=Ernst |editor3-last=Poldrack |editor3-first=Russell}}
+* {{cite book |title=Foundations of Neuroeconomic Analysis |year=2011 |isbn=978-0-19-974425-1 |last1=Glimcher |first1=Paul W. |publisher=Oxford University Press }}
+* {{cite book |title=Neuroeconomics: Decision Making and the Brain |year=2013 |publisher=Academic Press |isbn=978-0-12-416008-8 |editor-last=Camerer |editor-first=Colin |editor2-last=Fehr |editor2-first=Ernst |editor3-last=Poldrack |editor3-first=Russell}}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Glimcher, Paul}}
+[[Category:Economists from New York (state)]]
+[[Category:American neuroscientists]]
+[[Category:21st-century American psychologists]]
+[[Category:New York University faculty]]
+[[Category:Living people]]
+[[Category:Princeton University alumni]]
+[[Category:University of Pennsylvania alumni]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:1961 births]]
+[[Category:Dalton School alumni]]
+[[Category:21st-century American economists]]
+[[Category:American textbook writers]]
+[[Category:20th-century American psychologists]]
+[[Category:Neuroeconomists]]

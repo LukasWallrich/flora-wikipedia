@@ -1,0 +1,403 @@
+{{Short description|Japanese-language speakers' perception of English consonants}}
+[[File:Japanese mistake in English caused by perceptions of R and L sounds at restaurant in Sapporo.jpg|thumb|248x248px|A restaurant sign in Japan showing confusion associated with /r/ and /l/ sounds in English]]
+{{IPA notice}}
+[[Japanese language|Japanese]] has one [[Liquid consonant|liquid]] [[phoneme]] {{IPA|/r/}}, realized usually as an [[Alveolar flap|apico-alveolar tap]] {{IPA|[ɾ]}} and sometimes as an [[alveolar lateral approximant]] {{IPA|[l]}}. [[English language|English]] has two: [[rhotic consonant|rhotic]] {{IPA|/r/}} and [[lateral consonant|lateral]] {{IPA|/l/}}, with varying [[phonetic]] realizations centered on the [[postalveolar approximant]] {{IPA|[ɹ̠]}} and on the alveolar lateral approximant {{IPA|[l]}}, respectively. Japanese speakers who learn English as a second language later than childhood often have difficulty in hearing and producing the {{IPA|/r/}} and {{IPA|/l/}} of English accurately.
+
+==Phonetic differences==
+{{further|Pronunciation of English /r/|Japanese phonology}}
+The Japanese liquid is most often realized as an [[alveolar tap]] {{IPA|[ɾ]}}, though there is some variation depending on phonetic context.<ref>{{Harvcoltxt|Hallé|Best|Levitt|1999|p=283}} citing {{Harvcoltxt|Bloch|1950}} and {{Harvcoltxt|Vance|1987}}</ref> {{IPA|/r/}} of American English (the dialect Japanese speakers are typically exposed to) is most commonly a postalveolar [[median consonant|median]] [[approximant]] with simultaneous [[pharyngealization|secondary pharyngeal constriction]] {{IPA|[ɹ̠ˤ]}} or less commonly a [[retroflex approximant]] {{IPA|[ɻ]}}.<ref>{{Harvcoltxt|Hallé|Best|Levitt|1999|p=283}} citing {{Harvcoltxt|Delattre|Freeman|1968}}, {{Harvcoltxt|Zawadzki|Kuehn|1980}}, and {{Harvcoltxt|Boyce|Espy-Wilson|1997}}</ref>  {{IPA|/l/}} involves contact with the [[alveolar ridge]] as well as some raising of the tongue dorsum (velarization), especially when syllable-final.<ref>{{Harvcoltxt|Hallé|Best|Levitt|1999|p=283}}</ref>
+
+== Perception ==
+Evidence from {{Harvcoltxt|Best|Strange|1992}} and {{Harvcoltxt|Yamada|Tohkura|1992}} suggests that Japanese speakers perceive English {{IPA|/r/}} as somewhat like the compressed-lip velar approximant {{IPA|[w͍]}} and other studies<ref>For example, {{Harvcoltxt|Flege|Takagi|Mann|1996}} and {{Harvcoltxt|Takagi|1995}}</ref> have shown speakers to hear it more as an ill-formed Japanese {{IPA|/r/}}.
+{{Harvcoltxt|Goto|1971}} reports that native speakers of Japanese who have learned English as adults have difficulty perceiving the acoustic differences between English {{IPA|/r/}} and {{IPA|/l/}}, even if the speakers are comfortable with conversational English, have lived in an [[English-speaking country]] for extended periods, and can articulate the two sounds when speaking English.
+
+Japanese speakers can, however, perceive the difference between English {{IPA|/r/}} and {{IPA|/l/}} when these sounds are not mentally processed as speech sounds. {{Harvcoltxt|Miyawaki|Strange|Verbrugge|Liberman|1975}} found that Japanese speakers could distinguish {{IPA|/r/}} and {{IPA|/l/}} just as well as native English speakers if the sounds were acoustically manipulated in a way that made them sound less like speech (by removal of all acoustic information except the [[Formant#Phonetics|F3 component]]).
+{{Harvcoltxt|Lively|Pisoni|Yamada|Tohkura|1994}} found that speakers' ability to distinguish between the two sounds depended on where the sound occurred. Word-final {{IPA|/l/}} and {{IPA|/r/}} with a preceding vowel were distinguished the best, followed by word-initial {{IPA|/r/}} and {{IPA|/l/}}. Those that occurred in initial consonant clusters or between vowels were the most difficult to distinguish accurately.
+
+{{Harvcoltxt|Bradlow|Pisoni|Yamada|Tohkura|1997}} provide evidence that there is a link between [[perception]] and production to the extent that [[perceptual learning]] generally transferred to improved production. However, there may be little correlation between degrees of learning in perception and production after training in perception, due to the wide range of individual variation in learning strategies.
+
+== Production  ==
+{{Harvcoltxt|Goto|1971}} reports that Japanese speakers who cannot hear the difference between {{IPA|/r/}} and {{IPA|/l/}} may still learn to produce the difference, presumably through articulatory training in which they learn the correct places and manners of articulation required for the production of the two sounds. In this sense, they learn to produce {{IPA|/r/}} and {{IPA|/l/}} in much the same way a deaf person would. Although they have only a single acoustic image corresponding to a single phoneme intermediary between {{IPA|/r/}} and {{IPA|/l/}}, they can determine they are producing the correct sound based on the tactile sensations of the speech articulators (i.e. tongue, alveolar ridge, etc.) coming into contact with each other without any auditory feedback or confirmation that they are indeed producing the sound correctly.<ref>{{Harvcoltxt|Goto|1971|p=?}}</ref>
+
+==Variations in acquisition==
+There is some indication that Japanese speakers tend to improve more on the perception and production of {{IPA|/r/}} than {{IPA|/l/}}.
+
+{{Harvcoltxt|Aoyama|Flege|Guion|Akahane-Yamada|2004}} conducted a longitudinal study that examined the perception and production of English {{IPA|/l/}}, {{IPA|/r/}}, and {{IPA|/w/}} by adults and children who were native speakers of Japanese but living in the United States. Over time, the children improved more on English {{IPA|/r/}} than English {{IPA|/l/}}.
+
+Similarly, {{Harvcoltxt|Guion|Flege|Akahane-Yamada|Pruitt|2000}} found that Japanese speakers who received training in distinguishing English sounds improved more on {{IPA|/r/}} than on {{IPA|/l/}}. They suggest that English {{IPA|/l/}} is perceived as more similar to Japanese {{IPA|/r/}} than English {{IPA|/r/}} is, and hence it is harder for Japanese speakers to distinguish Japanese {{IPA|/r/}} from English {{IPA|/l/}} than Japanese {{IPA|/r/}} from English {{IPA|/r/}}.
+
+{{Harvcoltxt|Kuzniak|Zapf|2004}} found differences between the second and third formants in {{IPA|/r/}} and {{IPA|/l/}} of a native Japanese speaker and a native English speaker. The results showed that the Japanese speaker had a hard time producing an English-like third formant, especially that which is required to produce an {{IPA|/l/}}.
+
+==Effects of training==
+There have been a number of experiments in training Japanese subjects to improve their perception of {{IPA|/r/}} and {{IPA|/l/}}.
+
+{{Harvcoltxt|Lively|Pisoni|Yamada|Tohkura|1994}} found that monolingual Japanese speakers in Japan could increase their ability to distinguish between /l/ and /r/ after a 3-week training period, which involved hearing [[minimal pair]]s (such as 'rock' and 'lock') produced by five speakers, and being asked to identify which word was which. Feedback was provided during training, and participants had to listen to the minimal pairs until the correct answer was given. Participants performed significantly better immediately after the 3-week training, and retained some improvements when retested after 3 months and after 6 months (although there was a decrease in recognition ability at the 6-month test). Reaction time decreased during the training period as the accuracy went up. Participants could "generalize" their learning somewhat: when tested they could distinguish between new /l/ and /r/ minimal pairs, but performed better when the pairs were said by one of the five speakers they had heard before rather than by a new speaker.<ref>{{Harvcoltxt|Lively|Pisoni|Yamada|Tohkura|1994|p=?}}</ref>
+
+{{Harvcoltxt|Lively|Logan|Pisoni|1993}} also found that subjects who were trained by listening to multiple speakers' production of {{IPA|/r/}} and {{IPA|/l/}} in only a few phonetic environments improved more than subjects who were trained with a single talker using a wider range of phonetic environments.
+
+{{Harvcoltxt|McClelland|Fiez|McCandliss|2002}} argue that it is possible to train Japanese adults to distinguish speech sounds they find difficult to differentiate at first. They found that speech training results in outcomes indicating a real change in the perception of the sounds as speech, rather than simply in auditory perception.
+
+However, it is not clear whether adult learners can ever fully overcome their difficulties with {{IPA|/r/}} and {{IPA|/l/}}. {{Harvcoltxt|Takagi|Mann|1995}} found that even Japanese speakers who have lived 12 or more years in the United States have more trouble identifying {{IPA|/r/}} and {{IPA|/l/}} than native English speakers do.
+
+==Examples==
+There are numerous minimal pairs of words distinguishing only {{IPA|/r/}} and {{IPA|/l/}}. For their study, {{Harvcoltxt|Kuzniak|Zapf|2004}} used the following ones:
+*''right/light''
+*''red/led''
+*''road/load''
+*''arrive/alive''
+*''correct/collect''
+*''crime/climb''
+*''bread/bled''
+*''froze/flows''
+
+The Japanese adaptation of English words is largely [[non-rhotic]], in that English {{IPA|/r/}} at the end of a syllable is realized either as a vowel or as nothing and therefore is distinguished from {{IPA|/l/}} in the same environment. So ''store'' and ''stole'' or ''stall'', for example, are distinguished as ''sutoa'' and ''sutōru'', respectively.<gallery caption="Gallery of English-language signs in Japan">
+File:Japanese mistake in English caused by perceptions of R and L sounds at Yodobashi Camera.jpg|[[Yodobashi Camera]] confuses the words "frame" and "flame".
+File:Japanese mistake in English caused by perceptions of R and L sounds at gift shop in Otaru.jpg|A gift shop in [[Otaru]] misspells "decoration" as "decolation".
+File:Japanese mistake in English caused by perceptions of R and L sounds at a bar in Sapporo.jpg|A bar in [[Sapporo]] misspells "tequila" as "tequira".
+File:Japanese mistake in English caused by perceptions of R and L sounds at bar in Sapporo 2.jpg|An [[Irish pub|Irish Pub]] in Sapporo misspells "Cuba libre" as "Cuba ribre".
+</gallery>
+
+== See also ==
+* [[English phonology]]
+* [[Engrish]]
+* [[Non-native pronunciations of English]]
+* [[Speech sound disorder#Rhotacism and lambdacism|Rhotacism and lambdacism]]
+
+== References ==
+{{reflist|1}}
+
+==Bibliography==
+{{Refbegin|30em}}
+*{{citation
+|last1=Aoyama
+|first1=Katsura 
+|last2=Flege
+|first2=James Emil 
+|last3=Guion
+|first3=Susan 
+|last4=Akahane-Yamada
+|first4=Reiko 
+|last5=Yamada
+|first5=Tsuneo 
+|year=2004
+|title=Perceived phonetic dissimilarity and L2 speech learning: the case of Japanese /r/ and English /l/ and /r/
+|journal=Journal of Phonetics
+|volume=32
+|issue=2 
+|pages=233–250
+|doi=10.1016/S0095-4470(03)00036-6
+}}
+*{{citation
+|last1=Best
+|first1=Catherine 
+|last2=Strange
+|first2=W.
+|year=1992
+|title=Effects of phonological and phonetic factors on cross-language perception of approximants
+|journal=Journal of Phonetics
+|volume=20
+|issue=3 
+|pages=305–330
+|doi=10.1016/S0095-4470(19)30637-0 
+|s2cid=18874416 
+|doi-access=free
+}}
+*{{citation
+|last=Bloch
+|first=B.
+|year=1950
+|title=Studies in colloquial Japanese IV: Phonemics
+|journal=Language
+|volume=26
+|issue=1
+|pages=191–211
+|doi=10.2307/410409
+|jstor=410409
+}}
+*{{citation
+|last1=Boyce
+|first1=S.
+|last2=Espy-Wilson
+|first2=C.
+|year=1997
+|title= Coarticulatory stability in American English /r/
+|journal=Journal of the Acoustical Society of America
+|volume=101
+|pages=3741–3753
+|doi=10.1121/1.418333
+|pmid=9193061
+|issue=6
+|bibcode = 1997ASAJ..101.3741B }}
+*{{citation
+|last1=Bradlow
+|first1=A. 
+|last2=Pisoni
+|first2=D
+|last3=Yamada
+|first3=R.A.
+|last4=Tohkura
+|first4=Y
+|year=1997
+|title=Training Japanese listeners to identify English /r/ and /l/: IV. Some effects of perceptual learning on speech production
+|journal=Journal of the Acoustical Society of America
+|volume=101
+|pages=2299–2310
+|doi=10.1121/1.418276
+|pmid=9104031
+|issue=4
+|bibcode = 1997ASAJ..101.2299B
+|pmc=3507383}}
+*{{citation
+|last1=Delattre
+|first1=P.
+|last2=Freeman
+|first2=D.C.
+|year=1968
+|title=A dialect study of American R's by x-ray motion picture
+|journal=Linguistics
+|volume=44
+|pages=29–68
+}}
+*{{citation
+|last1=Flege
+|first1=J.E.
+|last2=Takagi
+|first2=Naoyuki 
+|last3=Mann
+|first3=Virginia
+|year=1996
+|title=Lexical familiarity and English language experience affect Japanese adults' perception of /r/ and /l/
+|journal=Journal of the Acoustical Society of America
+|volume=99
+|pages=1161–1173
+|doi=10.1121/1.414884
+|pmid=8609300
+|issue=2
+|bibcode = 1996ASAJ...99.1161F }}
+*{{citation
+|last=Goto
+|first=Hiromu
+|year=1971
+|title=Auditory perception by normal Japanese adults of the sounds "l" and "r"" 
+|journal=Neuropsychologia 
+|volume=9
+|pages=317–323
+|doi=10.1016/0028-3932(71)90027-3
+|pmid=5149302
+|issue=3
+}}
+*{{citation
+|last1=Guion
+|first1=Susan 
+|last2=Flege
+|first2=James Emil 
+|last3=Akahane-Yamada
+|first3=Reiko
+|last4=Pruitt
+|first4=JC
+|year=2000
+|title=An investigation of current models of second language speech perception: The case of Japanese adults' perception of English consonants
+|journal=Journal of the Acoustical Society of America
+|volume=107
+|issue=5 Pt. 1
+|pages=2711–2724
+|doi=10.1121/1.428657
+|pmid=10830393
+|bibcode = 2000ASAJ..107.2711G }}
+*{{citation
+|last1=Hallé
+|first1=Pierre A.
+|last2=Best
+|first2=Catherine T.
+|last3=Levitt
+|first3=Andrea
+|year=1999
+|title=Phonetic vs. phonological influences on French listeners' perception of American English approximants
+|journal=Journal of Phonetics
+|volume=27
+|issue=3
+|pages=281–306
+|doi=10.1006/jpho.1999.0097
+}}
+*{{citation
+|last1=Kuzniak
+|first1=Kinnaird
+|last2=Zapf
+|first2=Jennifer
+|year=2004
+|title=An acoustical analysis of a Japanese speaker's production of English /r/ and /l/
+|journal=Indiana University Linguistic Club Working Papers
+|volume=4
+|url=https://www.indiana.edu/~iulcwp/pdfs/04-kinnaird.pdf
+|archive-url=https://web.archive.org/web/20060612225057/https://www.indiana.edu/~iulcwp/pdfs/04-kinnaird.pdf
+|archive-date=2006-06-12
+}}
+*{{citation
+|last1=Lively
+|first1=Scott
+|last2=Logan
+|first2=John
+|last3=Pisoni
+|first3=David
+|year=1993
+|title=Training Japanese listeners to identify English /r/ and /l/: II. The role of phonetic environment and talker variability in new perceptual categories
+|journal=Journal of the Acoustical Society of America
+|volume=94
+|pages=1242–1255
+|doi=10.1121/1.408177
+|pmid=8408964
+|issue=3 Pt 1
+|bibcode = 1993ASAJ...94.1242L
+|pmc=3509365}}
+*{{citation
+|last1=Lively 
+|first1=Scott
+|last2=Pisoni
+|first2=D.B.
+|last3=Yamada
+|first3=R.A.
+|last4=Tohkura
+|first4=Y.I.
+|last5=Yamada
+|first5=T
+|year=1994
+|title=Training Japanese listeners to identify English /r/ and /l/: III. Long-term retention of new phonetic categories. 
+|journal=Journal of the Acoustical Society of America 
+|volume=96
+|issue=4
+|pages=2076–2087
+|doi=10.1121/1.410149
+|pmid=7963022
+|bibcode = 1994ASAJ...96.2076L 
+|pmc=3518835
+}}
+*{{citation
+|last1=Logan
+|first1=John
+|last2=Lively
+|first2=Scott
+|last3=Pisoni
+|first3=David
+|year=1991
+|title=Training Japanese listeners to identify English /r/ and /l/: a first report
+|journal=Journal of the Acoustical Society of America
+|volume=89
+|pages=874–886
+|doi=10.1121/1.1894649
+|pmid=2016438
+|issue=2
+|bibcode = 1991ASAJ...89..874L
+|pmc=3518834}}
+*{{citation
+|last1=McClelland
+|first1=J.L.
+|last2=Fiez
+|first2=J.A.
+|last3=McCandliss
+|first3=B.D.
+|journal=Physiology & Behavior
+|year=2002
+|title=Teaching the /r/-/l/ Discrimination to Japanese Adults: Behavioral and Neural Aspects
+|volume=77
+|pages=657–662
+|doi=10.1016/S0031-9384(02)00916-2
+|pmid=12527015
+|issue=4–5
+|s2cid=16651818
+}}
+*{{citation
+|doi=10.3758/BF03211209
+|last1=Miyawaki
+|first1=Miyawaki
+|last2=Strange
+|first2=W.
+|last3=Verbrugge
+|first3=R.R.
+|last4=Liberman
+|first4=A.M
+|last5=Jenkins
+|first5=J.J.
+|last6=Fujimura
+|first6=O.
+|year=1975 
+|title=An effect of linguistic experience: the discrimination of [r] and [l] by native speakers of Japanese and English 
+|journal=Perception and Psychophysics
+|volume=18
+|issue=5
+|pages=331–340
+|doi-access=free
+}}
+*{{citation
+|last=Takagi
+|first=Naoyuki 
+|year=1995
+|title=Signal detection modeling of Japanese learners' /r/-/l/ labeling behavior in a one-interval identification task
+|journal=Journal of the Acoustical Society of America
+|volume=97
+|pages=563–574
+|doi=10.1121/1.413059
+|pmid=7860833
+|issue=1
+|bibcode = 1995ASAJ...97..563T }}
+*{{citation
+|last1=Takagi
+|first1=Naoyuki 
+|last2=Mann
+|first2=Virginia
+|year=1995
+|title=The limits of extended naturalistic exposure on the perceptual mastery of English /r/ and /l/ by adult Japanese learners of English
+|journal=Applied Psycholinguistics
+|volume=16
+|issue=4
+|pages=379–405|doi=10.1017/S0142716400066005 
+|s2cid=141515188 
+}}
+*{{Citation
+|last=Vance
+|first=T.
+|year=1987
+|title=An introduction to Japanese phonology
+|place=Albany, NY
+|publisher=State University of New York Press
+}}
+*{{citation
+|doi=10.3758/BF03206698
+|last1=Yamada
+|first1=Reiko
+|last2=Tohkura
+|first2=Y.
+|year=1992
+|title=The effects of experimental variables on the perception of American English /r/ and /l/ by Japanese listeners
+|journal=Perception and Psychophysics
+|volume=52
+|pages=376–392
+|pmid=1437471
+|issue=4
+|doi-access=free
+}}
+*{{citation
+|last1=Zawadzki
+|first1=P.A.
+|last2=Kuehn
+|first2=D.P.
+|year=1980
+|title=A cineradiographic study of static and dynamic aspects of American English /r/
+|journal=Phonetica
+|volume=37
+|pages=253–266
+|doi=10.1159/000259995
+|pmid=7443796
+|issue=4
+|s2cid=46760239
+}}
+{{Refend}}
+
+[[Category:English language]]
+[[Category:Japanese language]]
+[[Category:Japanese phonology]]
+[[Category:Phonology]]
+[[Category:Language acquisition]]
+[[Category:Language comparison]]
+[[Category:Rhotic consonants]]
+[[Category:Shibboleths]]
+[[Category:English as a second or foreign language]]

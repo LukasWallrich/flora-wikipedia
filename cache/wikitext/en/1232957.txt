@@ -1,0 +1,262 @@
+{{Short description|Class of enzymes}}
+{{cs1 config|name-list-style=vanc}}
+{{infobox enzyme
+| Name       = Isocitrate dehydrogenase
+| EC_number  = 1.1.1.42
+| CAS_number = 9028-48-2
+| GO_code    = 0004450
+| image      = Isocitrate dehydrogenase of Escherichia coli Complex.jpg
+| width      =
+| caption    = Crystallographic structure of ''[[Escherichia coli|E. coli]]'' isocitrate dehydrogenase.<ref name="pmid10623532">{{PDB|1CW7}}; {{cite journal | vauthors = Cherbavaz DB, Lee ME, Stroud RM, Koshland DE | title = Active site water molecules revealed in the 2.1 A resolution structure of a site-directed mutant of isocitrate dehydrogenase | journal = Journal of Molecular Biology | volume = 295 | issue = 3 | pages = 377–385 | date = January 2000 | pmid = 10623532 | doi = 10.1006/jmbi.1999.3195 }}</ref> There are three active sites. Three isocitrates, one isocitrate in the binding site for NADP<sup>+</sup>. 
+}}
+{{infobox enzyme
+| Name       = isocitrate dehydrogenase (NAD<sup>+</sup>)
+| EC_number  = 1.1.1.41
+| CAS_number = 9001-58-5
+| GO_code    = 0004449
+| image      =
+| width      = 
+| caption    =  
+}}
+{{Infobox protein family
+| Symbol = IDH
+| Name = Monomeric isocitrate dehydrogenase
+| image = PDB 1itw EBI.jpg
+| width = 
+| caption = crystal structure of the monomeric isocitrate dehydrogenase in complex with isocitrate and mn
+| Pfam = PF03971
+| Pfam_clan = CL0270 
+| InterPro = IPR004436
+| SMART = 
+| PROSITE = 
+| MEROPS = 
+| SCOP = 1ofg
+| TCDB = 
+| OPM family = 
+| OPM protein = 
+| CAZy = 
+| CDD = 
+}}
+'''Isocitrate dehydrogenase''' ('''IDH''') ({{EC number|1.1.1.42}}) and ({{EC number|1.1.1.41}}) is an [[enzyme]] that catalyzes the oxidative decarboxylation of [[isocitrate]], producing [[alpha-Ketoglutaric acid|alpha-ketoglutarate]] (α-ketoglutarate) and [[carbon dioxide|CO<sub>2</sub>]]. This is a two-step process, which involves oxidation of [[isocitrate]] (a secondary [[Alcohol (chemistry)|alcohol]]) to [[oxalosuccinate]] (a [[ketone]]), followed by the decarboxylation of the carboxyl group beta to the ketone, forming alpha-ketoglutarate. In humans, IDH exists in three isoforms: IDH3 catalyzes the third step of the [[citric acid cycle]] while converting [[Nicotinamide adenine dinucleotide|NAD<sup>+</sup>]] to [[Nicotinamide adenine dinucleotide|NADH]] in the [[mitochondria]]. The isoforms [[IDH1]] and [[IDH2]] catalyze the same reaction outside the context of the citric acid cycle and use [[Nicotinamide adenine dinucleotide phosphate|NADP<sup>+</sup>]] as a cofactor instead of NAD<sup>+</sup>. They localize to the [[cytosol]] as well as the [[mitochondrion]] and [[peroxisome]].<ref name="pmid10557241">{{cite journal | vauthors = Corpas FJ, Barroso JB, Sandalio LM, Palma JM, Lupiáñez JA | title = Peroxisomal NADP-Dependent Isocitrate Dehydrogenase. Characterization and Activity Regulation during Natural Senescence | journal = Plant Physiology | volume = 121 | issue = 3 | pages = 921–928 | date = November 1999 | pmid = 10557241 | pmc = 59455 | doi = 10.1104/pp.121.3.921 }}</ref>
+
+== Structure ==
+[[File:Porcine Mitochondrial IDH surface with greenpocket.jpg|thumb|right|300px|One active site on the Porcine NADP<sup>+</sup> dependent enzyme (green).<ref name="hl67774"/> Porcine enzyme is a homodimer and has another active site on the other side.]]
+
+The NAD-IDH is composed of three subunits, is allosterically regulated, and requires an integrated Mg<sup>2+</sup> or Mn<sup>2+</sup> ion. The closest homologue that has a known structure is the ''[[Escherichia coli|E. coli]]'' NADP-dependent IDH, which has only two subunits and a 13% identity and 29% similarity based on the amino acid sequences, making it dissimilar to human IDH and not suitable for close comparison. All the known NADP-IDHs are homodimers.
+
+Most isocitrate dehydrogenases are dimers, to be specific, [[homodimer]]s (two identical monomer subunits forming one dimeric unit). In comparing ''[[Corynebacterium|C. glutamicum]]'' and ''[[Escherichia coli|E. coli]]'',<ref name="MonomericIDH-Cg"/> monomer and dimer, respectively, both enzymes were found to "efficiently catalyze identical reactions." However, ''C. glutamicum'' was recorded as having ten times as much activity than ''E. coli'' and seven times more affinitive/specific for NADP. ''C. glutamicum'' favored NADP<sup>+</sup> over NAD<sup>+</sup>. In terms of stability with response to temperature, both enzymes had a similar Tm or melting temperature at about 55&nbsp;°C to 60&nbsp;°C. However, the monomer ''C. glutamicum'' showed a more consistent stability at higher temperatures, which was expected. The dimer ''E. coli'' showed stability at a higher temperature than normal due to the interactions between the two monomeric subunits.
+
+The structure of ''[[Mycobacterium tuberculosis]]'' (Mtb) ICDH-1 bound with NADPH and Mn(2+) bound has been solved by X-ray crystallography. It is a homodimer in which each subunit has a Rossmann fold, and a common top domain of interlocking β sheets. Mtb ICDH-1 is most structurally similar to the R132H mutant human ICDH found in [[Grading of the tumors of the central nervous system#WHO grading|CNS WHO grade]] 4 [[Astrocytoma|astrocytomas]], formerly [[WHO classification of tumours of the central nervous system|classified]]<ref name="Louis_2021">{{cite journal | vauthors = Louis DN, Perry A, Wesseling P, Brat DJ, Cree IA, Figarella-Branger D, Hawkins C, Ng HK, Pfister SM, Reifenberger G, Soffietti R, von Deimling A, Ellison DW | display-authors = 6 | title = The 2021 WHO Classification of Tumors of the Central Nervous System: a summary | journal = Neuro-Oncology | volume = 23 | issue = 8 | pages = 1231–1251 | date = August 2021 | pmid = 34185076 | pmc = 8328013 | doi = 10.1093/neuonc/noab106 }}</ref> as [[Glioblastoma|glioblastomas]]. Similar to human R132H ICDH, Mtb ICDH-1 also catalyzes the formation of α-hydroxyglutarate.<ref name="pmid23409873">{{cite journal | vauthors = Quartararo CE, Hazra S, Hadi T, Blanchard JS | title = Structural, kinetic and chemical mechanism of isocitrate dehydrogenase-1 from Mycobacterium tuberculosis | journal = Biochemistry | volume = 52 | issue = 10 | pages = 1765–1775 | date = March 2013 | pmid = 23409873 | pmc = 3706558 | doi = 10.1021/bi400037w }}</ref>
+
+== Regulation ==
+
+The IDH step of the citric acid cycle is often (but not always) an irreversible reaction due to its large negative change in free energy. It must therefore be carefully regulated to avoid depletion of isocitrate (and therefore an accumulation of alpha-ketoglutarate). The reaction is stimulated by the simple mechanisms of substrate availability (isocitrate, [[Nicotinamide adenine dinucleotide|NAD]]<sup>+</sup> or [[NADP]]<sup>+</sup>, Mg<sup>2+</sup> / Mn<sup>2+</sup> ), product inhibition by [[NADH]] (or [[NADPH]] outside the citric acid cycle) and alpha-ketoglutarate, and competitive feedback inhibition by [[Adenosine triphosphate|ATP]].<ref>{{cite journal| vauthors = Maeting I, Schmidt G, Sahm H, Stahmann KP |title=Role of a peroxisomal NADP-specific isocitrate dehydrogenase in the metabolism of the riboflavin overproducer Ashbya gossypii|journal=Journal of Molecular Catalysis B: Enzymatic|date=2000|volume=10|issue=1–3|pages=335–343|doi=10.1016/S1381-1177(00)00135-1}}</ref> A conserved ncRNA upstream of the ''icd'' gene which codes for NADP<sup>+</sup>-dependent isocitrate dehydrogenase (IDH) has been reported in bacterial genomes, due to its characteristics this ncRNA resembles previous regulatory motifs called [[riboswitch]]es, [[icd-II ncRNA motif]] has been proposed as a strong candidate riboswitch.<ref>{{cite journal | vauthors = Brewer KI, Greenlee EB, Higgs G, Yu D, Mirihana Arachchilage G, Chen X, King N, White N, Breaker RR | display-authors = 6 | title = Comprehensive discovery of novel structured noncoding RNAs in 26 bacterial genomes | journal = RNA Biology | volume = 18 | issue = 12 | pages = 2417–2432 | date = December 2021 | pmid = 33970790 | pmc = 8632094 | doi = 10.1080/15476286.2021.1917891 | s2cid = 234361097 }}</ref>
+
+== Catalytic mechanisms ==
+Isocitrate dehydrogenase catalyzes the [[chemical reaction]]s:
+
+{{chemrxn|width=60%|
+{{chemrxn/cpd|Isocitric acid|upright=3 }}
+{{chemrxn/txt|+ [[NAD+|NAD<sup>+</sup>]]}}
+{{chemrxn/arw|direction=reversible|fwd_out={{chem2|H+}}|rev_in={{chem2|H+}} }}
+{{chemrxn/sub|[[File:Acido 2-chetoglutarico struttura.svg|class=skin-invert-image]]|caption=[[α-Ketoglutaric acid]] }}
+{{chemrxn/txt|+ {{chem2|CO2}} + [[NADH]]}}
+}}
+
+and the same reaction where the [[oxidizing agent]] is [[NADP+|NADP<sup>+</sup>]] instead of NAD<sup>+</sup>.<ref name="OCBP">{{cite book | vauthors = Begley TP, McMurry J | title = The Organic Chemistry of Biological Pathways | publisher = Roberts and Co. Publishers | year = 2005 | pages = 189–190 | isbn = 0-9747077-1-6 }}</ref><ref name="LBP">{{cite book | vauthors = Cox M, Nelson DR, Lehninger AL | title = Lehninger Principles of Biochemistry | publisher = W.H. Freeman | location = San Francisco | year = 2005 | pages = [https://archive.org/details/lehningerprincip00lehn_0/page/609 609–611] | isbn = 0-7167-4339-6 | url = https://archive.org/details/lehningerprincip00lehn_0/page/609 | url-access = registration }}</ref><ref name="pmid12855708">{{cite journal | vauthors = Yasutake Y, Watanabe S, Yao M, Takada Y, Fukunaga N, Tanaka I | title = Crystal structure of the monomeric isocitrate dehydrogenase in the presence of NADP+: insight into the cofactor recognition, catalysis, and evolution | journal = The Journal of Biological Chemistry | volume = 278 | issue = 38 | pages = 36897–36904 | date = September 2003 | pmid = 12855708 | doi = 10.1074/jbc.M304091200 | doi-access = free }}</ref>
+
+The overall free energy for this reaction is -8.4 kJ/mol.<ref>{{cite book | vauthors = Garrett R, Grisham CM | title =Biochemistry | publisher = Cengage Learning | year = 2012 | pages = 621 | isbn =978-1-133-10629-6 }}</ref>
+
+[[File:IDHcatalyticmechanism-en-revised.svg|thumb|Catalytic mechanism of the breakdown of isocitrate into oxalosuccinate, then into a final product of alpha-ketuglutarate. The oxalosuccinate intermediate is hypothetical; it has never been observed in the decarboxylating version of the enzyme.<ref>{{cite journal | vauthors = Aoshima M, Igarashi Y | title = Nondecarboxylating and decarboxylating isocitrate dehydrogenases: oxalosuccinate reductase as an ancestral form of isocitrate dehydrogenase | journal = Journal of Bacteriology | volume = 190 | issue = 6 | pages = 2050–2055 | date = March 2008 | pmid = 18203822 | pmc = 2258884 | doi = 10.1128/JB.01799-07 }}</ref>]]
+
+=== Steps ===
+
+Within the [[citric acid cycle]], [[isocitrate]], produced from the isomerization of citrate, undergoes both [[oxidation]] and [[decarboxylation]]. The enzyme isocitrate dehydrogenase (IDH) holds isocitrate within its [[active site]] using the surrounding [[amino acids]], including [[arginine]], [[tyrosine]], [[asparagine]], [[serine]], [[threonine]], and [[aspartic acid]].
+
+In the provided figure, the first box shows the overall isocitrate dehydrogenase reaction. The necessary reactants for this enzyme mechanism are isocitrate, [[NAD+|NAD<sup>+</sup>]]/[[NADP+|NADP<sup>+</sup>]], and Mn<sup>2+</sup> or Mg<sup>2+</sup>. The products of the reaction are [[alpha-ketoglutarate]], [[carbon dioxide]], and [[NADH]] + H<sup>+</sup>/[[NADPH]] + H<sup>+</sup>.<ref name="LBP"/> Water molecules help to deprotonate the oxygen atoms of isocitrate.
+
+The second box in the figure illustrates step 1 of the reaction, which is the oxidation of the [[alpha-carbon]] (C2 here, also called alpha-C).<ref name="OCBP"/><ref name="LBP"/> In this process,<ref name="OCBP"/> the [[Alcohol (chemistry)|alcohol]] group of the alpha-carbon is deprotonated and the resulting lone pair of electrons forms a [[ketone]] group on that carbon. NAD<sup>+</sup>/NADP<sup>+</sup> acts as an electron-accepting [[Cofactor (biochemistry)|cofactor]] and collects the resulting [[hydride]] from C2. The oxidation of the alpha carbon introduces a molecular arrangement where electrons (in the next step) will flow from the nearby [[carboxyl]] group and push the electrons of the double bonded oxygen up onto the oxygen atom itself, which collects a proton from a nearby [[lysine]].
+
+The third box illustrates step 2, which is the decarboxylation of [[oxalosuccinate]]. In this step,<ref name="OCBP"/><ref name="LBP"/> the carboxyl group oxygen is deprotonated by a nearby [[tyrosine]], and those electrons flow down to C2. Carbon dioxide, the leaving group, detaches from the [[beta carbon]] of isocitrate (C3) and the electrons flow to the ketone oxygen attached to the alpha carbon, granting a negative charge to the associated oxygen atom and forming an alpha-beta unsaturated double bond between carbons 2 and 3.
+
+The fourth and final box illustrates step 3, which is the saturation of the alpha-beta unsaturated double bond that formed in the previous step. The negatively charged oxygen (attached to the alpha-carbon) donates its electrons, reforming the ketone double bond and pushing another lone pair (the one that forms the double bond between the alpha and beta carbons) "off" the molecule. This lone pair, in turn, picks up a proton from the nearby tyrosine.<ref name="nfr154197/32">{{cite journal | vauthors = Fedøy AE, Yang N, Martinez A, Leiros HK, Steen IH | title = Structural and functional properties of isocitrate dehydrogenase from the psychrophilic bacterium Desulfotalea psychrophila reveal a cold-active enzyme with an unusual high thermal stability | journal = Journal of Molecular Biology | volume = 372 | issue = 1 | pages = 130–149 | date = September 2007 | pmid = 17632124 | doi = 10.1016/j.jmb.2007.06.040 }}</ref> This reaction results in the formation of alpha-ketoglutarate, NADH + H<sup>+</sup>/NADPH + H<sup>+</sup>, and CO<sub>2</sub>.
+
+=== Detailed mechanism ===
+
+Two [[aspartate]] amino acid residues (below left) are interacting with two adjacent water molecules (w6 and w8) in the Mn<sup>2+</sup> isocitrate porcine IDH complex to deprotonate the alcohol off the alpha-carbon atom. The oxidation of the alpha-C also takes place in this picture where NAD<sup>+</sup> accepts a hydride resulting in oxalosuccinate. Along with the [[Sp3 bond|sp<sup>3</sup>]] to [[Sp² bond|sp<sup>2</sup>]] [[stereochemical]] change around the alpha-C, there is a ketone group that is formed from the alcohol group. The formation of this ketone double bond allows for resonance to take place as electrons coming down from the leaving carboxylate group move towards the ketone.
+
+The decarboxylation of oxalosuccinate (below center) is a key step in the formation of alpha-ketoglutarate. In this reaction, the lone pair on the adjacent Tyrosine hydroxyl abstracts the proton off the carboxyl group.<ref name="nfr154197/32"/> This carboxyl group is also referred to as the beta subunit in the isocitrate molecule. The deprotonation of the carboxyl group causes the lone pair of electrons to move down making carbon dioxide and separating from oxalosuccinate. The electrons continue to move towards the alpha carbon pushing the double bond electrons (making the ketone) up to abstract a proton off an adjacent lysine residue. An alpha-beta unsaturated double bond results between carbon 2 and three. As you can see in the picture, the green ion represents either Mg<sup>2+</sup> or Mn<sup>2+</sup>, which is a cofactor necessary for this reaction to occur. The metal-ion forms a little complex through ionic interactions with the oxygen atoms on the fourth and fifth carbons (also known as the gamma subunit of isocitrate).
+
+After the carbon dioxide is split from the oxalosuccinate in the decarboxylation step (below right), the [[enol]] will tautomerize to the keto from. The formation of the ketone double bond is started by the [[deprotonation]] of that oxygen off the alpha carbon (C#2) by the same lysine that protonated the oxygen in the first place.<ref name="nfr154197/32"/> The lone pair of electrons moves down kicking off the lone pairs that were making the double bond. This lone pair of electrons abstracts a proton off the Tyrosine that deprotonated the carboxyl group in the decarboxylation step. The reason that we can say that the Lys and Tyr residues will be the same from the previous step is because they are helping in holding the isocitrate molecule in the active site of the enzyme. These two residues will be able to form hydrogen bonds back and forth as long as they are close enough to the [[Substrate (biochemistry)|substrate]].<ref name="MonomericIDH-Cg">{{cite journal | vauthors = Chen R, Yang H | title = A highly specific monomeric isocitrate dehydrogenase from Corynebacterium glutamicum | journal = Archives of Biochemistry and Biophysics | volume = 383 | issue = 2 | pages = 238–245 | date = November 2000 | pmid = 11185559 | doi = 10.1006/abbi.2000.2082 }}</ref>
+
+{|
+|- valign="top"
+| [[File:IsocitratedehydrogenaseloseH.gif|thumb|300px|Oxidoreductase step where NAD<sup>+</sup> is used to accept a hydride.<ref name="nfr154197/32"/>]]
+| [[File:IsocitratedehydrogenaseloseCO2.gif|thumb|300px|Decarboxylation of oxalosuccinate.<ref name="nfr154197/32"/>]]
+| [[File:Isocitratedehydrogenaselosedb.gif|thumb|300px|Saturation of the alpha-beta unsaturated double bond.<ref name="nfr154197/32"/>]]
+|}
+
+The isocitrate dehydrogenase enzyme as stated above produces alpha-ketoglutarate, carbon dioxide, and NADH + H<sup>+</sup>/NADPH + H<sup>+</sup>. There are three changes that occurred throughout the reaction. The oxidation of Carbon 2, the decarboxylation (loss of carbon dioxide) off Carbon 3, and the formation of a ketone group with a stereochemical change from sp<sup>3</sup> to sp<sup>2</sup>.<ref name="nfr154197/32"/>
+
+{|
+|- valign="top"
+| [[File:Isocitratedehydrogenaseakg.gif|thumb]]
+| [[File:Porcine Mitochondrial IDH surface pocket view.jpg|thumb|right|300px|Porcine Mitochondrial NADP<sup>+</sup>-dependent isocitrate dehydrogenase complexed with Mn<sup>2+</sup> and isocitrate. Surface view of the [[active site]] pocket where isocitrate is bounded by polar amino acids.<ref name="hl67774">{{PDB|1LWD}}; {{cite journal | vauthors = Ceccarelli C, Grodsky NB, Ariyaratne N, Colman RF, Bahnson BJ | title = Crystal structure of porcine mitochondrial NADP+-dependent isocitrate dehydrogenase complexed with Mn2+ and isocitrate. Insights into the enzyme mechanism | journal = The Journal of Biological Chemistry | volume = 277 | issue = 45 | pages = 43454–43462 | date = November 2002 | pmid = 12207025 | doi = 10.1074/jbc.M207306200 | doi-access = free }}</ref>]]
+| [[File:Porcine Mitochondrial IDH 1lwd.jpg|thumb|left|375px|Porcine Mitochondrial NADP<sup>+</sup>-dependent Isocitrate Dehydrogenase Complexed with Mn<sup>2+</sup> and Isocitrate.<ref name="hl67774"/>]]
+|[[File:Porcine Mitochondrial IDH ball view.jpg|thumb|right|375px|Porcine Enzyme complex; Active site isocitrate and adjacent A.A.<ref name="hl67774"/>]]
+|}
+
+=== Active site ===
+[[File:Porcine Mitochondrial IDH R stabilization.jpg|thumb|300px|Porcine IDH complex, Arg AA stabilizing isocitrate in the active site. residues Arg110, Arg133, and Arg101 are the three main stabilizing amino acids. They help to hold isocitrate in the active site and in the right orientation for isocitrate dehydrogenase to take place.<ref name="hl67774"/>]]
+
+The Isocitrate Dehydrogenase (IDH) enzyme structure in ''Escherichia coli'' was the first IDH ortholog structure to be elucidated and understood.<ref name="nfr154197/32"/> Since then, the ''Escherichia coli'' IDH structure has been used by most researchers to make comparisons to other isocitrate dehydrogenase enzymes. There is much detailed knowledge about this bacterial enzyme, and it has been found that most isocitrate dehydrogenases are similar in structure and therefore also in function. This similarity of structure and function gives a reason to believe that the structures are conserved as well as the amino acids.<ref name="pmid12855708"/> Therefore, the active sites amongst most prokaryotic isocitrate dehydrogenase enzymes should be conserved as well, which is observed throughout many studies done on prokaryotic enzymes. Eukaryotic isocitrate dehydrogenase enzymes on the other hand, have not been fully discovered yet.
+Each dimer of IDH has two active sites.<ref name="nfr154197/32"/> Each active site binds a NAD<sup>+</sup>/NADP<sup>+</sup> molecule and a divalent metal ion (Mg<sup>2+</sup>,Mn<sup>2+</sup>). In general, each active site has a conserved sequence of amino acids for each specific binding site. In ''Desulfotalea psychrophila'' (''Dp''IDH)<ref name="nfr154197/32"/> and porcine (''Pc''IDH)<ref name="hl67774"/> there are three substrates bound to the active site.
+
+# Isocitrate binds within the active site to a conserved sequence of about eight amino acids through hydrogen bonds. These acids include (may vary in residue but with similar properties) tyrosine, serine, asparagine, arginine, arginine, arginine, tyrosine, and lysine. Their positions on the backbone vary but they are all within a close range (i.e. Arg131 DpIDH and Arg133 PcIDH, Tyr138 DpIDH and Tyr140 PcIDH).<ref name="nfr154197/32"/>
+# The metal ion (Mg<sup>2+</sup>, Mn<sup>2+</sup>) binds to three conserved amino acids through hydrogen bonds. These amino acids include three Aspartate residues.<ref name="nfr154197/32"/>
+# NAD<sup>+</sup> and NADP<sup>+</sup> bind within the active site within four regions with similar properties amongst IDH enzymes. These regions vary but are around [250–260], [280–290], [300–330], and [365–380]. Again regions vary but the proximity of regions are conserved.<ref name="nfr154197/32"/>
+
+== Clinical significance ==
+
+[[File:IDH1 GBM 20x.jpg|thumb|Expression of mutated IDH1 protein in a case of [[Grading of the tumors of the central nervous system#WHO grading|CNS WHO grade]] 4 [[astrocytoma]]. Immunohistochemistry using a mouse monoclonal antibody targeting the IDH1 R132H mutation.<ref>{{cite journal | vauthors = Capper D, Zentgraf H, Balss J, Hartmann C, von Deimling A | title = Monoclonal antibody specific for IDH1 R132H mutation | journal = Acta Neuropathologica | volume = 118 | issue = 5 | pages = 599–601 | date = November 2009 | pmid = 19798509 | doi = 10.1007/s00401-009-0595-z | s2cid = 36093146 }}</ref>]]Specific mutations in the isocitrate dehydrogenase gene ''IDH1'' have been found in several tumor types,<ref>{{cite journal | vauthors = Zarei M, Hue JJ, Hajihassani O, Graor HJ, Katayama ES, Loftus AW, Bajor D, Rothermel LD, Vaziri-Gohar A, Winter JM | display-authors = 6 | title = Clinical development of IDH1 inhibitors for cancer therapy | journal = Cancer Treatment Reviews | volume = 103 | article-number = 102334 | date = February 2022 | pmid = 34974243 | doi = 10.1016/j.ctrv.2021.102334 | s2cid = 245547597 }}</ref> notably brain tumors including [[astrocytoma]] and [[oligodendroglioma]].<ref name="Louis_2021" /> Patients whose tumor had an IDH1 mutation had longer survival compared to patients whose tumor had an IDH1 [[wild type]].<ref name="pmid=210888442">{{cite journal | vauthors = Hartmann C, Hentschel B, Wick W, Capper D, Felsberg J, Simon M, Westphal M, Schackert G, Meyermann R, Pietsch T, Reifenberger G, Weller M, Loeffler M, von Deimling A | display-authors = 6 | title = Patients with IDH1 wild type anaplastic astrocytomas exhibit worse prognosis than IDH1-mutated glioblastomas, and IDH1 mutation status accounts for the unfavorable prognostic effect of higher age: implications for classification of gliomas | journal = Acta Neuropathologica | volume = 120 | issue = 6 | pages = 707–718 | date = December 2010 | pmid = 21088844 | doi = 10.1007/s00401-010-0781-z | s2cid = 7323032 | url = https://www.zora.uzh.ch/id/eprint/43783/7/IDH1_classification_of_A_III_and_GBM_final_-_re-revised__4_.pdf }}</ref><ref>{{cite journal | vauthors = Molenaar RJ, Verbaan D, Lamba S, Zanon C, Jeuken JW, Boots-Sprenger SH, Wesseling P, Hulsebos TJ, Troost D, van Tilborg AA, Leenstra S, Vandertop WP, Bardelli A, van Noorden CJ, Bleeker FE | display-authors = 6 | title = The combination of IDH1 mutations and MGMT methylation status predicts survival in glioblastoma better than either IDH1 or MGMT alone | journal = Neuro-Oncology | volume = 16 | issue = 9 | pages = 1263–1273 | date = September 2014 | pmid = 24510240 | pmc = 4136888 | doi = 10.1093/neuonc/nou005 | author13-link = Alberto Bardelli }}</ref> Furthermore, mutations of IDH2 and IDH1 were found in up to 20% of cytogenetically normal [[acute myeloid leukemia]] (AML).<ref name="pmid20171147">
+{{cite journal | vauthors = Ward PS, Patel J, Wise DR, Abdel-Wahab O, Bennett BD, Coller HA, Cross JR, Fantin VR, Hedvat CV, Perl AE, Rabinowitz JD, Carroll M, Su SM, Sharp KA, Levine RL, Thompson CB | display-authors = 6 | title = The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate | journal = Cancer Cell | volume = 17 | issue = 3 | pages = 225–234 | date = March 2010 | pmid = 20171147 | pmc = 2849316 | doi = 10.1016/j.ccr.2010.01.020 }}</ref><ref name="pmid25601757">{{cite journal | vauthors = Wang Y, Xiao M, Chen X, Chen L, Xu Y, Lv L, Wang P, Yang H, Ma S, Lin H, Jiao B, Ren R, Ye D, Guan KL, Xiong Y | display-authors = 6 | title = WT1 recruits TET2 to regulate its target gene expression and suppress leukemia cell proliferation | journal = Molecular Cell | volume = 57 | issue = 4 | pages = 662–673 | date = February 2015 | pmid = 25601757 | pmc = 4336627 | doi = 10.1016/j.molcel.2014.12.023 }}</ref> These mutations are known to produce D-2-hydroxyglutarate from alpha-ketoglutarate.<ref name="pmid20559394">{{cite journal | vauthors = Dang L, White DW, Gross S, Bennett BD, Bittinger MA, Driggers EM, Fantin VR, Jang HG, Jin S, Keenan MC, Marks KM, Prins RM, Ward PS, Yen KE, Liau LM, Rabinowitz JD, Cantley LC, Thompson CB, Vander Heiden MG, Su SM | display-authors = 6 | title = Cancer-associated IDH1 mutations produce 2-hydroxyglutarate | journal = Nature | volume = 465 | issue = 7300 | pages = 966 | date = June 2010 | pmid = 20559394 | pmc = 3766976 | doi = 10.1038/nature09132 | bibcode = 2010Natur.465..966D }}</ref> D-2-hydroxyglutarate accumulates to very high concentrations which inhibits the function of enzymes that are dependent on alpha-ketoglutarate.<ref name="pmid21460794">{{cite journal | vauthors = Chowdhury R, Yeoh KK, Tian YM, Hillringhaus L, Bagg EA, Rose NR, Leung IK, Li XS, Woon EC, Yang M, McDonough MA, King ON, Clifton IJ, Klose RJ, Claridge TD, Ratcliffe PJ, Schofield CJ, Kawamura A | display-authors = 6 | title = The oncometabolite 2-hydroxyglutarate inhibits histone lysine demethylases | journal = EMBO Reports | volume = 12 | issue = 5 | pages = 463–469 | date = May 2011 | pmid = 21460794 | pmc = 3090014 | doi = 10.1038/embor.2011.43 }}</ref> This leads to a hypermethylated state of DNA and histones, which results in different gene expression that can activate oncogenes and inactivate tumor-suppressor genes. Ultimately, this may lead to the types of cancer described above.<ref>{{cite journal | vauthors = Molenaar RJ, Radivoyevitch T, Maciejewski JP, van Noorden CJ, Bleeker FE | title = The driver and passenger effects of isocitrate dehydrogenase 1 and 2 mutations in oncogenesis and survival prolongation | journal = Biochimica et Biophysica Acta (BBA) - Reviews on Cancer | volume = 1846 | issue = 2 | pages = 326–341 | date = December 2014 | pmid = 24880135 | doi = 10.1016/j.bbcan.2014.05.004 }}</ref> Somatic mosaic mutations of this gene have also been found associated to [[Ollier disease]] and [[Maffucci syndrome]].<ref name="pmid22057236">{{cite journal | vauthors = Amary MF, Damato S, Halai D, Eskandarpour M, Berisha F, Bonar F, McCarthy S, Fantin VR, Straley KS, Lobo S, Aston W, Green CL, Gale RE, Tirabosco R, Futreal A, Campbell P, Presneau N, Flanagan AM | display-authors = 6 | title = Ollier disease and Maffucci syndrome are caused by somatic mosaic mutations of IDH1 and IDH2 | journal = Nature Genetics | volume = 43 | issue = 12 | pages = 1262–1265 | date = November 2011 | pmid = 22057236 | doi = 10.1038/ng.994 | s2cid = 5592593 }}</ref> However, recent studies have also shown that D-2-hydroxyglutarate may be converted back into alpha-ketoglutarate either enzymatically or non-enzymatically.<ref name="pmid24594748">{{cite journal | vauthors = Tarhonskaya H, Rydzik AM, Leung IK, Loik ND, Chan MC, Kawamura A, McCullagh JS, Claridge TD, Flashman E, Schofield CJ | display-authors = 6 | title = Non-enzymatic chemistry enables 2-hydroxyglutarate-mediated activation of 2-oxoglutarate oxygenases | journal = Nature Communications | volume = 5 | article-number = 3423 | date = March 2014 | pmid = 24594748 | pmc = 3959194 | doi = 10.1038/ncomms4423 | bibcode = 2014NatCo...5.3423T }}</ref><ref name="pmid22343896">{{cite journal | vauthors = Koivunen P, Lee S, Duncan CG, Lopez G, Lu G, Ramkissoon S, Losman JA, Joensuu P, Bergmann U, Gross S, Travins J, Weiss S, Looper R, Ligon KL, Verhaak RG, Yan H, Kaelin WG | display-authors = 6 | title = Transformation by the (R)-enantiomer of 2-hydroxyglutarate linked to EGLN activation | journal = Nature | volume = 483 | issue = 7390 | pages = 484–488 | date = February 2012 | pmid = 22343896 | pmc = 3656605 | doi = 10.1038/nature10898 | bibcode = 2012Natur.483..484K }}</ref> Further studies are required to fully understand the roles of IDH1 mutation (and D-2-hydroxyglutarate) in cancer. Recent research highlighted cancer-causing mutations in isocitrate dehydrogenase which may cause accumulation of the metabolite D-2-hydroxyglutarate (D-2HG). Notarangelo et al. showed that such high concentrations of D-2HG could act as a direct inhibitor of lactate dehydrogenase in mouse T cells. Inhibition of this metabolic enzyme altered glucose metabolism in the T cells and inhibited their proliferation, cytokine production, and ability to kill target cells.<ref>{{cite journal | vauthors = Notarangelo G, Spinelli JB, Perez EM, Baker GJ, Kurmi K, Elia I, Stopka SA, Baquer G, Lin JR, Golby AJ, Joshi S, Baron HF, Drijvers JM, Georgiev P, Ringel AE, Zaganjor E, McBrayer SK, Sorger PK, Sharpe AH, Wucherpfennig KW, Santagata S, Agar NY, Suvà ML, Haigis MC | display-authors = 6 | title = Oncometabolite d-2HG alters T cell metabolism to impair CD8<sup>+</sup> T cell function | journal = Science | volume = 377 | issue = 6614 | pages = 1519–1529 | date = September 2022 | pmid = 36173860 | doi = 10.1126/science.abj5104 | s2cid = 252623286 | pmc = 9629749 | bibcode = 2022Sci...377.1519N }}</ref>
+
+== Isozymes ==
+The following is a list of human isocitrate dehydrogenase isozymes:
+
+=== NADP<sup>+</sup> dependent ===
+Each NADP<sup>+</sup>-dependent isozyme functions as a homodimer:
+
+{|
+|{{infobox protein
+| Name = isocitrate dehydrogenase 1 (NADP<sup>+</sup>), soluble
+| caption = isocitrate dehydrogenase dimer, Human
+| image = 1t0l.jpg
+| width = 270
+| HGNCid = 5382
+| Symbol = IDH1
+| AltSymbols = 
+| EntrezGene = 3417
+| OMIM = 147700
+| RefSeq = NM_005896
+| UniProt = O75874
+| PDB = 
+| ECnumber = 1.1.1.42
+| Chromosome = 2
+| Arm = q
+| Band = 32
+| LocusSupplementaryData = -qter
+}}
+|{{infobox protein
+| Name = isocitrate dehydrogenase 2 (NADP<sup>+</sup>), mitochondrial
+| caption = 
+| image = 
+| width = 
+| HGNCid = 5383
+| Symbol = IDH2
+| AltSymbols = 
+| EntrezGene = 3418
+| OMIM = 147650
+| RefSeq = NM_002168
+| UniProt = P48735
+| PDB = 
+| ECnumber = 1.1.1.42
+| Chromosome = 15
+| Arm = q
+| Band = 21
+| LocusSupplementaryData = -qter
+}}
+|}
+
+=== NAD<sup>+</sup> dependent ===
+The isocitrate dehydrogenase 3 isozyme is a heterotetramer that is composed of two alpha subunits, one beta subunit, and one gamma subunit:
+{|
+|{{infobox protein
+| Name = isocitrate dehydrogenase 3 (NAD<sup>+</sup>) alpha
+| caption = 
+| image = 
+| width = 
+| HGNCid = 5384
+| Symbol = IDH3A
+| AltSymbols = 
+| EntrezGene = 3419
+| OMIM = 601149
+| RefSeq = NM_005530
+| UniProt = P50213
+| PDB = 
+| ECnumber = 1.1.1.41
+| Chromosome = 15
+| Arm = q
+| Band = 25.1
+| LocusSupplementaryData = -25.2
+}}
+|{{infobox protein
+| Name = isocitrate dehydrogenase 3 (NAD<sup>+</sup>) beta
+| caption = 
+| image = 
+| width = 
+| HGNCid = 5385
+| Symbol = IDH3B
+| AltSymbols = 
+| EntrezGene = 3420
+| OMIM = 604526
+| RefSeq = NM_174855
+| UniProt = O43837
+| PDB = 
+| ECnumber = 1.1.1.41
+| Chromosome = 20
+| Arm = p
+| Band = 13
+| LocusSupplementaryData = 
+}}
+|{{infobox protein
+| Name = isocitrate dehydrogenase 3 (NAD<sup>+</sup>) gamma
+| caption = 
+| image = 
+| width = 
+| HGNCid = 5386
+| Symbol = IDH3G
+| AltSymbols = 
+| EntrezGene = 3421
+| OMIM = 300089
+| RefSeq = NM_174869
+| UniProt = P51553
+| PDB = 
+| ECnumber = 1.1.1.41
+| Chromosome = X
+| Arm = q
+| Band = 28
+| LocusSupplementaryData = 
+}}
+|}
+== See also ==
+* [[Oxidoreductase]]
+* [[Myelodysplastic syndrome#IDH1 and IDH2 mutations]]
+*[[Oncometabolism]]
+*[[Isocitrate/isopropylmalate dehydrogenase family]]
+{{Clear}}
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+{{refbegin}}
+*[http://www.rcsb.org/pdb/101/motm.do?momID=129 Isocitrate dehydrogenase: RCSB PDB Molecule of the Month] {{Webarchive|url=https://web.archive.org/web/20131224111414/http://www.rcsb.org/pdb/101/motm.do?momID=129 |date=2013-12-24 }}
+* {{PDBe-KB2|O75874|Isocitrate dehydrogenase [NADP] cytoplasmic}}
+* {{PDBe-KB2|P48735|Isocitrate dehydrogenase [NADP], mitochondrial}}
+* {{PDBe-KB2|P50213|Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial}}
+* {{PDBe-KB2|O43837|Isocitrate dehydrogenase [NAD] subunit beta, mitochondrial}}
+* {{PDBe-KB2|P51553|Isocitrate dehydrogenase [NAD] subunit gamma, mitochondrial}}
+{{refend}}
+
+{{Alcohol oxidoreductases}}
+{{Citric acid cycle enzymes}}
+{{Mitochondrial enzymes}}
+{{Enzymes}}
+{{Portal bar|Biology|border=no}}
+
+{{DEFAULTSORT:Isocitrate Dehydrogenase}}
+[[Category:EC 1.1.1]]
+[[Category:NADPH-dependent enzymes]]
+[[Category:NADH-dependent enzymes]]
+[[Category:Enzymes of known structure]]

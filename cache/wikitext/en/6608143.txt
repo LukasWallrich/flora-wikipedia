@@ -1,0 +1,139 @@
+{{Short description|Chemical compound}}
+{{cs1 config|name-list-style=vanc}}
+{{Use dmy dates|date=November 2022}}
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 477165047
+| image = Bexarotene2DACS.svg
+| image_class = skin-invert-image
+| width = 200
+| alt =
+| image2 = Bexarotene3Dan.gif
+| width2 = 200
+| alt2 =
+
+<!--Clinical data -->
+| tradename =  Targretin
+| Drugs.com = {{drugs.com|monograph|bexarotene}}
+| MedlinePlus = a608006
+| licence_EU = yes
+| DailyMedID = Bexarotene
+| licence_US = Bexarotene
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| routes_of_administration = [[Oral administration|By mouth]], topical
+| ATC_prefix = L01
+| ATC_suffix = XF03
+
+| legal_AU = S4
+| legal_BR = C2
+| legal_BR_comment = <ref>{{Cite web |last=Anvisa |author-link=Brazilian Health Regulatory Agency |date=2023-03-31 |title=RDC Nº 784 - Listas de Substâncias Entorpecentes, Psicotrópicas, Precursoras e Outras sob Controle Especial |trans-title=Collegiate Board Resolution No. 784 - Lists of Narcotic, Psychotropic, Precursor, and Other Substances under Special Control |url=https://www.in.gov.br/en/web/dou/-/resolucao-rdc-n-784-de-31-de-marco-de-2023-474904992 |url-status=live |archive-url=https://web.archive.org/web/20230803143925/https://www.in.gov.br/en/web/dou/-/resolucao-rdc-n-784-de-31-de-marco-de-2023-474904992 |archive-date=2023-08-03 |access-date=2023-08-15 |publisher=[[Diário Oficial da União]] |language=pt-BR |publication-date=2023-04-04}}</ref>
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_US_comment  = <ref name="Targretin FDA label" />
+| legal_EU = Rx-only
+| legal_status =
+
+<!--Pharmacokinetic data -->
+| bioavailability = 
+| protein_bound = >99%
+| metabolism = Hepatic ([[CYP3A4]]-mediated)
+| elimination_half-life = 7 hours
+| excretion = Parent drug and metabolites are eliminated primarily through the hepatobiliary system. Less than 1% is excreted in the urine unchanged.
+
+<!--Identifiers -->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 153559-49-0
+| PubChem = 82146
+| IUPHAR_ligand = 2807
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00307
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 74139
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = A61RXM4375
+| KEGG = D03106
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 50859
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1023
+
+<!--Chemical data -->
+| IUPAC_name = 4-[1-(5,6,7,8-tetrahydro-3,5,5,8,8-pentamethyl-2-naphthalenyl)ethenyl]benzoic acid
+| C=24 | H=28 | O=2
+| smiles = O=C(O)c1ccc(cc1)C(/c2c(cc3c(c2)C(CCC3(C)C)(C)C)C)=C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C24H28O2/c1-15-13-20-21(24(5,6)12-11-23(20,3)4)14-19(15)16(2)17-7-9-18(10-8-17)22(25)26/h7-10,13-14H,2,11-12H2,1,3-6H3,(H,25,26)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = NAVMQTYZDKMPEU-UHFFFAOYSA-N
+}}
+
+'''Bexarotene''', sold under the brand '''Targretin''', is an [[antineoplastic]] (anti-cancer) agent used for the treatment of [[cutaneous T cell lymphoma]] (CTCL).<ref name="pmid17553039">{{Cite journal |display-authors=6 |vauthors=Gniadecki R, Assaf C, Bagot M, Dummer R, Duvic M, Knobler R, Ranki A, Schwandt P, Whittaker S |date=September 2007 |title=The optimal use of bexarotene in cutaneous T-cell lymphoma |journal=The British Journal of Dermatology |volume=157 |issue=3 |pages=433–440 |doi=10.1111/j.1365-2133.2007.07975.x |pmid=17553039 |s2cid=33092727}}</ref> It is a third-generation [[retinoid]].<ref>{{Cite journal |display-authors=6 |vauthors=Yuan S, Chan JF, Chik KK, Chan CC, Tsang JO, Liang R, Cao J, Tang K, Chen LL, Wen K, Cai JP, Ye ZW, Lu G, Chu H, Jin DY, Yuen KY |date=September 2020 |title=Discovery of the FDA-approved drugs bexarotene, cetilistat, diiodohydroxyquinoline, and abiraterone as potential COVID-19 treatments with a robust two-tier screening system |journal=Pharmacological Research |volume=159 |article-number=104960 |doi=10.1016/j.phrs.2020.104960 |pmc=7254006 |pmid=32473310}}</ref>
+
+It was approved by the U.S. [[Food and Drug Administration]] (FDA) in December 1999, and the [[European Medicines Agency]] (EMA) in March 2001. It is available as a [[generic medication]].<ref>{{Cite web |date=3 March 2023 |title=2022 First Generic Drug Approvals |url=https://www.fda.gov/drugs/drug-and-biologic-approval-and-ind-activity-reports/2022-first-generic-drug-approvals |url-status=dead |archive-url=https://web.archive.org/web/20230630003602/https://www.fda.gov/drugs/drug-and-biologic-approval-and-ind-activity-reports/2022-first-generic-drug-approvals |archive-date=30 June 2023 |access-date=30 June 2023 |website=U.S. [[Food and Drug Administration]] (FDA)}}</ref><ref>{{Cite web |date=3 March 2023 |title=Competitive Generic Therapy Approvals |url=https://www.fda.gov/drugs/generic-drugs/competitive-generic-therapy-approvals |archive-url=https://web.archive.org/web/20200220015057/https://www.fda.gov/drugs/generic-drugs/competitive-generic-therapy-approvals |url-status=dead |archive-date=20 February 2020 |access-date=6 March 2023 |website=U.S. [[Food and Drug Administration]] (FDA)}}</ref>
+
+==Medical uses==
+Bexarotene is [[indicated]] for the treatment of cutaneous manifestations of cutaneous T-cell lymphoma in people whose disease is refractory to at least one prior systemic therapy (oral) and for the topical treatment of cutaneous lesions in patients with CTCL who have refractory or persistent disease after other therapies or who have not tolerated other therapies (topical).<ref name="Targretin FDA label" />
+
+It has been used off-label for non-small cell [[lung cancer]]<ref name="pmid17363535">{{Cite journal |display-authors=6 |vauthors=Dragnev KH, Petty WJ, Shah SJ, Lewis LD, Black CC, Memoli V, Nugent WC, Hermann T, Negro-Vilar A, Rigas JR, Dmitrovsky E |date=March 2007 |title=A proof-of-principle clinical trial of bexarotene in patients with non-small cell lung cancer |url=https://aacr.figshare.com/articles/journal_contribution/Supplementary_Data_from_A_Proof-of-Principle_Clinical_Trial_of_Bexarotene_in_Patients_with_Non_Small_Cell_Lung_Cancer/22441278/1/files/39892149.pdf |journal=Clinical Cancer Research |volume=13 |issue=6 |pages=1794–1800 |doi=10.1158/1078-0432.CCR-06-1836 |pmid=17363535 |s2cid=25374661 |doi-access=free}}</ref> and [[breast cancer]].<ref>{{Cite journal |display-authors=6 |vauthors=Esteva FJ, Glaspy J, Baidas S, Laufman L, Hutchins L, Dickler M, Tripathy D, Cohen R, DeMichele A, Yocum RC, Osborne CK, Hayes DF, Hortobagyi GN, Winer E, Demetri GD |date=March 2003 |title=Multicenter phase II study of oral bexarotene for patients with metastatic breast cancer |journal=Journal of Clinical Oncology |volume=21 |issue=6 |pages=999–1006 |doi=10.1200/JCO.2003.05.068 |pmid=12637463}}</ref>
+
+==Contraindications==
+Known contraindications include:<ref name = EMC/>
+{{div col|colwidth=30em}}
+* Hypersensitivity to the active substance or to any of the excipients in the preparation(s).
+* Pregnancy and lactation
+* Women of child-bearing potential without effective birth-control measures
+* History of [[pancreatitis]]
+* Uncontrolled [[hypercholesterolaemia]]
+* Uncontrolled [[hypertriglyceridaemia]]
+* [[Hypervitaminosis A]]
+* Uncontrolled thyroid disease
+* Hepatic insufficiency
+* Ongoing systemic infection
+{{div col end}}
+
+==Adverse effects==
+Overall the most common adverse effects are skin reactions (mostly itchiness and rashes), leucopenia, headache, weakness, thyroid anomalies (which seem to be mediated by RXR-mediated downregulation of [[thyroid stimulating hormone]]) and blood lipid anomalies such as hypercholesterolaemia (high blood cholesterol) and hyperlipidaemia, hypothyroidism.<ref name="Targretin FDA label">{{Cite web |date=March 2006 |title=TARGRETIN (BEXAROTENE) CAPSULE [CARDINAL HEALTH] |url=https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=63656f64-e240-4855-8df9-ca1655863735 |access-date=12 January 2014 |website=DailyMed |publisher=Cardinal Health}}</ref><ref name="EMC">{{Cite web |date=4 April 2013 |title=Targretin Capsules - Summary of Product Characteristics |url=http://www.medicines.org.uk/emc/medicine/26618/SPC/Targretin+Capsules/ |access-date=14 January 2014 |website=electronic Medicines Compendium |publisher=Eisai Ltd}}</ref><ref name="GG">{{Cite book |title=[[Goodman and Gilman's The Pharmacological Basis of Therapeutics]] |vauthors=Brunton L, Chabner B, Knollman B |publisher=McGraw-Hill Professional |year=2010 |isbn=978-0-07-162442-8 |edition=12th |location=New York}}</ref><ref name="MSR">{{Cite web |title=Targretin (bexarotene) dosing, indications, interactions, adverse effects, and more |url=http://reference.medscape.com/drug/targretin-bexarotene-342234#showall |access-date=31 January 2014 |website=Medscape Reference |publisher=WebMD}}</ref>
+
+== Interactions ==
+
+Its plasma concentration may be increased by concomitant treatment with [[CYP3A4]] inhibitors such as [[ketoconazole]].<ref name =EMC/> It may also induce [[CYP3A4]], and hence [[CYP3A4]] substrates like [[cyclophosphamide]] may have their plasma concentrations reduced.<ref name = EMC/> Likewise consumption of [[grapefruit juice]] might increase bexarotene's plasma concentrations, hence potentially altering its therapeutic effects.<ref name = EMC/>
+
+==Mechanism==
+
+Bexarotene is a [[retinoid]] that selectively activates [[retinoid X receptor]]s (RXRs), as opposed to the [[retinoic acid receptor]]s, the other major target of [[retinoic acid]] (the acid form of [[vitamin A]]).<ref name = MSR/><ref>{{Cite journal |vauthors=Rowe A |date=February 1997 |title=Retinoid X receptors |journal=The International Journal of Biochemistry & Cell Biology |volume=29 |issue=2 |pages=275–278 |doi=10.1016/S1357-2725(96)00101-X |pmid=9147128}}</ref><ref>{{Cite journal |vauthors=Dawson MI, Xia Z |date=January 2012 |title=The retinoid X receptors and their ligands |journal=Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids |volume=1821 |issue=1 |pages=21–56 |doi=10.1016/j.bbalip.2011.09.014 |pmc=4097889 |pmid=22020178}}</ref> By so doing it induces cell differentiation and apoptosis and prevents the development of drug resistance.<ref name="B2010">{{Cite journal |vauthors=Qu L, Tang X |date=January 2010 |title=Bexarotene: a promising anticancer agent |journal=Cancer Chemotherapy and Pharmacology |volume=65 |issue=2 |pages=201–205 |doi=10.1007/s00280-009-1140-4 |pmid=19777233 |s2cid=31266907}}</ref> It also has [[anti-angiogenic]] effects and inhibits cancer metastasis.<ref name = B2010/> The retinoic acid receptors (RARs) regulate cell differentiation and proliferation whereas RXRs regulate apoptosis.<ref name="GG" />
+
+==Physical properties==
+
+Bexarotene is a solid, white powder. It is poorly soluble in water; the solubility is estimated to be about 10-50 μM. It is soluble in [[Dimethyl sulfoxide|DMSO]] at 65&nbsp;mg/mL and in ethanol at 10&nbsp;mg/mL with warming.<ref>{{Cite web |title=Bexarotene MSDS |url=http://www.lclabs.com/printableMSDS/B-2422MSDSprintable.html |url-status=dead |archive-url=https://archive.today/20130127155604/http://www.lclabs.com/printableMSDS/B-2422MSDSprintable.html |archive-date=27 January 2013 |publisher=LC Labs}}</ref>
+
+==History==
+
+[[SRI International]] and the La Jolla Cancer Research Foundation (now the [[Sanford-Burnham Medical Research Institute]]) collaborated on work that resulted in patent filings for the drug.<ref>{{Cite web |title=Lymphoma Treatment: Targretin (bexarotene) |url=http://www.sri.com/work/timeline-innovation/timeline.php?timeline=health#!&innovation=targretin |url-status=dead |archive-url=https://web.archive.org/web/20161119182210/https://www.sri.com/work/timeline-innovation/timeline.php?timeline=health#!&innovation=targretin |archive-date=19 November 2016 |access-date=20 September 2013 |website=Timeline of Innovation |publisher=[[SRI International]]}}</ref>
+
+The developer of bexarotene (brand name Targretin) was [[Ligand Pharmaceuticals]], a [[San Diego]] biotech company which received [[New Drug Application|FDA approval]] for the drug in 1999.<ref name="medcity">{{Cite web |date=12 October 2011 |title=Generic cancer drug from Banner aims to take on Eisai's Targretin |url=http://www.medcitynews.com/2011/10/generic-cancer-drug-from-banner-aims-to-take-on-eisais-targretin/ |access-date=11 February 2012 |publisher=MedCity News |vauthors=Vinluan F}}</ref> The FDA approved bexarotene on 29 December 1999.<ref name="Drugs">{{Cite web |title=Bexarotene |url=https://www.drugs.com/ppa/bexarotene.html |url-status=dead |archive-url=https://web.archive.org/web/20140112111534/http://www.drugs.com/ppa/bexarotene.html |archive-date=12 January 2014 |access-date=12 January 2014 |website=Drugs.com}}</ref>
+
+Japanese pharmaceutical [[Eisai (company)|Eisai]] bought the rights to Targretin and three other anti-cancer products from Ligand in 2006.<ref name="medcity" /> In the United States, patents on the drug expired in 2016.<ref name="medcity" />
+
+It received EMA approval on 29 March 2001.<ref name="EMA">{{Cite web |date=3 April 2013 |title=Targretin : EPAR - Product Information |url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/000326/WC500034208.pdf |access-date=12 January 2014 |website=European Medicines Agency |publisher=Eisai Ltd |archive-date=10 May 2018 |archive-url=https://web.archive.org/web/20180510051327/http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/000326/WC500034208.pdf |url-status=dead }}</ref>
+
+Early-stage preclinical studies suggested that bexarotene reduced [[amyloid plaque]]s and improved mental functioning in a small sample of mice engineered to exhibit [[Alzheimer's disease|Alzheimer's-like symptoms]]<ref>{{Cite journal |display-authors=6 |vauthors=Cramer PE, Cirrito JR, Wesson DW, Lee CY, Karlo JC, Zinn AE, Casali BT, Restivo JL, Goebel WD, James MJ, Brunden KR, Wilson DA, Landreth GE |date=March 2012 |title=ApoE-directed therapeutics rapidly clear β-amyloid and reverse deficits in AD mouse models |journal=Science |volume=335 |issue=6075 |pages=1503–1506 |bibcode=2012Sci...335.1503C |doi=10.1126/science.1217697 |pmc=3651582 |pmid=22323736}}</ref><ref name="MedicalXpress">{{Cite news |last=MedicalXpress |date=9 February 2012 |title=FDA-approved drug rapidly clears amyloid from the brain, reverses Alzheimer's symptoms in mice |url=http://medicalxpress.com/news/2012-02-fda-approved-drug-rapidly-amyloid-brain.html |access-date=14 February 2012 |work=MedicalXpress}}</ref>  although subsequent studies have yielded mixed results.<ref>{{Cite journal |vauthors=Fitz NF, Cronican AA, Lefterov I, Koldamova R |date=May 2013 |title=Comment on "ApoE-directed therapeutics rapidly clear β-amyloid and reverse deficits in AD mouse models" |journal=Science |volume=340 |issue=6135 |pages=924–92c |bibcode=2013Sci...340..924F |doi=10.1126/science.1235809 |pmc=4086452 |pmid=23704552}}</ref><ref>{{Cite journal |vauthors=Price AR, Xu G, Siemienski ZB, Smithson LA, Borchelt DR, Golde TE, Felsenstein KM |date=May 2013 |title=Comment on "ApoE-directed therapeutics rapidly clear β-amyloid and reverse deficits in AD mouse models" |journal=Science |volume=340 |issue=6135 |pages=924–92d |bibcode=2013Sci...340..924P |doi=10.1126/science.1234089 |pmid=23704553 |doi-access=free}}</ref><ref>{{Cite journal |display-authors=6 |vauthors=Tesseur I, Lo AC, Roberfroid A, Dietvorst S, Van Broeck B, Borgers M, Gijsen H, Moechars D, Mercken M, Kemp J, D'Hooge R, De Strooper B |date=May 2013 |title=Comment on "ApoE-directed therapeutics rapidly clear β-amyloid and reverse deficits in AD mouse models" |journal=Science |volume=340 |issue=6135 |pages=924–92e |bibcode=2013Sci...340R.924T |doi=10.1126/science.1233937 |pmid=23704554 |doi-access=free}}</ref><ref>{{Cite journal |display-authors=6 |vauthors=Veeraraghavalu K, Zhang C, Miller S, Hefendehl JK, Rajapaksha TW, Ulrich J, Jucker M, Holtzman DM, Tanzi RE, Vassar R, Sisodia SS |date=May 2013 |title=Comment on "ApoE-directed therapeutics rapidly clear β-amyloid and reverse deficits in AD mouse models" |journal=Science |volume=340 |issue=6135 |pages=924–92f |bibcode=2013Sci...340..924V |doi=10.1126/science.1235505 |pmid=23704555 |s2cid=2999098}}</ref><ref>{{Cite web |date=25 May 2013 |title=Anti-Cancer Drug Reverses Alzheimer's Disease In Mice |url=http://www.medicalnewstoday.com/articles/261025.php |publisher=Medical News Today}}</ref>
+
+The results of [[CCMR-One]], a clinical trial of the effects of bexarotene on patients with [[multiple sclerosis]] operated by the University of Cambridge,<ref>{{Cite web |title=Trials in Cambridge |url=https://www-neurosciences.medschl.cam.ac.uk/jones-coles-group/trials-in-cambridge/ |access-date=25 September 2020 |website=Cambridge Neuroimmunology |language=en-GB}}</ref> have shown that the drug can cause [[remyelination]], but will not lead to the drug being used as a therapy, due to its risk profile.<ref>{{Cite web |date=25 September 2020 |title=MS treatment a step closer after drug shown to repair nerve coating |url=http://www.theguardian.com/society/2020/sep/25/ms-treatment-step-closer-drug-shown-to-repair-nerve-coating-trial-multiple-sclerosis |access-date=25 September 2020 |website=the Guardian |language=en}}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Cite web |title=Bexarotene |url=https://druginfo.nlm.nih.gov/drugportal/name/bexarotene |archive-url=https://web.archive.org/web/20160705222809/http://druginfo.nlm.nih.gov/drugportal/name/Bexarotene |url-status=dead |archive-date=5 July 2016 |website=Drug Information Portal |publisher=U.S. National Library of Medicine}}
+
+{{Chemotherapeutic agents}}
+{{Carotenoids}}
+{{Retinoid receptor modulators}}
+{{Portal bar | Medicine}}
+
+[[Category:Retinoids]]
+[[Category:Antineoplastic drugs]]
+[[Category:Benzoic acids]]
+[[Category:CYP3A4 inducers]]
+[[Category:Tetralins]]
+[[Category:SRI International]]

@@ -1,0 +1,32 @@
+{{short description|Transcription factor gene of the regulatory factor X family}}
+{{Infobox_gene}} 
+'''Regulatory factor X, 6''' also known as '''DNA-binding protein RFX6''' is a [[protein]] that in humans is encoded by the ''RFX6'' [[gene]].<ref name="entrez">{{cite web | title = Entrez Gene: Regulatory factor X, 6| url = https://www.ncbi.nlm.nih.gov/gene?db=gene&cmd=retrieve&list_uids=222546| access-date = 2012-02-10 <!-- T10:56:40.109-08:00 --> }}</ref>
+
+== Function ==
+
+The nuclear protein encoded by this gene is a member of the [[regulatory factor X]] (RFX) family of [[transcription factor]]s. Studies in mice suggest that this gene is specifically required for the differentiation of [[islet cell]]s for the production of [[insulin]], but not for the differentiation of [[pancreatic polypeptide]]-producing cells. It regulates the transcription factors involved in [[beta-cell]] maturation and function, thus, restricting the expression of the beta-cell differentiation and specification genes.
+
+== Clinical significance ==
+
+Mutations in this gene are associated with [[Mitchell-Riley syndrome]], which is characterized by neonatal diabetes with pancreatic [[hypoplasia]], duodenal and jejunal [[atresia]], and gall bladder agenesis.<ref name="entrez">{{cite web | title = Entrez Gene: Regulatory factor X, 6| url = https://www.ncbi.nlm.nih.gov/gene?db=gene&cmd=retrieve&list_uids=222546| access-date = 2012-02-10 <!-- T10:56:40.109-08:00 --> }}</ref>
+
+== References ==
+ {{reflist}}
+
+==Further reading ==
+ {{refbegin | 2}}
+* {{cite journal | vauthors = Aftab S, Semenec L, Chu JS, Chen N | title = Identification and characterization of novel human tissue-specific RFX transcription factors | journal = BMC Evolutionary Biology | volume = 8 | article-number = 226 | year = 2008 | issue = 1 | pmid = 18673564 | pmc = 2533330 | doi = 10.1186/1471-2148-8-226 | bibcode = 2008BMCEE...8..226A | doi-access = free }}
+* {{cite journal | vauthors = Soyer J, Flasse L, Raffelsberger W, Beucher A, Orvain C, Peers B, Ravassard P, Vermot J, Voz ML, Mellitzer G, Gradwohl G | title = Rfx6 is an Ngn3-dependent winged helix transcription factor required for pancreatic islet cell development | journal = Development | volume = 137 | issue = 2 | pages = 203–12 | date = January 2010 | pmid = 20040487 | pmc = 2799156 | doi = 10.1242/dev.041673 }}
+* {{cite journal | vauthors = Smith SB, Qu HQ, Taleb N, Kishimoto NY, Scheel DW, Lu Y, Patch AM, Grabs R, Wang J, Lynn FC, Miyatsuka T, Mitchell J, Seerke R, Désir J, Vanden Eijnden S, Abramowicz M, Kacet N, Weill J, Renard ME, Gentile M, Hansen I, Dewar K, Hattersley AT, Wang R, Wilson ME, Johnson JD, Polychronakos C, German MS | title = Rfx6 directs islet formation and insulin production in mice and humans | journal = Nature | volume = 463 | issue = 7282 | pages = 775–80 | date = February 2010 | pmid = 20148032 | pmc = 2896718 | doi = 10.1038/nature08748 | bibcode = 2010Natur.463..775S }}
+* {{cite journal | vauthors = Takata R, Akamatsu S, Kubo M, Takahashi A, Hosono N, Kawaguchi T, Tsunoda T, Inazawa J, Kamatani N, Ogawa O, Fujioka T, Nakamura Y, Nakagawa H | title = Genome-wide association study identifies five new susceptibility loci for prostate cancer in the Japanese population | journal = Nature Genetics | volume = 42 | issue = 9 | pages = 751–4 | date = September 2010 | pmid = 20676098 | doi = 10.1038/ng.635 | s2cid = 24824386 }}
+* {{cite journal | vauthors = Pearl EJ, Jarikji Z, Horb ME | title = Functional analysis of Rfx6 and mutant variants associated with neonatal diabetes | journal = Developmental Biology | volume = 351 | issue = 1 | pages = 135–45 | date = March 2011 | pmid = 21215266 | pmc = 3042741 | doi = 10.1016/j.ydbio.2010.12.043 }}
+
+{{refend}}
+
+{{Transcription factors|g1}}
+
+{{NLM content}}
+
+[[Category:Transcription factors]]
+
+{{gene-6-stub}}

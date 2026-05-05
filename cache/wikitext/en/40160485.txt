@@ -1,0 +1,111 @@
+{{short description|Israeli-American behavioral economist}}
+{{Infobox economist
+| name             =  Uri Gneezy
+| school_tradition =
+| color            =
+| image            = Uri Gneezy.jpg
+| image_size       =
+| caption          =
+| birth_date       = {{birth date and age|1967|06|06}}
+| birth_place      = [[Tel Aviv]], [[Israel]]
+| death_date       =
+| death_place      =
+| institution      = [[University of California, San Diego]]
+| field            = [[Behavioral Economics]]<br>[[Negotiation]]<br>[[Incentives]]
+| alma_mater       = [[Tel Aviv University]]<br>[[Tilburg University]]
+| influences       =
+| influenced       =
+| contributions    =
+| awards           =
+| signature        = <!-- file name only -->
+| repec_prefix = e  | repec_id = pgn18
+|native_name=אורי גניזי|native_name_lang=he}}
+
+'''Uri Hezkia Gneezy''' ([[Hebrew language|Hebrew]]: אורי גניזי; born June 6, 1967) is an Israeli-American [[behavioral economist]], known for his work on incentives. He currently holds the Epstein/Atkinson Endowed Chair in [[Behavioral Economics]] at the [[University of California, San Diego]]'s [[Rady School of Management]].<ref name="bio">{{cite web |title=Uri Gneezy |url=https://rady.ucsd.edu/faculty-research/faculty/uri-gneezy.html |access-date=5 March 2015 |website=University of California, San Diego.}}</ref> He is also a visiting research professor at the [[University of Amsterdam]] and [[Norwegian School of Economics|NHH]] in Bergen.
+
+==Education and career==
+Before joining the Rady School, Gneezy was a faculty member at the [[University of Chicago]], [[Technion – Israel Institute of Technology]], and [[Haifa University]]. He obtained his [[Bachelor of Arts|BA]] degree [[Latin honors|with honors]] in [[economics]] from [[Tel Aviv University]], and his [[Master of Arts|MA]] and [[Doctor of Philosophy|PhD]] in [[economics]] in 1997 from the Center for Economic Research at [[Tilburg University]] in the [[Netherlands]].<ref name="bio" />
+
+Gneezy's research focuses on using both lab and field experiments to study how people react to incentives. He is an expert in designing simple experiments that challenge our intuitions about people's behavior. His work has important implications for the design of incentive systems in various settings.
+
+His first popular science book, ''[https://www.publicaffairsbooks.com/titles/uri-gneezy/the-why-axis/9781610393126/ The Why Axis]'',<ref>{{cite book |last1=Gneezy |first1=Uri |url=https://www.publicaffairsbooks.com/titles/uri-gneezy/the-why-axis/9781610393126/ |title=The Why Axis: Hidden Motives and the Undiscovered Economics of Everyday Life |last2=List |first2=John |date=2013 |publisher=PublicAffairs, a Member of the Perseus Books Group |isbn=978-1-61039-312-6 |location=New York}}</ref> co-authored with [[John A. List]], discussed how using field experiments can improve our understanding of economic interactions in the real world.<ref>{{Cite web |title=Uri Gneezy Archives |url=https://freakonomics.com/tag/uri-gneezy/ |access-date=2023-03-06 |website=Freakonomics |language=en}}</ref> The book covered topics such as gender and competition, discrimination, and online behavior. The main argument of the book is that executives and policy makers may believe they are basing their decisions on data, but often the data they use is not showing what they believe it does. To avoid this problem, they need to use data that can directly measures causality to inform their decisions.
+
+Gneezy's second book, ''[https://yalebooks.yale.edu/book/9780300255539/mixed-signals/ Mixed Signals]'',<ref>{{Cite book |title=Mixed Signals |url=https://yalebooks.yale.edu/9780300255539/mixed-signals |access-date=2023-03-06 |publisher=Yale University Press |language=en-US |isbn=9780300255539|last1=Gneezy |first1=Uri |date=3 February 2023 }}</ref> published in March 2023, focuses on the signals that incentives send and how understanding and framing these signals can increase the effectiveness of incentives. He explains how incentives shape the story we tell, distinguishing between social signaling from self-signaling. The book highlights how incentives that send mixed signals often have unintended consequences and how understanding this problem of mixed signals can be used in designing incentives that achieve their intended goals.
+
+Gneezy has made significant contributions to the field of behavioral economics, and his research has explored various topics, including the crowding out of incentives, gender differences in reaction to competitive incentives, deception, and habit formation.
+
+In addition to his academic work, Gneezy co-founded Gneezy Consulting, a business consulting company that specializes in behavioral economics. The company provides services to businesses and organizations seeking to better understand and utilize behavioral economics in their decision-making processes.
+
+Gneezy's research has had a significant impact on the field of behavioral economics<ref>{{Cite web |title=Log in {{!}} Psychology Today |url=https://www.psychologytoday.com/intl/user/login |access-date=2023-03-06 |website=www.psychologytoday.com |language=en}}</ref> and has contributed to a better understanding of how incentives can be used to motivate behavior.
+
+== Research ==
+Since receiving his Ph.D. from [[Tilburg University]] in 1997, Gneezy has started a few lines of research that have become part of the agenda in behavioral economics. Examples include papers on how incentives may crowd out desired behavior, gender differences in reaction to competitive incentives, the price of discrimination, how incentives affect deception and how to use incentives to enhance habit formation. In his research, he typically starts with new and original questions the literature has not yet investigated, and addresses them with simple empirical demonstrations of powerful psychological effects.<ref name="cv">{{cite web |title=Uri Gneezy CV (March 2011) |url=https://rady.ucsd.edu/_files/faculty-research/cv/CV-UriGneezy-March22.pdf |access-date=5 March 2015}}</ref> 
+
+'''<big>How incentives can crowd-out the desired behavior</big>''' 
+
+Gneezy’s early research was on the topic of crowding out of incentives. This phenomenon occurs when the introduction of extrinsic incentives, such as financial rewards or punishment, undermines the internal drive to perform a task for its own sake. 
+
+One of Gneezy's seminal studies on crowding out was conducted in collaboration with Aldo Rustichini, and it involved daycare centers in Israel. The centers had a problem with parents who were frequently late to pick up their children. In a field experiment, Gneezy and Rustichini implemented a fine for late pick-ups to incentivize parents to be more punctual. Surprisingly, after the fine was introduced, the number of late pick-ups increased. They observed that the fine had effectively transformed the social norm of punctuality into a market norm of paying for a service. The fine served as a signal that being late is not that bad, and transformed the interaction into an exchange. 
+
+In another paper with Rustichini they present a set of experiments showing that participants who were offered monetary incentives performed worse than those who were offered no compensation. In subsequent studies, Gneezy and his colleagues explored the conditions under which extrinsic incentives can crowd out intrinsic motivation. They found that when tasks are perceived as boring or uninteresting, extrinsic incentives can enhance motivation. However, when tasks are perceived as inherently interesting, the introduction of extrinsic incentives can backfire and lead to a decrease in motivation.
+
+Gneezy's work on crowding out has important implications for the design of incentive systems, both in the workplace and in other settings. It suggests that managers and policymakers should be cautious about using extrinsic incentives, and should carefully consider the potential effects on intrinsic motivation.
+
+'''<big>Choking under pressure and habit formation</big>'''
+
+Together with Dan Ariely, George Loewenstein and Nina Mazar, Gneezy studies the impact of offering high levels of incentives on performance. They found that when participants were offered high levels of compensation, their performance on the tasks decreased relative to a group that was offered lower payoffs. The authors explained this phenomenon using the concept of choking under pressure. 
+
+With Gary Charness, they ask “Can incentives be effective in encouraging the development of good habits?” They investigate the post-intervention effects of paying people to attend a gym eight times during a month. They find a marked attendance increases after the intervention. They argue that there is scope for financial intervention in habit formation, particularly in the area of health. In a related paper with Alexander Cappelen, Gary Charness, Mathias Ekström and Bertil Tungodden, they report the results of an experiment testing whether incentives to exercise can improve academic performance. They find strong support for this hypothesis: university students who were incentivized to go to the gym had a significant improvement in academic performance.
+
+'''<big>Gender and competition</big>'''
+
+Gneezy coauthored a paper with Muriel Niederle and Aldo Rustichini about gender differences in reaction to competitive incentives. The paper showed that while there was no gender difference in performance when participants were paid based on piece rate, introducing competitive incentives motivated the men, but not the women, to increase performance. Studying the “nature vs nurture” question with respect to gender differences in competition, he found (together with Ken Leonard and John List), that in a matrilineal society, when women have equal power in the household, the gender difference in competition disappear. This finding shows that some of the difference is due to culture. 
+
+Rachel Croson and Gneezy offered a general understanding of gender differences in economic activities, pointing to three areas in which men and women have different economic preferences: social behavior, competitiveness and risk taking. With regard to the latter, Gneezy and Gary Charness demonstrate, using existing data, strong gender differences in risk taking. 
+
+'''<big>Deception: The Role of Consequences</big>'''
+
+In a 2005 paper, Gneezy pioneered the study of deception and lying in economics. The paper showed how people have aversion to lying and prefer an outcome if they can reach it without lying. He then demonstrated that people also care about how harmful this consequence his to others. 
+
+Extending this framework, Sanjiv Erat and Gneezy showed that people are averse to telling even white lies that have no negative consequences. Together with Agne Kajackaite, they showed how increasing the incentives to lie affect lying behavior, and joint with Joel Sobel, they showed how the probability of being discovered affects lying behavior. 
+
+==Personal life ==
+Gneezy currently resides in [[San Diego]], [[California]], with his wife professor [[Ayelet Gneezy]] and three children.<ref name=bio/>
+
+== Selected publications ==
+* [https://rady.ucsd.edu/_files/faculty-research/uri-gneezy/pay-enough.pdf "Pay Enough or Don't Pay At All"], ''[[Quarterly Journal of Economics]]'' August 2000, 791–810. (with [[Aldo Rustichini]])
+* {{Cite Q | Q132122227
+| display-authors = 0
+}}
+* [https://rady.ucsd.edu/_files/faculty-research/uri-gneezy/splitting-bill.pdf "The inefficiency of splitting the bill"], ''[[The Economic Journal]]'' 2004, 114(495), 265-280. (with [[Ernan Haruvy]] and Hadas Yafe)
+* [https://rady.ucsd.edu/_files/faculty-research/uri-gneezy/large-stakes.pdf "Large Stakes and Big Mistakes"], ''[[Review of Economic Studies]]'', 76, 2008, 451–69. (with [[Dan Ariely]], [[George Loewenstein]], and Nina Mazar)
+* [https://rady.ucsd.edu/_files/faculty-research/uri-gneezy/incentives-exercise.pdf "Incentives to Exercise"](PDF). ''Econometrica.'' '''77''' (3): 909-931. May 2009. (with Gary Charness)
+* [https://rady.ucsd.edu/_files/faculty-research/uri-gneezy/jep_published.pdf "When and Why Incentives (Don't) Work to Modify Behavior"]  (PDF). ''Journal of Economic Perspectives.'' '''25''' (4): 191-210. Fall 2011. (with Stephan Meier and Pedro Rey-Biel)  
+* {{cite journal |title=Deception: The Role of Consequences |journal=American Economic Review |date=2005 |volume=95 |issue=1 |pages=384–394 |doi=10.1257/0002828053828662 |url=https://rady.ucsd.edu/_files/faculty-research/uri-gneezy/deception.pdf |last1=Gneezy |first1=Uri |citeseerx=10.1.1.199.6717}}
+* {{cite journal |title=White Lies |journal=Management Science |date=April 2012 |volume=58 |issue=4 |pages=723–733 |doi=10.1287/mnsc.1110.1449 |url=https://rady.ucsd.edu/_files/faculty-research/uri-gneezy/white_lies.pdf |last1=Erat |first1=Sanjiv |last2=Gneezy |first2=Uri}} (with Sanjiv Erat)
+* {{cite journal |title=Performance in Competitive Environments: Gender Differences |journal=Quarterly Journal of Economics |date=August 2003 |volume=118 |issue=3 |pages=1049–1074 |doi=10.1162/00335530360698496 |url=https://rady.ucsd.edu/_files/faculty-research/uri-gneezy/gender-differences.pdf |last1=Gneezy |first1=U. |last2=Niederle |first2=M. |last3=Rustichini |first3=A. |citeseerx=10.1.1.615.5638}} (with Muriel Niederle and Aldo Rustichini)
+*{{cite journal |title=Gender and Competition at a Young Age |journal=American Economic Review |date=May 2004 |volume=94 |issue=2 |pages=377–381 |doi=10.1257/0002828041301821 |url=https://rady.ucsd.edu/_files/faculty-research/uri-gneezy/gender.pdf |last1=Gneezy |first1=Uri |last2=Rustichini |first2=Aldo |citeseerx=10.1.1.195.4452}} (with Aldo Rustichini)
+* {{cite journal |title=Gender Differences in Competition: Evidence from a Matrilineal and a Patriarchal Society |journal=[[Econometrica]] |date=September 2009 |volume=77 |issue=5 |pages=1637–1664 |doi=10.3982/ECTA6690 |s2cid=153327597 |url=https://rady.ucsd.edu/_files/faculty-research/uri-gneezy/REST_a_00312.pdf}} (with Kenneth L. Leonard and John A. List)
+*{{cite journal |title=Avoiding Overhead Aversion in Charity |journal=[[Science (journal)|Science]] |date=2014 |volume=346 |issue=6209 |pages=632–635 |doi=10.1126/science.1253932 |url=https://rady.ucsd.edu/_files/faculty-research/uri-gneezy/Science-2014-Gneezy-632-5.pdf |pmid=25359974 |last1=Gneezy |first1=U |last2=Keenan |first2=EA |last3=Gneezy |first3=A |bibcode=2014Sci...346..632G |s2cid=206557384}} (with Elizabeth A. Keenan and Ayelet Gneezy)
+*Serra-Garcia, M and Gneezy, U (2021). Mistakes. [https://www.aeaweb.org/articles?id=10.1257/aer.20191295 Overconfidence, and the Effect of Sharing on Detecting Lies]. American Economic Review, 111 (10), 3160-3183.
+*Serra-Garcia, M. and U. Gneezy (2021). [https://pubmed.ncbi.nlm.nih.gov/34020944/ “Nonreplicable publications are cited more than replicable ones.”] Science Advances, 7, 21.
+*Gneezy, U., A. Kajackaite and J. Sobel (2018). [https://rady.ucsd.edu/_files/faculty-research/uri-gneezy/Lying%20aversion.pdf Lying aversion and the size of the lie.] American Economic Review 419-453.
+*Kajackaite, A. & Gneezy, U. (2017). [https://rady.ucsd.edu/_files/faculty-research/uri-gneezy/incentives-and-cheating.pdf Incentives and Cheating. Games and Economic Behavior], 102, 433-444.
+
+== References ==
+{{reflist}}
+
+{{Instecon}}
+{{Authority control}}
+
+{{DEFAULTSORT:Gneezy, Uri}}
+[[Category:1967 births]]
+[[Category:Living people]]
+[[Category:Israeli economists]]
+[[Category:Behavioral economists]]
+[[Category:University of California, San Diego faculty]]
+[[Category:Tel Aviv University alumni]]
+[[Category:Tilburg University alumni]]
+[[Category:Academic staff of the University of Amsterdam]]
+[[Category:Academics from Tel Aviv]]
+[[Category:Labor economists]]

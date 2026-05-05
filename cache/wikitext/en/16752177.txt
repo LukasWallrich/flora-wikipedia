@@ -1,0 +1,44 @@
+{{short description|1974 book by Stanley Milgram}}
+{{more citations needed|date=September 2018}}
+{{Infobox book
+| name              = Obedience to Authority:<br />An Experimental View
+| title_orig        = 
+| image             = Obedience to Authority by Stanley Milgram.jpg
+| caption           = First edition cover
+| author            = [[Stanley Milgram]]
+| cover_artist      = 
+| country           = United States
+| language          = English
+| series            = 
+| subject           = [[Psychology]], [[Social Psychology]], [[Sociology]] - [[Social Theory]], [[Authority]], [[Obedience (human behavior)|Obedience]]
+| genre             = 
+| publisher         = Harper & Row
+| release_date      = 1974
+| media_type        = Print ([[Hardback]] and [[Paperback]])
+| pages             = 219
+| isbn              = 0-422-74580-4
+| dewey             = 
+| congress          = 
+| oclc              = 
+}}
+'''''Obedience to Authority: An Experimental View''''' is a 1974 book by [[Social psychology|social psychologist]] [[Stanley Milgram]] concerning a series of experiments on obedience to authority figures he conducted in the early 1960s. This book provides an in-depth look into his methods, theories and conclusions.
+
+==Background==
+{{Main|Milgram experiment}}
+Between 1961 and 1965, Milgram carried out a series of experiments at [[Yale University]] in which subjects were instructed to administer what they thought were progressively more painful electric shocks to another human, to determine to what extent people would obey orders even when they knew them to be painful and immoral. The experiments came under [[Milgram experiment#Ethics|heavy criticism]] at the time, but were ultimately vindicated by the scientific community.
+
+In 1963, Milgram published ''The [[Milgram experiment|Behavioral Study of Obedience]]''<ref name=":0">{{Cite journal|last=Milgram|first=Stanley|year=1963|title=Behavioral Study of Obedience|url=http://www.lphslibrary.org/uploads/7/2/9/6/7296009/milgram_obey.pdf|journal=Journal of Abnormal and Social Psychology|volume=67|issue=4|pages=371–378|via=lphslibrary|doi=10.1037/h0040525|citeseerx=10.1.1.599.92|pmid=14049516|archive-date=2017-08-10|access-date=2024-02-19|archive-url=https://web.archive.org/web/20170810100654/http://www.lphslibrary.org/uploads/7/2/9/6/7296009/milgram_obey.pdf|url-status=bot: unknown}}</ref> in the ''[[Journal of Abnormal and Social Psychology]]'', which included a detailed record of the experiment. The record emphasized the tension the experiment brought to its participants, but also the extreme strength of the subjects' obedience: all participants had given electric shocks of 300 volts or more.<ref name=":0" />
+
+== Result ==
+Stanley Milgram's obedience experiments<ref name=":0" /> demonstrated that ordinary individuals are willing to administer severe electric shocks to an innocent person when instructed by an authority figure. In the baseline condition, 65% of participants continued to the maximum 450-volt shock. However, obedience dropped significantly when the authority figure was not physically present, when the learner was in close proximity, or when another participant (a confederate) refused to continue. these variations highlight the role of situational factors, rather than personality traits, in driving harmful obedience.
+
+== Editions ==
+# Milgram, S. (1974), ''Obedience to Authority: An Experimental View'', London: Tavistock Publications.
+# Milgram, S. (2005), ''Obedience to Authority: An Experimental View'', Pinter & Martin Ltd.; New edition, paperback: 240 pages {{ISBN|0-9530964-7-5}} {{ISBN|978-0953096473}}
+# Milgram, S. (2009), ''Obedience to Authority: An Experimental View'', Harper Perennial Modern Classics; Reprint edition, paperback: 256 pages {{ISBN|0-06-176521-X}} {{ISBN|978-0061765216}}
+
+==References==
+{{Reflist}}
+
+[[Category:1974 non-fiction books]]
+[[Category:Moral psychology books]]

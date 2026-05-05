@@ -1,0 +1,31 @@
+{{Short description|American economist}}
+'''Hoyt Bleakley''' is an [[economist]] who currently works as an [[associate professor]] at the [[University of Michigan]]. His research has focused on [[economic history]], [[development economics]], [[labour economics]], [[health economics]], and [[macroeconomics|international macroeconomics]].<ref>{{cite web |first = Hoyt |last = Bleakley |date = July 26, 2014 |url = http://www-personal.umich.edu/~hoytb/ |title = Hoyt Bleakley }}</ref>
+
+== Biography ==
+
+Hoyt Bleakley studied economics at the [[Massachusetts Institute of Technology]] (MIT), from where he obtained his Ph.D. in 2002. Thereafter, he worked in 2002-2003 as a postdoctoral fellow at the Population Research Center of the [[University of Chicago]] before becoming an assistant professor of economics at the [[University of California, San Diego]] in 2003 and moving to the [[Booth School of Business]] in 2005. There, he began working at the Center for Population Economics and was promoted to associate professor in 2009. In 2014, Bleakley took over a position as associate professor at the [[University of Michigan]], where he is also affiliated with the Population Studies Center. Moreover, Bleakley has been affiliated with the [[National Bureau of Economic Research]] since 2007 and had visiting positions at [[Princeton University]].<ref name="CV">{{cite web |url = http://www-personal.umich.edu/~hoytb/cv_bleakley.pdf |title = Curriculum Vitae |first = Hoyt |last = Bleakley }}</ref>
+
+In addition to these positions, Hoyt Bleakley has acted as a referee for numerous research journals in the social and health sciences, was a member of the editorial board of the ''[[Journal of Economic History]]'' from 2013 to 2017, and deputy editor of ''[[Demography (journal)|Demography]]''. In 2010 and 2012, he has received awards for his research using IPUMS data, as well as the 2011 Prize for Best Paper in the ''[[American Economic Journal]]''.<REF name="CV"/>
+
+== Research==
+
+Hoyt Bleakley's research has focused on economic history, development economics, labour economics, health, and international macroeconomics. Based on his research, he is currently (January 2018) ranked among the top 3% of economists registered on [[IDEAS/RePEc]]. Major findings of his research include:
+* that the [[hookworm]] eradication campaigns in the [[Southern United States|American South]] after 1910 were effective in drastically reducing hookworm infection rates and thereby contributed strongly to the educational and economic development of these areas;<ref>{{cite journal |url= https://ideas.repec.org/a/oup/qjecon/v122y2007i1p73-117..html |last= Bleakley |first= Hoyt |year= 2007 |title= Disease and Development: Evidence from Hookworm Eradication in the American South |journal= [[Quarterly Journal of Economics]] |volume= 122 |issue=1 |pages= 73–177 |doi=10.1162/qjec.121.1.73 |pmid= 24146438 |pmc= 3800113}}</ref>
+* that [[malaria]] eradication campaigns in the United States (ca. 1920) and in [[Brazil]], [[Colombia]] and [[Mexico]] (ca. 1955) strongly improved labour productivity by reducing childhood exposure to malaria and explain a substantial part of cross-regional differences in income;<ref>{{cite journal |url = https://ideas.repec.org/a/aea/aejapp/v2y2010i2p1-45.html |last = Bleakley |first = Hoyt |year = 2010 |title = Malaria Eradication in the Americas: A Retrospective Analysis of Childhood Exposure |journal = [[American Economic Journal|American Economic Journal: Applied Economics]] |volume = 2 |issue = 2 |pages = 1–45 |doi=10.1257/app.2.2.1|pmid = 24179596 |pmc = 3810960 }}</ref>
+* that Latin American firms holding dollar-denominated debt don't invest less than their [[peso]]-indebted counterparts following a depreciation against the dollar and adjust the currency denomination of their liabilities to hedge how sensitive their profits become to exchange rate movements;<ref>{{cite journal |url = https://ideas.repec.org/a/tpr/restat/v90y2008i4p612-626.html |last1 = Bleakley |first1 = Hoyt |last2 = Cowan |first2 = Kevin N. |year = 2008 |title =  Corporate Dollar Debt and Depreciations: Much Ado About Nothing? |journal = [[Review of Economics and Statistics]] |volume = 90 |issue = 4 |pages = 612–626 |doi=10.1162/rest.90.4.612|hdl = 10419/88075 |s2cid = 15188886 |hdl-access = free }}</ref>
+* that English proficiency significantly increases wages among adults who came to the U.S. as children by affecting their education;<ref>{{cite journal |url = https://escholarship.org/content/qt9rz3s2sc/qt9rz3s2sc.pdf?t=krn9cy |last1 = Bleakley |first1 = Hoyt |last2 = Chin |first2 = Aimee |year = 2004 |title = Language Skills and Earnings: Evidence from Childhood Immigrants |journal = Review of Economics and Statistics |volume = 86 |issue = 2 |pages = 481–496 |doi=10.1162/003465304323031067|s2cid = 18694108 }}</ref>
+* how the location of certain North American cities at [[portage]] sites had a long-term impact on their economic development, even long after portage had become obsolete.<ref>{{cite journal |url = https://ideas.repec.org/a/oup/qjecon/v127y2012i2p587-644.html |last1 = Bleakley |first1 = Hoyt |last2 = Lin |first2 = Jeffrey |year = 2012 |title = Portage and Path Dependence |journal = The Quarterly Journal of Economics |volume = 127 |issue = 2 |pages = 587–644 |doi=10.1093/qje/qjs011|pmid = 23935217 |pmc = 3738199 }}</ref>
+
+== References==
+
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Bleakley, Hoyt}}
+[[Category:University of Michigan faculty]]
+[[Category:MIT School of Science alumni]]
+[[Category:American development economists]]
+[[Category:American economic historians]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]

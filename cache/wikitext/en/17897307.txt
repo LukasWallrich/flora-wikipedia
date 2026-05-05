@@ -1,0 +1,12 @@
+{{Short description|Psychological technique}}
+The '''memory confusion protocol''' is a technique used by [[Social psychology|social psychologists]] to discover whether [[Human subject research|subject]]s are [[Categorization|categorizing]] [[individual]]s into groups and, if so, what characteristics they are using to do so – without the knowledge of the subjects, in order to reduce the risk that subjects will try to conceal their reasons. The technique has three main steps:
+#Subjects are shown [[photograph]]s of the individuals and are asked to form impressions of them.
+#The subjects then see a set of [[Sentence (linguistics)|sentences]], each of which is paired with a photograph of the individual who said it.
+#Subjects are not forewarned of the final step, a surprise [[Recollection|recall]] task: the sentences are presented in random order, and the subjects must attribute each to the correct individual.
+
+The subjects' mistakes in the recall task reveal how they categorize the individuals: the subjects are more likely to misattribute A's statement to B if they grouped A and B as members of the same category than if they considered them members of different categories.<ref>{{ cite journal | author1=Taylor, S. | author2=Fiske, S. | author3=Etcoff, N. | author4=Ruderman, A. | name-list-style=amp | year=1978 | title=Categorical and contextual bases of person memory and stereotyping | journal=Journal of Personality and Social Psychology | volume=36 | issue=7 | pages=778–793 | doi=10.1037/0022-3514.36.7.778}} A description and example are given at {{ cite journal | title=Can race be erased? Coalitional computation and social categorization |author1=Robert Kurzban |author2=John Tooby |author3=Leda Cosmides  |name-list-style=amp | journal=Proceedings of the National Academy of Sciences | date=December 18, 2001 | volume=98 | issue=26 | pages=15387–15392 | url=http://www.psych.ucsb.edu/research/cep/papers/eraserace.pdf | accessdate=2008-06-11 | doi=10.1073/pnas.251541498 | pmid=11742078 | pmc=65039|bibcode=2001PNAS...9815387K |doi-access=free }}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Social psychology]]

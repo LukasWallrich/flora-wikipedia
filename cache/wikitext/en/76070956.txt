@@ -1,0 +1,23 @@
+{{Short description|Tendency to solve problems by adding resources}}
+
+'''Additive bias''' is a cognitive urge or tendency of [[human beings]] facing problems to add resources instead of taking or subtracting. According to [[Keith Holyoak]], "Humans seeks to strengthen an argument or a manager seeks to encourage desired behaviour, thus requires a mental search for possible changes.<ref>{{cite book| last= Holyoak| first= K. J.|author-link= Keith Holyoak|title= Advances in the Psychology of Human Intelligence| volume= 2|editor= Sternberg, R. J.| editor-link= Robert Sternberg| pages= 199–230| publisher= Erlbaum|chapter= | date= 1984}}</ref>
+
+[[Leidy Klotz]] conducted a series of laboratory experiments, demonstrating how, when faced with a problem, subjects were more likely to add elements rather than subtract, even where subtraction would have led to a better solution.<ref>{{Cite book |last=Klotz |first=Leidy |title=Subtract: the untapped science of less |date=2021 |publisher=Flatiron Books |isbn=978-1-250-24986-9 |edition=First |location=New York}}</ref>
+
+== See also ==
+{{Portal|Psychology}}
+* [[List of cognitive biases]]
+
+== References ==
+
+=== Citations===
+{{Reflist}}
+
+== Further reading ==
+{{refbegin}}
+* {{cite journal|last3= Adams| first3= G.S.| last2= Converse| first2= B.A.| last1= Hales| first1= A.H.|url= https://www.nature.com/articles/s41586-021-03380-y#ref-CR2| title= People systematically overlook subtractive changes| journal= Nature| volume= 592| pages= 258–261 |date= 2021| issue= 7853| doi= 10.1038/s41586-021-03380-y| pmid= 33828317| bibcode= 2021Natur.592..258A| s2cid= 233185662| url-access= subscription}}
+{{refend}}
+
+{{Biases}}
+
+[[Category:Cognitive biases]]

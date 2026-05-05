@@ -1,0 +1,341 @@
+{{Short description|System used in psychology}}
+The '''Temperament and Character Inventory''' ('''TCI''') is an [[inventory]] for [[personality trait]]s devised by [[C. Robert Cloninger|Cloninger]] et al.<ref>{{Cite book
+| author = C. Robert Cloninger
+| title = The temperament and character inventory (TCI): A guide to its development and use
+| publisher = Center for Psychobiology of Personality, Washington University
+| location = St. Louis, MO
+| year = 1994
+| isbn = 978-0-9642917-1-3
+| author-link = C. Robert Cloninger
+}}</ref>
+It is closely related to and an outgrowth of the [[Tridimensional Personality Questionnaire]] (TPQ),
+and it has also been related to the  dimensions of personality in Zuckerman's [[alternative five]] and Eysenck's models<ref>{{Cite journal
+| author = Marvin Zuckerman and C. Robert Cloninger
+| title = Relationships between Cloninger's, Zuckerman's, and Eysenck's dimensions of personality
+| journal = [[Personality and Individual Differences]]
+| volume = 21
+| issue = 2
+|date=August 1996
+| pages = 283–285
+| doi = 10.1016/0191-8869(96)00042-6
+| pmid = 26146428
+| pmc = 4486314
+}}</ref> and those of the [[five factor model]].<ref name=defruyt>{{cite journal|last=De Fruyt| first=F.|author2=Van De Wiele, L. |author3=Van Heeringen, C.|title=Cloninger's Psychobiological Model of Temperament and Character and the Five-Factor Model of Personality|journal=Personality and Individual Differences|year=2000|volume=29|pages=441–452|doi=10.1016/S0191-8869(99)00204-4|issue=3}}</ref>
+
+TCI operates with seven dimensions of  personality traits: four so-called ''temperaments''<ref>{{Cite web
+| title = Temperament & Character Inventory
+| url = https://psychobiology.wustl.edu/whatistci.html
+| publisher = Center for Well-being, Washington University in St. Louis
+| access-date = 2008-07-07
+| archive-date = 2009-07-17
+| archive-url = https://web.archive.org/web/20090717002115/http://psychobiology.wustl.edu/whatistci.html
+| url-status = dead
+}}</ref>
+
+* [[Novelty seeking]] (NS)
+* [[Harm avoidance]] (HA)
+* [[Reward dependence]] (RD)
+* [[Persistence (psychology)|Persistence]] (PS)
+
+and three so-called ''characters''
+
+* [[Self-directedness]] (SD)
+* [[Cooperativeness]] (CO)
+* [[Self-transcendence]] (ST)
+
+Each of these traits has a varying number of subscales.
+The dimensions are determined from a 240-item questionnaire.
+
+The TCI is based on a [[psychobiological]] model that attempts to explain the underlying causes of individual differences in personality traits.<ref name=Cloninger>{{cite journal|last1=Cloninger| first1=C.R.|title=A psychobiological model of temperament and character|journal=Archives of General Psychiatry|date=December 1993|volume=50|issue=12|pages=975–90|pmid=8250684|doi=10.1001/archpsyc.1993.01820240059008|last2=Svrakic| first2=DM|last3=Przybeck| first3=TR}}</ref>
+
+==Versions==
+Originally developed in English, TCI has been translated to other languages, e.g., Swedish,<ref>{{Cite journal
+
+| title = Swedish normative data on personality using the Temperament and Character Inventory
+| journal = Comprehensive Psychiatry
+| volume = 39
+| issue = 3
+| pages = 122–128
+|date=May–June 1998
+| pmid = 9606577
+| doi = 10.1016/S0010-440X(98)90070-0
+| last1 = Brändström| first1 = Sven
+| last2 = Schlette| first2 = Paul
+| last3 = Przybeck| first3 = Thomas R
+| last4 = Lundberg| first4 = Mattias
+| last5 = Forsgren| first5 = Thomas
+| last6 = Sigvardsson| first6 = Sören
+| last7 = Nylander| first7 = Per-Olof
+| last8 = Nilsson| first8 = Lars-Göran
+| last9 = Cloninger| first9 = Robert C
+
+}}</ref>
+Japanese, Dutch, German, Polish, Korean,<ref>{{Cite journal
+| title = The reliability and validity of the junior temperament and character inventory
+| journal = Comprehensive Psychiatry
+| volume = 45
+| issue = 2
+| pages = 121–128
+|date=March–April 2004
+| doi = 10.1016/j.comppsych.2003.12.002
+| pmid = 14999663
+| last1 = Lyoo| first1 = In Kyoon
+| last2 = Han| first2 = Chang Hwan
+| last3 = Lee| first3 = Soo Jin
+| last4 = Yune| first4 = Sook Kyeong
+| last5 = Ha| first5 = Ji Hyun
+| last6 = Chung| first6 = Sun Joo
+| last7 = Choi| first7 = Hyunsoo
+| last8 = Seo| first8 = Cheon Seok
+| last9 = Hong| first9 = Kang-E.M
+
+}}</ref>
+Finnish, Chinese and French.
+There is also a revised version ''TCI-R''. 
+Whereas the original TCI had statements for which the subject should indicate true or false, the TCI-R has a five-point rating for each statement.
+The two versions hold 189 of the 240 statements in common.
+The revised version has been translated into 
+Spanish,<ref>{{Cite journal
+
+| title = &#91;Temperament and Character Inventory Revised (TCI-R). Standardization and normative data in a general population sample&#93;
+| journal =  	Actas Españolas de Psiquiatría
+| volume = 32
+| issue = 1
+| pages = 8–15
+|date=January–February 2004
+| pmid = 14963776
+| last1 = Gutiérrez-Zotes| first1 = JA
+| last2 = Bayón| first2 = C
+| last3 = Montserrat| first3 = C
+| last4 = Valero| first4 = J
+| last5 = Labad| first5 = A
+| last6 = Cloninger| first6 = CR
+| last7 = Fernández-Aranda| first7 = F
+}}</ref>
+French,<ref>{{Cite journal
+| title = The Temperament and Character Inventory-Revised (TCI-R): psychometric characteristics of the French version
+| journal = [[Acta Psychiatrica Scandinavica]]
+| year = 2005
+| volume = 112
+| issue = 2
+| pages = 126–133
+| doi = 10.1111/j.1600-0447.2005.00551.x
+| pmid = 15992394
+|author1 = A. Pelissolo|author2 = L. Mallet|author3 = J.-M. Baleyte|author4 = G. Michel|author5 = C. R. Cloninger|author6 = J.-F. Allilaire|author7 = R. Jouvent| s2cid = 25445104
+|authorlink5 = C. R. Cloninger}}</ref>
+Czech,<ref>{{Cite journal
+
+| title = The temperament and character inventory-revised (TCI-R): a psychometric characteristics of the Czech version
+| journal = [[Psychiatria Danubina]]
+| volume = 19
+| issue = 1–2
+| pages = 27–34
+|date=June 2007
+| pmid = 17603413
+| last1 = Preiss| first1 = M
+| last2 = Kucharová| first2 = J
+| last3 = Novák| first3 = T
+| last4 = Stepánková| first4 = H
+}}</ref>
+and Italian.<ref>{{Cite journal
+
+| title = Reliability and validity of the Italian version of the Temperament and Character Inventory-Revised in an outpatient sample
+| journal = Comprehensive Psychiatry
+| volume = 48
+| issue = 4
+| pages = 380–387
+|date=July–August 2007
+| doi = 10.1016/j.comppsych.2007.02.003
+| pmid = 17560961
+| last1 = Fossati| first1 = Andrea
+| last2 = Cloninger| first2 = C. Robert
+| last3 = Villa| first3 = Daniele
+| last4 = Borroni| first4 = Serena
+| last5 = Grazioli| first5 = Federica
+| last6 = Giarolli| first6 = Laura
+| last7 = Battaglia| first7 = Marco
+| last8 = Maffei| first8 = Cesare
+}}</ref>
+
+The number of subscales on the different top level traits differ between TCI and TCI-R.
+The subscales of the TCI-R are:
+*Novelty seeking (NS)
+*#Exploratory excitability (NS1)
+*#[[Impulsiveness]] (NS2)
+*#Extravagance (NS3)
+*#Disorderliness (NS4)
+*Harm avoidance (HA)
+*#Anticipatory worry (HA1)
+*#Fear of uncertainty (HA2)
+*#Shyness (HA3)
+*#Fatigability (HA4)
+*Reward dependence (RD)
+*#[[Sentimentality]] (RD1)
+*#Openness to warm communication (RD2)
+*#Attachment (RD3)
+*#Dependence (RD4)
+*Persistence (PS)
+*#Eagerness of effort (PS1)
+*#Work hardened (PS2)
+*#Ambitious (PS3)
+*#Perfectionist (PS4)
+*Self-directedness (SD)
+*#Responsibility (SD1)
+*#Purposeful (SD2)
+*#Resourcefulness (SD3)
+*#Self-acceptance (SD4)
+*#Enlightened second nature (SD5)
+*Cooperativeness (C)
+*#Social acceptance (C1)
+*#[[Empathy]] (C2)
+*#Helpfulness (C3)
+*#[[Compassion]] (C4)
+*#Pure-hearted conscience (C5)
+*Self-transcendence (ST)
+*#Self-forgetful (ST1)
+*#Transpersonal identification (ST2)
+*#Spiritual acceptance (ST3)
+
+==Neurobiological foundation==
+TCI has been used for investigating the neurobiological foundation for personality, together with other research modalities, e.g., with [[Molecular imaging|molecular neuroimaging]],<ref name="BorgJ2003Serotonin">{{Cite journal
+
+| title = The Serotonin System and Spiritual Experiences
+| journal = American Journal of Psychiatry
+| volume = 160
+| issue = 11
+|date=November 2003
+| pages = 1965–1969
+| doi = 10.1176/appi.ajp.160.11.1965
+| pmid=14594742
+| last1 = Borg| first1 = J.
+| last2 = Andrée| first2 = B
+| last3 = Soderstrom| first3 = H
+| last4 = Farde| first4 = L
+| s2cid = 5911066
+}}</ref>
+structural neuroimaging<ref>{{Cite journal
+
+| title = Gender-common and -specific neuroanatomical basis of human anxiety-related personality traits
+| journal = [[Cerebral Cortex (journal)|Cerebral Cortex]]
+| volume = 18
+| issue = 1
+| pages = 46–52
+|date=January 2008
+| doi = 10.1093/cercor/bhm030
+| pmid = 17412719
+| last1 = Yamasue| first1 = H.
+| last2 = Abe| first2 = O.
+| last3 = Suga| first3 = M.
+| last4 = Yamada| first4 = H.
+| last5 = Inoue| first5 = H.
+| last6 = Tochigi| first6 = M.
+| last7 = Rogers| first7 = M.
+| last8 = Aoki| first8 = S.
+| last9 = Kato| first9 = N.
+
+| doi-access = free
+| hdl = 10536/DRO/DU:30047633
+| hdl-access = free
+}}</ref>
+and [[genetics]].
+{| class="wikitable" style="margin-left:1em; float: right; clear: right;"
+|-
+! Temperament
+! Neurotransmitter system
+|-
+| [[Novelty seeking]]
+| Low [[dopamine]]rgic activity
+|-
+| [[Harm avoidance]]
+| High [[serotonin|serotonergic]] activity
+|-
+| [[Reward dependence]]
+| Low [[noradrenaline|noradrenergic]] activity
+|}
+Cloninger suggested that the three original temperaments from TPQ, novelty seeking, harm avoidance, and reward dependence, was correlated with low basal [[dopamine]]rgic activity, 
+high [[serotonin|serotonergic]] activity, and low basal [[noradrenaline|noradrenergic]] activity, respectively.<ref>{{Cite journal
+| author = C. R. Cloninger
+| title = A unified biosocial theory of personality and its role in the development of anxiety states
+| journal = [[Psychiatric Developments]]
+| volume = 4
+| issue = 3
+| pages = 167–226
+|date=Autumn 1986
+| pmid = 3809156
+| author-link = C. R. Cloninger
+}}</ref>
+
+Many studies have used TCI for examining whether genetic variants in individual genes have an association with personality traits.  Studies suggest that novelty seeking is associated with dopaminergic pathways.<ref>{{cite journal |last1=Bódi |first1=Nikoletta |last2=Kéri |first2=Szabolcs |last3=Nagy |first3=Helga |last4=Moustafa |first4=Ahmed |last5=Myers |first5=Catherine E |title=Reward-learning and the novelty-seeking personality: a between- and within-subjects study of the effects of dopamine agonists on young Parkinson's patients |journal=Brain |date=September 2009 |volume=132 |issue=9 |pages=2385–2395 |doi=10.1093/brain/awp094 |pmid=19416950 |pmc=2766178 }}</ref>
+Dopamine transporter DAT1 and dopamine receptor DRD4 are associated with novelty seeking.{{Citation needed|date=January 2009}}
+Parkinson's patients, who are intrinsically low in dopamine, are found to have low novelty seeking scores.{{Citation needed|date=January 2009}}
+Gene variants that have been investigated are, e.g., [[5-HTTLPR]] in the [[serotonin transporter]] gene and gene variants in ''[[XBP1]]''.<ref>{{Cite journal
+
+| title = Relationship between XBP1 genotype and personality traits assessed by TCI and NEO-FFI
+| journal = [[Neuroscience Letters]]
+| volume = 391
+| issue = 1–2
+| pages = 7–10
+|date=December 2005
+| doi = 10.1016/j.neulet.2005.08.023
+| pmid = 16154272
+| last1 = Kusumi| first1 = Ichiro
+| last2 = Masui| first2 = Takuya
+| last3 = Kakiuchi| first3 = Chihiro
+| last4 = Suzuki| first4 = Katsuji
+| last5 = Akimoto| first5 = Tatsuyuki
+| last6 = Hashimoto| first6 = Ryota
+| last7 = Kunugi| first7 = Hiroshi
+| last8 = Kato| first8 = Tadafumi
+| last9 = Koyama| first9 = Tsukasa
+
+| hdl = 2115/8420
+| s2cid = 505223
+| hdl-access = free
+}}</ref>
+
+== Relationship to other personality models ==
+
+Cloninger argued that the Five Factor model does not assess domains of personality relevant to personality disorders such as autonomy, moral values, and aspects of maturity and [[self-actualization]] considered in [[humanistic psychology|humanistic]] and [[transpersonal psychology]]. Cloninger argued that these domains are captured by self-directedness, cooperativeness, and self-transcendence respectively.<ref name=Cloninger/> He also argued that personality factors defined as independent by [[factor analysis]], such as [[neuroticism]] and [[introversion]], may actually share underlying etiological factors.
+
+Research has found that all of the TCI dimensions are each related substantially to at least one of the dimensions in the Five Factor Model,<ref name=defruyt/> [[Eysenck Personality Questionnaire|Eysenck]]'s model, Zuckerman's [[alternative five]]:
+* Harm avoidance is strongly positively associated with [[neuroticism]] and inversely associated with [[extraversion]]. 
+* Novelty seeking is most strongly associated with extraversion, although it also has a moderate positive association with [[openness to experience]] and a moderate negative association with [[conscientiousness]]. 
+* Persistence has a positive association with conscientiousness. 
+* Reward dependence is most strongly associated with extraversion, although it also has a moderate positive association with openness to experience. 
+* Cooperativeness is most strongly associated with [[agreeableness]]. 
+* Self-directedness has a strong negative association with [[neuroticism]] and a positive association with conscientiousness. 
+* Self-transcendence had a positive association with openness to experience and to a lesser extent extraversion. 
+* Relationships have also been found between the TCI dimensions and traits specific to the models of Zuckerman and [[Eysenck Personality Questionnaire|Eysenck]] respectively.<ref name=defruyt/> 
+* Novelty seeking is related to Impulsive [[sensation seeking]] in Zuckerman's [[alternative five]] model and to [[psychoticism]] in Eysenck's model.
+* Zuckerman and Cloninger have contended that Harm Avoidance is a composite dimension comprising neurotic introversion at one end and stable extraversion at the other end.
+* Persistence is related to Zuckerman's Activity scale and inversely to psychoticism.
+* Cooperativeness is inversely related to Zuckerman's Aggression-hostility scale and to psychoticism.
+* Self-transcendence has no equivalent in either Zuckerman or Eysenck's model as neither model recognises openness to experience.<ref name=defruyt/>
+
+==Health and well-being==
+Cloninger has argued that "psychological well-being" depends on the development of facets of the three character dimensions, such as autonomy and life purpose from self-directedness, positive relations with others from cooperativeness, and personal growth and [[self-actualization]] from self-transcendence. He has also argued that the temperament dimensions are associated with [[subjective well-being]] and to some extent with physical health.<ref name=health>{{cite journal|pmid=20580435|year=2011|last1=Cloninger| first1=CR|last2=Zohar| first2=AH|title=Personality and the perception of health and happiness|volume=128|issue=1–2|pages=24–32|doi=10.1016/j.jad.2010.06.012|journal=Journal of Affective Disorders}}</ref> A study examining relationships between character dimensions and aspects of health and happiness found that self-directedness was strongly associated with [[happiness]], [[satisfaction with life]], general health, and perceived social support. Cooperativeness was associated most strongly with perceived social support and only weakly with the other well-being measures. Self-transcendence was associated with positive emotions when taking the other character traits into account, but was largely unrelated to negative emotions or the other well-being measures.<ref name=health/>
+
+==See also==
+*[[Karolinska Scales of Personality]]
+*[[NEO PI-R]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Cite journal
+
+| title = A psychobiological model of temperament and character
+| journal = [[Archives of General Psychiatry]]
+| volume = 50
+| issue = 12
+| pages = 975–90
+|date=December 1993
+| pmid = 8250684
+| doi = 10.1001/archpsyc.1993.01820240059008
+| last1 = Cloninger| first1 = C. R.
+| last2 = Svrakic| first2 = D. M.
+| last3 = Przybeck| first3 = T. R.
+}}
+
+[[Category:Self-report personality tests]]

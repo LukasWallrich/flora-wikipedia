@@ -1,0 +1,199 @@
+{{short description|Research project}}
+{{Update|date=June 2023}}
+The '''Human Connectome Project''' ('''HCP''') was a five-year project (later extended to 10 years) sponsored by sixteen components of the [[National Institutes of Health]], split between two consortia of research institutions. The project was launched in July 2009<ref name="NIH_2009-07-15" /> as the first of three Grand Challenges of the NIH's Blueprint for Neuroscience Research.<ref name="NIH_Blueprint" /> On September 15, 2010, the NIH announced that it would award two grants: $30 million over five years to a consortium led by [[Washington University in St. Louis]] and the [[University of Minnesota]], with strong contributions from [[University of Oxford]] (FMRIB) and $8.5 million over three years to a consortium led by [[Harvard University]], [[Massachusetts General Hospital]] and the [[University of California Los Angeles]].<ref name="NIH_2010-09-15" />
+
+The goal of the Human Connectome Project was to build a "network map" ([[connectome]]) that sheds light on the anatomical and functional connectivity within the healthy [[human brain]], as well as to produce a body of data that will facilitate research into [[brain disorder]]s such as [[dyslexia]], [[autism]], [[Alzheimer's disease]], and [[schizophrenia]].<ref name="BBC_2013-02-16" /><ref>{{Cite journal |last=Geddes |first=Linda |year=2016 |title=Human brain mapped in unprecedented detail |journal=Nature |doi=10.1038/nature.2016.20285|s2cid=89023120 }}</ref>
+
+A number of successor projects are currently in progress, based on the Human Connectome Project results.<ref name="successors"/>
+
+==WU-Minn-Oxford consortium==
+The WU-Minn-Oxford consortium developed improved MRI instrumentation, image acquisition and image analysis methods for mapping the connectivity in the human brain at spatial resolutions significantly better than previously available; using these methods, WU-Minn-Oxford consortium collected a large amount of MRI and behavioral data on 1,200 healthy adults — twin pairs and their siblings from 300 families - using a special 3-tesla MRI instrument. In addition, it scanned 184 subjects from this pool at 7 tesla, with higher spatial resolution. The data were analyzed to show the anatomical and functional connections between parts of the brain for each individual, and were related to behavioral test data. Comparing the [[connectome]]s and genetic data of genetically [[identical twins]] with fraternal twins revealed the relative contributions of genes and environment in shaping brain circuitry and pinpointed relevant [[genetic variation]]. The maps also shed light on how brain networks are organized.
+
+Using a combination of [[Minimally-invasive procedures#Non-invasive procedure|non-invasive]] [[imaging technologies]], including [[resting state fMRI|resting-state fMRI]] and task-based [[functional MRI]], [[Magnetoencephalography|MEG]] and [[EEG]], and [[diffusion MRI]], the WU-Minn mapped [[connectome]]s at the macro scale — [[Brain mapping|mapping large brain systems]] that were divided into anatomically and functionally distinct areas, rather than mapping individual [[neuron]]s.
+
+Dozens of investigators and researchers from nine institutions contributed to this project. Research institutions include: Washington University in St. Louis, the Center for Magnetic Resonance Research at the [[University of Minnesota]], [[University of Oxford]], [[Saint Louis University (United States)|Saint Louis University]], [[Indiana University]], [[D'Annunzio University of Chieti–Pescara]], [[Ernst Strungmann Institute]], [[Warwick University]], Advanced MRI Technologies, and the [[University of California at Berkeley]].<ref>{{Cite web |url=https://www.nimh.nih.gov/news/science-updates/2010/40-million-awarded-to-trace-human-brains-connections |title=$40 Million Awarded to Trace Human Brain's Connections |date=September 15, 2010 |publisher=NIMH |url-status=live |archive-url=https://web.archive.org/web/20120110052518/http://www.nimh.nih.gov/science-news/2010/40-million-awarded-to-trace-human-brains-connections.shtml |archive-date=January 10, 2012 |access-date=March 12, 2018}}</ref>
+
+The data that resulted from this research is publicly available in an open-source web-accessible neuroinformatics platform.<ref>{{Cite web |url=https://www.humanconnectome.org/ |title=Connectome - Homepage}}</ref><ref>{{Cite web |url=https://db.humanconnectome.org |title=ConnectomeDB}}</ref>
+
+==MGH/Harvard-UCLA consortium==
+The MGH/Harvard-UCLA consortium focussed on optimizing MRI technology for imaging the brain's structural connections using [[diffusion MRI]], with a goal of increasing [[spatial resolution]], quality, and speed. Diffusion MRI, employed in both projects, maps the brain's fibrous long-distance connections by tracking the motion of water. Water [[diffusion]] patterns in different types of cells allow the detection of different types of tissues. Using this imaging method, the long extensions of neurons, called [[white matter]], can be seen in sharp relief.<ref name = "UCLA_LNI" /><ref>{{Cite journal |last1=Fan |first1=Qiuyun |last2=Witzel |first2=Thomas |last3=Nummenmaa |first3=Aapo |last4=Van Dijk |first4=Koene R. A. |last5=Van Horn |first5=John D. |last6=Drews |first6=Michelle K. |last7=Somerville |first7=Leah H. |last8=Sheridan |first8=Margaret A. |last9=Santillana |first9=Rosario M. |date=2016-01-01 |title=MGH-USC Human Connectome Project datasets with ultra-high b-value diffusion MRI |journal=NeuroImage |volume=124 |issue=Pt B |pages=1108–1114 |doi=10.1016/j.neuroimage.2015.08.075 |issn=1095-9572 |pmc=4651764 |pmid=26364861}}</ref>
+
+The new scanner built at the MGH [[Martinos Center]] for this project was "4 to 8 times as powerful as conventional systems, enabling imaging of human [[neuroanatomy]] with greater sensitivity than was previously possible."<ref name = "NIH_2010-09-15" /> The scanner has a maximum gradient strength of 300 mT/m and a [[slew rate]] of 200 [[tesla (unit)|T]]/m/s, with b-values tested up to 20,000 s/mm^2. For comparison, a standard gradient coil is 45 mT/m.<ref>Improving SNR in high b-value diffusion imaging using Gmax = 300 mT/m human gradients, Proc. Intl. Soc. Mag. Reson. Med. 20 (2012) 2738</ref><ref>{{Cite web |url=http://www.nmr.mgh.harvard.edu/martinos/aboutUs/facilities.php |title=About the Center |date=22 March 2019}}</ref><ref>{{Cite journal |last1=Fan |first1=Qiuyun |last2=Nummenmaa |first2=Aapo |last3=Witzel |first3=Thomas |last4=Zanzonico |first4=Roberta |last5=Keil |first5=Boris |last6=Cauley |first6=Stephen |last7=Polimeni |first7=Jonathan R. |last8=Tisdall |first8=Dylan |last9=Van Dijk |first9=Koene R. A. |date=2014-11-21 |title=Investigating the capability to resolve complex white matter structures with high b-value diffusion magnetic resonance imaging on the MGH-USC Connectom scanner |journal=Brain Connectivity |volume=4 |issue=9 |pages=718–726 |doi=10.1089/brain.2014.0305 |issn=2158-0022 |pmc=4238244 |pmid=25287963}}</ref>
+
+==Behavioral testing and measurement==
+To understand the relationship between brain connectivity and behavior better, the Human Connectome Project used a reliable and well-validated battery of measures that assess a wide range of human functions. The core of its battery is the tools and methods developed by the [[NIH Toolbox]] for Assessment of Neurological and Behavioral function.<ref>{{cite web |url=http://humanconnectome.org/about/project/behavioral-testing.html |title=Components of the Human Connectome Project - Behavioral Testing - Connectome |website=humanconnectome.org |access-date=2013-03-08}}</ref>
+
+== Research ==
+
+In August 2025, the HCP-Young Adult 2025 Release updated dataset on a new platform called "[https://balsa.wustl.edu/ ConnectomeDB powered by BALSA]". The main highlights are significant advances in data processing applied to all the functional [[Magnetic resonance imaging|Magnetic Resonance Imaging]] (fMRI) data, multi-run [https://ftp.nmr.mgh.harvard.edu/pub/dist/freesurfer/tutorial_packages_centos6/centos6/freesurfer-fsl-matlab-Linux-centos6_x86_64-dev/freesurfer/fsl_507/doc/wiki/FIX.html FIX] (FMRIB's ICA-based Xnoiseifier) for the 3 tesla task fMRI data, and improvements in temporal [[Independent component analysis|Independent Component Analysis]] (ICA) pipelines while aligning with earlier processing packages of the HCP Lifespan projects. This contributes to the further exploration of the human brain in a large cohort of healthy young adults.<ref>{{cite web |url=https://www.humanconnectome.org/study/hcp-young-adult/document/hcp-young-adult-2025-release |title=HCP-Young Adult 2025 Release |access-date=21 November 2025}}</ref>
+
+The Human Connectome Project has grown into a large group of research teams. These teams make use of the style of brain scanning developed by the Project.<ref>{{Cite journal |last1=Glasser |first1=Matthew F |last2=Smith |first2=Stephen M |last3=Marcus |first3=Daniel S |last4=Andersson |first4=Jesper L R |last5=Auerbach |first5=Edward J |last6=Behrens |first6=Timothy E J |last7=Coalson |first7=Timothy S |last8=Harms |first8=Michael P |last9=Jenkinson |first9=Mark |last10=Moeller |first10=Steen |last11=Robinson |first11=Emma C |year=2016 |title=The Human Connectome Project's neuroimaging approach |journal=Nature Neuroscience |volume=19 |issue=9 |pages=1175–87 |doi=10.1038/nn.4361 |pmc=6172654 |pmid=27571196 |last12=Sotiropoulos |first12=Stamatios N |last13=Xu |first13=Junqian |last14=Yacoub |first14=Essa |last15=Ugurbil |first15=Kamil |last16=Van Essen |first16=David C}}</ref> The studies usually include using large groups of participants, scanning many angles of participants' brains, and carefully documenting the location of the structures in each participant's brain.<ref>{{Cite web |url=https://www.humanconnectome.org/ |title=Connectome - Homepage |last=UpAndRunning |website=www.humanconnectome.org |language=en |access-date=2017-11-28}}</ref> Studies affiliated with the Human Connectome Project are currently cataloged by the Connectome Coordination Facility. The studies fall into three categories: Healthy Adult Connectomes, Lifespan Connectome Data, and Connectomes Related to Human Disease. Under each of these categories are research groups working on specific questions.
+
+=== Healthy Adult Connectomes ===
+The Human Connectome Project Young Adult study<ref>{{Cite web |url=https://www.humanconnectome.org/study/hcp-young-adult |title=HCP Young Adult - Connectome - Publications |last=UpAndRunning |website=www.humanconnectome.org |language=en |access-date=2017-11-29}}</ref> made data on the brain connections of 1100 healthy young adults available to the scientific community.<ref>{{Cite web |url=http://www.humanconnectome.org/about/publications-using-hcp-data.php |title=Publications &#124; Human Connectome Project |url-status=dead |archive-url=https://web.archive.org/web/20170507181029/http://www.humanconnectome.org/about/publications-using-hcp-data.php |archive-date=2017-05-07 |access-date=2016-03-03}}</ref> Scientists have used data from the study to support theories about which areas of the brain communicate with one another.<ref name="pmid28231395">{{Cite journal |last1=Toschi |first1=Nicola |last2=Duggento |first2=Andrea |last3=Passamonti |first3=Luca |year=2017 |title=Functional connectivity in amygdalar-sensory/(pre)motor networks at rest: New evidence from the Human Connectome Project |journal=European Journal of Neuroscience |volume=45 |issue=9 |pages=1224–1229 |doi=10.1111/ejn.13544 |pmid=28231395 |doi-access=free|url=https://www.repository.cam.ac.uk/bitstreams/33f3bef1-f88b-411a-abf2-00385a8f60bf/download |hdl=2108/232370 |hdl-access=free }}</ref> For example, one study used data from the project to show that the [[amygdala]], a part of the brain essential for emotional processing, is connected to the parts of the brain that receive information from the senses and plan movement.<ref name="pmid27744495">{{Cite journal |last1=De Witte |first1=Nele A. J |last2=Mueller |first2=Sven C |year=2016 |title=White matter integrity in brain networks relevant to anxiety and depression: Evidence from the human connectome project dataset |url=https://biblio.ugent.be/publication/8163582 |journal=Brain Imaging and Behavior |volume=11 |issue=6 |pages=1604–1615 |doi=10.1007/s11682-016-9642-2 |pmid=27744495|s2cid=21758303 |hdl=1854/LU-8163582 |hdl-access=free }}</ref> Another study showed that healthy individuals who had a high tendency to experience anxious or depressed mood had fewer connections between the amygdala and a number of brain areas related to attention.
+
+=== Lifespan Connectome Data ===
+There are currently four research groups collecting data on connections in the brains of populations other than young adults. The purpose of these groups is to determine ordinary brain connectivity during infancy, childhood, adolescence, and aging. Scientists will use the data from these research groups in the same manner in which they have used data from the Human Connectome Project Young Adult study.<ref>{{Cite web |url=https://www.humanconnectome.org/lifespan-studies |title=Connectome - HCP Lifespan Studies |last=UpAndRunning |website=www.humanconnectome.org |language=en |access-date=2017-12-13}}</ref>
+
+=== Connectomes Related to Human Disease ===
+Fourteen research groups investigate how connections in the brain change during the course of a particular disease. Four of the groups focus on [[Alzheimer's disease]] or [[dementia]]. Alzheimer's disease and dementia are diseases that begin during aging. Memory loss and cognitive impairment mark the progression of these diseases. While scientists consider Alzheimer's disease to be a disease with a specific cause, dementia actually describes symptoms which could be attributed to a number of causes. Two other research groups investigate how diseases that disrupt vision change connectivity in the brain. Another four of the research groups focus on [[anxiety disorders]] and [[major depressive disorder]], psychological disorders that result in abnormal emotional regulation. Two more of the research groups focus on the effects of [[psychosis]], a symptom of some psychological disorders in which an individual perceives reality differently than others do. One of the teams researches [[epilepsy]], a disease characterized by seizures. Finally, one research team is documenting the brain connections of the [[Amish]] people, a religious and ethnic group that has high rates of some [[psychological disorders]].<ref>{{Cite web |url=https://www.humanconnectome.org/disease-studies |title=Connectome - Human Connectome Studies Related To Disease |last=UpAndRunning |website=www.humanconnectome.org |language=en |access-date=2017-12-13}}</ref>
+
+Although theories have been put forth about the way brain connections change in the diseases under investigation, many of these theories have been supported by data from healthy populations.<ref name=pmid27744495/> For example, an analysis of the brains of healthy individuals supported the theory that individuals with anxiety disorders and depression have less connectivity between their emotional centers and the areas that govern attention. By collecting data specifically from individuals with these diseases, researchers hope to have a more certain idea of how brain connections in these individuals change over time.
+
+== Status ==
+The project was completed in 2021, and a retrospective analysis is available.<ref> From {{cite web |url=https://directorsblog.nih.gov/tag/human-connectome-project/ |archive-url=https://web.archive.org/web/20160202035841/http://directorsblog.nih.gov/tag/human-connectome-project/ |url-status=dead |archive-date=February 2, 2016 |title=NIH Director's Blog - Human Connectome Project}}  [...] a vast collection of data from the NIH-funded Human Connectome Project (HCP). It was completed several years ago and now serves as a valuable online resource for researchers,</ref><ref>{{cite journal
+  |title=The human connectome project: a retrospective
+  |last1= Elam |first1= Jennifer Stine |last2= Glasser |first2= Matthew F. |last3= Harms |first3= Michael P.
+  |last4= Sotiropoulos |first4= Stamatios N. |last5= Andersson |first5= Jesper L.R. |last6= Burgess |first6= Gregory C.
+  |last7= Curtiss |first7= Sandra W. |last8= Oostenveld |first8= Robert |last9= Larson-Prior |first9= Linda J.
+  |last10= Schoffelen |first10= Jan-Mathijs |last11= Hodge |first11= Michael R. |last12= Cler |first12= Eileen A.
+  |last13= Marcus |first13= Daniel M. |last14= a |first14= Deanna M. Barch |last15= Yacoub |first15= Essa
+  |last16= Smith |first16= Stephen M. |last17= Ugurbil |first17= Kamil |last18= Essen |first18= David C. Van
+  |journal=NeuroImage
+  |volume=244
+  |pages=118543
+  |year=2021
+  |url=https://www.sciencedirect.com/science/article/pii/S1053811921008168
+  |publisher=Elsevier }}</ref>  A number of new projects have started based on the results.<ref name="successors">{{cite web |url=https://www.humanconnectome.org/ |title=Connectome Coordination Facilty}}</ref>
+
+== Useful links ==
+
+* [https://wiki.humanconnectome.org/ HCP wiki] - Human Connectome Project wiki
+* [https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FIX ICA-FIX] - Documentation on ICA-FIX algorithm used on resting state fMRI data<ref name="pmid23702415">{{Cite journal |last1=Smith |first1=Stephen M |last2=Beckmann |first2=Christian F |last3=Andersson |first3=Jesper |last4=Auerbach |first4=Edward J |last5=Bijsterbosch |first5=Janine |last6=Douaud |first6=Gwenaëlle |last7=Duff |first7=Eugene |last8=Feinberg |first8=David A |last9=Griffanti |first9=Ludovica |last10=Harms |first10=Michael P |last11=Kelly |first11=Michael |year=2013 |title=Resting-state fMRI in the Human Connectome Project |journal=NeuroImage |volume=80 |pages=144–68 |doi=10.1016/j.neuroimage.2013.05.039 |pmc=3720828 |pmid=23702415 |last12=Laumann |first12=Timothy |last13=Miller |first13=Karla L |last14=Moeller |first14=Steen |last15=Petersen |first15=Steve |last16=Power |first16=Jonathan |last17=Salimi-Khorshidi |first17=Gholamreza |last18=Snyder |first18=Abraham Z |last19=Vu |first19=An T |last20=Woolrich |first20=Mark W |last21=Xu |first21=Junqian |last22=Yacoub |first22=Essa |last23=Uğurbil |first23=Kamil |last24=Van Essen |first24=David C |last25=Glasser |first25=Matthew F}}</ref><ref name="pmid27989777">{{Cite journal |last1=Griffanti |first1=Ludovica |last2=Douaud |first2=Gwenaëlle |last3=Bijsterbosch |first3=Janine |last4=Evangelisti |first4=Stefania |last5=Alfaro-Almagro |first5=Fidel |last6=Glasser |first6=Matthew F |last7=Duff |first7=Eugene P |last8=Fitzgibbon |first8=Sean |last9=Westphal |first9=Robert |last10=Carone |first10=Davide |last11=Beckmann |first11=Christian F |year=2017 |title=Hand classification of fMRI ICA noise components |journal=NeuroImage |volume=154 |pages=188–205 |doi=10.1016/j.neuroimage.2016.12.036 |pmc=5489418 |pmid=27989777 |last12=Smith |first12=Stephen M}}</ref><ref name="pmid24389422">{{Cite journal |last1=Salimi-Khorshidi |first1=Gholamreza |last2=Douaud |first2=Gwenaëlle |last3=Beckmann |first3=Christian F |last4=Glasser |first4=Matthew F |last5=Griffanti |first5=Ludovica |last6=Smith |first6=Stephen M |year=2014 |title=Automatic denoising of functional MRI data: Combining independent component analysis and hierarchical fusion of classifiers |journal=NeuroImage |volume=90 |pages=449–68 |doi=10.1016/j.neuroimage.2013.11.046 |pmc=4019210 |pmid=24389422}}</ref>
+
+==See also==
+* ''[[Connectome: How the Brain's Wiring Makes Us Who We Are]]''
+* [[Connectomics]]
+* [[Connectogram]]
+* [[Human Brain Project]]
+* [[Outline of brain mapping]]
+* [[Outline of the human brain]]
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name="BBC_2013-02-16">{{Cite news |last1=Ghosh |first1=Pallab |url=https://www.bbc.co.uk/news/av/science-environment-21489097 |title=Inside the brain's wiring |date=2013-02-16 |access-date=2013-02-16 |publisher=[[BBC News Online]] |last2=Van Wedeen, M.D. |location=[[Boston]] |format=video}}</ref>
+
+<ref name="NIH_Blueprint">{{cite web |title=The Human Connectome Project |url=https://www.ninds.nih.gov/current-research/trans-agency-activities/nih-blueprint-neuroscience-research |archive-url=https://web.archive.org/web/20130214002244/http://neuroscienceblueprint.nih.gov/connectome/index.htm |work=[[NIH Blueprint for Neuroscience Research]] |publisher=[[National Institutes of Health]] |archive-date=2013-02-14 |access-date=2025-03-07 |url-status=live}}</ref>
+
+<ref name="NIH_2009-07-15">{{Citation |title=NIH Launches the Human Connectome Project to Unravel the Brain's Connections |date=2009-07-15 |url=http://www.nih.gov/news/health/jul2009/ninds-15.htm |archive-url=https://web.archive.org/web/20090717123847/http://www.nih.gov/news/health/jul2009/ninds-15.htm |url-status=dead |archive-date=July 17, 2009 |publisher=[[National Institutes of Health]] |access-date=2013-02-16}}</ref>
+
+<ref name = "NIH_2010-09-15">{{Citation
+  | title       = $40 million awarded to trace human brain's connections
+  | url         = http://www.nih.gov/news/health/sep2010/nimh-15.htm
+  | archive-url = https://archive.today/20120805085059/http://www.nih.gov/news/health/sep2010/nimh-15.htm
+  | url-status  = dead
+  | archive-date = August 5, 2012
+  | quote       = Souped-up scanners to reveal intricate circuitry in high resolution
+  | publisher   = [[National Institutes of Health]]
+  | date        = 2010-09-15
+  | access-date  = 2013-02-16
+}}</ref>
+
+<ref name="UCLA_LNI">{{Citation
+ |title       = Sample diffusion MRI image of brain
+ |url         = http://www.loni.ucla.edu/~thompson/HARDI-IQ/hardi3.jpg
+ |publisher   = [[UCLA]]
+ |work        = [[Laboratory of Neuro Imaging]]
+ |access-date  = 2013-02-16
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20120305164458/http://www.loni.ucla.edu/~thompson/HARDI-IQ/hardi3.jpg
+ |archive-date = 2012-03-05
+}}</ref>
+
+}}
+
+==External links==
+* [http://humanconnectome.org/consortia Official website of the Human Connectome Project]
+* [http://humanconnectomeproject.org/ Home of the Harvard/MGH-UCLA consortium Human Connectome Project]
+* {{Citation
+  | title       = The Human Connectome Project
+  | url         = http://humanconnectome.org/
+  | publisher   = [[Washington University School of Medicine]]
+  | work        = NIH Blueprint
+  | location    = [[St. Louis, Missouri]]
+  | access-date  = 2013-02-16
+}}
+* {{Citation
+  | title       = The Human Connectome Project
+  | url         = http://nrg.wustl.edu/project/hcp/
+  | publisher   = [[Washington University School of Medicine]]
+  | work        = Neuroinformatics Research Group
+  | location    = [[St. Louis, Missouri]]
+  | access-date  = 2013-02-16
+}}
+* [https://www.ninds.nih.gov/current-research/trans-agency-activities/nih-blueprint-neuroscience-research The Human Connectome Project] [[NIH Blueprint for Neuroscience Research]]
+* [http://www.nitrc.org/projects/hcp The NITRC Human Connectome Project (HCP)] at [[Neuroimaging Informatics Tools and Resources Clearinghouse (NITRC)]]
+;Related Connectome Projects
+* [http://humanconnectome.org/consortia The umbrella site for all Human Connectome Project work funded by the NIH]
+* [https://web.archive.org/web/20110418195922/http://openconnectomeproject.org/ Open Connectome Project]
+* [http://eyewire.org on-line game tracing neurons in the retina] [[EyeWire]], a project developed by [[MIT]] and the [[Max Planck Institute for Medical Research]]
+* [http://www.developingconnectome.org/project/ developing Human Connectome Project] The [[developing Human Connectome Project]], a project led by [[King's College London]], [[Imperial College London]] and [[University of Oxford]], aims to make major scientific progress by creating the first 4-dimensional connectome of early life. 
+;Press releases
+* {{cite press release
+  | first       = Michael 
+  | last        = Purdy 
+  | title       = $30 million project will map the brain's wiring
+  | url         = http://news.wustl.edu/news/Pages/21153.aspx
+  | publisher   = [[Washington University School of Medicine]]
+  | location    = [[St. Louis, Missouri]]
+  | date        = 2010-09-15
+  | access-date  = 2012-02-16
+}}
+* {{cite press release
+  | first       = Jules
+  | last        = Asher
+  | title       = Brain wiring a no-brainer? 
+  | quote       = Scans reveal astonishingly simple 3D grid structure — NIH-funded study
+  | url         = http://www.nih.gov/news/health/mar2012/nimh-29.htm
+  | archive-url = https://web.archive.org/web/20120401183246/http://www.nih.gov/news/health/mar2012/nimh-29.htm
+  | url-status  = dead
+  | archive-date = April 1, 2012
+  | publisher   = [[National Institutes of Health]]
+  | date        = 2012-03-29
+  | access-date  = 2013-02-16
+}}
+;News reports
+* {{Citation
+  | first       = Partha
+  | last        = Mitra
+  | title       = The Brain's Highways: Mapping the Last Frontier
+  | quote       = Are neurons organized like roads?
+  | url         = http://www.scientificamerican.com/article.cfm?id=brains-highways-mapping-last-frontier
+  | publisher   = [[Scientific American]]
+  | date        = 2012-05-22
+  | access-date  = 2013-02-16
+}}
+* {{Citation
+  | first       = Clay
+  | last        = Dillow
+  | title       = The Human Connectome Project Is a First-of-its-Kind Map of the Brain's Circuitry
+  | url         = http://www.popsci.com/science/article/2010-09/introducing-human-connectome-project-first-its-kind-map-brains-circuitry
+  | publisher   = [[Popular Science]]
+  | date        = 2010-09-16
+  | access-date  = 2013-02-16
+}}
+* {{Citation
+  | title       = $30 million project will map the brain's wiring
+  | url         = http://www.medicaldaily.com/articles/2012/20100916/30-million-project-will-map-the-brains-wiring.htm
+  | publisher   = The Medical Daily
+  | date        = 2010-09-16
+  | access-date  = 2013-02-16
+}}
+* {{Citation
+  | first       = Georgina
+  | last        = Gustin
+  | title       = Brain mapping study centered in St. Louis
+  | url         = http://www.stltoday.com/news/local/metro/article_1679462e-4308-5f25-94ed-a4d2736b5d6c.html
+  | publisher   = [[St. Louis Post-Dispatch]]
+  | date        = 2010-10-08
+  | access-date  = 2013-02-16
+}}
+
+{{Human connectomics}}
+{{HCP Research Network}}
+{{Genomics}}
+
+[[Category:Cognitive neuroscience]]
+[[Category:Computational neuroscience]]
+[[Category:Neuroscience projects]]

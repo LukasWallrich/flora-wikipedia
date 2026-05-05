@@ -1,0 +1,95 @@
+{{Short description|American psychologist}}
+{{Infobox scientist
+| name        = Eldar Shafir
+| native_name = אלדר שפיר
+| native_name_lang = he
+| image       =         Eldar Shafir.jpg
+| image_size  = 150
+| alt         = 
+| caption     = 
+| birth_date  =     1959
+| birth_place = 
+| death_date  =         <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place = 
+| death_cause = 
+| resting_place = 
+| resting_place_coordinates =  <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names = 
+| residence   = 
+| citizenship = 
+| fields      = Behavioural science
+| workplaces  = Princeton University Department of Psychology
+| patrons     = 
+| education   = Brown University 
+| alma_mater  = Massachusetts Institute of Technology
+| thesis_title =        <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url  =         <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year =         <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor = [[Daniel Osherson]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students = 
+| known_for   = Scarcity: Why Having Too Little Means So Much
+| influences  = 
+| influenced  = 
+| awards      = Guggenheim Fellowship 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse      =         <!--(or | spouses = )-->
+| partner     =         <!--(or | partners = )-->
+| children    = 
+| signature   =         <!--(filename only)-->
+| signature_alt = 
+| website     =         <!--{{URL|www.example.com}}-->
+| footnotes   = 
+}}
+
+'''Eldar Shafir''' ([[Hebrew]]: אלדר שפיר ''eldár shafír'', born 1959) is an American behavioral scientist, and the co-author of ''[[Scarcity: Why Having Too Little Means So Much]]''<ref>{{cite web|title=''Scarcity: Why Having Too Little Means So Much''|url=http://sc.arcity.co/|publisher=sc.arcity|access-date=2013-07-30|archive-date=2019-09-18|archive-url=https://web.archive.org/web/20190918221101/http://sc.arcity.co/|url-status=dead}}</ref> (with [[Sendhil Mullainathan]]). He is the Class of 1987 Professor in Behavioral Science and Public Policy; Professor of Psychology and Public Affairs at [[Princeton University Department of Psychology]] and the [[Princeton School of Public and International Affairs]], and Inaugural Director of Princeton’s Kahneman-Treisman Center for Behavioral Science and Public Policy.
+
+Shafir is a Faculty Associate at the [[Institute for Quantitative Social Science]] at [[Harvard University]]. He is co-founder, Board Member, and scientific director at [[Ideas42]], a non-profit organization that uses behavioral science to help solve tough social problems. His main area of study is [[behavioral economics]], that is, how the decisions people make affect their financial outcomes.  His research has led him to the general conclusion that people often make inadvisable decisions on financial matters when they think they are being rational.<ref name="rationality">{{cite journal|author2=Eldar Shafir|author3=Robyn A. LeBoeuf|name-list-style=amp|title=Rationality|journal=Annual Review of Psychology|date=February 2002|volume=53|pages=491–517|doi=10.1146/annurev.psych.53.100901.135213|last1=Shafir|first1=Eldar|pmid=11752494}}</ref>
+
+==Education and career==
+Shafir graduated from [[Brown University]] and received his Ph.D. in [[Cognitive Science]] in 1988 from the [[Massachusetts Institute of Technology]].<ref name=ipa>{{cite web|title=Eldar Shafir |url=http://www.poverty-action.org/node/149 |publisher=Innovations for Poverty Action |access-date=April 23, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120419190845/http://www.poverty-action.org/node/149 |archive-date=April 19, 2012 }}</ref> He is a Professor of Psychology and Public Affairs at [[Princeton University Department of Psychology]] and the [[Princeton School of Public and International Affairs]] and a Faculty Associate at the Institute for Quantitative Social Science at [[Harvard University]].<ref name=lapa>{{cite web|title=Eldar Shafir|url=http://lapa.princeton.edu/peopledetail.php?ID=331|publisher=Princeton University|access-date=April 23, 2012|archive-date=June 3, 2013|archive-url=https://web.archive.org/web/20130603011728/http://lapa.princeton.edu/peopledetail.php?ID=331|url-status=dead}}</ref> He is Past President of the [[Society for Judgment and Decision Making]], member of the Institute for Advanced Study in Toulouse,
+Senior Fellow of the [[Canadian Institute for Advanced Research]], Research Affiliate of [[Innovations for Poverty Action]], member of the Behavioral Economics Roundtable of the [[Russell Sage Foundation]], and Vice-Chair of the World Economic Forum’s Global Agenda Council on Behaviour. among several other research organizations.<ref name=ipa /> In January of 2012, President Barack Obama appointed him to the [[President’s Advisory Council on Financial Capability]]. The Council's task was to consider ways to strengthen financial capability across the country.<ref name=council>{{cite news|title=Remarks By Treasury Deputy Secretary Neal Wolin Before The President's Advisory Council On Financial Capability |url=http://www.thecypresstimes.com/article/News/National_News/REMARKS_BY_TREASURY_DEPUTY_SECRETARY_NEAL_WOLIN_BEFORE_THE_PRESIDENTS_ADVISORY_COUNCIL_ON_FINANCIAL_CAPABILITY/58430 |access-date=April 23, 2012 |newspaper=Cypress Times |date=April 9, 2012 }}{{dead link|date=December 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+Along with [[Peter Diamond]] and [[Amos Tversky]], Shafir is a proponent of the [[Money illusion]], compiling empirical evidence for the existence of this effect, both in experiments and in real world situations.<ref name="Shafir">{{Cite journal |last1=Shafir |first1=E. |last2=Diamond |first2=P. A. |last3=Tversky |first3=A. |year=1997 |title=On Money Illusion |journal=Quarterly Journal of Economics |volume=112 |issue=2 |pages=341–374 |doi=10.1162/003355397555208 }}</ref>
+
+==Behavioral economics==
+Eldar Shafir's general area of research interest is [[decision making]], especially [[behavioral economics]]: the study of how people make everyday decisions. Empirically based, his research draws from the fields of psychology and economics to support the view that decision making is often not based on what is assumed by rational agent models.<ref name=lambert>{{cite news|last=Lambert|first=Craig|title=The Marketplace of Perceptions|url=http://harvardmagazine.com/2006/03/the-marketplace-of-perce.html|access-date=April 23, 2012|newspaper=Harvard Magazine|date=March–April 2006}}</ref>   Shafir examines the effects of social, cognitive and emotional factors on economic decisions, such as the behavior of people who are in [[conflict (process)|conflict]] and feel [[uncertainty]] when faced with making a decision. For instance, in a study with [[Amos Tversky]] involving Princeton students, it was found that people tend to find ways not to decide when faced with complicated and consequential decision.<ref>{{Cite book|url=https://books.google.com/books?id=JuE7q3e4158C&q=decision+making+eldar+shafir&pg=PT11|title=Critical Decisions: How You and Your Doctor Can Make the Right Medical Choices Together|last=Ubel|first=Peter A.|date=2012-09-11|publisher=Harper Collins|isbn=9780062103888|language=en}}</ref> The same outcome was found in the case of physicians in the [[United States]] and [[Canada]], who make decisions that may not always be in the best interest of patients when they involve several options.<ref name=":0">{{Cite journal|last=Kaple|first=Deborah|date=September 11, 1996|title=Doing, Learning, Remembering|journal=Princeton Alumni Weekly|volume=97|pages=12–14}}</ref> These are against the assumption that once a person faces a set of options and is equipped with some method of evaluation, he would choose the best alternative.<ref name=":0" />
+
+Shafir is a proponent of the existence of the [[money illusion]] effect, the hypothesis that people tend to think of currency in [[real versus nominal value (economics)|nominal, rather than real]], terms;<ref name="tversky">{{Cite book|chapter=Money Illusion|first1=Eldar|last1=Shafir|first2=Peter|last2=Diamond|first3=Amos|last3=Tversky|pages=335–355|editor1-first=Daniel |editor1-last=Kahneman|editor2-first=Amos|editor2-last=Tversky|title=Choices, values, and frames|year=2000|publisher=Cambridge University Press|isbn=978-0-521-62749-8 }}</ref> People do not make rational financial decisions if they typically mistake the face value of money (its nominal value)  for its [[purchasing power]] (real value), and this has implications for economic theory and public policy.  In a series of empirical studies, Shafir, together with researchers [[Peter A. Diamond|Peter Diamond]] and Tversky  have provided evidence from experimental and real world situations that a number of factors such as [[cognitive biases]] affect decision making.<ref name="shafir">{{Cite journal |last1=Shafir |first1=E. |last2=Diamond |first2=Peter |last3=Tversky |first3=Amos |year=1997 |title=On Money Illusion |journal=Quarterly Journal of Economics |volume=112 |issue=2 |pages=341–374 |doi=10.1162/003355397555208 }}</ref><ref name="shafir2">Eldar Shafir, [[Peter A. Diamond|Peter Diamond]], and [[Amos Tversky]], 1997. "Money Illusion," ''Quarterly Journal of Economics'', 112(2), pp. [https://www.jstor.org/pss/2951239 341]-374.</ref>
+
+==Decision making and poverty==
+Shafir's current{{when|date=June 2019}} interest is the effect of poverty on decision making, the psychology of "not having enough".<ref name=princeton /> He began focusing on this research topic when he received a grant from the [[Russell Sage Foundation]] to examine "the perceptions, attitudes, and decisions of those living in poverty to determine if they make financial decisions on a different basis than those of others."<ref name=sage>{{cite web|title=Decision Making Under Poverty: A Behavioral Research Program|url=http://www.russellsage.org/awarded-project/decision-making-under-poverty-behavioral-research-program|publisher=Russell Sage Foundation|access-date=April 27, 2012}}</ref>
+
+There are two general schools of thought regarding poverty. One says the poor act rationally but have deviant values leading to a "culture of the poor". The second holds that because of faulty attitudes and psychological problems, the poor make poor choices. Shafir and his colleagues proposed a third view: that there is no difference in methods of calculating outcomes between the poor and other people. The poor make the same errors in decision making as everyone else, but because the margin of error is much smaller for the poor, their bad decisions lead to worse consequences.<ref name=poverty>{{cite journal|author2=Marianne Bertran|author3=Sendhil Mullainathan|author4=Eldar Shafir|name-list-style=amp|title=A behavioral-economics view of poverty|journal=The American Economic Review|date=May 2004|volume=94|issue=2|pages=419–423|jstor=3592921|doi=10.1257/0002828041302019|last1=Bertrand|first1=Marianne|s2cid=2865749 |url=https://dash.harvard.edu/bitstream/handle/1/2907437/behav%20econ%20poverty.pdf?sequence=2}}</ref> Specifically, it was shown that poverty is like other types of scarcity such as time and [[dieting]], which adversely affect  people's cognitive performance and control.<ref>{{Cite book|title=Behavioral Law and Economics|last1=Zamir|first1=Eyal|last2=Teichman|first2=Doron|publisher=Oxford University Press|year=2018|isbn=9780190901349|location=Oxford|pages=484}}</ref>
+
+However, recent{{when|date=June 2019}} studies have shown that the psychology of the poor is similar to that of people who are stressed for other reasons such as from working too hard, those who are lonely and without connections or those who lack calories because they are on a diet, according to Shafir. "The idea is that there is a psychology that comes from not having enough, and it makes you focus heavily on what you don’t have," he said. "This makes you neglect things that are outside the domain of your focus, and people tend to over-borrow and misplan."<ref name=princeton />
+
+In addition to investigating how poverty shapes the lives of people because of its effects on the poor's decision making, Shafir has also examined how others' biased beliefs about poverty can be harmful for the poor. Indeed, a series of 18 studies co-authored by Shafir showed that people display a "thick skin bias," whereby they erroneously believe that the poor have been "toughened" by poverty, such that they are less harmed by negative events. Although this bias is false, a wide range of people show it, including professionals in customer service, education, and mental healthcare contexts, and it has potentially important implications for interpersonal relationships and for policy.<ref>{{Cite journal|last1=Cheek|first1=Nathan N.|last2=Shafir|first2=Eldar|date=2020-08-14|title=The thick skin bias in judgments about people in poverty|url=https://www.cambridge.org/core/product/identifier/S2398063X20000330/type/journal_article|journal=Behavioural Public Policy|language=en|pages=1–26|doi=10.1017/bpp.2020.33|issn=2398-063X|doi-access=free}}</ref>
+
+==Awards and memberships==
+In 2012, Shafir was awarded a [[Guggenheim Fellowship]]; he said he would use the money to continue his research on psychology of scarcity.<ref name=princeton>{{cite news|last=Lei|first=Catherine|title=Faculty members receive Guggenheim Fellowship|url=http://www.dailyprincetonian.com/2012/04/18/30664/|archive-url=https://archive.today/20130120061020/http://www.dailyprincetonian.com/2012/04/18/30664/|url-status=dead|archive-date=January 20, 2013|access-date=April 23, 2012|newspaper=Daily Princeton|date=April 18, 2012}}</ref>  Previously{{when|date=June 2019}}, Shafir received the Hillel Einhorn New Investigator Award from the Society for Judgment and Decision Making, and the Chase Memorial Award. He was named one of Foreign Policy Magazine’s 100 Leading Global Thinkers of 2013. He is an elected member of the American Academy of Arts and Sciences.
+
+==References==
+{{reflist|colwidth=33em}}
+
+==External links==
+* [http://wws.princeton.edu/faculty-research/faculty/shafir WWS] {{Webarchive|url=https://web.archive.org/web/20160530005444/http://wws.princeton.edu/faculty-research/faculty/shafir |date=2016-05-30 }}
+* [http://ideas42.org ideas42]
+
+{{Instecon}}
+{{Authority control}}
+
+{{DEFAULTSORT:Shafir, Eldar}}
+[[Category:Living people]]
+[[Category:American cognitive psychologists]]
+[[Category:Experimental economists]]
+[[Category:Behavioral finance]]
+[[Category:American behavioral economists]]
+[[Category:Princeton University faculty]]
+[[Category:Brown University alumni]]
+[[Category:MIT School of Science alumni]]
+[[Category:Harvard University faculty]]
+[[Category:Place of birth missing (living people)]]
+[[Category:1959 births]]

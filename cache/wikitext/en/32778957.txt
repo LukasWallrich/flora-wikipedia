@@ -1,0 +1,257 @@
+{{Short description|Sections of the genome experiencing minimal changes across species}}
+{{cs1 config|name-list-style=vanc|display-authors=6}}
+An '''ultraconserved element''' (UCE) is a region of the [[genome]] that is shared between evolutionarily distant [[taxon|taxa]] and shows little or no variation between those taxa. These regions and regions adjacent to them (flanking DNA) are useful for tracing the evolutionary history of groups of organisms.<ref name="Faircloth_2012">{{cite journal | vauthors = Faircloth BC, McCormack JE, Crawford NG, Harvey MG, Brumfield RT, Glenn TC | title = Ultraconserved elements anchor thousands of genetic markers spanning multiple evolutionary timescales | journal = Systematic Biology | volume = 61 | issue = 5 | pages = 717–726 | date = October 2012 | pmid = 22232343 | doi = 10.1093/sysbio/sys004 }}</ref><ref name="Zhang_2019">{{cite journal | vauthors = Zhang YM, Williams JL, Lucky A | title = Understanding UCEs: A Comprehensive Primer on Using Ultraconserved Elements for Arthropod Phylogenomics | journal = Insect Systematics and Diversity | volume = 3 | issue = 5 | date = 3 September 2019 | article-number = 3 | doi = 10.1093/isd/ixz016 | doi-access = free }}</ref> Another term for ultraconserved element is '''ultraconserved region''' (UCR).
+
+The term "ultraconserved element" was originally defined as a genome segment longer than 200 [[Base pair|base pairs]] (bp) that is absolutely conserved, with no insertions or deletions and 100% identity, between [[orthologous]] regions of the human, rat, and mouse genomes.<ref name="Reneker_2012">{{cite journal | vauthors = Reneker J, Lyons E, Conant GC, Pires JC, Freeling M, Shyu CR, Korkin D | title = Long identical multispecies elements in plant and animal genomes | journal = Proceedings of the National Academy of Sciences of the United States of America | volume = 109 | issue = 19 | pages = E1183–E1191 | date = May 2012 | pmid = 22496592 | pmc = 3358895 | doi = 10.1073/pnas.1121356109 | doi-access = free }}</ref><ref name="Bejerano_2004">{{cite journal | vauthors = Bejerano G, Pheasant M, Makunin I, Stephen S, Kent WJ, Mattick JS, Haussler D | title = Ultraconserved elements in the human genome | journal = Science | volume = 304 | issue = 5675 | pages = 1321–1325 | date = May 2004 | pmid = 15131266 | doi = 10.1126/science.1098119 | bibcode = 2004Sci...304.1321B | s2cid = 2790337 | citeseerx = 10.1.1.380.9305 }}</ref> 481 of these segments have been identified in the [[human genome]].<ref name="Reneker_2012" /><ref name="Bejerano_2004" /> If [[ribosomal DNA]] (rDNA regions) are excluded, these range in size from 200 bp to 781 bp.<ref name="Bejerano_2004" /> UCEs are found on all human [[chromosome]]s except for 21 and Y.<ref name="Pereira Zambalde-2020" />
+
+Since its creation, this term's usage has broadened to include more evolutionarily distant species or shorter segments, for example 100 bp instead of 200 bp.<ref name="Reneker_2012" /><ref name="Bejerano_2004" /> By some definitions, segments need not be [[Synteny|syntenic]] between species.<ref name="Reneker_2012" /> Human UCEs also show high conservation with more evolutionarily distant species, such as chicken and [[fugu]].<ref name="Bejerano_2004" /> Out of 481 identified human UCEs, approximately 97% align with high identity to the chicken genome, though only 4% of the human genome can be reliably aligned to the chicken genome.<ref name="Bejerano_2004" /> Similarly, the same sequences in the fugu genome have 68% identity to human UCEs, despite the human genome only reliably aligning to 1.8% of the fugu genome.<ref name="Bejerano_2004" /> Despite often being [[noncoding DNA]],<ref name="Katzman_2007">{{cite journal | vauthors = Katzman S, Kern AD, Bejerano G, Fewell G, Fulton L, Wilson RK, Salama SR, Haussler D | title = Human genome ultraconserved elements are ultraselected | journal = Science | volume = 317 | issue = 5840 | pages = 915 | date = August 2007 | pmid = 17702936 | doi = 10.1126/science.1142430 | s2cid = 35322654 | bibcode = 2007Sci...317..915K }}</ref> some ultraconserved elements have been found to be transcriptionally active, producing [[non-coding RNA]] molecules.<ref name="Calin_2007">{{cite journal | vauthors = Calin GA, Liu CG, Ferracin M, Hyslop T, Spizzo R, Sevignani C, Fabbri M, Cimmino A, Lee EJ, Wojcik SE, Shimizu M, Tili E, Rossi S, Taccioli C, Pichiorri F, Liu X, Zupo S, Herlea V, Gramantieri L, Lanza G, Alder H, Rassenti L, Volinia S, Schmittgen TD, Kipps TJ, Negrini M, Croce CM | title = Ultraconserved regions encoding ncRNAs are altered in human leukemias and carcinomas | journal = Cancer Cell | volume = 12 | issue = 3 | pages = 215–229 | date = September 2007 | pmid = 17785203 | doi = 10.1016/j.ccr.2007.07.027 | doi-access = free }}</ref>
+
+==Evolution==
+Researchers originally assumed that perfect conservation of these long stretches of DNA implied [[evolution]]ary importance, as these regions appear to have experienced strong [[Negative selection (natural selection)|negative (purifying) selection]] for 300-400 million years.<ref name="Bejerano_2004" /><ref name="Katzman_2007" /><ref>{{cite journal | vauthors = Sathirapongsasuti JF, Sathira N, Suzuki Y, Huttenhower C, Sugano S | title = Ultraconserved cDNA segments in the human transcriptome exhibit resistance to folding and implicate function in translation and alternative splicing | journal = Nucleic Acids Research | volume = 39 | issue = 6 | pages = 1967–1979 | date = March 2011 | pmid = 21062826 | pmc = 3064809 | doi = 10.1093/nar/gkq949 }}</ref> More recently, this assumption has been replaced by two main hypotheses: that UCEs are created through a reduced negative selection rate, or through reduced [[mutation]] rates, also known as a "cold spot" of evolution.<ref name="Reneker_2012" /><ref name="Bejerano_2004" /> Many studies have examined the validity of each hypothesis. The probability of finding ultraconserved elements by chance (under [[Neutral theory of molecular evolution|neutral evolution]]) has been estimated at less than 10<sup>−22</sup> in 2.9 billion bases.<ref name="Bejerano_2004" /> In support of the cold spot hypothesis, UCEs were found to be mutating 20 fold less than expected under conservative models for neutral mutation rates.<ref name="Bejerano_2004" /> This [[fold change]] difference in mutation rates was consistent between humans, chimpanzees, and chickens.<ref name="Bejerano_2004" /> Ultraconserved elements are not exempt from mutations, as exemplified by the presence of 29,983 polymorphisms in the UCE regions of the human genome assembly [[GRCh38]].<ref name="Habic_2019">{{cite journal | vauthors = Habic A, Mattick JS, Calin GA, Krese R, Konc J, Kunej T | title = Genetic Variations of Ultraconserved Elements in the Human Genome | journal = Omics | volume = 23 | issue = 11 | pages = 549–559 | date = November 2019 | pmid = 31689173 | pmc = 6857462 | doi = 10.1089/omi.2019.0156 }}</ref> However, affected phenotypes were only caused by 112 of these [[Polymorphism (biology)|polymorphisms]], most of which were located in coding regions of the UCEs.<ref name="Habic_2019" /> A study performed in mice determined that deleting UCEs from the genome did not create obvious deleterious phenotypes, despite deletion of UCEs in proximity to promoters and [[protein]] coding genes.<ref name="Ahituv_2007">{{cite journal | vauthors = Ahituv N, Zhu Y, Visel A, Holt A, Afzal V, Pennacchio LA, Rubin EM | title = Deletion of ultraconserved elements yields viable mice | journal = PLOS Biology | volume = 5 | issue = 9 | date = September 2007 | pmid = 17803355 | pmc = 1964772 | doi = 10.1371/journal.pbio.0050234 | doi-access = free | article-number = e234 }}</ref> Affected mice were fertile and targeted screens of the nearby coding genes showed no altered [[phenotype]].<ref name="Ahituv_2007" /> A separate mouse study demonstrated that ultraconserved enhancers were robust to [[mutagenesis]], concluding that perfect conservation of UCE sequences is not required for their function, which would suggest another reason for the sequence consistency besides evolutionary importance.<ref name="Snetkova_2021">{{cite journal | vauthors = Snetkova V, Ypsilanti AR, Akiyama JA, Mannion BJ, Plajzer-Frick I, Novak CS, Harrington AN, Pham QT, Kato M, Zhu Y, Godoy J, Meky E, Hunter RD, Shi M, Kvon EZ, Afzal V, Tran S, Rubenstein JL, Visel A, Pennacchio LA, Dickel DE | title = Ultraconserved enhancer function does not require perfect sequence conservation | journal = Nature Genetics | volume = 53 | issue = 4 | pages = 521–528 | date = April 2021 | pmid = 33782603 | pmc = 8038972 | doi = 10.1038/s41588-021-00812-3 }}</ref> Computational analysis of human [[ultraconserved noncoding elements]] (UCNEs) found that the regions are enriched for A-T sequences and are generally GC poor.<ref name="Fedorova_2022">{{cite journal | vauthors = Fedorova L, Mulyar OA, Lim J, Fedorov A | title = Nucleotide Composition of Ultra-Conserved Elements Shows Excess of GpC and Depletion of GG and CC Dinucleotides | journal = Genes | volume = 13 | issue = 11 | pages = 2053 | date = November 2022 | pmid = 36360290 | pmc = 9690913 | doi = 10.3390/genes13112053 | doi-access = free }}</ref> However, the UNCEs were found to be enriched for [[CpG site|CpG]], or highly [[Methylation|methylated]].<ref name="Fedorova_2022" /> This may indicate that there is some change to DNA structure in these regions favoring their precise retention, but this possibility has not been validated through testing.<ref name="Fedorova_2022" />
+
+== Function ==
+Often, ultraconserved elements are located near transcriptional regulators or developmental genes performing functions such as gene [[enhancer (genetics)|enhancing]] and [[RNA splicing|splicing]] regulation.<ref name="Reneker_2012" /><ref name="Bejerano_2004" /><ref name="Woolfe_2005">{{cite journal | vauthors = Woolfe A, Goodson M, Goode DK, Snell P, McEwen GK, Vavouri T, Smith SF, North P, Callaway H, Kelly K, Walter K, Abnizova I, Gilks W, Edwards YJ, Cooke JE, Elgar G | title = Highly conserved non-coding sequences are associated with vertebrate development | journal = PLOS Biology | volume = 3 | issue = 1 | pages = e7 | date = January 2005 | pmid = 15630479 | pmc = 526512 | doi = 10.1371/journal.pbio.0030007 | doi-access = free }} {{lay source |template=cite web |url= https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0030019 |title= Unexpressed but Indispensable—The DNA Sequences That Control Development | veditors = Bedell JA, Budiman MA, Nunberg A, Citek RW, Robbins D |date= January 2005|agency= |work= LOS Biology |doi=10.1371/journal.pbio.0030019|pmc=544543 | doi-access = free }}</ref> A study comparing ultraconserved elements between humans and the Japanese puffer fish ''[[Takifugu rubripes]]'' proposed an importance in [[vertebrate]] development.<ref name="Woolfe_2005" /> Double-[[Gene knockout|knockouts]] of UCEs near the [[Aristaless related homeobox|ARX gene]] in mice caused a shrunken [[hippocampus]] in the brain, though the effect was not lethal.<ref>[[Elizabeth Pennisi]] (2017) [https://www.science.org/doi/10.1126/science.356.6341.892 Mysterious unchanging DNA finds a purpose in life], ''Science'' 02 Jun 2017]</ref> Some UCEs are not transcribed, and are referred to as ultraconserved noncoding elements.<ref name="Fedorova_2022" /> However, many UCRs in humans are extensively transcribed.<ref name="Calin_2007" /> A small number of those which are transcribed, known as transcribed UCEs (T-UCEs), have been connected with human [[carcinoma]]s and [[leukemia]]s.<ref name="Calin_2007" /> For example, [[TUC338]] is strongly upregulated in human [[hepatocellular carcinoma]] cells.<ref>{{cite journal | vauthors = Braconi C, Valeri N, Kogure T, Gasparini P, Huang N, Nuovo GJ, Terracciano L, Croce CM, Patel T | title = Expression and functional role of a transcribed noncoding RNA with an ultraconserved element in hepatocellular carcinoma | journal = Proceedings of the National Academy of Sciences of the United States of America | volume = 108 | issue = 2 | pages = 786–791 | date = January 2011 | pmid = 21187392 | pmc = 3021052 | doi = 10.1073/pnas.1011098108 | doi-access = free | bibcode = 2011PNAS..108..786B }}</ref> Indeed, UCEs are often affected by [[copy number variation]] in cancer cells much more than in healthy contexts, suggesting that altering the copy number of T-UCEs may be deleterious.<ref name="McCole_2014">{{cite journal | vauthors = McCole RB, Fonseka CY, Koren A, Wu CT | title = Abnormal dosage of ultraconserved elements is highly disfavored in healthy cells but not cancer cells | journal = PLOS Genetics | volume = 10 | issue = 10 | date = October 2014 | pmid = 25340765 | pmc = 4207606 | doi = 10.1371/journal.pgen.1004646 | doi-access = free | article-number = e1004646 }}</ref><ref>{{cite journal | vauthors = Derti A, Roth FP, Church GM, Wu CT | title = Mammalian ultraconserved elements are strongly depleted among segmental duplications and copy number variants | journal = Nature Genetics | volume = 38 | issue = 10 | pages = 1216–1220 | date = October 2006 | pmid = 16998490 | doi = 10.1038/ng1888 | s2cid = 10671674 }}</ref><ref>{{cite journal | vauthors = Chiang CW, Derti A, Schwartz D, Chou MF, Hirschhorn JN, Wu CT | title = Ultraconserved elements: analyses of dosage sensitivity, motifs and boundaries | journal = Genetics | volume = 180 | issue = 4 | pages = 2277–2293 | date = December 2008 | pmid = 18957701 | pmc = 2600958 | doi = 10.1534/genetics.108.096537 }}</ref>
+
+== Role in human disease ==
+Research has demonstrated that T-UCRs have a tissue-specific expression, and a differential expression profile between tumors and other diseases.<ref name="Pereira Zambalde-2020">{{cite journal | vauthors = Pereira Zambalde E, Mathias C, Rodrigues AC, de Souza Fonseca Ribeiro EM, Fiori Gradia D, Calin GA, Carvalho de Oliveira J | title = Highlighting transcribed ultraconserved regions in human diseases | journal = Wiley Interdisciplinary Reviews. RNA | volume = 11 | issue = 2 | date = March 2020 | pmid = 31489780 | doi = 10.1002/wrna.1567 | s2cid = 201844414 | article-number = e1567 }}</ref> The tables below highlight transcripts and polymorphisms within UCRs that have been shown to contribute to human diseases.<ref name="Pereira Zambalde-2020" /><ref name="Habic_2019" /> For example, UCRs tend to accumulate less mutations than flanking segments, in both neoplastic and non-neoplastic samples from persons with hereditary [[Hereditary nonpolyposis colorectal cancer|non-polyposis colorectal cancer]].<ref name="De Grassi-2010">{{cite journal | vauthors = De Grassi A, Segala C, Iannelli F, Volorio S, Bertario L, Radice P, Bernard L, Ciccarelli FD | veditors = Hastie N | title = Ultradeep sequencing of a human ultraconserved region reveals somatic and constitutional genomic instability | journal = PLOS Biology | volume = 8 | issue = 1 | date = January 2010 | pmid = 20052272 | pmc = 2794366 | doi = 10.1371/journal.pbio.1000275 | doi-access = free | article-number = e1000275 }}</ref>
+
+=== Regulation mechanisms of disease related ultraconserved element transcripts ===
+{| class="wikitable"
+|miR/methylation/transcript factor associated with T-UCRs 
+|Disease
+|References
+|-
+|miR-24-1/uc.160
+|Leukemia
+|Calin et al., 2007 <ref name="Calin_2007" />
+|-
+|miR-130b/uc.63
+|Prostate CA
+|Sekino et al., 2017 <ref name="Sekino_2017">{{cite journal | vauthors = Sekino Y, Sakamoto N, Goto K, Honma R, Shigematsu Y, Sentani K, Oue N, Teishima J, Matsubara A, Yasui W | title = Transcribed ultraconserved region Uc.63+ promotes resistance to docetaxel through regulation of androgen receptor signaling in prostate cancer | journal = Oncotarget | volume = 8 | issue = 55 | pages = 94259–94270 | date = November 2017 | pmid = 29212226 | pmc = 5706872 | doi = 10.18632/oncotarget.21688 }}</ref>
+|-
+|miR-153/uc.416
+|Colorectal and renal CA
+|Goto et al., 2016;<ref name="Goto_2016">{{cite journal | vauthors = Goto K, Ishikawa S, Honma R, Tanimoto K, Sakamoto N, Sentani K, Oue N, Teishima J, Matsubara A, Yasui W | title = The transcribed-ultraconserved regions in prostate and gastric cancer: DNA hypermethylation and microRNA-associated regulation | journal = Oncogene | volume = 35 | issue = 27 | pages = 3598–3606 | date = July 2016 | pmid = 26640143 | doi = 10.1038/onc.2015.445 | s2cid = 8494774 }}</ref> Sekino et al., 2017<ref name="Sekino_2017" />
+|-
+|miR-155/uc.160
+|Gastric CA
+|Calin et al., 2007;<ref name="Calin_2007" /> Pang et al., 2018<ref name="Pang_2015">{{cite journal | vauthors = Pang W, Su J, Wang Y, Feng H, Dai X, Yuan Y, Chen X, Yao W | title = Pancreatic cancer-secreted miR-155 implicates in the conversion from normal fibroblasts to cancer-associated fibroblasts | journal = Cancer Science | volume = 106 | issue = 10 | pages = 1362–1369 | date = October 2015 | pmid = 26195069 | pmc = 4638007 | doi = 10.1111/cas.12747 }}</ref>
+|-
+|miR-155/uc346A
+|Leukemia
+|Calin et al., 2007 <ref name="Calin_2007" />
+|-
+|mir-195/uc.283
+|Bladder CA
+|Liz et al., 2014 <ref name="Liz_2014">{{cite journal | vauthors = Liz J, Portela A, Soler M, Gómez A, Ling H, Michlewski G, Calin GA, Guil S, Esteller M | title = Regulation of pri-miRNA processing by a long noncoding RNA transcribed from an ultraconserved region | journal = Molecular Cell | volume = 55 | issue = 1 | pages = 138–147 | date = July 2014 | pmid = 24910097 | doi = 10.1016/j.molcel.2014.05.005 | doi-access = free }}</ref>
+|-
+|miR-195, miR-4668/uc.372
+|Lipid metabolism
+|Guo et al., 2018 <ref name="Guo_2018">{{cite journal | vauthors = Guo J, Fang W, Sun L, Lu Y, Dou L, Huang X, Tang W, Yu L, Li J | title = Ultraconserved element uc.372 drives hepatic lipid accumulation by suppressing miR-195/miR4668 maturation | journal = Nature Communications | volume = 9 | issue = 1 | date = February 2018 | pmid = 29426937 | pmc = 5807361 | doi = 10.1038/s41467-018-03072-8 | bibcode = 2018NatCo...9..612G | article-number = 612 }}</ref>
+|-
+|mir-195/uc.173
+|Gastrointestinal tract
+|Xiao et al., 2018<ref name="Xiao_2018">{{cite journal | vauthors = Xiao L, Wu J, Wang JY, Chung HK, Kalakonda S, Rao JN, Gorospe M, Wang JY | title = Long Noncoding RNA uc.173 Promotes Renewal of the Intestinal Mucosa by Inducing Degradation of MicroRNA 195 | journal = Gastroenterology | volume = 154 | issue = 3 | pages = 599–611 | date = February 2018 | pmid = 29042220 | pmc = 5811324 | doi = 10.1053/j.gastro.2017.10.009 }}</ref>
+|-
+|miR-214/uc.276
+|Colorectal CA
+|Wojcik et al., 2010<ref name="Wojcik_2010">{{cite journal | vauthors = Wojcik SE, Rossi S, Shimizu M, Nicoloso MS, Cimmino A, Alder H, Herlea V, Rassenti LZ, Rai KR, Kipps TJ, Keating MJ, Croce CM, Calin GA | title = Non-codingRNA sequence variations in human chronic lymphocytic leukemia and colorectal cancer | journal = Carcinogenesis | volume = 31 | issue = 2 | pages = 208–215 | date = February 2010 | pmid = 19926640 | pmc = 2812567 | doi = 10.1093/carcin/bgp209 }}</ref>
+|-
+|miR-291a-3p/uc.173
+|Nervous system
+|Nan et al., 2016 <ref name="Nan_2016">{{cite journal | vauthors = Nan A, Zhou X, Chen L, Liu M, Zhang N, Zhang L, Luo Y, Liu Z, Dai L, Jiang Y | title = A transcribed ultraconserved noncoding RNA, Uc.173, is a key molecule for the inhibition of lead-induced neuronal apoptosis | journal = Oncotarget | volume = 7 | issue = 1 | pages = 112–124 | date = January 2016 | pmid = 26683706 | pmc = 4807986 | doi = 10.18632/oncotarget.6590 }}</ref>
+|-
+|miR-29b/uc.173
+|Gastrointestinal tract
+|J. Y. Wang et al., 2018 <ref name="Wang_2018">{{cite journal | vauthors = Wang JY, Cui YH, Xiao L, Chung HK, Zhang Y, Rao JN, Gorospe M, Wang JY | title = Regulation of Intestinal Epithelial Barrier Function by Long Noncoding RNA <i>uc.173</i> through Interaction with MicroRNA 29b | journal = Molecular and Cellular Biology | volume = 38 | issue = 13 | pages = e00010–18 | date = July 2018 | article-number = e00010-18 | pmid = 29632078 | pmc = 6002690 | doi = 10.1128/MCB.00010-18 }}</ref>
+|-
+|miR-339-3p, miR-663b-3p, miR-95-5p/uc.339
+|Lung CA
+|Vannini et al., 2017<ref name="Vannini_2017">{{cite journal | vauthors = Vannini I, Wise PM, Challagundla KB, Plousiou M, Raffini M, Bandini E, Fanini F, Paliaga G, Crawford M, Ferracin M, Ivan C, Fabris L, Davuluri RV, Guo Z, Cortez MA, Zhang X, Chen L, Zhang S, Fernandez-Cymering C, Han L, Carloni S, Salvi S, Ling H, Murtadha M, Neviani P, Gitlitz BJ, Laird-Offringa IA, Nana-Sinkam P, Negrini M, Liang H, Amadori D, Cimmino A, Calin GA, Fabbri M | title = Transcribed ultraconserved region 339 promotes carcinogenesis by modulating tumor suppressor microRNAs | journal = Nature Communications | volume = 8 | issue = 1 | date = November 2017 | pmid = 29180617 | pmc = 5703849 | doi = 10.1038/s41467-017-01562-9 | bibcode = 2017NatCo...8.1801V | article-number = 1801 }}</ref>
+|-
+|miR-596/uc.8
+|Bladder CA
+|Olivieri et al., 2016 <ref name="Olivieri_2016">{{cite journal | vauthors = Olivieri M, Ferro M, Terreri S, Durso M, Romanelli A, Avitabile C, De Cobelli O, Messere A, Bruzzese D, Vannini I, Marinelli L, Novellino E, Zhang W, Incoronato M, Ilardi G, Staibano S, Marra L, Franco R, Perdonà S, Terracciano D, Czerniak B, Liguori GL, Colonna V, Fabbri M, Febbraio F, Calin GA, Cimmino A | title = Long non-coding RNA containing ultraconserved genomic region 8 promotes bladder cancer tumorigenesis | journal = Oncotarget | volume = 7 | issue = 15 | pages = 20636–20654 | date = April 2016 | pmid = 26943042 | pmc = 4991481 | doi = 10.18632/oncotarget.7833 }}</ref>
+|-
+|DNA methylation/uc.160, uc.283, and uc.346
+|Colorectal CA
+|Kottorou et al., 2018 <ref name="Kottorou_2018">{{cite journal | vauthors = Kottorou AE, Antonacopoulou AG, Dimitrakopoulos FD, Diamantopoulou G, Sirinian C, Kalofonou M, Theodorakopoulos T, Oikonomou C, Katsakoulis EC, Koutras A, Makatsoris T, Demopoulos N, Stephanou G, Stavropoulos M, Thomopoulos KC, Kalofonos HP | title = Deregulation of methylation of transcribed-ultra conserved regions in colorectal cancer and their value for detection of adenomas and adenocarcinomas | journal = Oncotarget | volume = 9 | issue = 30 | pages = 21411–21428 | date = April 2018 | pmid = 29765549 | pmc = 5940382 | doi = 10.18632/oncotarget.25115 }}</ref>
+|-
+|DNA methylation/uc.158 + A, uc.160+, uc.241 + A, uc.283 + A, uc.346 + A
+|Gastric CA
+|Goto et al., 2016;<ref name="Goto_2016" /> Lujambio et al., 2010 <ref name="Sekino_2017" />
+|-
+|Transcription factor SP1/uc.138 (TRA2β4)
+|Colorectal CA
+|Kajita et al., 2016 <ref name="Kajita_2016">{{cite journal | vauthors = Kajita K, Kuwano Y, Satake Y, Kano S, Kurokawa K, Akaike Y, Masuda K, Nishida K, Rokutan K | title = Ultraconserved region-containing Transformer 2β4 controls senescence of colon cancer cells | journal = Oncogenesis | volume = 5 | issue = 4 | pages = e213 | date = April 2016 | pmid = 27043659 | pmc = 4848834 | doi = 10.1038/oncsis.2016.18 }}</ref>
+|-
+|Transcription factor YY1/uc.8
+|Bladder CA
+|Terreri et al., 2016 <ref name="Terreri_2016">{{cite journal | vauthors = Terreri S, Durso M, Colonna V, Romanelli A, Terracciano D, Ferro M, Perdonà S, Castaldo L, Febbraio F, de Nigris F, Cimmino A | title = New Cross-Talk Layer between Ultraconserved Non-Coding RNAs, MicroRNAs and Polycomb Protein YY1 in Bladder Cancer | journal = Genes | volume = 7 | issue = 12 | pages = 127 | date = December 2016 | pmid = 27983635 | pmc = 5192503 | doi = 10.3390/genes7120127 | doi-access = free }}</ref>
+|}
+
+=== Phenotype-associated polymorphisms within ultraconserved elements ===
+{| class="wikitable"
+|Polymorphism  name
+|Associated  phenotype description
+|Source
+|-
+|rs17105335
+|Amyotrophic  lateral sclerosis
+|Cronin et al.  (2008)<ref name="Cronin_2008">{{cite journal | vauthors = Cronin S, Berger S, Ding J, Schymick JC, Washecka N, Hernandez DG, Greenway MJ, Bradley DG, Traynor BJ, Hardiman O | title = A genome-wide association study of sporadic ALS in a homogenous Irish population | journal = Human Molecular Genetics | volume = 17 | issue = 5 | pages = 768–774 | date = March 2008 | pmid = 18057069 | doi = 10.1093/hmg/ddm361 | doi-access = free }}</ref>
+|-
+|rs2020906
+|Lynch  syndrome
+|Hansen et al.  (2014)<ref name="Hansen_2014">{{cite journal | vauthors = Hansen MF, Neckmann U, Lavik LA, Vold T, Gilde B, Toft RK, Sjursen W | title = A massive parallel sequencing workflow for diagnostic genetic testing of mismatch repair genes | journal = Molecular Genetics & Genomic Medicine | volume = 2 | issue = 2 | pages = 186–200 | date = March 2014 | pmid = 24689082 | pmc = 3960061 | doi = 10.1002/mgg3.62 }}</ref>
+|-
+|rs10496382
+|Height
+|Chiang et al.  (2012)<ref name="Chiang_2012">{{cite journal | vauthors = Chiang CW, Liu CT, Lettre G, Lange LA, Jorgensen NW, Keating BJ, Vedantam S, Nock NL, Franceschini N, Reiner AP, Demerath EW, Boerwinkle E, Rotter JI, Wilson JG, North KE, Papanicolaou GJ, Cupples LA, Murabito JM, Hirschhorn JN | title = Ultraconserved elements in the human genome: association and transmission analyses of highly constrained single-nucleotide polymorphisms | journal = Genetics | volume = 192 | issue = 1 | pages = 253–266 | date = September 2012 | pmid = 22714408 | pmc = 3430540 | doi = 10.1534/genetics.112.141945 }}</ref>
+|-
+|rs13382811
+|Severe myopia
+|Khor et al.  (2013)<ref name="Khor_2013">{{cite journal | vauthors = Khor CC, Miyake M, Chen LJ, Shi Y, Barathi VA, Qiao F, Nakata I, Yamashiro K, Zhou X, Tam PO, Cheng CY, Tai ES, Vithana EN, Aung T, Teo YY, Wong TY, Moriyama M, Ohno-Matsui K, Mochizuki M, Matsuda F, Yong RY, Yap EP, Yang Z, Pang CP, Saw SM, Yoshimura N | title = Genome-wide association study identifies ZFHX1B as a susceptibility locus for severe myopia | journal = Human Molecular Genetics | volume = 22 | issue = 25 | pages = 5288–5294 | date = December 2013 | pmid = 23933737 | doi = 10.1093/hmg/ddt385 | doi-access = free }}</ref>
+|-
+|rs104893634
+|Vertical talus congenital
+|Dobbs et al.  (2006);<ref name="Dobbs_2006">{{cite journal | vauthors = Dobbs MB, Gurnett CA, Pierce B, Exner GU, Robarge J, Morcuende JA, Cole WG, Templeton PA, Foster B, Bowcock AM | title = HOXD10 M319K mutation in a family with isolated congenital vertical talus | journal = Journal of Orthopaedic Research | volume = 24 | issue = 3 | pages = 448–453 | date = March 2006 | pmid = 16450407 | doi = 10.1002/jor.20052 | s2cid = 28670628 | doi-access = free }}</ref> Shrimpton et al. (2004)<ref name="Dobbs_2006" />
+|-
+|rs2307121
+|Central corneal thickness
+|Lu et al.  (2013)<ref name="Lu_2013">{{cite journal | vauthors = Lu Y, Vitart V, Burdon KP, Khor CC, Bykhovskaya Y, Mirshahi A, Hewitt AW, Koehn D, Hysi PG, Ramdas WD, Zeller T, Vithana EN, Cornes BK, Tay WT, Tai ES, Cheng CY, Liu J, Foo JN, Saw SM, Thorleifsson G, Stefansson K, Dimasi DP, Mills RA, Mountain J, Ang W, Hoehn R, Verhoeven VJ, Grus F, Wolfs R, Castagne R, Lackner KJ, Springelkamp H, Yang J, Jonasson F, Leung DY, Chen LJ, Tham CC, Rudan I, Vatavuk Z, Hayward C, Gibson J, Cree AJ, MacLeod A, Ennis S, Polasek O, Campbell H, Wilson JF, Viswanathan AC, Fleck B, Li X, Siscovick D, Taylor KD, Rotter JI, Yazar S, Ulmer M, Li J, Yaspan BL, Ozel AB, Richards JE, Moroi SE, Haines JL, Kang JH, Pasquale LR, Allingham RR, Ashley-Koch A, Mitchell P, Wang JJ, Wright AF, Pennell C, Spector TD, Young TL, Klaver CC, Martin NG, Montgomery GW, Anderson MG, Aung T, Willoughby CE, Wiggs JL, Pang CP, Thorsteinsdottir U, Lotery AJ, Hammond CJ, van Duijn CM, Hauser MA, Rabinowitz YS, Pfeiffer N, Mackey DA, Craig JE, Macgregor S, Wong TY | title = Genome-wide association analyses identify multiple loci associated with central corneal thickness and keratoconus | journal = Nature Genetics | volume = 45 | issue = 2 | pages = 155–163 | date = February 2013 | pmid = 23291589 | pmc = 3720123 | doi = 10.1038/ng.2506 }}</ref>
+|-
+|rs587777277
+|Bosch-Boonstra-Schaaf  optic atrophy syndrome
+|Bosch et al.  (2014)<ref name="Bosch_2014">{{cite journal | vauthors = Bosch DG, Boonstra FN, Gonzaga-Jauregui C, Xu M, de Ligt J, Jhangiani S, Wiszniewski W, Muzny DM, Yntema HG, Pfundt R, Vissers LE, Spruijt L, Blokland EA, Chen CA, Lewis RA, Tsai SY, Gibbs RA, Tsai MJ, Lupski JR, Zoghbi HY, Cremers FP, de Vries BB, Schaaf CP | title = NR2F1 mutations cause optic atrophy with intellectual disability | journal = American Journal of Human Genetics | volume = 94 | issue = 2 | pages = 303–309 | date = February 2014 | pmid = 24462372 | pmc = 3928641 | doi = 10.1016/j.ajhg.2014.01.002 }}</ref>
+|-
+|rs587777275
+|Bosch-Boonstra-Schaaf  optic atrophy syndrome
+|Bosch et al.  (2014)<ref name="Bosch_2014" />
+|-
+|rs587777274
+|Bosch-Boonstra-Schaaf  optic atrophy syndrome
+|Bosch et al.  (2014)<ref name="Bosch_2014" />
+|-
+|rs387906239
+|Familial  adenomatous polyposis 1 attenuated
+|Soravia et  al. (1999)<ref name="Soravia_1999">{{cite journal | vauthors = Soravia C, Sugg SL, Berk T, Mitri A, Cheng H, Gallinger S, Cohen Z, Asa SL, Bapat BV | title = Familial adenomatous polyposis-associated thyroid cancer: a clinical, pathological, and molecular genetics study | journal = The American Journal of Pathology | volume = 154 | issue = 1 | pages = 127–135 | date = January 1999 | pmid = 9916927 | pmc = 1853451 | doi = 10.1016/S0002-9440(10)65259-5 }}</ref>
+|-
+|rs3797704
+|No  association with breast cancer
+|Chang et al.  (2016)<ref name="Chang_2016">{{cite journal | vauthors = Chang YS, Lin CY, Yang SF, Ho CM, Chang JG | title = Analysing the mutational status of adenomatous polyposis coli (APC) gene in breast cancer | journal = Cancer Cell International | volume = 16 | date = 2016-03-28 | pmid = 27028212 | pmc = 4810512 | doi = 10.1186/s12935-016-0297-2 | doi-access = free | article-number = 23 }}</ref>
+|-
+|rs387906232
+|Familial  adenomatous polyposis 1
+|Fodde et al.  (1992)<ref name="Fodde_1992">{{cite journal | vauthors = Fodde R, van der Luijt R, Wijnen J, Tops C, van der Klift H, van Leeuwen-Cornelisse I, Griffioen G, Vasen H, Khan PM | title = Eight novel inactivating germ line mutations at the APC gene identified by denaturing gradient gel electrophoresis | journal = Genomics | volume = 13 | issue = 4 | pages = 1162–1168 | date = August 1992 | pmid = 1324223 | doi = 10.1016/0888-7543(92)90032-n }}</ref>
+|-
+|rs387906237
+|Familial adenomatous  polyposis 1 attenuated
+|Curia et al.  (1998)<ref name="Curia_1998">{{cite journal | vauthors = Curia MC, Esposito DL, Aceto G, Palmirotta R, Crognale S, Valanzano R, Ficari F, Tonelli F, Battista P, Mariani-Costantini R, Cama A | title = Transcript dosage effect in familial adenomatous polyposis: model offered by two kindreds with exon 9 APC gene mutations | journal = Human Mutation | volume = 11 | issue = 3 | pages = 197–201 | date = 1998 | pmid = 9521420 | doi = 10.1002/(SICI)1098-1004(1998)11:3<197::AID-HUMU3>3.0.CO;2-F | s2cid = 7241178 }}</ref>
+|-
+|rs121434591
+|Distal  myopathy
+|Senderek et  al. (2009)<ref name="Woolfe_2005" />
+|-
+|rs587777300
+|Amyotrophic  lateral sclerosis 21
+|Johnson et  al. (2014)<ref name="Johnson_2014">{{cite journal | vauthors = Johnson JO, Pioro EP, Boehringer A, Chia R, Feit H, Renton AE, Pliner HA, Abramzon Y, Marangi G, Winborn BJ, Gibbs JR, Nalls MA, Morgan S, Shoai M, Hardy J, Pittman A, Orrell RW, Malaspina A, Sidle KC, Fratta P, Harms MB, Baloh RH, Pestronk A, Weihl CC, Rogaeva E, Zinman L, Drory VE, Borghero G, Mora G, Calvo A, Rothstein JD, Drepper C, Sendtner M, Singleton AB, Taylor JP, Cookson MR, Restagno G, Sabatelli M, Bowser R, Chiò A, Traynor BJ | title = Mutations in the Matrin 3 gene cause familial amyotrophic lateral sclerosis | journal = Nature Neuroscience | volume = 17 | issue = 5 | pages = 664–666 | date = May 2014 | pmid = 24686783 | pmc = 4000579 | doi = 10.1038/nn.3688 }}</ref>
+|-
+|rs863223403
+|Au-Kline  syndrome
+|Au et al.  (2015)<ref name="Au_2015">{{cite journal | vauthors = Au PY, You J, Caluseriu O, Schwartzentruber J, Majewski J, Bernier FP, Ferguson M, Valle D, Parboosingh JS, Sobreira N, Innes AM, Kline AD | title = GeneMatcher aids in the identification of a new malformation syndrome with intellectual disability, unique facial dysmorphisms, and skeletal and connective tissue abnormalities caused by de novo variants in HNRNPK | journal = Human Mutation | volume = 36 | issue = 10 | pages = 1009–1014 | date = October 2015 | pmid = 26173930 | pmc = 4589226 | doi = 10.1002/humu.22837 }}</ref>
+|-
+|rs121917900
+|Cockayne syndrome  B
+|Mallery et  al. (1998)<ref name="Mallery_1998">{{cite journal | vauthors = Mallery DL, Tanganelli B, Colella S, Steingrimsdottir H, van Gool AJ, Troelstra C, Stefanini M, Lehmann AR | title = Molecular analysis of mutations in the CSB (ERCC6) gene in patients with Cockayne syndrome | journal = American Journal of Human Genetics | volume = 62 | issue = 1 | pages = 77–85 | date = January 1998 | pmid = 9443879 | pmc = 1376810 | doi = 10.1086/301686 }}</ref>
+|-
+|rs75462234
+|Papillorenal  syndrome
+|Schimmenti et  al. (1999)<ref name="Schimmenti_1999">{{cite journal | vauthors = Schimmenti LA, Shim HH, Wirtschafter JD, Panzarino VA, Kashtan CE, Kirkpatrick SJ, Wargowski DS, France TD, Michel E, Dobyns WB | title = Homonucleotide expansion and contraction mutations of PAX2 and inclusion of Chiari 1 malformation as part of renal-coloboma syndrome | journal = Human Mutation | volume = 14 | issue = 5 | pages = 369–376 | date = 1999 | pmid = 10533062 | doi = 10.1002/(SICI)1098-1004(199911)14:5<369::AID-HUMU2>3.0.CO;2-E | s2cid = 25564812 | doi-access = free }}</ref>
+|-
+|rs77453353
+|Renal  coloboma syndrome
+|Amiel et al.  (2000)<ref name="Amiel_2000">{{cite journal | vauthors = Amiel J, Audollent S, Joly D, Dureau P, Salomon R, Tellier AL, Augé J, Bouissou F, Antignac C, Gubler MC, Eccles MR, Munnich A, Vekemans M, Lyonnet S, Attié-Bitach T | title = PAX2 mutations in renal-coloboma syndrome: mutational hotspot and germline mosaicism | journal = European Journal of Human Genetics | volume = 8 | issue = 11 | pages = 820–826 | date = November 2000 | pmid = 11093271 | doi = 10.1038/sj.ejhg.5200539 | s2cid = 30359554 | doi-access = free }}</ref>
+|-
+|rs76675173
+|Papillorenal  syndrome
+|Schimmenti et  al. (1997)<ref name="Schimmenti_1997">{{cite journal | vauthors = Schimmenti LA, Cunliffe HE, McNoe LA, Ward TA, French MC, Shim HH, Zhang YH, Proesmans W, Leys A, Byerly KA, Braddock SR, Masuno M, Imaizumi K, Devriendt K, Eccles MR | title = Further delineation of renal-coloboma syndrome in patients with extreme variability of phenotype and identical PAX2 mutations | journal = American Journal of Human Genetics | volume = 60 | issue = 4 | pages = 869–878 | date = April 1997 | pmid = 9106533 | pmc = 1712484 }}</ref>
+|-
+|rs587777708
+|Focal  segmental glomerulosclerosis 7
+|Barua et al.  (2014)<ref name="Barua_2014">{{cite journal | vauthors = Barua M, Stellacci E, Stella L, Weins A, Genovese G, Muto V, Caputo V, Toka HR, Charoonratana VT, Tartaglia M, Pollak MR | title = Mutations in PAX2 associate with adult-onset FSGS | journal = Journal of the American Society of Nephrology | volume = 25 | issue = 9 | pages = 1942–1953 | date = September 2014 | pmid = 24676634 | pmc = 4147972 | doi = 10.1681/ASN.2013070686 }}</ref>
+|-
+|rs11190870
+|Adolescent  idiopathic scoliosis, no association with breast cancer
+|Chettier et  al. (2015);<ref name="Chettier_2015">{{cite journal | vauthors = Chettier R, Nelson L, Ogilvie JW, Albertsen HM, Ward K | veditors = Fang S | title = Haplotypes at LBX1 have distinct inheritance patterns with opposite effects in adolescent idiopathic scoliosis | journal = PLOS ONE | volume = 10 | issue = 2 | date = 2015-02-12 | pmid = 25675428 | pmc = 4326419 | doi = 10.1371/journal.pone.0117708 | bibcode = 2015PLoSO..1017708C | doi-access = free | article-number = e0117708 }}</ref> Gao et al. (2013);<ref name="Gao_2013">{{cite journal | vauthors = Gao W, Peng Y, Liang G, Liang A, Ye W, Zhang L, Sharma S, Su P, Huang D | title = Association between common variants near LBX1 and adolescent idiopathic scoliosis replicated in the Chinese Han population | journal = PLOS ONE | volume = 8 | issue = 1 | date = 2013-01-04 | pmid = 23308168 | pmc = 3537668 | doi = 10.1371/journal.pone.0053234 | bibcode = 2013PLoSO...853234G | doi-access = free | article-number = e53234 }}</ref> Grauers et al. (2015);<ref name="Grauers_2015">{{cite journal | vauthors = Grauers A, Wang J, Einarsdottir E, Simony A, Danielsson A, Åkesson K, Ohlin A, Halldin K, Grabowski P, Tenne M, Laivuori H, Dahlman I, Andersen M, Christensen SB, Karlsson MK, Jiao H, Kere J, Gerdhem P | title = Candidate gene analysis and exome sequencing confirm LBX1 as a susceptibility gene for idiopathic scoliosis | journal = The Spine Journal | volume = 15 | issue = 10 | pages = 2239–2246 | date = October 2015 | pmid = 25987191 | doi = 10.1016/j.spinee.2015.05.013 | hdl-access = free | hdl = 10616/44765 }}</ref> Jiang et al. (2013);<ref name="Jiang_2013">{{cite journal | vauthors = Jiang H, Qiu X, Dai J, Yan H, Zhu Z, Qian B, Qiu Y | title = Association of rs11190870 near LBX1 with adolescent idiopathic scoliosis susceptibility in a Han Chinese population | journal = European Spine Journal | volume = 22 | issue = 2 | pages = 282–286 | date = February 2013 | pmid = 23096252 | pmc = 3555620 | doi = 10.1007/s00586-012-2532-4 }}</ref>  Londono et al. (2014);<ref name="Londono_2014">{{cite journal | vauthors = Londono D, Kou I, Johnson TA, Sharma S, Ogura Y, Tsunoda T, Takahashi A, Matsumoto M, Herring JA, Lam TP, Wang X, Tam EM, Song YQ, Fan YH, Chan D, Cheah KS, Qiu X, Jiang H, Huang D, Su P, Sham P, Cheung KM, Luk KD, Gordon D, Qiu Y, Cheng J, Tang N, Ikegawa S, Wise CA | title = A meta-analysis identifies adolescent idiopathic scoliosis association with LBX1 locus in multiple ethnic groups | journal = Journal of Medical Genetics | volume = 51 | issue = 6 | pages = 401–406 | date = June 2014 | pmid = 24721834 | doi = 10.1136/jmedgenet-2013-102067 | s2cid = 23646905 }}</ref> Miyake et al. (2013);<ref name="Miyake_2013">{{cite journal | vauthors = Miyake A, Kou I, Takahashi Y, Johnson TA, Ogura Y, Dai J, Qiu X, Takahashi A, Jiang H, Yan H, Kono K, Kawakami N, Uno K, Ito M, Minami S, Yanagida H, Taneichi H, Hosono N, Tsuji T, Suzuki T, Sudo H, Kotani T, Yonezawa I, Kubo M, Tsunoda T, Watanabe K, Chiba K, Toyama Y, Qiu Y, Matsumoto M, Ikegawa S | title = Identification of a susceptibility locus for severe adolescent idiopathic scoliosis on chromosome 17q24.3 | journal = PLOS ONE | volume = 8 | issue = 9 | date = 2013-09-04 | pmid = 24023777 | pmc = 3762929 | doi = 10.1371/journal.pone.0072802 | bibcode = 2013PLoSO...872802M | doi-access = free | article-number = e72802 }}</ref> Shen et al. (2011);<ref name="Jiang_2011">{{cite journal | vauthors = Jiang Y, Ben Q, Shen H, Lu W, Zhang Y, Zhu J | title = Diabetes mellitus and incidence and mortality of colorectal cancer: a systematic review and meta-analysis of cohort studies | journal = European Journal of Epidemiology | volume = 26 | issue = 11 | pages = 863–876 | date = November 2011 | pmid = 21938478 | doi = 10.1007/s10654-011-9617-y | s2cid = 99605 }}</ref> Takahashi et  al. (2011)<ref name="Takahashi_2011">{{cite journal | vauthors = Takahashi Y, Kou I, Takahashi A, Johnson TA, Kono K, Kawakami N, Uno K, Ito M, Minami S, Yanagida H, Taneichi H, Tsuji T, Suzuki T, Sudo H, Kotani T, Watanabe K, Chiba K, Hosono N, Kamatani N, Tsunoda T, Toyama Y, Kubo M, Matsumoto M, Ikegawa S | title = A genome-wide association study identifies common variants near LBX1 associated with adolescent idiopathic scoliosis | journal = Nature Genetics | volume = 43 | issue = 12 | pages = 1237–1240 | date = October 2011 | pmid = 22019779 | doi = 10.1038/ng.974 | s2cid = 7533298 }}</ref>
+|-
+|rs724159963
+|Peroxisomal  fatty acyl-CoA reductase 1 disorder
+|Buchert et  al. (2014)<ref name="Buchert_2014">{{cite journal | vauthors = Buchert R, Tawamie H, Smith C, Uebe S, Innes AM, Al Hallak B, Ekici AB, Sticht H, Schwarze B, Lamont RE, Parboosingh JS, Bernier FP, Abou Jamra R | title = A peroxisomal disorder of severe intellectual disability, epilepsy, and cataracts due to fatty acyl-CoA reductase 1 deficiency | journal = American Journal of Human Genetics | volume = 95 | issue = 5 | pages = 602–610 | date = November 2014 | pmid = 25439727 | pmc = 4225589 | doi = 10.1016/j.ajhg.2014.10.003 | language = English }}</ref>
+|-
+|rs16932455
+|Capecitabine  sensitivity
+|O'Donnell et  al. (2012)<ref name="O'Donnell-2012">{{cite journal | vauthors = O'Donnell PH, Stark AL, Gamazon ER, Wheeler HE, McIlwee BE, Gorsic L, Im HK, Huang RS, Cox NJ, Dolan ME | title = Identification of novel germline polymorphisms governing capecitabine sensitivity | journal = Cancer | volume = 118 | issue = 16 | pages = 4063–4073 | date = August 2012 | pmid = 22864933 | pmc = 3413892 | doi = 10.1002/cncr.26737 }}</ref>
+|-
+|rs997295
+|Motion sickness;  BMI
+|De et al. (2015);<ref name="De_2015">{{cite journal | vauthors = De R, Verma SS, Drenos F, Holzinger ER, Holmes MV, Hall MA, Crosslin DR, Carrell DS, Hakonarson H, Jarvik G, Larson E, Pacheco JA, Rasmussen-Torvik LJ, Moore CB, Asselbergs FW, Moore JH, Ritchie MD, Keating BJ, Gilbert-Diamond D | title = Identifying gene-gene interactions that are highly associated with Body Mass Index using Quantitative Multifactor Dimensionality Reduction (QMDR) | journal = BioData Mining | volume = 8 | issue = 1 | date = June 2015 | pmid = 26674805 | pmc = 4678717 | doi = 10.1186/s13040-015-0074-0 | doi-access = free | article-number = 41 }}</ref> Guo et al. (2013);<ref name="Guo_2013">{{cite journal | vauthors = Guo Y, Lanktree MB, Taylor KC, Hakonarson H, Lange LA, Keating BJ | title = Gene-centric meta-analyses of 108 912 individuals confirm known body mass index loci and reveal three novel signals | journal = Human Molecular Genetics | volume = 22 | issue = 1 | pages = 184–201 | date = January 2013 | pmid = 23001569 | pmc = 3522401 | doi = 10.1093/hmg/dds396 }}</ref> Hromatka et al.<ref name="Hromatka_2015">{{cite journal | vauthors = Hromatka BS, Tung JY, Kiefer AK, Do CB, Hinds DA, Eriksson N | title = Genetic variants associated with motion sickness point to roles for inner ear development, neurological processes and glucose homeostasis | journal = Human Molecular Genetics | volume = 24 | issue = 9 | pages = 2700–2708 | date = May 2015 | pmid = 25628336 | pmc = 4383869 | doi = 10.1093/hmg/ddv028 }}</ref>
+|-
+|rs587777373
+|Congenital  heart defects multiple types 4
+|Al Turki et  al. (2014)<ref name="Al Turki-2014">{{cite journal | vauthors = Al Turki S, Manickaraj AK, Mercer CL, Gerety SS, Hitz MP, Lindsay S, D'Alessandro LC, Swaminathan GJ, Bentham J, Arndt AK, Louw J, Low J, Breckpot J, Gewillig M, Thienpont B, Abdul-Khaliq H, Harnack C, Hoff K, Kramer HH, Schubert S, Siebert R, Toka O, Cosgrove C, Watkins H, Lucassen AM, O'Kelly IM, Salmon AP, Bu'lock FA, Granados-Riveron J, Setchfield K, Thornborough C, Brook JD, Mulder B, Klaassen S, Bhattacharya S, Devriendt K, Fitzpatrick DF, Wilson DI, Mital S, Hurles ME | title = Rare variants in NR2F2 cause congenital heart defects in humans | journal = American Journal of Human Genetics | volume = 94 | issue = 4 | pages = 574–585 | date = April 2014 | pmid = 24702954 | pmc = 3980509 | doi = 10.1016/j.ajhg.2014.03.007 }}</ref>
+|-
+|rs398123839
+|Duchenne  muscular dystrophy
+|Hofstra et  al. (2004);<ref name="Hofstra_2004">{{cite journal | vauthors = Hofstra RM, Mulder IM, Vossen R, de Koning-Gans PA, Kraak M, Ginjaar IB, van der Hout AH, Bakker E, Buys CH, van Ommen GJ, van Essen AJ, den Dunnen JT | title = DGGE-based whole-gene mutation scanning of the dystrophin gene in Duchenne and Becker muscular dystrophy patients | journal = Human Mutation | volume = 23 | issue = 1 | pages = 57–66 | date = January 2004 | pmid = 14695533 | doi = 10.1002/humu.10283 | s2cid = 36020079 | doi-access = free }}</ref> Roberts et al. (1992)<ref name="Roberts_1992">{{cite journal | vauthors = Roberts RG, Bobrow M, Bentley DR | title = Point mutations in the dystrophin gene | journal = Proceedings of the National Academy of Sciences of the United States of America | volume = 89 | issue = 6 | pages = 2331–2335 | date = March 1992 | pmid = 1549596 | pmc = 48651 | doi = 10.1073/pnas.89.6.2331 | doi-access = free | bibcode = 1992PNAS...89.2331R }}</ref>
+|-
+|rs863224976
+|Becker  muscular dystrophy
+|Tuffery-Giraud  et al. (2005)<ref name="TufferyGiraud_2005">{{cite journal | vauthors = Tuffery-Giraud S, Saquet C, Thorel D, Disset A, Rivier F, Malcolm S, Claustres M | title = Mutation spectrum leading to an attenuated phenotype in dystrophinopathies | journal = European Journal of Human Genetics | volume = 13 | issue = 12 | pages = 1254–1260 | date = December 2005 | pmid = 16077730 | doi = 10.1038/sj.ejhg.5201478 | s2cid = 22585201 | doi-access = free }}</ref>
+|-
+|rs132630295
+|Spastic  paraplegia 2 X-linked
+|Gorman et al.  (2007)<ref name="Gorman_2007">{{cite journal | vauthors = Gorman MP, Golomb MR, Walsh LE, Hobson GM, Garbern JY, Kinkel RP, Darras BT, Urion DK, Eksioglu YZ | title = Steroid-responsive neurologic relapses in a child with a proteolipid protein-1 mutation | journal = Neurology | volume = 68 | issue = 16 | pages = 1305–1307 | date = April 2007 | pmid = 17438221 | doi = 10.1212/01.wnl.0000259522.49388.53 | s2cid = 45639125 }}</ref>
+|-
+|rs132630287
+|Spastic  paraplegia 2 X-linked
+|Saugier-Veber  et al. (1994)<ref name="SaugierVeber_1994">{{cite journal | vauthors = Saugier-Veber P, Munnich A, Bonneau D, Rozet JM, Le Merrer M, Gil R, Boespflug-Tanguy O | title = X-linked spastic paraplegia and Pelizaeus-Merzbacher disease are allelic disorders at the proteolipid protein locus | journal = Nature Genetics | volume = 6 | issue = 3 | pages = 257–262 | date = March 1994 | pmid = 8012387 | doi = 10.1038/ng0394-257 | s2cid = 13607673 }}</ref>
+|-
+|rs132630292
+|Pelizaeus/Merzbacher  disease atypical
+|Hodes et al.  (1997)<ref name="Hodes_1997">{{cite journal | vauthors = Hodes ME, Blank CA, Pratt VM, Morales J, Napier J, Dlouhy SR | title = Nonsense mutation in exon 3 of the proteolipid protein gene (PLP) in a family with an unusual form of Pelizaeus-Merzbacher disease | journal = American Journal of Medical Genetics | volume = 69 | issue = 2 | pages = 121–125 | date = March 1997 | pmid = 9056547 | doi = 10.1002/(SICI)1096-8628(19970317)69:2<121::AID-AJMG2>3.0.CO;2-S }}</ref>
+|-
+|rs137852350
+|Mental  retardation X-linked 94
+|Wu et al.  (2007)<ref name="Wu_2007">{{cite journal | vauthors = Wu Y, Arai AC, Rumbaugh G, Srivastava AK, Turner G, Hayashi T, Suzuki E, Jiang Y, Zhang L, Rodriguez J, Boyle J, Tarpey P, Raymond FL, Nevelsteen J, Froyen G, Stratton M, Futreal A, Gecz J, Stevenson R, Schwartz CE, Valle D, Huganir RL, Wang T | title = Mutations in ionotropic AMPA receptor 3 alter channel properties and are associated with moderate cognitive impairment in humans | journal = Proceedings of the National Academy of Sciences of the United States of America | volume = 104 | issue = 46 | pages = 18163–18168 | date = November 2007 | pmid = 17989220 | pmc = 2084314 | doi = 10.1073/pnas.0708699104 | doi-access = free | bibcode = 2007PNAS..10418163W }}</ref>
+|-
+|rs122459149
+|Emery-Dreifuss  muscular dystrophy 6 X-linked
+|Gueneau et  al. (2009);<ref name="Gueneau_2009">{{cite journal | vauthors = Gueneau L, Bertrand AT, Jais JP, Salih MA, Stojkovic T, Wehnert M, Hoeltzenbein M, Spuler S, Saitoh S, Verschueren A, Tranchant C, Beuvin M, Lacene E, Romero NB, Heath S, Zelenika D, Voit T, Eymard B, Ben Yaou R, Bonne G | title = Mutations of the FHL1 gene cause Emery-Dreifuss muscular dystrophy | journal = American Journal of Human Genetics | volume = 85 | issue = 3 | pages = 338–353 | date = September 2009 | pmid = 19716112 | pmc = 2771595 | doi = 10.1016/j.ajhg.2009.07.015 }}</ref> Knoblauch et al. (2010)<ref name="Knoblauch_2010">{{cite journal | vauthors = Knoblauch H, Geier C, Adams S, Budde B, Rudolph A, Zacharias U, Schulz-Menger J, Spuler A, Yaou RB, Nürnberg P, Voit T, Bonne G, Spuler S | title = Contractures and hypertrophic cardiomyopathy in a novel FHL1 mutation | journal = Annals of Neurology | volume = 67 | issue = 1 | pages = 136–140 | date = January 2010 | pmid = 20186852 | doi = 10.1002/ana.21839 | s2cid = 30441775 }}</ref>
+|-
+|rs122458141
+|Myopathy  X-linked with postural muscle atrophy
+|Schoser et  al. (2009);<ref name="Schoser_2009">{{cite journal | vauthors = Schoser B, Goebel HH, Janisch I, Quasthoff S, Rother J, Bergmann M, Müller-Felber W, Windpassinger C | title = Consequences of mutations within the C terminus of the FHL1 gene | journal = Neurology | volume = 73 | issue = 7 | pages = 543–551 | date = August 2009 | pmid = 19687455 | doi = 10.1212/WNL.0b013e3181b2a4b3 | s2cid = 13107330 }}</ref> Windpassinger et al. (2008)<ref name="Windpassinger_2008">{{cite journal | vauthors = Windpassinger C, Schoser B, Straub V, Hochmeister S, Noor A, Lohberger B, Farra N, Petek E, Schwarzbraun T, Ofner L, Löscher WN, Wagner K, Lochmüller H, Vincent JB, Quasthoff S | title = An X-linked myopathy with postural muscle atrophy and generalized hypertrophy, termed XMPMA, is caused by mutations in FHL1 | journal = American Journal of Human Genetics | volume = 82 | issue = 1 | pages = 88–99 | date = January 2008 | pmid = 18179888 | pmc = 2253986 | doi = 10.1016/j.ajhg.2007.09.004 | language = English }}</ref>
+|-
+|rs786200914
+|Myopathy  X-linked with postural muscle atrophy
+|Schoser et  al. (2009)<ref name="Schoser_2009" />
+|-
+|rs267606811
+|Myopathy  X-linked with postural muscle atrophy
+|Windpassinger  et al. (2008)<ref name="Windpassinger_2008" />
+|-
+|rs62621672
+|Rett syndrome (nonpathogenic variant)
+|Zahorakova et  al. (2007)<ref name="Zahorakova_2007">{{cite journal | vauthors = Zahorakova D, Rosipal R, Hadac J, Zumrova A, Bzduch V, Misovicova N, Baxova A, Zeman J, Martasek P | title = Mutation analysis of the MECP2 gene in patients of Slavic origin with Rett syndrome: novel mutations and polymorphisms | journal = Journal of Human Genetics | volume = 52 | issue = 4 | pages = 342–348 | date = 2007 | pmid = 17387578 | doi = 10.1007/s10038-007-0121-x | s2cid = 7962500 | doi-access = free }}</ref>
+|}
+
+== See also ==
+*[[Human accelerated regions]]
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+* http://ultraconserved.org/
+
+[[Category:DNA]]

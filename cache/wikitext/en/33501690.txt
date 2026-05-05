@@ -1,0 +1,24 @@
+{{Short description|Protein-coding gene in the species Homo sapiens}}
+
+{{Infobox_gene}} 
+'''Proton ''myo''-inositol cotransporter''', also known as '''solute carrier family 2 member 13''' is a [[protein]] that in humans is encoded by the ''SLC2A13'' [[gene]].<ref name="entrez">{{cite web | title = SLC2A13 solute carrier family 2 member 13 [ Homo sapiens (human) ]| url = https://www.ncbi.nlm.nih.gov/gene?db=gene&cmd=retrieve&list_uids=114134| access-date = 2021-04-18}}</ref>
+
+== References ==
+ {{reflist}}
+
+==Further reading ==
+ {{refbegin | 2}}
+* {{cite journal | vauthors = Uldry M, Ibberson M, Horisberger JD, Chatton JY, Riederer BM, Thorens B | title = Identification of a mammalian H(+)-myo-inositol symporter expressed predominantly in the brain | journal = The EMBO Journal | volume = 20 | issue = 16 | pages = 4467–77 | date = August 2001 | pmid = 11500374 | pmc = 125574 | doi = 10.1093/emboj/20.16.4467 }}
+* {{cite journal | vauthors = Fu GK, Wang JT, Yang J, Au-Young J, Stuve LL | title = Circular rapid amplification of cDNA ends for high-throughput extension cloning of partial genes | journal = Genomics | volume = 84 | issue = 1 | pages = 205–10 | date = July 2004 | pmid = 15203218 | doi = 10.1016/j.ygeno.2004.01.011 }}
+* {{cite journal | vauthors = Bankovic J, Stojsic J, Jovanovic D, Andjelkovic T, Milinkovic V, Ruzdijic S, Tanic N | title = Identification of genes associated with non-small-cell lung cancer promotion and progression | journal = Lung Cancer | volume = 67 | issue = 2 | pages = 151–9 | date = February 2010 | pmid = 19473719 | doi = 10.1016/j.lungcan.2009.04.010 }}
+* {{cite journal | vauthors = Di Daniel E, Mok MH, Mead E, Mutinelli C, Zambello E, Caberlotto LL, Pell TJ, Langmead CJ, Shah AJ, Duddy G, Kew JN, Maycox PR | title = Evaluation of expression and function of the H+/myo-inositol transporter HMIT | journal = BMC Cell Biology | volume = 10 | pages = 54 | date = July 2009 | pmid = 19607714 | pmc = 2717050 | doi = 10.1186/1471-2121-10-54 | doi-access = free }}
+* {{cite journal | vauthors = Satake W, Nakabayashi Y, Mizuta I, Hirota Y, Ito C, Kubo M, Kawaguchi T, Tsunoda T, Watanabe M, Takeda A, Tomiyama H, Nakashima K, Hasegawa K, Obata F, Yoshikawa T, Kawakami H, Sakoda S, Yamamoto M, Hattori N, Murata M, Nakamura Y, Toda T | title = Genome-wide association study identifies common variants at four loci as genetic risk factors for Parkinson's disease | journal = Nature Genetics | volume = 41 | issue = 12 | pages = 1303–7 | date = December 2009 | pmid = 19915576 | doi = 10.1038/ng.485 | s2cid = 205356259 }}
+{{refend}}
+
+{{Solute carrier family|bg|bg0}}
+
+[[Category:Solute carrier family]]
+
+
+{{gene-12-stub}}
+{{membrane-protein-stub}}

@@ -1,0 +1,135 @@
+{{short description|American social psychologist and writer}}
+{{other people||Tim Wilson (disambiguation)}}
+{{Use mdy dates|date=November 2022}}
+
+{{Infobox scientist
+| fields            = [[Social psychology]]
+| workplaces        = [[University of Virginia]]
+| alma_mater        = [[Hampshire College]] ([[Bachelor of Arts|BA]])<br>[[University of Michigan]] ([[Master of Arts|MA]], [[Doctor of Philosophy|PhD]])
+| thesis_title      = Awareness and self-perception
+| thesis_url        = https://www.proquest.com/docview/302868164/
+| thesis_year       = 1977
+| doctoral_advisor  = [[Richard E. Nisbett|Richard Nisbett]]
+}}
+
+'''Timothy DeCamp Wilson''' is an American [[Social psychology|social psychologist]] and writer. 
+
+He is the Sherrell J. Aston Professor of [[Psychology]] at the [[University of Virginia]] and teaches public policy at the [[Frank Batten School of Leadership and Public Policy]]. He is known for his research on [[Self-knowledge (psychology)|self-knowledge]] and the influence of the [[unconscious mind]] on [[decision-making]], [[preferences]] and [[behavior]]. He is the author of two popular books on psychology, ''Strangers to Ourselves: Discovering the Adaptive Unconscious'' and ''Redirect: The Surprising New Science of Psychological Change.''
+
+== Education ==
+Wilson received a [[Bachelor of Arts]] with a major in psychology from [[Hampshire College]] in 1973. He received a [[Master of Arts]] in 1975 and a [[Doctor of Philosophy]] in 1977, both in psychology from the [[University of Michigan]].<ref>{{Cite web |title=Timothy Wilson |url=https://batten.virginia.edu/people/timothy-wilson |access-date=2023-03-04 |website=Frank Batten School of Leadership and Public Policy {{!}} University of Virginia |language=en}}</ref>
+
+== Career ==
+Wilson is best known for his research on the [[adaptive unconscious]], [[self-knowledge (psychology)|self-knowledge]], and [[affective forecasting]]. With [[Richard Nisbett]], Wilson authored one of psychology's most cited papers, "Telling more than we can know {{ndash}} verbal reports on mental processes," that demonstrated the difficulty humans have in introspecting on their own mental processes (''[[Psychological Review]]'', 1977,<ref name="Telling">{{cite journal|date=May 1977|title=Telling more than we can know: Verbal reports on mental processes|url=https://deepblue.lib.umich.edu/bitstream/handle/2027.42/92167/TellingMoreThanWeCanKnow.pdf?sequence=1&isAllowed=y|journal=[[Psychological Review]]|volume=84|issue=3|pages=231–259|doi=10.1037/0033-295X.84.3.231|author=Nisbett, Richard E.; Wilson, Timothy D.|hdl=2027.42/92167|hdl-access=free}}</ref> cited 2731 times as of May 22, 2007, according to [[ISI Web of Knowledge]]). His longtime collaborator is [[Daniel Gilbert (psychologist)|Daniel Gilbert]] of [[Harvard University]].
+
+Wilson has published two popular press books, ''Strangers to Ourselves'' and ''Redirect'', and co-authored ''Social Psychology,'' an introductory textbook on [[social psychology]]. The textbook has been translated into Italian, Polish, Chinese, German, Russian, and Serbian; ''Strangers to Ourselves'' has been translated into Dutch and Japanese, with Chinese and German editions forthcoming.
+
+Wilson received a Bachelor of Arts in [[psychology]] from [[Hampshire College]] in 1973 and a PhD in [[social psychology]] from the [[University of Michigan]]'s [[Princeton University Department of Psychology|Department of Psychology]] in 1977. From 1977 to 1979, he was a faculty member at [[Duke University]]. Since 1979, he has been a faculty member at the [[University of Virginia]]. His research has been supported by the [[National Institute of Mental Health]], the [[National Science Foundation]], and the [[Russell Sage Foundation]].  In 2009, he was named as a fellow to the [[American Academy of Arts and Sciences]].
+
+His work has received numerous awards, including an All-University Outstanding Teaching Award from the [[University of Virginia]] in 2001, as well as the Thomas Jefferson Award for Excellence in Scholarship in 2015. In 2013, he was the recipient of the [[Society for Personality and Social Psychology]]'s Donald T. Campbell Award, and in 2015 he was named a William James Fellow by the [[Association for Psychological Science]].
+
+He lives in [[Charlottesville, Virginia]], with his wife, Deirdre Smith. He has two children, Christopher and Leigh.
+
+==Bibliography==
+*{{cite book | author=Wilson, Timothy | title=Strangers to Ourselves: Discovering the Adaptive Unconscious | url=https://archive.org/details/strangerstoo_wils_2002_000_10736667 | url-access=registration | location=Cambridge | publisher=Belknap Press | year=2002 | isbn=978-0-674-00936-3 }}
+*{{cite book | author=Wilson, Timothy | title=Redirect: The Surprising New Science of Psychological Change |  publisher=Little, Brown and Company | year=2011 | isbn=978-0-316-05188-0  }}
+
+==Textbooks==
+Timothy D. Wilson also contributed as an author in co-writing Social Psychology (9th Edition)<ref>{{Cite web | url=http://www.mypearsonstore.com/bookstore/social-psychology-9780133936544 | title=Social Psychology, 9th Edition}}</ref>
+
+==Articles in journals==
+* {{cite journal
+  | last1 = Wilson
+  | first1 = Timothy D.
+  | last2 = Reinhard
+  | first2 = David A.
+  | last3 = Westgate
+  | first3 = Erin C.
+  | last4 = Gilbert
+  | first4 = Daniel T.
+  | last5 = Ellerbeck
+  | first5 = Nicole
+  | last6 = Hahn
+  | first6 = Cheryl
+  | last7 = Brown
+  | first7 = Casey L. 
+  | last8 = Shaked
+  | first8 = Adi
+  | title = Just think: The challenges of the disengaged mind
+  | journal = [[Science (magazine)|Science]]
+  | volume = 345
+  | issue = 6192
+  | pages = 75–77
+  | date = July 4, 2014 | medium = 
+  | doi = 10.1126/science.1250830
+  | pmid=24994650
+  | pmc=4330241
+| bibcode = 2014Sci...345...75W
+ }}
+* 
+* {{cite book
+  | last1 = Wilson
+  | first1 = Timothy D.
+  | last2 = Gilbert
+  | author2-link = Daniel Gilbert (psychologist)
+  | first2 = Daniel T.
+  | title = Affective Forecasting
+  | journal = Advances in Experimental Social Psychology
+  | volume = 35
+  | issue = 
+  | pages = 345–411
+  | date = 2003
+  | medium = 
+  | doi = 10.1016/S0065-2601(03)01006-2
+  | pmid=
+  | pmc=
+| isbn = 9780120152353
+  }}
+*
+
+==See also==
+
+*[[Cognitive bias]]
+*[[Introspection illusion]]
+*[[Region-beta paradox]]
+
+==References==
+{{Reflist}}
+* {{cite web
+  | url = http://www.mypearsonstore.com/bookstore/social-psychology-9780133936544
+  | title = Social Psychology, 9th Edition
+  | date = June 30, 2015
+| publisher = Pearson
+  | accessdate = 2018-04-11}}
+* {{cite web
+  | last = Cook
+  | first = Gareth
+  | author-link = Gareth Cook
+  | title = How to Improve Your Life with Story Editing
+  | publisher = [[Scientific American]] Mind Matters
+  | date = September 13, 2011
+| url = http://www.scientificamerican.com/article.cfm?id=how-to-improve-your-life-with-story-editing
+  | accessdate = 2011-09-13}}
+* {{cite web
+  | last = Freeman
+  | first = Mark
+  | title = Rewriting the stories we tell ourselves
+  | publisher = [[New Scientist]] CultureLab
+  | date = September 14, 2011
+| url = https://www.newscientist.com/blogs/culturelab/2011/09/rewriting-the-stories-we-tell-ourselves.html
+  | accessdate = 2011-09-14}}
+
+==External links==
+*[http://www.people.virginia.edu/~tdw/ University Webpage of Timothy Wilson]
+*[https://scholar.google.com/scholar?as_q=&num=100&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Timothy+D.+Wilson%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en&lr= Timothy D. Wilson on Google Scholar]
+{{Authority control}}
+
+{{DEFAULTSORT:Wilson, Timothy}}
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:21st-century American psychologists]]
+[[Category:American social psychologists]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:University of Virginia faculty]]
+[[Category:Hampshire College alumni]]
+[[Category:University of Michigan alumni]]

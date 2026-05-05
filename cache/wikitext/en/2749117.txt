@@ -1,0 +1,276 @@
+{{short description|American psychologist (born 1957)}}
+{{Use mdy dates|date=November 2015}}
+{{Infobox scientist
+| name              = Daniel J. Levitin
+| image             = Daniel J. Levitin (cropped).jpg
+| image_size        = 
+| alt               = 
+| caption           = Levitin in 2015
+| birth_date        = {{Birth date and age|1957|12|27|mf=y}}
+| birth_place       = [[San Francisco]], [[California]], U.S.
+| residence         = 
+| citizenship       = 
+| fields            = [[Music cognition]], [[cognitive neuroscience of music]], [[cognitive psychology]]
+| alma_mater        = [[Massachusetts Institute of Technology]]<br />[[Berklee College of Music]]<br />[[Stanford University]] (B.A., 1992)<br />[[University of Oregon]] (MSc, 1993; PhD, 1996).
+| thesis_title      = 
+| thesis_url        = 
+| thesis_year       = 
+| doctoral_advisor  = 
+| academic_advisors = [[Roger Shepard]], [[Michael Posner (psychologist)|Michael Posner]], Douglas Hintzman, [[John R. Pierce]], Stephen Palmer
+| doctoral_students = 
+| notable_students  = [[Regina Nuzzo]], [[Susan Rogers]]
+| known_for         = [[Levitin effect]], ''[[This Is Your Brain on Music]]'', ''[[The World in Six Songs]]'', ''[[The Organized Mind]]'', ''[[A Field Guide to Lies: Critical Thinking in the Information Age|A Field Guide to Lies]]'', [[Successful Aging (book)|''Successful Aging'']] (published as ''The Changing Mind'' in the U.K.)
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = [[#Awards|See "Awards" section]]
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = {{URL|daniellevitin.com}} {{URL|levitinlab.com}}
+| footnotes         = 
+| work_institution  = {{plainlist|1=
+* [[McGill University]]
+* [[Stanford University]]
+* [[Dartmouth College]]
+* [[University of California at Berkeley]]
+* [[Minerva University]]
+* [[Interval Research Corporation]]
+}}
+}}
+
+'''Daniel Joseph Levitin''', [[Royal Society of Canada|FRSC]] (born December 27, 1957) is an American-Canadian [[polymath]],<ref>{{cite book|author1=Ahmed, W.|title=The Polymath:Unlocking the Power of Human Versatility|publisher=Wylie|year=2019}}</ref> [[cognitive psychologist]], [[neuroscientist]], writer, musician, and record producer.<ref>{{cite magazine |date=January 2000 | title=Executive Turntable | magazine=Billboard }}</ref> He is the author of four ''New York Times'' best-selling books, including ''[[This Is Your Brain On Music|This Is Your Brain on Music: The Science of a Human Obsession]]'', (Dutton/Penguin 2006; Plume/Penguin 2007) which has sold more than 1.5 million copies.<ref>{{Cite web|url=https://online.nielsenbookscan.net/|title=Nielsen Bookscan|website=online.nielsenbookscan.net}}</ref>
+
+Levitin is the James McGill Professor Emeritus of [[psychology]], [[behavioral neuroscience]] and [[music]] at [[McGill University]] in [[Montreal]], [[Quebec]], Canada; Founding Dean of Arts & Humanities at [[Minerva University]]; and a Distinguished Faculty Fellow at the [[Haas School of Business]], University of California at Berkeley. He is the Director of the Laboratory for Music Perception, Cognition, and Expertise at McGill.<ref>[http://www.levitinlab.com Laboratory for Music Perception, Cognition and Expertise]{{Dead link|date=October 2022 |bot=InternetArchiveBot |fix-attempted=yes }}, daniellevitin.com</ref> He is a former member of the Board of Governors of the [[Grammys]], a consultant to the [[Rock and Roll Hall of Fame]], an elected [[fellow of the American Association for the Advancement of Science]], a fellow of the [[Association for Psychological Science]], a fellow of the [[Psychonomic Society]], and a [[fellow of the Royal Society of Canada]] (FRSC). He has appeared frequently as a guest commentator on [[NPR]] and [[Canadian Broadcasting Corporation|CBC]]. He has published scientific articles on [[absolute pitch]], [[music cognition]], [[neuroanatomy]], and [[directional statistics]].<ref>{{cite book|author1=Parncutt, R.|title=The New Grove Dictionary of Music and Musicians|author2=Levitin, D.J.|publisher=St. Martins Press|year=2001|editor=S. Sadie|location=New York|pages=37–39|chapter=Absolute Pitch}}</ref><ref>{{cite journal|author1=Levitin, D. J.|author2=Rogers. S.E.|date=December 2005|title=Absolute pitch: Perception, coding, and controversies|url=http://www.lifesci.sussex.ac.uk/home/Chris_Darwin/PerMuSo/pdfs/Levitin_Rogers_Tics.pdf|journal=Trends in Cognitive Sciences|volume=9|issue=1|pages=26–33|doi=10.1016/j.tics.2004.11.007|pmid=15639438|s2cid=15346652|archive-date=November 11, 2022|access-date=September 24, 2019|archive-url=https://web.archive.org/web/20221111050437/http://www.lifesci.sussex.ac.uk/home/Chris_Darwin/PerMuSo/pdfs/Levitin_Rogers_Tics.pdf|url-status=dead}}</ref>
+
+His six books have all been international bestsellers, and collectively have sold more than 3 million copies worldwide: ''[[This Is Your Brain On Music|This Is Your Brain on Music: The Science of a Human Obsession]]'' (2006),<ref>{{cite journal | date=June 5, 2006 | title=Oliver Sacks meets Jerry Garcia in 'This Is Your Brain on Music' by rocker-turned-neuroscientist Daniel Levitin' | journal=Publishers Weekly }}</ref><ref>{{cite journal |  date=September 21, 2006 | title=Books: Bestsellers: Top selling fiction and non-fiction titles (week of September 21 | journal=[[Maclean's]]}}</ref><ref>{{cite journal |  date=November 5, 2006 | title=CHARTS Bestsellers (week ending Nov 05, 2006) | journal=The Book Standard}}</ref> ''[[The World in Six Songs|The World in Six Songs: How the Musical Brain Created Human Nature]]'' (2008), ''[[The Organized Mind|The Organized Mind: Thinking Straight in the Age of Information Overload]]'' (2014), ''[[A Field Guide to Lies: Critical Thinking in the Information Age]]'' (2016) and [[Successful Aging (book)|''Successful Aging'']] (2020). ''I Heard There Was A Secret Chord: Music As Medicine'' was released in August 2024 by W. W. Norton, receiving advance praise from [[Paul McCartney]], [[Neil DeGrasse Tyson]], [[Bob Weir]], [[Michael Connelly]] and others.
+
+Levitin also worked as a music consultant, producer and [[sound designer]] on albums by [[Blue Öyster Cult]], [[Chris Isaak]], and [[Joe Satriani]] among others;<ref name="Flying in a Blue Dream credits">{{cite web | url=https://www.allmusic.com/album/flying-in-a-blue-dream-mw0000202424/credits | title=Flying in a Blue Dream credits | website=[[Allmusic]] | access-date=January 1, 2013}}</ref> produced punk bands including [[MDC (band)|MDC]] and The Afflicted; and served as a consultant on albums by artists including [[Steely Dan]], [[Stevie Wonder]], and [[Michael Brook]];<ref>{{cite news | author=James Sullivan |date=August 20, 2006 | title=He's Rocking the World of Neuroscience| newspaper=Boston Globe |url=https://www.boston.com/news/globe/living/articles/2006/08/20/hes_rocking_the_world_of_neuroscience/ |archive-url=https://web.archive.org/web/20060831142248/http://www.boston.com/news/globe/living/articles/2006/08/20/hes_rocking_the_world_of_neuroscience/ |url-status=dead |archive-date=August 31, 2006 | access-date=August 22, 2011 }}</ref><ref name="Ann McIlroy">{{cite journal |  author=Ann McIlroy |date=March 12, 2001 | title=Dr. Rock 'n' Roll| journal=The Globe and Mail}}</ref> and as a recording engineer for [[Santana (band)|Santana]], [[Jonathan Richman]], [[Orlando Julius|O.J. Ekemode and the Nigerian Allstars]], and [[The Grateful Dead]].<ref>{{cite journal | author=Susan Dominus |date=March 18, 2007 | title=Rockin' Boffin| journal=London Daily Telegraph, Seven Magazine}}</ref> Records and CDs to which he has contributed have sold more than 30 million copies.<ref name="Ann McIlroy" /><ref>{{cite journal |date=November–December 2002  | title=La musique pour maître à penser | journal=Découvrir}}</ref>
+
+==Biography and education==
+Daniel Levitin was born in [[San Francisco]],<ref>{{cite web | url=http://www.encyclopedia.com/article-1G2-3414800199/levitin-daniel-j-1957.html | title=Levitin, Daniel J. 1957– | publisher=Contemporary Authors, 2005, at encyclopedia.com | access-date=July 28, 2013}}</ref> the son of [[Lloyd Levitin]], a businessman and professor, and [[Sonia Levitin]], a novelist. He was raised in [[Daly City]], [[Moraga, California|Moraga]], and [[Palos Verdes]], all in California.<ref name="Marquis Who's Who in America">{{cite book | year=2002 | title=Marquis Who's Who in America | chapter=Levitin, Daniel J. | publisher=Marquis Who's Who LLC | location=New Providence, NJ}}</ref> He graduated after his junior year at [[Palos Verdes High School]] to attend the [[Massachusetts Institute of Technology]] where he studied applied mathematics; he later enrolled at the [[Berklee College of Music]] before dropping out of college to join a succession of bands, work as a record producer, and help found a record label, [[415 Records]]. He returned to school in his thirties, studying [[cognitive psychology]]/[[cognitive science]] first at [[Stanford University]] where he received a [[Bachelor of Arts|BA]] degree in 1992 (with honors and highest university distinction) and then at the [[University of Oregon]] where he received an [[Master of Arts|MSc]] degree in 1993 and a PhD degree in 1996. He completed post-doctoral fellowships at [[Paul Allen]]'s Silicon Valley think-tank [[Interval Research]], at  [[Stanford University School of Medicine|Stanford University Medical School]], and at the [[University of California, Berkeley]].<ref name="Marquis Who's Who in America" /> His early influences include [[Susan Carey]], [[Merrill Garrett]], and [[Molly Potter]] and his scientific mentors include [[Roger Shepard]], [[Karl H. Pribram]], [[Michael Posner (psychologist)|Michael Posner]], [[Douglas Hintzman]],<ref>{{cite web |title=The Canons of Dr. Daniel Levitin |author-first=Michael |author-last=Gordon|work=Journey2Psychology |publisher= |date= April 8, 2019 |url=https://journey2psychology.com/2019/04/08/the-canons-of-dr-daniel-levitin/ |access-date=May 6, 2021}}</ref> [[John R. Pierce]],<ref>{{cite book|author-first1=Daniel J.|author-last1=Levitin |title=Successful Aging: A Neuroscientist Explores the Power and Potential of Our Lives |publisher=Dutton/Penguin Random House|year=2020|location=New York|isbn=9781524744199 |url=https://books.google.com/books?id=7yeZDwAAQBAJ&pg=PT126 }}</ref> and Stephen Palmer.<ref>{{cite web | url=https://academictree.org/psych/peopleinfo.php?pid=234 | title=Stephen E. Palmer | website=PsychTree | access-date=May 5, 2021}}</ref> He has been a visiting professor at the [[University of California, Berkeley]], [[Stanford University]], [[Dartmouth College]], and [[Oregon Health Sciences University]].
+
+As a [[cognitive neuroscientist]] specializing in music perception and cognition, he is credited for fundamentally changing the way that scientists think about auditory memory, showing through the [[Levitin Effect]], that long-term memory preserves many of the details of musical experience that previous theorists regarded as lost during the encoding process.<ref>{{cite journal |  author=D. J. Levitin | year=1992 | title=Absolute memory for musical pitch: Evidence from the production of learned melodies| journal=Perception & Psychophysics| doi = 10.3758/bf03206733 | volume=56 | issue=4 | pages=414–423 | pmid=7984397| doi-access=free }}</ref><ref name="D. Huron 2006">{{cite journal | author=D. Huron | year=2006 | title=Exploring How Music Works Its Wonders| journal=Cerebrum}}</ref><ref>{{cite web |title=Common expressions: Levitin |work=Webster's Online Dictionary |publisher=Webster's |date=February 18, 2011 |url=http://www.websters-dictionary-online.net/definitions/Levitin?cx=partner-pub-0939450753529744%3Av0qd01-tdlq&cof=FORID%3A9&ie=UTF-8&q=Levitin&sa=Search#922 |access-date=2011-02-18 |url-status=dead |archive-url=https://web.archive.org/web/20110724130411/http://www.websters-dictionary-online.net/definitions/Levitin?cx=partner-pub-0939450753529744%3Av0qd01-tdlq&cof=FORID%3A9&ie=UTF-8&q=Levitin&sa=Search#922 |archive-date=July 24, 2011 |df=mdy-all }}</ref><ref>{{cite news | author= James Martin | title= A Mind For Music | journal= McGill News | date = Summer 2004 |pages=1–2}}</ref> He is also known for drawing attention to the role of cerebellum in music listening, including tracking the beat and distinguishing familiar from unfamiliar music.<ref name="D. Huron 2006" />
+
+Outside of his academic pursuits Levitin has worked on and off as a stand-up comedian and joke writer, performing at the [[Democratic National Convention]] in [[1984 Democratic National Convention|San Francisco]] with [[Robin Williams]] in 1984, and at comedy clubs in California;<ref>{{cite web |last1=Sussman |first1=Deborah |title=Daniel Levitin on Why Being Organized Is More Important Than Ever Before |url=https://www.phoenixnewtimes.com/arts/daniel-levitin-on-why-being-organized-is-more-important-than-ever-before-6576936 |website=Phoenix New Times |date=21 Aug 2014}}</ref> he placed second in the [[National Lampoon Inc|National Lampoon]] stand-up comedy competition regionals in San Francisco in 1989, and has contributed jokes for [[Jay Leno]] and [[Arsenio Hall]], as well as the nationally syndicated comic strip [[Bizarro (comic strip)|Bizarro]].<ref>{{Cite web |last=Music |first=Head Above |date=May 31, 2011 |title=Book on Music Sheds New Light on Fetal Development |url=https://headabovemusic.com/book-on-music-sheds-new-light-on-fetal-development/ |url-status=live |archive-url=https://web.archive.org/web/20121227000143/https://headabovemusic.com/book-on-music-sheds-new-light-on-fetal-development/ |archive-date=December 27, 2012 |access-date=August 6, 2024 |website=Head Above Music |language=en-US}}</ref> Some comics were included in the 2006 compilation ''Bizarro and Other Strange Manifestations of the Art of [[Dan Piraro]]'' (Andrews McMeel).<ref>{{cite magazine |last1=Stein |first1=Joel |title=Study Shows Music Brings My Family Closer Together |url=https://time.com/4217077/music-study/ |magazine=Time |date=11 Feb 2016}}</ref><ref>{{cite web |title=Levitin, Daniel J. 1957- |url=https://www.encyclopedia.com/arts/educational-magazines/levitin-daniel-j-1957 |website=Encyclopedia.com |access-date=1 March 2019}}</ref>
+
+== Music ==
+Levitin began playing piano at age 4. He took up clarinet at age 8, and bass clarinet and saxophone at age 12.<ref>{{Cite book|title=This Is Your Brain on Music|last=Levitin|first=Daniel|publisher=Dutton/Penguin Random House|year=2006|isbn=9780452288522|location=New York, Toronto, London}}</ref> He played saxophone (tenor and baritone) in high school; at age 17 he performed on baritone with the big band backing up [[Mel Tormé]] at the Santa Monica Civic Auditorium.<ref>{{Cite news|title=Jazz Legend Mel Tormé to play Santa Monica Civic|date=May 5, 1974|work=Palos Verdes Peninsula News}}</ref> He began playing guitar at age 20 and has been a member of bands including The Alsea River Band (lead guitar), The Mortals (bass), Judy Garland [band] (bass), The Shingles (lead guitar), Slings & Arrows (bass), JD Buhl (bass and guitar). He also played on recording sessions for [[Blue Öyster Cult]], [[True West (band)|True West]], and the soundtrack to ''[[Repo Man (film)|Repo Man]].''
+
+He continues to perform regularly and has played saxophone with [[Sting (musician)|Sting]], [[Ben Sidran]], and [[Bobby McFerrin]], played guitar with [[Rosanne Cash]], [[Blue Öyster Cult]], [[Rodney Crowell]], [[Michael Brook]], [[Gary Lucas]], [[Victor Wooten]], [[Steve Bailey]], [[Peter Case]], [[Peter Himmelman]], [[Lenny Kaye]], [[Jessie Farrell]], and [[David Byrne (musician)|David Byrne]]; and appeared on vocals with [[Renée Fleming]], [[Neil Young]] and [[Rosanne Cash]].<ref>{{cite web|url=https://www.mcgill.ca/newsroom/node/14564 |title=Daniel Levitin to present at New Yorker conference |work=Mcgill.ca |access-date=2019-06-30}}</ref><ref>{{Cite web|url=https://college.berklee.edu/news/2360/alumni-profile-daniel-levitin-80|title=Alumni Profile: Daniel Levitin '80|website=college.berklee.edu}}</ref> In the fall of 2017 he toured the West Coast with singer-songwriter [[Tom Brosseau]].
+
+He began writing songs at age 17. His songwriting has been praised by a number of top songwriters including [[Diane Warren]], and [[Joni Mitchell]], who said, "Dan is really good at what he does, and creates rich images with his words and music."<ref>Spoken at McCabe's, Santa Monica, Sept. 8, 2017, after Levitin & Brosseau show there.</ref>
+
+He released his first album of original songs, ''Turnaround'', in January 2020 with a performance with his own band at the Rockwood Music Hall in New York City, followed by seven shows with [[Victor Wooten]]'s Bass Extremes band in Los Angeles, Oakland, and Phoenix, and a performance of one of the album's songs "[https://www.youtube.com/watch?v=3bdwHZ2HIoU Just A Memory]" with [[Renée Fleming]], Victor Wooten and Hardy Hemphill sponsored by [[John F. Kennedy Center for the Performing Arts]].<ref>{{Cite web|title=Daniel Levitin, ft. Renée Fleming, Victor Wooten, & Hardy Hemphill - "Just a Memory" - YouTube|url=https://www.youtube.com/watch?v=3bdwHZ2HIoU|access-date=2020-07-18|website=www.youtube.com| date=June 24, 2020 }}</ref>
+
+==Music producing and engineering==
+{{Infobox musical artist
+| name              = Daniel Levitin
+| image             = File:Levitin.jpg
+| image_size        = 
+| birth_name        = Daniel Joseph Levitin
+| alias             = 
+| birth_date        = {{Birth date and age|1957|12|27|mf=y}}
+| death_date        = 
+| origin            = San Francisco
+| instrument        = [[Tenor saxophone]], guitar, bass, vocals
+| genre             = Rock, [[New wave music|new wave]], [[Punk rock|punk]], [[jazz]], [[folk rock]], [[Country music|country]]
+| occupation        = Producer, Engineer, Musician
+| years_active      = 1980 to present
+| label             = [[415 Records]], [[Columbia Records]], [[Sony Music]], [[Warner Bros. Records]], Infrasonic Records, [[TwinTone Records]]
+| associated_acts   = [[Blue Öyster Cult]], The Afflicted, [[Santana (band)|Santana]], [[The Grateful Dead]], [[Chris Isaak]], [[Steely Dan]], [[Joe Satriani]], The Mortals, The Alsea River Band, [[MDC (band)|MDC]], [[Jonathan Richman]] and [[The Modern Lovers]], [[Neil Young]], [[Renée Fleming]]
+| website           = 
+}}
+
+In the late 1970s, Levitin consulted for ''M&K Sound'' (Jonas Miller and Ken Kreisel, Beverly Hills<ref name="thebottomend/Kreisel-M&K">{{cite web |title=Ken Kreisel and M&K Sound |url=http://www.thebottomend.co.uk/ken_kreisel_int.php |website=www.thebottomend.co.uk : The Bottom End |access-date=13 September 2025 |archive-url=https://web.archive.org/web/20061012104126/http://www.thebottomend.co.uk/ken_kreisel_int.php |archive-date=October 12, 2006}}</ref>) as an expert listener assisting in the design of the first commercial satellite and [[subwoofer]] loudspeaker systems, an early version of which was used by [[Steely Dan]] for mixing their album ''[[Pretzel Logic]]'' (1974). After that he worked at ''A Broun Sound'' (John Harrison,<ref name="mIJ/harrison-speakers">{{cite news |title=John Harrison, inventor of Tone Tubby hemp speakers for rock stars, dies at 59 |url=https://www.marinij.com/2012/06/29/john-harrison-inventor-of-tone-tubby-hemp-speakers-for-rock-stars-dies-at-59/ |access-date=13 September 2025 |work=[[Marin Independent Journal]] |date=29 June 2012}}</ref> in [[Terra Linda, San Rafael, California]]), re-coning speakers for [[The Grateful Dead]] for whom he later worked as a consulting record producer. Levitin was one of the [[golden ear]]s used in the first [[Dolby AC-3|Dolby AC]] audio compression tests, a precursor to MP3 [[Audio compression format|audio compression]].<ref name="Marquis Who's Who in America" /> From 1984 to 1988, he worked as the director, then vice president of [[A&R]] for [[415 Records]] in San Francisco, becoming the president of the label in 1989 before the label was sold to [[Sony Music]].<ref>[[415 Records]]</ref><ref>{{cite web |last=Sullivan |first=James |date=July 13, 2022 |title=The dynamic, 'Disturbing' history of San Francisco's 415 Records |url=https://datebook.sfchronicle.com/music/the-dynamic-disturbing-history-of-san-franciscos-415-records |archive-url=https://web.archive.org/web/20221207004015/https://datebook.sfchronicle.com/music/the-dynamic-disturbing-history-of-san-franciscos-415-records |archive-date=December 7, 2022 |access-date=2024-07-18 |website=[[San Francisco Chronicle|Datebook {{!}} San Francisco Arts & Entertainment Guide]]}}</ref> Notable achievements during that time included producing the [[punk rock|punk]] classic ''Here Come the Cops'' by The Afflicted (named among the Top 10 records of 1985 by ''[[GQ]]'' magazine); engineering records by [[Jonathan Richman]] and the [[Modern Lovers]], [[Santana (band)|Santana]], and the [[Grateful Dead]]; and producing tracks for [[Blue Öyster Cult]], the soundtrack to ''[[Repo Man (film)|Repo Man]]'' (1984), and others.<ref>{{cite web | url = {{AllMusic|class=artist|id=p366143/credits|pure_url=yes}} | title = Allmusic:Artist:Daniel Levitin | access-date = 2006-09-14 }}</ref> Two highlights of his tenure in A&R were discovering the band The Big Race (which later became the well-known soundtrack band [[Pray for Rain (band)|Pray for Rain]]), and he had the opportunity to sign [[M.C. Hammer]] but passed.<ref>{{Cite web|url=https://www.newsounds.org/story/daniel-levitin-pick-three/|title=This Is Neuroscientist Daniel Levitin On Music {{!}} Soundcheck {{!}} New Sounds|website=newsounds|language=en|access-date=2019-07-04}}</ref>
+
+After 415 was sold, he formed his own production and business consulting company, with a list of clients including [[AT&T]], several [[venture capital]] firms, and every major record label.<ref>[http://www.bic.mni.mcgill.ca/PeopleAffiliates/LevitinDan Retrieved August 31, 2014]</ref> As a consultant for [[Warner Bros. Records]] he planned the marketing campaigns for such albums as [[Eric Clapton]]'s ''[[Unplugged (Eric Clapton album)|Unplugged]]'' (1992) and [[k.d. lang]]'s ''[[Ingénue (album)|Ingénue]]'' (1992). He was a music consultant on feature films such as ''[[Good Will Hunting]]'' (1997) and ''[[The Crow: City of Angels]]'' (1996), and served as a compilation consultant to [[Stevie Wonder]]'s ''[[Song Review: A Greatest Hits Collection]]'' (1996), and to ''[[As Time Goes By (The Carpenters album)|As Time Goes By]]'' (2003) and ''[[Interpretations (The Carpenters DVD)|Interpretations: A 25th Anniversary Celebration]]'' (1995; updated and released as a DVD in 2003) by [[The Carpenters]]. Levitin returned to the studio in 2002, producing three albums for Quebec blues musician Dale Boyle: ''String Slinger Blues'' (2002),  ''A Dog Day for the Purists'' (2004), and ''In My Rearview Mirror: A Story From A Small Gaspé Town'' (2005), the latter two of which won the annual Lys Blues Award for best Blues album.<ref>{{Cite web |url=http://conductor1.wix.com/label#!affiliates |title=Retrieved August 31, 2014 |access-date=August 31, 2014 |archive-date=September 3, 2014 |archive-url=https://web.archive.org/web/20140903154514/http://conductor1.wix.com/label#!affiliates |url-status=dead }}</ref> He helped [[Joni Mitchell]] with the production of her three most recent albums, ''[[Shine (Joni Mitchell album)|Shine]]'', ''Love Has Many Faces: A Quartet, A Ballet, Waiting to Be Danced'', and ''Starbucks' Artist's Choice: Joni Mitchell''.
+
+In 1998, Levitin helped to found [[MoodLogic]].com (and its sister companies, Emotioneering.com and jaboom.com), the first Internet music recommendation company, sold in 2006 to [[Allmusic]] group. He has also consulted for the [[United States Navy]] on underwater sound [[Signal separation|source separation]], for [[Philips Electronics]], and [[AT&T]].<ref>[http://www.apa.org/research/action/speaking-of-psychology/music-health.aspx Retrieved August 31, 2014]</ref> He was an occasional script consultant to [[The Mentalist]] from 2007 to 2009.
+
+==Writing career==
+Levitin began writing articles in 1988 for music industry magazines ''[[Billboard magazine|Billboard]]'', ''Grammy'', ''EQ'', ''Mix'', ''Music Connection'', and ''Electronic Musician'', and was named contributing writer to ''Billboard''{{′}}s Reviews section from 1992 to 1997. He has contributed to ''[[The New York Times]]'', ''[[The Wall Street Journal]]'', ''[[The Washington Post]]'', ''[[The New Yorker]]'',<ref>{{cite magazine | url=https://www.newyorker.com/culture/personal-history/neuroscientists-diary-of-a-concussion | title=A Neuroscientist's Diary of a Concussion | magazine=[[The New Yorker]] | access-date=2020-06-05}}</ref> and ''[[The Atlantic]]''.<ref>{{cite web |url=https://www.theatlantic.com/health/archive/2012/12/amnesia-and-the-self-that-remains-when-memory-is-lost/266662/ |title=Amnesia and the Self That Remains When Memory Is Lost |website=[[The Atlantic]] |date=December 31, 2012 |access-date=2013-01-14}}</ref>
+
+Levitin is the author of ''[[This Is Your Brain On Music|This Is Your Brain on Music: The Science of a Human Obsession]]'', (Dutton/Penguin 2006; Plume/Penguin 2007) which spent more than 12 months on the ''New York Times''<ref>{{cite news |url=https://www.nytimes.com |title=New York Times |access-date=2007-11-15 |first=Alan |last=Feuer}}</ref> and the ''Globe'' and ''Mail'' bestseller lists. In that book, he shares observations related to all sorts of music listeners, telling for instance that, today, teenagers listen to more music in one month than their peers living during the 1700s during their entire existence. The book was nominated for two awards ([[Los Angeles Times Book Prize|''The Los Angeles Times'' Book Prize]] for Outstanding Science & Technology Writing and the [[Quill Award]] for the Best Debut Author of 2006), named one of the top books of the year by Canada's ''[[The Globe and Mail]]'' and by ''[[The Independent]]'' and ''[[The Guardian]]'',<ref>{{cite news |url=https://www.theguardian.com/books/2008/dec/21/bestbooksoftheyear-roundupreviews |work=The Guardian |location=London |title=Pick of the paperbacks 2008 |date=December 21, 2008 |access-date=April 30, 2010}}</ref> and has been translated into 20 languages. ''[[The World in Six Songs|The World in Six Songs: How the Musical Brain Created Human Nature]]'' (Dutton/Penguin 2008) debuted on the Canadian and the ''New York Times'' bestseller lists,<ref>{{cite web|url=http://www.canada.com/vancouversun/news/arts/story.html?id=9b74bf5c-cec2-4cce-a3e7-090dd75acfd5 |title=Vancouver Sun |access-date=2008-08-16 |url-status=dead |archive-url=https://web.archive.org/web/20121104212237/http://www.canada.com/vancouversun/news/arts/story.html?id=9b74bf5c-cec2-4cce-a3e7-090dd75acfd5 |archive-date=November 4, 2012 |df=mdy }}</ref> and was named by the ''[[Boston Herald]]'' and by ''[[Seed Magazine]]'' as one of the best books of 2008. It was also nominated for the World Technology Awards.
+
+''[[The Organized Mind]]'' was published by Dutton/Penguin Random House in 2014,<ref>{{Cite web|url=https://www.publishersweekly.com/pw/by-topic/industry-news/book-deals/article/55791-deals-week-of-february-4-2013.html|title=Deals: Week of February 4, 2013|first=Rachel|last=Deahl |website=PublishersWeekly.com}}</ref> debuting at #2 on the ''New York Times'' Bestseller List<ref>{{cite news |url=https://www.nytimes.com/best-sellers-books/ |title=Best Sellers - Books - the New York Times |newspaper=The New York Times |access-date=August 31, 2014}}</ref> and reaching #1 on the Canadian best-seller lists.<ref>{{cite web |url=https://www.theglobeandmail.com/arts/books-and-media/bestsellers/bestsellers-hardcover-non-fiction-may-25-2013/article4226576/ |title=Bestsellers |website=www.theglobeandmail.com |access-date=August 31, 2014}}</ref> ''[[A Field Guide to Lies: Critical Thinking in the Information Age|A Field Guide to Lies]]'' was published by Dutton/Penguin Random House in 2016, and released in paperback in March 2017 under the revised title ''Weaponized Lies''. It appeared on numerous best-seller lists in the U.S., Canada and the U.K.,<ref>{{cite web|url=https://www.thestar.com/entertainment/books/2016/09/16/bestsellers.html |title=Bestsellers |work=The Star |date=2016-09-16 |access-date=2019-06-30}}</ref><ref>{{cite web|url=https://www.prweb.com/releases/hudson_booksellers_announces_the_best_books_of_2016/prweb13806916.htm |title=Hudson Booksellers Announces the Best Books of 2016 |work=Prweb.com |date=2016-10-31 |access-date=2019-06-30}}</ref> and is the most acclaimed of Levitin's four books, receiving the National Business Book Award,<ref>{{cite web|last=Robertson |first=Becky |url=https://quillandquire.com/omni/award-winning-book-a-field-guide-to-lies-receives-a-new-title-post-trump/ |title=Award-winning book A Field Guide to Lies receives a new title post-Trump |work=Quill and Quire |date=2017-04-27 |access-date=2019-06-30}}</ref> the Mavis Gallant Prize for Non-Fiction, the Axiom Business Book Award, and was a finalist for the Donner Prize.
+
+[[Successful Aging (book)|''Successful Aging: A Neuroscientist Explores the Power and Potential of Our Lives'']] was published by Dutton/Penguin Random House in January 2020 and debuted at #10 on the ''New York Times'' bestseller list<ref>{{cite web|url=https://www.nytimes.com/books/best-sellers/ |title=Best Sellers |work=The New York Times |date=2020-01-18}}</ref> in its first week of release, and at #2 on the Canadian bestseller list, and stayed on the Canadian bestseller lists for more than six months. It was named an Apple Books book-of-the-month and Next Big Idea Club selection. It was published by Penguin Life in the U.K. as ''The Changing Mind: A Neuroscientist's Guide to Ageing Well''; it debuted at #5 on the ''Sunday Times'' Bestseller List.<ref>{{cite web |url=https://www.thetimes.co.uk/article/the-sunday-times-bestsellers-list-books-reads-authors-writers/ |title=Best Sellers |work=The Sunday Times |date=2020-03-08 }}{{dead link|date=April 2025|bot=medic}}{{cbignore|bot=medic}}</ref> It was named by the Sunday Times as one of the best books of 2020.<ref>{{cite web|url=https://www.thetimes.com/culture/books/article/best-books-of-2020-0xsm7rbr6 | title= Best Books of 2020 | work=The Sunday Times | date=2020-06-06}}</ref>
+
+==In popular culture==
+In ''[[The Listener (TV series)|The Listener]]'' TV series, actor [[Colm Feore]] says his performance of the character Ray is based on Daniel Levitin.<ref>{{cite journal | author = Gayle MacDonald | title=Listening for the Listener | journal = Globe and Mail | date = June 3, 2008}}</ref>
+
+Levitin consulted on the legal strategy used by [[Jimmy Page]] and [[Led Zeppelin]] to defend copyright infringement claim against his song [[Stairway To Heaven]].<ref>{{cite magazine | author = Robert Levine | title=Inside the 'Stairway to Heaven' Lawsuit: Everything You Need to Know | magazine = Billboard | date = June 9, 2016}}</ref><ref>{{cite court |litigants=M. Skidmore v. James Patrick Page, et al |reporter= United States Reports |opinion= 16-56287|court= United States Court of Appeals for the 9th Circuit |date= March 12, 2018 |url= http://cdn.ca9.uscourts.gov/datastore/opinions/2018/09/28/16-56057.pdf|quote= "The panel found that…the two songs were not substantially similar under the extrinsic test.}}</ref>
+
+==Media appearances==
+From September 2006 to April 2007 Levitin served as a weekly [[Pundit (expert)|commentator]] on the [[CBC Radio One]] show ''[[Freestyle (radio program)|Freestyle]]''. Two documentary films were based on ''[[This Is Your Brain on Music]]'': ''The Music Instinct'' (2009, PBS), which he co-hosted with [[Bobby McFerrin]], and ''The Musical Brain'' (2009, CTV/National Geographic Television) which he co-hosted with [[Sting (musician)|Sting]]. Levitin appeared in ''[[Artifact (film)|Artifact]]'', a 2012 documentary directed by [[Jared Leto]]. His television and film appearances have reached more than 50 million viewers worldwide.<ref>{{cite news|url=http://en-us.nielsen.com/content/nielsen/en_us/industries/media/television.html?gclid=CL3TlaHph6QCFV195QodlxaWLA |title=Nielsen Television Ratings |access-date=2010-04-10 }}{{dead link|date=December 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+Levitin had a cameo appearance in ''[[The Big Bang Theory]]'' at the invitation of the producers, in Season 8, Episode 5, "The Focus Attenuation". He appeared in the opening scene, sitting at a table in the Caltech cafeteria over Sheldon's right shoulder. In January 2015 he was a guest on [[BBC Radio 4]]'s ''[[Start the Week]]'' program alongside cognitive scientist [[Margaret Boden]].<ref>{{cite episode |url=http://www.bbc.co.uk/programmes/b0505zw1 |title=Organising the Mind |series=[[Start the Week]] |station=[[BBC Radio 4]] |date=2015-01-26 |access-date=2025-02-23}}</ref>
+
+In 2019–2020 he was a script consultant and on-air guest for Season 8 of [[National Geographic]]'s ''[[Brain Games (2011 TV series)|Brain Games]]''. In 2020, he appeared in [[Stewart Copeland]]'s ''Adventures in Music'' series on BBC Four,<ref>{{cite episode |url=https://www.bbc.co.uk/programmes/m000db8k |title=Episode 1 |station=[[BBC Four]] |series=Stewart Copeland's Adventures in Music }}</ref> discussing the evolutionary basis of music and the neuroscience of music.
+
+==Awards==
+{{BLP sources section|date=May 2019}}
+*Finalist, [[Donner Prize]] (2017), [[A Field Guide to Lies]].
+*Winner, [[National Business Book Award]] (2017), A Field Guide to Lies.<ref>{{Cite web |title=A Field Guide to Lies: Critical Thinking in the Information Age |url=https://nbbaward.com/?page_id=1461#:~:text=TORONTO,%20April%2024,%202017%20/,(Penguin%20Random%20House%20Canada). |access-date=2025-06-25 |website=nbbaward.com}}</ref>
+*Silver Medal, Axiom Business Book Awards, Ethics category (2017), [[A Field Guide to Lies]].
+*Winner, [[Mavis Gallant Prize for Non-Fiction]] (2016), [[A Field Guide to Lies]].
+*Finalist, [[Los Angeles Times Book Prize]] (2006), ''[[This Is Your Brain on Music]]'', Best Book on Science and Technology.
+*Cine Special Jury Prize for Arts & Culture, The Music Instinct (Daniel Levitin, co-host, co-writer and chief scientific consultant), 2010, Washington, D.C.
+*[[Banff World Television Festival]], Rockie Award Nominee, The Music Instinct (Daniel Levitin, co-host, co-writer and chief scientific consultant), 2010.
+*First place, Pariscience Film Festival, The Music Instinct (Daniel Levitin, co-host, co-writer and chief scientific consultant), 2009.
+*Winner, [[Gemini Awards|Gemini Award]], Best Sound in an Information/Documentary Program or Series, The Musical Brain (Daniel Levitin, host and scientific consultant), 2009.
+*[[Hugo Award|Hugo]] Television Award, Science/Nature Documentary, 45th Chicago International Film Festival, The Musical Brain (Daniel Levitin, host and scientific consultant), 2009.
+*European Acoustics Association (EAA) Award for Outstanding Scientific Results Published in Acta Acustica United With Acustica (with co-recipients C. Guastavino, J-D Pollack, D. Dubois and B. Katz), 2008.
+*Nominee, [[Quill Awards|Quill Award]], Best Debut Author (2006), ''[[This Is Your Brain on Music]]''.
+*Awarded sixteen [[RIAA]] gold and [[platinum record]]s.<ref>{{cite journal | author= Thompson, Clive | title= Music of the Hemispheres | journal= New York Times | date = December 31, 2006 |pages=Section 2 Arts & Leisure, Page 1}}</ref>
+**[[Stevie Wonder]], [[Song Review: A Greatest Hits Collection]]
+**[[Eric Clapton]], [[Unplugged (Eric Clapton album)|Unplugged]]
+**[[Steely Dan]], [[Can't Buy A Thrill]]
+**Steely Dan, [[Countdown to Ecstasy]]
+**Steely Dan, [[Pretzel Logic]]
+**Steely Dan, [[Katy Lied]]
+**Steely Dan, [[The Royal Scam]]
+**Steely Dan, [[Aja (album)|Aja]]
+**Steely Dan, [[Gaucho (album)|Gaucho]]
+**Steely Dan, [[Two Against Nature]]
+**Steely Dan, [[Gold (Steely Dan album)]], expanded edition
+**Steely Dan, [[A Decade of Steely Dan]]
+**[[K.d. lang]], [[Ingénue (album)|Ingenue]]
+**[[Midnight Oil]], [[Diesel and Dust]]
+**[[Chris Isaak]], [[Heart Shaped World (Chris Isaak album)|Heart Shaped World]]
+**[[The Crow: City of Angels (soundtrack)]]
+*Best Film Soundtrack award, [[Sundance Film Festival]], 1985, for ''Architects of Victory''
+*Gold Medal, [[Venice Film Festival]], 1985, Film Soundtrack Production, for ''Architects of Victory''
+*Lys Award, Best Blues Album, 2005, Dale Boyle: In My Rearview Mirror: A Story From A Small Gaspé Town
+*Lys Award, Best Blues Album 2004, Dale Boyle and the Barburners: A Dog Day for Purists
+*"Top 100 Papers in Cognitive Science" by the Millennium Project for "Absolute Memory for Musical Pitch," ''Perception and Psychophysics'', 1994.
+
+==Selected publications==
+===Books===
+*''The Billboard Encyclopedia of Record Producers'' (1999).  New York: Watson-Guptill Publications, E. Olsen, C. Wolff, P. Verna, Editors; D. J. Levitin, associate editor.
+* ''Foundations of Cognitive Psychology: Core Readings'' (2002), Cambridge, MA: M.I.T. Press
+* ''Foundations of Cognitive Psychology: Core Readings, Second Edition'' (2010), Boston: Allyn & Bacon/Pearson Publishing
+* ''[[This Is Your Brain On Music|This Is Your Brain on Music: The Science of a Human Obsession]]'', (2006), New York: Dutton/Penguin.  (released in the U.K. and Commonwealth territories by Atlantic, 2007).  (appeared on the ''New York Times'' Bestseller List both in hardcover and paperback)
+* ''[[The World in Six Songs|The World in Six Songs: How the Musical Brain Created Human Nature]]'' (2008), New York: Dutton/Penguin and Toronto: Viking/Penguin.  (''New York Times'' bestseller)
+* ''[[The Organized Mind|The Organized Mind: Thinking Straight in the Age of Information Overload]]'' (2014), New York: Dutton/Penguin Random House and Toronto: Allen Lane/Penguin Random House and London: Viking/Penguin Random House.
+* ''[[A Field Guide to Lies: Critical Thinking in the Information Age]]'' (2016), New York: Dutton/Penguin Random House; Toronto: Allen Lane/Penguin Random House; London: Viking/Penguin Random House
+* ''[[Successful Aging (book)|Successful Aging: A Neuroscientist Explores the Power and Potential of Our Lives]]'' (2020), New York: Dutton/Penguin Random House; Toronto: Allen Lane/Penguin Random House; London: Penguin Life.
+* ''[[I Heard There Was A Secret Chord: Music as Medicine (book)|I Heard There Was A Secret Chord: Music as Medicine]]'' (2024), New York: W.W. Norton & Company.
+
+===Scientific articles (selected)===
+*{{cite journal | last1 = Levitin | first1 = D. J. | last2 = Grafton | first2 = S. T.  | year = 2016 | title = Measuring the representational space of music with fMRI: a case study with Sting | journal = Neurocase  | volume = 22 | issue = 6| pages = 548–567 | doi=10.1080/13554794.2016.1216572 | pmid=27687156| s2cid = 3985554 | url = https://escholarship.mcgill.ca/concern/articles/5t34sp144 }}
+*{{cite journal | last1 = Chanda | first1 = M. L. | last2 = Levitin | first2 = D. J.  | year = 2013 | title = The neurochemistry of music | url = http://digitool.Library.McGill.CA:80/R/?func=dbin-jump-full&object_id=145105| journal = Trends in Cognitive Sciences | volume = 17 | issue = 4| pages = 179–193 | doi=10.1016/j.tics.2013.02.007 | pmid=23541122| s2cid = 14608078 }}
+*{{cite journal | last1 = Sridharan | first1 = D. | last2 = Levitin | first2 = D. J.  | last3 = Menon | first3= V. | year = 2008 | title = A critical role for the right fronto-insular cortex in switching between central-executive and default-mode networks | journal = Proceedings of the National Academy of Sciences | volume = 105 | issue = 34| pages = 12569–12574 | doi=10.1073/pnas.0800005105 | pmid=18723676 | pmc=2527952| bibcode = 2008PNAS..10512569S | doi-access = free }}
+*{{cite journal | last1 = Langford | first1 = D. J. | last2 = Crager | first2 = S. E. | last3 = Shehzad | first3 = Z. | last4 = Smith | first4 = S. B. | last5 = Sotocinal | first5 = S. G. | last6 = Levenstadt | first6 = J. S. | last7 = Chanda | first7 = M. L. | last8 = Levitin | first8 = D. J. | last9 = Mogil | first9 = J. S. | year = 2006 | title = Social Modulation of Pain as Evidence for Empathy in Mice | journal = Science | volume = 312 | issue = 5782| pages = 1967–1970 | doi=10.1126/science.1128322 | pmid=16809545| bibcode = 2006Sci...312.1967L | s2cid = 26027821 | url = https://escholarship.mcgill.ca/concern/articles/76537484n }}
+*{{cite journal | last1 = Levitin | first1 = D. J. | last2 = Cook | first2 = P. R. | year = 1996 | title = Absolute memory for musical tempo: Additional evidence that auditory memory is absolute | journal = Perception & Psychophysics | volume = 58 | issue = 6| pages = 927–935 | doi=10.3758/bf03205494| pmid = 8768187 | doi-access = free }}
+
+===Discography===
+*J.D. Buhl, ''Remind Me''. Driving Records/CD Baby, 2015. (Producer and Engineer).
+*Diane Nalini, ''Songs of Sweet Fire''.  2006. (Mixing Engineer, Production Consultant).
+*Dale Boyle, ''In My Rearview Mirror: A Story From A Small Gaspé Town''.  2005. (Production Consultant)
+*Dale Boyle and the Barburners, ''A Dog Day for the Purists''.  2004.  (Producer).
+*Dale Boyle and the Barburners, ''String Slinger Blues''.  2002.  (Producer).
+*The Carpenters.  ''As Time Goes By''.  A&M Records/Universal, 2000.  (Consultant on song selection, liner notes writer.)
+*Various Artists.  Original motion picture soundtrack, ''Good Will Hunting''. Hollywood/Miramax Records, 1998.  (A&R Consultant. )
+*[[Stevie Wonder discography]]Stevie Wonder.  ''Stevie Wonder Song Review:  A Greatest Hits Collection''.  Motown, 1996.  (Consultant on song selection.  Liner notes writer.)
+*[[Steely Dan discography|Steely Dan]], ''Gold'', ''Decade'', ''Gaucho'', ''Aja'', ''The Royal Scam'', ''Katy Lied'',  ''Pretzel Logic'', ''Countdown to Ecstasy'', ''Can't Buy A Thrill'', MCA, 1992.  (Consultant on CD Remastering.) [source?]
+*kd lang, ''Ingénue'', Reprise, 1992.  (Consultant.)
+*[[Eric Clapton albums discography|Eric Clapton]], ''Unplugged'', Reprise, 1992.  (Consultant.)
+*Chris Isaak, ''Heart Shaped World'', Warner Brothers, 1989.  (Engineering (Asst), Sound Design  (Soundscape)).
+*Jonathan Richman and the Modern Lovers, ''Rockin' and Romance'', Twin/Tone (U.S), Sire (U.K.), 1986.  (Engineer).
+*The Furies, ''Fun Around The World'', Infrasonic, 1986
+*Rhythm Riot, ''Rhythm Riot'', EP, Infrasonic, 1987*True West, ''Drifters'', Passport/JEM Records, 1985.  (co-producer).
+*The Big Race, "Happy Animals," from the Soundtrack of the Paramount Film ''Repo Man'', 1985.  (Producer, Engineer)
+*The Afflicted, ''[[Good News About Mental Health]]'', Infrasonic, 1984.  (Producer)
+*''International P.E.A.C.E. Benefit Compilation'', R Radical Records, 1984 (Producer of tracks by The Afflicted and [[MDC (band)|MDC]]), reissued 1997 New Red Archives/Lumberjack Mordam Music Group
+
+==Filmography==
+{| class="wikitable"
+! colspan="4" style="background: LightSteelBlue;"|Film 
+|-
+! style="width:40px;"| Year
+! style="width:250px;"| Film
+! style="width:150px;"| Role
+! style="width:300px;"| Notes
+
+|-
+|| 1984
+|''[[Repo Man (film)|Repo Man]]''
+| Self, musician
+|
+|-
+| | 1997
+| ''[[Close to You: Remembering The Carpenters|Close To You: Remembering the Carpenters]]''
+| Self, Consultant to the producers 
+| PBS
+|-
+|| 1998 
+| ''The Carpenters: Harmony and Heartbreak'' 
+| Consultant to the Producers
+|A&E Biography
+|-
+|rowspan="2"| 2009
+| ''[[The Music Instinct]]''
+| Self, writer, consultant
+| PBS Nova
+|-
+| ''[[The Musical Brain]]''
+| Self, Writer; Consultant
+| CTV/National Geographic
+|-
+|rowspan="2"|2012
+| [[Artifact (film)|''Artifact'']]
+| Self
+|
+|-
+| ''What Makes a Masterpiece''
+| Self
+| BBC 4
+|}
+
+==See also==
+*[[John P. D'Arcy]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{wikiquote}}
+* {{official website}}
+*[http://levitinlab.com Levitin Laboratory for Music Perception, Cognition and Expertise]{{Dead link|date=November 2019 |bot=InternetArchiveBot |fix-attempted=yes }}
+*[http://7thavenueproject.com/post/452946222/daniel-levitin-your-brain-on-music Daniel Levitin discusses ''This is Your Brain on Music''] – Interview on the 7th Avenue Project radio show
+*[http://www.maximumfun.org/blog/2006/10/podcast-your-brain-on-music-with.html Interview with Levitin regarding This is Your Brain on Music on The Sound of Young America (2006)]
+* [http://www.encyclopedia.com/article-1G2-3414800199/levitin-daniel-j-1957.html Levitin, Daniel J. 1957–], in: ''[[Contemporary Authors]]'', 2005, at encyclopedia.com
+* {{IMDb name|355320}}
+
+{{Music psychology}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Levitin, Daniel}}
+[[Category:1957 births]]
+[[Category:Living people]]
+[[Category:Canadian cognitive neuroscientists]]
+[[Category:Record producers from California]]
+[[Category:American music journalists]]
+[[Category:American music psychologists]]
+[[Category:American science writers]]
+[[Category:Berklee College of Music alumni]]
+[[Category:Stanford University alumni]]
+[[Category:Stanford University School of Medicine alumni]]
+[[Category:University of Oregon alumni]]
+[[Category:Dartmouth College faculty]]
+[[Category:University of California, Berkeley faculty]]
+[[Category:Stanford University Department of Psychology faculty]]
+[[Category:Stanford University School of Engineering faculty]]
+[[Category:McGill University Faculty of Science alumni]]
+[[Category:Journalists from San Francisco]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:Fellows of the Royal Society of Canada]]
+[[Category:Academics from San Francisco]]
+[[Category:Journalists from California]]
+[[Category:People from Palos Verdes, California]]
+[[Category:People from Daly City, California]]
+[[Category:People from Moraga, California]]
+[[Category:Massachusetts Institute of Technology alumni]]

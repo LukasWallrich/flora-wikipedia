@@ -1,0 +1,31 @@
+{{Short description|Aspect of inoculation theory}}
+{{Multiple issues|
+{{more footnotes|date=June 2018}}
+{{Notability|date=April 2022}}
+}}
+In [[inoculation theory]], refutational preemption consists of “specific content that receivers can employ to strengthen attitudes against subsequent change.”{{R|"KYLE1997"}}
+
+==Overview==
+Drawing on [[William J. McGuire|McGuire]] & Papageorgis, Pfau, et al. define the refutational preemption, or [https://en.wiktionary.org/wiki/pretreatment pretreatment], step of the inoculation [[process]]: "The [[theory]] posits that refutational pretreatments, which raise the specter of content potentially damaging to the receiver’s attitude while simultaneously providing direct [[refutation]] of that content in the presence of a supportive environment, threaten the [[individual]]. This triggers the [[motivation]] to bolster [[arguments]] supporting the receiver’s attitudes, thus conferring resistance".{{R|"Pfau1990"}}
+
+Instead of providing the receiver with additional supporting [[evidence]] why their held [[beliefs]] are true, the receiver is provided [[counterarguments]] they may encounter in the future that might challenge their held belief. The effectiveness of this inoculation falls off as the level of effort required by the receiver to defend the belief increases.{{R|"McGuire1961"}}<ref name="Compton_2025">{{cite book | vauthors = Compton J, Braddock K | chapter = Inoculation Theory and Conspiracy, Radicalization, and Violent Extremism | title = The Handbook of Social and Political Conflict | editor1-last = Samoilenko | editor1-first = Sergei A. | editor2-last = Simmons | editor2-first = Solon | publisher = Routledge | year = 2025 | pages = 405 | chapter-url = | isbn = }}</ref>
+
+==See also==
+* [[Inoculation theory]]
+* [[Refutation]]
+* [[William J. McGuire]]
+
+== References ==
+<references>
+
+<ref name="McGuire1961">{{cite journal | last1=McGuire | first1=W. J. | last2=Papageorgis | first2=D. | title=The relative efficacy of various types of prior belief-defense in producing immunity against persuasion. | journal=The Journal of Abnormal and Social Psychology | publisher=American Psychological Association (APA) | volume=62 | issue=2 | year=1961 | issn=0096-851X | doi=10.1037/h0042026 | pages=327–337| pmid=13773992 }}</ref>
+
+<ref name="Pfau1990">{{cite journal | last1=Pfau | first1=Michael | last2=Kenski | first2=Henry C. | last3=Nitz | first3=Michael | last4=Sorenson | first4=John | title=Efficacy of inoculation strategies in promoting resistance to political attack messages: Application to direct mail | journal=Communication Monographs | publisher=Informa UK Limited | volume=57 | issue=1 | year=1990 | issn=0363-7751 | doi=10.1080/03637759009376183 | pages=25–43}}</ref>
+
+<ref name="KYLE1997">{{cite journal | last1=Kyle | first1=Michael Pfau | last2=Tusing | first2=James | last3=Koerner | first3=Ascan F. | last4=Lee | first4=Waipeng | last5=Goldbold | first5=Linda C. | last6=Penzola | first6=Linda J. | last7=Shu-Huei | first7=Violet | last8=Hong | first8=Yang-Huei| title=Enriching the Inoculation Construct The Role of Critical Components in the Process of Resistance | journal=Human Communication Research | publisher=Oxford University Press (OUP) | volume=24 | issue=2 | year=1997 | issn=0360-3989 | doi=10.1111/j.1468-2958.1997.tb00413.x | pages=187–215}}</ref>
+
+</references>
+
+[[Category:Communication]]
+[[Category:Propaganda techniques]]
+[[Category:Psychological attitude]]

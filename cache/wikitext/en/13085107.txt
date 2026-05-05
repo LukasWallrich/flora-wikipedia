@@ -1,0 +1,66 @@
+{{Short description|Family of high mobility group proteins}}
+{{infobox protein
+|Name=[[HMGA1|high mobility group AT-hook 1]]
+|caption=
+|image=
+|width=
+|HGNCid=5010
+|Symbol=[[HMGA1]]
+|AltSymbols=HMGIY
+|EntrezGene=3159
+|OMIM=600701
+|RefSeq=NM_145901
+|UniProt=P17096
+|PDB=
+|ECnumber=
+|Chromosome=6
+|Arm=p
+|Band=21
+|LocusSupplementaryData=
+}}
+{{infobox protein
+|Name=[[HMGA2|high mobility group AT-hook 2]]
+|caption=
+|image=
+|width=
+|HGNCid=5009
+|Symbol=[[HMGA2]]
+|AltSymbols=HMGIC
+|EntrezGene=8091
+|OMIM=600698
+|RefSeq=NM_003484
+|UniProt=P52926
+|PDB=
+|ECnumber=
+|Chromosome=12
+|Arm=q
+|Band=15
+|LocusSupplementaryData=
+}}
+'''HMGA''' is a family of [[high mobility group]] proteins characterized by an [[AT-hook]]. They code for a "small, nonhistone, chromatin-associated protein that has no intrinsic transcriptional activity but can modulate transcription by altering the chromatin architecture".<ref name="pmid17322030">{{cite journal | vauthors = Mayr C, Hemann MT, Bartel DP | title = Disrupting the pairing between let-7 and Hmga2 enhances oncogenic transformation | journal = Science | volume = 315 | issue = 5818 | pages = 1576–1579 | date = March 2007 | pmid = 17322030 | pmc = 2556962 | doi = 10.1126/science.1137999 | bibcode = 2007Sci...315.1576M }}</ref> Mammals have two orthologs: HMGA1 and HMGA2.
+
+==Genomic distribution==
+In mouse embryonic stem cells it has been demonstrated that both HMGA proteins binds uniformly to the DNA due to their [[AT-hook]] domains, with a slight preference for AT-rich regions/<ref name="pmid29267285">{{cite journal | vauthors = Colombo DF, Burger L, Baubec T, Schübeler D | title = Binding of high mobility group A proteins to the mammalian genome occurs as a function of AT-content | journal = PLOS Genetics | volume = 13 | issue = 12 | article-number = e1007102 | date = December 2017 | pmid = 29267285 | pmc = 5756049 | doi = 10.1371/journal.pgen.1007102 | doi-access = free }}</ref> Such regions tend to lack coding genes, an observation that argues against a direct role in transcriptional control and in agreement with previous studies, suggest that these proteins have a structural role in the chromatin, similar to [[histone]].
+
+== Function ==
+
+Normally, when cells are subjected to increased [[DNA damage (naturally occurring)|DNA damage]] (such as the formation of [[6-O-methylguanine]]) this causes an increase in [[apoptosis]] (programmed cell death).  However, cells with diminished activity for either proteins [[HMGA1]] or [[HMGA2]] (or both together) are more tolerant of such DNA damage than cells in which these proteins are not diminished.<ref name = Fujikane2016>{{cite journal | vauthors = Fujikane R, Komori K, Sekiguchi M, Hidaka M | title = Function of high-mobility group A proteins in the DNA damage signaling for the induction of apoptosis | journal = Scientific Reports | volume = 6 | issue =  | article-number = 31714 | date = August 2016 | pmid = 27538817 | pmc = 4990841 | doi = 10.1038/srep31714 | bibcode = 2016NatSR...631714F }}</ref> Thus a normal function of the HMGA1 and HMGA2 proteins appears to be to signal the presence of DNA damage leading to induction of apoptosis.<ref name = Fujikane2016/>
+
+==Association with human traits==
+Variations in HMGA2 to have a moderate association with adult height.<ref>{{cite news |url=https://news.bbc.co.uk/2/hi/health/6975865.stm |title=  Scientists discover height gene |access-date=2007-09-03 |work= BBC News| date=2007-09-03}}</ref><ref name="pmid17767157">{{cite journal | vauthors = Weedon MN, Lettre G, Freathy RM, Lindgren CM, Voight BF, Perry JR, Elliott KS, Hackett R, Guiducci C, Shields B, Zeggini E, Lango H, Lyssenko V, Timpson NJ, Burtt NP, Rayner NW, Saxena R, Ardlie K, Tobias JH, Ness AR, Ring SM, Palmer CN, Morris AD, Peltonen L, Salomaa V, Davey Smith G, Groop LC, Hattersley AT, McCarthy MI, Hirschhorn JN, Frayling TM | display-authors = 6 | title = A common variant of HMGA2 is associated with adult and childhood height in the general population | journal = Nature Genetics | volume = 39 | issue = 10 | pages = 1245–1250 | date = October 2007 | pmid = 17767157 | pmc = 3086278 | doi = 10.1038/ng2121 | author26-link = George Davey Smith }}</ref>
+
+== See also ==
+* [[HMGA1]]
+* [[HMGA2]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{MeshName|HMGA+Proteins}}
+
+{{Transcription factors|g0}}
+
+[[Category:Transcription factors]]
+
+{{genetics-stub}}

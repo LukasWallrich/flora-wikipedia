@@ -1,0 +1,103 @@
+{{Short description|Methods devised to encourage creative actions}}
+'''Creativity techniques''' are methods that encourage [[Creativity|creative]] actions, whether in the arts or sciences. They focus on a variety of aspects of creativity, including techniques for idea generation and [[divergent thinking]], methods of re-framing problems, changes in the affective environment and so on. They can be used as part of [[problem solving]], artistic expression, or therapy.
+
+Some techniques require groups of two or more people while other techniques can be accomplished alone.  These methods include word games, written exercises and different types of improvisation, or algorithms for approaching problems. [[Aleatoricism|Aleatory]] techniques exploiting [[randomness]] are also common.
+
+==Aleatory techniques==
+{{main|Aleatoricism}}
+Aleatoricism is the incorporation of [[randomness|chance]] (random elements) into the process of creation, especially the creation of art or media. Aleatoricism is commonly found in music, art, and literature, particularly in poetry.  In film, Andy Voda made a movie in 1979 called ''[[Chance Chants]]'', which he produced by a flip of a coin or roll of a dice. In music, [[John Cage]], an avant-garde musician, composed music by using the ''[[I Ching]]'' to determine the position of musical notes,<ref>{{Cite book|title=A New Handbook of Literary Terms|url=https://archive.org/details/newhandbookliter00miki|url-access=limited|last=Mikics|first=David|publisher=Yale University Press|year=2007|isbn=9780300106367|location=New Haven|pages=[https://archive.org/details/newhandbookliter00miki/page/n22 6]}}</ref> superimposing star maps on blank sheet music, by rolling dice and preparing open-ended scores that depended on the spontaneous decisions of the performers. Other ways of practicing randomness include coin tossing, picking something out of a hat, or selecting random words from a dictionary. 
+
+The aleatory approach is also demonstrated in the case of the process called provocation, which was initially introduced by [[Edward de Bono]] as an aid to research.<ref>{{Cite book|title=Creative Research: The Theory and Practice of Research for the Creative Industries|last=Collins|first=Hilary|publisher=AVA Publishing SA|year=2017|isbn=9782940411085|location=Laussane|pages=30}}</ref> This method, which [[Richard Restak]] said was also employed by [[Anthony Burgess]], aims to achieve novel ideas in writing by directing a plot with creative connections through random words picked from a reference book.<ref name=":0">{{Cite book|title=Innovation, Creativity, and Discovery in Modern Organizations|last=Bundy|first=Wayne|publisher=Quorum Books|year=2002|isbn=978-1567205695|location=Westport, CT|pages=91}}</ref> Restak explained that the two hundred billion interconnected neural cells in the brain are capable of an abundance of possibilities for long-range connections and creative interactions using random and unrelated words.<ref name=":0" />
+
+==Improvisation==
+{{main|Improvisation}}
+[[Improvisation]] is a creative process which can be spoken, written, or composed without prior preparation.<ref>[http://dictionary.reference.com/browse/improvisation Improvisation | Define Improvisation at Dictionary.com<!-- Bot generated title -->]</ref>
+Improvisation, also called extemporization, can lead to the discovery of new ways to act, new patterns of thought and practices, or new structures. Improvisation is used in the creation of music, theater, and other various forms.  Many artists also use improvisational techniques to help their creative flow.
+
+The following are two significant domains that use improvisation:
+
+* [[Improvisational theater]] is a form of theater in which actors use improvisational acting techniques to perform spontaneously. Many improvisational ("improv") techniques are taught in standard drama classes. The basic skills of listening, clarity, confidence, and performing instinctively and spontaneously are considered important skills for actors to develop.<ref>{{cite web |last=Yorton |first=Tom |title=The art of improv: How to make decisions without a script |url=http://www.cognos.com/newsletter/decisions/st_070307_01.html |archive-url=https://web.archive.org/web/20080706010359/http://www.cognos.com/newsletter/decisions/st_070307_01.html |archive-date=July 6, 2008}}</ref>
+* [[Free improvisation]] is real-time composition. Musicians of all kinds improvise ("improv") music; such improvised music is not limited to a particular genre. Two contemporary musicians that use free improvisation are [[Anthony Braxton]] and [[Cecil Taylor]].
+
+==In problem solving==
+{{Main|Creative problem solving}}
+In [[problem-solving]] contexts, the random-word creativity technique is perhaps the simplest method. A person confronted with a problem is presented with a randomly generated word, in the hopes of a solution arising from any associations between the word and the problem.  A random image, sound, or article can be used instead of a random word as a kind of creativity goad or [[wikt:provocation|provocation]].<ref>{{Cite web |url=http://ideaflow.corante.com/archives/2003/05/09/more_on_idea_generation_tools_and_techniques.php |title=More On Idea Generation Tools and Techniques. IdeaFlow: Discussion about innovation and creativity - new products, strategy, open innovation, commercialization of technologies...<!-- Bot generated title --> |access-date=2007-06-20 |archive-url=https://web.archive.org/web/20140224025602/http://ideaflow.corante.com/archives/2003/05/09/more_on_idea_generation_tools_and_techniques.php |archive-date=2014-02-24 |url-status=dead }}</ref><ref>{{cite web |url=http://mitsloan.mit.edu/vc/Ideationpaper022805.pdf |title=Idea Generation, Creativity and Incentives |publisher=Mitsloan.mit.edu |access-date=2013-08-25 |archive-url=https://web.archive.org/web/20130520204612/http://mitsloan.mit.edu/vc/Ideationpaper022805.pdf |archive-date=2013-05-20 |url-status=dead }}</ref>
+
+There are many problem-solving tools and methodologies to support creativity:
+
+* [[TRIZ]] (theory which are derived from tools such as ARIZ or TRIZ [[contradiction matrix]])
+* [[Creative Problem Solving#Creative Problem Solving|Creative problem solving process (CPS)]] (complex strategy, also known as Osborn-Parnes-process)
+* [[Lateral thinking|Lateral thinking process]], of Edward de Bono
+* [[Six Thinking Hats]], of Edward de Bono
+* [[Ordinal priority approach]]
+* [[Herrmann brain dominance instrument]] – right brain / left brain
+* [[Brainstorming]] and [[6-3-5 Brainwriting|brainwriting]]
+* [[Think outside the box]]
+* [[Business war games]], for the resolution of competitive problems 
+* [[SWOT analysis]]
+* [[USIT - Unified Structured Inventive Thinking|USIT method of convergent creativity]]
+* [[Thought experiment]]
+* [[Five Ws]]
+
+==In project management<!--'Group creativity techniques' redirects here-->==
+For [[project management]] purposes, '''[[group creativity]] techniques'''<!--boldface per WP:R#PLA--> are creativity techniques used by a [[team]] in the course of executing a project. Some relevant techniques are [[brainstorming]], the [[nominal group technique]], the [[Delphi technique]], idea/[[mind map]]ping, the [[affinity diagram]], and [[multicriteria decision analysis]].<ref>{{cite book |last=Boral |first=Sumanta |date=2016 |title=Ace the PMI-ACP exam: a quick reference guide for the busy professional |location=New York |publisher=[[Apress]] |isbn=9781484225257 |oclc=967511997 |doi=10.1007/978-1-4842-2526-4 |page=225|s2cid=27902062 }}</ref> These techniques are referenced in the ''Guide to the [[Project Management Body of Knowledge]]''.<ref name="Projects">{{cite web |url=https://www.projectmanagement.com/blog-post/8359/Group-Creativity-Techniques-to-Collect-Requirements- |title=Group creativity techniques to collect requirements |website=projectmanagement.com |date=13 July 2012 |access-date=15 April 2017 |archive-date=30 March 2017 |archive-url=https://web.archive.org/web/20170330090545/https://www.projectmanagement.com/blog-post/8359/Group-Creativity-Techniques-to-Collect-Requirements- |url-status=dead }}</ref>
+
+Group creativity techniques can be used in a sequence; for example:<ref name="Projects"/>
+# Gather [[requirement]]s using idea/[[mind map]]ping
+# Continue generating ideas by [[brainstorming]]
+# Construct an [[affinity diagram]] based on the generated ideas
+# Identify the most important ideas by applying the [[nominal group technique]]
+# Obtain several rounds of independent feedback using the [[Delphi technique]]
+
+==Affecting factors==
+
+===Distraction===
+Multiple studies have confirmed that distraction actually increases creative cognition.<ref>{{Cite web|url=http://nautil.us/issue/7/waste/how-to-waste-time-properly|title=How To Waste Time Properly - Issue 7: Waste - Nautilus|website=Nautilus|access-date=2016-09-30|date=2013-11-14|archive-date=2016-10-03|archive-url=https://web.archive.org/web/20161003163753/http://nautil.us/issue/7/waste/how-to-waste-time-properly|url-status=dead}}</ref> One such study done by Jonathan Schooler found that non-demanding distractions improve performance on a classic creativity task called the UUT (Unusual Uses Task) in which the subject must come up with as many possible uses for a common object. The results confirmed that decision-related neural processes occur during moments of unconscious thought while a person engages in a non-demanding task. The research showed that while distracted, a subject isn’t maintaining one thought for a particularly long time, which in turn allows different ideas to float in and out of one’s consciousness—this sort of associative process leads to creative incubation.<ref>{{cite journal|last1=Baird|first1=Benjamin|last2=Smallwood|first2=Jonathan|last3=Mrazek|first3=Michael D.|last4=Kam|first4=Julia W. Y.|last5=Franklin|first5=Michael S.|last6=Schooler|first6=Jonathan W.|s2cid=46281941|title=Inspired by Distraction: Mind Wandering Facilitates Creative Incubation|journal=Psychological Science|date=1 October 2012|volume=23|issue=10|pages=1117–1122|doi=10.1177/0956797612446024|pmid=22941876|language=en|issn=0956-7976}}</ref>
+
+Ambient noise is another variable that is conducive to distraction. It has been proven that a moderate level of noise actually heightens creativity.<ref name=":1" /> Professor Ravi Mehta conducted a study to research the degree of distraction induced by various noise levels and their effect on creativity. The series of experiments show that a moderate level of ambient noise (70&nbsp;dB) produces just enough distraction to induce processing [[Speech disfluency|disfluency]], which leads to abstract cognition. These higher construal levels caused by moderate levels of noise consequently enhance creativity.<ref name=":1">{{cite journal|last1=Mehta|first1=Ravi|last2=Zhu|first2=Rui (Juliet)|last3=Cheema|first3=Amar|title=Is Noise Always Bad? Exploring the Effects of Ambient Noise on Creative Cognition|journal=Journal of Consumer Research|date=2012|volume=39|issue=4|pages=784–799|doi=10.1086/665048|jstor=10.1086/665048}}</ref>
+
+===Walking===
+In 2014, a study found that walking increased creativity.<ref>{{Cite journal|last1=Oppezzo|first1=Marily|last2=Schwartz|first2=Daniel L.|s2cid=11962777|title=Give your ideas some legs: The positive effect of walking on creative thinking.|journal=Journal of Experimental Psychology: Learning, Memory, and Cognition|volume=40|issue=4|pages=1142–1152|doi=10.1037/a0036577|pmid=24749966|year=2014}}</ref>
+
+===Sleep and relaxation===
+
+Some advocate enhancing creativity by taking advantage of [[hypnagogia]], the transition from wakefulness to sleep, using techniques such as [[lucid dreaming]].  One technique used by [[Salvador Dalí]] was to drift off to sleep in an armchair with a set of keys in his hand; when he fell completely asleep, the keys would fall and wake him up, allowing him to recall his mind's subconscious imaginings.<ref>{{cite web |url=http://almostbohemian.com/sleep/ |title=Sleep without Sleeping « Almost Bohemian |website=almostbohemian.com |url-status=dead |archive-url=https://web.archive.org/web/20110513072813/http://almostbohemian.com/sleep |archive-date=2011-05-13}} </ref>  [[Thomas Edison]] used the same technique, with [[ball bearing]]s.<ref>{{Cite magazine | url=https://www.wired.com/2008/05/st-napping/ | title=Geeks Take Their Cue from Thomas Edison's Napping Technique| magazine=Wired| date=2008-05-19}}</ref>
+
+===Meditation===
+
+A study<ref>h{{cite journal |last1=Ding |first1= Xiaoqian|last2=Tang |first2=Yi-Yuan |date=2014|title=Improving creativity performance by short-term meditation|journal=Behavioral and Brain Functions |volume=10 |issue=9 |pages= 9|doi=10.1186/1744-9081-10-9 |pmid= 24645871|pmc= 3994657|doi-access= free}}</ref> from 2014 involving 40 Chinese undergraduates found that performing a 30 minute [[meditation]] session each day, for seven days, was sufficient to improve verbal and visual creativity, as measured by the [[Torrance Tests of Creative Thinking]], due to the positive effects of meditation on emotional regulation. The same researchers<ref>{{cite journal |last1=Ding |first1=Xiaoqian |last2=Tang |first2=Yi-Yuan |date=2015 |title=Short-term meditation modulates brain activity of insight evoked with solution cue |journal=Social Cognitive and Affective Neuroscience |volume=10 |issue=1 |pages=43–49 |doi=10.1093/scan/nsu032 |pmid=24532700 |pmc=4994853 }}</ref> also showed in 2015 that short term meditation training could also improve insight-based problem solving (the type commonly associated with an "ah-ha" or "eureka" type moment of realization) as measured by the [[Remote Associates Test]].
+
+==See also==
+{{Div col|colwidth=22em}}
+*[[Association (psychology)]]
+*[[Chief idea officer]]
+*[[Creative computing]]
+*[[Decision tree]]
+*[[Design tool]]
+*[[Ideas bank]]
+*[[Ideation (creative process)]]
+*[[Imagination]]
+*[[Intuition (knowledge)]]
+*[[Surrealist techniques]]
+*[[Invention]]
+*[[Lateral thinking]]
+*[[:fr:Management de la créativité|Management de la créativité]] (in French)
+*[[Metaphor]]
+*[[Oblique Strategies]]
+*[[C-K theory]]
+*[[Computer supported brainstorming]]
+{{Div col end}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+*{{Commonscatinline}}
+
+{{Design}}
+{{Group creativity techniques}}
+
+{{DEFAULTSORT:Creativity Techniques}}
+[[Category:Creativity techniques| ]]
+[[Category:Artistic techniques]]
+[[Category:Problem solving methods]]

@@ -1,0 +1,67 @@
+{{Short description|Australian psychologist}}
+'''Eddie Harmon-Jones''' is [[professor]] of [[psychology]] at the [[University of New South Wales]]. He is recognized for his research on social neuroscience, [[cognitive dissonance]], and the motivating aspects of emotions.<ref name="harmonjones.socialpsychology.org">{{Cite web |title=Eddie Harmon-Jones |url=https://harmonjones.socialpsychology.org/ |access-date=2022-09-30 |website=harmonjones.socialpsychology.org}}</ref>
+
+Beginning in the late 1990s, Harmon-Jones and his colleagues began a series of studies examining whether affective valence (positive vs. negative affect) or motivational direction (approach vs. withdrawal) best explained the relationship between properties of emotions and left vs. right prefrontal cortical activation. Prior to this work, most researchers thought the left prefrontal cortex was involved in the expression and experience of positive emotions, whereas the right prefrontal cortex was involved in the expression and experience of [[negative affectivity|negative emotions]]. However, the past research had confounded positivity with approach motivation (and negativity with withdrawal motivation), so that all tests examined positive emotions associated with approach motivation inclinations (joy that urges one to move toward the source of the joy).
+
+By investigating anger, a negative emotion that urges approach motivation, Harmon-Jones and colleagues were able to tease apart the valence from motivational direction views. They found that anger caused greater relative left frontal cortical activity, and thus posited that asymmetrical frontal cortical activity was due to motivational direction rather than affective valence.<ref>{{Cite news |last=Carey |first=Benedict |date=2004-07-27 |title=Payback Time: Why Revenge Tastes So Sweet |language=en-US |work=The New York Times |url=https://www.nytimes.com/2004/07/27/science/payback-time-why-revenge-tastes-so-sweet.html |access-date=2022-09-30 |issn=0362-4331}}</ref>
+
+Another line of research conducted by Harmon-Jones and colleagues examined was how emotions influenced cognitive scope, or the narrow versus broad processing of information. In the decades prior to this work, it was thought that negative affect led to a narrowing of cognitive scope and that positive affect led to a broadening of cognitive scope. However, Harmon-Jones and colleagues' research revealed that motivational intensity, regardless of affective valence, was a more accurate determinant of cognitive scope. That is, positive affect high in motivational intensity (e.g., desire) as well as negative affect high in motivational intensity (e.g., fear) narrow cognitive scope, whereas positive affect low in motivational intensity (e.g., amusement) as well as negative affect low in motivational intensity (e.g., sadness) broaden cognitive scope.
+
+Harmon-Jones has also made contributions to the theory of cognitive dissonance, which was first proposed in the 1950s by [[Leon Festinger]]. The theory has generated thousands of experiments and it is one of the most well-known theories in psychology. Many revisions have been proposed but research has raised concerns with each of these revisions. In the late 1990s, Harmon-Jones proposed a revision to the theory of cognitive dissonance. This action-based model extends the original theory by proposing why cognitive inconsistency causes both dissonance and dissonance reduction. This model posits that many perceptions and cognitions automatically impel organisms to act in specific ways. Furthermore, it posits that the negative affective state of dissonance is aroused not by all cognitive conflict but, specifically, when cognitions with action implications are in conflict with each other, making it difficult to act. The state of dissonance signals to the organism that there is a problem and that the cognitive inconsistency needs to be resolved so that behavior can occur.
+
+Harmon-Jones' research has been covered in national news on several occasions.
+
+==Awards and honours==
+* Society for Psychophysiological Research Distinguished Award for an Early Career Contribution to Psychophysiology, 2002
+* Fellow [[Association for Psychological Science]] (2008—present)
+* Listed in the Institute for Scientific Information's Essential Science Indicators representing the top 1% of cited scientists in Psychiatry/Psychology
+* Career Trajectory Award from Society of Experimental Social Psychology (2012)
+
+==Publications ==
+=== Journal articles ===
+
+* Harmon-Jones, E., Harmon-Jones, C., & Denson, T. F. (2020). A novel way of responding to dissonance evoked by belief disconfirmation: Making the wrongdoing of an opponent salient. Social Influence, 15, 34–45. [https://doi.org/10.1080/15534510.2020.1781248]
+* Tsypes, A., Angus, D. J., Martin, S., Kemkes, K., & Harmon-Jones, E. (2019). Trait anger and the reward positivity. Personality and Individual Differences, 144, 24–30. [https://doi.org/10.1016/j.paid.2019.02.030]
+* Harmon-Jones, E., & Gable, P. A. (2018). On the role of asymmetrical frontal cortical activity in approach and withdrawal motivation: An updated review of the evidence. Psychophysiology, 55:e12879. [https://doi.org/10.1111/psyp.12879]
+* Harmon-Jones, E., Harmon-Jones, C., & Levy, N. (2015). An action-based model of cognitive dissonance processes. [[Current Directions in Psychological Science]], 24, 184 –189. [https://doi.org/10.1177/0963721414566449]
+* Harmon-Jones, E., Gable, P. A., & Price, T. F. (2013). Does negative affect always narrow and positive affect always broaden the mind? Considering the influence of motivational intensity on cognitive scope. Current Directions in Psychological Science, 22, 301–307. [https://doi.org/10.1177/0963721413481353]
+* Harmon-Jones, E., & Peterson, C. K. (2009). Supine body position reduces neural response to anger evocation. Psychological Science, 20, 1209–1210. [https://doi.org/10.1111/j.1467-9280.2009.02416.x]
+* Peterson, C. K., Shackman, A. J., & Harmon-Jones, E. (2008). The role of asymmetrical frontal cortical activity in aggression. Psychophysiology, 45, 86–92. [https://doi.org/10.1111/j.1469-8986.2007.00597.x.]
+* Gable, P. A., & Harmon-Jones, E. (2008). Approach-motivated positive affect reduces breadth of attention. Psychological Science, 19, 476–482. [https://doi.org/10.1111/j.1467-9280.2008.02112.x]
+* Harmon-Jones, E., & Gable, P. A. (2009). Neural activity underlying the effect of approach-motivated positive affect on narrowed attention. Psychological Science, 20, 406–409. [https://doi.org/10.1111/j.1467-9280.2009.02302.x]
+* Harmon-Jones, E., Abramson, L. Y., Nusslock, R., Sigelman, J. D., Urosevic, S., Turonie, L., Alloy, L. B., & Fearn, M. (2008). Effect of bipolar disorder on left frontal cortical responses to goals differing in valence and task difficulty. Biological Psychiatry, 63, 693–698. [https://doi.org/10.1016/j.biopsych.2007.08.004]
+* Harmon-Jones, E., Harmon-Jones, C., Fearn, M., Sigelman, J. D., & Johnson, P. (2008). Action orientation, relative left frontal cortical activation, and spreading of alternatives: A test of the action-based model of dissonance. Journal of Personality and Social Psychology, 94, 1–15. [https://doi.org/10.1037/0022-3514.94.1.1]
+* Harmon-Jones, E., Lueck, L., Fearn, M., & Harmon-Jones, C. (2006). The effect of personal relevance and approach-related action expectation on relative left frontal cortical activity. Psychological Science, 17, 434–440. [https://doi.org/10.1111/j.1467-9280.2006.01724.x]
+
+=== Books ===
+* Harmon-Jones, E. (2019). Cognitive Dissonance: Re-examining a pivotal theory in psychology (2nd edition). Washington, DC: American Psychological Association. [https://doi.org/10.1037/0000135-000]
+* Harmon-Jones, E., & Inzlicht, M. (2016). Social Neuroscience: Biological Approaches to Social Psychology. New York, NY: Psychology Press. [https://doi.org/10.4324/9781315628714]
+* Forgas, J. P., & Harmon-Jones, E. (2014). Motivation and its regulation: The control within. New York, NY: Psychology Press. [https://www.routledge.com/Motivation-and-Its-Regulation-The-Control-Within/Forgas-Harmon-Jones/p/book/9781315795263]
+* Robinson, M. D., Watkins, E. R., & Harmon-Jones, E. (2013). Handbook of Cognition and Emotion. New York Guilford Publications. [https://www.guilford.com/books/Handbook-of-Cognition-and-Emotion/Robinson-Watkins-Harmon-Jones/9781462509997/contents]
+* Harmon-Jones, E., & Beer, J. S. (2009). Methods in social neuroscience. Guilford Publications: New York. [http://www.guilford.com/cgi-bin/cartscript.cgi?page=pr/harmon-jones2.htm&dir=pp/sapp&cart_id=750010.32608]
+* Harmon-Jones, E., & Winkielman, P. (2007). Social Neuroscience: Integrating Biological and Psychological Explanations of Social Behavior. Guilford Publications: New York. [http://www.guilford.com/cgi-bin/cartscript.cgi?page=pr/harmon.htm&dir=pp/sapp&cart_id=750010.32608]
+* Harmon-Jones, E., & Mills, J. (1999). Cognitive Dissonance: Progress on a pivotal theory in social psychology. Washington, DC: American Psychological Association. [http://books.apa.org/books.cfm?id=4318830&toc=yes] {{Webarchive|url=https://web.archive.org/web/20080612222838/http://books.apa.org/books.cfm?id=4318830&toc=yes |date=2008-06-12 }}
+
+==References==
+{{Reflist}}
+
+==External links==
+* Eddie Harmon-Jones' Academic Website [http://socialemotiveneuroscience.org]
+* Eddie Harmon-Jones Psychology Today Blog [https://www.psychologytoday.com/us/blog/the-social-emotional-brain]
+* https://web.archive.org/web/20110724074433/http://trueslant.com/wrayherbert/2009/08/13/the-reclining-neuron/
+* https://www.newsweek.com/id/33654
+* https://www.nytimes.com/2007/11/06/science/06tier.html
+* http://tierneylab.blogs.nytimes.com/2007/01/27/happy-birthday-cognitive-dissonance/
+* https://www.nytimes.com/2008/04/08/science/08tier.html
+* https://www.news-medical.net/news/2007/07/25/28033.aspx
+* http://www.psychologicalscience.org/media/releases/2007/amodio.cfm {{Webarchive|url=https://web.archive.org/web/20081013050150/http://psychologicalscience.org/media/releases/2007/amodio.cfm |date=2008-10-13 }}
+* https://query.nytimes.com/gst/fullpage.html?res=9907E1D91E3CF937A25752C1A9619C8B63
+
+{{Authority control}}
+
+{{DEFAULTSORT:Harmon-Jones, Eddie}}
+[[Category:Social psychologists]]
+[[Category:Academic staff of the University of New South Wales]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:21st-century American psychologists]]

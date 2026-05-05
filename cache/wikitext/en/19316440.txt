@@ -1,0 +1,159 @@
+The concept of '''motor cognition''' grasps the notion that [[cognition]] is [[Embodied cognition|embodied]] in action, and that the [[motor system]] participates in what is usually considered as mental processing, including those involved in [[social interaction]].<ref name="Sommerville 2006">{{Cite journal  | last1 = Sommerville | first1 = JA. | last2 = Decety | first2 = J. | title = Weaving the fabric of social interaction: articulating developmental psychology and cognitive neuroscience in the domain of motor cognition. | journal = Psychonomic Bulletin & Review | volume = 13 | issue = 2 | pages = 179–200 |date=Apr 2006 | doi = 10.3758/BF03193831 | pmid = 16892982 | s2cid = 14689479 }}</ref> The fundamental unit of the motor cognition paradigm is action, defined as the movements produced to satisfy an intention towards a specific [[motor goal]], or in reaction to a meaningful event in the physical and social environments. Motor cognition takes into account the preparation and production of actions, as well as the processes involved in recognizing, predicting, mimicking, and understanding the behavior of other people. This paradigm has received a great deal of attention and empirical support in recent years from a variety of research domains including [[embodied cognition]], [[developmental psychology]], [[cognitive neuroscience]], and [[social psychology]].
+
+==Perception-action coupling==
+The idea of a continuity between the different aspects of motor cognition is not new. In fact, this idea can be traced to the work of the American psychologist [[William James]] and more recently, American neurophysiologist and Nobel prize winner [[Roger Sperry]]. Sperry argued that the perception-action cycle is the fundamental logic of the [[nervous system]].<ref>{{cite journal | last1 = Sperry | first1 = R.W. | year = 1952 | title = Neurology and the mind-brain problem | journal = American Scientist | volume = 40 | issue = 78| pages = 291–312 | pmid = 18592054 }}</ref> Perception and action processes are functionally intertwined: [[perception]] is a means to action and [[Action (philosophy)|action]] is a means to perception. Indeed, the vertebrate brain has evolved for governing motor activity with the basic function to transform sensory patterns into patterns of motor coordination.
+
+More recently, there is growing empirical evidence from [[cognitive psychology]], developmental psychology, cognitive neuroscience, [[Cognitive model#Behavioral dynamics|cognitive science]], as well as social psychology which demonstrates that perception and action share common computational codes and underlying neural architectures. This evidence has been marshaled in the "[[common coding theory]]" put forward by [[Wolfgang Prinz]] and his colleagues at the [[Max Planck Institute for Human Cognitive and Brain Sciences]] in [[Leipzig]], Germany.<ref>{{cite journal | last1 = Prinz | first1 = W. | year = 1997 | title = Perception and action planning | journal = European Journal of Cognitive Psychology | volume = 9 | issue = 2| pages = 129–154 | doi=10.1080/713752551}}</ref> This theory claims parity between perception and action. Its core assumption is that actions are coded in terms of the perceivable effects (i.e., the distal perceptual events) they should generate.<ref name="Hommel 2001">{{Cite journal  | last1 = Hommel | first1 = B. | last2 = Müsseler | first2 = J. | last3 = Aschersleben | first3 = G. | last4 = Prinz | first4 = W. | title = The Theory of Event Coding (TEC): a framework for perception and action planning. | journal = Behavioral and Brain Sciences | volume = 24 | issue = 5 | pages = 849–78; discussion 878–937 |date=Oct 2001 | citeseerx = 10.1.1.77.9446  | pmid = 12239891 | doi=10.1017/s0140525x01000103}}</ref> Performing a [[Motion (physics)|movement]] leaves behind a bidirectional association between the motor pattern it has generated and the sensory effects that it produces. Such an association can then be used backward to retrieve a movement by anticipating its effects. These perception/action codes are also accessible during action observation. Other authors suggest a new notion of the phylogenetic and ontogenetic origin of action understanding that utilizes the motor system; the motor cognition hypothesis. This states that motor cognition provides both human and nonhuman primates with a direct, prereflexive understanding of biological actions that match their own action catalog.<ref name="Gallese 2009">{{Cite journal  | last1 = Gallese | first1 = V. | last2 = Rochat | first2 = M. | last3 = Cossu | first3 = G. | last4 = Sinigaglia | first4 = C. | title = Motor cognition and its role in the phylogeny and ontogeny of action understanding. | journal = Developmental Psychology | volume = 45 | issue = 1 | pages = 103–13 |date=Jan 2009 | doi = 10.1037/a0014436 | pmid = 19209994 | citeseerx = 10.1.1.379.8550 }}</ref>
+
+The discovery of [[mirror neurons]] in the ventral premotor and parietal cortices of the macaque monkey that fire both when it carries out a goal-directed action and when it observes the same action performed by another individual provides [[neurophysiological]] evidence for a direct matching between action perception and action production.<ref name="Rizzolatti 2004">{{Cite journal  | last1 = Rizzolatti | first1 = G. | last2 = Craighero | first2 = L. | title = The mirror-neuron system. | journal = Annual Review of Neuroscience | volume = 27 | pages = 169–92 | year = 2004 | doi = 10.1146/annurev.neuro.27.070203.144230 | pmid = 15217330 | s2cid = 1729870 }}</ref> An example of such coupling is the ease with which people can engage in [[speech repetition]] when asked to [[speech shadowing|shadow]] words heard in earphones.<ref name="Marslen-Wilson 1973">{{Cite journal  | last1 = Marslen-Wilson | first1 = W. | title = Linguistic structure and speech shadowing at very short latencies. | journal = Nature | volume = 244 | issue = 5417 | pages = 522–3 |date=Aug 1973 | doi =  10.1038/244522a0| pmid = 4621131 | bibcode = 1973Natur.244..522M | s2cid = 4220775 }}</ref>
+
+In humans, common neural activation during action observation and execution has been well documented. A variety of [[functional neuroimaging]] studies, using [[functional magnetic resonance imaging]] (fMRI), [[positron emission tomography]], and [[magnetoencephalography]] have demonstrated that a motor resonance mechanism in the premotor and posterior parietal cortices occurs when participants observe or produce goal-directed actions.<ref>{{cite journal | last1 = Grèzes | first1 = J. | last2 = Armony | first2 = J. L. | last3 = Rowe | first3 = J. | last4 = Passingham | first4 = R. E. | year = 2003 | title = Activations related to "mirror" and "canonical" neuron in the human brain: an fMRI study | journal = NeuroImage | volume = 18 | issue = 4| pages = 928–937 | doi=10.1016/s1053-8119(03)00042-9| pmid = 12725768 | s2cid = 13988629 }}</ref><ref>{{cite journal | last1 = Hamzei | first1 = F. | last2 = Rijntjes | first2 = M. | last3 = Dettmers | first3 = C. | last4 = Glauche | first4 = V. | last5 = Weiller | first5 = C. | last6 = Büchel | first6 = C. | year = 2003 | title = The human action recognition system and its relationship to Broca's area: an fMRI study | journal = NeuroImage | volume = 19 | issue = 3| pages = 637–644 | doi=10.1016/s1053-8119(03)00087-9| pmid = 12880794 | s2cid = 30565160 }}</ref> Such a motor resonance system seems to be hard-wired, or at least functional very early in life.<ref name="Sommerville 2005">{{Cite journal  | last1 = Sommerville | first1 = JA. | last2 = Woodward | first2 = AL. | last3 = Needham | first3 = A. | title = Action experience alters 3-month-old infants' perception of others' actions. | journal = Cognition | volume = 96 | issue = 1 | pages = B1–11 |date=May 2005 | doi = 10.1016/j.cognition.2004.07.004 | pmid = 15833301 | pmc=3908452}}</ref><ref>{{cite journal | last1 = Nystrom | first1 = P. | year = 2008 | title = The infant mirror neuron system studied with high density EEG | journal = Social Neuroscience | volume = 3 | issue = 3–4| pages = 334–347 | doi=10.1080/17470910701563665| pmid = 18979389 | s2cid = 25748635 | url = https://zenodo.org/record/996291 }}</ref>
+
+==Shared representations between other and self==
+The common [[coding theory]] also states that perception of an action should activate action representations to the degree that the perceived and the represented action are similar.<ref>{{cite journal | last1 = Knoblich | first1 = G. | last2 = Flach | first2 = R. | year = 2001 | title = Predicting the effects of actions: interactions of perception and action | journal = Psychological Science | volume = 12 | issue = 6| pages = 467–472 | doi=10.1111/1467-9280.00387| pmid = 11760133 | s2cid = 9061659 }}</ref> As such, these representations may be shared between individuals. Indeed, the meaning of a given object, action, or social situation may be common to several people and activate corresponding distributed patterns of neural activity in their respective brains.<ref name="Decety 2003">{{Cite journal  | last1 = Decety | first1 = J. | last2 = Sommerville | first2 = JA. | title = Shared representations between self and other: a social cognitive neuroscience view. | journal = Trends in Cognitive Sciences | volume = 7 | issue = 12 | pages = 527–33 |date=Dec 2003 | doi = 10.1016/j.tics.2003.10.004 | pmid = 14643368 | s2cid = 10387880 }}</ref> There is an impressive number of behavioral and neurophysiological studies demonstrating that perception and action have a common neuronal coding and that this leads to shared representations between self and others, which can lead to host of phenomena such as [[emotional contagion]], [[empathy]], social facilitation, and understanding others minds.<ref>{{cite journal | last1 = Blakemore | first1 = S.J. | last2 = Frith | first2 = C.D. | year = 2005 | title = The role of motor contagion in the prediction of action | journal = Neuropsychologia | volume = 43 | issue = 2| pages = 260–267 | doi=10.1016/j.neuropsychologia.2004.11.012 | pmid=15707910| citeseerx = 10.1.1.130.2472 | s2cid = 11716599 }}</ref>
+
+==Motor priming==
+One consequence of the functional equivalence between perception and action is that watching an action performed by another person facilitates the later reproduction of that action in the observer. For instance, in one study, participants executed arm movements while observing either a robot or another human producing the same or qualitatively different arm movements.<ref>{{cite journal | last1 = Kilner | first1 = J.M. | last2 = Paulignan | first2 = Y. | last3 = Blakemore | first3 = S.J. | year = 2003 | title = An interference effect of observed biological movement on action | journal = Current Biology | volume = 13 | issue = 6| pages = 522–525 | doi=10.1016/s0960-9822(03)00165-9| pmid = 12646137 | s2cid = 397886 | doi-access = free | bibcode = 2003CBio...13..522K }}</ref> The results show that observing another human make incongruent movements interferes with movement execution but observing a robotic arm making incongruent movements does not.
+
+==Social facilitation==
+The fact that the observation of action can prime a similar response in the observer, and that the degree to which the observed action facilitates a similar response in the observer cast some light into the phenomenon called [[social facilitation]], first described by [[Robert Zajonc]], which accounts for the demonstration that the presence of other people can affect individual performance.<ref>{{cite journal | last1 = Chartrand | first1 = T.L. | last2 = Bargh | first2 = J.A. | year = 1999 | title = The chameleon effect: The perception-behavior link and social interaction | journal = Journal of Personality and Social Psychology | volume = 76 | issue = 6| pages = 893–910 | doi=10.1037/0022-3514.76.6.893 | pmid=10402679| s2cid = 11818459 }}</ref> A number of studies have demonstrated that watching [[facial expression]] of emotions prompts the observer to resonate with the state of another individual, with the observer activating the motor representations and associated autonomic and somatic responses that stem from the observed target.<ref>{{cite journal | last1 = Hatfield | first1 = E. | last2 = Cacioppo | first2 = J.T. | last3 = Rapson | first3 = R.L. | year = 1993 | title = Emotional contagion | journal = Current Directions in Psychological Science | volume = 2 | issue = 3| pages = 96–99 | doi=10.1111/1467-8721.ep10770953| s2cid = 220533081 }}</ref>
+
+==Mental state understanding==
+Humans have a tendency to interpret the actions of others with respect to underlying mental states. One important question is whether the perception-action matching mechanism and its product, shared motor representations, can account (or to what extent it does) for the attribution of mental states to others (often dubbed [[theory of mind]] mechanism). Some authors have suggested that the shared representations network that stems from the perception-action matching mechanism may support mental state attribution via covert (i.e., unconscious) mental simulation.<ref name="Gallese 1998">{{Cite journal  | last1 = Gallese | first1 = V. | last2 = Goldman | first2 = A. | title = Mirror neurons and the simulation theory of mind-reading | journal = Trends in Cognitive Sciences | volume = 2 | issue = 12 | pages = 493–501 |date=Dec 1998 | doi = 10.1016/S1364-6613(98)01262-5 | pmid = 21227300 | s2cid = 10108122 }}</ref> In contrast, some other scholars have argued that the mirror system and the theory of mind system are two distinct processes and it’s likely that the former cannot account for mental state understanding.<ref>{{cite journal | last1 = Saxe | first1 = R. | year = 2005 | title = Against simulation: the argument from error | journal = Trends in Cognitive Sciences | volume = 9 | issue = 4| pages = 174–179 | doi=10.1016/j.tics.2005.01.012 | pmid=15808499| citeseerx = 10.1.1.318.3655 | s2cid = 17493481 }}</ref><ref name="Decety 2008">{{Cite journal  | last1 = Decety | first1 = J. | last2 = Michalska | first2 = KJ. | last3 = Akitsuki | first3 = Y. | title = Who caused the pain? An fMRI investigation of empathy and intentionality in children. | journal = Neuropsychologia | volume = 46 | issue = 11 | pages = 2607–14 |date=Sep 2008 | doi = 10.1016/j.neuropsychologia.2008.05.026 | pmid = 18573266 | s2cid = 19428145 }}</ref>
+
+==Reasoning==
+A series of experiments demonstrated the interrelation between motor experience and high-level reasoning. For example, although most individuals recruit visual processes when presented with spatial problems such as mental rotation tasks <ref>{{cite journal | last1 = Hyun | first1 = J. S. | last2 = Luck | first2 = S. J. | year = 2007 | title = Visual working memory as the substrate for mental rotation | journal = Psychonomic Bulletin & Review | volume = 14 | issue = 1| pages = 154–158 | doi=10.3758/bf03194043 | pmid = 17546746| doi-access = free }}</ref> motor experts favor motor processes to perform the same tasks, with higher overall performance.<ref>"Moreau, D. (2012). The role of motor processes in three-dimensional mental rotation: Shaping cognitive processing via sensorimotor experience. ''Learning and Individual Differences'', 22(3), 354-359"</ref> A related study showed that motor experts use similar processes for the mental rotation of body parts and polygons, whereas non-experts treated these stimuli differently.<ref>{{cite journal | last1 = Moreau | first1 = D. | year = 2013a | title = Constraining movement alters the recruitment of motor processes in mental rotation | journal = Experimental Brain Research | volume = 224 | issue = 3| pages = 447–454 | doi=10.1007/s00221-012-3324-0| pmid = 23138523 | s2cid = 18336850 }}</ref> These results were not due to underlying confounds, as demonstrated by a training study that showed mental rotation improvements after a one-year motor training, compared with controls.<ref>{{cite journal | last1 = Moreau | first1 = D. | last2 = Clerc | first2 = J. | last3 = Mansy-Dannay | first3 = A. | last4 = Guerrien | first4 = A. | year = 2012 | title = Enhancing spatial ability through sport practice: Evidence for an effect of motor training on mental rotation performance | journal = Journal of Individual Differences | volume = 33 | issue = 2| pages = 83–88 | doi=10.1027/1614-0001/a000075}}</ref> Similar patterns were also found in [[working memory]] tasks, with the ability to remember movements being greatly disrupted by a secondary verbal task in controls and by a motor task in motor experts, suggesting the involvement of different processes to store movements depending on motor experience, namely verbal for controls and motor for experts.<ref>{{cite journal | last1 = Moreau | first1 = D. | year = 2013b | title = Motor expertise modulates movement processing in working memory | journal = Acta Psychologica | volume = 142 | issue = 3| pages = 356–361 | doi=10.1016/j.actpsy.2013.01.011| pmid = 23422289 }}</ref>
+
+==Mirror neurons==
+Recent discoveries in the field of [[social neuroscience]] have heavily implicated [[mirror neuron]]s and their related systems as a possible neurological basis for [[social cognition]] specifically factors that involve motor cognition. In chimpanzees (the closest living relative to humans) mirror neuron systems have been shown to be highly active when the ape is observing another individual (ape or human) perform a physical action such as grasping, holding, or hitting.<ref name="Marco">{{Cite journal
+| issn = 1545-7885
+| volume = 3
+| issue = 3
+| pages = –79–e79
+| last1 = Iacoboni
+| first1 = Marco
+| first2 = Istvan | last2 = Molnar-Szakacs | first3 = Vittorio | last3 = Gallese | first4 = Giovanni | last4 = Buccino | first5 = John C. | last5 = Mazziotta | first6 = Giacomo | last6 = Rizzolatti
+ | title = Grasping the intentions of others with one's own mirror neuron system
+| journal = PLOS Biology
+| date = 2005-02-22
+| doi = 10.1371/journal.pbio.0030079 | pmid=15736981 | pmc=1044835
+| doi-access = free
+}}</ref>  Mirror neuron regions in the ventral [[premotor cortex]], dorsal premotor cortex, and intraparietal cortex have been found to activate in humans for similar situations of observing an individual perform one of but not limited to the aforementioned physical tasks.<ref name="Spunt 80–86">{{Cite journal
+| doi = 10.1177/0956797612450884
+| issn = 0956-7976
+| volume = 24
+| issue = 1
+| pages = 80–86
+| last1 = Spunt
+| first1 = Robert P.
+| first2 = Matthew D. | last2 = Lieberman
+ | title = The Busy Social Brain Evidence for Automaticity and Control in the Neural Systems Supporting Social Cognition and Action Understanding
+| journal = Psychological Science
+| date = 2013-01-01
+| pmid = 23221019
+| s2cid = 17719553
+| pmc = 1228746
+}}</ref> The activation of the mirror neuron system is automatic and goes beyond recognition of simple physical actions but is thought to be the reason why an individual is able to guess and understand another individual's actions.<ref name="Marco"/><ref name="Spunt 80–86"/>
+
+fMRI studies in humans have been gathering evidence that mirror neurons are responsible for the "Physical to self-mapping"<ref name="Uddin 153–157">{{Cite journal
+| doi = 10.1016/j.tics.2007.01.001
+| issn = 1364-6613
+| volume = 11
+| issue = 4
+| pages = 153–157
+| last1 = Uddin
+| first1 = Lucina Q.
+| first2 = Marco | last2 = Iacoboni | first3 = Claudia | last3 = Lange | first4 = Julian Paul | last4 = Keenan
+ | title = The self and social cognition: the role of cortical midline structures and mirror neurons
+| journal = Trends in Cognitive Sciences
+| year = 2007
+| pmid = 17300981
+| s2cid = 985721
+}}</ref> In studies where participants had to identify their own face, right hemispheric mirror neurons activated indicating responsibility for the ability of one to represent one’s own physical actions/states. These same areas also fire when the individual views others performing physical actions such as grasping or tearing.<ref name="Uddin 153–157"/><ref>{{Cite journal
+| doi = 10.1016/j.tics.2007.02.002
+| issn = 1364-6613
+| volume = 11
+| issue = 5
+| pages = 192–194
+| last1 = Christian Keysers
+| first2 = Valeria | last2 = Gazzola
+| title = Integrating simulation and theory of mind: from self to social cognition
+| journal = Trends in Cognitive Sciences
+| year = 2007
+| pmid = 17344090
+| s2cid = 18930071
+}}</ref>  This activation implies that there is a unique neural connection going on for an individual. Thus the mirror neuron system allows for a bridge between the self to the actions of others. This has been theorized to enable the understanding of intention or the goals of others.<ref name="Sinigaglia 3–29">{{Cite journal
+| doi = 10.1111/j.1468-5922.2009.01821.x
+| issn = 0021-8774
+| volume = 55
+| issue = 1
+| pages = 3–29
+| last1 = Sinigaglia
+| first1 = Corrado
+| first2 = Laura | last2 = Sparaci
+ | title = Emotions in action through the looking glass
+| journal = Journal of Analytical Psychology
+| year = 2010
+| pmid = 20433493
+}}</ref><ref name="Spaulding 233–257">{{Cite journal
+| doi = 10.1111/mila.12017
+| issn = 0268-1064
+| volume = 28
+| issue = 2
+| pages = 233–257
+| last = Spaulding
+| first = Shannon
+| title = Mirror Neurons and Social Cognition Mirror Neurons and Social Cognition
+| journal = Mind & Language
+| date = 2013
+| url = https://philpapers.org/rec/SPAMNA-2
+}}</ref>
+A study by Spunt and Liberman (2013) used an fMRI study to observe mirror neurons in the brain. Participants observed a video of an action being performed under a high or low cognitive load. While watching, they were instructed to observe why the action was being performed, what action was being performed, or how the action was being performed. The end result provided direct evidence for activation and more importantly automaticity of the mirror neurons in the dorsal premotor cortex, ventral premotor cortex, and anterior intraparietal sulcus.<ref name="Spunt 80–86"/>
+
+Although a large amount of supporting evidence indicates that mirror neurons activate in situations where one is analyzing oneself to the actions of others,<ref name="Sinigaglia 3–29"/> there is still debate as to whether these activations should be interpreted as intentional understanding. Shannon Spaulding (2013) argues that the neuroscientists who offer up mirror neurons as a physiological answer to social cognition are misinterpreting their results and not using the correct philosophical definitions of goal and intention. Rather than being interchangeable or one leading to the other, she argues they need to be thought of as two separate actions.<ref name="Spaulding 233–257"/>
+
+Another position provides a neurophysiological explanation for mirror-neuron inborn roots, supporting the mirror neurons hypothesis. From the perspective of the [[cognitive model|mother-fetus neurocognitive model]], local neuronal oscillations in the two nervous systems are synchronized through interference with the low-frequency electromagnetic field of the mother's heart.<ref>{{cite journal |last1=Val Danilov |first1=Igor |title=Low-Frequency Oscillations for Nonlocal Neuronal Coupling in Shared Intentionality Before and After Birth: Toward the Origin of Perception |journal=OBM Neurobiology |date=2 November 2023 |volume=07 |issue=4 |pages=1–17 |doi=10.21926/obm.neurobiol.2304192 |doi-access=free }}</ref> According to Latvian Prof Igor Val Danilov, this synchronization of the two nervous systems in perceiving environmental stimuli contributes to the initiation of cognition and the development of emotions through the association of affective cues with stimuli that activate neural pathways for simple reflexes. Because of the mother's nervous system's proper reactions to stimuli, the fetal coupled nervous system learn to react in the same way.<ref>{{cite journal |title=Theoretical Grounds of Shared Intentionality for Neuroscience in Developing Bioengineering Systems |first=Igor |last=Val Danilov |journal=OBM Neurobiology |url= https://www.lidsen.com/journals/neurobiology/neurobiology-07-01-156 |date=2023-02-17 |volume=7 |issue=1 |page=156 |doi=10.21926/obm.neurobiol.2301156|doi-access=free }}</ref><ref>{{cite journal |last1=Val Danilov |first1=Igor |title=The Origin of Natural Neurostimulation: A Narrative Review of Noninvasive Brain Stimulation Techniques |journal=OBM Neurobiology |date=29 November 2024 |volume=08 |issue=4 |pages=1–23 |doi=10.21926/obm.neurobiol.2404260 |doi-access=free }}</ref> Therefore, driven by non-local neuronal coupling in synchronized nervous systems, the conjunction of emotion-reflex stimuli contributes to the further development of simple innate neuronal assemblies, shaping emotional neuronal patterns in statistical learning.<ref>Val Danilov, I.; Mihailova, S. (2025). "Reflexes and Shared Intentionality in the Origins of Emotions Development: A Scoping Review of Studies on Blinking in Infants." ''OBM Neurobiology'' 2025; 9(1): 263; https://doi:10.21926/obm.neurobiol.2501263</ref>
+
+The discovery of the link between mirror neurons and social cognition provides further links to a neurological basis found in other social phenomena such as [[social learning theory]], [[empathy]], and [[observational learning]].<ref name="Marco"/><ref>
+{{Cite journal
+| doi = 10.1038/506416a
+| issn = 0028-0836
+| volume = 506
+| issue = 7489
+| pages = 416–417
+| last = Reardon
+| first = Sara
+| title = Monkey brains wired to share
+| journal = Nature
+| date = 2014-02-25
+| pmid=24572401
+| bibcode = 2014Natur.506..416R
+| doi-access = free
+}}</ref>
+
+==See also==
+*{{annotated link|Cognitive science}}
+*{{annotated link|Embodied cognition}}
+*{{annotated link|Embodied embedded cognition}}
+*{{annotated link|Motor imagery}}
+*{{annotated link|Pragmatism}}
+*{{annotated link|Procedural memory}}
+
+==References==
+{{reflist|2}}
+
+==Further reading==
+* {{cite book | last1 = Hatfield | first1 = E. | last2 = Cacioppo | first2 = J. | last3 = Rapson | first3 = R. | date = 1994 | title = Emotional Contagion | location = New York | publisher = Cambridge Press }}
+* {{cite book | last = Jeannerod | first = M. | date = 1997 | title = The cognitive neuroscience of action | publisher = Wiley-Blackwell }}
+* {{cite book | last = Jeannerod | first = M. | date = 2006 | title = Motor Cognition: What Actions Tell the Self | url = https://archive.org/details/motorcognitionwh0000jean | url-access = registration | publisher = Oxford University Press }}
+* {{cite book | editor1-last = Morsella | editor1-first = E. | editor2-last = Bargh | editor2-first = J. A. | editor3-last = Gollwitzer | editor3-first = P. M. | date = 2009 | title = Oxford Handbook of Human Action | location = New York | publisher = Oxford University Press }}
+* {{cite book | editor1-last = Markman | editor1-first = K. D. | editor2-last = Klein | editor2-first = W. M. P. | editor3-first = J. A. | editor3-last = Suhr | date = 2008 | title = The Handbook of Imagination and Mental Simulation | location = New York | publisher = Psychology Press }}
+* {{cite journal | last1 = Thelen | first1 = E. | year = 1995 | title = Motor development: A new synthesis | journal = American Psychologist | volume = 50 | issue = 2| pages = 79–95 | doi=10.1037/0003-066x.50.2.79| pmid = 7879990 }}
+
+==External links==
+*{{Commonscat-inline}}
+
+[[Category:Motor cognition| ]]
+[[Category:Cognitive neuroscience]]
+[[Category:Motor control]]
+[[Category:Social psychology]]

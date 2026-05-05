@@ -1,0 +1,243 @@
+{{Infobox medical condition
+ |name            = Adolescent idiopathic scoliosis
+ |synonyms        = Adolescent-onset idiopathic scoliosis
+ |image           = Wiki pre-op.jpg
+ |image_size      = 
+ |alt             = 
+ |image_thumbtime = 
+ |caption         = Radiography of adolescent idiopathic scoliosis before corrective surgery.
+ |width           = 
+ |image2          = 
+ |image_size2     = 
+ |alt2            = 
+ |image_thumbtime2 =
+ |caption2        = 
+ |width2          = 
+ |pronounce       = 
+ |pronounce 2     = 
+ |specialty       = [[Medical genetics]]
+ |symptoms        = [[Scoliosis]] that appears at the age of 10-18
+ |complications   = Most cases are usually mild, therefore they do not have any complications, however; in rare cases where the curvature is severe, [[breathing problems]] and problems [[ataxia|with balance]] can arise.
+ |onset           = 10-18 years old
+ |duration        = Life-long (usually)
+ |types           = 
+ |causes          = "Idiopathic" means that the general cause of the disorder is usually unknown.
+ |risks           = [[Genetics|Genetic]] and [[Biophysical environment|environment]]al factors
+ |diagnosis       = Physical examination, [[Radiography]]
+ |differential    = 
+ |prevention      = Reducing the frequency of being in an abnormal posture.
+ |treatment       = Physical therapy, [[correctional surgery]]
+ |medication      = 
+ |prognosis       = Good
+ |frequency       = Rather common, affecting approximately 2 to 4% of adolescents (1 in 50/1 in 25-30 adolescents)
+ |deaths          = 
+}}
+
+'''Adolescent idiopathic scoliosis''' (AIS) is a disorder in which the spine starts abnormally curving sideways ([[scoliosis]]) between the ages of 10 and 18 years old.<ref>{{Cite web |title=Adolescent Idiopathic Scoliosis | work = Scoliosis Research Society |url=https://www.srs.org/patients-and-families/conditions-and-treatments/parents/scoliosis/adolescent-idiopathic-scoliosis |access-date=2022-05-21 |language=en-US}}</ref><ref>{{Cite web |title=Idiopathic Scoliosis in Children and Adolescents - OrthoInfo - AAOS |url=https://www.orthoinfo.org/en/diseases--conditions/idiopathic-scoliosis-in-children-and-adolescents/ |access-date=2022-05-21 |website=www.orthoinfo.org}}</ref><ref name="Menger_2022">{{cite book | vauthors = Menger RP, Sin AH |chapter = Adolescent and Idiopathic Scoliosis |date=2022 | chapter-url= https://www.ncbi.nlm.nih.gov/books/NBK499908/ | title = StatPearls |place=Treasure Island (FL) |publisher=StatPearls Publishing |pmid=29763083 |access-date=2022-09-29 }}</ref> Generally, AIS occurs during the growth spurt associated with adolescence.<ref>{{Cite web |title=Scoliosis |url=https://raisingchildren.net.au/guides/a-z-health-reference/scoliosis |access-date=2022-09-30 |website=Raising Children Network |language=en}}</ref><ref name="Giampietro_2015">{{cite journal | vauthors = Giampietro PF | title = SNPping away at the genetic basis of adolescent idiopathic scoliosis | journal = Annals of Translational Medicine | volume = 3 | issue = Suppl 1 | pages = S26 | date = May 2015 | pmid = 26046072 | pmc = 4437945 | doi = 10.3978/j.issn.2305-5839.2015.02.34 }}</ref><ref name=":18">{{Cite web |date=2020-02-18 |title=Adolescent Idiopathic Scoliosis (AIS) |url=https://www.columbiaortho.org/patient-care/specialties/pediatric-orthopedics/conditions-treatments/spine-disorders-scoliosis/adolescent-idiopathic-scoliosis-ais |access-date=2022-09-29 |website=Columbia Orthopedic Surgery |language=en}}</ref> In some teens, the curvature is progressive, meaning that it gets worse over time,<ref name=":13">{{Cite web |title= Understanding Adolescent Idiopathic Scoliosis (AIS) |url=https://apifix.com/patients-families/adolescent-idiopathic-scoliosis/ |access-date=2022-09-29 |website=ApiFix |language=en-US}}</ref> however, AIS more commonly manifests only as a mild curvature.
+
+== Signs and symptoms ==
+
+Since most cases of AIS are mild, teenagers with the condition typically do not show any obvious signs such as pain. Instead, most symptoms associated with AIS consist of physical features that would not typically be present in a teenager without the condition, including asymmetry of the waist, shoulders, and legs (the latter involving length), prominence of the shoulder blades, abnormal gait or walking, leaning towards and favouring one side of the body, tilting of the pelvis, and elevation of the hips.<ref>{{Cite web |date=2018-03-23 |title=Symptoms of Adolescent Idiopathic Scoliosis |url=https://weillcornellbrainandspine.org/condition/adolescent-idiopathic-scoliosis/symptoms-adolescent-idiopathic-scoliosis |access-date=2022-09-30 |website=Weill Cornell Brain and Spine Center |language=en}}</ref><ref>{{Cite web |title=Pediatric and Adolescent Scoliosis: Symptoms, Causes & Treatment |url=https://my.clevelandclinic.org/health/diseases/14521-pediatric-and-adolescent-scoliosis |access-date=2022-09-30 |website=Cleveland Clinic}}</ref><ref name=":2">{{Cite web |title=Adolescent Idiopathic Scoliosis Orange, CA {{!}} Spinal Deformity Irvine, CA |url=https://www.jeremysmithmd.com/adolescent-idiopathic-scoliosis-orthopaedic-spine-surgeon-orange-irvine-ca.html |access-date=2022-09-30 |website=www.jeremysmithmd.com}}</ref> External signs include a visual or physical discomfort with clothes of certain fits.<ref name=":2" />
+
+== Complications ==
+
+Most patients with AIS do not go on to develop health complications due to the fact that most cases of the condition are usually non-progressive and/or mild to moderate in severity. Those who do develop complications usually are part of the smaller group of AIS patients with severe cases, with the most common health complications among this group of patients being abnormalities that involve the lungs (such as bilateral reduction in lung volume). These abnormalities usually result in [[breathing difficulties|impairments of the respiratory function]] ranging from [[Shortness of breath|mild]] to [[Respiratory failure|severe]].<ref>{{Cite news |title=Scoliosis and breathing |url=https://sauk.org.uk/coping-with-scoliosis/scoliosis-and-breathing/ |access-date=2022-09-30 |website=Scoliosis Association |language=en-GB}}</ref><ref>{{cite journal | vauthors = Qiabi M, Chagnon K, Beaupré A, Hercun J, Rakovich G | title = Scoliosis and bronchial obstruction | journal = Canadian Respiratory Journal | volume = 22 | issue = 4 | pages = 206–208 | date = 2015 | pmid = 26083538 | pmc = 4530852 | doi = 10.1155/2015/640573 | doi-access = free }}</ref><ref>{{Cite web | vauthors = Nalda T |date=2020-04-21 |title=How Do You Know if Scoliosis is Affecting Your Lungs? | work =  Scoliosis Reduction Center |url=https://www.scoliosisreductioncenter.com/blog/how-do-you-know-if-scoliosis-is-affecting-your-lungs |access-date=2022-09-30 |language=en-US}}</ref><ref name=":3" />
+
+Other complications associated with severe scoliosis include internal intrathoracic organ displacement and the disruption of appropriate rib movement.<ref name=":3">{{cite journal | vauthors = Tsiligiannis T, Grivas T | title = Pulmonary function in children with idiopathic scoliosis | journal = Scoliosis | volume = 7 | issue = 1 | article-number = 7 | date = March 2012 | pmid = 22445133 | pmc = 3410782 | doi = 10.1186/1748-7161-7-7 | doi-access = free }}</ref> Back pain is the most common of complications that may be experienced by patients with both non-severe and severe cases alike.<ref>{{cite journal | vauthors = Kotwicki T, Chowanska J, Kinel E, Czaprowski D, Tomaszewski M, Janusz P | title = Optimal management of idiopathic scoliosis in adolescence | journal = Adolescent Health, Medicine and Therapeutics | volume = 4 | pages = 59–73 | date = 2013-07-23 | pmid = 24600296 | pmc = 3912852 | doi = 10.2147/AHMT.S32088 | doi-access = free }}</ref><ref name=":14">{{cite journal | vauthors = Balagué F, Pellisé F | title = Adolescent idiopathic scoliosis and back pain | journal = Scoliosis and Spinal Disorders | volume = 11 | issue = 1 | article-number = 27 | date = 2016-09-09 | pmid = 27648474 | pmc = 5016859 | doi = 10.1186/s13013-016-0086-7 | doi-access = free }}</ref> Patients with extremely severe cases of AIS (individuals with a Cobb angle of 100° or higher) typically have a shortened life expectancy, generally dying prematurely.<ref name="doi.org" />
+
+== Causes ==
+Although the cause of Adolescent Idiopathic Scoliosis is generally unknown, it is believed to be caused by both genetic and environmental factors.<ref>{{Cite web |title=Adolescent idiopathic scoliosis: MedlinePlus Genetics |url=https://medlineplus.gov/genetics/condition/adolescent-idiopathic-scoliosis/ |access-date=2022-05-21 |website=medlineplus.gov |language=en}}</ref><ref>{{cite journal | vauthors = Wise CA, Gao X, Shoemaker S, Gordon D, Herring JA | title = Understanding genetic factors in idiopathic scoliosis, a complex disease of childhood | journal = Current Genomics | volume = 9 | issue = 1 | pages = 51–59 | date = March 2008 | pmid = 19424484 | pmc = 2674301 | doi = 10.2174/138920208783884874 }}</ref>
+
+=== Genetics ===
+
+Although has been noted that approximately 30% of teenagers diagnosed with AIS also have a family history of AIS, there is still no known genetic cause or mutation which may be identified as being fully or partially responsible for the condition.<ref>{{Cite web |title=Adolescent Idiopathic Scoliosis {{!}} Scoliosis Research Society |url=https://www.srs.org/professionals/online-education-and-resources/conditions-and-treatments/adolescent-idiopathic-scoliosis |access-date=2022-05-21 |website=www.srs.org}}</ref><ref name=":12">{{Cite web |title=Adolescent Idiopathic Scoliosis {{!}} Causes, Symptoms & Treatment |url=https://www.cincinnatichildrens.org/health/s/scoliosis-adolescent |access-date=2022-09-29 |website=www.cincinnatichildrens.org}}</ref> Various genetic variants have been described in medical literature and noted as having the potential to increase a person's susceptibility in developing adolescent idiopathic scoliosis.<ref name="Wang_2022">{{cite journal | vauthors = Wang W, Chen T, Liu Y, Wang S, Yang N, Luo M | title = Predictive value of single-nucleotide polymorphisms in curve progression of adolescent idiopathic scoliosis | journal = European Spine Journal | volume = 31 | issue = 9 | pages = 2311–2325 | date = September 2022 | pmid = 35434775 | doi = 10.1007/s00586-022-07213-y | s2cid = 248220097 }}</ref><ref name="Makki_2021">{{cite journal | vauthors = Makki N, Zhao J, Liu Z, Eckalbar WL, Ushiki A, Khanshour AM, Wu J, Rios J, Gray RS, Wise CA, Ahituv N | title = Genomic characterization of the adolescent idiopathic scoliosis-associated transcriptome and regulome | journal = Human Molecular Genetics | volume = 29 | issue = 22 | pages = 3606–3615 | date = January 2021 | pmid = 33179741 | pmc = 7823110 | doi = 10.1093/hmg/ddaa242 | url = }}</ref><ref name="De_Salvatore_2022">{{cite journal | vauthors = De Salvatore S, Ruzzini L, Longo UG, Marino M, Greco A, Piergentili I, Costici PF, Denaro V | display-authors = 6 | title = Exploring the association between specific genes and the onset of idiopathic scoliosis: a systematic review | journal = BMC Medical Genomics | volume = 15 | issue = 1 | article-number = 115 | date = May 2022 | pmid = 35590413 | pmc = 9118580 | doi = 10.1186/s12920-022-01272-2 | doi-access = free }}</ref> Some of those genes include:
+
+==== [[CHD7]] ====
+
+[[File:PDB 2ckc EBI.png|thumb|''Chromodomain-helicase-DNA-binding protein 7'', the enzyme coded by the CHD7 gene]]
+
+In a study done in 2006, genomewide linkage scans were performed on 130 patients from 53 families where adolescent idiopathic scoliosis had been segregated as a familial trait, these scans narrowed the AIS loci in these families to the 8q12 locus (in [[chromosome 8]]). Further [[genetic testing]] found 23 different polymorphisms in the CHD7 gene of these same patients, all of which were located inside a 116-kb genomic region which consisted of exons 2-4 of the same gene. The authors of the study noted that mutations in this gene are usually involved in the [[CHARGE syndrome]], which has late-onset scoliosis as one of its common associated features. The SNPS were as follows:<ref>{{cite journal | vauthors = Gao X, Gordon D, Zhang D, Browne R, Helms C, Gillum J, Weber S, Devroy S, Swaney S, Dobbs M, Morcuende J, Sheffield V, Lovett M, Bowcock A, Herring J, Wise C | display-authors = 6 | title = CHD7 gene polymorphisms are associated with susceptibility to idiopathic scoliosis | journal = American Journal of Human Genetics | volume = 80 | issue = 5 | pages = 957–965 | date = May 2007 | pmid = 17436250 | doi = 10.1086/513571 | pmc = 1852746 }}</ref>
+
+*[[rs4738813]], with the C allele representing a higher risk of AIS
+*[[rs12544305]], with the G allele representing a higher risk of AIS
+*[[rs9643371]], with the T allele representing a higher risk of AIS
+*[[rs1017861]], with the G allele representing a higher risk of AIS
+*[[rs13256023]], with the T allele representing a higher risk of AIS
+*[[rs4288413]], with the A allele representing a higher risk of AIS
+*[[rs7000766]], with the G allele representing a higher risk of AIS
+*[[hcv148921]], with the A allele representing a higher risk of AIS
+*[[rs1483207]], with the G allele representing a higher risk of AIS
+*[[rs1483208]], with the A allele representing a higher risk of AIS
+*[[rs1038351]], with the T allele representing a higher risk of AIS
+*[[rs7843033]], with the C allele representing a higher risk of AIS
+*[[rs7002806]], with the T allele representing a higher risk of AIS
+*[[rs7842389]], with the T allele representing a higher risk of AIS
+*[[rs7017676]], with the A allele representing s higher risk of AIS
+*[[hcv509505]], with the G allele representing a higher risk of AIS
+*[[rs4392940]], with the A allele representing a higher risk of AIS
+*[[rs4237036]], with the T allele representing a higher risk of AIS
+*[[rs13280978]], with the T allele representing a higher risk of AIS
+*[[rs4301480]], with the A allele representing a higher risk of AIS
+*[[rs10957159]], with the G allele representing a higher risk of AIS
+*[[rs10092214]], with the A allele representing a higher risk of AIS
+*[[rs3763591]], with the T allele representing a higher risk of AIS
+
+The authors believed that the decrease of functional CHD7 protein during the growth spurt that occurs during adolescence predisposed the individuals to their spinal curvature by disrupting normal growth patterns and turning them abnormal.
+
+==== [[PAX1]] ====
+
+In a study done in 2015, evidence was found for a sex-linked genetic cause of AIS; by performing a genomewide association study on more than 3,000 "idiopathic scoliosis" patients, the authors found that SNPs in the 20p11.2 locus (specifically those located in the PAX1 gene) were associated with a higher chance of developing adolescent scoliosis, moreover, these genetic variants were shown to increase the risk of AIS significantly for women, while barely doing the same for men. They also found that the same genetic variants that increased the risk of AIS also reduced the risk of early-onset [[alopecia|hair loss]] in the participants involved in the study.<ref>{{cite journal | vauthors = Sharma S, Londono D, Eckalbar WL, Gao X, Zhang D, Mauldin K, Kou I, Takahashi A, Matsumoto M, Kamiya N, Murphy KK, Cornelia R, Herring JA, Burns D, Ahituv N, Ikegawa S, Gordon D, Wise CA | display-authors = 6 | title = A PAX1 enhancer locus is associated with susceptibility to idiopathic scoliosis in females | journal = Nature Communications | volume = 6 | article-number = 6452 | date = March 2015 | pmid = 25784220 | pmc = 4365504 | doi = 10.1038/ncomms7452 | bibcode = 2015NatCo...6.6452. }}</ref>
+
+==== [[LBX1]] ====
+
+A Japanese study in 2011 found an SNP associated with an increased risk of developing adolescent idiopathic scoliosis.<ref>{{cite journal | vauthors = Takahashi Y, Kou I, Takahashi A, Johnson TA, Kono K, Kawakami N, Uno K, Ito M, Minami S, Yanagida H, Taneichi H, Tsuji T, Suzuki T, Sudo H, Kotani T, Watanabe K, Chiba K, Hosono N, Kamatani N, Tsunoda T, Toyama Y, Kubo M, Matsumoto M, Ikegawa S | display-authors = 6 | title = A genome-wide association study identifies common variants near LBX1 associated with adolescent idiopathic scoliosis | journal = Nature Genetics | volume = 43 | issue = 12 | pages = 1237–1240 | date = October 2011 | pmid = 22019779 | doi = 10.1038/ng.974 | s2cid = 7533298 }}</ref> A Chinese study undertaken in 2012 also further supported this finding.<ref>{{cite journal | vauthors = Fan YH, Song YQ, Chan D, Takahashi Y, Ikegawa S, Matsumoto M, Kou I, Cheah KS, Sham P, Cheung KM, Luk KD | display-authors = 6 | title = SNP rs11190870 near LBX1 is associated with adolescent idiopathic scoliosis in southern Chinese | journal = Journal of Human Genetics | volume = 57 | issue = 4 | pages = 244–246 | date = April 2012 | pmid = 22301463 | doi = 10.1038/jhg.2012.11 | s2cid = 43017481 | doi-access = free }}</ref>
+
+The SNP investigated in both studies is called [[rs11190870]]. This SNP was located in an area 75 kb 3' of the LBX1 gene, an intergenic area that also happened to be close to a separate gene called [[FLJ41350]].<ref name=":0">{{cite journal | vauthors = Ikegawa S | title = Genomic study of adolescent idiopathic scoliosis in Japan | journal = Scoliosis and Spinal Disorders | volume = 11 | issue = 1 | article-number = 5 | date = 2016-04-01 | pmid = 27299157 | pmc = 4900236 | doi = 10.1186/s13013-016-0067-x | doi-access = free }}</ref>
+
+The authors of a separate Japanese study, undertaken in 2015, created animal models relating to the gene, said animal models consisted of [[zebrafish]]es which were made to have overexpression of the three Lbx1 genes, this overexpression was found to cause early-onset scoliosis in the zebrafish used for the study.<ref name=":0" />
+
+A 2021 Chinese study found another SNP (rs1322330) in the gene associated with the condition. Participants included 1,980 AIS patients and 2,499 healthy control subjects, all patients and control subjects were of Han Chinese ancestry. "A" was the risk allele for the condition.<ref name="Xu_2021">{{cite journal | vauthors = Xu L, Feng Z, Dai Z, Lee WY, Wu Z, Liu Z, Sun X, Tang N, Cheng JC, Qiu Y, Zhu Z | display-authors = 6 | title = A Functional SNP in the Promoter of ''LBX1'' Is Associated With the Development of Adolescent Idiopathic Scoliosis Through Involvement in the Myogenesis of Paraspinal Muscles | journal = Frontiers in Cell and Developmental Biology | volume = 9 | issue =  | article-number = 777890 | date = 2021 | pmid = 34917617 | pmc = 8670502 | doi = 10.3389/fcell.2021.777890 | doi-access = free }}</ref>
+
+==== [[GPR126]] ====
+
+In a different Japanese study done in 2013, researchers found an SNP ([[rs6570507]]) which was associated with an increased risk of AIS, said SNP was found in the GPR126 gene, located in chromosome 6. This same SNP is associated with increased length of the [[Trunk (anatomy)|trunk]] in people of primarily European ancestry.<ref>{{cite journal | vauthors = Soranzo N, Rivadeneira F, Chinappen-Horsley U, Malkina I, Richards JB, Hammond N, Stolk L, Nica A, Inouye M, Hofman A, Stephens J, Wheeler E, Arp P, Gwilliam R, Jhamai PM, Potter S, Chaney A, Ghori MJ, Ravindrarajah R, Ermakov S, Estrada K, Pols HA, Williams FM, McArdle WL, van Meurs JB, Loos RJ, Dermitzakis ET, Ahmadi KR, Hart DJ, Ouwehand WH, Wareham NJ, Barroso I, Sandhu MS, Strachan DP, Livshits G, Spector TD, Uitterlinden AG, Deloukas P | display-authors = 6 | title = Meta-analysis of genome-wide scans for human adult stature identifies novel Loci and associations with measures of skeletal frame size | journal = PLOS Genetics | volume = 5 | issue = 4 | article-number = e1000445 | date = April 2009 | pmid = 19343178 | pmc = 2661236 | doi = 10.1371/journal.pgen.1000445 | doi-access = free }}</ref>
+
+A [[China|Chinese]] study done in 2015 found evidence for an association between three SNPS in intronic regions of the gene and AIS. They were as follows:<ref>{{cite journal | vauthors = Xu JF, Yang GH, Pan XH, Zhang SJ, Zhao C, Qiu BS, Gu HF, Hong JF, Cao L, Chen Y, Xia B, Bi Q, Wang YP | display-authors = 6 | title = Association of GPR126 gene polymorphism with adolescent idiopathic scoliosis in Chinese populations | journal = Genomics | volume = 105 | issue = 2 | pages = 101–107 | date = February 2015 | pmid = 25479386 | doi = 10.1016/j.ygeno.2014.11.009 | doi-access = free }}</ref>
+
+*rs6570507 (A>G), with G being the risk allele for AIS
+*[[rs7774095]] (A>C), with C being the risk allele for AIS
+*[[rs7755109]] (A>G), with G being the risk allele for AIS
+
+==== [[BNC2]] ====
+
+An SNP known as [[rs10738445]] increases the risk of AIS, this gene is located in the aforementioned gene, and the risk allele for adolescent idiopathic scoliosis is A, while the normal allele is C. This SNP, however, has only been studied in AIS patients of Han Chinese ancestry.<ref>{{Cite web |title=rs10738445 - SNPedia |url=https://www.snpedia.com/index.php/Rs10738445 |access-date=2022-09-30 |website=www.snpedia.com |language=en}}</ref><ref>{{cite journal | vauthors = Ogura Y, Kou I, Miura S, Takahashi A, Xu L, Takeda K, Takahashi Y, Kono K, Kawakami N, Uno K, Ito M, Minami S, Yonezawa I, Yanagida H, Taneichi H, Zhu Z, Tsuji T, Suzuki T, Sudo H, Kotani T, Watanabe K, Hosogane N, Okada E, Iida A, Nakajima M, Sudo A, Chiba K, Hiraki Y, Toyama Y, Qiu Y, Shukunami C, Kamatani Y, Kubo M, Matsumoto M, Ikegawa S | display-authors = 6 | title = A Functional SNP in BNC2 Is Associated with Adolescent Idiopathic Scoliosis | journal = American Journal of Human Genetics | volume = 97 | issue = 2 | pages = 337–342 | date = August 2015 | pmid = 26211971 | pmc = 4573260 | doi = 10.1016/j.ajhg.2015.06.012 }}</ref>
+
+==== [[SLC39A8]] ====
+
+In a study done in 2018, a group of researchers performed an exome-wide association study on more than 1,000 European-American patients with severe adolescent idiopathic scoliosis and found an SNP ([[rs13107325]]) which was seen to be strongly associated with the condition in the patients. Other features that were seen to be associated with the 391T scoliosis risk allele included short stature, lower-than-average plasma Mn2+ levels, and a high [[body mass index]]. The researchers leading the study decided to do an animal model to simulate the effects of the mutation by engineering zebrafish with homozygous tandem duplications in their SLC39A8 genes, most zebrafish within the animal model developed vertebral and "thoracical deformities" and were short of body length.<ref name=":4">{{cite journal | vauthors = Haller G, McCall K, Jenkitkasemwong S, Sadler B, Antunes L, Nikolov M, Whittle J, Upshaw Z, Shin J, Baschal E, Cruchaga C, Harms M, Raggio C, Morcuende JA, Giampietro P, Miller NH, Wise C, Gray RS, Solnica-Krezel L, Knutson M, Dobbs MB, Gurnett CA | display-authors = 6 | title = A missense variant in SLC39A8 is associated with severe idiopathic scoliosis | journal = Nature Communications | volume = 9 | issue = 1 | article-number = 4171 | date = October 2018 | pmid = 30301978 | doi = 10.1038/s41467-018-06705-0 | pmc = 6177404 | bibcode = 2018NatCo...9.4171H }}</ref>
+
+==== [[NTF3]] ====
+
+[[File:Protein NTF3 PDB 1b8k.png|thumb|''Neurotrophin 3'', a protein that is encoded by the NTF3 gene]]
+
+In a Chinese study done in 2012, 500 patients with AIS were recruited for a genomewide association study. This study found an SNP ([[rs11063714]]) in the NTF3 gene which, while not necessarily involved in the patients' AIS itself, was involved in the severity of the scoliosis itself. Patients who were homozygous for the A allele (AA genotype) tended to have milder scoliosis than patients who were homozygous for the G allele at the same position (GG genotype), the latter group of patients were more likely to suffer from severe scoliosis, whereas patients with the AA genotype were more likely to have successful results from brace treatment than their GG counterparts.<ref>{{cite journal | vauthors = Qiu Y, Mao SH, Qian BP, Jiang J, Qiu XS, Zhao Q, Liu Z | title = A promoter polymorphism of neurotrophin 3 gene is associated with curve severity and bracing effectiveness in adolescent idiopathic scoliosis | journal = Spine | volume = 37 | issue = 2 | pages = 127–133 | date = January 2012 | pmid = 22158057 | doi = 10.1097/BRS.0b013e31823e5890 | s2cid = 34341350 }}</ref>
+
+==== [[FBN1]] ====
+
+[[File:Protein FBN1 PDB 1apj.png|thumb|''Fibrillin 1'', protein encoded by the FBN1 gene]]
+
+In a study done in 2014, researchers undertook whole-exome sequencing on 91 Caucasian patients with severe adolescent idiopathic scoliosis and 331 Caucasian control subjects in order to find rare genetic mutations that might be deleterious and involved in AIS. The list of mutations that were considered rare by the researchers consisted of coding variants that were absent on the dbSNP database and caused [[indel|insertions]], [[indel|deletions]], [[frameshift mutation|frameshift]], [[splice-site mutation|splice-site]], or [[missense mutation|missense]] mutations.<ref name="Buchan_2014">{{cite journal | vauthors = Buchan JG, Alvarado DM, Haller GE, Cruchaga C, Harms MB, Zhang T, Willing MC, Grange DK, Braverman AC, Miller NH, Morcuende JA, Tang NL, Lam TP, Ng BK, Cheng JC, Dobbs MB, Gurnett CA | display-authors = 6 | title = Rare variants in FBN1 and FBN2 are associated with severe adolescent idiopathic scoliosis | journal = Human Molecular Genetics | volume = 23 | issue = 19 | pages = 5271–5282 | date = October 2014 | pmid = 24833718 | pmc = 4159151 | doi = 10.1093/hmg/ddu224 }}</ref>
+
+Rare mutations in the FBN1 and FBN2 genes were found in AIS patients and control subjects alike, the following list consists specifically of the mutations found in the FBN1 gene:
+
+*T>A missense mutation (p.&nbsp;Ile107Leu) at chr15:48 902 952
+*T>G missense mutation (p.Asn280Thr) at chr15:48 826 300
+*T>C missense mutation (p.Gln697Arg) at chr15:48 796 007
+*T>G missense mutation (p.Asn703His) at chr15:48 795 990
+*C>T missense mutation (p.&nbsp;Val916Met) at chr15:48 784 766
+*C>T missense mutation (p.Gly1217Ser) at chr15:48 777 634
+*G>A missense mutation (p.Pro1225Leu) at chr15:48 777 609
+*C>T missense mutation (p.Gly1313Ser) at chr15:48 773 879
+*A>C missense mutation (p.&nbsp;Leu1405Arg) at chr15:48 764 870
+*A>G missense mutation (p.Met1576Thr) at chr15:48 760 155
+*C>T missense mutation (p.Arg1850His) at chr15:48 741 087
+*C>T missense mutation (p.Gly2003Arg) at chr15:48 736 768
+*A>T missense mutation (p.Asn2178Lys) at chr15:48 726 873
+*T>A missense mutation (p.Tyr2225Phe) at chr15:48 725 128
+*A>G missense mutation (p.&nbsp;Ile2585Thr) at chr15:48 712 949
+*C>T missense mutation (p.&nbsp;Val2868Ile) at chr15:48 703 201
+
+Of the 16 FBN1 mutations listed, three had previously been described as associated with [[Marfan syndrome]], a rare autosomal dominant genetic disorder characterized by Marfanoid habitus, joint hypermobility, and cardiac problems.
+
+==== [[FBN2]] ====
+
+The same 2014 study mentioned above also detected mutations in the FBN2 of some of the people they used for the study:<ref name="Buchan_2014" />
+
+*C>T missense mutation (p.Gly53Asp) at chr5:127 873 139
+*C>T missense mutation (p.Arg92Lys) at chr5:127 872 157
+*A>ACTGTA frameshift mutation at chr5:127 782 238
+*C>T missense mutation (p.&nbsp;Val592Met) at chr5:127 713 520
+*G>T missense mutation (p.Pro740His) at chr5:127 704 904
+*G>A missense mutation (p.Arg1021Cys) at chr5:127 681 205
+*A>C missense mutation (p.&nbsp;Ile1116Ser) at chr5:127 674 750
+*G>C missense mutation (p.&nbsp;Leu1125Val) at chr5:127 674 724
+*C>T missense mutation (p.Glu1178Lys) at chr5:127 673 755
+*C>G missense mutation (p.Gly1271Ala) at chr5:127 671 182
+*G>T missense mutation (p.Pro2085Thr) at chr5:127 627 260
+*T>C missense mutation (p.&nbsp;Ile2466Val) at chr5:127 613 647
+*A>G missense mutation (p.Phe2603Ser) at chr5:127 609 564
+*C>T missense mutation (p.Gly2620Glu) at chr5:127 607 792
+
+==== [[AKAP2]] ====
+
+In a 2016 study done on a single Chinese family with familial adolescent idiopathic scoliosis, researchers found a c.2645A>C missense mutation in the AKAP2 gene of affected members by performing whole exome sequencing.<ref>{{cite journal | vauthors = Li W, Li Y, Zhang L, Guo H, Tian D, Li Y, Peng Y, Zheng Y, Dai Y, Xia K, Lan X, Wang B, Hu Z | display-authors = 6 | title = AKAP2 identified as a novel gene mutated in a Chinese family with adolescent idiopathic scoliosis | journal = Journal of Medical Genetics | volume = 53 | issue = 7 | pages = 488–493 | date = July 2016 | pmid = 26989089 | pmc = 4941158 | doi = 10.1136/jmedgenet-2015-103684 }}</ref> This genetic variant was not found in the 1,254 AIS patients and 1,232 control subjects of Chinese ancestry during a later Chinese study.<ref>{{cite journal | vauthors = Xu L, Xia C, Zhu W, Feng Z, Qin X, Sun W, Qiu Y, Zhu Z | display-authors = 6 | title = Lack of association between AKAP2 and the susceptibility of adolescent idiopathic scoliosis in the Chinese population | journal = BMC Musculoskeletal Disorders | volume = 18 | issue = 1 | article-number = 368 | date = August 2017 | pmid = 28838314 | pmc = 5571670 | doi = 10.1186/s12891-017-1731-x | doi-access = free }}</ref>
+
+==== Copy number variants ====
+
+In a different study from 2014, researchers undertook genomewide copy number variant screening on 143 patients with AIS and 1,079 control subjects (consisting of 666 healthy control subjects from a previous [[bipolar disorder]] study and 413 patients from a previous congenital [[clubfoot]] study). The following list consists of the CNVs found in the participants of the study:<ref>{{cite journal | vauthors = Buchan JG, Alvarado DM, Haller G, Aferol H, Miller NH, Dobbs MB, Gurnett CA |author7-link=Christina Gurnett | title = Are copy number variants associated with adolescent idiopathic scoliosis? | language = en-US | journal = Clinical Orthopaedics and Related Research | volume = 472 | issue = 10 | pages = 3216–3225 | date = October 2014 | pmid = 25005481 | doi = 10.1007/s11999-014-3766-8 | pmc = 4160470 }}</ref>
+
+*[[1q21.1 duplication syndrome|1q21.1 duplication]], found in 3 out of the 143 patients with AIS (2.1%) and in 1 out of the 1,079 control subjects (0.09%).
+**Family history examination in the patients with the duplication did not find any reports of [[intellectual disability]] or [[Global developmental delay|developmental delay]], two usual findings in patients with the 1q21.1 duplication syndrome.
+*[[Trisomy X|X chromosome duplication]], found in 2 out of the 143 patients (1.4%) and in 1 out of the 529 female control subjects (0.19%).
+**Said patients were female, and thus had a 47,XXX karyotype (instead of the usual 46,XX female karyotype), the only clinical finding that the 2 patients with trisomy X shared was tall stature, with no signs of intellectual disability or developmental delay whatsoever.
+*[[2q13 duplication syndrome|2q13 duplication]], found in 1 out of the 143 AIS patients and in 7 out of the 1,079 control subjects
+*[[Burnside–Butler syndrome|15q11.2 deletion]], found in 1 out of the 143 AIS patients and in 4 out of the 1,079 control subjects
+*[[15q11.2 duplication syndrome|15q11.2 duplication]], found in 1 out of the 143 AIS patients and in 5 out of the 1,079 control subjects
+*[[16p11.2 duplication syndrome|16p11.2 duplication]], found in 1 out of the 143 AIS patients and in 2 out of the 1,079 control subjects
+**The only AIS patient with this chromosomal duplication also had [[spina bifida occulta]].
+
+== Diagnosis ==
+
+This condition can be diagnosed through the use of the following diagnostic methods:<ref>{{Cite web |date=2021-04-08 |title=Adolescent Idiopathic Scoliosis |url=https://www.neurosurgery.columbia.edu/patient-care/conditions/adolescent-idiopathic-scoliosis |access-date=2022-09-30 |website=Columbia Neurosurgery in New York City |language=en}}</ref><ref name="Horne_2014">{{cite journal | vauthors = Horne JP, Flannery R, Usman S | title = Adolescent idiopathic scoliosis: diagnosis and management | journal = American Family Physician | volume = 89 | issue = 3 | pages = 193–8 | date = February 2014 | pmid = 24506121 | doi = | url = https://www.aafp.org/pubs/afp/issues/2014/0201/p193.html }}</ref><ref>{{Cite web |title=Adolescent Idiopathic Scoliosis - Spine - Orthobullets |url=https://www.orthobullets.com/spine/2053/adolescent-idiopathic-scoliosis |access-date=2022-09-30 |website=www.orthobullets.com}}</ref>
+
+*Physical examination
+**Asymmetric shoulders
+**Asymmetric leg length
+**[[Cavovarus]]
+**Prominent ribs
+**Physical tests such as [[Adam's bending forward test|Adams test]]
+*[[MRI]]s
+*[[Radiographs]]
+
+For adolescent idiopathic scoliosis to be considered as a diagnostic option in the patient, said patient must be between the ages of 10 and 18 years old.<ref name=":17">{{Cite web |title=Adolescent idiopathic scoliosis - Symptoms, diagnosis and treatment {{!}} BMJ Best Practice US |url=https://bestpractice.bmj.com/topics/en-us/979 |access-date=2022-09-30 |website=bestpractice.bmj.com}}</ref>
+
+== Treatment ==
+
+Treatment for mild cases of AIS (less than 20° Cobb angle) usually consists of regular physical check-ups done in a clinical environment to monitor the curvature of the individual's spine. The purpose of these check-ups is preventative, with them being undertaken in order for medical professionals to be able to detect and treat any potential progression of the condition as early as possible.<ref name=":1">{{Cite web |last=Mehta |first=Mr Jwalant S. |date=2020-01-24 |title=Adolescent Idiopathic Scoliosis – Causes, Symptoms & Treatment Options |url=https://www.mehtaspine.co.uk/blog/adolescent-idiopathic-scoliosis-causes-symptoms-treatment-options/ |access-date=2022-09-30 |website=Mehta Spine - Children and Adult Spinal Surgeon, UK |language=en-US}}</ref> Alongside regular check-ups, individuals with mild AIS are often encouraged to use other methods such as the Schroth method, which focuses on posture, breathing and strength training, as well as more general stretching [[exercises]].<ref>{{Cite web |date=2021-08-08 |title=Schroth Method for Scoliosis |url=https://www.hopkinsmedicine.org/health/conditions-and-diseases/scoliosis/schroth-method-for-scoliosis |access-date=2022-09-30 |website=www.hopkinsmedicine.org |language=en}}</ref> in order to manage the effects of the condition but the evidence for exercise efficacy is limited.<ref>{{Cite journal |last1=Romano |first1=Michele |last2=Minozzi |first2=Silvia |last3=Bettany-Saltikov |first3=Josette |last4=Zaina |first4=Fabio |last5=Chockalingam |first5=Nachiappan |last6=Kotwicki |first6=Tomasz |last7=Maier-Hennes |first7=Axel |last8=Arienti |first8=Chiara |last9=Negrini |first9=Stefano |date=2024-02-28 |title=Therapeutic exercises for idiopathic scoliosis in adolescents |journal=The Cochrane Database of Systematic Reviews |volume=2 |issue=2 |article-number=CD007837 |doi=10.1002/14651858.CD007837.pub3 |issn=1469-493X |pmc=10900302 |pmid=38415871}}</ref>
+
+Treatment for moderate cases of AIS (between 20 and 40° Cobb angle) usually consists of bracing of the spine; typically this will not change the curvature in and on itself, but prevents the spine's curvature from progressing any further and developing into a more serious case of AIS.<ref name=":1" /><ref name=":15">{{Cite web |title=Adolescent Idiopathic Scoliosis: What Parents Should Know |url=https://www.hss.edu/conditions_adolescent-idiopathic-scoliosis.asp |access-date=2022-09-29 |website=Hospital for Special Surgery |language=en}}</ref><ref name=":16">{{cite journal | vauthors = Jada A, Mackel CE, Hwang SW, Samdani AF, Stephen JH, Bennett JT, Baaj AA | title = Evaluation and management of adolescent idiopathic scoliosis: a review | language = en-US | journal = Neurosurgical Focus | volume = 43 | issue = 4 | pages = E2 | date = October 2017 | pmid = 28965447 | doi = 10.3171/2017.7.FOCUS17297 | doi-access = free }}</ref> Whilst there are several different types of brace, the best quality evidence supports the use of full-time braces.<ref>{{Cite journal |last1=Weinstein |first1=Stuart L. |last2=Dolan |first2=Lori A. |last3=Wright |first3=James G. |last4=Dobbs |first4=Matthew B. |date=2013-10-17 |title=Effects of Bracing in Adolescents with Idiopathic Scoliosis |journal=New England Journal of Medicine |language=en |volume=369 |issue=16 |pages=1512–1521 |doi=10.1056/NEJMoa1307337 |issn=0028-4793 |pmc=3913566 |pmid=24047455}}</ref>  However, braces worn only at night-time are being increasingly being used (which work slightly differently to full-time braces by 'over correcting' the spine at night time), which overcome some of the challenges of brace wear (i.e. enabling sports participation). There a currently high-quality [[Randomized controlled trial|randomised controlled study]] going on throughout the UK, funded by the [[National Institute for Health and Care Research|National Institute for Health Research]], which is comparing night-time braces to full-time braces; called the [https://basisstudy.org BASIS study].<ref>{{Cite journal |last1=Swaby |first1=Lizzie |last2=Perry |first2=Daniel C. |last3=Walker |first3=Kerry |last4=Hind |first4=Daniel |last5=Mills |first5=Andrew |last6=Jayasuriya |first6=Raveen |last7=Totton |first7=Nikki |last8=Desoysa |first8=Lauren |last9=Chatters |first9=Robin |last10=Young |first10=Bridget |last11=Sherratt |first11=Frances |last12=Latimer |first12=Nick |last13=Keetharuth |first13=Anju |last14=Kenison |first14=Laura |last15=Walters |first15=Stephen |date=2023-11-17 |editor-last=Turtle |editor-first=Chris |editor2-last=Waterhouse |editor2-first=Simon |editor3-last=Davidson |editor3-first=Neil |editor4-last=Shafafy |editor4-first=Masood |editor5-last=Marjoram |editor5-first=Tom |editor6-last=Oxborrow |editor6-first=Neil |editor7-last=Sedra |editor7-first=Fady |editor8-last=Harris |editor8-first=Mark |editor9-last=Leong |editor9-first=Julian |title=Bracing Adolescent Idiopathic Scoliosis (BASIS) study – night-time versus full-time bracing in adolescent idiopathic scoliosis: study protocol for a multicentre, randomized controlled trial |journal=Bone & Joint Open |language=en |volume=4 |issue=11 |pages=873–880 |doi=10.1302/2633-1462.411.BJO-2023-0128 |issn=2633-1462 |pmc=10655615 |pmid=37972634}}</ref> 
+
+Treatment for severe cases of AIS (more than 40° Cobb angle) consists of [[surgery|corrective surgery]] usually involving bone grafts and the insertion of proper spinal instrumentation into the spine.<ref name=":1" /><ref name=":2"/> These treatments typically do not have high post-surgical complication rates.<ref>{{cite journal | vauthors = Kwan MK, Loh KW, Chung WH, Chiu CK, Hasan MS, Chan CY | title = Perioperative outcome and complications following single-staged Posterior Spinal Fusion (PSF) using pedicle screw instrumentation in Adolescent Idiopathic Scoliosis (AIS): a review of 1057 cases from a single centre | journal = BMC Musculoskeletal Disorders | volume = 22 | issue = 1 | article-number = 413 | date = May 2021 | pmid = 33947368 | pmc = 8097957 | doi = 10.1186/s12891-021-04225-5 | doi-access = free }}</ref>
+
+[[File:Wiki post-op.jpg|thumb|Scoliosis bracing treatment]]
+
+== Epidemiology ==
+
+AIS is the most common form of idiopathic scoliosis, accounting for around 90% of all cases.<ref>{{cite journal |vauthors=Konieczny MR, Senyurt H, Krauspe R |date=February 2013 |title=Epidemiology of adolescent idiopathic scoliosis |journal=Journal of Children's Orthopaedics |volume=7 |issue=1 |pages=3–9 |doi=10.1007/s11832-012-0457-4 |pmc=3566258 |pmid=24432052}}</ref><ref name=":17" /> Adolescent Idiopathic Scoliosis affects between 1 and 4% of teenagers,<ref name="aafp.org">{{cite journal | vauthors = Horne JP, Flannery R, Usman S | title = Adolescent idiopathic scoliosis: diagnosis and management | journal = American Family Physician | volume = 89 | issue = 3 | pages = 193–198 | date = February 2014 | pmid = 24506121 | url = https://www.aafp.org/afp/2014/0201/p193.html }}</ref><ref name="Adolescent idiopathic scoliosis">{{cite journal | vauthors = Cheng JC, Castelein RM, Chu WC, Danielsson AJ, Dobbs MB, Grivas TB, Gurnett CA, Luk KD, Moreau A, Newton PO, Stokes IA, Weinstein SL, Burwell RG | display-authors = 6 | title = Adolescent idiopathic scoliosis | journal = Nature Reviews. Disease Primers | volume = 1 | issue = 1 | article-number = 15030 | date = September 2015 | pmid = 27188385 | doi = 10.1038/nrdp.2015.30 | s2cid = 21284193 }}</ref> with treatment being required for only 0.25% of teenagers with the condition. An even smaller portion of individuals may die due to the severe curvature as well as the related symptoms and effects.<ref name="doi.org">{{cite journal | vauthors = Asher MA, Burton DC | title = Adolescent idiopathic scoliosis: natural history and long term treatment effects | journal = Scoliosis | volume = 1 | issue = 1 | article-number = 2 | date = March 2006 | pmid = 16759428 | pmc = 1475645 | doi = 10.1186/1748-7161-1-2 | doi-access = free }}</ref>  AIS appears to be more common among those living in northern latitudes.<ref>{{cite journal | vauthors = Grivas TB, Vasiliadis E, Mouzakis V, Mihas C, Koufopoulos G | title = Association between adolescent idiopathic scoliosis prevalence and age at menarche in different geographic latitudes | journal = Scoliosis | volume = 1 | issue = 1 | article-number = 9 | date = May 2006 | pmid = 16759371 | pmc = 1501058 | doi = 10.1186/1748-7161-1-9 | doi-access = free }}</ref>
+
+Although mild curvature affects females and males equally, severe curvatures tend to affect female teens more than male teens.<ref name="orthobullets.com">{{Cite web | vauthors = Souder C |title=Adolescent Idiopathic Scoliosis - Spine |url=https://www.orthobullets.com/spine/2053/adolescent-idiopathic-scoliosis |access-date=2022-05-21 | work = Orthobullets }}</ref> Post-surgical complications are most common among men and those with coexisting health conditions (such as [[anemia]]).<ref>{{cite journal |display-authors=6 |vauthors=De la Garza Ramos R, Goodwin CR, Abu-Bonsrah N, Jain A, Miller EK, Huang N, Kebaish KM, Sponseller PD, Sciubba DM |date=December 2016 |title=Patient and operative factors associated with complications following adolescent idiopathic scoliosis surgery: an analysis of 36,335 patients from the Nationwide Inpatient Sample |journal=Journal of Neurosurgery. Pediatrics |language=en-US |volume=25 |issue=6 |pages=730–736 |doi=10.3171/2016.6.PEDS16200 |pmid=27564784 |doi-access=free}}</ref>
+
+== See also ==
+
+*[[Scoliosis]]
+*[[Kyphosis]]
+*[[Kyphoscoliosis]]
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+{{refbegin|30em}}
+* {{cite journal | vauthors = Burwell RG, Aujla RK, Grevitt MP, Dangerfield PH, Moulton A, Randell TL, Anderson SI | title = Pathogenesis of adolescent idiopathic scoliosis in girls - a double neuro-osseous theory involving disharmony between two nervous systems, somatic and autonomic expressed in the spine and trunk: possible dependency on sympathetic nervous system and hormones with implications for medical therapy | journal = Scoliosis | volume = 4 | issue =  | article-number = 24 | date = October 2009 | pmid = 19878575 | pmc = 2781798 | doi = 10.1186/1748-7161-4-24 | doi-access = free }}
+* {{cite journal | vauthors = Dimeglio A, Canavese F | title = Progression or not progression? How to deal with adolescent idiopathic scoliosis during puberty | journal = Journal of Children's Orthopaedics | volume = 7 | issue = 1 | pages = 43–49 | date = February 2013 | pmid = 24432058 | pmc = 3566248 | doi = 10.1007/s11832-012-0463-6 }}
+* {{cite journal | vauthors = Drummond DS, Rogala EJ | title = Growth and maturation of adolescents with idiopathic scoliosis | journal = Spine | year = 1980 | volume = 5 | issue = 6 | pages = 507–511 | pmid = 7466459 | doi = 10.1097/00007632-198011000-00004 }}
+* {{cite journal | vauthors = Haller G, Alvarado D, Mccall K, Yang P, Cruchaga C, Harms M, Goate A, Willing M, Morcuende JA, Baschal E, Miller NH, Wise C, Dobbs MB, Gurnett CA | display-authors = 6 | title = A polygenic burden of rare variants across extracellular matrix genes among individuals with adolescent idiopathic scoliosis | journal = Human Molecular Genetics | volume = 25 | issue = 1 | pages = 202–209 | date = January 2016 | pmid = 26566670 | pmc = 4690498 | doi = 10.1093/hmg/ddv463 }}
+* {{cite journal | vauthors = Khanshour AM, Kou I, Fan Y, Einarsdottir E, Makki N, Kidane YH, Kere J, Grauers A, Johnson TA, Paria N, Patel C, Singhania R, Kamiya N, Takeda K, Otomo N, Watanabe K, Luk KD, Cheung KM, Herring JA, Rios JJ, Ahituv N, Gerdhem P, Gurnett CA, Song YQ, Ikegawa S, Wise CA | display-authors = 6 | title = Genome-wide meta-analysis and replication studies in multiple ethnicities identify novel adolescent idiopathic scoliosis susceptibility loci | journal = Human Molecular Genetics | volume = 27 | issue = 22 | pages = 3986–3998 | date = November 2018 | pmid = 30395268 | pmc = 6488972 | doi = 10.1093/hmg/ddy306 }}
+* {{cite journal | vauthors = Liu Z, Tang NL, Cao XB, Liu WJ, Qiu XS, Cheng JC, Qiu Y | title = Lack of association between the promoter polymorphisms of MMP-3 and IL-6 genes and adolescent idiopathic scoliosis: a case-control study in a Chinese Han population | journal = Spine | volume = 35 | issue = 18 | pages = 1701–1705 | date = August 2010 | pmid = 20436380 | doi = 10.1097/BRS.0b013e3181c6ba13 | s2cid = 24634174 }}
+* {{cite journal | vauthors = Miyake A, Kou I, Takahashi Y, Johnson TA, Ogura Y, Dai J, Qiu X, Takahashi A, Jiang H, Yan H, Kono K, Kawakami N, Uno K, Ito M, Minami S, Yanagida H, Taneichi H, Hosono N, Tsuji T, Suzuki T, Sudo H, Kotani T, Yonezawa I, Kubo M, Tsunoda T, Watanabe K, Chiba K, Toyama Y, Qiu Y, Matsumoto M, Ikegawa S | display-authors = 6 | title = Identification of a susceptibility locus for severe adolescent idiopathic scoliosis on chromosome 17q24.3 | journal = PLOS ONE | volume = 8 | issue = 9 | article-number = e72802 | date = 2013 | pmid = 24023777 | pmc = 3762929 | doi = 10.1371/journal.pone.0072802 | bibcode = 2013PLoSO...872802M | doi-access = free }}
+* {{cite journal | vauthors = Sui W, Yang J, Huang Z, Wang Q, Fan H, Deng Y | title = Polymorphisms in promoter regions of MMP-3 and IL-6 genes are not associated to adolescent idiopathic scoliosis (AIS) gender bias | journal = Journal of Back and Musculoskeletal Rehabilitation | year = 2017 | volume = 30 | issue = 3 | pages = 559–563 | pmid = 27911281 | doi = 10.3233/BMR-150309 }}
+* {{cite journal | vauthors = Xu L, Qiu X, Sun X, Mao S, Liu Z, Qiao J, Qiu Y | title = Potential genetic markers predicting the outcome of brace treatment in patients with adolescent idiopathic scoliosis | journal = European Spine Journal | volume = 20 | issue = 10 | pages = 1757–1764 | date = October 2011 | pmid = 21691901 | pmc = 3175878 | doi = 10.1007/s00586-011-1874-7 }}
+{{refend}}
+
+[[Category:Idiopathic diseases]]
+[[Category:Spine]]

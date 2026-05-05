@@ -1,0 +1,56 @@
+{{short description|American management scholar}}
+{{Infobox academic
+| name          =Ashleigh Shelby Rosette
+| image          =
+| image_size    = 230px
+| caption       =
+| birth_name    =
+| birth_date    =
+| birth_place   =[[Jasper, Texas]]
+| occupation    =
+| education     = BBA, 1994, MA, accounting, 1995, [[University of Texas at Austin]] <br> PhD, 2003, [[Kellogg School of Management]]
+| thesis_title  =Unacknowledged privilege: setting the stage for discrimination in organizational settings.
+| thesis_year   =2003
+| known_for     =
+| spouse        =Christopher Rosette
+| children      =
+| awards        =
+| website       =
+| workplaces    = [[Fuqua School of Business]] <br> [[University of Pretoria]] <br> [[University of Houston]]
+}}
+'''Ashleigh Shelby Rosette''' is an American management and organizations scholar. She is the Senior Associate Dean of Executive MBA and Non-Degree Programs at [[Duke University]]'s [[Fuqua School of Business]].
+
+==Early life and education==
+Ashleigh Rosette was born and raised in [[Jasper, Texas]] to parents Cleveland Shelby and Lillie Faith Shelby.<ref name = "biz">{{cite news |title=Ashleigh Shelby Rosette |url=https://www.bizjournals.com/triangle/print-edition/2011/05/20/ashleigh-shelby-rosette.html |accessdate=August 13, 2020 |publisher=[[Business Journal]] |date=May 20, 2011 |archiveurl=https://web.archive.org/web/20200814005921/https://www.bizjournals.com/triangle/print-edition/2011/05/20/ashleigh-shelby-rosette.html |archivedate=August 14, 2020}}</ref> She earned her Bachelor in Business Administration degree and Master in Professional Accounting degree from the [[University of Texas at Austin]] before receiving her [[PhD]] in Management and Organizations from the [[Kellogg School of Management]] at [[Northwestern University]].<ref name = "bio">{{cite web |title=ashleigh shelby rosette |url=https://www.fuqua.duke.edu/faculty/ashleigh-rosette |website=fuqua.duke.edu |accessdate=August 13, 2020}}</ref> As a doctoral student, Shelby Rosette had the opportunity to work as a teaching assistant to [[Oprah Winfrey]] and [[Stedman Graham]].<ref name = "biz"/>
+
+==Career==
+Ashleigh Rosette began her career in academic after working as a [[Certified Public Accountant]] for [[Arthur Andersen]].<ref name = "bio"/> She accepted an assistant professor position at [[University of Houston]] following her Ph.D., where she stayed until 2005 before joining the faculty at [[Duke University]]'s [[Fuqua School of Business]].<ref name = "CV">{{cite web |title=ASHLEIGH SHELBY ROSETTE CV |url=https://faculty.fuqua.duke.edu/~arosette/Ashleigh_Shelby_Rosette's_CV.pdf |website=faculty.fuqua.duke.edu |accessdate=August 13, 2020}}</ref> Prior to joining their faculty, Shelby Rosette consulted various current and former Duke faculty and administrators regarding concerns about the institutions "commitment to attracting underrepresented minority and women."<ref>{{cite web |last1=Booher |first1=Bridget |title=NEW IDEAS ON DIVERSITY |url=https://today.duke.edu/2006/09/new-ideas-diversity |website=today.duke.edu |accessdate=August 13, 2020 |date=September 1, 2006}}</ref> She is currently the James L. Vincent Distinguished Professor of Leadership. <ref>{{Cite web |title=Ashleigh Shelby Rosette {{!}} Scholars@Duke profile |url=https://scholars.duke.edu/person/ashleighshelby.rosette |access-date=2025-03-28 |website=scholars.duke.edu |language=en}}</ref>
+
+Upon accepting her placement, Rosette began examining the differences in leadership expectations in regards to race and gender in corporate position. One of her first research papers at Duke was on the topic of diversity in leadership, which found that the majority of Americans expected business leaders to be white and thought more highly of them.<ref>{{cite web |title=Americans Expect Business Leaders To Be White, And White Leaders To Succeed |url=https://www.fuqua.duke.edu/duke-fuqua-insights/rosette-white-leaders |website=fuqua.duke.edu |accessdate=August 13, 2020 |date=July 15, 2008}}</ref> She said that due to the appointment of [[Barack Obama]], "much of the feedback was not critical of the theory or of the analysis, but people doubted that the phenomenon mattered, that it was even relevant for organizational studies.<ref name = "diversity">{{cite web |title=The Professor Companies Call About Diversity |url=https://www.fuqua.duke.edu/diversity-means-everyone |website=fuqua.duke.edu |accessdate=August 13, 2020 |date=September 15, 2017}}</ref> A few years later, Rosette published a study which concluded that the negative stereotype surrounding women as "sensitive" often benefited those at the most senior levels of organizations. She came to this finding by having 323 graduate and undergraduate students review fictitious newspaper clippings and evaluate the male or female CEOs mentioned. Along with a graduate student, they found that students evaluated women CEOS more favorably than comparable male CEOs.<ref>{{cite web |title=Women's Perceived Weaknesses Are Actually Leadership Strengths |url=https://www.fuqua.duke.edu/duke-fuqua-insights/rosette-weaknesses |website=fuqua.duke.edu |accessdate=August 13, 2020 |date=May 12, 2010}}</ref>
+
+As a result of her research, Shelby Rosette was ranked as one of the Forty Best Business School Professors under Forty by Poets & Quants<ref>{{cite web |last1=Carter |first1=Andrew |title=Best Prof: Ashleigh Shelby Rosette |url=https://poetsandquants.com/2011/02/08/best-prof-ashleigh-shelby-rosette/?pq-category=b-schools/ |website=poetsandquants.com |accessdate=August 13, 2020 |date=February 8, 2011}}</ref> and also received the Triangle [[Business Journal]]'s 40 Under 40 Leadership Award.<ref name = "biz"/> In January 2012, Shelby Rosette and [[Andrew Carton]] from [[Pennsylvania State University]] began examining the differences in media representations of leadership between black and white college football quarterbacks. They found that oftentimes black college football quarterbacks were judged as less effective leaders than their white counterparts and when they won games, the media praised them for being great athletes rather than great leaders.<ref>{{cite web |title=Black Quarterbacks Take Hits in the Media as Well as on the Field |url=https://www.fuqua.duke.edu/duke-fuqua-insights/black-quarterback-take-hits-media |website=fuqua.duke.edu |accessdate=August 13, 2020 |date=January 3, 2012}}</ref> That same year, she also co-published ''Failure is not an option for Black women: Effects of organizational performance on leaders with single versus dual-subordinate identities''<ref>{{cite journal |last1=Shelby Rosette |first1=Ashleigh |last2=Livingston |first2=Robert W. |title=Failure is not an option for Black women: Effects of organizational performance on leaders with single versus dual-subordinate identities |journal=Journal of Experimental Social Psychology |date=2012 |volume=48 |issue=5 |pages=1162–1167 |doi=10.1016/j.jesp.2012.05.002 |url=https://www.sciencedirect.com/science/article/pii/S0022103112000832 |accessdate=August 13, 2020|url-access=subscription }}</ref> and ''Can an agentic Black woman get ahead? The impact of race and interpersonal dominance on perceptions of female leaders.''<ref>{{cite journal |last1=Livingston |first1=Robert W. |last2=Shelby Rosette |first2=Ashleigh |last3=Washington |first3=Ella F. |author-link3=Ella Washington (author) |date=March 14, 2012 |title=Can an Agentic Black Woman Get Ahead? The Impact of Race and Interpersonal Dominance on Perceptions of Female Leaders |url=https://journals.sagepub.com/doi/10.1177/0956797611428079 |journal=Psychological Science |volume=23 |issue=4 |pages=354–358 |doi=10.1177/0956797611428079 |pmid=22421203 |s2cid=34521572 |accessdate=August 13, 2020|url-access=subscription }}</ref>
+
+In August 2020, Shelby Rosette was the lead author of a study that reaffirmed that Black women with natural hairstyles were less likely to get job interviews.<ref>{{cite web |last1=Guy |first1=Jack |title=Black women with natural hairstyles are less likely to get job interviews |url=https://www.cnn.com/2020/08/12/business/black-women-hairstyles-interview-scli-intl-scn/index.html |website=CNN.com |publisher=[[CNN]] |accessdate=August 13, 2020 |date=August 12, 2020}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Google Scholar id | id= wCHbBroAAAAJ}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Shelby Rosette, Ashleigh}}
+[[Category:Living people]]
+[[Category:University of Texas at Austin alumni]]
+[[Category:Kellogg School of Management alumni]]
+[[Category:Duke University faculty]]
+[[Category:People from Jasper, Texas]]
+[[Category:21st-century African-American academics]]
+[[Category:21st-century American academics]]
+[[Category:African-American women academics]]
+[[Category:American women academics]]
+[[Category:American accountants]]
+[[Category:American women accountants]]
+[[Category:Year of birth missing (living people)]]
+[[Category:21st-century African-American women]]

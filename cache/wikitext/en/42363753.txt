@@ -1,0 +1,30 @@
+{{Short description|Theory to explain post-purchase satisfaction}}
+[[Image:Expectation confirmation theory.png|thumb|420px|right|A model of expectation confirmation theory.]]
+'''Expectation confirmation theory''' (or '''ECT''') is a [[Cognitive psychology|cognitive theory]] which seeks to explain post-purchase or post-adoption [[Contentment|satisfaction]] as a function of expectations, perceived performance, and disconfirmation of [[Belief|beliefs]]. The structure of the theory was developed in a series of two papers written by Richard L. Oliver in 1977 and 1980.<ref>{{cite news|title=Cruise Sector Challenges: Making Progress in an Uncertain World|author=Philip Gibson, Alexis Papathanassis, Petra Milde|publisher=Springer Science & Business Media|date=2011|url=https://books.google.com/books?id=3XZr_gMA1F0C|isbn=978-3-8349-6871-5|pages=7|accessdate=2023-03-01}}</ref> Although the theory originally appeared in the [[psychology]] and [[marketing]] literatures, it has since been adopted in several other scientific fields, notably including [[consumer research]] and [[information systems]],{{sfn|Bhattacherjee|2001}} among others.
+
+==Theoretical constructs==
+Expectation confirmation theory involves four primary [[Construct (psychology)|constructs]]: expectations, perceived performance, disconfirmation of beliefs, and satisfaction.
+
+===Expectations===
+''Expectations'' refer to the attributes or characteristics that a person anticipates or predicts will be associated with an entity such as a product, service, or technology artifact. Expectations are posited to directly influence both perceptions of performance and disconfirmation of beliefs, and are posited to indirectly influence post-purchase or post-adoption satisfaction by way of a [[Mediation (statistics)|mediational relationship]] through the disconfirmation construct. Pre-purchase or pre-adoption expectations form the basis of comparison against which the product, service, or technology artifact is ultimately judged.
+
+=== Perceived performance===
+''Perceived performance'' refers to a person’s perceptions of the actual performance of a product, service, or technology artifact. According to expectation confirmation theory, perceptions of performance are directly influenced by pre-purchase or pre-adoption expectations, and in turn directly influence disconfirmation of beliefs and post-purchase or post-adoption satisfaction. Perceived performance is also posited to indirectly influence post-purchase or post-adoption satisfaction by way of a mediational relationship through the disconfirmation construct.
+
+=== Disconfirmation of beliefs===
+''Disconfirmation of beliefs'' refers to the judgments or evaluations that a person makes with respect to a product, service, or technology artifact. These evaluations or judgments are made in comparison to the person’s original expectations. When a product, service, or technology artifact outperforms the person’s original expectations, the disconfirmation is positive, which is posited to increase post-purchase or post-adoption satisfaction. When a product, service, or technology artifact underperforms the person’s original expectations, the disconfirmation is negative, which is posited to decrease post-purchase or post-adoption satisfaction (i.e., to increase dissatisfaction).
+
+===Satisfaction===
+Post-purchase or post-adoption ''satisfaction'' refers to the extent to which a person is pleased or contented with a product, service, or technology artifact after having gained direct experience with the product, service, or artifact. Expectation confirmation theory posits that satisfaction is directly influenced by disconfirmation of beliefs and perceived performance, and is indirectly influenced by both expectations and perceived performance by means of a mediational relationship which passes through the disconfirmation construct.
+
+==References==
+=== Notes ===
+{{reflist}}
+
+=== Bibliography ===
+* {{cite journal|last=Bhattacherjee|first=Anol|s2cid=17449788|date=2001|title=Understanding Information Systems Continuance: An Expectation-Confirmation Model|journal=MIS Quarterly|volume=25|issue=3|pages=351–370|doi=10.2307/3250921|jstor=3250921}}
+* {{cite journal|last=Oliver|first=Richard L.|date=1977|title=Effect of Expectation and Disconfirmation on Postexposure Product Evaluations - an Alternative Interpretation|journal=Journal of Applied Psychology|volume=62|issue=4|pages=480–486|doi=10.1037/0021-9010.62.4.480}}
+* {{cite journal|last=Oliver|first=Richard L.|date=1980|title=A Cognitive Model of the Antecedents and Consequences of Satisfaction Decisions|journal=Journal of Marketing Research|volume=17|issue=4|pages=460–469|doi=10.1177/002224378001700405|s2cid=144831273 }}
+
+
+[[Category:Cognitive science]]

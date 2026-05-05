@@ -1,0 +1,25 @@
+{{Multiple issues|
+{{Orphan|date=December 2023}}
+{{No footnotes|article|date=March 2023}}
+}}
+
+'''Perception training''' is the act of using constant exposure to surrounding stimuli in order to recognize and identify one's surroundings. This psychological method is often considered in the context of [[Developmental psychology|children's development]].<ref>{{Cite journal |last=Rvachew |first=Susan |date=April 1994 |title=Speech Perception Training Can Facilitate Sound Production Learning |url=http://pubs.asha.org/doi/10.1044/jshr.3702.347 |journal=Journal of Speech, Language, and Hearing Research |language=en |volume=37 |issue=2 |pages=347–357 |doi=10.1044/jshr.3702.347 |issn=1092-4388|url-access=subscription }}</ref>
+
+Complex perceptions like [[speech recognition|voice recognition]] is a type of sequence that needs continuous exposure which can be trained or learned. Complex perceptions are often multi-sensory perceptions. An example of these perceptions is: To distinguish between what is real versus what is fake such as using your senses of [[taste]], [[Sense of smell|smell]], and [[Somatosensory system|touch]] because [[visual inspection]] may be insufficient.<ref>{{cite journal |last1=Belin |first1=Pascal |last2=Bestelmeyer |first2=Patricia E. G. |last3=Latinus |first3=Marianne |last4=Watson |first4=Rebecca |title=Understanding Voice Perception: Understanding voice perception |journal=British Journal of Psychology |date=November 2011 |volume=102 |issue=4 |pages=711–725 |doi=10.1111/j.2044-8295.2011.02041.x|pmid=21988380 }}</ref>
+
+Similarly, complex perception are in relation to stimulus and [[episodic memory]]. Episodic memory is the recollection(remembrance) of information from specific experiences in a particular point in time. For example, a time when episodic memory occurs is in times like remembering where you parked your car or the clothes you had on yesterday. This example can also cause the mind to view things in a different perspective. These are called [[Ambiguous image|ambiguous figures]]. Ambiguous figures are a type of visual stimulus that can make people intercept objects or pictures in one way or more. An example could be seeing a photo of a goblet while also you can see two faces in the same photo. So, the perception can change but the visual stays the same.
+
+The basic approaches of perception training are similar to problem solving. The perception [[stimulus (psychology)|stimulus]] means that there needs to be constant exposure, not just when it is convenient. Like going over an exam review, you need to be constantly going over the notes and lectures to get a good understanding.
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite journal |last1=Wichert |first1=Sonja |last2=Wolf |first2=Oliver T. |last3=Schwabe |first3=Lars |title=Updating of episodic memories depends on the strength of new learning after memory reactivation. |journal=Behavioral Neuroscience |date=2013 |volume=127 |issue=3 |pages=331–338 |doi=10.1037/a0032028 |pmid=23458404 }}
+* {{cite news |last1=Martinez |first1=Angelica |title=If You Can Easily Visualize These 12 Things, Your Mind's Eye Has Perfect Vision |url=https://www.buzzfeed.com/angelicaamartinez/minds-eye-quiz |work=BuzzFeed |date=18 August 2020 }}
+* {{cite journal |last1=Kornmeier |first1=Jürgen |last2=Bach |first2=Michael |title=Ambiguous Figures – What Happens in the Brain When Perception Changes But Not the Stimulus |journal=Frontiers in Human Neuroscience |date=22 March 2012 |volume=6 |page=51 |doi=10.3389/fnhum.2012.00051 |pmid=22461773 |pmc=3309967 |doi-access=free }}
+
+[[Category:Perception]]
+
+
+{{cognitive-psych-stub}}

@@ -1,0 +1,19 @@
+{{Short description|Ambiguous image, first published in 1888}}
+[[File:My Wife and My Mother-in-Law.jpg|thumb|"My Wife and My Mother-in-Law", from 1915 by W. E. Hill]]
+"'''My Wife and My Mother-in-Law'''" is a famous [[ambiguous image]], which can be perceived either as a realistic young woman or a cartoonish old woman (the "[[wife]]" and the "[[mother-in-law]]", respectively). The young woman appears with her face turned away from the viewer while the old woman appears in profile facing the left, so that the part of the drawing that represents the young woman's ear is the old woman's eye; the young woman's chin is the old woman's nose; and the young woman's [[choker]] is the old woman's mouth.<ref>{{cite encyclopedia|last=McComas|first=William F.|title=Exploring the Challenges and Opportunities of Theory-Laden Observation and Subjectivity: A Key NOS Notion|encyclopedia=Nature of Science in Science Instruction: Rationales and Strategies|publisher=Springer|editor-last=McComas|editor-first=William F.|pages=141–158|url=https://books.google.com/books?id=bSD5DwAAQBAJ}}</ref>
+
+==History==
+[[File:Original My Wife and My Mother-in-Law postcard (1888).png|thumb|left|1888 German postcard|256x256px]]
+American cartoonist [[William Ely Hill]] (1887–1962) published "My Wife and My Mother-in-Law" in ''[[Puck (magazine)|Puck]]'', an American humour magazine, on 6 November 1915, with the caption "They are both in this picture — Find them".<ref>{{cite web|title=My wife and my mother-in-law. They are both in this picture – find them|url=https://www.loc.gov/pictures/item/2010652001/|work=Prints & Photographs Online Catalog|publisher=Library of Congress|accessdate=9 October 2011}}</ref> However, the oldest known form of this image is an 1888 German [[postcard]].<ref>{{cite web|last=Weisstein|first=Eric W.|title=Young Girl-Old Woman Illusion|url=http://mathworld.wolfram.com/YoungGirl-OldWomanIllusion.html|work=MathWorld|accessdate=9 October 2011}}</ref>
+
+In 1930, [[Edwin Boring]] introduced the figure to psychologists in a paper titled "A new ambiguous figure", and it has since appeared in textbooks and experimental studies. And then in 1961, Jack Botwinick introduced a new figure with a masculine motif, "Husband and Father-in-Law", which complements Hill's figure.<ref>{{cite journal|last=Botwinick|first=Jack|title=Husband and Father-in-Law—A Reversible Figure|journal=The American Journal of Psychology|date=June 1961|volume=74|issue=2 |pages=312–313 |doi=10.2307/1419424|jstor=1419424 }}</ref><ref>{{cite journal |last1=Nicholls |first1=Mike |last2=Churches |first2=Owen |last3=Loetscher |first3=Tobias |title=Perception of an ambiguous figure is affected by own-age social biases |journal=Scientific Reports |date=23 August 2018 |volume=8 |issue=1 |page=12661 |doi=10.1038/s41598-018-31129-7|pmid=30139950 |pmc=6107502 }}</ref>
+
+==References==
+{{reflist}}
+
+==See also==
+{{Commons cat|My Wife and My Mother-In-Law}}
+* [[Reversible figure]]
+<br />
+{{optics-stub}}
+[[Category:Optical illusions]]

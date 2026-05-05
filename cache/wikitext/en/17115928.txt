@@ -1,0 +1,68 @@
+{{cs1 config|name-list-style=vanc}}
+{{lowercase title}}
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 477319133
+| Name = α-Hydroxyglutaric acid
+| ImageFile=alpha-hydroxyglutaric acid.png
+| ImageSize=200px
+| PIN=2-Hydroxypentanedioic acid
+| OtherNames=2-Hydroxyglutaric acid
+|Section1={{Chembox Identifiers
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo=2889-31-8
+| Beilstein = 1723805
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 42
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = C02630
+| InChI = 1/C5H8O5/c6-3(5(9)10)1-2-4(7)8/h3,6H,1-2H2,(H,7,8)(H,9,10)
+| InChIKey = HWXBTNAVRSUOJR-UHFFFAOYAI
+| SMILES1 = O=C(O)C(O)CCC(=O)O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C5H8O5/c6-3(5(9)10)1-2-4(7)8/h3,6H,1-2H2,(H,7,8)(H,9,10)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = HWXBTNAVRSUOJR-UHFFFAOYSA-N
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = RS4M3UYS95
+| PubChem=43
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 17084
+| SMILES=C(CC(=O)O)C(C(=O)O)O
+| MeSHName=Alpha-hydroxyglutarate
+  }}
+|Section2={{Chembox Properties
+| C=5 | H=8 | O=5
+| Appearance=
+| Density=
+| MeltingPt=
+| BoilingPt=
+| Solubility=
+  }}
+|Section3={{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| AutoignitionPt =
+  }}
+}}
+
+'''α-Hydroxyglutaric acid''' (2-hydroxyglutaric acid) is an [[alpha hydroxy acid]] form of [[glutaric acid]].
+
+==In biology==
+In humans the compound is formed by a [[hydroxyacid-oxoacid transhydrogenase]] whereas in bacteria is formed by a [[2-hydroxyglutarate synthase]]. The compound can be converted to [[alpha-Ketoglutaric acid|α-ketoglutaric acid]] through the action of a [[2-hydroxyglutarate dehydrogenase]] which, in humans, are two enzymes called [[D2HGDH]] and [[L2HGDH]]. Deficiency in either of these two enzymes lead to a disease known as [[2-Hydroxyglutaric aciduria|2-hydroxyglutaric aciduria]].
+
+== {{anchor|D-2-hydroxyglutarate}}<small>D</small>-2-hydroxyglutarate ==
+Mutations in [[isocitrate dehydrogenase]] ([[IDH1]] and [[IDH2]]), which frequently occur in [[glioma]] and [[Acute myeloid leukemia|AML]],<ref>{{cite journal |vauthors=Capper D, Zentgraf H, Balss J, Hartmann C, von Deimling A |title=Monoclonal antibody specific for IDH1 R132H mutation |journal=Acta Neuropathol. |volume=118 |issue=5 |pages=599–601 |date=November 2009 |pmid=19798509 |doi=10.1007/s00401-009-0595-z |s2cid=36093146 }}</ref><ref name="pmid20171147">
+{{cite journal  |vauthors=Ward PS, Patel J, Wise DR, etal |title=The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate |journal=Cancer Cell |volume=17 |issue=3 |pages=225–34 |date=March 2010 |pmid=20171147 |pmc=2849316 |doi=10.1016/j.ccr.2010.01.020 }}</ref><ref name="pmid25601757">{{cite journal | vauthors = Wang Y, Xiao M, Chen X, Chen L, Xu Y, Lv L, Wang P, Yang H, Ma S, Lin H, Jiao B, Ren R, Ye D, Guan KL, Xiong Y | title = WT1 recruits TET2 to regulate its target gene expression and suppress leukemia cell proliferation | journal = Molecular Cell | volume = 57 | issue = 4 | pages = 662–73 | date = Feb 2015 | pmid = 25601757 | doi = 10.1016/j.molcel.2014.12.023 | pmc=4336627}}</ref> produce <small>D</small>-2-hydroxyglutarate from [[alpha-ketoglutarate]].<ref name="pmid20559394">{{cite journal |vauthors=Dang L, White DW, Gross S, Bennett BD, Bittinger MA, Driggers EM, Fantin VR, Jang HG, Jin S, Keenan MC, Marks KM, Prins RM, Ward PS, Yen KE, Liau LM, Rabinowitz JD, Cantley LC, Thompson CB, Vander Heiden MG, Su SM | title = Cancer-associated IDH1 mutations produce 2-hydroxyglutarate | journal = Nature | volume = 465 | issue = 7300 | pages = 966 |date=Jun 2010 | pmid = 20559394 | pmc = 3766976 | doi = 10.1038/nature09132 | bibcode = 2010Natur.465..966D }}</ref> <small>D</small>-2-hydroxyglutarate accumulates to very high concentrations which inhibits the function of enzymes that are dependent on alpha-ketoglutarate, including [[Histone methylation|histone lysine demethylases]].<ref name="pmid21460794">{{cite journal |vauthors=Chowdhury R, Yeoh KK, Tian YM, Hillringhaus L, Bagg EA, Rose NR, Leung IK, Li XS, Woon EC, Yang M, McDonough MA, King ON, Clifton IJ, Klose RJ, Claridge TD, Ratcliffe PJ, Schofield CJ, Kawamura A | title = The oncometabolite 2-hydroxyglutarate inhibits histone lysine demethylases | journal = EMBO Rep | volume = 12 | issue = 5 | pages = 463–9 |date=May 2011 | pmid = 21460794 | pmc = 3090014   | doi = 10.1038/embor.2011.43 }}</ref><ref>{{cite journal | vauthors = Wang YP, Lei QY | title = Metabolic recoding of epigenetics in cancer | journal = Cancer Commun (Lond) | year = 2018 | volume = 38 | issue = 1 | pages = 1–8 | pmid = 29784032
+ | doi = 10.1186/s40880-018-0302-3 |doi-access=free | pmc = 5993135 }}</ref> This leads to a hypermethylated state of DNA and histones,<ref name="pmid21251613">{{cite journal | vauthors = Xu W, Yang H, Liu Y, Yang Y, Wang P, Kim SH, Ito S, Yang C, Wang P, Xiao MT, Liu LX, Jiang WQ, Liu J, Zhang JY, Wang B, Frye S, Zhang Y, Xu YH, Lei QY, Guan KL, Zhao SM, Xiong Y | title = Oncometabolite 2-hydroxyglutarate is a competitive inhibitor of α-ketoglutarate-dependent dioxygenases | journal = Cancer Cell | volume = 19 | issue = 1 | pages = 17–30 | date = Jan 2011 | pmid = 21251613 | doi = 10.1016/j.ccr.2010.12.014 | pmc=3229304}}</ref> which results in different gene expression that can activate [[oncogene]]s and inactivate [[tumor-suppressor gene]]s. Studies have also shown that 2-hydroxyglutarate may be converted back to alpha-ketoglutarate either enzymatically or non-enzymatically.<ref name="pmid22343896">{{cite journal |vauthors=Koivunen P, Lee S, Duncan CG, Lopez G, Lu G, Ramkissoon S, Losman JA, Joensuu P, Bergmann U, Gross S, Travins J, Weiss S, Looper R, Ligon KL, Verhaak RG, Yan H, Kaelin WG Jr | title = Transformation by the (R)-enantiomer of 2-hydroxyglutarate linked to EGLN activation | journal = Nature | volume = 483 | issue = 7390 | pages = 484–8 |date=Feb 2012 | pmid = 22343896 | pmc = 3656605  | doi = 10.1038/nature10898 | bibcode = 2012Natur.483..484K | url = https://dash.harvard.edu/bitstream/handle/1/11177929/3656605.pdf?sequence=1 }}</ref><ref name="pmid24594748">{{cite journal |vauthors=Tarhonskaya H, Rydzik AM, Leung IK, Loik ND, Chan MC, Kawamura A, McCullagh JS, Claridge TD, Flashman E, Schofield CJ | title = Non-enzymatic chemistry enables 2-hydroxyglutarate-mediated activation of 2-oxoglutarate oxygenases | journal = Nat Commun | volume = 5 | pages = 3423 |date=Mar 2014 | pmid = 24594748 | pmc = 3959194 | doi = 10.1038/ncomms4423 | bibcode = 2014NatCo...5.3423T }}</ref> Further studies are required to fully understand the dynamics between 2-hydroxyglutarate and alpha-ketoglutarate.
+
+== L-2-hydroxyglutarate ==
+On the other hand, L-2-hydroxyglutarate is produced at high levels in low oxygen conditions, including cells of the immune system.<ref>{{cite journal | vauthors = Tyrakis PA, Palazon A, Macias D, Lee KL, Phan AT, Veliça P, You J, Chia GS, Sim J, Doedens A, Abelanet A, Evans CE, Griffiths JR, Poellinger L, Goldrath AW, Johnson RS | title = S-2-hydroxyglutarate regulates CD8+ T-lymphocyte fate| journal = Nature | volume = 540 | issue = 7632 | pages = 236–241 | date = Dec 2016 | pmid = 27798602 | doi = 10.1038/nature20165 | pmc=5149074| bibcode = 2016Natur.540..236T}}</ref>
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Hydroxyglutaric acid, alpha-}}
+[[Category:Dicarboxylic acids]]
+[[Category:Alpha hydroxycarboxylic acids]]

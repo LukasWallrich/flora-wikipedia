@@ -1,0 +1,448 @@
+{{Short description|Aspect of advertising}}
+{{about|an advertising term|the broader subject|Annoyance}}
+{{Multiple issues|
+{{External links|date=August 2023}}
+{{Original research|date=August 2023}}
+}}
+{{marketing}}
+An '''annoyance factor''' (or '''nuisance''' or '''irritation factor'''<ref name="Irritation-factor-etymology" group=lower-alpha />), in advertising and [[brand management]], is a [[Variable and attribute (research)|variable]] used to measure consumers' perception level of annoyance in an ad, then analyzed to help evaluate the ad's effectiveness. The variable can be [[observable|observed]] or [[Latent variable|inferred]] and is a type that might be used in [[factor analyses]]. An '''annoyance effect''' (or '''nuisance''' or '''irritation effect'''<ref name="Irritation-factor-etymology" group=lower-alpha />) is a reference to the impact or result of an annoying [[Stimulus (psychology)|stimulus]], which can be a strategic aspect of an advertisement intended to help a message stick in the minds of consumers. References to annoyance effects have been referred to as '''annoyance''' '''dynamics'''.<ref name="Ghose-Singh-Todri 2017" group=lower-roman /><ref name="Todri-Ghose-Singh 2019 Apr 17" group=lower-roman /> While the words "factor" and "effect", as used in the [[behavioral sciences]], have different meanings, in casual [[:en:wikt:vernacular|vernacular]], they have been used interchangeably as [[:en:wikt:synonymous|synonymous]]. A more general or [[:en:wikt:umbrella term|umbrella term]] would simply be '''advertising annoyance'''.
+
+== History ==
+
+Comment on advertising in 1850 associated some practices (disparagingly) with [[begging]].<ref name="Literary-American 1850 Jul 13" />
+
+=== Measuring annoyance factors ===
+The discipline of identifying and measuring annoyance in [[quantitative research]] became prevalent around 1968,<ref name="Bauer-Greyser 1968" group=lower-roman /> an outgrowth of the [[quantitative revolution]] in [[social sciences]] that began in the 1950s.<ref name="Kierlanczyk 2016 Feb 4" /> Before that, use and assessment – theoretical and applied (pre-testing, case studies, ''etc.)'' – was mostly [[Qualitative research| qualitative]] (even simply [[intuitive]] or [[Anecdotal evidence| anecdotal]]); although the literature, since 1968,<ref name="John-Howard-info" group=lower-alpha /><ref name="John-Howard 1955 Oct 1" group=lower-roman /> has been a mix of [[Qualitative research| qualitative]] and [[quantitative research| quantitative]]. Identifying, testing, and evaluating annoyance factors is both [[Discipline (academia)#Cross-disciplinary |cross-disciplinary]] and [[interdisciplinary]]. Activity includes [[psychology]], [[sociology]], [[anthropology]], [[semiotics]], [[economics]], [[management science]], and (since the advent of the [[information revolution]] about 1992) many fields related to [[information technology]] and engineering.
+
+Generally, annoyance from an ad can be identified in three areas:<ref name="Oosterwechel 2018" group=lower-roman /><ref name="Bauer-Greyser 1968" group=lower-roman /><ref name="Aaker-Bruzzone 1985" group=lower-roman />
+
+# content
+# execution
+# placement
+
+=== Annoyance in ad production and placement ===
+Setting aside advances in technology, the interdisciplinary fields involved in ''production'' phases of broadcast media (including digital online) that deal with advertising annoyance – including film (videography), [[Music in advertising|music]], art, design, and [[Copywriting|copy]] – have remained relatively similar since the dawn of broadcasting.{{cn|date=June 2020}}
+
+== Applications ==
+An '''annoyance stimulus''' can be (a) a desired marketing strategy or (b) an unavoidable, albeit [[:en:wikt:inherent|inherent]] mix of attributes of a marketing message to weigh and balance or minimize. Traditional annoyance stimuli might feature repetitive phrases or repetitive ads<ref name="Campbell-Miller 2003 Feb" group=lower-roman /> or an annoying communicator. Annoyance stimuli – whether nuanced, subtle, or overt – might involve creating an unpleasant sound, such as a bad [[jingle]] – one that consumers can't get out of their heads. In the [[Northeastern United States]], specifically the [[New York metropolitan area|New York]] and [[Delaware Valley|Philadelphia]] metropolitan areas, the [[Mister Softee#Jingle|Mister Softee jingle]], officially titled "Jingle and Chimes", is both loved and hated. It sticks in people's heads. ''[[The New York Times]]'' characterized it as "exquisitely [[Pavlovian]], triggering salivation or shrieking – sometimes both at once." In the same article, the ''New York Times'' asserted that "it is the textbook embodiment of an [[earworm]]: once heard, never forgotten."<ref name="NYTs 2016 Apr 27" /><ref name="Gopinath-Stanyek 2014" />
+
+Generally, broadcast and streaming advertising is annoying. Exceptions might include [[product placement]] – which avoids [[Interruption science|interruptions]]. Advertisers commonly try to appeal to positive emotions – and, with a careful mix of various gradations of annoyance(s), appealing to those emotions can be achieved. Nonetheless, the goal is to etch a message in the minds of consumers without turning them off. Capital outlay for the use of it can be relatively expensive for major [[consumer product]] companies and the [[Marketing research|research]] behind it, sophisticated.<ref name="NYTs 1981 Aug 26" />
+
+[[File:In-page pop-up window advertisement.jpg|thumb|Example of an internet pop-up ad]]
+Annoyance stimuli – visual or auditory or perceptual – can be in any combination of loudness, repetition, length{{nowrap| ... }} On [[Television advertisement|television]],<ref name="Time 2014 May 12" /> radio, print media, [[Packaging and labeling|packaging]], product [[Display advertising|displays]], [[billboard]]s, [[Advertising mail|mail]], [[telemarketing]] (especially [[robocalls]]), the [[Online advertising|internet]] – including [[Email marketing|email]], and [[Mobile advertising|mobile devices]], ''e.g.:''
+{{div col|colwidth=22em}}
+* [[Web banner|banners]]
+* [[Pop-up ad|pop-ups]]<ref name="Rodgers-Thorson 1999-2007-2017" group=lower-roman /><ref name="Burns-Lutz 2006" group=lower-roman />
+* [[Online advertising#Floating ad|floating ads]]
+* [[Interstitial webpage|interstitials]]
+* prevideo (skip and no-skip)
+* autoplay video
+* [[Display advertising#Importance of formats of display ads|skyscrapers]]
+* [[Display advertising#Importance of formats of display ads|large rectangles]]
+* [[sponsored post|sponsored social media content]]
+* [[digital on-screen graphic]]
+{{div col end}}
+{{nowrap| ... }} also [[Direct-to-consumer advertising|direct-to-consumer ads]] (especially [[Pharmaceutical marketing|pharmaceuticals]]), [[Call to action (marketing)|call to action marketing]], and [[False advertising|false ads]].<ref name="Goodrich-Shu-Galletta 2011" group=lower-roman /><!--and even pricing (e.g., [[Nicotine marketing|tobacco]] – ''see [[Laffer curve]]).''<ref name="Laffer-curve-info" group=lower-alpha />-->
+
+The annoyance stimuli of some ad campaigns might be so subtle that, initially, it is unnoticeable, but over time, highly noticeable. For instance, [[Folgers Coffee]], which was acquired by [[Procter & Gamble]] in 1963, ran [[Frequency (marketing)|high frequency ads]] on TV and in print from 1965 to 1986 featuring "Mrs. Olson", portrayed by actress [[Virginia Christine]] (1920–1996). Some consumers initially perceived her messages as pleasant, but over time, annoying – as some research found. Yet, the annoyance technique was a successful brand-strengthening strategy. Under [[P&G]], Folgers became the number one coffee brand in America. The [[target market]] of P&G's high-frequency campaign became [[:en:wikt:multipronged|multipronged]]. Consumers who infrequently watched TV were likely to see the message at least once (an effective [[Reach (advertising)|reach]] strategy) – while those who [[binge-watch]]ed, even if annoyed, might still choose Folgers, if for no other reason, because the name is etched in their minds (an effective [[Media weight|weight]] strategy). Although interruptions are annoying – whether high-frequency or long run-slots – the disruptions caused by the interruptions are most often intentional efforts to redirect the attention of viewers with the aim of sharpening their focus.<ref name="Medium 2017 Dec 1" /> [[Prime time#North America|Primetime]] TV (as of 2019) has breaks that run back-to-back 30-second ads for as long as 6-minute intervals.
+
+=== Annoyance factor thresholds ===
+When advertisers intentionally use annoyance stimuli, they strive to know annoyance thresholds (compare to [[anxiety thresholds]]) and carefully monitor them. Crossing thresholds can adversely affect brands and consumer behavior.<ref name="Ghose-Singh-Todri 2017" group=lower-roman /> For example, TV [[channel surfing]] – especially in eras following the emergence of [[remote controls]], is a concern for advertisers and program producers. To mitigate viewer drift from surfing, programmers strategically place ads just moments in front of the apex of a [[plot device]] or [[Dramatic structure#Rising action|rising action]] or [[Climax (narrative)|climax]] or conclusion or in the midst of [[suspense]] – leaving viewers hanging. It doesn't significantly deter channel surfing, but it does lure surfers back. Strategic timing, however, is not commonly deployed in internet broadcasts. For example, a [[YouTube]] re-broadcast of [[CNN]] news might simply insert ad interruptions in random spots. Another way that major TV networks attempt to mitigate viewer drift from surfing is to synchronize ad-breaks with those of other networks so that their respective ads run at the same time; when a viewer switches to another channel during a commercial break, they will be switching to another advertisement. In some situations, the same [[Sponsor (commercial)|sponsor]] will air an ad simultaneously on one or more of the other channels.
+
+Advertising in premium venues or platforms (where consumers have already paid) – [[movie theaters]], [[Cable television|cable TV]], [[satellite radio]] – are routine and generally accepted. Any associated annoyance factors, even perceptions of [[bait-and-switch]], are dismissed by consumers as negative albeit long-standing unavoidable economic realities of the respective industries.<ref name="Houston-Chron 2018 Oct 30" />
+
+[[Email spam]], universally accepted as an annoyance factor threshold breach,<ref name="Pew-research Fallows 2003" group=lower-alpha /> can be effective from a statistical perspective. However, since 1998, when unsolicited political bulk email first became widespread, legal analyst Seth Grossman pointed out (in 2004) that state and federal governments increasingly have regulated unsolicited ''commercial'' email, but ''political'' spam had almost uniformly been exempted. Grossman averred that politicians apparently did not feel a need to regulate political spam, their argument being that they would never use spam, due to the annoyance factor.<ref name="UC-Berkeley-Tech-Law-Journal 2004 Fall" group=lower-roman />
+
+== Challenges of minimizing avoidance of longer ads ==
+For [[Digital video recorder|DVR]]-[[TiVo]] users, studies have shown that short ads, 5 seconds, are more effective than 30-second (and longer) ads – due to the annoyance factor of longer ads. The problem, however, is whether programmers can sell 5-second ads instead of 30-second (and longer) ads, with similar pricing – especially considering the challenge of ''consistently'' producing ''effective'' 5-second ads.<ref name="AllBusiness" /><ref name="Cho-Cheon 2004" group=lower-roman /><ref name="Seyedghorban-Tahernejad-Matanda 2015" group=lower-roman />
+
+=== Annoyance factors that influence ad avoidance ===
+* Perceived intrusiveness<ref name="Abernethy 1991" group=lower-roman />
+* Perceived [[Informative advertising|informativeness]]
+* Ad utilities
+* High-pressure advertising ([[hard sell]], as contrasted by [[soft sell]])
+* Questionable and polarized advertising, including [[Pharmaceutical marketing|pharmaceuticals]] ([[Patent medicine#Patent medicines and advertising|patent medicine]], including [[Marketing of off-label use|off-label use]]), firearms, [[political campaigns]], [[Nicotine marketing|tobacco]]
+
+== Annoying albeit effective ads ==
+Some advertisements are deliberately annoying. Some are cute or funny, but, for some, wear thin over time. They can be "memorable, but not always effective".<ref name="USDataCorp 2012 Mar 7" />
+
+===North America===
+
+{{div col|colwidth=22em}}
+: '''Mascots'''
+* [[Aflac#The Aflac Duck|The Aflac Duck]]
+* [[FreeCreditScore.com#Advertising|The Band]] ([[FreeCreditScore.com]])
+* [[Betty White]] ([[Snickers]])
+* [[Dusty the Dusthole]] ([[Clark County, Nevada]])
+* [[Energizer Bunny]]
+* [[Esurance#CITEREFJimenez2019|Erin Esurance]]
+* [[Flo (Progressive Insurance)|Flo]] ([[Progressive Corporation|Progressive]])
+* [[Go-Gurt#Marketing|Go-Gurt independent child]] ([[Yoplait]])
+* [[The Burger King (mascot)|The King]] ([[Burger King]])
+* [[GEICO advertising campaigns|GEICO gecko]], [[GEICO Cavemen]], [[Foghorn Leghorn]] ([[GEICO advertising campaigns|GEICO]])
+* [[HeadOn]]
+* [[Kia Soul#Marketing|Kia Soul Hamsters]]
+* [[Mayhem (advertising character)|Mayhem]] ([[Allstate]])
+* Mr. Mucus ([[Mucinex]])
+* [[Mr. Opportunity]] ([[American Honda Motor Company|Honda]])
+* [[Orbit (gum)#Advertising|Orbit girl]] ([[Orbit (gum)|Orbit chewing gum]])
+* [[Peggy (Discover Card)|Peggy]] ([[Discover Card]])
+* [[Poppin' Fresh]] ([[Pillsbury Company|Pillsbury]])
+
+: '''Jingles'''
+* "[[Mister Softee#Jingle|Jingles and Chimes]]" ([[Mister Softee]])<ref name="NYTs 2016 Apr 27" />
+
+: '''Phrases'''
+* "[[Help! I've fallen, and I can't get up!]]" ([[Life Alert]])
+{{div col end}}
+
+== Exhibit of an annoyance factor analysis table ==
+'''Factor analysis of perceptual items and attitude measures in online advertising:'''
+
+Academicians Kelli S. Burns, PhD, and Richard J. Lutz, PhD, surveyed online users in 2002. In doing so, they chose six [[Online advertising|online ad]] formats: (i) [[Web banner|banners]], (ii) [[Pop-up ad|pop-ups]], (iii) [[Online advertising#Floating ad|floating ads]], (iv) [[Display advertising#Importance of formats of display ads|skyscrapers]], (v) [[Display advertising#Importance of formats of display ads|large rectangles]], and (vi) [[Interstitial webpage|interstitials]].
+
+To develop [[perception|perceptual]] factors, ratings of the 15 perceptual items for all six on-line ad formats were run through [[Principal component analysis|principal components analysis]] with [[varimax rotation]]. The authors inferred – from a [[scree plot]] – a possible three-factor solution. The first three factors accounted for over 68% of the [[Law of total variance|total variance]]. The remaining 12 reflected no more than 5% of the [[variance]], each. The first of the seven tables in their paper, Table 1 (below), shows the [[Factor analysis|loadings]] of the factors generated through [[Principal component analysis|principal component]] extraction and [[varimax rotation]].<ref name="Burns-Lutz 2006" group=lower-roman />
+
+{|width="100%" border="0" cellpadding="0" style="border:0px solid #A3B1BF; {{Round corners}} color: black; background-color:white;"
+
+|-valign="bottom" style="text-align:center"
+| colspan=5 style="background:#cef2e0; border-radius: 12px 12px 0px 0px; border:1px solid #a3bfb1 border-radius: 12px 12px 0px 0px;" | '''Table 1'''
+
+|-valign="bottom" style="text-align:center"
+| colspan=5 style="background:#cef2e0; border:1px solid #a3bfb1 border-radius: 0px 0px 0px 0px;" | '''Summary of Factor Loadings for the [[varimax rotation|Rotated]] Three-Factor Solution for Perceptual Items'''
+
+|-valign="bottom" style="text-align:center"
+| colspan=1 style="color: black; background:#cedff2" | 
+| colspan=1 style="color: black; background:#cedff2; text-align:left" | {{space|3}}'''<small>Perception</small>'''
+| colspan=3 style="color: black; background:#cedff2" | '''<small>Factor scores</small>'''
+
+|-valign="bottom" style="text-align:center"
+| width="4%"; style="background:#cef2e0; text-align:right" |
+| width="39%"; style="background:#cef2e0; text-align:left" | 
+| width="19%"; style="color: black; background:#cef2e0" | '''<small>Factor I<br />entertainment</small>'''
+| width="19%"; style="color: black; background:#cef2e0" | '''<small>Factor II<br />annoyance</small>'''
+| width="19%"; style="color: black; background:#cef2e0" | '''<small>Factor III<br />information</small>'''
+
+|-valign="bottom" style="text-align:center"
+| width="4%"; style="background:#f5fffa; text-align:right" |'''<small>1)</small>{{space|2}}'''
+| width="39%"; style="color: black; background:#f5fffa; text-align:left" | {{space|3}}'''<small>Innovative</small>'''
+| width="19%"; style="color: black; background:#f5fffa" | '''<span style="color:green">0.81</span>'''
+| width="19%"; style="color: black; background:#f5fffa" | <span style="color:red">(0.01)</span>
+| width="19%"; style="color: black; background:#f5fffa" | 0.07
+
+|-valign="bottom" style="text-align:center"
+| width="4%"; style="background:#EAEEF2; text-align:right" |'''<small>2)</small>{{space|2}}'''
+| width="39%"; style="color: black; background:#EAEEF2; text-align:left" | {{space|3}}'''<small>Different</small>'''
+| width="19%"; style="color: black; background:#EAEEF2" | '''<span style="color:green">0.75</span>'''
+| width="19%"; style="color: black; background:#EAEEF2" | <span style="color:red">(0.01)</span>
+| width="19%"; style="color: black; background:#EAEEF2" | <span style="color:red">(0.06)</span>
+
+|-valign="bottom" style="text-align:center"
+| width="4%"; style="background:#f5fffa; text-align:right" |'''<small>3)</small>{{space|2}}'''
+| width="39%"; style="color: black; background:#f5fffa; text-align:left" | {{space|3}}'''<small>Entertaining</small>'''
+| width="19%"; style="color: black; background:#f5fffa" | '''<span style="color:green">0.75</span>'''
+| width="19%"; style="color: black; background:#f5fffa" | <span style="color:red">(0.27)</span>
+| width="19%"; style="color: black; background:#f5fffa" | 0.14
+
+|-valign="bottom" style="text-align:center"
+| width="4%"; style="background:#EAEEF2; text-align:right" |'''<small>4)</small>{{space|2}}'''
+| width="39%"; style="color: black; background:#EAEEF2; text-align:left" | {{space|3}}'''<small>Sophisticated</small>'''
+| width="19%"; style="color: black; background:#EAEEF2" | '''<span style="color:green">0.72</span>'''
+| width="19%"; style="color: black; background:#EAEEF2" | <span style="color:red">(0.07)</span>
+| width="19%"; style="color: black; background:#EAEEF2" | 0.22
+
+|-valign="bottom" style="text-align:center"
+| width="4%"; style="background:#f5fffa; text-align:right" |'''<small>5)</small>{{space|2}}'''
+| width="39%"; style="color: black; background:#f5fffa; text-align:left" | {{space|3}}'''<small>Amusing</small>'''
+| width="19%"; style="color: black; background:#f5fffa" | '''<span style="color:green">0.71</span>'''
+| width="19%"; style="color: black; background:#f5fffa" | <span style="color:red">(0.34)</span>
+| width="19%"; style="color: black; background:#f5fffa" | 0.11
+
+|-valign="bottom" style="text-align:center"
+| width="4%"; style="background:#EAEEF2; text-align:right" |'''<small>6)</small>{{space|2}}'''
+| width="39%"; style="color: black; background:#EAEEF2; text-align:left" | {{space|3}}'''<small>Elaborate</small>'''
+| width="19%"; style="color: black; background:#EAEEF2" | '''<span style="color:green">0.70</span>'''
+| width="19%"; style="color: black; background:#EAEEF2" | 0.24
+| width="19%"; style="color: black; background:#EAEEF2" | 0.17
+
+|-valign="bottom" style="text-align:center"
+| width="4%"; style="background:#f5fffa; text-align:right" |'''<small>7)</small>{{space|2}}'''
+| width="39%"; style="color: black; background:#f5fffa; text-align:left" | {{space|3}}'''<small>Eye-catching</small>'''
+| width="19%"; style="color: black; background:#f5fffa" | '''<span style="color:green">0.70</span>'''
+| width="19%"; style="color: black; background:#f5fffa" | 0.24
+| width="19%"; style="color: black; background:#f5fffa" | 0.17
+
+|-valign="bottom" style="text-align:center"
+| width="4%"; style="background:#EAEEF2; text-align:right" |'''<small>8)</small>{{space|2}}'''
+| width="39%"; style="color: black; background:#EAEEF2; text-align:left" | {{space|3}}'''<small>Attractive</small>'''
+| width="19%"; style="color: black; background:#EAEEF2" | '''<span style="color:green">0.64</span>'''
+| width="19%"; style="color: black; background:#EAEEF2" | <span style="color:red">(0.37)</span>
+| width="19%"; style="color: black; background:#EAEEF2" | 0.32
+
+|-valign="bottom" style="text-align:center"
+| width="4%"; style="background:#f5fffa; text-align:right" |'''<small>9)</small>{{space|2}}'''
+| width="39%"; style="color: black; background:#f5fffa; text-align:left" | {{space|3}}'''<small>Disruptive</small>'''
+| width="19%"; style="color: black; background:#f5fffa" | <span style="color:red">(0.04)</span>
+| width="19%"; style="color: black; background:#f5fffa" | '''<span style="color:green">0.89</span>'''
+| width="19%"; style="color: black; background:#f5fffa" | <span style="color:red">(0.21)</span>
+
+|-valign="bottom" style="text-align:center"
+| width="4%"; style="background:#EAEEF2; text-align:right" |'''<small>10)</small>{{space|2}}'''
+| width="39%"; style="color: black; background:#EAEEF2; text-align:left" | {{space|3}}'''<small>Intrusive</small>'''
+| width="19%"; style="color: black; background:#EAEEF2" | 0.06
+| width="19%"; style="color: black; background:#EAEEF2" | '''<span style="color:green">0.87</span>'''
+| width="19%"; style="color: black; background:#EAEEF2" | <span style="color:red">(0.14)</span>
+
+|-valign="bottom" style="text-align:center"
+| width="4%"; style="background:#f5fffa; text-align:right" |'''<small>11)</small>{{space|2}}'''
+| width="39%"; style="color: black; background:#f5fffa; text-align:left" | {{space|3}}'''<small>Overbearing</small>'''
+| width="19%"; style="color: black; background:#f5fffa" | <span style="color:red">(0.03)</span>
+| width="19%"; style="color: black; background:#f5fffa" | '''<span style="color:green">0.86</span>'''
+| width="19%"; style="color: black; background:#f5fffa" | <span style="color:red">(0.23)</span>
+
+|-valign="bottom" style="text-align:center"
+| width="4%"; style="background:#EAEEF2; text-align:right" |'''<small>12)</small>{{space|2}}'''
+| width="39%"; style="color: black; background:#EAEEF2; text-align:left" | {{space|3}}'''<small>Annoying</small>'''
+| width="19%"; style="color: black; background:#EAEEF2" | <span style="color:red">(0.12)</span>
+| width="19%"; style="color: black; background:#EAEEF2" | '''<span style="color:green">0.85</span>'''
+| width="19%"; style="color: black; background:#EAEEF2" | <span style="color:red">(0.25)</span>
+
+|-valign="bottom" style="text-align:center"
+| width="4%"; style="background:#f5fffa; text-align:right" |'''<small>13)</small>{{space|2}}'''
+| width="39%"; style="color: black; background:#f5fffa; text-align:left" | {{space|3}}'''<small>[[Informative advertising|Informative]]</small>'''
+| width="19%"; style="color: black; background:#f5fffa" | 0.08
+| width="19%"; style="color: black; background:#f5fffa" | <span style="color:red">(0.23)</span>
+| width="19%"; style="color: black; background:#f5fffa" | '''<span style="color:green">0.84</span>'''
+
+|-valign="bottom" style="text-align:center"
+| width="4%"; style="background:#EAEEF2; text-align:right" |'''<small>14)</small>{{space|2}}'''
+| width="39%"; style="color: black; background:#EAEEF2; text-align:left" | {{space|3}}'''<small>Useful</small>'''
+| width="19%"; style="color: black; background:#EAEEF2" | 0.29
+| width="19%"; style="color: black; background:#EAEEF2" | <span style="color:red">(0.37)</span>
+| width="19%"; style="color: black; background:#EAEEF2" | '''<span style="color:green">0.74</span>'''
+
+|-valign="bottom" style="text-align:center"
+| width="4%"; style="background:#f5fffa; text-align:right" |'''<small>15)</small>{{space|2}}'''
+| width="39%"; style="color: black; background:#f5fffa; text-align:left" | {{space|3}}'''<small>Beneficial</small>'''
+| width="19%"; style="color: black; background:#f5fffa" | 0.35
+| width="19%"; style="color: black; background:#f5fffa" | <span style="color:red">(0.45)</span>
+| width="19%"; style="color: black; background:#f5fffa" | '''<span style="color:green">0.65</span>'''
+
+|-valign="bottom" style="text-align:left"
+| colspan=2 style="color: black; background:#cef2e0; border-radius: 0px 0px 0px 12px;" | {{space|10}}'''<small>(2002)</small>'''
+| colspan=3 style="background:#cef2e0; text-align:center; border-radius: 0px 0px 12px 0px;" | {{space|4}}'''<small>Green boldface data indicate items loading on each factor</small>'''
+
+|}
+
+== Performing arts analogy ==
+Using annoyances as disruptive devices in advertising to help messages [[:en:wikt:sink in|sink-in]] can be analogous to [[:en:wikt:jarring|jarring]] devices used in performing arts. For example, in the [[Alvin Ailey American Dance Theater]] December 6, 2019, premier of ''Greenwood'' at [[New York City Center|City Center]] in [[New York City|New York]], [[Donald Byrd (choreographer)|Donald Byrd]] (born 1949), the choreographer, described his work as "theater of disruption"{{nowrap| ... }} "it disrupts our thinking about things, especially, in particular, things around [[Racism|race]]." The dance performance addresses a [[Tulsa race riot|1921 racist mob attack]] in [[Tulsa, Oklahoma|Tulsa]]'s then segregated [[Greenwood District, Tulsa|Greenwood District]], which, at the time, was one of the country's most affluent [[African American]] communities, known as "[[Greenwood District, Tulsa|America's Black Wall Street]]."<ref name="WNYC 2019 Dec 6" /><ref name="encyclopedia-com Byrd-bio" /><ref name="NYTs 2019 Nov 28 2019" />
+
+== See also ==
+The following subjects may address certain aspects or fall within the scope of annoyance dynamics.
+
+{{div col|colwidth=22em}}
+: '''General'''
+* [[Ad tracking]]
+* [[Advertising]]
+* [[Advertising adstock]]
+* [[Advertising campaign]]
+* [[Advertising media selection]]
+* [[Advertorial]]
+* [[Ambient media]]
+* [[Audience measurement]]
+* [[Attack marketing]]
+* [[Campaign advertising]]
+* [[Cause marketing]]
+* [[Celebrity branding]]
+* [[Clutter (advertising)|Clutter]]
+* [[Comparative advertising]]
+* [[Conquesting]]
+* [[Content marketing]]
+* [[Customer engagement]]
+* [[Database marketing]]
+* [[Demographic targeting]]
+* [[Direct marketing]]
+* [[Engagement marketing]]
+* [[Event marketing]]
+* [[Frequency_(marketing)#Frequency_capping|Frequency capping]]
+* [[Global Marketing|Global advertising]]
+* [[Guerrilla marketing]]
+* [[In-flight advertising]]
+* [[Marketing communications#Integrated marketing communications|Integrated marketing communications]]
+* [[Interruption science]]
+* [[Marketing communications]]
+* [[Marketing buzz]]
+* [[Mind share]]
+* [[Mobile billboard]]
+* [[Multichannel marketing]]
+* [[Music in advertising]]
+* [[Native advertising]]
+* [[Out-of-home advertising]] (OOH)
+* [[People meter]]
+* [[Perceptual mapping]]
+* [[Positioning (marketing)|Positioning]]
+* [[Promotional mix]]
+* [[Puffery]]
+* [[Targeted advertising]]
+
+: '''Broadcast'''
+* [[Bumper (broadcasting)|Bumper]]
+* {{Hanging indent |text=[[Channel surfing]] (compare or TV viewers ignoring ads)<ref name="Abernethy 1991" group=lower-roman /><ref name="Krugman-Johnson 1991" group=lower-roman /> }}
+* {{Hanging indent |text=[[Commercial Advertisement Loudness Mitigation Act|Commercial Advertisement Loudness Mitigation (CALM) Act]] (does not apply to cell-phone cast apps) }}
+* [[Commercial skipping]]
+* [[Gross rating point]]
+* [[Radio advertisement]]
+* [[Skinny bundle]]
+* [[Television advertisement]]
+
+: '''TV-online hybrid'''
+* [[Over-the-top media services]] (OTT)
+* [[Virtual advertising]]
+
+: '''Illicit, malicious, or misleading'''
+* [[Browser hijacking]]
+* [[False advertising]]
+* [[Malvertising]]
+* [[Online advertising#Trick banners|Trick banner]]
+
+: '''Internet and mobile'''
+* [[Ad exchange]]
+* [[Ad blocking]]
+* [[Admail]]
+* [[Banner blindness]]
+* [[Behavioral retargeting]]
+* [[Clickbait]] (or [[Chumbox]])
+* [[Contextual advertising]]
+* [[Conversion marketing]]
+* [[Cost per action]]
+* [[Cost-per-click]]
+* [[Cost per lead]]
+* [[Display advertising]]
+* [[HTTP Live Streaming#Dynamic ad insertion|Dynamic ad insertion]]
+* [[Freemium]]
+* [[Geotargeting]]
+* [[Mobile marketing]]
+* [[Mobile phone content advertising]]
+* [[Online advertising]]
+* [[Opt-in email]]
+* [[Pay per 1000 impressions|PPM]] ([[Pay per 1000 impressions]])
+* [[Run of network]]
+* [[Search engine marketing]]
+* [[Share of voice]]
+* [[Surround sessions]]
+* [[Sticky content]]
+* [[Video advertising]]
+* [[Viewable Impression]]
+* [[Viral marketing]]
+
+: '''Psychology'''
+* [[Racial stereotyping in advertising]]
+* [[Sensory branding]]
+* [[Sex in advertising]]
+* [[Shock advertising]]
+
+: '''Research and criticism'''
+* [[Advertising research]]
+* [[Criticism of advertising]]
+
+{{div col end}}
+
+== Notes and references ==
+=== Notes ===
+{{Reflist|group=lower-alpha|30em|refs=
+
+<!--<ref name="Laffer-curve-info">With respect to pricing annoyance factors used to deter use of tobacco, the [[Laffer curve]] had been used to identify [[sin tax]] ceilings with the aim of generating maximum tax revenue; beyond which, associated [[tax revenue]] would fall. The strategy has been roundly criticized for several reasons, namely because it locked-in steady sales for the tobacco industry. Put another way, tax authorities and policy-makers were complicit of, and even incentivized to encourage use of tobacco by proportionately fewer people (in theory) at higher prices. The Laffer curve is a core [[en:wikt:tenet|tenet]] of [[Supply-side economics|supply-siders]], the proposition being that higher taxes usually yield less revenue; but higher taxes to a point on cigarettes actually yielded greater tax revenue. Tobacco use fell, but only marginally. Greater success was achieved when the sin tax rates exceeded max-revenue ceilings identified by Laffer curves.</ref>-->
+
+<ref name="Pew-research Fallows 2003">Note from Seth Grossman's paper (referenced below): According to a 2003 study by the [[Pew Internet and American Life Project]], seventy-six percent of email users consider unsolicited email with political messages to be spam. ([https://www.pewresearch.org/internet/2003/10/22/spam-how-it-is-hurting-email-and-degrading-life-on-the-internet/ "Spam: How It Is Hurting email and Degrading Life on the Internet,"] by Deborah Fallows, [[Pew Internet and American Life Project]], October 22, 2003)</ref>
+
+<ref name="Irritation-factor-etymology">While the phrase "irritation" ("factor" or "effect") in advertising is [[:en:wikt:synonymous|synonymous]] with "annoyance" ("factor" or "effect"), it is more frequently used in medical and pharmaceutical contexts.</ref>
+
+<ref name="John-Howard-info">The [[Ford Foundation|Ford]] and [[Carnegie Foundation for the Advancement of Teaching|Carnegie Foundations]], in the 1950s, issued reports encouraging business schools to incorporate behavioral sciences, mathematics, statistics, and other social sciences in teaching, thinking, and research. Around 1954, the [[Ford Foundation]] commissioned John Arnold Howard, PhD (1915–1999) (bio – {{OCLC|4780435477}}), to write a [[monograph]] on the topic. Howard, in turn, began examining behavioral, economic, and quantitative aspects of marketing; and his early work became seminal in the growth of quantitative analyses in marketing. ''([https://books.google.com/books?id=PwPsCAAAQBAJ&dq=%22operations+research%22+marketing+%22john+howard&pg=PA271 Research Traditions in Marketing],'' Gilles Laurent, [[Gary L. Lilien]], Bernard Pras, eds., [[Springer Science+Business Media]], 1993, p. 271; {{OCLC|968303787}})</ref>
+
+}}
+
+=== References ===
+{{Reflist|30em|refs=
+
+<ref name="Literary-American 1850 Jul 13">{{cite news |ref={{SfnRef|''Literary American'', July 13,|1850|p=28}} |date=July 13, 1850 |title= Newspaper Leeches – Advertising|url={{GBurl|LJ42AQAAMAAJ|pg=RA1-PA28}} |editor1-last=Quackenbos |editor1-first=George Payn |work=The Literary American |volume=5 |issue=2 |location=New York |publisher=A.J. Townsend |page=28 |access-date=June 12, 2020 |via=[[Google Books]] }}<div style="margin-left:2em">Advertisements and epitaphs would furnish ample material for a new volume on the curiosities of literature, and we have no doubt that some D'Israeli will find this a profitable subject for a new work. This would give a new impulse to the business of 'begging advertisements,' and thus prove quite a windfall to these leeches and those who like the blood they extract from the public.</div></ref>
+
+<ref name="Time 2014 May 12">{{cite magazine |ref={{SfnRef|''Time'', May 14,|2014|p=1}} |last1=Time |author-link1=Time (magazine) |last2=Luckerson |first2=Victor |title=Advertising: Here's Exactly Why Watching TV Has Gotten So Annoying |magazine=TIME |date=12 May 2014 |url=https://time.com/96303/tv-commercials-increasing/ |type={{free access}} |page=1 |access-date=November 14, 2019 }} {{ISSN|2476-2679}}; {{EBSCOhost|96048559}}.</ref>
+
+<ref name="NYTs 1981 Aug 26">{{cite news |ref={{SfnRef|''New York Times, August 26,|1981|p=D15}} |last1=''New York Times'' (''The'') |author-link1=The New York Times |last2=Pace |first2=Eric |author-link2=Eric Pace |date=August 26, 1981 |title=Advertising – Studying the 'Hard Sell' |work=The New York Times |url=https://timesmachine.nytimes.com/timesmachine/1981/08/26/247280.html |url-access=subscription |volume=130 |issue=45052 |page=D15 |access-date=November 14, 2019 |via=[[TimesMachine]]}} ({{cite book |title=''permalink'' |work=The New York Times |url=https://timesmachine.nytimes.com/timesmachine/1981/08/26/247280.html?zoom=15.25 |url-access=subscription}})</ref>
+
+<ref name="Houston-Chron 2018 Oct 30">[https://smallbusiness.chron.com/advantages-disadvantages-advertising-cinemas-21521.html "Advantages & Disadvantages of Advertising in Cinemas,"] by M.T. Wroblewski, ''[[Houston Chronicle]]'' (online), updated October 30, 2018</ref>
+
+<ref name="AllBusiness">[https://www.allbusiness.com/advertising-trends-5-second-ads-3877671-1.html "Advertising Trends: 5 Second Ads,"] by Robyn Tippins ''(née'' Robyn V. Green; born 1975), ''[[AllBusiness.com]]'' (no date) (retrieved November 14, 2019)<div style="margin-left:2em">Note: Tippins' article reviews a graph by ClickZ, a digital marketing company founded in 1997</div>
+</ref>
+
+<ref name="USDataCorp 2012 Mar 7">[https://www.usdatacorporation.com/blog/16-annoying-ad-mascots-on-tv/ "16 Most Annoying Ad Mascots on TV Today"] (comment of David A Sawyer, February 1, 2016), US Data Corporation (a [[database marketing|marketing list]] company based in [[Westlake Village, California]], and [[Omaha]]), March 7, 2012 (retrieved November 15, 2019)</ref>
+
+<ref name="Medium 2017 Dec 1">[https://medium.com/monetizing-tomorrow/how-vr-could-change-advertising-forever-9870440bd665 "How VR Could Change Advertising Forever,"] by Samuel Huber, ''[[Medium (website)|Medium]],'' December 1, 2017 (retrieved November 18, 2019)</ref>
+
+<ref name="Kierlanczyk 2016 Feb 4">[https://www.keltonglobal.com/perspectives/a-brief-history-of-market-research/ "A Brief History of Market Research,"] by Kuba Kierlanczyk, blog of Kelton Global (headquartered in [[Playa Vista, California]]) February 4, 2016</ref>
+
+<ref name="NYTs 2016 Apr 27">[https://www.nytimes.com/2016/04/28/business/les-waas-mister-softees-songwriter-dies-at-94.html "Les Waas, Adman, Dies at 94; Gave Mister Softee a Soundtrack,"] by [[Margalit Fox]], ''[[New York Times]],'' April 27, 2016</ref>
+
+<ref name="Gopinath-Stanyek 2014">{{cite book |doi=10.1093/oxfordhb/9780199913657.013.005 |chapter=Ding, Ding!: The Commodity Aesthetic of Ice Cream Truck Music |title=The Oxford Handbook of Mobile Music Studies, Volume 2 |year=2014 |editor1-last=Gopinath |editor1-first=Sumanth |editor2-last=Stanyek |editor2-first=Jason |last1=Neely |first1=Daniel T. |isbn=978-0-19-991365-7 }}</ref>
+
+<ref name="WNYC 2019 Dec 6">[https://www.wnyc.org/story/donald-byrds-theory-disruption/ "Donald Byrd's Theory of Disruption"] (Richard Hake interviews Donald Byrd; audio and transcript), ''[[WNYC-FM|WNYC News]]'' ([[New York City|New York]]), December 6, 2019</ref>
+
+<ref name="encyclopedia-com Byrd-bio">[https://www.encyclopedia.com/education/news-wires-white-papers-and-books/byrd-donald-1949 "Donald Byrd 1949–,"] by Robert R. Jacobson, [[encyclopedia.com]] (retrieved December 12, 2019)</ref>
+
+<ref name="NYTs 2019 Nov 28 2019">{{cite news |ref={{SfnRef|''New York Times'', November 28,|2019|p=}} |last1=''New York Times'' (''The'') |author-link1=The New York Times |last2=Burke |first2=Siobhan |date=November 28, 2019 |title=Can Dance Make a More Just America? Donald Byrd Is Working On It |url=https://www.nytimes.com/2019/11/28/arts/dance/donald-byrd-exhibition.html |url-access=subscription |access-date=November 12, 2019 }} {{ProQuest|2319140382}} (U.S. Newsstream).</ref>
+
+}}
+
+=== Academic and/or peer reviewed references ===
+{{Reflist|group=lower-roman|30em|refs=
+
+<ref name="Rodgers-Thorson 1999-2007-2017">''[https://books.google.com/books?id=6CslDwAAQBAJ Digital Advertising: Theory and Research]'' (3rd ed.), Shelly Rodgers, Esther Thorson, PhD (eds.), [[Routledge]] (1999, 2007, 2017), pps. 70 & 116; {{LCCN|2016043446}}; {{OCLC|1101057869}}; [[International Standard Book Number|ISBNs]] {{ISBN|978-1-138-65442-6|plainlink=yes}} (hardcover), {{ISBN|978-1-138-65445-7|plainlink=yes}} (paperback), {{ISBN|978-1-315-62325-2|plainlink=yes}} (ebook), {{ISBN|978-1-317-22545-4|plainlink=yes}},{{ISBN|978-1-317-22546-1|plainlink=yes}}, {{ISBN|1-3156-2325-0|1-3172-2545-7|1-3172-2546-5|plainlink=yes}}</ref>
+
+<ref name="Goodrich-Shu-Galletta 2011">[https://web.archive.org/web/20200210163411/https://pdfs.semanticscholar.org/2f68/5d0ac42a6a1a57a127f64ff3b1d515c15c4e.pdf "Intrusiveness of Online Video Advertising and its Effects on Marketing Outcomes"] (research-in-progress), by Kendall Phillip Goodrich, PhD, Shu Schiller, PhD, Dennis Galletta, PhD, Thirty Second [[International Conference on Information Systems]], Shanghai 2011</ref>
+
+<ref name="Ghose-Singh-Todri 2017">[http://repository.ittelkom-pwt.ac.id/2830/1/Got%20Annoyed-%20Examining%20the%20Advertising%20Effectiveness%20and%20Annoyanc.pdf "Got Annoyed? Examining the Advertising Effectiveness and Annoyance Dynamics,"] by:<div style="margin-left:2em">{{Hanging indent |text=[[Anindya Ghose]], PhD, [[Stern School of Business]] }}{{Hanging indent |text=Param Vir Singh, PhD, [[Tepper School of Business]] }}{{Hanging indent |text=Vilma Todri, PhD, Department of Information Systems and Operations Management, [[Emory University]] }}</div>Thirty-Eighth [[International Conference on Information Systems]], South Korea (2017)</ref>
+
+<ref name="Todri-Ghose-Singh 2019 Apr 17">{{cite journal |last1=Todri |first1=Vilma |last2=Ghose |first2=Anindya |last3=Singh |first3=Param Vir |title=Trade-Offs in Online Advertising: Advertising Effectiveness and Annoyance Dynamics Across the Purchase Funnel |journal=Information Systems Research |date=March 2020 |volume=31 |issue=1 |pages=102–125 |doi=10.1287/isre.2019.0877 |s2cid=202347500 }}</ref>
+
+<ref name="UC-Berkeley-Tech-Law-Journal 2004 Fall">{{cite journal |last1=Grossman |first1=Seth |title=Keeping Unwanted Donkeys and Elephants Out of Your Inbox: The Case for Regulating Political Spam |journal=Berkeley Technology Law Journal |date=2004 |volume=19 |issue=4 |pages=1533–1575 |jstor=24116738}}</ref>
+
+<ref name="Oosterwechel 2018">{{cite thesis |last1=Oosterwechel |first1=J. |title=The relationship between advertising preference accuracy and consumer engagement in social media advertising |date=19 February 2018 |url=https://purl.utwente.nl/essays/74577 }}</ref>
+
+<ref name="Bauer-Greyser 1968">"Advertising in America: The Consumer View," Raymond Augustine Bauer, PhD (1916–1977), & Stephen Abel Greyser, [[Doctor of Business Administration|DBA]] (born 1935) [[American Association of Advertising Agencies]] & [[Harvard Business School]], Division of Research, Graduate Studies (1968); {{OCLC|868983437|1071064096}}</ref>
+
+<ref name="Aaker-Bruzzone 1985">{{cite journal |last1=Aaker |first1=David A. |last2=Bruzzone |first2=Donald E. |title=Causes of Irritation in Advertising |journal=Journal of Marketing |date=1985 |volume=49 |issue=2 |pages=47–57 |doi=10.2307/1251564 |jstor=1251564 }}</ref>
+
+<ref name="Abernethy 1991">"Physical and Mechanical Avoidance of Television Commercials: An Exploratory Study of Zipping, Zapping and Leaving," by Avery M. Abernethy, Proceedings of the American Academy of Advertising (1991); 223–231</ref>
+
+<ref name="Krugman-Johnson 1991">{{cite journal |last1=Krugman |first1=Dean M. |last2=Johnson |first2=Keith F. |title=Differences in the consumption of traditional broadcast and VCR movie rentals |journal=Journal of Broadcasting & Electronic Media |date=March 1991 |volume=35 |issue=2 |pages=213–232 |doi=10.1080/08838159109364119 }}</ref>
+
+<ref name="Burns-Lutz 2006">{{cite journal |last1=Burns |first1=Kelli S. |last2=Lutz |first2=Richard J. |title=THE FUNCTION OF FORMAT: Consumer Responses to Six On-line Advertising Formats |journal=Journal of Advertising |date=April 2006 |volume=35 |issue=1 |pages=53–63 |doi=10.2753/JOA0091-3367350104 |s2cid=143825277 }}</ref>
+
+<ref name="Cho-Cheon 2004">{{cite journal |last1=Cho |first1=Chang-Hoan |last2=Cheon |first2=Hongsik John |title=Why Do People Avoid Advertising on the Internet? |journal=Journal of Advertising |date=2004 |volume=33 |issue=4 |pages=89–97 |doi=10.1080/00913367.2004.10639175 |jstor=4189279|s2cid=53486785 |citeseerx=10.1.1.614.2271 }}</ref>
+
+<ref name="Seyedghorban-Tahernejad-Matanda 2015">"Reinquiry into Advertising Avoidance on the Internet: A Conceptual Replication and Extension," by Zahra Seyedghorban, PhD, Hossein Tahernejad, Margaret Jekanyika Matanda, PhD, ''[[Journal of Advertising]],'' Vol. 45, No. 1, October 19, 2015, pps. {{OCLC|6013942665}}; {{ISSN|0091-3367}}</ref>
+
+<ref name="John-Howard 1955 Oct 1">"Operations Research and Market Research," by John Arnold Howard, PhD (1915-1999), ''[[Journal of Marketing]],'' Vol. 20, No. 2, October 1, 1955, pps. 143–149; {{OCLC|5546189688}}; {{ISSN|0022-2429}}</ref>
+
+<ref name="Campbell-Miller 2003 Feb">"Brand Familiarity and Advertising Repetition Effects," by Margaret C. Campbell & Kevin Lane Miller, ''[[Journal of Consumer Research]]'' Vol. 30, No. 2, February 2003, pps. 292–304; {{OCLC|4643094954}}; {{ISSN|0093-5301}}</ref>
+
+}}
+
+<!--{{Media manipulation}}-->
+
+[[Category:Business terms]]
+[[Category:Consumer behaviour]]
+[[Category:Consumer theory]]
+[[Category:Types of marketing]]
+[[Category:Advertising techniques]]
+[[Category:Marketing techniques]]
+[[Category:Promotion and marketing communications]]
+[[Category:Advertising]]
+[[Category:Television advertising]]
+[[Category:Online advertising]]
+[[Category:Digital marketing]]
+[[Category:Film and video terminology]]
+[[Category:Television terminology]]
+[[Category:Internet terminology]]
+[[Category:Audience measurement]]
+[[Category:Market research]]

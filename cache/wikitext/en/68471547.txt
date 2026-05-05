@@ -1,0 +1,57 @@
+{{Autobiography|date=March 2022}}
+{{short description|American academic and psychologist}}
+* 
+
+[[File:Jason Rentfrow.jpg|thumb|Jason Rentfrow]]
+'''Peter Jason Rentfrow''' is professor of [[Personality|personality and individual differences]] in the Psychology Department at [[University of Cambridge|Cambridge University]], where he directs the Social Dynamics Research Center. He is an  elected Fellow of the [[Association for Psychological Science]], the [[Society for Personality and Social Psychology]], and the [[Alan Turing Institute]].<ref name=DW>{{Cite web|url=https://www.psychol.cam.ac.uk/staff/dr-jason-rentfrow|title=Dr Jason Rentfrow|first=Dr Jason|last=Rentfrow|date=April 5, 2012|website=www.psychol.cam.ac.uk}}</ref>
+
+== Early life and education ==
+Rentfrow was born in Louisiana and later moved to Texas, where he graduated from [[Kingwood High School]]. He studied psychology at the University of Texas at Austin, where he earned his BA in 1998 and PhD in 2004 under the supervision of [[Samuel D. Gosling]], [[William Swann|William B. Swann]], and [[James W. Pennebaker]].<ref>{{cite thesis|title=Message in a ballad : personality judgements [sic] based on music preferences|oclc=69019693|author=Peter Jason Rentfrow|others= William B Swann, Samuel D Gosling (Supervisors)|publisher=University of Texas at Austin|date=2004}}</ref> Rentfrow joined the faculty of the Psychology Department at Cambridge University in 2005.
+
+== Research ==
+Rentfrow's research interests include geographical psychology, music psychology, and psychological assessment. His research seeks to understand the ways in which personality traits interact with the environment and become expressed in everyday life.
+
+=== Geographical psychology ===
+Rentfrow's research in geographical psychology demonstrates that social influence, ecological influence, and selective migration are key mechanisms that contribute to the spatial clustering of psychological characteristics.<ref name=":0">{{Cite journal|last1=Rentfrow|first1=Peter J.|last2=Jokela|first2=Markus|date=2016-12-01|title=Geographical Psychology: The Spatial Organization of Psychological Phenomena|url=https://doi.org/10.1177/0963721416658446|journal=Current Directions in Psychological Science|language=en|volume=25|issue=6|pages=393–398|doi=10.1177/0963721416658446|s2cid=151745822|issn=0963-7214|url-access=subscription}}</ref>
+
+=== Personal tastes and preferences ===
+His work in this area seeks to understand the degree to which personal preferences reflect and effectively communicate information about people’s psychological characteristics.<ref name=":1">{{Cite journal|title=The structure of musical preferences: A five-factor model|year = 2011|doi=10.1037/a0022406|pmc=3138530|pmid=21299309|last1 = Rentfrow|first1 = P. J.|last2 = Goldberg|first2 = L. R.|last3 = Levitin|first3 = D. J.|journal = Journal of Personality and Social Psychology|volume = 100|issue = 6|pages = 1139–1157}}</ref><ref name=":2">{{Cite journal|title=The do re mi's of everyday life: The structure and personality correlates of music preferences|url=https://doi.apa.org/doiLanding?doi=10.1037/0022-3514.84.6.1236|access-date=2021-08-13|journal=Journal of Personality and Social Psychology|year = 2003|doi=10.1037/0022-3514.84.6.1236|pmid = 12793587|last1 = Rentfrow|first1 = P. J.|last2 = Gosling|first2 = S. D.|volume = 84|issue = 6|pages = 1236–1256|url-access = subscription}}</ref><ref>{{Cite journal|last1=Rentfrow|first1=Peter J.|last2=Gosling|first2=Samuel D.|date=2006-03-01|title=Message in a Ballad: The Role of Music Preferences in Interpersonal Perception|url=https://doi.org/10.1111/j.1467-9280.2006.01691.x|journal=Psychological Science|language=en|volume=17|issue=3|pages=236–242|doi=10.1111/j.1467-9280.2006.01691.x|pmid=16507064|s2cid=16271901|issn=0956-7976|url-access=subscription}}</ref><ref>{{Cite journal|last=Rentfrow|first=Peter J.|date=2012|title=The Role of Music in Everyday Life: Current Directions in the Social Psychology of Music|url=https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-9004.2012.00434.x|journal=Social and Personality Psychology Compass|language=en|volume=6|issue=5|pages=402–416|doi=10.1111/j.1751-9004.2012.00434.x|issn=1751-9004|url-access=subscription}}</ref>
+
+=== Psychological and behavioral assessment ===
+In collaboration with [[Samuel D. Gosling]], he developed the Ten-Item Personality Inventory,<ref>{{Cite journal|date=2003-12-01|title=A very brief measure of the Big-Five personality domains|url=https://www.sciencedirect.com/science/article/abs/pii/S0092656603000461|journal=Journal of Research in Personality|language=en|volume=37|issue=6|pages=504–528|doi=10.1016/S0092-6566(03)00046-1|issn=0092-6566|last1=Gosling|first1=Samuel D.|last2=Rentfrow|first2=Peter J.|last3=Swann|first3=William B.|s2cid=7147133 |url-access=subscription}}</ref>  a brief measure of the [[Big Five personality traits]]. Also with Gosling, he developed the Short Test of Musical Preferences,<ref name=":2" /> an individual difference measure designed to assess musical preferences. With [[Lewis Goldberg|Lewis R. Goldberg]] and [[Daniel Levitin|Daniel J. Levitin]], he developed an audio-based measure of musical preferences in which respondents report their effective reactions to excerpts of various pieces of music.<ref name=":1" /><ref>{{Cite journal|last1=Rentfrow|first1=Peter J.|last2=Goldberg|first2=Lewis R.|last3=Stillwell|first3=David J.|last4=Kosinski|first4=Michal|last5=Gosling|first5=Samuel D.|last6=Levitin|first6=Daniel J.|date=2012-12-01|title=The Song Remains the Same: A Replication and Extension of the MUSIC Model|url=https://online.ucpress.edu/mp/article-abstract/30/2/161/62552/The-Song-Remains-the-Same-A-Replication-and?redirectedFrom=fulltext|journal=Music Perception|language=en|volume=30|issue=2|pages=161–185|doi=10.1525/mp.2012.30.2.161|issn=0730-7829|pmc=4016970|pmid=24825945}}</ref> In addition to traditional self-report measures, Rentfrow has collaborated with computer scientist [[Cecilia Mascolo]] to develop a mobile sensing platform for measuring behavior and psychological states unobtrusively.<ref>{{Cite journal|last1=Lathia|first1=Neal|last2=Pejovic|first2=Veljko|last3=Rachuri|first3=Kiran K.|last4=Mascolo|first4=Cecilia|last5=Musolesi|first5=Mirco|last6=Rentfrow|first6=Peter J.|date=July 2013|title=Smartphones for Large-Scale Behavior Change Interventions|journal=IEEE Pervasive Computing|volume=12|issue=3|pages=66–73|doi=10.1109/MPRV.2013.56|s2cid=14134567|issn=1536-1268}}</ref>
+
+== Honours ==
+Rentfrow is an elected Fellow of the [[Association for Psychological Science]], the [[Society for Personality and Social Psychology]], and the [[Alan Turing Institute]].<ref name=DW />
+
+He edited ''Geographical Psychology'', which reviews the state of the science on the ways in which psychological traits vary across geographic regions. With [[Daniel Levitin|Daniel J. Levitin]], he co-edited ''Foundations in Music Psychology'', which reviews the state of the science on the neurological, cognitive, and social psychological bases of musical experiences. Rentfrow has served as a member of the senior editorial team for five psychology journals, including ''[[Personality and Social Psychology Bulletin]]'' and ''[[Social Psychological and Personality Science]].'' <ref name=DW />
+
+== Publications ==
+
+=== Books ===
+*Rentfrow, Peter J., ed.  ''Geographical Psychology: Exploring the Interaction of Environment and Behavior''. Washington, D.C.: American Psychological Association, 2014.<ref name="auto">{{Cite book|title=Geographical psychology: exploring the interaction of environment and behavior|first=Peter J|last=Rentfrow|date=September 27, 2014|publisher=American Psychological Association|oclc=1137359444|isbn=9781433815393}}</ref>
+* Rentfrow, Peter J., and Daniel J. Levitin, eds.''Foundations in Music Psychology: Theory and Research''. 2019.   {{ISBN|9781433815393}}<ref name="auto"/>
+
+=== Most-cited peer-reviewed papers ===
+
+* Gosling SD, Rentfrow PJ, Swann Jr WB. A very brief measure of the Big-Five personality domains. ''[[Journal of Research in Personality]].'' 2003 Dec 1;37(6):504-28 (Cited 8030 times, according to [[Google Scholar]]<ref name=GS>{{Google Scholar id|id=TZ9YLMoAAAAJ}}, Accessed Sept 19. 2021</ref>) 
+*Rentfrow PJ, Gosling SD. The do re mi's of everyday life: the structure and personality correlates of music preferences. ''[[Journal of Personality and Social Psychology]]''. 2003 Jun;84(6):1236 (Cited 1814 times, according to Google Scholar.<ref name=GS  />)  
+* Rentfrow PJ, Gosling SD, Potter J. A theory of the emergence, persistence, and expression of geographic variation in psychological characteristics. ''[[Perspectives on Psychological Science]]''  2008 Sep;3(5):339-69 (Cited 542 times, according to Google Scholar.<ref name=GS  /> 
+*Rentfrow PJ, Gosling SD. Message in a ballad: The role of music preferences in interpersonal perception. ''[[Psychological Science]].'' 2006 Mar;17(3):236-42 (Cited 559 times, according to Google Scholar.<ref name=GS  />)
+*Rentfrow PJ, Goldberg LR, Levitin DJ. The structure of musical preferences: a five-factor model. ''Journal of Personality and Social Psychology''. 2011 Jun;100(6):1139 (Cited 375 times, according to Google Scholar.<ref name=GS  />)
+
+== References ==
+{{reflist}}
+
+== External links ==
+* Department Webpage: [https://www.psychol.cam.ac.uk/staff/dr-jason-rentfrow Dr Jason Rentfrow]  
+* Personality and Social Dynamics Research Center page: [https://www.psd.psychol.cam.ac.uk/team-members/dr-jason-rentfrow-pi Dr. Jason Rentfrow (PI)]
+* Social Psychology Network page: [https://rentfrow.socialpsychology.org Peter Jason Rentfrow]
+{{Authority control}}
+
+{{DEFAULTSORT:Rentfrow, Peter}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:University of Texas at Austin alumni]]
+[[Category:Academics of the University of Cambridge]]
+[[Category:American expatriate academics]]
+[[Category:21st-century American psychologists]]

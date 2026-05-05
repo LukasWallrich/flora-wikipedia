@@ -1,0 +1,298 @@
+{{Short description|System or group governing an organized community}}
+{{Redirect|Gov}}
+{{For-multi|the executive power referred to as "the government"|Executive (government)|other uses}}
+{{pp-vandalism|small=yes}}
+{{Use dmy dates|date=September 2021}}
+{{Use British English|date=January 2016}}
+{{refimprove|date=February 2026}}
+{{Systems of government|upright=1.2}}
+{{Governance}}
+<!-- For future edits, consider avoid filling up the lead with unwanted, unreliable sources, because as per Wikipedia:Manual_of_Style/Layout#Order_of_article_elements, the lead will usually repeat information that is in the body, editors should balance the desire to avoid redundant citations in the lead with the desire to aid readers in locating sources for challengeable material. -->
+
+A '''government''' is the system or group of people governing an organized community, generally a [[State (polity)|state]].
+
+In the case of its broad associative definition, government normally consists of [[legislature]], [[executive (government)|executive]], and [[judiciary]]. Government is a means by which organizational [[policies]] are enforced, as well as a mechanism for determining policy. In many countries, the government has a kind of [[constitution]], a statement of its governing principles and philosophy.
+
+While all types of organizations have [[governance]], the term ''government'' is often used more specifically to refer to the approximately 200 [[list of sovereign states|independent national governments]] and [[government agency|subsidiary organizations]].
+
+The main types of modern [[political system]]s recognized are [[democracy|democracies]], [[totalitarian regime]]s, and, sitting between these two, [[authoritarianism|authoritarian regimes]] with a variety of [[hybrid regime]]s.<ref name="Dobratz 2015 p. 47">{{Cite book |last=Dobratz |first=B.A. |url=https://books.google.com/books?id=RoK9CgAAQBAJ&pg=PA47 |title=Power, Politics, and Society: An Introduction to Political Sociology |date=2015 |publisher=Taylor & Francis |isbn=978-1-317-34529-9 |page=47 |access-date=Apr 30, 2023 |archive-date=30 April 2023 |archive-url=https://web.archive.org/web/20230430083243/https://books.google.com/books?id=RoK9CgAAQBAJ&pg=PA47 |url-status=live }}</ref><ref name="LinzLinz2000">{{Cite book |last=Linz |first=Juan José |url=https://books.google.com/books?id=8cYk_ABfMJIC&pg=PA143 |title=Totalitarian and Authoritarian Regimes |date=2000 |publisher=Lynne Rienner Publisher |isbn=978-1-55587-890-0 |pages=143 |oclc=1172052725 |author-link=Juan José Linz |access-date=20 October 2022 |archive-date=22 April 2023 |archive-url=https://web.archive.org/web/20230422130238/https://books.google.com/books?id=8cYk_ABfMJIC&pg=PA143 |url-status=live }}</ref> Modern classification systems also include [[monarchy|monarchies]] as a standalone entity or as a hybrid system of the main three.<ref name="Garcia-AlexanderWooCarlson2017">{{Cite book |last1=Garcia-Alexander |first1=Ginny |url=https://books.google.com/books?id=y-M8DwAAQBAJ&pg=PA137 |title=Social Foundations of Behavior for the Health Sciences |last2=Woo |first2=Hyeyoung |last3=Carlson |first3=Matthew J. |date=2017 |publisher=Springer |isbn=978-3-319-64950-4 |pages=137– |oclc=1013825392}}</ref><ref>{{Cite web |date=8 April 2016 |title=14.2 Types of Political Systems |url=https://opentextbooks.uregina.ca/sociology/chapter/14-2-types-of-political-systems/#:~:text=The%20major%20types%20of%20political,and%20instead%20rule%20through%20fear |access-date=20 October 2022 |archive-date=22 October 2022 |archive-url=https://web.archive.org/web/20221022061920/https://opentextbooks.uregina.ca/sociology/chapter/14-2-types-of-political-systems/#:~:text=The%20major%20types%20of%20political,and%20instead%20rule%20through%20fear |url-status=dead }}</ref> Historically prevalent forms of government include monarchy, [[aristocracy]], [[timocracy]], [[oligarchy]], democracy, [[theocracy]], and [[tyrant|tyranny]]. These forms are not always mutually exclusive, and [[mixed government]]s are common. The main aspect of any philosophy of government is how political power is obtained, with the two main forms being [[election|electoral contest]] and [[order of succession|hereditary succession]].
+
+==Definitions and etymology==
+A government is the [[system]] to [[governance|govern]] a [[state (polity)|state]] or community. The ''[[Cambridge Advanced Learner's Dictionary|Cambridge Dictionary]]'' defines government as, "the system used for controlling a country, city, or group of people", or "an organization that officially manages and controls a country or region, creating laws, collecting taxes, providing public services".<ref>{{Cite web|url=https://dictionary.cambridge.org/dictionary/english/government|title=GOVERNMENT &#124; English meaning - Cambridge Dictionary}}</ref> While all types of organizations have governance, the word ''government'' is often used more specifically to refer to the approximately 200 [[List of sovereign states|independent national governments]] on Earth, as well as their subsidiary organizations, such as [[State government|state and provincial governments]] as well as [[local government]]s.{{sfn|Smelser|Baltes|2001|p={{page needed|date=July 2022}}}}
+
+The word ''government'' derives from the Greek verb {{lang|grc|κυβερνάω}} [{{transliteration|grc|kubernáo}}] meaning ''to steer'' with a [[Gubernaculum (classical)|gubernaculum]] (rudder), the metaphorical sense being attested in the literature of [[classical antiquity]], including [[Plato]]'s [[Ship of State]].{{sfn|Brock|2013|p=53–62}} In [[British English]], "government" sometimes refers to what's also known as a "[[Ministry (collective executive)|ministry]]" or an "[[administration (government)|administration]]", i.e., the policies and government officials of a particular executive or governing [[Coalition government|coalition]]. Finally, ''government'' is also sometimes used in English as a [[synonym]] for rule or governance.<ref>{{Cite web |title=Government English Definition and Meaning |url=https://www.lexico.com/en/definition/government |url-status=dead |archive-url=https://web.archive.org/web/20220717193211/https://www.lexico.com/en/definition/government |archive-date=17 July 2022 |access-date=2022-07-17 |website=Lexico |language=en}}</ref>
+	
+In other languages, [[cognate]]s may have a narrower scope, such as the [[government of Portugal]], which is more similar to the concept of [[Administration (government)|"administration"]].
+
+==History==
+{{main|Political history of the world|Political philosophy}}
+
+=== Earliest governments ===
+The moment and place that the phenomenon of human government developed is lost in time; however, history does record the formations of early governments. About 5,000 years ago, the first small city-states appeared.{{sfn|Christian|2004|p=245}} By the third to second millenniums BC, some of these had developed into larger governed areas: [[Sumer]], [[ancient Egypt]], the [[Indus Valley civilization]], and the [[List of Neolithic cultures of China|Yellow River civilization]].{{sfn|Christian|2004|p=294}}
+
+One reason that explains the emergence of governments includes agriculture. Since the [[Neolithic Revolution]], agriculture has been an efficient method to create food surplus. This enabled people to specialize in non-agricultural activities. Some of them included being able to rule over others as an external authority. Others included social experimentation with diverse governance models. Both these activities formed the basis of governments.<ref name="Eagly99">{{cite journal |author1=Eagly, Alice H. |author2=Wood, Wendy |date=June 1999 |title=The Origins of Sex Differences in Human Behavior: Evolved Dispositions Versus Social Roles |url=http://www.sscnet.ucla.edu/anthro/faculty/fiske/facets/eagly%26wood.htm |url-status=dead |journal=American Psychologist |volume=54 |issue=6 |pages=408–423 |doi=10.1037/0003-066x.54.6.408 |bibcode=1999AmPsy..54..408E |archive-url=https://web.archive.org/web/20000817071347/http://www.sscnet.ucla.edu/anthro/faculty/fiske/facets/eagly%26wood.htm |archive-date=17 August 2000 |url-access=subscription |access-date=1 September 2023 }}</ref> These governments gradually became more complex as agriculture supported larger and denser populations, creating new [[Culture|interactions]] and [[Social issue|social pressures]] that the government needed to control. [[David Christian (historian)|David Christian]] explains
+
+{{blockquote|As farming populations gathered in larger and denser communities, interactions between different groups increased and the social pressure rose until, in a striking parallel with star formation, new structures suddenly appeared, together with a new level of complexity. Like stars, cities and states reorganize and energize the smaller objects within their gravitational field.{{sfn|Christian|2004|p=245}}}}
+
+Another explanation includes the need to properly manage infrastructure projects such as water infrastructure. Historically, this required centralized administration and complex social organisation, as seen in regions like Mesopotamia.<ref name="Fukuyama-2012">{{Cite book |last=Fukuyama |first=Francis |url=https://books.google.com/books?id=i9xRAQAAMAAJ&q=origins+of+political+order+amazon |title=The Origins of Political Order: From Prehuman Times to the French Revolution |date=2012-03-27 |publisher=Farrar, Straus and Giroux |isbn=978-0-374-53322-9 |pages=70 |language=en}}</ref> However, there is archaeological evidence that shows similar successes with more egalitarian and decentralized complex societies.<ref>{{cite book |author=Roosevelt, Anna C. |title=Cambridge history of the Native peoples of the Americas: South America, Volume 3 |publisher=Cambridge University Press |year=1999 |isbn=978-0-521-63075-7 |editor=Salomon, Frank |pages=266–267 |chapter=The Maritime, Highland, Forest Dynamic and the Origins of Complex Culture |editor2=Schwartz, Stuart B. |chapter-url=https://books.google.com/books?id=hxqgDcCrzjkC&pg=PA266 |archive-url=https://web.archive.org/web/20160624045250/https://books.google.com/books?id=hxqgDcCrzjkC&pg=PA266 |archive-date=24 June 2016 |url-status=live}}</ref>
+
+=== Modern governments ===
+[[File:The Harmsworth atlas and Gazetter 1908 Government systems world map.jpg|thumb|upright=1.4|Forms of government in 1908 from ''The Harmsworth atlas and Gazetter'']]
+Starting at the end of the 17th century, the prevalence of republican forms of government grew. The [[English Civil War]] and [[Glorious Revolution]] in England, the [[American Revolution]], and the [[French Revolution]] contributed to the growth of representative forms of government. The [[Soviet Union]] was the first large country to have a [[Communist]] government.{{sfn|Smelser|Baltes|2001|p={{page needed|date=July 2022}}}} Since the fall of the [[Berlin Wall]], [[liberal democracy]] has become an even more prevalent form of government.{{sfn|Kuper|Kuper|2008|p={{page needed|date=July 2022}}}}
+
+In the nineteenth and twentieth centuries, there was a significant increase in the size and scale of government at the national level.{{sfn|Haider-Markel|2014|p={{page needed|date=July 2022}}}} This included the regulation of corporations and the development of the [[welfare state]].{{sfn|Kuper|Kuper|2008|p={{page needed|date=July 2022}}}}
+
+==Political science==
+{{main|Political science}}
+{{Politics sidebar|expanded=Subseries}}
+
+=== Classification ===
+In political science, it has long been a goal to create a typology or taxonomy of [[polities]], as typologies of political systems are not obvious.{{sfn|Lewellen|2003|p={{page needed|date=July 2022}}}} It is especially important in the [[political science]] fields of [[comparative politics]] and [[international relations]]. Like all categories discerned within forms of government, the boundaries of government classifications are either fluid or ill-defined.
+
+Superficially, all governments have an official ''[[de jure]]'' or ideal form. The United States is a federal constitutional republic, while the former [[Soviet Union]] was a federal [[Socialist state|socialist republic]]. However, self-identification is not objective, and as Kopstein and Lichbach argue, defining [[regime]]s can be tricky, especially ''[[de facto]]'', when both its government and its economy deviate in practice.{{sfn|Kopstein|Lichbach|2005|p=4}} For example, [[Voltaire]] argued that "the [[Holy Roman Empire]] is neither Holy, nor Roman, nor an Empire".{{sfn|Renna|2015}} In practice, the Soviet Union was a centralized autocratic one-party state under [[Joseph Stalin]].
+
+Identifying a form of government can be challenging because many [[political system]]s originate from socio-economic movements, and the parties that carry those movements into power often name themselves after those ideologies. These parties may have competing political ideologies and strong ties to particular forms of government. As a result, the movements themselves can sometimes be mistakenly considered as forms of government, rather than the ideologies that influence the governing system.<ref>Hague, R., & Harrop, M. (2013). Comparative government and politics: An introduction (9th ed.). Palgrave Macmillan.</ref>
+
+Other complications include general non-consensus or deliberate "[[Disinformation|distortion or bias]]" of reasonable technical definitions of political ideologies and associated forms of governing, due to the nature of politics in the modern era. For example: The meaning of "conservatism" in the United States has little in common with the way the word's definition is used elsewhere. As Ribuffo notes, "what Americans now call conservatism much of the world calls liberalism or [[neoliberalism]]"; a "conservative" in Finland would be labelled a "[[socialist]]" in the United States.{{sfn|Ribuffo|2011|pp=2–6|loc=quote on p. 6}} Since the 1950s, conservatism in the United States has been chiefly associated with [[right-wing politics]] and the [[History of the Republican Party (United States)|Republican Party]]. However, during the era of [[Racial segregation in the United States|segregation]] many [[Southern Democrats]] were conservatives, and they played a key role in the [[conservative coalition]] that controlled Congress from 1937 to 1963.{{sfn|Frederickson|2000|p=12}}{{efn|{{harvnb|Frederickson|2000|p=12}}, quote: "...conservative southern Democrats viewed warily the potential of New Deal programs to threaten the region's economic dependence on cheap labor while stirring the democratic ambitions of the disfranchised and undermining white supremacy."}}
+
+===Social-political ambiguity===
+Opinions vary by individuals concerning the types and properties of governments that exist. "Shades of gray" are commonplace in any government and its corresponding classification. Even the most liberal democracies limit rival political activity to one extent or another while the most tyrannical dictatorships must organize a broad base of support thereby creating difficulties for "[[pigeonholing]]" governments into narrow categories. Examples include the claims of the [[Plutocracy#United States|United States as being a plutocracy]] rather than a democracy since some American voters believe elections are being manipulated by wealthy [[Super PACs]].{{sfn|Freeland|2012}} Some consider that government is to be reconceptualised where in times of climatic change the needs and desires of the individual are reshaped to generate sufficiency for all.<ref>"[http://www.diva-portal.org/smash/get/diva2:839526/FULLTEXT01.pdf Governing the "Enough" in a Warming World The Discourse of "Sufficiency" from a Climate Governmentality Perspective]". Deflorian, Michel (2015). Retrieved 2 October 2023.</ref>
+
+==Measurement of governing==
+The quality of a government can be measured by [[Government effectiveness index]], which relates to [[political efficacy]] and [[state capacity]].<ref name=Guisan>{{cite journal |last1=Guisan |first1=Maria-Carmen |title=Government effectiveness, education, economic development and well-being: analysis of European countries in comparison with the United States and Canada, 2000-2007 |journal=Applied Econometrics and International Development |date=2009 |volume=9 |issue=1 |page=1 |url=http://www.usc.es/economet/reviews/aeid914.pdf |access-date=25 April 2019}}</ref> The [[political bias]] of a government can be measured relative to the [[median voter theorem|median voter]].<ref name="m117">{{cite journal | last1=Turnbull | first1=Geoffrey K. | last2=Mitias | first2=Peter M. | title=The median voter model across levels of government | journal=Public Choice | volume=99 | issue=1-2 | date=1999 | issn=0048-5829 | doi=10.1023/A:1018364416730 | pages=119–138 | url=https://link.springer.com/10.1023/A:1018364416730 | access-date=2026-03-15| url-access=subscription }}</ref> The [[fiscal sustainability]] of a government measures the [[sustainability]] of [[Fiscal policy|fiscal policies]], [[government budget balance]]s and the [[fiscal gap]] in the long-term.<ref name = "Bohn Sustainability of Fiscal Policy">{{cite book |doi=10.7551/mitpress/7756.003.0003 |ssrn=708173 |id={{CORE output|6408927}} |chapter=The Sustainability of Fiscal Policy in the United States |title=Sustainability of Public Debt |date=2008 |last1=Bohn |first1=Henning |pages=15–50 |isbn=978-0-262-28049-5 |url=https://www.cesifo.org/DocDL/cesifo1_wp1446.pdf }}</ref> For some countries the current government budget balances and [[unfunded mandate]]s were found unsustainable.<ref>{{cite journal |last1=Beqiraj |first1=Elton |last2=Fedeli |first2=Silvia |last3=Forte |first3=Francesco |title=Public debt sustainability: An empirical study on OECD countries |journal=Journal of Macroeconomics |date=December 2018 |volume=58 |pages=238–248 |doi=10.1016/j.jmacro.2018.10.002 |hdl=11573/1195132 |hdl-access=free }}</ref>
+
+==Forms==
+{{Main|List of forms of government}}
+{{Further|Mixed government}}
+
+{{Basic forms of government}}
+
+[[Plato]] in his book ''[[Republic (Plato)|The Republic]]'' (375 BC) divided governments into five basic types (four being existing forms and one being Plato's ideal form, which exists "only in speech"):<ref name="Abjorensen2019">{{Cite book |last=Abjorensen |first=Norman |url=https://books.google.com/books?id=cNSSDwAAQBAJ&pg=PA288 |title=Historical Dictionary of Democracy |date=2019 |publisher=[[Rowman & Littlefield]] |isbn=978-1-5381-2074-3 |pages=288– |oclc=1081354236}}</ref>
+
+* [[Aristocracy]] (rule by [[Rule of law|law and order]], like ideal traditional "benevolent" kingdoms that are not tyrannical)
+* [[Timocracy]] (rule by honor and duty, like a "benevolent" military; Sparta as an example)
+* [[Oligarchy]] (rule by wealth and market-based-ethics, like a [[laissez-faire]] capitalist state)
+* [[Democracy]] (rule by pure [[liberty]] and [[Social equality|equality]], like a [[freedom|free]] citizen)
+* [[Tyrant|Tyranny]] ([[rule by fear]], like a [[Despotism|despot]])
+
+These five regimes progressively degenerate starting with aristocracy at the top and tyranny at the bottom.{{sfn|Brill|2016}}
+
+In his ''[[Politics (Aristotle)|Politics]]'', Aristotle elaborates on Plato's five regimes discussing them in relation to the government of one, of the few, and of the many.<ref name="Jordović2019">{{Cite book |last=Jordović |first=Ivan |url=https://books.google.com/books?id=if7vxwEACAAJ |title=Taming Politics: Plato and the Democratic Roots of Tyrannical Man |date=2019 |publisher=Franz Steiner Verlag |isbn=978-3-515-12457-7 |page=intro |oclc=1107421360}}</ref> From this follows the classification of forms of government according to which people have the authority to rule: either one person (an [[autocracy]], such as monarchy), a select group of people (an aristocracy), or the people as a whole (a democracy, such as a republic).
+
+[[Thomas Hobbes]] stated on their classification:
+
+{{blockquote|The difference of [[Commonwealth]]s consisteth in the difference of the [[sovereign]], or the person representative of all and every one of the multitude. And because the sovereignty is either in one man, or in an assembly of more than one; and into that assembly either every man hath right to enter, or not everyone, but certain men distinguished from the rest; it is manifest there can be but three kinds of Commonwealth. For the representative must need to be one man or more; and if more, then it is the assembly of all, or but of a part. When the representative is one man, then is the Commonwealth a monarchy; when an assembly of all that will come together, then it is a democracy or popular Commonwealth; when an assembly of a part only, then it is called an aristocracy. In other kinds of Commonwealth there can be none: for either one, or more, or all, must have the sovereign power (which I have shown to be indivisible) entire.<ref name="Leviathan">{{Cite wikisource |last1=Hobbes |first1=Thomas |title=Leviathan |wslink=Leviathan/The Second Part}}</ref>}}
+
+===Modern basic political systems===
+According to [[Yale]] professor [[Juan José Linz]], there a three main types of [[political system]]s today: [[democracy|democracies]],
+[[totalitarian regime]]s and, sitting between these two, [[authoritarianism|authoritarian regimes]] with [[hybrid regime]]s.<ref name="LinzLinz2000" /><ref name="Michie2014">{{Cite book |url=https://books.google.com/books?id=ip_IAgAAQBAJ&pg=PA95 |title=Reader's Guide to the Social Sciences |date=3 February 2014 |publisher=Routledge |isbn=978-1-135-93226-8 |editor-last=Jonathan Michie |page=95 |access-date=20 October 2022 |archive-date=22 April 2023 |archive-url=https://web.archive.org/web/20230422130238/https://books.google.com/books?id=ip_IAgAAQBAJ&pg=PA95 |url-status=live }}</ref> Another modern classification system includes [[monarchies]] as a standalone entity or as a hybrid system of the main three.<ref name="Garcia-AlexanderWooCarlson2017" /> Scholars generally refer to a [[dictatorship]] as either a form of authoritarianism or totalitarianism.<ref name="ToddWaller2015">{{Cite book |last1=Todd |first1=Allan |url=https://books.google.com/books?id=y_pfCgAAQBAJ&pg=PA10 |title=History for the IB Diploma Paper 2 AuthoritariaAuthoritarian States (20th Century) |last2=Waller |first2=Sally |date=10 September 2015 |publisher=Cambridge University Press |isbn=978-1-107-55889-2 |editor-last=Todd |editor-first=Allan |pages=10– |editor-last2=Waller |editor-first2=Sally |access-date=20 October 2022 |archive-date=22 April 2023 |archive-url=https://web.archive.org/web/20230422130238/https://books.google.com/books?id=y_pfCgAAQBAJ&pg=PA10 |url-status=live }}</ref><ref name="LinzLinz2000" /><ref name="Sondrol">{{Cite journal |last=Sondrol |first=P. C. |date=2009 |title=Totalitarian and Authoritarian Dictators: A Comparison of Fidel Castro and Alfredo Stroessner |url=https://www.jstor.org/stable/157386 |journal=Journal of Latin American Studies |volume=23 |issue=3 |pages=599–620 |doi=10.1017/S0022216X00015868 |jstor=157386 |s2cid=144333167 |access-date=20 October 2022 |archive-date=8 March 2023 |archive-url=https://web.archive.org/web/20230308100323/https://www.jstor.org/stable/157386 |url-status=live  |issn=0022-216X |url-access=subscription }}</ref>
+
+===Autocracy===
+{{Main|Autocracy}}
+
+An autocracy is a system of government in which supreme [[Power (social and political)|power]] is concentrated in the hands of one person, whose decisions are subject to neither external legal restraints nor regularized mechanisms of popular control (except perhaps for the implicit threat of a [[coup d'état]] or mass [[insurrection]]).<ref>{{Cite web |last=Johnson |first=Paul M. |title=Autocracy: A Glossary of Political Economy Terms |url=http://www.auburn.edu/~johnspm/gloss/autocracy |url-status=live |archive-url=https://web.archive.org/web/20181226063927/http://www.auburn.edu/~johnspm/gloss/autocracy%20 |archive-date=26 December 2018 |access-date=14 September 2012 |publisher=Auburn.edu}}</ref> [[Absolute monarchy]] is a historically prevalent form of autocracy, wherein a [[monarch]] governs as a singular [[sovereign]] with no limitation on [[royal prerogative]]. Most absolute monarchies are [[Hereditary monarchy|hereditary]], however some, notably the [[Holy See]], are [[Elective monarchy|elected]] by an [[electoral college]] (such as the [[college of cardinals]], or [[prince-elector]]s). Other forms of autocracy include [[tyranny]], [[despotism]], and [[dictatorship]].
+
+===Aristocracy===
+{{Main|Aristocracy}}
+
+Aristocracy{{efn|{{langx|grc|ἀριστοκρατία}} {{transliteration|grc|aristokratía}}, from {{lang|grc|ἄριστος}} {{transliteration|grc|[[Wikt:aristocrat#English|aristos]]}} "excellent", and {{lang|grc|κράτος}} {{transliteration|grc|[[Wikt:kratos|kratos]]}} "[[Power (social and political)|power]]".}} is a form of government that places power in the hands of a small, [[elite]] [[ruling class]],<ref name="OED">{{Cite OED|aristocracy}}</ref> such as a hereditary [[nobility]] or [[Social privilege|privilege]]d [[caste]]. This class exercises [[minority rule]], often as a [[Land tenure|landed]] [[timocracy]], wealthy [[plutocracy]], or [[oligarchy]].
+
+Many monarchies were aristocracies, although in modern constitutional monarchies, the monarch may have little effective power. The term ''aristocracy'' could also refer to the non-[[peasant]], non-servant, and non-[[Burgher (social class)|city]] classes in [[feudalism]].<ref>Blickle, P. (1997). Resistance, representation and community. Oxford University Press.</ref>
+
+===Democracy===
+{{Main|Democracy|Types of democracy}}
+[[File:Democracy claims.svg|thumb|upright=1.5|{{ubl|{{legend|green|National governments which self-identify as democracies}}|{{legend|red|National governments which do not self-identify as democracies}}}}]]
+[[File:Electoral democracies.svg|thumb|upright=1.5|Governments recognised as "electoral democracies" {{as of|2022|lc=yes}} by the ''[[Freedom in the World]]'' survey{{efn|Conducted by the American [[think tank]] [[Freedom House]], which is largely funded by the [[US government]].}}]]
+
+Democracy is a system of government where [[citizen]]s exercise power by [[Vote|voting]] and [[Deliberative democracy|deliberation]]. In a [[direct democracy]], the citizenry as a whole directly forms a [[Participatory democracy|participatory]] governing body and vote directly on each issue. In [[indirect democracy]], the citizenry governs indirectly through the selection of [[Representative democracy|representatives]] or [[Delegated voting|delegates]] from among themselves, typically by [[election]] or, less commonly, by [[sortition]]. These select citizens then meet to form a governing body, such as a legislature or [[jury]].
+
+Some governments combine both direct and indirect democratic governance, wherein the citizenry selects representatives to administer day-to-day governance, while also reserving the right to govern directly through [[popular initiative]]s, [[referendum]]s (plebiscites), and the [[Recall election|right of recall]]. In a [[constitutional democracy]] the powers of the majority are exercised within the framework of representative democracy, but the constitution limits [[majority rule]], usually through the provision by all of certain [[universal right]]s, such as [[freedom of speech]] or [[freedom of association]].<ref>''[[Oxford English Dictionary]]'': "democracy".</ref><ref name="britannica">{{Cite encyclopedia |last=Watkins |first=Frederick |date=1970 |title=Democracy |edition=Expo '70 hardcover |volume=7 |encyclopedia=[[Encyclopædia Britannica]] |publisher=William Benton |pages=215–223 |language=en |isbn=978-0-85229-135-1}}</ref>
+
+==== Republics ====
+{{Main|Republic}}
+
+A republic is a form of government in which the country is considered a "public matter" ({{langx|la|res publica}}), not the private concern or property of the rulers, and where offices of states are subsequently directly or indirectly elected or appointed rather than inherited. The people, or some significant portion of them, have supreme control over the government and where offices of state are elected or chosen by elected people.{{sfn|Montesquieu|1748|loc=book 2, chapters 1}}<ref name="Britannica">{{Cite web|url=https://www.britannica.com/topic/republic-government|title=Republic &#124; Definition, History, & Facts &#124; Britannica|date=1 May 2025|website=www.britannica.com}}</ref>
+
+A common simplified definition of a republic is a government where the head of state is not a monarch.<ref name="WordNet">{{Cite journal |title=republic |url=http://dictionary.reference.com/browse/republic |url-status=live |journal=WordNet 3.0 |archive-url=https://web.archive.org/web/20090312065659/http://dictionary.reference.com/browse/republic |archive-date=12 March 2009 |access-date=20 March 2009}}</ref><ref name="M-W">{{Cite encyclopedia |title=Republic |encyclopedia=Merriam-Webster |url=http://www.merriam-webster.com/dictionary/republic |access-date=14 August 2010 |archive-url=https://web.archive.org/web/20180612162708/https://www.merriam-webster.com/dictionary/republic |archive-date=12 June 2018 |url-status=live}}</ref> [[Montesquieu]] included both [[democracy|democracies]], where all the people have a share in rule, and [[aristocracy|aristocracies]] or [[oligarchy|oligarchies]], where only some of the people rule, as republican forms of government.{{sfn|Montesquieu|1748|loc=book 2, chapters 2–3}}
+
+Other terms used to describe different republics include [[democratic republic]], [[parliamentary republic]], [[semi-presidential republic]], [[presidential republic]], [[federal republic]], [[people's republic]], and [[Islamic republic]].
+
+==== Federalism ====
+{{Main|Federalism}}
+
+Federalism is a political concept in which a ''group'' of members are bound together by [[Covenant (law)|covenant]] with a governing [[Federal headship|representative head]]. The term "federalism" is also used to describe a system of government in which [[sovereignty]] is constitutionally divided between a central governing authority and constituent political units, variously called states, provinces or otherwise. Federalism is a system based upon democratic principles and institutions in which the power to govern is shared between national and provincial/state governments, creating what is often called a [[federation]].<ref>{{Cite book |last1=Cane |first1=Peter |title=The new Oxford companion to law |last2=Conaghan |first2=Joanne |date=2008 |publisher=Oxford university press |isbn=978-0-19-929054-3 |location=Oxford |chapter=Federalism}}</ref> Proponents are often called [[federalist]]s.
+
+== Branches ==
+[[File:Separation of powers.png|thumb|upright=1.5|Separation of powers in the [[US government]], demonstrating the ''trias politica'' model]]
+{{further|Separation of powers|Fusion of powers}}
+
+Governments are typically organised into distinct institutions constituting branches of government each with particular [[Power (social and political)|power]]s, functions, duties, and responsibilities. The distribution of powers between these institutions differs between governments, as do the functions and number of branches. An independent, parallel distribution of powers between branches of government is the [[separation of powers]]. A shared, intersecting, or overlapping distribution of powers is the [[fusion of powers]].
+
+Governments are often organised into three branches with separate powers: a legislature, an executive, and a judiciary; this is sometimes called the {{lang|la|trias politica}} model. However, in [[parliament]]ary and [[semi-presidential system]]s, branches of government often intersect, having shared membership and overlapping functions. Many governments have fewer or additional branches, such as an independent [[electoral commission]] or [[Supreme audit institution|auditory]] branch.{{sfn|Needler|1991|pp=[https://books.google.com/books?id=Fcssj8yigS4C&pg=PA116 116]–118}}
+
+== Party system ==
+{{Party politics|expanded=party systems}}
+{{Redirect|One-party government|a state in which a single political party controls the ruling system|One-party state}}
+{{Further|Political party|Party system}}
+
+Presently, most governments are administered by members of an explicitly constituted [[political party]] which coordinates the activities of associated government [[official]]s and [[candidate]]s for office. In a [[multiparty system]] of government, multiple political parties have the capacity to gain control of government offices, typically by competing in [[election]]s, although the [[effective number of parties]] may be limited.
+
+A [[majority government]] is a government by one or more [[governing parties]] together holding an absolute majority of seats in the parliament, in contrast to a [[minority government]] in which they have only a plurality of seats and often depend on a [[confidence-and-supply]] arrangement with other parties. A [[coalition government]] is one in which multiple parties cooperate to form a government as part of a [[coalition agreement]]. In a single-party government, a single party forms a government without the support of a coalition, as is typically the case with majority governments,{{sfn|Gallagher|Laver|Mair|2006}}{{sfn|Kettle|2015}} but even a minority government may consist of just one party unable to find a willing coalition partner at the moment.{{sfn|Duxbury|2021}}
+
+A state that continuously maintains a single-party government within a (nominally) multiparty system possesses a [[dominant-party system]]. In a (nondemocratic) [[one-party system]] a single [[ruling party]] has the (more-or-less) exclusive right to form the government, and the formation of other parties may be obstructed or illegal. In some cases, a government may have a [[non-partisan system]], as is the case with [[absolute monarchy]] or [[non-partisan democracy]].
+
+== Maps ==
+{{see also|List of countries by system of government}}
+
+Democracy is the most popular form of government. More than half of the nations in the world are democracies—97 of 167, as of 2021.<ref name=IDEA/> However, the world is becoming more authoritarian with a quarter of the world's population under [[Democratic backsliding|democratically backsliding]] governments.<ref name="IDEA">[https://www.idea.int/gsod/sites/default/files/2021-11/the-global-state-of-democracy-2021_0.pdf The Global State of Democracy 2021] {{Webarchive|url=https://web.archive.org/web/20220809193024/https://www.idea.int/gsod/sites/default/files/2021-11/the-global-state-of-democracy-2021_0.pdf|date=9 August 2022}}, International Institute for Democracy and Electoral Assistance.</ref>
+
+[[File:EIU Democracy Index 2017.svg|left|upright=2.75|thumb|[[Democracy Index]] by the [[Economist Intelligence Unit]], 2017<ref>{{Cite web |title=Democracy Index 2017 – Economist Intelligence Unit |url=http://pages.eiu.com/rs/753-RIQ-438/images/Democracy_Index_2017.pdf |url-status=live |archive-url=https://web.archive.org/web/20201221004840/http://pages.eiu.com/rs/753-RIQ-438/images/Democracy_Index_2017.pdf |archive-date=21 December 2020 |access-date=17 February 2018 |website=EIU.com}}</ref>
+----
+{{col-begin}}
+{{col-break}}
+
+'''Full Democracies'''
+{{legend|#006837|9–10}}
+{{legend|#1a9850|8–9}}
+{{col-break}}
+
+'''Flawed Democracies'''
+{{legend|#66bd63|7–8}}
+{{legend|#a6d96a|6–7}}
+{{col-break}}
+
+'''Hybrid Regimes'''
+{{legend|#fee08b|5–6}}
+{{legend|#fdae61|4–5}}
+{{col-break}}
+
+'''Authoritarian Regimes'''
+{{legend|#f46d43|3–4}}
+{{legend|#d73027|2–3}}
+{{legend|#a50026|0–2}}
+{{col-end}}]]
+[[File:Blank Map World Secondary Political Divisions.svg|thumb|left|upright=2.75|World first-and-second degree administrative levels]]
+
+[[File:Map of unitary and federal states.svg|left|upright=2.75|thumb|A world map distinguishing countries of the world as federations (<span style="color:#00e000">'''green'''</span>) from [[unitary state]]s (<span style="color: #0000b0">'''blue'''</span>)
+----
+{{legend|#0000b0|[[Unitary state]]s}}
+{{legend|#00e000|[[Federations]]}}]]
+{{Clear}}
+
+== Public administration ==
+{{main|Public administration}}
+[[File:People at Tax Office 1945 (8335C; JOKAHBL3C F10-1).tif|thumb|300px|Tax office in [[Finland]], 1945]]	
+[[File:Primeiro Ofício de Registro Civil de Santo André.jpg|thumb|300px|1st [[vital records|Vital Records]] Office of [[Santo André, São Paulo]], [[Brazil]], 2019]]
+[[Governmental property]], [[state-owned enterprise]]s, [[public services]], [[civil servants]] and employees of the government together compose the [[public sector]] of the economy. In modern [[Developed country|developed countries]], public services (or services of general interest) often include:<ref>{{Cite web|date=2012-07-09|title=Services of general interest|url=https://www.eesc.europa.eu/en/policies/policy-areas/services-general-interest|access-date=2020-06-16|website=European Economic and Social Committee|language=en}}</ref>
+
+{{div col|colwidth=30em}}
+* [[Court|Courts]]
+* [[Education]]
+* [[Electricity]]
+* [[Emergency service|Emergency services]]
+* [[Environmental protection]]
+* [[Health care]]
+* [[Mail]]
+* [[Military]]
+*[[Policing]]
+* [[Building|Public buildings]]
+* [[Public broadcasting]]
+* [[Public library|Public libraries]]
+* [[Urban park|Public parks]]
+* [[Public utility|Public utilities]]
+* [[Public transport|Public transportation]]
+* [[Social services]]
+* [[State school]]
+* [[Telecommunications]]
+* [[Transportation infrastructure]]
+* [[Urban planning]]
+* [[Waste management]]
+* [[Water supply network]]
+{{div col end}}
+In [[developing country|developing countries]], public services tend to be much less well developed.{{cn|date=July 2025}} For example, water services might only be available to the [[wealth]]y [[middle class]]. For political reasons, the service is often [[Subsidy|subsidized]], which reduces the finance potentially available for expansion to poorer communities.{{citation needed|date=July 2017}} The United Nations [[Sustainable Development Goal 5]] is a global initiative that aims to influence the provision of public services and infrastructure to marginalized demographics.<ref>{{Cite web|title=Sustainable Development Goal 5: Gender equality|url=https://www.unwomen.org/en/news/in-focus/women-and-the-sdgs/sdg-5-gender-equality|access-date=2020-09-23|website=UN Women|language=en|archive-date=26 November 2020|archive-url=https://web.archive.org/web/20201126102330/https://www.unwomen.org/en/news/in-focus/women-and-the-sdgs/sdg-5-gender-equality|url-status=dead}}</ref>
+
+The mid-twentieth century saw the rise of German [[Sociology|sociologist]] [[Max Weber]]'s theory of [[bureaucracy]], bringing about a substantive interest in the theoretical aspects of public administration.
+
+==Public policy==
+{{main|Public policy}}
+Public policy can be considered the sum of a government's direct and indirect activities.<ref>{{cite book |last1=Peters |first1=B. Guy |title=American Public Policy: Promise and Performance |date=2018 |publisher=CQ Press |isbn=978-1-5063-9957-7 |url=https://books.google.com/books?id=pBxcDwAAQBAJ&pg=PT15 |language=en |access-date=22 October 2022 |archive-date=27 January 2023 |archive-url=https://web.archive.org/web/20230127124342/https://books.google.com/books?id=pBxcDwAAQBAJ&pg=PT15 |url-status=live }}</ref> It includes various aspects of life such as education, health care, employment, finance, economics, transportation, and all over elements of society.<ref>Hoffman-Miller, Patricia. "Public Policy". ''Salem Press Encyclopedia'', 2022.</ref> Public policy making can be characterized as a dynamic, complex, and interactive system through which public problems are identified and resolved through the creation of new policy or reform of existing policy.<ref name="Analysing Public Policy">{{cite book|last=John|first=Peter|title=Analysing Public Policy|year=1998|publisher=Continuum}}</ref>
+
+==See also==
+{{Portal|Politics}}
+{{columnslist|colwidth=20em|
+* [[List of forms of government]]
+* [[Cabinet crisis]]
+* [[Central government]]
+* [[Civics]]
+* [[Comparative government]]
+* [[Constitutional economics]]
+* [[Deep state]]
+* [[Digital democracy]]
+* [[E-Government]]
+* [[Political history of the world|History of politics]]
+* [[Legal rights]]
+* [[List of countries by system of government]]
+* [[List of European Union member states by political system]]
+* [[Local government]]
+* [[Ministry (collective executive)|Ministry]]
+* [[Political economy]]
+* [[Political history]]
+* [[Prime ministerial government]]
+* [[State (polity)]]
+* [[Voting system]]
+* [[World government]]
+}}
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+===Bibliography===
+{{Refbegin|colwidth=30em|indent=yes}}
+* {{Cite journal |last=Brill |first=Sara |date=2016 |title=Political Pathology in Plato's Republic |url=https://www.degruyter.com/document/doi/10.1515/apeiron-2015-0003/html |journal=Apeiron |language=en |volume=49 |issue=2 |pages=127–161 |doi=10.1515/apeiron-2015-0003 |issn=2156-7093 |s2cid=148505083 |access-date=4 August 2022 |archive-date=27 October 2022 |archive-url=https://web.archive.org/web/20221027215252/https://www.degruyter.com/document/doi/10.1515/apeiron-2015-0003/html |url-status=live |url-access=subscription }}
+* {{Cite book |last=Brock |first=Roger |url=https://books.google.com/books?id=QCSGircE9WwC |title=Greek Political Imagery from Homer to Aristotle |date=2013 |publisher=Bloomsbury |isbn=978-1-4725-0218-6 |location=London |oclc=1040413173 |access-date=14 July 2022 |archive-date=9 November 2023 |archive-url=https://web.archive.org/web/20231109175722/https://books.google.com/books?id=QCSGircE9WwC |url-status=live }}
+* {{Cite book |last=Christian |first=David |url=https://archive.org/details/mapsoftimeintrod00chri |title=Maps of Time: an Introduction to Big History |date=2004 |publisher=University of California Press |isbn=978-0-520-24476-4 |location=Berkeley, CA |oclc=966003275 |url-access=registration }}
+* {{Cite news |last=Duxbury |first=Charlie |date=29 November 2021 |title=Magdalena Andersson named Swedish prime minister (again) |work=Politico |url=https://www.politico.eu/article/magdalena-andersson-sweden-prime-minister-again-resignation |url-status=live |access-date=2022-07-14 |archive-url=https://web.archive.org/web/20220415130747/https://www.politico.eu/article/magdalena-andersson-sweden-prime-minister-again-resignation/ |archive-date=15 April 2022 }}
+* {{Cite book |last=Frederickson |first=Kari |title=The Dixiecrat Revolt and the End of the Solid South, 1932–1968 |date=2000 |publisher=University of North Carolina Press |isbn=978-0-8078-4910-1 |location=Chapel Hill |oclc=475254808}}
+* {{Cite book |last=Freeland |first=Chrystia |title=Plutocrats: the Rise of the New Global Super-Rich and the Fall of Everyone Else |title-link=Plutocrats (book) |date=2012 |publisher=Allen Lane |isbn=978-1-84614-252-9 |location=London |oclc=795857028 |author-link=Chrystia Freeland}}
+* {{Cite book |last1=Gallagher |first1=Michael |title=Representative Government in Western Europe |last2=Laver |first2=M. |last3=Mair |first3=P. |date=2006 |publisher=McGraw-Hill |isbn=978-0070366848 |edition=4th |location=New York |oclc=906939909}}
+* {{Cite book |last=Haider-Markel |first=Donald P. |title=The Oxford Handbook of State and Local Government |date=2014 |publisher=Oxford University Press |isbn=978-0-19-957967-9 |location=Oxford, UK |oclc=904484428}}
+* {{Cite news |last=Kettle |first=Martin |date=17 April 2015 |title=Coalition and minority governments are not so unusual in UK elections; The first-past-the-post system has led to fewer one-party majority governments in Britain than might be expected -- only half of all those in the 20th century |work=Guardian |url=https://link.gale.com/apps/doc/A410102999/ITOF?u=wikipedia&sid=bookmark-ITOF&xid=fe0349d5 |url-status=live |access-date=2022-07-14 |archive-url=https://web.archive.org/web/20220730081416/https://go.gale.com/ps/i.do?p=ITOF&u=wikipedia&id=GALE%7CA410102999&v=2.1&it=r&sid=bookmark-ITOF&asid=fe0349d5 |archive-date=30 July 2022 |via=Gale General OneFile }}
+* {{Cite book |title=Comparative politics: interests, identities, and institutions in a changing global order |date=2005 |publisher=Cambridge University Press |isbn=0521708400 |editor-last=Kopstein |editor-first=Jeffrey |edition=2nd |location=Cambridge, UK |oclc=1293165230 |editor-last2=Lichbach |editor-first2=Mark}}
+* {{Cite book |title=The Social Science Encyclopedia |date=2008 |publisher=Routledge |isbn=978-0-415-47635-5 |editor-last=Kuper |editor-first=Adam |location=London |oclc=789658928 |editor-last2=Kuper |editor-first2=Jessica}}
+* {{Cite book |last=Lewellen |first=Ted C. |url=https://books.google.com/books?id=gwJBNWbrXeIC |title=Political Anthropology: An Introduction |date=2003 |publisher=Praeger |isbn=978-0-89789-891-1 |edition=3rd |location=Westport, CT |oclc=936497371 |access-date=20 May 2020 |archive-date=9 November 2023 |archive-url=https://web.archive.org/web/20231109175725/https://books.google.com/books?id=gwJBNWbrXeIC |url-status=live }}
+* {{Cite book |last=Montesquieu |title=The Spirit of the Laws |title-link=The Spirit of Law |date=1748 |author-link=Montesquieu}}
+* {{Cite book |last=Needler |first=Martin C. |title=The Concepts of Comparative Politics |date=1991 |publisher=Praeger |isbn=978-0-275-93653-2 |location=New York |oclc=925042067}}
+* {{Cite journal |last=Renna |first=Thomas |date=September 2015 |title=The Holy Roman Empire was neither holy, nor Roman, nor an empire |journal=Michigan Academician |volume=42 |issue=1 |pages=60–75 |doi=10.7245/0026-2005-42.1.60}}
+* {{Cite journal |last=Ribuffo |first=Leo P. |date=2011 |title=20 Suggestions for Studying the Right now that Studying the Right is Trendy |journal=Historically Speaking |volume=12 |issue=1 |pages=2–6 |doi=10.1353/hsp.2011.0013 |s2cid=144367661}}
+* {{Cite book |last1=Smelser |first1=Neil J. |title=International Encyclopedia of the Social & Behavioral Sciences |last2=Baltes |first2=Paul B. |date=2001 |publisher=Elsevier Science |isbn=978-0-08-043076-8 |location=New York |oclc=43548228}}
+{{Refend}}
+
+== Further reading ==
+* {{Cite book |last1=de Mesquita |first1=Bruce Bueno |title=The Dictator's Handbook: Why Bad Behavior Is Almost Always Good Politics |last2=Smith |first2=Alastair |date=2012 |publisher=[[PublicAffairs]] |isbn=978-1610390446 |location=New York |oclc=1026803822 |author-link=Bruce Bueno de Mesquita}}
+* {{Cite book |last1=de Mesquita |first1=Bruce Bueno |title=The Logic of Political Survival |title-link=The Logic of Political Survival |last2=Smith |first2=Alastair |last3=Siverson |first3=Randolph M. |last4=Morrow |first4=James D. |date=2003 |publisher=[[MIT Press]] |isbn=978-0262025461 |location=Cambridge, Massachusetts |oclc=475265120 |author-link=Bruce Bueno de Mesquita |author-link4=James D. Morrow}}
+* {{Cite book |last=Dobson |first=William J. |title=The Dictator's Learning Curve: Inside the Global Battle for Democracy |date=2013 |publisher=Anchor |isbn=978-0307477552 |location=New York |oclc=849820048 |author-link=William J. Dobson}}
+* {{Cite book |last1=Friedrich |first1=Carl J. |url=https://archive.org/details/totalitariandict0000frie |title=Totalitarian Dictatorship and Autocracy |last2=Brzezinski |first2=Zbigniew K. |date=1966 |publisher=Frederick A. Praeger |isbn=978-0674895652 |edition=2nd |location=New York |oclc=826626632 |author-link2=Zbigniew Brzezinski |orig-date=1965 |url-access=registration}}
+* {{Cite book |last=Krader |first=Lawrence |url=https://books.google.com/books?id=rIyZAAAAIAAJ |title=Formation of the State |date=1968 |publisher=Prentice-Hall |isbn=0133294900 |series=Foundations of Modern Anthropology |location=Englewood Cliffs, New Jersey |oclc=266086412}}
+
+{{Navboxes
+|title=Related Navboxes
+| titlestyle = background: lightblue
+|list=
+{{Government}}
+{{Autonomous types of first-tier administration}}
+{{World government}}
+{{Political culture}}
+{{Political ideologies}}
+{{Political philosophy}}
+{{Political spectrum}}
+}}
+{{Subject bar |auto=yes |book=Government |commons=yes |wikt=yes |wikt-search=government |n=yes |q=yes |s=yes |s-search=Portal:Government |b=yes |b-search=Subject:Government |v=yes |d=yes |d-search=Q7188}}
+{{Authority control}}
+
+{{DEFAULTSORT:Government, Forms of}}
+[[Category:Government| ]]
+[[Category:Political terminology]]
+[[Category:Main topic articles]]

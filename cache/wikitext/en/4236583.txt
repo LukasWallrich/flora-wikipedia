@@ -1,0 +1,699 @@
+{{Short description|Type of perceptual task requiring attention}}
+{{about|vision in biology|computer-based information retrieval|visual search engine|and|content-based image retrieval}}
+'''Visual search''' is a type of [[perception|perceptual]] task requiring [[attention]] that typically involves an active scan of the visual environment for a particular object or feature (the target) among other objects or features (the distractors).<ref>{{cite journal | doi=10.1016/0010-0285(80)90005-5 | pmid=7351125 | volume=12 | issue=1 | title=A feature-integration theory of attention | date=January 1980 | journal=Cogn Psychol | pages=97–136 | last1 = Treisman | first1 = AM |author-link=Anne Treisman| last2 = Gelade | first2 = G| s2cid=353246 }}</ref> Visual search can take place with or without eye movements. The ability to consciously locate an object or target amongst a complex array of stimuli has been extensively studied over the past 40 years. Practical examples of using visual search can be seen in everyday life, such as when one is picking out a product on a supermarket shelf, when animals are searching for food among piles of leaves, when trying to find a friend in a large crowd of people, or simply when playing visual search games such as ''[[Where's Wally?]]''
+
+Much previous literature on visual search used reaction time in order to measure the time it takes to detect the target amongst its distractors. An example of this could be a green square (the target) amongst a set of red circles (the distractors). However, reaction time measurements do not always distinguish between the role of attention and other factors: a long reaction time might be the result of difficulty directing attention to the target, or slowed decision-making processes or slowed motor responses after attention is already directed to the target and the target has already been detected. Many visual search paradigms have therefore used eye movement as a means to measure the degree of attention given to stimuli.<ref>
+{{Cite journal
+| volume = 98
+| issue =3
+| pages = 507–522
+| last = Shelga
+| first = B. M. |author2=Riggio, L. |author3=Rizzolatti, G.
+| title = Orienting of attention and eye movements
+| journal = Experimental Brain Research
+| year = 1994
+| doi=10.1007/bf00233988| pmid =8056071
+| s2cid =2280537
+}}
+</ref><ref>
+{{Cite journal
+| volume = 57
+| issue = 6
+| pages = 787–795
+| last = Hoffman
+| first = J. E.
+| author2=B. Subramaniam
+| title = The role of visual attention in saccadic eye movements
+| journal = Perception and Psychophysics
+| year = 1995
+| doi=10.3758/bf03206794
+| pmid=7651803| doi-access = free
+}}
+</ref>
+However, eyes can move independently of attention, and therefore eye movement measures do not completely capture the role of attention.<ref>{{cite journal |last1=Klein |first1=R|last2=Farrell |first2=M |title=Search performance without eye movements |journal=Percept Psychophys |date=1989 |volume=46 |issue=5 |pages=476–82|doi=10.3758/BF03210863|pmid=2813033|doi-access=free }}</ref><ref>{{cite journal |last1=Murthy |first1=A |last2=Thompson |first2=KG |last3=Schall |first3=JD |title=Dynamic dissociation of visual selection from saccade programming in frontal eye field |journal=J Neurophysiol |date=2001 |volume=86 |issue=5 |pages=2634–7|doi=10.1152/jn.2001.86.5.2634 |pmid=11698551 |s2cid=653798 }}</ref>
+
+==Search types==
+=== Feature search ===
+[[file:VisualSearchFeatureSingleton.png|thumb|right|250px|feature based search task]]
+Feature search (also known as "disjunctive" or "efficient" search)<ref name="Treisman2">{{Cite journal|last=Treisman|first=A. M.|author-link=Anne Treisman|year=1980|title=A feature-integration theory of attention|journal=Cognitive Psychology|volume=12|issue=1|pages=97–136|doi=10.1016/0010-0285(80)90005-5|pmid=7351125|author2=Gelade, G|s2cid=353246}}</ref> is a visual search process that focuses on identifying a previously requested target amongst distractors that differ from the target by a unique visual feature such as color, shape, orientation, or size.<ref name=":03">{{cite journal|last2=Carrasco|first2=M|date=December 1999|title=The temporal dynamics of visual search: evidence for parallel processing in feature and conjunction searches|journal=Journal of Experimental Psychology: Human Perception and Performance|volume=25|issue=6|pages=1517–39|pmid=10641310|last1=McElree|first1=B|doi=10.1037/0096-1523.25.6.1517|pmc=3313830}}</ref> An example of a feature search task is asking a participant to identify a white square (target) surrounded by black squares (distractors).<ref name="Treisman2" /> In this type of visual search, the distractors are characterized by the same visual features.<ref name=":03" /> The efficiency of feature search in regards to [[reaction time]] (RT) and accuracy depends on the "pop out" effect,<ref name=":3">{{Cite book|title=Cognition|last1=Radvansky|first1=Gabriel A.|last2=Ashcraft|first2=Mark H.|publisher=Pearson Education, Inc.|year=2016|edition=6|via=online}}</ref> [[bottom-up processing]],<ref name=":3" /> and [[Parallel processing (psychology)|parallel processing.]]<ref name=":03" /> However, the efficiency of feature search is unaffected by the number of distractors present.<ref name=":03" />
+
+The "pop out" effect is an element of feature search that characterizes the target's ability to stand out from surrounding distractors due to its unique feature.<ref name=":3" /> Bottom-up processing, which is the processing of information that depends on input from the environment,<ref name=":3" /> explains how one utilizes feature detectors to process characteristics of the stimuli and differentiate a target from its distractors.<ref name=":03" /> This draw of visual attention towards the target due to bottom-up processes is known as "saliency."<ref name=":12">{{cite journal|last2=Frith|first2=U|date=August 2011|title=A clash of bottom-up and top-down processes in visual search: the reversed letter effect revisited|journal=Journal of Experimental Psychology: Human Perception and Performance|volume=37|issue=4|pages=997–1006|pmid=21574744|last1=Zhaoping|first1=L|doi=10.1037/a0023099|s2cid=12986008}}</ref> Lastly, [[Parallel processing (psychology)|parallel processing]] is the mechanism that then allows one's feature detectors to work simultaneously in identifying the target.<ref name=":03" />
+
+=== Conjunction search ===
+[[File:Conjunctive based search task.png|thumb|Conjunctive based search task.]]
+
+Conjunction search (also known as inefficient or serial search)<ref name="Treisman2" /> is a visual search process that focuses on identifying a previously requested target surrounded by distractors possessing no distinct features from the target itself.<ref name="Eye Movements">{{cite journal|last2=Reingold|first2=EM|last3=Pomplun|first3=M|date=June 2003|title=Guidance of eye movements during conjunctive visual search: the distractor-ratio effect.|journal=Canadian Journal of Experimental Psychology|volume=57|issue=2|pages=76–96|pmid=12822838|last1=Shen|first1=J|doi=10.1037/h0087415|citeseerx=10.1.1.59.251}}</ref> An example of a conjunction search task is having a person identify a green X (target) amongst distractors composed of purple Xs (same shape) and green Os (same color).<ref name="Eye Movements" /> Unlike feature search, conjunction search involves distractors (or groups of distractors) that may differ from each other but exhibit at least one common feature with the target.<ref name="Eye Movements" /> The efficiency of conjunction search in regards to [[reaction time]] (RT) and accuracy is dependent on the distractor-ratio<ref name="Eye Movements" /> and the number of distractors present.<ref name=":03" /> As the distractors represent the differing individual features of the target more equally amongst themselves (distractor-ratio effect), [[reaction time]](RT) increases and accuracy decreases.<ref name="Eye Movements" /> As the number of distractors present increases, the [[reaction time]] (RT) increases and the accuracy decreases.<ref name="Treisman2" /> However, with practice the original [[reaction time]] (RT) restraints of conjunction search tend to show improvement.<ref name=":4">{{cite journal|last2=Frank|first2=SM|last3=Greenlee|first3=MW|last4=Tse|first4=PU|date=June 2016|title=Neural correlates of context-dependent feature conjunction learning in visual search tasks.|journal=Human Brain Mapping|volume=37|issue=6|pages=2319–30|pmid=26970441|last1=Reavis|first1=EA|doi=10.1002/hbm.23176|pmc=6867346|s2cid=205849752|doi-access=free}}</ref> In the early stages of processing, conjunction search utilizes bottom-up processes to identify pre-specified features amongst the stimuli.<ref name=":03" /> These processes are then overtaken by a more serial process of consciously evaluating the indicated features of the stimuli<ref name=":03" /> in order to properly allocate one's focal spatial attention towards the stimulus that most accurately represents the target.<ref name=":2">{{cite journal|last2=Grubert|first2=A|date=October 2014|title=The gradual emergence of spatially selective target processing in visual search: From feature-specific to object-based attentional control.|journal=Journal of Experimental Psychology: Human Perception and Performance|volume=40|issue=5|pages=1819–31|pmid=24999612|last1=Eimer|first1=M|doi=10.1037/a0037387|url=http://dro.dur.ac.uk/20698/2/20698.pdf}}</ref>
+
+In many cases, [[top-down processing]] affects conjunction search by eliminating stimuli that are incongruent with one's previous knowledge of the target-description, which in the end allows for more efficient identification of the target.<ref name=":3" /><ref name=":12" /> An example of the effect of top-down processes on a conjunction search task is when searching for a red 'K' among red 'Cs' and black 'Ks', individuals ignore the black letters and focus on the remaining red letters in order to decrease the set size of possible targets and, therefore, more efficiently identify their target.<ref name="Wolfe (2014)">{{cite book|title=Approaches to visual search: feature integration theory and guided search. The Oxford handbook of attention|date=2014|publisher=Oxford University Press|isbn=978-0-19-967511-1|location=Oxford|pages=11–50|last1=Wolfe|first1=J.M.}}</ref>
+
+=== Real world visual search ===
+In everyday situations, people are most commonly searching their visual fields for targets that are familiar to them. When it comes to searching for familiar stimuli, top-down processing allows one to more efficiently identify targets with greater complexity than can be represented in a feature or conjunction search task.<ref name=":3" /> In a study done to analyze the reverse-letter effect, which is the idea that identifying the asymmetric letter among symmetric letters is more efficient than its reciprocal, researchers concluded that individuals more efficiently recognize an asymmetric letter among symmetric letters due to top-down processes.<ref name=":12" /> Top-down processes allowed study participants to access prior knowledge regarding shape recognition of the letter N and quickly eliminate the stimuli that matched their knowledge.<ref name=":12" /> In the real world, one must use prior knowledge everyday in order to accurately and efficiently locate objects such as phones, keys, etc. among a much more complex array of distractors.<ref name=":3" /> Despite this complexity, visual search with complex objects (and search for categories of objects, such as "phone", based on prior knowledge) appears to rely on the same active scanning processes as conjunction search with less complex, contrived laboratory stimuli,<ref>{{cite journal |last1=Alexander |first1=Robert G. |last2=Zelinsky |first2=Gregory J. |title=Effects of part-based similarity on visual search: The Frankenbear experiment |journal=Vision Research |volume=54 |pages=20–30 |doi=10.1016/j.visres.2011.12.004|pmid=22227607 |pmc=3345177 |year=2012 }}</ref><ref>{{cite journal |last1=Alexander |first1=Robert G. |last2=Zelinsky |first2=Gregory J. |title=Visual Similarity Effects in Categorical Search |journal=Journal of Vision |volume=11 |issue=8 |page=9 |doi=10.1167/11.8.9|pmid=21757505 |year=2011 |pmc=8409006 |doi-access=free }}</ref> although global statistical information available in real-world scenes can also help people locate target objects.<ref>{{cite journal |doi=10.1167/12.4.14|pmid=22523401|pmc=4032502|title=A summary statistic representation in peripheral vision explains visual search|journal=Journal of Vision|volume=12|issue=4|page=14|year=2012|last1=Rosenholtz|first1=Ruth|last2=Huang|first2=Jie|last3=Raj|first3=A.|last4=Balas|first4=Benjamin J.|last5=Ilie|first5=Livia}}</ref><ref>{{cite journal |doi=10.1080/13506285.2014.890989|pmid=26180505|pmc=4500174|title=Are summary statistics enough? Evidence for the importance of shape in guiding visual search|journal=Visual Cognition|volume=22|issue=3–4|pages=595–609|year=2014|last1=Alexander|first1=Robert G.|last2=Schmidt|first2=Joseph|last3=Zelinsky|first3=Gregory J.}}</ref><ref>{{cite journal |doi=10.1016/j.tics.2010.12.001|pmid=21227734|pmc=3035167|title=Visual search in scenes involves selective and nonselective pathways|journal=Trends in Cognitive Sciences|volume=15|issue=2|pages=77–84|year=2011|last1=Wolfe|first1=Jeremy M.|last2=Võ|first2=Melissa L.-H.|last3=Evans|first3=Karla K.|last4=Greene|first4=Michelle R.}}</ref> While bottom-up processes may come into play when identifying objects that are not as familiar to a person, overall top-down processing highly influences visual searches that occur in everyday life.<ref name=":3" /><ref>{{cite journal |doi=10.1371/journal.pone.0023552 |pmid=21931603 |pmc=3169564 |last1=Siebold |first1=Alisha |last2=Van Zoest |first2=Wieske |last3=Donk |first3=Mieke |title=Oculomotor evidence for top-down control following the initial saccade. |journal=PLOS ONE |date=2011 |volume=6 |issue=9|article-number=e23552 |bibcode=2011PLoSO...623552S |doi-access=free }}</ref><ref>{{cite journal |last1=Malcolm |first1=G. L. |last2=Henderson |first2=J. M. |title=Combining top-down processes to guide eye movements during real-world scene search |journal=Journal of Vision |date=2010 |volume=10 |issue=2 |pages=4.1–11 |doi=10.1167/10.2.4|pmid=20462305 |doi-access=free }}</ref> Familiarity can play especially critical roles when parts of objects are not visible (as when objects are partly hidden from view because they are behind other objects). Visual information from hidden parts can be recalled from long-term memory and used to facilitate search for familiar objects.<ref>{{cite journal |last1=Alexander |first1=Robert G. |last2=Zelinsky |first2=Gregory J. |title=Occluded information is restored at preview but not during visual search |journal=J Vis |date=2018 |volume=18 |issue=11 |page=4 |doi=10.1167/18.11.4 |pmid=30347091 |pmc=6181188 }}</ref><ref>{{cite journal |last1=Plomp |first1=G |last2=Nakatani |first2=C |last3=Bonnardel |first3=V |last4=Leeuwen |first4=C. v. |title=Amodal completion as reflected by gaze durations. |journal=Perception |date=2004 |volume=33 |issue=10 |pages=1185–1200 |doi=10.1068/p5342x |pmid=15693664 |s2cid=35581448 }}</ref>
+
+==Reaction time slope==
+It is also possible to measure the role of attention within visual search experiments by calculating the slope of reaction time over the number of distractors present.<ref>{{Cite journal|last1=Trick|first1=Lana M.|last2=Enns|first2=James T.|date=1998-07-01|title=Lifespan changes in attention: The visual search task|journal=Cognitive Development|volume=13|issue=3|pages=369–386|doi=10.1016/S0885-2014(98)90016-8|citeseerx=10.1.1.522.1907}}</ref> Generally, when high levels of attention are required when looking at a complex array of stimuli ([[Visual search#Conjunction search|conjunction search]]), the slope increases as reaction times increase. For simple visual search tasks ([[Visual search#Feature search|feature search]]), the slope decreases due to reaction times being fast and requiring less attention.<ref>{{Cite journal|last1=Alvarez|first1=G. A.|last2=Cavanagh|first2=P.|date=2004-02-01|title=The capacity of visual short-term memory is set both by visual information load and by number of objects|journal=Psychological Science|volume=15|issue=2|pages=106–111|issn=0956-7976|pmid=14738517|doi=10.1111/j.0963-7214.2004.01502006.x|s2cid=2286443|url=http://nrs.harvard.edu/urn-3:HUL.InstRepos:41302706|url-access=subscription}}</ref> However, the use of a reaction time slope to measure attention is controversial because non-attentional factors can also affect reaction time slope.<ref>{{cite journal |last1=Palmer |first1=J. |title=Attention in visual search: Distinguishing four causes of a set-size effect. |journal=Current Directions in Psychological Science |date=1995 |volume=4 |issue=4 |pages=118–123|doi=10.1111/1467-8721.ep10772534 |s2cid=145161732 }}</ref><ref>{{cite journal |doi=10.1167/11.5.14|pmid=22209816|title=Visual search: A retrospective|journal=Journal of Vision|volume=11|issue=5|page=14|year=2011|last1=Eckstein|first1=M. P.|doi-access=free}}</ref><ref>{{cite book |last1=Algom |first1=D |last2=Eidels |first2=A |last3=Hawkins |first3=R.X.D |last4=Jefferson |first4=B |last5=Townsend |first5=J. T. |editor1-last=Busemeyer |editor1-first=J |editor2-last=Wang |editor2-first=Z |editor3-last=Townsend |editor3-first=J. T. |editor4-last=Eidels |editor4-first=A |title=The Oxford handbook of computational and mathematical psychology |date=2015 |publisher=Oxford University Press. |chapter=Features of response times: Identification of cognitive mechanisms through mathematical modeling.}}</ref>
+
+==Visual orienting and attention==
+[[File:Foveated tombstones.png|thumb|right | A photograph that simulates foveation]]
+
+One obvious way to select visual information is to turn towards it, also known as visual orienting. This may be a movement of the head and/or eyes towards the visual stimulus, called a [[saccade]]. Through a process called foveation, the eyes [[fixation (visual)|fixate]] on the object of interest, making the image of the visual stimulus fall on the [[Fovea centralis|fovea]] of the eye, the central part of the retina with the sharpest visual acuity.
+
+There are two types of orienting:
+*Exogenous orienting is the involuntary and automatic movement that occurs to direct one's visual attention toward a sudden disruption in his peripheral vision field.<ref name="ReferenceA">{{cite journal|last1=Berger|first1=A|last2=Henik|first2=A|last3=Rafal|first3=R|title=Competition between endogenous and exogenous orienting of visual attention.|journal=Journal of Experimental Psychology: General|date=May 2005|volume=134|issue=2|pages=207–21|pmid=15869346|doi=10.1037/0096-3445.134.2.207|s2cid=19087912}}</ref> Attention is therefore externally guided by a stimulus, resulting in a reflexive saccade.
+*Endogenous orienting is the voluntary movement that occurs in order for one to focus visual attention on a goal-driven stimulus.<ref name="ReferenceA"/> Thus, the focus of attention of the perceiver can be manipulated by the demands of a task. A scanning saccade is triggered endogenously for the purpose of exploring the visual environment.
+[[File:Reading Fixations Saccades.jpg|thumb|left|A plot of the saccades made while reading text. The plot shows the path of eye movements and the size of the circles represents the time spent at any one location.]]
+Visual search relies primarily on endogenous orienting because participants have the goal to detect the presence or absence of a specific target object in an array of other distracting objects.
+
+Early research suggested that attention could be covertly (without eye movement) shifted to peripheral stimuli,<ref name=Wurtz>{{Cite journal
+| doi = 10.1038/scientificamerican0682-124
+| pmid = 7100892
+| issn = 0036-8733
+| volume = 246
+| issue = 6
+| pages = 124–135
+| last = Wurtz
+| first = Robert H.
+| author2=Michael E. Goldberg |author3=David Lee Robinson
+| title = Brain Mechanisms of Visual Attention
+| journal = Scientific American
+| date = June 1982
+| bibcode = 1982SciAm.246f.124W
+}}</ref> but later studies found that small saccades ([[microsaccade]]s) occur during these tasks, and that these eye movements are frequently directed towards the attended locations (whether or not there are visible stimuli).<ref>{{cite journal |last1=Laubrock |first1=J |last2=Kliegl |first2=R |last3=Rolfs |first3=M |last4=Engbert |first4=R |title=When do microsaccades follow spatial attention? |journal=Attention, Perception, & Psychophysics |date=2010 |volume=72 |issue=3 |pages=683–694|doi=10.3758/APP.72.3.683 |pmid=20348575 |doi-access=free }}</ref><ref>{{cite journal |last1=Martinez-Conde |first1=S |last2=Alexander |first2=R. G. |title=A gaze bias in the mind's eye. |journal=Nature Human Behaviour |date=2019 |volume=3 |issue=5 |pages=424–425 |doi=10.1038/s41562-019-0546-1|pmid=31089295 |s2cid=71148025 }}</ref><ref>{{cite journal |last1=Laubrock |last2=Engbert |last3=Kliegl |title=Microsaccade dynamics during covert attention |journal=Vision Research |volume=45 |issue=6 |pages=721–730 |doi=10.1016/j.visres.2004.09.029|pmid=15639499 |year=2005 |doi-access=free }}</ref> These findings indicate that [[attention]] plays a critical role in understanding visual search.
+
+Subsequently, competing theories of attention have come to dominate visual search discourse.<ref name=Muller>
+{{Cite journal
+| doi = 10.1080/13506280500527676
+| issn = 1350-6285
+| volume = 14
+| issue = 4–8
+| pages = 389–410
+| last1 = Müller
+| first1 = Hermann J.
+| last2 = Krummenacher
+| first2 = Joseph 
+| title = Visual search and selective attention
+| journal = Visual Cognition
+| year = 2006
+| s2cid = 671170
+}}
+</ref> The environment contains a vast amount of information. We are limited in the amount of information we are able to process at any one time, so it is therefore necessary that we have mechanisms by which extraneous stimuli can be filtered and only relevant information attended to. In the study of attention, psychologists distinguish between pre-attentive and attentional processes.<ref>
+{{Cite book
+| last = Neisser
+| first = Ulric
+| title = Cognitive Psychology
+| publisher = Meredith Publishing Company
+| year = 1967
+| isbn = 978-1-317-56618-2
+| url = https://books.google.com/books?id=oyGcBQAAQBAJ
+| id = [[PsycNET]] [https://psycnet.apa.org/record/1967-35031-000 1967-35031-000] 
+}}</ref> [[Pre-attentive processing|Pre-attentive processes]] are evenly distributed across all input signals, forming a kind of "low-level" attention. Attentional processes are more selective and can only be applied to specific preattentive input. A large part of the current debate in visual search theory centres on [[selective attention]] and what the [[visual system]] is capable of achieving without focal attention.<ref name=Muller />
+
+==Theory==
+===Feature integration theory (FIT)===
+{{main|Feature integration theory}}
+A popular explanation for the different reaction times of feature and conjunction searches is the feature integration theory (FIT), introduced by Treisman and Gelade in 1980. This theory proposes that certain visual features are registered early, automatically, and are coded rapidly in parallel across the visual field using pre-attentive processes.<ref>
+{{Cite journal
+| volume = 12
+| issue = 1
+| pages = 97–136
+| last = Treisman
+| first = A. M.
+| author2=G. Gelade
+| title = A feature-integration theory of attention
+| journal = Cognitive Psychology
+| year = 1980
+| doi=10.1016/0010-0285(80)90005-5
+| pmid=7351125
+| s2cid = 353246
+}}</ref>
+Experiments show that these features include luminance, colour, orientation, motion direction, and velocity, as well as some simple aspects of form.<ref>{{Cite journal
+| volume = 9
+| issue = 1
+| pages = 33–39
+| last = Wolfe
+| first = J. M.
+| title = What can 1 million trials tell us about visual search?
+| journal = Psychological Science
+| year = 1998
+| doi=10.1111/1467-9280.00006
+| citeseerx = 10.1.1.148.6975
+| s2cid = 11042813
+}}</ref> For example, a red X can be quickly found among any number of black Xs and Os because the red X has the discriminative feature of colour and will "pop out." In contrast, this theory also suggests that in order to integrate two or more visual features belonging to the same object, a later process involving integration of information from different brain areas is needed and is coded serially using focal attention. For example, when locating an orange square among blue squares and orange triangles, neither the colour feature "orange" nor the shape feature "square" is sufficient to locate the search target. Instead, one must integrate information of both colour and shape to locate the target.
+
+Evidence that attention and thus later visual processing is needed to integrate two or more features of the same object is shown by the occurrence of [[illusory conjunctions]], or when features do not combine correctly. For example, if a display of a green X and a red O are flashed on a screen so briefly that the later visual process of a serial search with focal attention cannot occur, the observer may report seeing a red X and a green O.
+
+The FIT is a dichotomy because of the distinction between its two stages: the preattentive and attentive stages.<ref name=":0">{{Cite journal|last1=Chan|first1=Louis K. H.|last2=Hayward|first2=William G.|title=Feature integration theory revisited: Dissociating feature detection and attentional guidance in visual search.|journal=Journal of Experimental Psychology: Human Perception and Performance|volume=35|issue=1|pages=119–132|doi=10.1037/0096-1523.35.1.119|pmid=19170475|year=2009|s2cid=22704624}}</ref> Preattentive processes are those performed in the first stage of the FIT model, in which the simplest features of the object are being analyzed, such as color, size, and arrangement. The second attentive stage of the model incorporates cross-dimensional processing,<ref name=":1">{{Cite journal|last=Quinlan|first=Philip T.|title=Visual feature integration theory: Past, present, and future.|journal=Psychological Bulletin|volume=129|issue=5|pages=643–673|doi=10.1037/0033-2909.129.5.643|pmid=12956538|date=September 2003|s2cid=25206656}}</ref> and the actual identification of an object is done and information about the target object is put together. This theory has not always been what it is today; there have been disagreements and problems with its proposals that have allowed the theory to be amended and altered over time, and this criticism and revision has allowed it to become more accurate in its description of visual search.<ref name=":1" /> There have been disagreements over whether or not there is a clear distinction between feature detection and other searches that use a master map accounting for multiple dimensions in order to search for an object. Some psychologists support the idea that feature integration is completely separate from this type of master map search, whereas many others have decided that feature integration incorporates this use of a master map in order to locate an object in multiple dimensions.<ref name=":0" />
+
+The FIT also explains that there is a distinction between the brain's processes that are being used in a parallel versus a focal attention task. Chan and Hayward<ref name=":0" /> have conducted multiple experiments supporting this idea by demonstrating the role of dimensions in visual search. While exploring whether or not focal attention can reduce the costs caused by dimension-switching in visual search, they explained that the results collected supported the mechanisms of the feature integration theory in comparison to other search-based approaches. They discovered that single dimensions allow for a much more efficient search regardless of the size of the area being searched, but once more dimensions are added it is much more difficult to efficiently search, and the bigger the area being searched the longer it takes for one to find the target.<ref name=":0" />
+
+===Guided search model===
+A second main function of preattentive processes is to direct focal attention to the most "promising" information in the visual field.<ref name=Muller /> There are two ways in which these processes can be used to direct attention: bottom-up activation (which is stimulus-driven) and top-down activation (which is user-driven). In the guided search model by Jeremy Wolfe,<ref name="Wolfe2"/> information from top-down and bottom-up processing of the stimulus is used to create a ranking of items in order of their attentional priority. In a visual search, attention will be directed to the item with the highest priority. If that item is rejected, then attention will move on to the next item and the next, and so forth. The guided search theory follows that of parallel search processing.
+
+An activation map is a representation of [[visual space]] in which the level of activation at a location reflects the likelihood that the location contains a target. This likelihood is based on preattentive, featural information of the perceiver. According to the guided search model, the initial processing of basic features produces an activation map, with every item in the visual display having its own level of activation. Attention is demanded based on peaks of activation in the activation map in a search for the target.<ref name=Wolfe2>{{Cite journal
+| volume = 1
+| issue = 2
+| pages = 202–238
+| last = Wolfe
+| first = J. M.
+| title = Guided search 2.0 A revised model of visual search
+| journal = Psychonomic Bulletin & Review
+| year = 1994
+| doi=10.3758/bf03200774
+| pmid = 24203471
+| doi-access = free
+}}</ref> Visual search can proceed efficiently or inefficiently. During efficient search, performance is unaffected by the number of distractor items. The reaction time functions are flat, and the search is assumed to be a parallel search. Thus, in the guided search model, a search is efficient if the target generates the highest, or one of the highest activation peaks. For example, suppose someone is searching for red, horizontal targets. Feature processing would activate all red objects and all horizontal objects. Attention is then directed to items depending on their level of activation, starting with those most activated. This explains why search times are longer when distractors share one or more features with the target stimuli. In contrast, during inefficient search, the reaction time to identify the target increases linearly with the number of distractor items present. According to the guided search model, this is because the peak generated by the target is not one of the highest.<ref name=Wolfe2 />
+
+==Biological basis==
+[[File:Functional magnetic resonance imaging.jpg|right|middle|thumb|A pseudo-color image showing activation of the primary visual cortex during a perceptual task using functional magnetic resonance imaging (fMRI)]]
+During visual search experiments the posterior [[parietal cortex]] has elicited much activation during [[functional magnetic resonance imaging]] (fMRI) and [[electroencephalography]] (EEG) experiments for inefficient conjunction search, which has also been confirmed through lesion studies. Patients with lesions to the [[posterior parietal cortex]] show low accuracy and very slow reaction times during a conjunction search task but have intact feature search remaining to the ipsilesional (the same side of the body as the lesion) side of space.<ref>
+{{Cite journal
+| volume = 34
+| issue =3
+| pages = 388–403
+| last = Aglioti
+| first = S.
+| author2=Smania, N. |author3=Barbieri, C. |author4=Corbetta, M. 
+| title = Influence of stimulus salience and attentional demands on visual search patterns in hemispatial neglect
+| journal = Brain and Cognition
+| year = 1997
+| doi=10.1006/brcg.1997.0915
+ | pmid=9292188| s2cid =13138212
+}}
+</ref><ref>
+{{Cite journal
+| volume = 1
+| issue =3
+| pages = 262–272
+| last = Eglin
+| first = M.
+| author2=Robertson, L. C. |author3=Knight, R. T. 
+| title = Cortical substrates supporting visual search in humans.
+| journal = Cerebral Cortex
+| year = 1991
+| doi=10.1093/cercor/1.3.262| pmid =1822736
+| s2cid =12364128
+}}
+</ref><ref>
+{{Cite journal
+| volume = 269
+| issue =5225
+| pages = 853–855
+| last = Friedman-Hill
+| first = S. R.
+| author2=Robertson, L. C. |author3=Treisman, A. 
+| title = Parietal contributions to visual feature binding: Evidence from a patient with bilateral lesions.
+| doi=10.1126/science.7638604
+| pmid =7638604
+| journal = Science
+| year = 1995| bibcode =1995Sci...269..853F
+| s2cid =42706447
+}}
+</ref><ref>
+{{Cite journal
+| volume =127
+| issue =10
+| pages =2307–2315
+| last = Ellison
+| first = A.
+| author2=Schindler, I. |author3=Pattison, L. L. |author4=Milner, A. D 
+| title = An exploration of the role of the superior temporal gyrus in visualsearch and spatial perception using TMS.v
+| journal = Brain
+| year = 2004
+ | doi=10.1093/brain/awh244| pmid =15292055
+| doi-access =free
+}}
+</ref>
+Ashbridge, Walsh, and Cowey in (1997)<ref>
+{{Cite journal
+| volume = 35
+| issue =8
+| pages = 1121–1131
+| last = Ashbridge
+| first = V.
+ |author2=Walsh, A. |author3=Cowey, D
+| title = Temporal aspects of visual search studied by transcranial magnetic stimulation
+| journal = Neuropsychologia
+| year = 1997
+| doi=10.1016/s0028-3932(97)00003-1| pmid =9256377
+| s2cid =7305220
+}}
+</ref>
+demonstrated that during the application of [[transcranial magnetic stimulation]] (TMS) to the right parietal cortex, conjunction search was impaired by 100 milliseconds after stimulus onset. This was not found during feature search. Nobre, Coull, Walsh and Frith (2003)<ref name=Nobre2003>
+{{Cite journal
+| volume = 18
+| issue = 1
+| pages = 91–103
+| last = Nobre
+| first = A. C.
+| author2=J. T. Coull |author3=V. Walsh |author4=C. D. Frith
+| title = Brain activations during visual search: contributions of search efficiency versus feature binding
+| journal = NeuroImage
+| year = 2003
+| doi=10.1006/nimg.2002.1329| pmid = 12507447
+| s2cid = 32757191
+}}
+</ref>
+identified using functional magnetic resonance imaging (fMRI) that the [[intraparietal sulcus]] located in the superior parietal cortex was activated specifically to feature search and the binding of individual perceptual features as opposed to conjunction search. Conversely, the authors further identify that for conjunction search, the superior parietal lobe and the right [[angular gyrus]] elicit bilaterally during fMRI experiments.
+[[File:ParietCapts lateral.png|right|thumb| Visual search primarily activates areas of the parietal lobe.]]
+
+In contrast, Leonards, Sunaert, Vam Hecke and Orban (2000)<ref>
+{{Cite journal
+| volume = 12
+| pages = 61–75
+| last = Leonards
+| first = U. |author2=Suneart, S. |author3=Van Hecke, P. |author4=Orban, G.
+| title = Attention mechanisms in visual search—An fMRI study
+| journal = Journal of Cognitive Neuroscience
+| year = 2000
+| doi=10.1162/089892900564073| pmid =11506648
+| s2cid = 35061939
+}}
+</ref> identified that significant activation is seen during fMRI experiments in the superior frontal sulcus primarily for conjunction search. This research hypothesises that activation in this region may in fact reflect [[working memory]] for holding and maintaining stimulus information in mind in order to identify the target. Furthermore, significant frontal activation including the ventrolateral prefrontal cortex bilaterally and the right [[dorsolateral prefrontal cortex]] were seen during [[positron emission tomography]] for attentional spatial representations during visual search.<ref>
+{{Cite journal
+| volume = 16
+| issue =4
+| pages = 968–976
+| last = Nobre
+| first = A.C.
+| author2=Sebestyen, G. N. |author3=Gitelman, D. R. |author4=Frith, C. D. |author5=Mesulam, M. M. 
+| title = Filtering of distractors during visual search studied by positron emission tomography
+| journal = NeuroImage
+| year = 2002
+| doi=10.1006/nimg.2002.1137| pmid =12202084
+| s2cid =1702722
+}}
+</ref>
+The same regions associated with spatial attention in the parietal cortex coincide with the regions associated with feature search. Furthermore, the [[frontal eye field]] (FEF) located bilaterally in the prefrontal cortex, plays a critical role in saccadic eye movements and the control of visual attention.<ref name="Schall">{{Cite journal
+| author = Schall JD.
+| year = 2004
+| title = On the role of frontal eye field in guiding attention and saccades
+| journal = [[Vision Research]]
+| volume = 44
+| pages = 1453–1467
+| doi = 10.1016/j.visres.2003.10.025
+| pmid = 15066404
+| issue = 12| doi-access = free
+}}</ref><ref>{{cite web
+ |url = http://www.neuroanatomy.wisc.edu/virtualbrain/BrainStem/13VNAN.html
+ |title = Medical Neurosciences
+ |archive-url = https://web.archive.org/web/20111109232230/http://www.neuroanatomy.wisc.edu/virtualbrain/BrainStem/13VNAN.html
+ |archive-date = 2011-11-09
+ }}</ref><ref>{{cite journal
+|vauthors=Mustari MJ, Ono S, Das VE | title=Signal processing and distribution in cortical-brainstem pathways for smooth pursuit eye movements
+| journal=Ann. N. Y. Acad. Sci.
+| volume=1164
+| issue=1
+| pages=147–54
+| date=May 2009
+| pmid=19645893
+| doi=10.1111/j.1749-6632.2009.03859.x
+| pmc=3057571| bibcode=2009NYASA1164..147M
+}}</ref>
+
+Moreover, research into monkeys and single cell recording found that the [[superior colliculus]] is involved in the selection of the target during visual search as well as the initiation of movements.<ref>
+{{Cite journal
+| volume = 18
+| issue =4
+| pages = 2019–2034
+| last = McPeek
+| first = R.M.
+| author2=Keller, E. L.
+| title =Saccade target selection in the superior colliculus during a visual search task.
+| journal = Journal of Neurophysiology
+| year = 2002| doi =10.1152/jn.2002.88.4.2019
+| pmid =12364525
+| s2cid =16885851
+| doi-access =free
+}}
+</ref> Conversely, it also suggested that activation in the superior colliculus results from disengaging attention, ensuring that the next stimulus can be internally represented. The ability to directly attend to a particular stimuli during visual search experiments has been linked to the pulvinar nucleus (located in the midbrain) while inhibiting attention to unattended stimuli.<ref name="Trick">{{Cite journal|last=Trick|first=L. M.|year=1998|title=Life-span changes in attention: The visual search task|journal=Cognitive Development|volume=13|issue=3|pages=369–386|doi=10.1016/s0885-2014(98)90016-8|author2=Enns, J. T.|citeseerx=10.1.1.522.1907}}
+</ref> Conversely, Bender and Butter (1987)<ref>
+{{Cite journal
+| volume = 69
+| issue =1
+| pages = 140–154
+| last = Bender
+| first = D.B.
+| author2=Butter, C. M.
+| title =Comparison of the effects of superior colliculus and pulvinar lesions on visual search and tachistoscopic pattern discrimination in monkeys
+| journal = Experimental Brain Research
+| year = 1987
+| doi=10.1007/bf00247037| pmid =3436384
+| hdl =2027.42/46559
+| s2cid =2333254
+| url = https://deepblue.lib.umich.edu/bitstream/2027.42/46559/1/221_2004_Article_BF00247037.pdf
+| hdl-access = free
+}}
+</ref> found that during testing on monkeys, no involvement of the pulvinar nucleus was identified during visual search tasks.
+
+There is evidence for the [[V1 Saliency Hypothesis]] that the primary visual cortex (V1) creates a bottom-up saliency map to guide attention exogenously,<ref>{{Cite journal|last=Li|first=Zhaoping|date=2002-01-01|title=A saliency map in primary visual cortex|url=http://www.sciencedirect.com/science/article/pii/S1364661300018179|journal=Trends in Cognitive Sciences|language=en|volume=6|issue=1|pages=9–16|doi=10.1016/S1364-6613(00)01817-9|pmid=11849610|s2cid=13411369|issn=1364-6613|url-access=subscription}}</ref><ref>{{Cite journal|last1=Yan|first1=Yin|last2=Zhaoping|first2=Li|last3=Li|first3=Wu|date=2018-10-09|title=Bottom-up saliency and top-down learning in the primary visual cortex of monkeys|journal=Proceedings of the National Academy of Sciences|language=en|volume=115|issue=41|pages=10499–10504|doi=10.1073/pnas.1803854115|issn=0027-8424|pmid=30254154|pmc=6187116|bibcode=2018PNAS..11510499Y |doi-access=free}}</ref> and this V1 saliency map is read out by the superior [[Superior colliculus|colliculus]] which receives monosynaptic inputs from V1.
+
+==Evolution==
+There is a variety of speculation about the origin and evolution of visual search in humans. It has been shown that during visual exploration of complex natural scenes, both humans and nonhuman primates make highly stereotyped eye movements.<ref>{{Cite journal
+| doi = 10.1016/S0896-6273(03)00764-5
+| pmid = 14687556
+| issn = 0896-6273
+| volume = 40
+| issue = 6
+| pages = 1241–1250
+| last = Mazer
+| first = James A
+| author2=Jack L Gallant
+| title = Goal-Related Activity in V4 during Free Viewing Visual Search: Evidence for a Ventral Stream Visual Salience Map
+| journal = Neuron
+| date = 2003-12-18
+| doi-access = free
+}}</ref> Furthermore, chimpanzees have demonstrated improved performance in visual searches for upright human or dog faces,<ref>{{Cite journal
+| doi = 10.1007/s10329-006-0011-4
+| pmid = 16969584
+| issn = 0032-8332
+| volume = 48
+| issue = 1
+| pages = 1–12
+| last = Tomonaga
+| first = Masaki
+| title = Visual search for orientation of faces by a chimpanzee (Pan troglodytes): face-specific upright superiority and the role of facial configural properties
+| journal = Primates
+| date = 2007-01-01
+| s2cid = 7313319
+}}</ref> suggesting that visual search (particularly where the target is a face) is not peculiar to humans and that it may be a primal trait. Research has suggested that effective visual search may have developed as a necessary skill for survival, where being adept at detecting threats and identifying food was essential.<ref>{{cite journal |last1=Öhman |first1=A |last2=Mineka |first2=S |title=Fears, phobias, and preparedness: Toward an evolved module of fear and fear learning. |journal=Psychological Review |date=2001 |volume=108 |issue=3 |pages=483–522|pmid=11488376 |doi=10.1037/0033-295X.108.3.483 |s2cid=7920871 }}</ref><ref>{{cite book |last1=Öhman |first1=A |editor1-last=Dalgleish |editor1-first=T. |editor2-last=Powers |editor2-first=M. J. |title=Handbook of cognition and emotion |date=1999 |publisher=Wiley. |location=Chichester, England |pages=321–352 |chapter=Distinguishing unconscious from conscious emotional processes: Methodological considerations and theoretical implications.}}</ref>
+[[File:Henri Rousseau - Jungle with Lion.jpg|thumb|right|Henri Rousseau, ''Jungle with Lion'']] The importance of evolutionarily relevant threat stimuli was demonstrated in a study by LoBue and DeLoache (2008) in which children (and adults) were able to detect snakes more rapidly than other targets amongst distractor stimuli.<ref>{{Cite journal
+| doi = 10.1111/j.1467-9280.2008.02081.x
+| issn = 0956-7976
+| volume = 19
+| issue = 3
+| pages = 284–289
+| last = LoBue
+| first = Vanessa
+| author2=Judy S. DeLoache
+| title = Detecting the Snake in the Grass Attention to Fear-Relevant Stimuli by Adults and Young Children
+| journal = Psychological Science
+| date = 2008-03-01
+| pmid=18315802| s2cid = 12776572
+}}</ref> However, some researchers question whether evolutionarily relevant threat stimuli are detected automatically.<ref>{{cite journal |doi=10.3758/s13423-013-0421-4|pmid=23504916|title=The visual detection of threat: A cautionary tale|journal=Psychonomic Bulletin & Review|volume=20|issue=6|pages=1080–1101|year=2013|last1=Quinlan|first1=Philip T.|doi-access=free}}</ref>
+
+==Face recognition==
+Over the past few decades there have been vast amounts of research into face recognition, specifying that faces endure specialized processing within a region called the [[fusiform face area]] (FFA) located in the mid fusiform gyrus in the temporal lobe.<ref>{{cite journal | last1 = Kanwisher | first1 = Nancy |author-link=Nancy Kanwisher | last2 = McDermott | first2 = Josh | last3 = Chun | first3 = Marvin M. | title = The fusiform face area: a module in human extrastriate cortex specialized for face perception | journal = The Journal of Neuroscience | volume = 17 | issue = 11| pages = 4302–4311 | doi = 10.1523/JNEUROSCI.17-11-04302.1997 | year = 1997 | pmid = 9151747 | pmc = 6573547 }}</ref> Debates are ongoing whether both faces and objects are detected and processed in different systems and whether both have category specific regions for recognition and identification.<ref>{{cite journal | last1 = Tarr | first1 = M. J. | last2 = Gauthier | first2 = I. | year = 2000 | title = FFA: a flexible fusiform area for subordinate-level visual processing automatized by expertise | doi = 10.1038/77666| journal = Nature Neuroscience | volume = 3 | issue = 8| pages = 764–770 | pmid=10903568| s2cid = 8355344 }}</ref><ref>{{cite journal | last1 = Grill-Spector | first1 = K. | last2 = Knouf | first2 = N. | last3 = Kanwisher | first3 = N. | year = 2004 | title = The fusiform face area subserves face perception, not generic within-category identification | journal = Nature Neuroscience | volume = 7 | issue = 5| pages = 555–562 | doi=10.1038/nn1224 | pmid=15077112| s2cid = 2204107 }}</ref> Much research to date focuses on the accuracy of the detection and the time taken to detect the face in a complex visual search array. When faces are displayed in isolation, upright faces are processed faster and more accurately than inverted faces,<ref>{{cite journal | last1 = Valentine | first1 = T | last2 = Bruce | first2 = V | year = 1986 | title = The effects of distinctiveness in recognizing and classifying faces |journal=Perception | volume = 15 | issue = 5| pages = 525–533 | doi=10.1068/p150525| pmid = 3588212 | s2cid = 9641249 }}</ref><ref>{{cite journal | last1 = Purcell | first1 = D G | last2 = Stewart | first2 = A L | year = 1986 | title = The face-detection effect |journal=Bulletin of the Psychonomic Society | volume = 24 | issue = 2| pages = 118–120 | doi=10.3758/bf03330521| doi-access = free }}</ref><ref>{{cite journal | last1 = Purcell | first1 = D G | last2 = Stewart | first2 = A L | year = 1988 | title = The face-detection effect: Configuration enhances perception |journal=Perception & Psychophysics | volume = 43 | issue = 4| pages = 355–366 | doi=10.3758/bf03208806| pmid = 3362664 | doi-access = free }}</ref><ref>{{cite journal | last1 = Yovel | first1 = G. | last2 = Kanwisher | first2 = N. | year = 2005 | title = The neural basis of the behavioural face-inversion effect | journal = Current Biology | volume = 15 | issue = 24| pages = 2256–2262 | doi = 10.1016/j.cub.2005.10.072 | pmid = 16360687 | doi-access = free }}</ref> but this effect was observed in non-face objects as well.<ref>{{cite journal | last1 = Purcell | first1 = D G | last2 = Stewart | first2 = A L | year = 1991 | title = The object-detection effect: Configuration enhances perception |journal=Perception & Psychophysics | volume = 50 | issue = 3| pages = 215–224 | doi=10.3758/bf03206744| pmid = 1754362 | doi-access = free }}</ref> When faces are to be detected among inverted or jumbled faces, reaction times for intact and upright faces increase as the number of distractors within the array is increased.<ref>{{cite journal | last1 = Nothdurft | first1 = H. C. | year = 1993 | title = Faces and facial expressions do not pop out | journal = Perception | volume = 22 | issue = 11| pages = 1287–98 | doi=10.1068/p221287| pmid = 8047415 | s2cid = 33911653 }}</ref><ref>{{cite journal | last1 = Kuehn | first1 = S. M. | last2 = Jolicoeur | first2 = P. | year = 1994 | title = Impact of quality of the image, orientation, and similarity of the stimuli on visual search for faces | journal = Perception | volume = 23 | issue = 1| pages = 95–122 | doi=10.1068/p230095| pmid = 7936979 | s2cid = 20262065 }}</ref><ref>{{cite journal | last1 = Brown | first1 = V. | last2 = Huey | first2 = D. | last3 = Findlay | first3 = J. M. | year = 1997 | title = Face detection in peripheral vision: do faces pop out? | journal = Perception | volume = 26 | issue = 12| pages = 1555–1570 | doi=10.1068/p261555| pmid = 9616483 | s2cid = 39634780 }}</ref> Hence, it is argued that the 'pop out' theory defined in feature search is not applicable in the recognition of faces in such visual search paradigm. Conversely, the opposite effect has been argued and within a natural environmental scene, the 'pop out' effect of the face is significantly shown.<ref>{{cite journal | doi = 10.1080/13506280444000535 | volume=12 | issue=7 | title=Searching for faces in scrambled scenes | journal=Visual Cognition | pages=1309–1336| year=2005 | last1=Lewis | first1=Michael | last2=Edmonds | first2=Andrew | s2cid=144115983 }}</ref> This could be due to evolutionary developments as the need to be able to identify faces that appear threatening to the individual or group is deemed critical in the survival of the fittest.<ref>{{cite journal | last1 = Nelson | first1 = C. A. | year = 2001 | title = The development and neural bases of face recognition | journal = Infant and Child Development | volume = 10 | issue = 1–2| pages = 3–18 | doi = 10.1002/icd.239 | citeseerx = 10.1.1.130.8912 }}</ref> More recently, it was found that faces can be efficiently detected in a visual search paradigm, if the distracters are non-face objects,<ref>{{cite journal | last1 = Hershler | first1 = O. | last2 = Hochstein | first2 = S. | year = 2005 | title = At first sight: A high-level pop out effect for faces | journal = Vision Research | volume = 45 | issue = 13| pages = 1707–1724 | doi=10.1016/j.visres.2004.12.021| pmid = 15792845 | doi-access = free }}</ref><ref>{{cite journal | last1 = Hershler | first1 = O. | last2 = Golan | first2 = T. | last3 = Bentin | first3 = S. | last4 = Hochstein | first4 = S. | year = 2010 | title = The wide window of face detection | journal = Journal of Vision | volume = 10 | issue = 10| page = 21 | doi=10.1167/10.10.21| pmid = 20884486 | pmc = 2981506 }}</ref><ref>Simpson, E. A., Husband, H. L., Yee, K., Fullerton, A., & Jakobsen, K. V. (2014). Visual Search Efficiency Is Greater for Human Faces Compared to Animal Faces.</ref> however it is debated whether this apparent 'pop out' effect is driven by a high-level mechanism or by low-level confounding features.<ref>{{cite journal | last1 = VanRullen | first1 = R | year = 2006 | title = On second glance: Still no high-level pop-out effect for faces | url = https://hal.archives-ouvertes.fr/hal-00111089/file/vanrullen_r_06_3017.pdf| journal = Vision Research | volume = 46 | issue = 18| pages = 3017–3027 | doi=10.1016/j.visres.2005.07.009| pmid = 16125749 | s2cid = 1180752 }}</ref><ref>{{cite journal | last1 = Hershler | first1 = O. | last2 = Hochstein | first2 = S. | year = 2006 | title = With a careful look: Still no low-level confound to face pop-out | journal = Vision Research | volume = 46 | issue = 18| pages = 3028–3035 | doi=10.1016/j.visres.2006.03.023 | pmid=16698058| doi-access = free }}</ref> Furthermore, patients with developmental [[prosopagnosia]], who have impaired face identification, generally detect faces normally, suggesting that visual search for faces is facilitated by mechanisms other than the face-identification circuits of the [[Fusiform Face Area|fusiform face area]].<ref>{{cite journal | last1 = Golan | first1 = T. | last2 = Bentin | first2 = S. | last3 = DeGutis | first3 = J. M. | last4 = Robertson | first4 = L. C. | last5 = Harel | first5 = A. | year = 2014 | title = Association and dissociation between detection and discrimination of objects of expertise: evidence from visual search | journal = Attention, Perception, & Psychophysics | volume = 76 | issue = 2| pages = 391–406 | doi=10.3758/s13414-013-0562-6| pmid = 24338355 | s2cid = 1639650 }}</ref>
+
+Patients with forms of dementia can also have deficits in facial recognition and the ability to recognize human emotions in the face. In a meta-analysis of nineteen different studies comparing normal adults with dementia patients in their abilities to recognize facial emotions,<ref name=":02">{{Cite journal|last1=Bora|first1=Emre|last2=Velakoulis|first2=Dennis|last3=Walterfang|first3=Mark|date=2016-07-01|title=Meta-Analysis of Facial Emotion Recognition in Behavioral Variant Frontotemporal Dementia Comparison With Alzheimer Disease and Healthy Controls|journal=Journal of Geriatric Psychiatry and Neurology|language=en|volume=29|issue=4|pages=205–211|doi=10.1177/0891988716640375|pmid=27056068|s2cid=36274369|issn=0891-9887}}</ref> the patients with frontotemporal dementia were seen to have a lower ability to recognize many different emotions. These patients were much less accurate than the control participants (and even in comparison with Alzheimer's patients) in recognizing negative emotions, but were not significantly impaired in recognizing happiness. Anger and disgust in particular were the most difficult for the dementia patients to recognize.<ref name=":02" />
+
+Face recognition is a complex process that is affected by many factors, both environmental and individually internal. Other aspects to be considered include race and culture and their effects on one's ability to recognize faces.<ref>Kaspar, K. (2016). Culture, group membership, and face recognition. Commentary: Will you remember me? Cultural differences in own-group face recognition biases. ''Frontiers in Psychology'', ''7''.</ref> Some factors such as the [[cross-race effect]] can influence one's ability to recognize and remember faces.
+
+==Considerations==
+
+===Ageing===
+Research indicates that performance in conjunctive visual search tasks significantly improves during childhood and declines in later life.<ref>{{Cite journal
+| volume = 4
+| issue = 1
+| pages = 98–105
+| last = Plude
+| first = D. J.
+| author2=J. A. Doussard-Roosevelt
+| title = Aging, selective attention, and feature integration.
+| journal = Psychology and Aging
+| year = 1989
+| doi=10.1037/0882-7974.4.1.98
+| pmid=2803617
+}}</ref> More specifically, young adults have been shown to have faster reaction times on conjunctive visual search tasks than both children and older adults, but their reaction times were similar for feature visual search tasks.<ref name=Trick /> This suggests that there is something about the process of integrating visual features or serial searching that is difficult for children and older adults, but not for young adults. Studies have suggested numerous mechanisms involved in this difficulty in children, including peripheral visual acuity,<ref>{{Cite book
+| pages = 245–262
+| last = Akhtar
+| first = N.
+| chapter= Peripheral vision in young children: Implications for the study of visual attention
+| title= The development of attention: Research and theory
+| year = 1990
+| publisher = Elsevier
+| isbn = 978-0-08-086723-6
+| chapter-url = https://books.google.com/books?id=9WGC8av7glYC&q=eripheral+vision+in+young+children:+Implications+for+the+study+of+visual+attention.+I&pg=PA245
+}}</ref> eye movement ability,<ref>{{Cite journal
+| pages = 247–252
+| last = Miller
+| first = L. K.
+| title = Developmental differences in the field of view during covert and overt search
+| journal = Child Development
+| year = 1973
+| jstor = 1128043
+| doi = 10.1111/j.1467-8624.1973.tb02147.x
+| volume=44
+| issue = 2
+| pmid = 4705552
+}}</ref> ability of attentional focal movement,<ref>{{Cite journal
+| volume = 48
+| issue = 2
+| pages = 171–189
+| last = Enns
+| first = J. T.
+| author2=D. A. Brodeur
+| title = A developmental study of covert orienting to peripheral visual cues
+| journal = Journal of Experimental Child Psychology
+| year = 1989
+| doi=10.1016/0022-0965(89)90001-5
+| pmid = 2794852
+}}</ref> and the ability to divide visual attention among multiple objects.<ref>{{Cite journal
+| volume = 25
+| issue = 1
+| pages = 1–16
+| last = Day
+| first = M. C.
+| title = Visual search by children: The effect of background variation and the use of visual cues
+| journal = Journal of Experimental Child Psychology
+| year = 1978
+| doi=10.1016/0022-0965(78)90034-6
+| pmid = 641439
+}}</ref>
+
+Studies have suggested similar mechanisms in the difficulty for older adults, such as age related optical changes that influence peripheral acuity,<ref>{{Cite journal
+| volume = 21
+| issue = 1
+| pages = 1–15
+| last = Harpur
+| first = L. L.
+| author2=C. T. Scialfa |author3=D. M. Thomas
+| title = Age differences in feature search as a function of exposure duration
+| journal = [[Experimental Aging Research]]
+| year = 1995
+| doi=10.1080/03610739508254264
+| pmid = 7744167
+}}</ref> the ability to move attention over the visual field,<ref>{{Cite journal
+| volume = 16
+| issue = 3
+| pages = 523–537
+| last = Hartley
+| first = A. A.
+| author2=J. M. Kieley |author3=E. H. Slabach
+| title = Age differences and similarities in the effects of cues and prompts.
+| journal = Journal of Experimental Psychology: Human Perception and Performance
+| year = 1990
+| doi=10.1037/0096-1523.16.3.523
+| pmid = 2144568
+}}</ref> the ability to disengage attention,<ref>{{Cite journal
+| volume = 19
+| issue = 6
+| pages = 1238–1250
+| last = Connelly
+| first = S. L.
+| author2=L. Hasher
+| title = Aging and the inhibition of spatial location.
+| journal = Journal of Experimental Psychology: Human Perception and Performance
+| year = 1993
+| doi=10.1037/0096-1523.19.6.1238
+| pmid = 8294889
+}}</ref> and the ability to ignore distractors.<ref>{{Cite journal
+| volume = 20
+| issue = 2
+| pages = 233–238
+| last = Rabbitt
+| first = P.
+| title = An age-decrement in the ability to ignore irrelevant information
+| journal = Journal of Gerontology
+| year = 1965
+| doi=10.1093/geronj/20.2.233| pmid = 14284802
+}}</ref>
+
+A study by Lorenzo-López et al. (2008) provides neurological evidence for the fact that older adults have slower reaction times during conjunctive searches compared to young adults. [[Event-related potentials|Event-related potentials (ERPs)]] showed longer latencies and lower amplitudes in older subjects than young adults at the [[P300 (neuroscience)|P3 component]], which is related to activity of the parietal lobes. This suggests the involvement of the parietal lobe function with an age-related decline in the speed of visual search tasks. Results also showed that older adults, when compared to young adults, had significantly less activity in the anterior cingulate cortex and many limbic and occipitotemporal regions that are involved in performing visual search tasks.<ref>{{Cite journal
+| volume = 41
+| issue = 2
+| pages = 511–524
+| last = Lorenzo-López
+| first = L.
+| author2=E. Amenedo |author3=R. D. Pascual-Marqui |author4=F. Cadaveira
+| title = Neural correlates of age-related visual search decline: a combined ERP and sLORETA study
+| journal = NeuroImage
+| access-date = 2012-11-19
+| year = 2008
+| url = http://ukpmc.ac.uk/abstract/MED/18395470
+| doi=10.1016/j.neuroimage.2008.02.041
+ | pmid=18395470
+| s2cid = 10314546
+| url-access = subscription
+}}</ref>
+
+===Alzheimer's disease===
+Research has found that people with [[Alzheimer's disease]] (AD) are significantly impaired overall in visual search tasks.<ref name=Tales>{{Cite journal
+| volume = 40
+| issue = 12
+| pages = 1849–1857
+| last = Tales
+| first = A.
+| author2=S. R. Butler |author3=J. Fossey |author4=I. D. Gilchrist |author5=R. W. Jones |author6=T. Troscianko
+| title = Visual search in Alzheimer's disease: a deficiency in processing conjunctions of features
+| journal = Neuropsychologia
+| year = 2002
+| doi=10.1016/S0028-3932(02)00073-8
+| pmid = 12207983
+| citeseerx = 10.1.1.538.4618
+| s2cid = 16310213
+}}</ref>
+People with AD manifest ''enhanced'' spatial cueing, but this benefit is only obtained for cues with high spatial precision.<ref name=Parasuraman>{{Cite journal
+| volume = 38
+| issue = 8
+| pages = 1126–1135
+| last = Parasuraman
+| first = R.
+| author2=P. M. Greenwood |author3=G. E. Alexander
+| title = Alzheimer disease constricts the dynamic range of spatial attention in visual search
+| journal = Neuropsychologia
+| access-date = 2012-11-19
+| year = 2000
+| url = http://archlab.gmu.edu/People/rparasur/Documents/Parasuraman_N00.pdf
+| doi=10.1016/s0028-3932(00)00024-5
+| pmid = 10838147
+| s2cid = 28425852
+}}</ref> Abnormal visual attention may underlie certain visuospatial difficulties in patients with (AD). People with AD have hypometabolism and neuropathology in the parietal cortex, and given the role of parietal function for visual attention, patients with AD may have [[hemispatial neglect]], which may result in difficulty with disengaging attention in visual search.<ref name=Mendez>{{Cite journal
+| last = Mendez
+| first = M. F.
+| author2=M. M. Cherrier |author3=J. S. Cymerman
+| title = Hemispatial neglect on visual search tasks in Alzheimer's disease.
+| journal = Neuropsychiatry, Neuropsychology & Behavioral Neurology
+| year = 1997
+| volume = 10
+| issue = 3
+| pages = 203–8
+| pmid=9297714
+}}</ref>
+
+An experiment conducted by Tales et al. (2000)<ref name=Tales /> investigated the ability of patients with AD to perform various types of visual search tasks. Their results showed that search rates on "pop-out" tasks were similar for both AD and control groups, however, people with AD searched significantly slower compared to the control group on a conjunction task. One interpretation of these results is that the visual system of AD patients has a problem with feature binding, such that it is unable to communicate the different feature descriptions for the stimulus efficiently.<ref name=Tales /> Binding of features is thought to be mediated by areas in the temporal and parietal cortex, and these areas are known to be affected by AD-related pathology.
+
+Another possibility for the impairment of people with AD on conjunction searches is that there may be some damage to general attentional mechanisms in AD, and therefore any attention-related task will be affected, including visual search.<ref name=Tales />
+
+Tales et al. (2000) detected a [[double dissociation]] with their experimental results on AD and visual search. Earlier work was carried out on patients with [[Parkinson's disease]] (PD) concerning the impairment patients with PD have on visual search tasks.<ref>{{Cite journal
+| volume = 8
+| issue = 3
+| pages = 281–287
+| last = Troscianko
+| first = T.
+| author2=J. Calvert
+| title = Impaired parallel visual search mechanisms in Parkinson's disease: implications for the role of dopamine in visual attention
+| journal = Clinical Vision Sciences
+| year = 1993}}</ref><ref>{{Cite journal
+| volume = 11
+| pages = 33–47
+| last = Weinstein
+| first = A.
+| author2=T. Troscianko |author3=J. Calvert
+| title = Impaired visual search mechanisms in Parkinson's disease (PD): a psychophysical and event-related potentials study
+| journal = Journal of Psychophysiology
+| year = 1997}}</ref> In those studies, evidence was found of impairment in PD patients on the "pop-out" task, but no evidence was found on the impairment of the conjunction task. As discussed, AD patients show the exact opposite of these results: normal performance was seen on the "pop-out" task, but impairment was found on the conjunction task. This double dissociation provides evidence that PD and AD affect the visual pathway in different ways, and that the pop-out task and the conjunction task are differentially processed within that pathway.
+
+===Autism===
+Studies have consistently shown that [[autism|autistic]] individuals performed better and with lower reaction times in feature and conjunctive visual search tasks than matched controls without autism.<ref name=Oriordan>{{Cite journal
+| doi = 10.1037/0096-1523.27.3.719
+| issn = 1939-1277
+| volume = 27
+| issue = 3
+| pages = 719–730
+| last = O'Riordan
+| first = Michelle A.
+| author2=Kate C. Plaisted |author3=Jon Driver |author4=Simon Baron-Cohen
+| title = Superior visual search in autism
+| journal = Journal of Experimental Psychology: Human Perception and Performance
+| year = 2001| pmid = 11424657
+}}</ref><ref name = Swettenham>{{Cite journal
+| doi = 10.1037/a0027670
+| issn = 1939-1846
+| volume = 121
+| issue = 2
+| pages = 544–551
+| last = Remington
+| first = Anna M
+| author2=John G Swettenham |author3=Nilli Lavie
+| title = Lightening the load: perceptual load impairs visual detection in typical adults but not in autism
+| journal = Journal of Abnormal Psychology
+| date = May 2012
+ | pmid=22428792
+ | pmc=3357114
+}}</ref> Several explanations for these observations have been suggested.
+One possibility is that people with autism have enhanced perceptual capacity.<ref name=Swettenham /> This means that autistic individuals are able to process larger amounts of perceptual information, allowing for superior parallel processing and hence faster target location.<ref name= Remington>{{Cite journal
+| doi = 10.1111/j.1467-9280.2009.02454.x
+| pmid = 19843262
+| issn = 0956-7976
+| volume = 20
+| issue = 11
+| pages = 1388–1393
+| last = Remington
+| first = Anna
+| author2=John Swettenham |author3=Ruth Campbell |author4=Mike Coleman
+| title = Selective Attention and Perceptual Load in Autism Spectrum Disorder
+| journal = Psychological Science
+| date = 2009-11-01
+| s2cid = 17119998
+| url = http://discovery.ucl.ac.uk/19503/1/19503.pdf
+}}</ref> Second, autistic individuals show superior performance in discrimination tasks between similar stimuli and therefore may have an enhanced ability to differentiate between items in the visual search display.<ref>{{Cite journal
+| doi = 10.1111/1469-7610.00376
+| issn = 1469-7610
+| volume = 39
+| issue = 5
+| pages = 777–783
+| last = Plaisted
+| first = Kate
+| author2=Michelle O'Riordan |author3=Simon Baron-Cohen
+| title = Enhanced Visual Search for a Conjunctive Target in Autism: A Research Note
+| journal = Journal of Child Psychology and Psychiatry
+| year = 1998
+| pmid = 9690940
+| citeseerx = 10.1.1.464.6677
+}}</ref> A third suggestion is that autistic individuals may have stronger top-down target excitation processing and stronger distractor inhibition processing than controls.<ref name=Oriordan />
+Keehn et al. (2008) used an event-related functional magnetic resonance imaging design to study the neurofunctional correlates of visual search in autistic children and matched controls of typically developing children.<ref>{{Cite journal
+| doi = 10.1017/S1355617708081356
+| pmid = 18954479
+| volume = 14
+| issue = 6
+| pages = 990–1003
+| last = Keehn
+| first = Brandon |author2=Laurie Brenner |author3=Erica Palmer |author4=Alan J. Lincoln |author5=Ralph-Axel Müller
+| title = Functional brain organization for visual search in ASD
+| journal = Journal of the International Neuropsychological Society
+| year = 2008| doi-access = free
+}}</ref> Autistic children showed superior search efficiency and increased neural activation patterns in the frontal, parietal, and occipital lobes when compared to the typically developing children. Thus, autistic individuals' superior performance on visual search tasks may be due to enhanced discrimination of items on the display, which is associated with occipital activity, and increased top-down shifts of visual attention, which is associated with the frontal and parietal areas.
+
+==Consumer psychology==
+In the past decade, there has been extensive research into how companies can maximise sales using psychological techniques derived from visual search to determine how products should be positioned on shelves. Pieters and Warlop (1999)<ref>
+{{Cite journal
+| volume = 16
+| pages = 1–16
+| last = Pieters
+| first = R.
+| author2=Warlop, L.
+| title = Visual attention during brand choice: the impact of time pressure and task motivation.
+| journal = International Journal of Research in Marketing
+| year = 1999
+| doi=10.1016/s0167-8116(98)00022-6| url =https://pure.uvt.nl/ws/files/529362/69.pdf
+}}
+</ref> used [[eye tracking]] devices to assess [[saccades]] and fixations of consumers while they visually scanned/searched an array of products on a supermarket shelf. Their research suggests that consumers specifically direct their attention to products with eye-catching properties such as shape, colour or brand name. This effect is due to a pressured visual search where eye movements accelerate and saccades minimise, thus resulting in the consumer's quickly choosing a product with a 'pop out' effect. This study suggests that efficient search is primarily used, concluding that consumers do not focus on items that share very similar features. The more distinct or maximally visually different a product is from surrounding products, the more likely the consumer is to notice it. Janiszewski (1998)<ref>
+{{Cite journal
+| volume = 25
+| issue = 3
+| pages =290–301
+| last = Janiszewski
+| first = C.
+| title = The Influence of Display Characteristics on Visual Exploratory Search Behavior.
+| journal = Journal of Consumer Research
+| year = 1998
+| doi=10.1086/209540| s2cid = 33778354
+}}
+</ref> discussed two types of consumer search. One search type is goal directed search taking place when somebody uses stored knowledge of the product in order to make a purchase choice. The second is exploratory search. This occurs when the consumer has minimal previous knowledge about how to choose a product. It was found that for exploratory search, individuals would pay less attention to products that were placed in visually competitive areas such as the middle of the shelf at an optimal viewing height. This was primarily due to the competition in attention meaning that less information was maintained in visual working memory for these products.
+
+==References==
+{{Reflist|30em}}
+
+{{DEFAULTSORT:Visual Search}}
+[[Category:Neuropsychology]]
+[[Category:Perception]]
+[[Category:Cognitive psychology]]

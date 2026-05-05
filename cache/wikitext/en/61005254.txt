@@ -1,0 +1,72 @@
+{{Short description|Organization for Human Brain Mapping award}}
+{{Use mdy dates|date=March 2018}}
+{{Infobox award
+| name          = OHBM Replication Award
+| image         = 
+| image_upright = 
+| caption       = 
+| awarded_for   = A neuroimaging replication study of exceptional quality and impact.
+| presenter     = [[Organization for Human Brain Mapping]] (OHBM)
+| country       = 
+| year          = 2017
+| holder        = [[Helmet T. Karim]] for "Independent replication of advanced brain age in mild cognitive impairment and dementia: detection of future cognitive dysfunction" (awarded in 2024)
+| website       = {{url|humanbrainmapping.org}}
+}}
+
+The '''OHBM Replication Award''' is an award presented annually by the [[Organization for Human Brain Mapping]] (OHBM). It is presented to a researcher in recognition of conducting and disseminating the results of a [[neuroimaging]] [[Reproducibility|replication study]] of exceptional quality and impact.
+
+==Winners==
+[[File:2018 OHBM Replication Award.jpg|thumb|Benedikt Sundermann receives the 2018 OHBM Replication Award]]
+
+{| class="wikitable sortable"
+!scope="col" style="width:10%;"| Year
+!scope="col" style="width:30%;"| Researcher
+!scope="col" style="width:60%;"| Scientific Article
+|-
+| 2024
+| [[Helmet T. Karim]]
+| "Independent replication of advanced brain age in mild cognitive impairment and dementia: detection of future cognitive dysfunction"<ref>{{Cite journal |last1=Karim |first1=Helmet T. |last2=Aizenstein |first2=Howard J. |last3=Mizuno |first3=Akiko |last4=Ly |first4=Maria |last5=Andreescu |first5=Carmen |last6=Wu |first6=Minjie |last7=Hong |first7=Chang Hyung |last8=Roh |first8=Hyun Woong |last9=Park |first9=Bumhee |last10=Lee |first10=Heirim |last11=Kim |first11=Na-Rae |last12=Choi |first12=Jin Wook |last13=Seo |first13=Sang Won |last14=Choi |first14=Seong Hye |last15=Kim |first15=Eun-Joo |date=December 2022 |title=Independent replication of advanced brain age in mild cognitive impairment and dementia: detection of future cognitive dysfunction |journal=Molecular Psychiatry |language=en |volume=27 |issue=12 |pages=5235–5243 |doi=10.1038/s41380-022-01728-y |issn=1476-5578 |pmc=9763106 |pmid=35974140}}</ref>
+|-
+| 2023
+| [[Charles Laidi]]
+| "Cerebellar Atypicalities in Autism?"<ref>{{Cite journal |last1=Laidi |first1=Charles |last2=Floris |first2=Dorothea L. |last3=Tillmann |first3=Julian |last4=Elandaloussi |first4=Yannis |last5=Zabihi |first5=Mariam |last6=Charman |first6=Tony |last7=Wolfers |first7=Thomas |last8=Durston |first8=Sarah |last9=Moessnang |first9=Carolin |last10=Dell'Acqua |first10=Flavio |last11=Ecker |first11=Christine |last12=Loth |first12=Eva |last13=Murphy |first13=Declan |last14=Baron-Cohen |first14=Simon |last15=Buitelaar |first15=Jan K. |date=October 2022 |title=Cerebellar Atypicalities in Autism? |journal=Biological Psychiatry |volume=92 |issue=8 |pages=674–682 |doi=10.1016/j.biopsych.2022.05.020 |pmid=36137706 |issn=0006-3223}}</ref>
+|-
+| 2022
+| [[Lara J. Mentink]]
+| "Functional co-activation of the default mode network in APOE ε4-carriers: A replication study"<ref>{{cite journal |last1=Mentink |first1=Lara J. |last2=Guimarães |first2=João P.O.F.T. |last3=Faber |first3=Myrthe |last4=Sprooten |first4=Emma |last5=Olde Rikkert |first5=Marcel G.M. |last6=Haak |first6=Koen V. |last7=Beckmann |first7=Christian F. |title=Functional co-activation of the default mode network in APOE ε4-carriers: A replication study |journal=NeuroImage |date=October 2021 |volume=240 |article-number=118304 |doi=10.1016/j.neuroimage.2021.118304|pmid=34329959 |s2cid=235650888 |doi-access=free |hdl=2066/237157 |hdl-access=free }}</ref>
+|-
+| 2021
+| [[Mingrui Xia]]
+| "Reproducibility of functional brain alterations in major depressive disorder: Evidence from a multisite resting-state functional MRI study with 1,434 individuals" <ref name="XiaSi2019">{{cite journal|last1=Xia|first1=Mingrui|last2=Si|first2=Tianmei|last3=Sun|first3=Xiaoyi|last4=Ma|first4=Qing|last5=Liu|first5=Bangshan|last6=Wang|first6=Li|last7=Meng|first7=Jie|last8=Chang|first8=Miao|last9=Huang|first9=Xiaoqi|last10=Chen|first10=Ziqi|last11=Tang|first11=Yanqing|last12=Xu|first12=Ke|last13=Gong|first13=Qiyong|last14=Wang|first14=Fei|last15=Qiu|first15=Jiang|last16=Xie|first16=Peng|last17=Li|first17=Lingjiang|last18=He|first18=Yong|title=Reproducibility of functional brain alterations in major depressive disorder: Evidence from a multisite resting-state functional MRI study with 1,434 individuals|journal=NeuroImage|volume=189|year=2019|pages=700–714|issn=1053-8119|doi=10.1016/j.neuroimage.2019.01.074|pmid=30716456 |s2cid=72332537 }}</ref>
+|-
+| 2020 
+| [[Andre Altmann]]
+| "A comprehensive analysis of methods for assessing polygenic burden on Alzheimer's disease pathology and risk beyond APOE"<ref>{{Cite journal|last1=Altmann|first1=Andre|last2=Scelsi|first2=Marzia A|last3=Shoai|first3=Maryam|last4=de Silva|first4=Eric|last5=Aksman|first5=Leon M|last6=Cash|first6=David M|last7=Hardy|first7=John|last8=Schott|first8=Jonathan M|last9=Alzheimer's Disease Neuroimaging Initiative|date=2020-01-01|title=A comprehensive analysis of methods for assessing polygenic burden on Alzheimer's disease pathology and risk beyond APOE|url= |journal=Brain Communications|language=en|volume=2|issue=1|article-number=fcz047|doi=10.1093/braincomms/fcz047|issn=2632-1297|pmc=7100005|pmid=32226939}}</ref>
+|-
+| 2019 
+| [[Richard Dinga]] 
+| "Evaluating the evidence for biotypes of depression: Methodological replication and extension of Drysdale et al. (2017)"<ref name="DingaSchmaal2019">{{cite journal|last1=Dinga|first1=Richard|last2=Schmaal|first2=Lianne|last3=Penninx|first3=Brenda W.J.H.|last4=van Tol|first4=Marie Jose|last5=Veltman|first5=Dick J.|last6=van Velzen|first6=Laura|last7=Mennes|first7=Maarten|last8=van der Wee|first8=Nic J.A.|last9=Marquand|first9=Andre F.|title=Evaluating the evidence for biotypes of depression: Methodological replication and extension of |journal=NeuroImage: Clinical|volume=22|year=2019|article-number=101796|issn=2213-1582|doi=10.1016/j.nicl.2019.101796|pmid=30935858|pmc=6543446}}</ref>
+|-
+| 2018 
+| [[Benedikt Sundermann]]
+| "Diagnostic classification of unipolar depression based on resting-state functional connectivity MRI: effects of generalization to a diverse sample"<ref name="SundermannFeder2016">{{cite journal|last1=Sundermann|first1=Benedikt|last2=Feder|first2=Stephan|last3=Wersching|first3=Heike|last4=Teuber|first4=Anja|last5=Schwindt|first5=Wolfram|last6=Kugel|first6=Harald|last7=Heindel|first7=Walter|last8=Arolt|first8=Volker|last9=Berger|first9=Klaus|last10=Pfleiderer|first10=Bettina|title=Diagnostic classification of unipolar depression based on resting-state functional connectivity MRI: effects of generalization to a diverse sample|journal=Journal of Neural Transmission|volume=124|issue=5|year=2016|pages=589–605|issn=0300-9564|doi=10.1007/s00702-016-1673-8|pmid=28040847|s2cid=13651823 }}</ref>
+|-
+| 2017
+| [[Wouter Boekel]]
+| "A purely confirmatory replication study of structural brain-behavior correlations"<ref name="BoekelWagenmakers2015">{{cite journal|last1=Boekel|first1=Wouter|last2=Wagenmakers|first2=Eric-Jan|last3=Belay|first3=Luam|last4=Verhagen|first4=Josine|last5=Brown|first5=Scott|last6=Forstmann|first6=Birte U.|title=A purely confirmatory replication study of structural brain-behavior correlations|journal=Cortex|volume=66|year=2015|pages=115–133|issn=0010-9452|doi=10.1016/j.cortex.2014.11.019|pmid=25684445 |s2cid=20372513 |url=https://dare.uva.nl/personal/pure/en/publications/a-purely-confirmatory-replication-study-of-structural-brainbehavior-correlations(8d58acc6-5946-47ba-83b0-05cf2215b4b1).html }}</ref>
+|}
+
+==History==
+The award was originally conceived by [[Chris Gorgolewski]] as an attempt to elevate the status of replication studies, which were often considered not as prestigious as other scientific activities. Researchers focusing too much on novel discoveries instead of scrutinizing previously published findings was big contribution to [[reproducibility crisis]] in psychology.
+
+The award has increased the likelihood of members of the neuroimaging community to conduct and disseminate results of replication studies<ref name="GorgolewskiNichols2018">{{cite journal|last1=Gorgolewski|first1=Krzysztof J.|last2=Nichols|first2=Thomas|last3=Kennedy|first3=David N.|last4=Poline|first4=Jean-Baptiste|last5=Poldrack|first5=Russell A.|title=Making replication prestigious|journal=Behavioral and Brain Sciences|volume=41|year=2018|article-number=e131 |issn=0140-525X|doi=10.1017/S0140525X18000663|pmid=31064546 |s2cid=147706022 }}</ref> and the procedure of running the award has been made publicly available<ref>{{Cite journal|last5=Poldrack|first5=Russell|last4=Poline|first4=Jean-Baptiste|last3=N. Kennedy|first3=David|last2=Nichols|first2=Thomas|last1=Gorgolewski|first1=Krzysztof|date=2017-11-03|title=Replication Award Creation Kit|url=https://figshare.com/articles/Replication_Award_Creation_Kit/5567083|language=en|doi=10.6084/m9.figshare.5567083.v1}}</ref> in hope other academic communities could implement similar awards.
+
+==See also==
+
+* [[List of neuroscience awards]]
+
+==References==
+{{Reflist}}
+
+[[Category:Neuroimaging]]
+[[Category:Neuroscience awards]]

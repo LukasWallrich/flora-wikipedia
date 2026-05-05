@@ -1,0 +1,41 @@
+{{Short description|Increased romantic feelings due to parental opposition}}
+[[File:Frank Bernard Dicksee - Romeo and Juliet, 1884.jpg|thumb|Romeo and Juliet]]
+The '''Romeo and Juliet effect''' describes the intensification of romantic feelings in relationship when met by parental opposition, as coined by British actor and director [[Richard Driscoll]]<ref name="Driscoll" /> referencing the protagonists of the [[William Shakespeare]] play ''[[Romeo and Juliet]],'' whose families were opposed to their union.
+
+== History ==
+An early review of romantic love in the [[Western world]] emphasized the persistent association of obstacles or grave difficulties with the intensity of love, as in [[William Shakespeare]]'s ''[[Romeo and Juliet]]''.<ref> Derougemont, D. ''Love in the Western World''. (Trans, by M. Belgion) New York: Harcourt, Brace, 1940.</ref> 
+
+In 1972, [[Richard Driscoll]], along with Keith Davis and Milton Lipetz, published results from a [[longitudinal study]] on relationships suggesting an underlying truth to such an idea. The results suggest that parental interference in a loving relationship may intensify the feelings of [[Romance (love)|romantic love]] between members of the couple, at least for a brief span of time.<ref name="Driscoll">{{Cite journal|last1=Driscoll|first1=Richard|last2=Davis|first2=Keith E.|last3=Lipetz|first3=Milton E.|date=1972|title=Parental interference and romantic love: The Romeo and Juliet effect.|journal=Journal of Personality and Social Psychology|language=en|volume=24|issue=1|pages=1–10|doi=10.1037/h0033373|pmid=5079550|issn=1939-1315}}</ref> The study interviewed 140 couples, both married and unmarried, via [[Questionnaire|questionnaires]] and surveys. The researchers measured feelings about the spouse, about their perceived love, spousal trustworthiness, neediness, and parental interference. The couples completed these procedures at a first session and then, around six months to a year later, completed identical surveying sessions to see how their relationships have endured the past months. About 80% of the original participants completed the second session. Only a small portion of the original sample had ended their relationships or gotten [[Divorce|divorced]]. In the results of the overall study, there was found to be an increase in love ratings for one's partner and parental interference. Interference did seem to have other frustrating effects, as it also was associated with decreased trust, increased criticalness, and increased frequency of negative, bothersome behaviors.<ref name="Driscoll" />
+
+== Subsequent development ==
+While [[Richard Driscoll|Driscoll]]'s study has not been [[Reproducibility|replicated]], other researchers have continued to discuss parental influence on relationship stability.  
+
+In 1983, [[Malcolm Parks]] conducted a study to determine influences of peers and families on relationship involvement, which showed little to no support of Driscoll's previous research. Opposition from the partner's family was not associated with greater emotional attachment.<ref>Parks, M. R., Stan, C. M., Eggert, L. L. (1983). "Romantic involvement and social network involvement." ''Social Psychology Quarterly'', 46(2), 116–31.</ref> These findings set the path for many other studies on romantic involvement and support systems involvement and approval.
+
+==Later research==
+Additional research has focused upon the topic of a "Romeo and Juliet Effect". In 2001, Diane Felmlee found similar findings to study by [[Malcolm Parks]]. For instance, perceptions of approval from an individual's friends and approval from a partner's family members reduce the possibility that a relationship will end.<ref>Felmlee, D. (2001). "No couple is an island: A social stability network perspective on dyadic stability." ''Social Forces'', 79, 1259–87.</ref> 
+
+A study by Susan Sprecher delved into the subject of the influence of social networks on relationships. It found that individuals from a social network believed that their personal opinions, whether of support or opposition, affected the romantic relationships they had earlier acknowledged as being in their social networks.
+
+H. Colleen Sinclair found that approval or disapproval by friends had a great effect on perceptions of potential dating partners by the participants in her research. Similarly to the previously discussed studies, however, Sinclair and colleagues found no significant support for the "Romeo and Juliet Effect" that parental and familial opinions are the prevailing influences.<ref>Wright, B. L., Sinclair, H. C., Pulling the strings: Effects of friend and parent opinions on dating choices, ''Personal Relationships'', (2012a) {{doi| 10.1111/j.1475-6811.2011.01390.x}}</ref>
+
+==See also==
+*[[Reactance (psychology)]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+*Brehm, J. W. (1999). The intensity of emotion. ''Personality And Social Psychology Review'', 3(1), 2-22. {{doi|10.1207/s15327957pspr0301_1}}
+*Parks, M. R., Stan, C. M., Eggert, L. L. (1983). Romantic involvement and social network involvement. ''Social Psychology Quarterly'', 46(2), 116-131. {{doi|10.2307/3033848}}
+*Wright, B. L., Sinclair, H. C. (2012a). Pulling the strings: Effects of friend and parent opinions on dating choices. ''Personal Relationships''. {{doi| 10.1111/j.1475-6811.2011.01390.x}}.
+
+{{Romeo and Juliet}}
+
+{{DEFAULTSORT:Romeo and Juliet Effect, The}}
+[[Category:Intimate relationships]]
+[[Category:Romeo and Juliet|Effect]]
+[[Category:Parenting]]
+[[Category:Interpersonal conflict]]
+[[Category:Romance]]
+[[Category:Psychological effects]]

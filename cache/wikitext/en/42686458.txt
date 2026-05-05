@@ -1,0 +1,423 @@
+{{Short description|none}}
+[[File:Coronal Cloud 1.jpg|thumb|upright=1.3|A solar [[prominence eruption]]]]
+[[Solar storm]]s of different types are caused by disturbances on the Sun, most often from [[coronal mass ejection]]s (CMEs) and [[solar flare]]s from [[active regions]], or, less often, from [[coronal hole]]s. Minor to active solar storms (i.e., storming restricted to higher latitudes) may occur under elevated background [[solar wind]] conditions when the [[interplanetary magnetic field]] (IMF) orientation is southward, toward the Earth (which also leads to much stronger storming conditions from CME-related sources).<ref name="SW IMF">{{cite web  | url = https://www.spaceweatherlive.com/en/help/the-interplanetary-magnetic-field-imf.html  | title = The Interplanetary Magnetic Field (IMF)  | website = SpaceWeatherLive.com | publisher = Parsec vzw  | access-date = 2021-03-20 }}</ref><ref name="Adhikari">{{cite journal  | last = Adhikari  | first = Binod  | author2 = S. Dahal  | author3 = N. P. Chapagain  | title = Study of field-aligned current (FAC), interplanetary electric field component (Ey), interplanetary magnetic field component (Bz), and northward (x) and eastward (y) components of geomagnetic field during supersubstorm  | journal = Earth and Space Science  | volume = 4  | issue = 5  | pages = 257–274  | date = 2017  | doi = 10.1002/2017EA000258 | bibcode = 2017E&SS....4..257A | doi-access = free  }}</ref><ref name="Gonzalez">{{cite journal  | last = Gonzalez  | first = W. D.  | author2 = E. Echer  | title = A study on the peak Dst and peak negative Bz relationship during intense geomagnetic storms  | journal =  Geophysical Research Letters| volume = 32  | issue = 18  | pages = L18103  | date = 2005  | doi = 10.1029/2005GL023486 | bibcode = 2005GeoRL..3218103G | doi-access = free  }}</ref><ref name="Loewe">{{cite journal  | last = Loewe  | first = C. A.  |author2 = G. W. Prölss  | title = Classification and mean behavior of magnetic storms  | journal = Journal of Geophysical Research: Space Physics  | volume = 102  | issue = A7  | pages = 14209–14213  | date = 1997  | doi = 10.1029/96JA04020 | bibcode = 1997JGR...10214209L | doi-access = free  }}</ref><ref name="Kamide">{{cite book  | editor1-last = T. Y. Lui  | editor1-first = Anthony  | editor2-last = Consolini  | editor2-first = Giuseppe  | editor3-last = Kamide  | editor3-first = Yosuke  | title = Multiscale Coupling of Sun-Earth Processes  | publisher = Elsevier  | edition = 1st  | date = 2005  | chapter = What Determines the Intensity of Magnetospheric Substorms?  | location =  | pages = 175–194  | doi = 10.1016/B978-044451881-1/50014-9  | isbn = 978-0-444-51881-1 }}</ref>
+
+==Background==
+{{main|Solar storm}}
+Active stars produce disturbances in [[space weather]] and, if strong enough, in their own [[space climate]]. Science studies such phenomena with the field of [[heliophysics]], which is an interdisciplinary combination of [[solar physics]] and [[planetary science]].
+
+In the [[Solar System]], the [[Sun]] can produce intense [[Geomagnetic storm|geomagnetic]] and [[Solar particle event|energetic particle storms]] capable of causing severe damage to technology. It can result in large scale [[power outage]]s, disruption or [[Communications blackout|blackouts]] of radio communications (including [[Global Positioning System|GPS]]), damage or destruction of [[submarine communications cable]]s,<ref name="Spektor">{{cite news  | last = Spektor  | first = Brandon  | title = An 'Internet apocalypse' could ride to Earth with the next solar storm, new research warns  | newspaper = LiveScience  | date = 6 September 2021  | url = https://www.livescience.com/solar-storm-internet-apocalypse }}</ref> and temporary to permanent disabling of satellites and other electronics. Intense solar storms may also be hazardous to high-latitude, high-altitude aviation<ref>[https://www.radsonaplane.com/ RadsOnAPlane.com]</ref> and to [[human spaceflight]].<ref name="Phillips impacts">{{cite web  |last = Phillips |first = Tony |title = Severe Space Weather--Social and Economic Impacts  |work = NASA Science News  |publisher = National Aeronautics and Space Administration  |date = 21 Jan 2009  |url = https://science.nasa.gov/science-news/science-at-nasa/2009/21jan_severespaceweather/ |access-date = 2014-05-07 }}</ref> Geomagnetic storms are the cause of [[aurora]].<ref>{{cite web  |title = NOAA Space Weather Scales |publisher = NOAA Space Weather Prediction Center  |date = 1 Mar 2005  |url = https://www.swpc.noaa.gov/sites/default/files/images/NOAAscales.pdf |access-date = 2017-09-13 }}</ref> The most significant known solar storm, across the most parameters, occurred in September 1859 and is known as the "[[Solar storm of 1859|Carrington event]]".<ref>{{cite web  |last = Bell  |first = Trudy E.  |author2=T. Phillips  |title = A Super Solar Flare  |work = NASA Science News  |publisher = National Aeronautics and Space Administration  |date = 6 May 2008  |url = https://science.nasa.gov/science-news/science-at-nasa/2008/06may_carringtonflare/  |access-date = 2014-05-07 }}</ref> The damage from the most potent solar storms is capable of existentially threatening the stability of modern human civilization,<ref>{{cite book  |last = Kappenman  |first = John  |title = Geomagnetic Storms and Their Impacts on the U.S. Power Grid  |publisher = Metatech Corporation for Oak Ridge National Laboratory  |series = META-R  |volume = 319  |date = 2010  |location = Goleta, CA  |url = http://www.ornl.gov/sci/ees/etsd/pes/pubs/ferc_Meta-R-319.pdf  |archive-url = https://web.archive.org/web/20120819022440/http://www.ornl.gov/sci/ees/etsd/pes/pubs/ferc_Meta-R-319.pdf  |archive-date = 2012-08-19  |oclc = 811858155 }}</ref><ref name="Phillips impacts"/> although proper preparedness and mitigation can substantially reduce the hazards.<ref>{{cite book  |title = National Space Weather Action Plan  |date = 28 Oct 2015  |location = Washington, DC  |via = [[NARA|National Archives]]  |publisher = [[Office of Science and Technology Policy]]  |url = https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/final_nationalspaceweatheractionplan_20151028.pdf }}</ref><ref>{{cite arXiv  |last = Lingam  |first = Manasvi  |author2 = Abraham Loeb  |title = Impact and mitigation strategy for future solar flares  |eprint=1709.05348  |date = 2017  |class = astro-ph.EP }}</ref> Steeply increasing satellite congestion primarily due to [[Satellite constellation|megaconstellations]] is severely increasing the risk of [[Satellite collision|collisions]] and of reaching hazardous stages of the [[Kessler syndrome]],<ref name="Anderson">{{cite news  |last = Anderson  |first = Margo  |title =  Have We Reached a Space-Junk Tipping Point?  |newspaper = IEEE Spectrum  |date = 30 September 2025  |url = https://spectrum.ieee.org/kessler-syndrome-space-debris  |access-date = 2026-03-17 }}</ref> with a solar storm that disables [[Collision avoidance (spacecraft)|avoidance]] measures as a potential precipitating event.<ref name="Hsu">{{cite news  |last = Hsu  |first = Jeremy  |title = Satellites Used to Have Months to Avoid Collisions—Now They Have Days  |newspaper = Scientific American  |date = 18 December 2025  |url = https://www.scientificamerican.com/article/satellites-used-to-have-months-to-avoid-collisions-now-they-have-days/  |access-date = 2026-03-17 }}</ref>
+
+Proxy data from Earth, as well as analysis of stars similar to the Sun, suggest that the Sun may be also capable of producing so-called "[[superflare]]s", which are as much as 1,000 times stronger than any flares in the historical record.<ref>{{cite conference  |first = Kazunari  |last = Shibata  |title = Superflares on Solar Type Stars and Their Implications on the Possibility of Superflares on the Sun  |book-title = 2015 Space Weather Workshop  |publisher = Space Weather Prediction Center  |date = 15 Apr 2015  |location = Boulder, CO  |url = https://www.swpc.noaa.gov/sites/default/files/images/u33/final_shibata_SWW_2015.pdf  }}</ref><ref>{{cite journal  |last = Karoff |first = Christoffer  |display-authors=etal  |title = Observational evidence for enhanced magnetic activity of superflare stars  |journal = Nat. Commun.  |volume = 7  |issue = 11058  |article-number = 11058  |date = 2016  |doi = 10.1038/ncomms11058 |bibcode = 2016NatCo...711058K  |pmid=27009381  |pmc=4820840}}</ref><ref>{{cite journal  |last = Lingam  |first = Manasvi  |author2 = A. Loeb |title = Risks for Life on Habitable Planets from Superflares of Their Host Stars  |journal = Astrophysical Journal  |volume = 848  |issue = 1  |page = 41  |date = 2017  |doi = 10.3847/1538-4357/aa8e96  |bibcode = 2017ApJ...848...41L  |arxiv = 1708.04241 |s2cid = 92990447 |doi-access = free }}</ref> Other research, like models of solar flares<ref>{{cite journal  |last = Aulanier  |first = G.  |display-authors=et al.  |title = The standard flare model in three dimensions. II. Upper limit on solar flare energy  |journal = Astron. Astrophys.  |volume = 549  |pages = A66  |date = 2013  |doi = 10.1051/0004-6361/201220406  |bibcode = 2013A&A...549A..66A  |arxiv = 1212.2086 |s2cid = 73639325 }}</ref> and statistics of extreme solar events reconstructed using [[cosmogenic isotope]] data in terrestrial archives, indicate otherwise.<ref name="Usoskin">{{cite journal  |last = Usoskin  |first = Ilya  |title = A history of solar activity over millennia  |journal = Living Rev. Sol. Phys.  |volume = 14  |article-number = 3  |date = 2017  |issue = 1 |doi = 10.1007/s41116-017-0006-9 |arxiv = 0810.3972 |bibcode = 2017LRSP...14....3U |s2cid = 195340740 }}</ref> The discrepancy is not yet resolved and may be related to a biased statistic of the [[stellar population]] of [[solar analog]]s.<ref>{{cite journal  |last = Kitchatinov  |first = Leonid  |author2 = S. Olemskoy  |title = Dynamo model for grand maxima of solar activity: can superflares occur on the Sun?  |journal = Mon. Not. R. Astron. Soc.  |volume = 459  |issue = 4  |page = 4353  |date = 2016  |doi = 10.1093/mnras/stw875  |doi-access = free |bibcode = 2016MNRAS.459.4353K  |arxiv = 1602.08840 }}</ref>
+
+The higher occurrence of large solar storms during September and March, near the [[Equinox|equinoxes]], can be explained by the [[Russell–McPherron effect]].<ref>{{Cite journal |last=Crooker |first=N. U. |last2=Cliver |first2=E. W. |last3=Tsurutani |first3=B. T. |date=1992 |title=The semiannual variation of great geomagnetic storms and the postshock Russell-McPherron effect preceding coronal mass ejecta |url=https://onlinelibrary.wiley.com/doi/abs/10.1029/92GL00377 |journal=Geophysical Research Letters |language=en |volume=19 |issue=5 |pages=429–432 |doi=10.1029/92GL00377 |issn=1944-8007}}</ref>
+
+==Coronal mass ejections and solar particle events==
+{{Further|Coronal mass ejection|Solar particle event}}
+
+===Events affecting Earth===
+====Proxy evidence====
+<!-- years BP (Before Present) are relative to the start of radiocarbon dating in 1950-->
+This section contains a list of possible events that are indicated by indirect, or [[Proxy (statistics)|proxy]] data. The scientific value of such data remains unresolved.<ref name="Mekhaldi">{{cite journal  |last = Mekhaldi  |first = F.  |display-authors= etal  |title = No Coincident Nitrate Enhancement Events in Polar Ice Cores Following the Largest Known Solar Storms  |journal = Journal of Geophysical Research: Atmospheres  |volume = 122  |issue = 21  |pages = 11,900–11,913  |date = 2017  |doi = 10.1002/2017JD027325 |bibcode = 2017JGRD..12211900M |url = https://www.dora.lib4ri.ch/psi/islandora/object/psi%3A23705 |doi-access = free  }}</ref><ref name="maintable">{{cite journal  |last = Usoskin  |first = Ilya G.  |author2= Gennady A. Kovaltsov  |title = Occurrence of Extreme Solar Particle Events: Assessment from Historical Proxy Data  |journal = The Astrophysical Journal  |volume = 757  |issue = 92  |page = 92  |date = 2012  |doi = 10.1088/0004-637X/757/1/92|doi-access=free|arxiv = 1207.5932  |bibcode = 2012ApJ...757...92U }}</ref>
+
+* 12351–{{BCE|12350}} Probable [[Miyake event]], which would be the largest known and twice the 774–775 event.<ref>{{cite journal|title=A radiocarbon spike at 14 300 cal yr BP in subfossil trees provides the impulse response function of the global carbon cycle during the Late Glacial|journal=Philosophical Transactions of the Royal Society A|author1=Bard Edouard|author2=Miramont Cécile|author3=Capano Manuela|author4=Guibal Frédéric|author5=Marschal Christian|author6=Rostek Frauke|author7=Tuna Thibaut|author8=Fagault Yoann|author9=Heaton Timothy J.|year=2023|volume=381 |issue=2261 |article-number=20220206 |doi=10.1098/rsta.2022.0206|pmid=37807686 |s2cid=263759832 |pmc=10586540|bibcode=2023RSPTA.38120206B }}</ref>
+* 7176 BCE Found in [[beryllium-10]] (and other [[isotope]]s) spike in ice cores and corroborated by tree rings.<ref name="Paleari">{{cite journal  | last = Paleari  | first = Chiara I.  | author2 = F. Mekhaldi  |author3 = F. Adolphi  |author4 = M. Christl  |author5 = C. Vockenhuber  |author6 = P. Gautschi  |author7 = J. Beer  |author8 = N. Brehm  |author9 = T. Erhardt  |author10 = H.-A. Synal  |author11 = L. Wacker  |author12 = F. Wilhelms  |author13 = R. Muscheler  | title = Cosmogenic radionuclides reveal an extreme solar particle storm near a solar minimum 9125 years BP  | journal = Nat. Commun.  | volume = 13  | issue = 214  | date = 2022  | page = 214 | doi = 10.1038/s41467-021-27891-4 | pmid = 35017519 | pmc = 8752676 | bibcode = 2022NatCo..13..214P }}</ref> It unexpectedly appears to have occurred near a [[solar minimum]]<ref name="Paleari"/> and was as strong as, or probably even slightly stronger than the famous [[774–775 carbon-14 spike|774–775 CE event]].
+* {{circa}} 5410 BCE<ref>{{cite journal |doi=10.1029/2021GL093419 |title=A Single-Year Cosmic Ray Event at 5410 BCE Registered in 14C of Tree Rings |journal=Geophysical Research Letters |volume=48 |issue=11 |date=16 June 2021 |author1=F. Miyake |author2=I. P. Panyushkina |author3=A. J. T. Jull |author4=F. Adolphi |author5=N. Brehm |author6=S. Helama |author7=K. Kanzawa |author8=T. Moriya |author9=R. Muscheler |author10=K. Nicolussi |author11=M. Oinonen |author12=M. Salzer |author13=M. Takeyama |author14=F. Tokanai |author15=L. Wacker|article-number=e2021GL093419 |pmid=34433990 |pmc=8365682 |bibcode=2021GeoRL..4893419M |doi-access=free }}</ref>
+* 5259 BCE Found in beryllium-10 spike in ice cores and corroborated by tree rings. At least as strong as the 774–775 event.<ref name=scam>{{cite journal|journal=Scientific American|url=https://www.scientificamerican.com/article/solar-superflares-rocked-earth-less-than-10-000-years-ago-and-could-strike-again/|first=Jonathan|last=O'Callaghan|title=Solar 'Superflares' Rocked Earth Less Than 10,000 Years Ago—and Could Strike Again|date=13 September 2021}}</ref>
+* {{circa}} 660 BCE<ref>{{cite journal  |last = O'Hare  |first = Paschal |display-authors=etal  |title = Multiradionuclide evidence for an extreme solar proton event around 2,610 B.P. (~660 BC)  |journal = Proc. Natl. Acad. Sci. U.S.A.  |volume =  116  |issue =13  |pages = 5961–5966  |date = 2019  |doi = 10.1073/pnas.1815725116 |doi-access=free  |bibcode = 2019PNAS..116.5961O |pmid = 30858311 |pmc = 6442557 }}</ref><ref>{{Cite journal |last1=Hayakawa |first1=Hisashi |last2=Mitsuma |first2=Yasuyuki |last3=Ebihara |first3=Yusuke |last4=Miyake |first4=Fusa |author-link4=Fusa Miyake |date=2019 |title=The Earliest Candidates of Auroral Observations in Assyrian Astrological Reports: Insights on Solar Activity around 660 BCE |journal=The Astrophysical Journal Letters |volume=884 |issue=1 |pages=L18 |arxiv=1909.05498 |bibcode=2019ApJ...884L..18H |doi=10.3847/2041-8213/ab42e4 |s2cid=202565732 |doi-access=free }}</ref>
+* [[774–775 carbon-14 spike|774–775]] CE<!--<ref>{{multiref|A|D|E|F|G}}</ref>--><ref name="miyake12">{{cite journal  |last1= Miyake  |display-authors= etal  |title= A signature of cosmic-ray increase in ad 774–775 from tree rings in Japan  |journal= Nature|  date= 2012  |volume= 486  |issue= 7402  |pages= 240–2  |doi= 10.1038/nature11123  |pmid= 22699615  |bibcode = 2012Natur.486..240M |s2cid= 4368820 }}</ref><ref>{{cite journal  |last = Melott  |first = Adrian L.  |author2=B. C. Thomas  |title = Causes of an AD 774–775 14C increase  |journal = Nature  |volume = 491  |issue = 7426  |pages = E1–E2  |date = 2012  |doi = 10.1038/nature11695  |arxiv = 1212.0490  |bibcode = 2012Natur.491E...1M  |pmid=23192153|s2cid = 205231715 }}</ref><ref>{{cite journal  |last1 = Usoskin  |display-authors = etal  |title = The AD775 cosmic event revisited: the Sun is to blame  |journal = Astron. Astrophys.  |date = 2013  |volume = 552  |page = L3  |doi = 10.1051/0004-6361/201321080  |arxiv = 1302.6897  |bibcode = 2013A&A...552L...3U |s2cid = 55137950 }}</ref><ref name="multiradionuclide 774-75">{{cite journal  |last = Mekhaldi  |first = Florian  |display-authors=etal  |title = Multiradionuclide evidence for the solar origin of the cosmic-ray events of ᴀᴅ 774/5 and 993/4  |journal = Nature Communications  |volume = 6  |page = 8611  |date = 2015  |doi = 10.1038/ncomms9611  |pmid = 26497389  |pmc = 4639793  |bibcode = 2015NatCo...6.8611M }}</ref><ref name="DOI_10.3847/1538-4357/abad93">{{cite journal |doi = 10.3847/1538-4357/abad93 |journal = The Astrophysical Journal |volume = 903 |number = 1 |date = 29 October 2020 |title = On the Size of the Flare Associated with the Solar Proton Event in 774 AD |author1 = Edward Cliver |author2 = Hisashi Hayakawa |author3 = Jeffrey J. Love |author4 = D. F. Neidig|page = 41 |bibcode = 2020ApJ...903...41C |s2cid = 228985775 |doi-access = free }}</ref> This extreme solar proton event is the first identified [[Miyake event]]. It caused the largest and most rapid rise in [[carbon-14]] levels ever recorded.<ref>{{cite journal |journal=Radiocarbon|date=August 2020  |first = Paula |last = Reimer |display-authors = etal  |title = The INTCAL20 Northern Hemisphere RADIOCARBON AGE CALIBRATION CURVE (0–55 CAL kBP)|volume=62|issue=4|pages=725–757|doi=10.1017/RDC.2020.41|bibcode=2020Radcb..62..725R |doi-access=free|hdl=11585/770531|hdl-access=free}}</ref> 
+* [[993–994 carbon-14 spike|993–994]] CE<ref>{{cite journal  |last = Fusa  |first = Miyake  |author2= Kimiaki Masuda  |author3 = Toshio Nakamura  |title = Another rapid event in the carbon-14 content of tree rings  |journal = Nature Communications  |volume = 4  |issue = 1748  |page = 1748  |date = 2013  |doi = 10.1038/ncomms2783  |bibcode = 2013NatCo...4.1748M  |pmid=23612289 |doi-access = free  }}</ref><ref name="multiradionuclide 774-75"/><ref>{{cite journal  |title = Historical Auroras in the 990s: Evidence of Great Magnetic Storms  |journal = Solar Physics  |volume = 292  |issue = 1  |article-number = 12  |date = 2017  |author= Hayakawa, H.  |display-authors=etal  |doi=10.1007/s11207-016-1039-2  |arxiv = 1612.01106  |bibcode = 2017SoPh..292...12H |s2cid = 119095730 }}</ref> It caused a carbon-14 spike visible in tree rings which was used to date Viking archaeological remains in [[L'Anse aux Meadows]] in [[Newfoundland]] to 1021.<ref>{{cite journal |last1= Kuitems|first1= Margo|last2=Wallace |first2=Birgitta L. |last3=Lindsay|first3=Charles |last4=Scifo |first4=Andrea |last5=Doeve |first5=Petra |last6=Jenkins |first6=Kevin |last7=Lindauer |first7=Susanne |last8=Erdil |first8=Pinar |last9=Ledger |first9=Paul M. |last10=Forbes |first10=Veronique |last11=Vermeeren |first11=Caroline |last12=Friedrich |first12=Ronny |last13=Dee |first13=Michael W. |display-authors=5 |date=20 October 2021 |title=Evidence for European presence in the Americas in AD 1021 |journal=[[Nature (journal)|Nature]] |volume= 601|issue= 7893|pages= 388–391|doi= 10.1038/s41586-021-03972-8|pmid= 34671168|pmc= 8770119|s2cid= 239051036}}</ref>
+* 1052 CE found in carbon-14 spike<ref name=brehm>{{cite journal  |last = Brehm  |first = N. |display-authors=etal  |title = Eleven-year solar cycles over the last millennium revealed by radiocarbon in tree rings |journal = Nature Geoscience  |volume =  14 |pages = 10–15  |date = 2021  |issue = 1 |doi = 10.1038/s41561-020-00674-0 |bibcode = 2021NatGe..14...10B |s2cid = 230508539 |url = https://www.dora.lib4ri.ch/eawag/islandora/object/eawag%3A21905 }}</ref>
+* 1279 CE found in carbon-14 spike<ref name=brehm/>
+
+====Direct measurements and/or visual observations====
+{| class="wikitable"
+|-
+! style='min-width: 5.5em;'|Date
+! Event
+! Significance
+|-
+| Mar 1582
+| Great magnetic storms of March 1582
+| Prolonged severe-extreme geomagnetic storm produced aurora to 28.8° [[magnetic latitude]] (MLAT) and ≈33.0° [[invariant latitude]] (ILAT).<ref>{{Cite journal |arxiv=1905.08017 |title=Occurrence of Great Magnetic Storms on 6-8 March 1582 |journal=Monthly Notices of the Royal Astronomical Society |volume=487 |issue=3 |page=3550 |date=2019|doi=10.1093/mnras/stz1401 |last1= Hattori |first1= Kentaro |last2= Hayakawa |first2= Hisashi |last3=Ebihara |first3=Yusuke |doi-access=free |bibcode=2019MNRAS.487.3550H }}</ref><ref>{{cite journal |journal=Journal of Space Weather and Space Climate |arxiv=2103.10941 |doi=10.1051/swsc/2020005 |title=Portuguese eyewitness accounts of the great space weather event of 1582 | author1=Víctor Manuel Sánchez Carrasco| author2= José Manuel Vaquero|year=2020 |volume=10 |page=4 |bibcode=2020JSWSC..10....4S |s2cid=216325320 }}</ref>
+|-
+| Feb 1730
+| 
+| At least as intense as the 1989 event but less intense than the Carrington event<ref>{{cite journal |title = A Great Space Weather Event in February 1730 |journal = Astronomy & Astrophysics |volume = 616 |date = 2018 |doi = 10.1051/0004-6361/201832735 | arxiv = 1807.06496 |bibcode=2018A&A...616A.177H |author1=Hisashi Hayakawa |author2=Yusuke Ebiharaa |author3=José M. Vaquero |author4=Kentaro Hattori |author5=Víctor M. S. Carrasco |author6=María de la Cruz Gallego |author7=Satoshi Hayakawa |author8=Yoshikazu Watanabe |author9=Kiyomi Iwahashi |author10=Harufumi Tamazawa |author11=Akito D. Kawamura |author12=Hiroaki Isobe |pages = A177 |s2cid = 119201108 }}</ref>
+|-
+| Sep 1770
+| 
+| <ref>{{cite journal  |last = Kataoka  |first = Ryuho  |author2 = K. Iwahashi  |title = Inclined Zenith Aurora over Kyoto on 17 September 1770: Graphical Evidence of Extreme Magnetic Storm  |journal = Space Weather  |volume = 15  |issue = 10  |pages = 1314–1320  |date = 2017  |doi = 10.1002/2017SW001690  |bibcode = 2017SpWea..15.1314K |doi-access = free  }}</ref><ref>{{cite journal  |last = Hayakawa  |first = Hisashi  |display-authors=etal  |title = Long-lasting Extreme Magnetic Storm Activities in 1770 Found in Historical Documents  |journal = Astrophysical Journal Letters  |volume = 850  |issue = 2  |pages = L31  |date = 2017  |doi = 10.3847/2041-8213/aa9661  |arxiv = 1711.00690  |bibcode = 2017ApJ...850L..31H |s2cid = 119098402 |doi-access = free }}</ref><ref>{{cite journal |title= Possible Cause of Extremely Bright Aurora Witnessed in East Asia on 17 September 1770 |journal= Space Weather |volume= 15 |issue=10 |year=2017 |doi= 10.1002/2017SW001693 |doi-access = free |author1= Yusuke Ebihara |author2= Hisashi Hayakawa |author3= Kiyomi Iwahashi |author4= Harufumi Tamazawa |author5= Akito Davis Kawamura |author6= Hiroaki Isobe |pages= 1373–1382 |bibcode= 2017SpWea..15.1373E |hdl= 2433/237235 |hdl-access= free }}</ref>
+|-
+| Sep 1859 
+| [[Carrington Event]]
+| The most extreme storm ever documented by most measures; telegraph machines reportedly shocked operators and caused small fires; [[aurora]]e visible in tropical areas; first solidly established connection of flares to geomagnetic disturbances. Extreme storming directly preceded this event in late August.
+|-
+| Oct 1870
+| [[October 1870 geomagnetic storm]]
+| Auroras in low-latitude cities like Athens, Baghdad, Cairo, Lisbon, New York and Tbilisi have been observed 24–25 Oct 1870. The amplitude of measured horizontal fluctuation of the geomagnetic field was 281 nano-[[Tesla (unit)|teslas]] (nT)<ref>{{cite journal  |last =  Vaquero|first = J. M.|display-authors=etal  |title = The 1870 space weather event: Geomagnetic and auroral records  |journal = Journal of Geophysical Research: Space Physics  |volume =113 |issue=A8  |date = 2008 |page = A08230 |doi = 10.1029/2007JA012943 |arxiv = |bibcode = |doi-access = free  }}</ref>
+|-
+| Feb 1872
+| Chapman–Silverman storm
+| Minimal [[Disturbance storm time index]] (Dst)* ≤ −834 nano-[[Tesla (unit)|teslas]] (nT)<ref>{{cite journal  |last = Hayakawa  |first = Hisashi  |display-authors=etal  |title = The Great Space Weather Event during 1872 February Recorded in East Asia  |journal = The Astrophysical Journal  |volume = 862  |number = 1  |date = 2018 |page = 15 |doi = 10.3847/1538-4357/aaca40 |arxiv = 1807.05186 |bibcode = 2018ApJ...862...15H |doi-access = free  }}</ref><ref>{{cite journal  |last = Hayakawa  |first = Hisashi  |display-authors=etal  |title = The Extreme Space Weather Event of 1872 February: Sunspots, Magnetic Disturbance, and Auroral Displays  |journal = The Astrophysical Journal  |volume = 959  |number = 1  |date = 2023 |page = 23 |doi = 10.3847/1538-4357/acc6cc   |doi-access=free|bibcode = 2023ApJ...959...23H |arxiv = 2501.00176  }}</ref>
+|-
+| Nov 1882
+| [[November 1882 geomagnetic storm]]
+| Comparable in size to the May 2024 storms.<ref>{{cite journal  |last = Love  |first = Jeffrey J.  |title = The Electric Storm of November 1882  |journal = Space Weather  |volume = 16  |issue =  1|pages = 37–46  |date = 2018  |doi = 10.1002/2017SW001795 |bibcode = 2018SpWea..16...37L |doi-access = free  }}</ref>
+|-
+| Oct 1903
+| Solar storm of Oct-Nov 1903
+| An extreme storm, estimated at Dst −531 nT arose from a fast CME (mean ≈1500&nbsp;km/s), occurred during the ascending phase of the minimum of the relatively weak [[solar cycle 14]], which is the most significant storm on record in a solar minimum period. Aurora was conservatively observed to ≈44.1° ILAT, and widespread disruptions and overcharging of telegraph systems occurred.<ref>{{cite journal  |last= Hattori  |first= Kentaro  |author2= H. Hayakawa  |author3= Y. Ebihara  |title=The Extreme Space Weather Event in 1903 October/November: An Outburst from the Quiet Sun |journal = Astrophys. J.  |date=2020  |volume= 897 |issue= 1 |pages= L10 |doi= 10.3847/2041-8213/ab6a18  |arxiv= 2001.04575 |bibcode= 2020ApJ...897L..10H |s2cid= 210473520 |doi-access= free }}</ref><ref>{{cite web  |url = https://spaceweatherarchive.com/2020/07/29/the-solar-minimum-superstorm-of-1903/  |title = The Solar Minimum Superstorm of 1903  |last = Phillips  |first = Tony  |date = 29 July 2020  |website = SpaceWeatherArchive  |publisher = SpaceWeather.com  |access-date = 2020-09-16  }}</ref>
+|-
+| Sep 1909
+| Geomagnetic storm of September 1909
+| Dst calculated to have reached −595 nT, comparable to the March 1989 event<ref>{{cite journal  |last = Love  |first = Jeffrey J.  |author2 = H. Hayakawa  |author3 = E. W. Cliver  |title = On the Intensity of the Magnetic Superstorm of September 1909  |journal = Space Weather  |volume = 17   |issue = 1  |pages = 37–45  |date = 2019  |doi = 10.1029/2018SW002079 |bibcode = 2019SpWea..17...37L |doi-access = free  }}</ref>
+|-
+| May 1921
+| [[May 1921 geomagnetic storm]]
+| Among most extreme known geomagnetic storms; farthest equatorward (lowest [[Geomagnetic latitude|latitude]]) aurora ever documented;<ref>{{cite journal  |last = Silverman  |first = S.M.  |author2 = E.W. Cliver  |title = Low-latitude auroras: the magnetic storm of 14–15 May 1921  |journal = J. Atmos. Sol.-Terr. Phys.  |volume = 63  |issue = 5  |pages = 523–535  |date = 2001  |doi = 10.1016/S1364-6826(00)00174-7 |bibcode = 2001JASTP..63..523S |url = https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1003&context=usafresearch }}</ref> burned out [[Fuse (electrical)|fuse]]s, electrical apparatus, and telephone station; caused fires at signal tower and telegraph station; total communications blackouts lasting several hours.<ref>{{cite journal
+|title=The great storm of May 1921: An exemplar of a dangerous space weather event
+|author1=M. Hapgood
+|year=2019
+|volume=17
+|issue=7
+|pages=950–975
+|journal=Space Weather
+|doi=10.1029/2019SW002195
+|bibcode=2019SpWea..17..950H
+|doi-access=free
+}}</ref> A paper in 2019 estimates a peak Dst of &minus;907±132 nT.<ref>{{cite journal
+|title=Intensity and Impact of the New York Railroad Superstorm of May 1921
+|author1=Jeffrey J. Love
+|author2=Hisashi Hayakawa
+|author3=Edward W. Cliver
+|year=2019
+|volume=17
+|issue=8
+|pages=1281–1292
+|journal=Space Weather
+|doi=10.1029/2019SW002250
+|bibcode=2019SpWea..17.1281L
+|doi-access=free
+}}</ref>
+|-
+| Jan 1938
+| [[January 1938 geomagnetic storm]], or the Fátima storm
+| A series of intense geomagnetic storms during the month of January 1938. Most powerful (25-26) comparible in intensity to the Oct 2024 storm, caused auroras across Europe.<ref>{{cite journal |title=The intensity and evolution of the extreme storms in January 1938 |journal=ResearchGate |url=https://www.researchgate.net/publication/344971344_The_intensity_and_evolution_of_the_extreme_storms_in_January_1938 |access-date=21 October 2025}}</ref>
+|-
+| Mar 1940
+| March 1940 superstorm
+| Triggered by an X35±1 solar flare.<ref>{{cite journal|doi=10.1093/mnras/stab3615 |journal=Monthly Notices of the Royal Astronomical Society |title=The Extreme Solar and Geomagnetic Storms on 20-25 March 1940 |date=13 December 2021 |author1=Hisashi Hayakawa |author2=Denny M Oliveira |author3=Margaret A Shea |author4=Don F Smart |author5=Seán P Blake |author6=Kentaro Hattori |author7=Ankush T Bhaskar |author8=Juan J Curto |author9=Daniel R Franco |author10=Yusuke Ebihara|doi-access=free |hdl=11603/24054 |hdl-access=free }}</ref> Caused significant interference to United States communication systems.<ref>{{cite journal  |author1=Jeffrey J. Love|author2=E. Joshua Rigler|author3=Michael D. Hartinger|author4=Greg M. Lucas|author5=Anna Kelbert|author6=Paul A. Bedrosian |title = The March 1940 Superstorm: Geoelectromagnetic Hazards and Impacts on American Communication and Power Systems |journal =Space Weather |volume = 21 | issue = 6 |year = 2023 |article-number=e2022SW003379 |doi = 10.1029/2022SW003379 |bibcode=2023SpWea..2103379L |doi-access = free}}</ref>
+|-
+| Sep 1941
+| 
+| <ref>{{cite journal  |last1 = Love  |first1 = Jeffrey J.  |last2 = Coïsson  |first2 = P.  |title = The Geomagnetic Blitz of September 1941  |journal = Eos  |volume = 97  |date = 15 Sep 2016  |issue = 20 |page = 18 |doi = 10.1029/2016EO059319 |bibcode = 2016EOSTr..97...18L |doi-access = free  }}</ref>
+|-
+| Mar 1946
+| Geomagnetic storm of March 1946
+| Est. Dst<sub>m</sub> of −512 nT<ref name="Love 2021">{{cite journal  | last = Love  | first = Jeffrey J.  | title = Extreme-event magnetic storm probabilities derived from rank statistics of historical Dst intensities for solar cycles 14-24  | journal = Space Weather  | volume = 19| issue = 4| date = 2021  | article-number = e2020SW002579 | doi = 10.1029/2020SW002579 | bibcode = 2021SpWea..1902579L | doi-access = free  }}</ref><ref>{{cite journal  | last = Hayakawa  | first = Hisashi  | author2 =  Y. Ebihara  | author3 = A. A. Pevtsov  | author4 = A. Bhaskar  | author5 = N. Karachik  | author6 = D. M. Oliveira  | title = Intensity and time series of extreme solar-terrestrial storm in 1946 March  | journal = Mon. Not. R. Astron. Soc.  | volume = 197  | issue = 4  | pages = 5507–5517  | date = 2020  | doi = 10.1093/mnras/staa1508 | doi-access = free }}</ref>
+|-
+| Feb 1956
+| 
+| <ref>{{cite journal  |last = Meyer  |first = P.  |author2 = Parker, E. N.  |author3 = Simpson, J. A  |title = Solar Cosmic Rays of February, 1956 and Their Propagation through Interplanetary Space  |url = https://archive.org/details/sim_physical-review_1956-11-01_104_3/page/768  |journal = Phys. Rev.  |volume =  104 |issue = 3  |pages = 768–83  |date = 1956  |doi = 10.1103/PhysRev.104.768  |bibcode = 1956PhRv..104..768M }}</ref><ref>{{cite journal  |last = Belov  |first = A.  |author2 = E. Eroshenko  |author3 = H. Mavromichalaki  |author4 = C. Plainaki  |author5 = V. Yanke  |title=Solar cosmic rays during the extremely high ground level enhancement on 23 February 1956  |journal = Annales Geophysicae  |volume = 23  |issue = 6  |pages = 2281–2291  |date=15 September 2005  |url = https://www.ann-geophys.net/23/2281/2005/angeo-23-2281-2005.pdf  |bibcode = 2005AnGeo..23.2281B  |doi = 10.5194/angeo-23-2281-2005 |doi-access = free  }}</ref><ref>{{cite journal|doi=10.1029/2020JA027921|arxiv=2005.10597|journal=Journal of Geophysical Research: Space Physics|date=2020|title=Revisited reference solar proton event of 23-Feb-1956: Assessment of the cosmogenic-isotope method sensitivity to extreme solar events | last1 = Usoskin | first1 = Ilya G. | last2 = Koldobskiy | first2 = Sergey A. | last3 = Kovaltsov | first3 = Gennady A. | last4 = Rozanov | first4 = Eugene V. | last5 = Sukhodolov | first5 = Timophei V. | last6 = Mishev | first6 = Alexander L. | last7 = Mironova | first7 = Irina A.| doi-access = free }}</ref><!--<ref name="DOI_10.3847/1538-4357/abad93"/>-->
+|-
+| Sep 1957
+| Geomagnetic storm of September 1957
+| <ref name="Stanislawska"/><ref name="Hayakawa23"/>
+|-
+| Feb 1958
+| Geomagnetic storm of February 1958
+| <ref name="Stanislawska">{{cite journal  |last = Stanislawska  |first = Iwona  |author2 = T. L. Gulyaeva  |author3 = O. Grynyshyna-Poliuga  |author4 = L. V. Pustovalova  |title = Ionospheric Weather During Five Extreme Geomagnetic Superstorms Since IGY Deduced With the Instantaneous Global Maps GIM-foF2  |journal = Space Weather  |volume = 16  |issue = 2  |pages = 2068–2078  |date = 2018  |doi = 10.1029/2018SW001945 |bibcode = 2018SpWea..16.2068S |doi-access = free  }}</ref><ref name="Hayakawa23">{{cite journal  |last = Hayakawa  |first = Hisashi  |author2 = Y. Ebihara  |author3 = H. Hata  |title = A review for Japanese auroral records on the three extreme space weather events around the International Geophysical Year (1957–1958)  |journal = Geoscience Data Journal  |volume = 10 |pages = 142–157|date = 2023  |issue = 1 |doi = 10.1002/gdj3.140 |doi-access = free  |bibcode = 2023GSDJ...10..142H |arxiv = 2112.09432  }}</ref>
+|-
+| Jul 1959
+| Geomagnetic storm of July 1959
+| <ref name="Stanislawska"/><ref name="Hayakawa24">{{cite journal  |last = Hayakawa  |first = Hisashi  |author2 = Y. Ebihara  |author3 = A. Pevtsov  |title = Analyses of Equatorward Auroral Extensions during the Extreme Geomagnetic Storm on 15 July 1959   |journal = Monthly Notices of the Royal Astronomical Society  |volume = 527 |pages = 7298–7305 |date = 2024  |issue = 3 |doi = 10.1093/mnras/stad3556 |doi-access = free  }}</ref>
+
+|-
+| May 1967
+| 
+| Blackout of polar surveillance radars during [[Cold War]] led U.S. military to scramble for nuclear war until solar origin confirmed<ref>{{cite journal  |last = Knipp  |first = Delores J.  |author2= A. C. Ramsay  |author3= E. D. Beard  |author4=A. L. Boright  |author5=W. B. Cade  |author6=I. M. Hewins  |author7=R. McFadden  |author8=W. F. Denig  |author9=L. M. Kilcommons  |author10=M. A. Shea  |author-link10=Margaret Shea (scientist)|author11=D. F. Smart  |title = The May 1967 Great Storm and Radio Disruption Event: Extreme Space Weather and Extraordinary Responses  |journal = Space Weather  |volume = 14  |issue = 9  |pages = 614–633  |date = 2016  |doi = 10.1002/2016SW001423  |bibcode = 2016SpWea..14..614K |doi-access= free  }}</ref>
+
+|-
+| Oct 1968
+| 
+| <ref>{{cite journal |title=Photometric and interferometric observations of a mid-latitude stable auroral red arc | doi= 10.1016/0032-0633(70)90181-9 |journal= Planetary and Space Science |author1= R.G. Roble |author2= P.B. Hays |author3= A.F. Nagy |volume= 18  |issue= 3 |year= 1970  |pages = 431–439| bibcode= 1970P&SS...18..431R | hdl= 2027.42/32793 |hdl-access= free }}</ref><ref>{{cite web|url=https://spaceweather.com/archive.php?view=1&day=06&month=11&year=2021|title=Back in the days when auroras were black and white |website=SpaceWeather.com |last= Phillips |first= Tony |date=6 November 2021}}</ref>
+|-
+| Aug 1972
+| [[August 1972 solar storms]]
+| Fastest CME transit time recorded; most extreme [[solar particle event]] (SPE) by some measures and the most hazardous to human spaceflight during the [[Space Age]]; severe technological disruptions, caused accidental detonation of numerous magnetic-influence [[sea mines]]<ref>{{cite journal  |last = Knipp  |first = Delores J.  |author2 = B. J. Fraser  |author3 = M. A. Shea  |author-link3=Margaret Shea (scientist)|author4 = D. F. Smart  |title = On the Little-Known Consequences of the 4 August 1972 Ultra-Fast Coronal Mass Ejecta: Facts, Commentary and Call to Action  |journal = Space Weather  |volume = 16  |issue = 11  |pages = 1635–1643  |date = 2018  |doi = 10.1029/2018SW002024 |bibcode = 2018SpWea..16.1635K |doi-access = free  }}</ref>
+|-
+| Mar 1989
+| [[March 1989 geomagnetic storm]]
+| Most extreme storm of the Space Age by several measures. Outed power grid of province of [[Quebec]].<ref>{{cite journal  |author1=L. Bolduc|title = GIC observations and studies in the Hydro-Quebec} power system |journal =Journal of Atmospheric and Solar-Terrestrial Physics |volume = 64 | issue = 16 |year = 2002 |pages = 1793–1802|doi = 10.1016/S1364-6826(02)00128-1|bibcode = 2002JASTP..64.1793B }}</ref> Caused interference to United States power grid.<ref>{{cite journal  |author1=Jeffrey J. Love|author2=Greg M. Lucas|author3=E. Joshua Rigler|author4=Benjamin S. Murphy|author5=Anna Kelbert|author6=Paul A. Bedrosian |title = Mapping a Magnetic Superstorm: March 1989 Geoelectric Hazards and Impacts on United States Power Systems |journal =Space Weather |volume = 20 | issue = 5 |year = 2022 |article-number=e2021SW003030 |doi = 10.1029/2021SW003030 |bibcode=2022SpWea..2003030L |doi-access = free}}</ref> 2024 study estimated Dst<sub>m</sub> of −750 nT.<ref name="Geo 2024">{{Citation |title=Interplanetary Causes and Impacts of the 2024 May Superstorm on the Geosphere|date=2024-08-27 |arxiv=2408.14799}}</ref>
+
+|-
+| Aug 1989
+| 
+| <ref>{{cite news  |last = Deffree  |first = Suzanne  |title = Solar flare impacts microchips, August 16, 1989  |newspaper = EDN  |date = 16 Aug 2013  |url = https://www.edn.com/solar-flare-impacts-microchips-august-16-1989/ }}</ref>
+|-
+| Nov 1991
+| Geomagnetic storm of November 1991
+| An intense solar storm with about half the energy output of the March 1989 storm. Aurorae were visible in the US as far south as Texas<ref>[https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/95JA01299 The polar onset and development of the November 8 and 9, 1991, global red aurora]</ref><ref>{{cite news  |last = Coleman  |first = Brenda  |title = Northern Lights Brighten U.S. Skies  |newspaper = AP News  |date = 9 Nov 1991  |url = https://apnews.com/article/255039b229f1384f62e6d5cf0eb927dd }}</ref>
+|-
+| Apr 2000
+| 
+| <ref name="Apr 2000-01">{{cite journal  |last = Katamzi-Joseph  |first = Zama Thobeka  |author2 = J. B. Habarulema  |author3 = M. Hernández-Pajares  |title = Midlatitude postsunset plasma bubbles observed over Europe during intense storms in April 2000 and 2001  |journal = Space Weather  |volume = 15  |issue = 9  |pages = 1177–90  |date = 2017  |doi = 10.1002/2017SW001674  |bibcode = 2017SpWea..15.1177K |hdl = 2117/115052 |s2cid = 55605118 |hdl-access = free  }}</ref>
+|-
+| Jul 2000
+| [[Bastille Day solar storm]]
+| Caused by an [[X-class solar flare|X8-class solar flare]] aimed directly at Earth
+|-
+| Apr 2001
+| 
+| A solar flare from a sunspot region associated with this activity and preceding this period produced the then largest flare detected during the Space Age at about X20 (the first event to saturate spaceborne monitoring instruments, this was exceeded in 2003) but was directed away from Earth.<ref name="Apr 2000-01"/><ref name="2Apr01">{{cite web  | url = https://sohowww.nascom.nasa.gov/hotshots/X17/  | title =  Biggest Solar X-Ray Flare on Record - X20  | last =  | first =  | date = 2001  | website = SOHO Solar and Heliospheric Observatory  | publisher = NASA/ESA  | access-date = 2022-01-31  }}</ref>
+|-
+| Nov 2001
+| Geomagnetic storm of November 2001 
+| A fast-moving CME triggered vivid aurorae as far south as Texas, California, and Florida<ref>=[https://www.spaceweather.com/aurora/gallery_06nov01.html Nov. 5 - 6, 2001 Aurora Gallery]</ref>
+|-
+| Oct 2003
+| [[2003 Halloween solar storms]]
+| Among top few most intense storms of the Space Age; aurora visible as far south as Texas and the Mediterranean countries of Europe. A solar flare with x-ray flux estimated to be around X45 occurred from an associated active region on 4 November but was directed away from Earth.<ref>{{cite journal  |last = Thomson  |first = Neil R.  |author2 = C. J. Rodger  |author3 = R. L. Dowden  |title = Ionosphere gives size of greatest solar flare  |journal = Geophysical Research Letters  |volume = 31  |issue = 6  |date = 2004  |article-number = 2003GL019345 |pages = n/a |doi = 10.1029/2003GL019345  |bibcode = 2004GeoRL..31.6803T |doi-access = free  }}</ref><ref>{{cite journal  |last = Thomson  |first = Neil R.  |author2 = C. J. Rodger  |author3 = M. A. Clilverd  |title = Large solar flares and their ionospheric D region enhancements  |journal = Journal of Geophysical Research: Space Physics  |volume = 110  |issue = A6  |pages = A06306  |date = 2005  |doi = 10.1029/2005JA011008  |bibcode = 2005JGRA..110.6306T |doi-access = free  }}</ref><ref>{{cite journal  |last = Brodrick  |first = David  |author2 = S. Tingay  |author3 = M. Wieringa  |title = X-ray magnitude of the 4 November 2003 solar flare inferred from the ionospheric attenuation of the galactic radio background  |journal = Journal of Geophysical Research: Space Physics  |volume = 110  |issue = A9  |pages = A09S36 |date = 2005  |doi = 10.1029/2004JA010960  |bibcode = 2005JGRA..110.9S36B |doi-access = free  }}</ref><!-- https://iopscience.iop.org/1538-4357/603/2/L121 --><ref>{{cite book  |last = Weaver  |first = Michael  |author2 = W. Murtagh  |display-authors = et al  |title = Halloween Space Weather Storms of 2003  |publisher = Space Environment Center  |series = NOAA Technical Memorandum  |volume = OAR SEC-88  |date = 2004  |location = Boulder, CO  |url = http://www.swpc.noaa.gov/Services/HalloweenStorms_assessment.pdf  |oclc = 68692085  |archive-url = https://web.archive.org/web/20110728172705/http://www.swpc.noaa.gov/Services/HalloweenStorms_assessment.pdf  |archive-date = 2011-07-28  }}</ref><ref>{{cite book  |last = Balch  |first = Christopher  |display-authors = et al  |title = Service Assessment: Intense Space Weather Storms October 19 – November 07, 2003  |publisher = Department of Commerce  |series = NOAA Technical Memorandum  |date = 2004  |location = Silver Spring, MD  |url = https://www.weather.gov/media/publications/assessments/SWstorms_assessment.pdf}}</ref>
+|-
+| Nov 2003
+| Solar storms of November 2003
+| 2021 study estimated Dst<sub>m</sub> of −533 nT.<ref name="Love 2021"/><ref name="Stanislawska"/> 2024 study estimated Dst of −490 nT<ref name="Geo 2024"/>
+|-
+| Jan 2005
+| 
+| The most intense solar flare in 15 years with [[Coronal mass ejection|sunspot 720 erupting]], 5 times from January 15 to 20.<ref>{{cite journal  |last = Mitthumsiri  |first = W.  |author2 = A. Seripienlert  |author3 = U. Tortermpun  |author4 = P.-S. Mangeard  |author5 = A. Sáiz  |author6 = D. Ruffolo  |author7 = R. Macatanga  |title = Modeling polar region atmospheric ionization induced by the giant solar storm on 20 January 2005  |journal = J. Geophys. Res. Space Phys.  |volume = 122  |issue =  8  |page =7946  |date = 2017  |doi = 10.1002/2017JA024125  |bibcode = 2017JGRA..122.7946M |s2cid = 134815719 }}</ref><ref>{{cite journal  |last = Bieber  |first = J. W.  |author2 = J. Clem  |author3 = P. Evenson  |author4 = R. Pyle  |author5 = A. Sáiz  |author6 = D. Ruffolo  |title = Giant Ground Level Enhancement of Relativistic Solar Protons on 2005 January 20. I. Spaceship Earth Observations  |journal = Astrophysical Journal  |volume = 771  |issue = 92  |page = 92  |date = 2013  |doi = 10.1088/0004-637X/771/2/92  |bibcode = 2013ApJ...771...92B |doi-access = free  }}</ref>
+|-
+| Mar 2015
+| St. Patrick's Day storm
+| Largest geomagnetic storm of [[solar cycle 24]], driven by [[interplanetary magnetic field]] (IMF) variations<ref>{{cite journal |title=No Major Solar Flares but the Largest Geomagnetic Storm in the Present Solar Cycle |journal=Space Weather |doi=10.1002/2015SW001213 |doi-access=free |year=2015 |volume=13 |issue=6 |pages=365–367 |author1=Y. Kamide |author2=K. Kusano |bibcode=2015SpWea..13..365K }}</ref><ref>{{cite journal |title=Ionospheric response to the 2015 St. Patrick's Day storm: A global multi-instrumental overview |journal=Journal of Geophysical Research: Space Physics |doi=10.1002/2015JA021629 |doi-access=free |year=2015 |volume=120 |issue=10 |pages=9023–9037 |author1=Elvira Astafyeva |author2=Irina Zakharenkova |author3=Matthias Förster |bibcode=2015JGRA..120.9023A }}</ref><ref>{{cite journal |title=Effects of St. Patrick's Day Geomagnetic Storm of March 2015 and of June 2015 on Low-Equatorial D Region Ionosphere |journal=Journal of Geophysical Research: Space Physics |doi=10.1029/2018JA025536 |doi-access=free |year=2018 |volume=123 |issue=8 |pages=6836–6850 |author1=Ajeet K. Maurya |author2= K. Venkatesham |author3= Sushil Kumar |author4= Rajesh Singh |author5= Prabhakar Tiwari |author6= Abhay K. Singh |bibcode=2018JGRA..123.6836M }}</ref><ref>{{cite journal |title=Ionospheric response of St. Patrick's Day geomagnetic storm over Indian low latitude regions |journal=Astrophysics and Space Science |doi=10.1007/s10509-022-04137-3 |year=2022 |volume=367 |number=103 |author1= Sunil Kumar Chaurasiya |author2= Kalpana Patel |author3= Sanjay Kumar |author4= Abhay Kumar Singh |page=103 |bibcode=2022Ap&SS.367..103C |s2cid=252696753 |display-authors=etal |url=https://link.springer.com/article/10.1007/s10509-022-04137-3|url-access=subscription }}</ref>
+|-
+| Sep 2017
+|
+| Triggered by an X13 class solar flare<ref>{{cite journal|journal=The Astrophysical Journal|year=2021|volume=921|author1=Bei Zhu |author2=Ying D. Liu |author3=Ryun-Young Kwon |author4=Meng Jin |author5=L. C. Lee |author6=Xiaojun Xu | doi=10.3847/1538-4357/ac106b|title=Shock Properties and Associated Characteristics of Solar Energetic Particles in the 2017 September 10 Ground-level Enhancement Event|issue=1|page=26|bibcode=2021ApJ...921...26Z|s2cid=240068552|doi-access=free}}</ref><ref>{{cite journal|journal= The Astrophysical Journal Letters| arxiv=2110.14130|title=White-light Continuum Observation of the Off-limb Loops of the SOL2017-09-10 X8.2 Flare: Temporal and Spatial Variations|author1=Junwei Zhao| author2=Wei Liu| author3=Jean-Claude Vial| year=2021| volume=921| issue=2| pages=L26| doi=10.3847/2041-8213/ac3339| bibcode=2021ApJ...921L..26Z| s2cid=239998107| doi-access=free}}</ref><ref>{{cite journal |title=Spatial-Temporal Behaviors of Large-Scale Ionospheric Perturbations During Severe Geomagnetic Storms on September 7–8 2017 Using the GNSS, SWARM and TIE-GCM Techniques |journal=Journal of Geophysical Research: Space Physics |volume=127|issue=3|year=2022|doi=10.1029/2021JA029830|author1=Wang Li |author2=Dongsheng Zhao |author3=Changyong He |author4=Craig M. Hancock |author5=Yi Shen |author6=Kefei Zhang|article-number=e2021JA029830 |bibcode=2022JGRA..12729830L |s2cid=247378044 |url=https://figshare.com/articles/journal_contribution/21648116 }}</ref><ref>{{cite journal |title=Characteristics of Low-Latitude Ionosphere Activity and Deterioration of TEC Model during the 7–9 September 2017 Magnetic Storm |journal=Atmosphere |volume=13 |issue=9 |year=2022 |doi-access=free |doi=10.3390/atmos13091365 |author1=Jianfeng Li |author2=Yongqian Wang |author3=Shiqi Yang |author4=Fang Wang |page=1365 |bibcode=2022Atmos..13.1365L }}</ref>
+|-
+| Feb 2022
+| SpaceX Starlink satellites failure
+| A mild solar particle and geomagnetic storm of otherwise little consequence<ref>{{cite web  | url = https://spaceweatherarchive.com/2022/02/09/the-starlink-incident/  | title = The Starlink Incident  | last = Phillips  | first = Tony  | date = 9 February 2022  | website = SpaceWeather.com  | access-date = 2022-02-09  }}</ref> led to the premature reentry and destruction of 40 [[SpaceX]] [[Starlink]] satellites launched February 3, 2022 due to increased atmospheric drag.<ref>{{cite news  | last = Wattles  | first = Jackie  | title = SpaceX will lose up to 40 satellites it just launched due to a solar storm  | newspaper = CNN  | date = 9 February 2022  | url = https://edition.cnn.com/2022/02/09/tech/spacex-starlink-solar-storm-satellites-scn/ }}</ref>
+|-
+| 30 April – 12 May 2024
+| [[May 2024 solar storms]]
+| X1.2(X1.3)-class flares<ref>[https://noworries.news/naukovczi-zafiksuvaly-7-potuzhnyh-spalahiv-na-sonczi-protyagom-doby-yaki-sprovokuvaly-pereboyi-zvyazku-na-zemli/# Scientists recorded 7 powerful flares on the Sun during the day, which provoked communication interruptions on Earth. 06.05.2024, 5:44 pm]</ref> and X4.5-class flare.<ref>[https://root-nation.com/ua/news-ua/it-news-ua/ua-sun-released-three-x-class-flares/ Three X-class flares occurred on the Sun: Svetlana Anisimova. 09.05.2024]</ref> The flares with a magnitude of 6–7 occurred between 30 April and 4 May 2024. On 5 May the strength of the solar storm reached 5 points, which is considered strong according to the K-index. The rapidly growing sunspot AR3663 became the most active spot of the solar cycle 25. On 5 May alone, it emitted two [[X-class flare|X-class]] (strongest) flares and six M-class (medium) flares. Each of these flares resulted in a short-term but profound disconnection of the Earth's radio signal, resulting in signal loss at frequencies below 30&nbsp;mega[[hertz]] (MHz).<ref>Two powerful flares recorded on the Sun: when will Earth feel the effects?</ref>
+
+An extreme (G5) geomagnetic storm alert was issued by the [[National Oceanic and Atmospheric Administration]] (NOAA) – the first in almost 20 years.<ref>{{Cite web |title=Spaceweather.com Time Machine |url=https://www.spaceweather.com/archive.php?view=1&day=10&month=05&year=2024 |access-date=2024-05-31 |website=www.spaceweather.com}}</ref><ref>{{Cite web |title=Geomagnetic storm on Earth reaches extreme levels first time since 2005 |url=https://news.az/news/geomagnetic-storm-on-earth-reaches-extreme-levels-first-time-since-2005- |access-date=2024-05-31 |website=news.az |language=en}}</ref> The final storms reaching the highest level of NOAA's G-scale before [[solar cycle 25]] occurred in 2005 in May,<ref>{{Cite web |title=NOAA Issues Space Weather Warning |url=https://www.sciencedaily.com/releases/2005/05/050516061210.htm |access-date=2024-05-31 |website=ScienceDaily |language=en}}</ref><ref>{{Cite web |title=Spaceweather.com Time Machine |url=https://www.spaceweather.com/archive.php?view=1&day=15&month=05&year=2005 |access-date=2024-05-31 |website=www.spaceweather.com}}</ref><ref>{{Cite web |title=NOAA Planetary Kp Index Archive (May 14-17, 2005) |url=https://www.spaceweatherlive.com/images/Archief/2005/plots/kp/20050516_kp.gif}}</ref> August,<ref>{{Cite web |title=NOAA Planetary Kp Index Archive (August 23-26, 2005) |url=https://www.spaceweatherlive.com/images/Archief/2005/plots/kp/20050825_kp.gif}}</ref> and September, respectively.
+
+With a NOAA rating of G5, an estimated peak Dst of −412 nT, and aurorae seen at far lower latitudes than usual in both [[Hemispheres of Earth|hemispheres]], this geomagnetic storm was the most powerful to affect Earth since November 2003. A later study estimates a Dst peak of −518 nT, meaning the strongest storm since 1989 and the second strongest since 1921.<ref name="Geo 2024"/>
+|-
+|Oct 2024
+|October 2024 solar storm
+|Triggered by an X1.8 solar flare that produced a relatively fast CME.<ref>{{Cite web |date=9 October 2024 |title=R3 (Strong) HF Radio Blackout Event |url=https://www.swpc.noaa.gov/news/r3-strong-hf-radio-blackout-event |access-date=12 October 2024 |website=[[Space Weather Prediction Center]] |publisher=[[National Oceanic and Atmospheric Administration]]}}</ref><ref>{{Cite web |date=9 October 2024 |title=G4 (Severe) Storm Watch for 10–11 October |url=https://www.swpc.noaa.gov/news/g4-severe-storm-watch-10-11-october |access-date=12 October 2024 |website=[[Space Weather Prediction Center]] |publisher=[[National Oceanic and Atmospheric Administration]]}}</ref> The storm reached a peak Dst of −341 nT.<ref>{{Cite web |title=Real-time Dst Index |url=https://wdc.kugi.kyoto-u.ac.jp/dst_realtime/202410/index.html |access-date=12 October 2024 |website=World Data Center for Geomagnetism, Kyoto}}</ref><ref name = "Oliveira2025">{{cite journal
+ |last1=Oliveira
+ |first1=Denny M.
+ |last2=Zesta
+ |first2=Eftyhia
+ |last3=Nandy
+ |first3=Dibyendu
+ |title=The 10 October 2024 geomagnetic storm may have caused the premature reentry of a Starlink satellite
+ |journal=Frontiers in Astronomy and Space Sciences
+ |year=2025
+ |volume=11
+ |article-number=1522139
+ |doi=10.3389/fspas.2024.1522139
+ |doi-access=free}}</ref> A Starlink satellite re-entry occurred prematurely due to increased atmosphere drag.<ref name = "Oliveira2025"></ref>Auroras seen as far south as Cuba.<ref>{{Cite web |title=Spaceweather.com Time Machine |url=https://spaceweather.com/archive.php?view=1&day=12&month=10&year=2024 |access-date=2025-10-21 |website=www.spaceweather.com}}</ref>
+|-
+|Nov 2025
+|November 2025 solar storm
+|Auroras seen as far south as Central Mexico.<ref>{{Cite web |title=Spaceweather.com Time Machine |url=https://spaceweather.com/archive.php?view=1&day=12&month=11&year=2025 |access-date=2025-11-12 |website=www.spaceweather.com}}</ref>
+|-
+|Jan 2026
+|January 2026 solar storm
+|Triggered by an X1.9 solar flare that produced an unusually fast CME. An S4 (i.e., severe) solar radiation storm occurred, the strongest since October 1989. Auroras seen as far south as Spain and Arizona. Somewhat similar to the August 1972 storm.<ref>{{cite news |last1=Strickland |first1=Ashley |title=Sun releases the largest solar radiation storm 'in over 20 years,' forecasters say |url=https://www.cnn.com/2026/01/19/science/largest-solar-radiation-storm-auroras |access-date=20 January 2026 |work=CNN |date=19 January 2026}}</ref><ref>{{Cite web |title=Spaceweather.com Time Machine |url=https://spaceweather.com/archive.php?view=1&day=19&month=01&year=2026 |access-date=2026-01-20 |website=www.spaceweather.com}}</ref><ref>{{Cite web |title=Top Solar Radiation Storms |url=https://www.spaceweatherlive.com/en/solar-activity/top-solar-radiation-storms.html}}</ref>
+|}
+
+===Events not affecting Earth===
+The above events affected [[Earth]] (and its vicinity, known as the [[magnetosphere]]), whereas the following events were directed elsewhere in the [[Solar System]] and were detected by monitoring spacecraft or other means.
+{| class="wikitable"
+|-
+! Date(s)
+! Event
+! Significance
+|-
+| 23 July 2012
+| [[July 2012 solar storm]]
+| Ultrafast CME directed away from Earth with characteristics that may have made it a Carrington-class storm<ref>{{cite journal  |last = Baker  |first = D. N.  |author2 = X. Li  |author3 = A. Pulkkinen |author4=C. M. Ngwira  |author5 = M. L. Mays  |author6 = A. B. Galvin  |author7 = K. D. C. Simunac  |title = A major solar eruptive event in July 2012: Defining extreme space weather scenarios  |journal = Space Weather  |volume = 11  |issue = 10  |pages = 585–91  |date = 2013  |doi = 10.1002/swe.20097  |bibcode = 2013SpWea..11..585B |s2cid = 55599024 |doi-access = free  }}</ref><ref>{{cite journal  |last = Ngwira  |first = Chigomezyo M. |author2=A. Pulkkinen  |author3 = M. Leila Mays  |author4 = M. M. Kuznetsova  |author5 = A. B. Galvin  |author6 = K. Simunac  |author7 = D. N. Baker  |author8 = X. Li  |author9 = Y. Zheng  |author10 = A. Glocer  |title = Simulation of the 23 July 2012 extreme space weather event: What if this extremely rare CME was Earth directed?  |journal = Space Weather  |volume = 11  |issue = 12  |pages = 671–9  |date = 2013  |doi = 10.1002/2013SW000990  |bibcode = 2013SpWea..11..671N |hdl = 2060/20150010106 |s2cid = 4708607 |hdl-access = free  }}</ref><ref>{{cite journal  |author = Ying D. Liu  |author2 = J. G. Luhmann  |author3 = P. Kajdič  |author4 = E. K.J. Kilpua  |author5 = N. Lugaz  |author6 = N. V. Nitta  |author7 = C. Möstl  |author8 = B. Lavraud  |author9 = S. D. Bale  |author10 = C. J. Farrugia  |author11 = A. B. Galvin  |title = Observations of an extreme storm in interplanetary space caused by successive coronal mass ejections  |journal = Nature Communications  |volume = 5  |issue = 3481  |page = 3481  |date = 2014  |doi = 10.1038/ncomms4481  |arxiv = 1405.6088  |bibcode = 2014NatCo...5.3481L  |pmid=24642508 |s2cid = 11999567 }}</ref><ref>{{cite web  |last = Phillips  |first = Tony  |title = Carrington-class CME Narrowly Misses Earth  |work = NASA Science News  |publisher = National Aeronautics and Space Administration  |date = 2 May 2014  |url = https://science.nasa.gov/science-news/science-at-nasa/2014/02may_superstorm/  |access-date = 2014-05-07 }}</ref><ref name="NASA-20140723a">{{cite news  |last=Phillips  |first=Dr. Tony  |title=Near Miss: The Solar Superstorm of July 2012  |url = https://science.nasa.gov/science-news/science-at-nasa/2014/23jul_superstorm/  |date = 23 July 2014  |work=NASA  |access-date = 26 July 2014 }}</ref><!-- http://www.swpc.noaa.gov/sww/SWW_2014_Presentations/Tuesday_Morning/Baker_July2012_SWW.pptx -->
+|-
+| 1 Sep 2014
+| 
+| Caused a fast CME and a proton event.<ref>{{cite web |title=Spaceweather.com Time Machine |url=https://spaceweather.com/archive.php?view=1&day=02&month=09&year=2014 |website=Spaceweather.com |access-date=22 October 2025}}</ref>
+|-
+| 23 July 2017
+| 
+| 5 years after the 2012 CME.<ref>{{cite web |title=Spaceweather.com Time Machine |url=https://spaceweather.com/archive.php?view=1&day=23&month=07&year=2017 |website=Spaceweather.com |access-date=22 October 2025}}</ref>
+|-
+| 15 Feb 2022
+| 
+| <ref>{{cite web |title=Spaceweather.com Time Machine |url=https://spaceweather.com/archive.php?view=1&day=16&month=02&year=2022 |website=Spaceweather.com |access-date=22 October 2025}}</ref>
+|-
+| 21 Oct 2025
+| 
+| <ref>{{cite web |title=Spaceweather.com Time Machine |url=https://spaceweather.com/archive.php?view=1&day=22&month=10&year=2025 |website=Spaceweather.com |access-date=22 October 2025}}</ref>
+|}
+
+==Soft X-ray solar flares==
+{{Further|Solar flare#Classification}}
+Solar flares are intense localized eruptions of electromagnetic radiation in the Sun's atmosphere. They are often classified based on the peak flux of [[soft X-ray]]s (SXR) measured by the [[Geostationary Operational Environmental Satellite|GOES]] spacecraft in [[geosynchronous orbit]] (see {{section link|Solar flare|Soft X-ray}}).
+
+The following table lists the largest flares in this respect since June 1996, the beginning of [[solar cycle 23]].<ref>{{cite web |title=Top 50 solar flares |url=https://www.spaceweatherlive.com/en/solar-activity/top-50-solar-flares.html |website=SpaceWeatherLive.com |access-date=23 May 2022}}</ref><ref>{{cite web |title=The Most Powerful Solar Flares ever Recorded |url=https://www.spaceweather.com/solarflares/topflares.html |website=www.spaceweather.com |access-date=23 May 2022}}</ref>
+{| class="wikitable sortable plainrowheaders"
+|-
+! scope="col" rowspan="2" width="20" | {{Abbr|No.|Number}}
+! scope="col" rowspan="2" width="30" | [[Solar flare#Soft X-ray classification|SXR Class]]
+! scope="col" rowspan="2" width="80" | Date
+! scope="col" rowspan="2" width="30" | [[Solar cycle]]
+! scope="col" rowspan="2" width="50"| [[Active region]]
+
+! scope="col" colspan="3" | Time ([[UTC]])
+! scope="col" class="unsortable" rowspan="2" | Notes
+|-
+! scope="col" | Start
+! scope="col" | Max
+! scope="col" | End
+|-
+! scope="row" align="center" | 1
+| >X28+
+| 2003-11-04
+| 23
+| 10486
+| 19:29
+| 19:53
+| 20:06
+| Associated with the [[2003 Halloween solar storms]]
+|-
+! scope="row" align="center" | 2
+| X20
+| 2001-04-02
+| 23
+| 9393
+| 21:32
+| 21:51
+| 22:03
+| 
+|-
+! scope="row" align="center" | 3
+| X17.2
+| 2003-10-28
+| 23
+| 10486
+| 09:51
+| 11:10
+| 11:24
+| Associated with the 2003 Halloween solar storms
+|-
+! scope="row" align="center" | 4
+| X17
+| 2005-09-07
+| 23
+| 10808
+| 17:17
+| 17:40
+| 18:03
+| 
+|-
+! scope="row" align="center" | 5
+| X14.4
+| 2001-04-15
+| 23
+| 9415
+| 13:19
+| 13:50
+| 13:55
+| 
+|-
+! scope="row" align="center" | 6
+| X10
+| 2003-10-29
+| 23
+| 10486
+| 20:37
+| 20:49
+| 21:01
+| Associated with the 2003 Halloween solar storms
+|-
+! scope="row" align="center" | 7
+| X9.4
+| 1997-11-06
+| 23
+| 8100
+| 11:49
+| 11:55
+| 12:01
+| 
+|-
+! scope="row" align="center" | 8
+| X9.3
+| 2017-09-06
+| 24
+| 12673
+| 11:53
+| 12:02
+| 12:10
+| 
+|-
+! scope="row" align="center" | 9
+| X9.0
+| 2006-12-05
+| 23
+| 10930
+| 10:18
+| 10:35
+| 10:45
+| 
+|-
+! scope="row" align="center" | 10
+| X8.3
+| 2003-11-02
+| 23
+| 10486
+| 17:03
+| 17:25
+| 17:39
+| Associated with the 2003 Halloween solar storms
+|-
+|}
+
+==See also==
+{{cmn|colwidth=30em|
+* [[Earth's magnetic field]]
+* [[Gamma-ray burst]] and [[hypernova]]
+* [[Health threat from cosmic rays]]
+* [[Heliosphere]]
+* [[Solar cycle]]
+* [[Space physics]]
+* [[Space Weather Prediction Center]] (SWPC)
+}}
+
+==References==
+{{reflist|2}}
+
+==Further reading==
+* {{cite journal  |last = Cliver  |first = E.W.  |author2 = L. Svalgaard  |title = The 1859 Solar–Terrestrial Disturbance and the Current Limits of Extreme Space Weather Activity  |journal = Solar Physics  |volume = 224  |issue = 1–2  |pages = 407–22  |date = 2004  |url = http://www.leif.org/research/1859%20Storm%20-%20Extreme%20Space%20Weather.pdf  |doi = 10.1007/s11207-005-4980-z  |bibcode = 2004SoPh..224..407C  |s2cid = 120093108 |access-date = 2014-05-07  |archive-url = https://web.archive.org/web/20110811182410/http://www.leif.org/research/1859%20Storm%20-%20Extreme%20Space%20Weather.pdf  |archive-date = 2011-08-11  }}
+
+==External links==
+* [https://www.spaceweather.com/solarflares/topflares.html The Most Powerful Solar Flares Ever Recorded] (NASA's SpaceWeather.com)
+* [https://umbra.nascom.nasa.gov/SEP/ Solar Proton Events Affecting the Earth Environment (1976 - present)] (SWPC)<!-- https://www.swpc.noaa.gov/ftpdir/indices/SPE.txt -->
+* [http://www.solarstorms.org/SRefStorms.html Archive of the most severe solar storms] (Solarstorms.org)
+* [https://web.archive.org/web/20011010173025/http://sxi.ngdc.noaa.gov/sxi_greatest.html GOES X-ray Solar Imager Greatest Hits]
+* {{cite journal  |last = Riley  |first = Pete  |author2 = J. J. Love  |title = Extreme geomagnetic storms: Probabilistic forecasts and their uncertainties  |journal = Space Weather  |volume = 15  |issue = 1  |pages = 53–64  |date = 2017  |doi = 10.1002/2016SW001470  |bibcode = 2017SpWea..15...53R |s2cid = 125660629 }}
+* {{cite journal  |last = Riley  |first = Pete  |title = On the probability of occurrence of extreme space weather events  |journal = Space Weather  |volume = 10  |issue = 2  |pages = S02012  |date = 2012  |article-number = 2011SW000734 |doi = 10.1029/2011SW000734  |bibcode = 2012SpWea..10.2012R |s2cid = 17729668 |doi-access = free  }}
+* {{cite journal  | last = Love  | first = Jeffrey J.  | title = Extreme-event magnetic storm probabilities derived from rank statistics of historical Dst intensities for solar cycles 14-24  | journal = Space Weather  | volume = 19| issue = 4| date = 2021  | article-number = e2020SW002579 | doi = 10.1029/2020SW002579 | bibcode = 2021SpWea..1902579L | doi-access = free  }}
+
+<!-- * [https://doi.org/10.1016/0083-6656(55)90081-7 The lineage of the great sunspots] -->
+{{Solar storms}}
+{{Portal bar|Astronomy|Stars|Spaceflight|Outer space|Solar System}}
+
+{{DEFAULTSORT:Solar storms}}
+[[Category:Lists of astronomical events|Solar storm]]
+[[Category:Lists of natural disasters]]
+[[Category:Solar phenomena]]
+[[Category:Solar System-related lists]]
+[[Category:Geomagnetic storms]]

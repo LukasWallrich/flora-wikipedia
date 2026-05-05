@@ -1,0 +1,195 @@
+{{Short description|2011 book by Daniel Kahneman}}
+{{Use mdy dates|date=March 2019}}
+{{Infobox book  <!-- See Wikipedia:WikiProject_Novels or Wikipedia:WikiProject_Books -->
+| name           = Thinking, Fast and Slow
+| image          = Thinking, Fast and Slow.jpg
+| caption        = Hardcover edition
+| border         = yes
+| author         = [[Daniel Kahneman]]
+| cover_artist   = 
+| country        = United States
+| language       = [[English language]]
+| series         = 
+| subject        = [[Psychology]]
+| genre          = [[Non-fiction]]
+| publisher      = [[Farrar, Straus and Giroux]]
+| release_date   = 2011
+| media_type     = Print ([[hardcover]], [[paperback]]), audio
+| pages          = 498 pages
+| isbn           = 978-0374275631
+| oclc           = 706020998
+| preceded_by    =
+| followed_by    =
+}}
+
+'''''Thinking, Fast and Slow''''' is a 2011 popular science book by the Israeli-American psychologist [[Daniel Kahneman]]. Its main thesis is a differentiation between two modes of [[thought]]: "System 1" is fast, [[instinct]]ive and [[emotion]]al; "System 2" is slower, more [[deliberation|deliberative]], and more [[logic]]al. 
+
+The book delineates rational and non-rational motivations or triggers associated with each type of thinking process, and how they complement each other, starting with Kahneman's own research on [[loss aversion]]. From [[Framing effect (psychology)|framing choices]] to people's tendency to replace a difficult question with one that is easy to answer, the book summarizes several decades of research to suggest that people have too much confidence in human judgement.<ref>{{Cite news|last=Shaw|first=Tamsin|date=2017-04-20|title=Invisible Manipulators of Your Mind|journal=New York Review of Books|language=en|url=https://www.nybooks.com/articles/2017/04/20/kahneman-tversky-invisible-mind-manipulators/|access-date=2020-08-10|issn=0028-7504}}</ref> Kahneman performed his own research, often in collaboration with the psychologist [[Amos Tversky]], which enriched his experience to write the book.<ref name="Holt">{{cite news|last=Holt|first=Jim|title=Two Brains Running|work=The New York Times|page=16|date=November 27, 2011|url=https://www.nytimes.com/2011/11/27/books/review/thinking-fast-and-slow-by-daniel-kahneman-book-review.html}}</ref><ref name="Kahneman2011">{{cite book|author=Daniel Kahneman|title=Thinking, Fast and Slow|url=https://books.google.com/books?id=ZuKTvERuPG8C|access-date=April 8, 2012|year=2011|publisher=Macmillan|isbn=978-1-4299-6935-2}}</ref> It covers different phases of his career: his early work concerning [[cognitive bias]]es, his work on [[prospect theory]] and [[happiness]], and with the [[Israel Defense Forces]].
+
+[[Jason Zweig]], a columnist at ''[[The Wall Street Journal]]'', helped write and research the book over two years.<ref>{{Cite web |date=2014-03-30 |title=What I Learned from Daniel Kahneman |url=https://jasonzweig.com/what-i-learned-from-daniel-kahneman/ |access-date=2025-05-21 |website=Jason Zweig |language=en-US}}</ref><ref>{{Cite web |title=Jason Zweig — Columnist at The Wall Street Journal |url=https://www.wsj.com/news/author/jason-zweig |access-date=2025-05-21 |website=WSJ |language=en-US}}</ref> The book was a [[The New York Times Best Seller list|''New York Times'' bestseller]]<ref name=NYTBSL>{{cite web|title=The New York Times Best Seller List – December 25, 2011 |url=https://www.hawes.com/2011/2011-12-25.pdf|website=www.hawes.com|access-date=August 17, 2014}}</ref> and was the 2012 winner of the American [[National Academies Communication Award]] for best creative work that helps the public understanding of topics in [[behavioral science]], engineering and medicine.<ref name=NAS/> The integrity of some [[Priming (psychology)|priming studies]] cited in the book has been called into question in the midst of the psychological [[replication crisis]].<ref>{{Cite web |last=Schimmack |first=Ulrich |date=2020-12-30 |title=A Meta-Scientific Perspective on "Thinking: Fast and Slow |url=https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/ |access-date=2023-02-11 |website=Replicability-Index |language=en-US}}</ref>
+
+== Two systems ==
+{{main|Dual process theory}}
+In the book's first section, Kahneman describes two different ways the brain forms thoughts:
+
+* '''System 1:''' Fast, automatic, frequent, emotional, stereotypic, unconscious.  Examples (in order of complexity) of things system 1 can do:
+** determine that an object is at a greater distance than another
+** localize the source of a specific sound
+** complete a common phrase (e.g. "war and ...")
+** display disgust when seeing a gruesome image
+** solve basic arithmetic (e.g. 2 + 2 = ?)
+** read text on a billboard
+** drive a car on an empty road
+** think of a good chess move (if one is a chess master)
+** understand simple sentences
+* '''System 2:''' Slow, effortful, infrequent, logical, calculating, conscious.  Examples of things system 2 can do:
+** prepare for the start of a sprint
+** direct attention towards certain people in a crowded environment
+** look for a person with a particular feature
+** try to recognize a sound
+** sustain a faster-than-normal walking rate
+** determine the appropriateness of a particular action in a social setting
+** count the number of A's or other letters in a given text
+** give one's own telephone number to someone else
+** park into a tight parking space
+** determine the price/quality ratio of two products
+** determine the validity of a complex logical reasoning
+** multiply two-digit numbers (e.g. 17 × 24)
+
+Kahneman describes a number of experiments which purport to examine the differences between these two thought systems and how they arrive at different results even given the same inputs. Terms and concepts include coherence, attention, laziness, association, jumping to conclusions, WYSIATI (What you see is all there is), and how one forms judgments. The System 1 vs. System 2 debate includes the reasoning or lack thereof for human decision making, with big implications for many areas including law and market research.<ref>{{Cite web|url=http://www.upfrontanalytics.com/market-research-system-1-vs-system-2-decision-making/|title=Web Page Under Construction|website=www.upfrontanalytics.com}}</ref>
+
+== Heuristics and biases ==
+{{main|Heuristics in judgment and decision-making|Cognitive bias}}
+The second section offers explanations for why humans struggle to think statistically. It begins by documenting a variety of situations in which we either arrive at binary decisions or fail to associate precisely reasonable probabilities with outcomes. Kahneman explains this phenomenon using the theory of [[heuristics in judgment and decision making|heuristics]]. Kahneman and Tversky originally discussed this topic in their 1974 article titled Judgment Under Uncertainty: Heuristics and Biases.<ref>{{cite journal|title=Judgment under Uncertainty: Heuristics and Biases|journal=Science|volume=185|issue=4157|pages=1124–31|url=http://psiexp.ss.uci.edu/research/teaching/Tversky_Kahneman_1974.pdf|url-status=bot: unknown|archive-url=https://web.archive.org/web/20120318172022/http://psiexp.ss.uci.edu/research/teaching/Tversky_Kahneman_1974.pdf|archive-date=March 18, 2012|bibcode=1974Sci...185.1124T|last1=Tversky|first1=Amos|last2=Kahneman|first2=Daniel|year=1974|doi=10.1126/science.185.4157.1124|pmid=17835457|s2cid=143452957}}</ref>
+
+Kahneman uses heuristics to assert that System 1 thinking involves associating new information with existing patterns, or thoughts, rather than creating new patterns for each new experience. For example, a child who has only seen shapes with straight edges might perceive an octagon when first viewing a circle. As a legal metaphor, a judge limited to heuristic thinking would only be able to think of similar historical cases when presented with a new dispute, rather than considering the unique aspects of that case. In addition to offering an explanation for the statistical problem, the theory also offers an explanation for human biases.
+
+=== Anchoring ===
+{{Main|Anchoring (cognitive bias)}}
+
+The "anchoring effect" names a tendency to be influenced by irrelevant numbers. Shown greater/lesser numbers, experimental subjects gave greater/lesser responses.<ref name="Holt" /> As an example, most people, when asked whether [[Mahatma Gandhi]] was more than 114 years old when he died, will provide a much greater estimate of his age at death than others who were asked whether Gandhi was more or less than 35 years old. Experiments show that people's behavior is influenced, much more than they are aware, by irrelevant information.
+
+=== Availability ===
+{{Main|Availability heuristic}}
+
+The availability heuristic is a mental shortcut that occurs when people make judgments about the probability of events on the basis of how easy it is to think of examples. The availability heuristic operates on the notion that, "if you can think of it, it must be important". The availability of consequences associated with an action is related positively to perceptions of the magnitude of the consequences of that action. In other words, the easier it is to recall the consequences of something, the greater we perceive these consequences to be. Sometimes, this heuristic is beneficial, but the frequencies at which events come to mind are usually not accurate representations of the probabilities of such events in real life.<ref>{{cite book |last1=Tversky |first1=Amos |title=Judgment under Uncertainty: Heuristics and Biases |last2=Kahneman |first2=Daniel |date=1982 |publisher=Cambridge University Press |isbn=9780521240642 |editor1-last=Kahneman |editor1-first=Daniel |location=Cambridge |chapter=11 – Availability: A heuristic for judging frequency and probability |editor2-last=Slovic |editor2-first=Paul |editor3-last=Tversky |editor3-first=Amos |chapter-url=https://people.umass.edu/biep540w/pdf/Tversky%20availability.pdf}}
+
+: This is an abbreviation version of {{cite journal |last1=Tversky |first1=Amos |last2=Kahneman |first2=Daniel |date=1973 |title=Availability: A heuristic for judging frequency and probability |journal=Cognitive Psychology |volume=5 |issue=2 |pages=207–232 |doi=10.1016/0010-0285(73)90033-9}}</ref><ref>{{cite journal |last1=Tversky |first1=Amos |last2=Kahneman |first2=Daniel |title=Judgment under Uncertainty: Heuristics and Biases: Biases in judgments reveal some heuristics of thinking under uncertainty |journal=Science |date=27 September 1974 |volume=185 |issue=4157 |pages=1124–1131 |doi=10.1126/science.185.4157.1124 |pmid=17835457 |bibcode=1974Sci...185.1124T }}</ref>
+
+=== Conjunction fallacy ===
+
+System 1 is prone to substituting a simpler question for a difficult one. In what Kahneman terms their "best-known and most controversial" experiment, "the [[Conjunction fallacy|Linda problem]]", subjects were told about an imaginary Linda, young, single, outspoken, and intelligent, who, as a student, was very concerned with discrimination and social justice. They asked whether it was more probable that Linda is a bank teller or that she is a bank teller and an active feminist. The overwhelming response was that "feminist bank teller" was more likely than "bank teller", violating the laws of [[probability]]. (All feminist bank tellers are bank tellers, so the former can't be more likely). In this case System 1 substituted the easier question, "Is Linda a feminist?", neglecting the occupation qualifier. An alternative interpretation is that the subjects added an unstated cultural [[implicature]] to the effect that the other answer implied an [[exclusive or]], that Linda was not a feminist.<ref name="Holt" />
+
+=== Optimism and loss aversion ===
+Kahneman writes of a "pervasive [[optimism bias|optimistic bias]]", which "may well be the most significant of the cognitive biases." This bias generates the [[illusion of control]]: the illusion that we have substantial control of our lives.
+
+A natural experiment reveals the prevalence of one kind of unwarranted optimism. The [[planning fallacy]] is the tendency to overestimate benefits and underestimate costs, impelling people to begin risky projects. In 2002, American kitchen remodeling was expected on average to cost $18,658, but actually cost $38,769.<ref name="Holt" />
+
+To explain [[overconfidence effect|overconfidence]], Kahneman introduces the concept he terms ''What You See Is All There Is'' (WYSIATI). This theory states that when the mind makes decisions, it deals primarily with ''Known Knowns'', phenomena it has  observed already. It rarely considers ''Known Unknowns'', phenomena that it knows to be relevant but about which it does not have information. Finally it appears oblivious to the possibility of ''Unknown Unknowns'', unknown phenomena of unknown relevance.
+
+He explains that humans fail to take into account complexity and that their understanding of the world consists of a small and necessarily un-representative set of observations. Furthermore, the mind generally does not account for the role of chance and therefore falsely assumes that a future event will be similar to a past event.
+
+=== Framing ===
+{{Main|Framing effect (psychology)}}
+
+Framing is the context in which choices are presented. Experiment: subjects were asked whether they would opt for surgery if the "survival" rate is 90 percent, while others were told that the mortality rate is 10 percent. The first framing increased acceptance, even though the situation was no different.<ref name="low">{{cite news|last1=Lowenstein|first1=Roger |title=Book Review: Thinking, Fast and Slow by Daniel Kahneman|url=https://www.bloomberg.com/news/articles/2011-10-27/book-review-thinking-fast-and-slow-by-daniel-kahneman|website=Bloomberg.com|date= October 28, 2011|access-date=May 27, 2016}}</ref>
+
+=== Sunk cost ===
+{{Main|Sunk cost fallacy}}
+
+Rather than consider the odds that an incremental investment would produce a positive return, people tend to "throw good money after bad" and continue investing in projects with poor prospects that have already consumed significant resources. In part this is to avoid feelings of regret.<ref name="low" />
+
+== Overconfidence ==
+{{Main|Overconfidence effect}}
+This part (part III, sections 19–24) of the book is dedicated to the undue confidence in what the mind believes it knows. It suggests that people often overestimate how much they understand about the world and underestimate the role of chance in particular. This is related to the excessive certainty of hindsight, when an event seems to be understood after it has occurred or developed. Kahneman's opinions concerning overconfidence are influenced by the author [[Nassim Nicholas Taleb]].<ref>{{Cite book|title=Thinking, fast and slow|last=Kahneman|first=Daniel|publisher=Penguin Books|year=2011|isbn=9780141033570|location=London|pages=[https://archive.org/details/thinkingfastslow0000kahn/page/14 14]|oclc=781497062|url=https://archive.org/details/thinkingfastslow0000kahn/page/14}}</ref>
+
+== Choices ==
+In this section Kahneman returns to economics and expands his seminal work on Prospect Theory. He discusses the tendency for problems to be addressed in isolation and how, when other reference points are considered, the choice of that reference point (called a frame) has a disproportionate effect on the outcome. This section also offers advice on how some of the shortcomings of System 1 thinking can be avoided.
+
+=== Prospect theory ===
+{{Main|Prospect theory}}Kahneman developed prospect theory, the basis for his Nobel prize, to account for experimental errors he noticed in [[Daniel Bernoulli]]'s traditional [[utility theory]].<ref>{{cite journal|last1=Kahneman |first1=Daniel|author-link1=Daniel Kahneman |last2=Tversky |first2=Amos |author-link2=Amos Tversky|title=Prospect Theory: An Analysis of Decision under Risk |journal=Econometrica |date=March 1979 |volume=47 |issue=2 |pages=263–291 |doi=10.2307/1914185 |url=http://people.hss.caltech.edu/~camerer/Ec101/ProspectTheory.pdf |url-status=unfit |archive-url=https://web.archive.org/web/20141117055859/http://people.hss.caltech.edu/~camerer/Ec101/ProspectTheory.pdf |archive-date=November 17, 2014 |jstor=1914185|citeseerx=10.1.1.407.1910}}</ref> According to Kahneman, Utility Theory makes logical assumptions of economic rationality that do not represent people's actual choices, and does not take into account [[list of cognitive biases|cognitive biases]].
+
+One example is that people are loss-averse: they are more likely to act to avert a loss than to achieve a gain. Another example is that the value people place on a change in probability (e.g., of winning something) depends on the reference point: people seem to place greater value on a change from 0% to 10% (going from impossibility to possibility) than from, say, 45% to 55%, and they place the greatest value of all on a change from 90% to 100% (going from possibility to certainty). This occurs despite the fact that by traditional utility theory all three changes give the same increase in utility. Consistent with loss-aversion, the order of the first and third of those is reversed when the event is presented as losing rather than winning something: there, the greatest value is placed on eliminating the probability of a loss to 0.
+
+After the book's publication, the ''[[Journal of Economic Literature]]'' published a discussion of its parts concerning prospect theory,<ref name=Shleifer>{{cite book|url=http://scholar.harvard.edu/files/shleifer/files/kahneman_review_jel_final.pdf|title=Psychologists at the Gate: A Review of Daniel Kahneman's Thinking, Fast and Slow|date=2012}}</ref> as well as an analysis of the four fundamental factors on which it is based.<ref name=Shleifer7-9>{{cite book|url=http://scholar.harvard.edu/files/shleifer/files/kahneman_review_jel_final.pdf|title=Psychologists at the Gate: A Review of Daniel Kahneman's Thinking, Fast and Slow|date=2012|pages=7–9}}</ref>
+
+== Two selves ==
+The fifth part of the book describes recent evidence which introduces a distinction between two selves, the 'experiencing self' and 'remembering self'.<ref>{{cite book |last1=Lazari-Radek |first1=Katarzyna de |last2=Singer |first2=Peter |title=The Point of View of the Universe: Sidgwick and Contemporary Ethics |date=2014 |publisher=Oxford University Press |url=https://philpapers.org/rec/LAZTPO-7 |page=276}}</ref> Kahneman proposed an alternative measure that assessed pleasure or pain sampled from moment to moment, and then summed over time. Kahneman termed this "experienced" well-being and attached it to a separate "self". He distinguished this from the "remembered" well-being that the polls had attempted to measure. He found that these two measures of happiness diverged.<ref>{{cite book |last1=Kahneman |first1=Daniel |title=Thinking, Fast and Slow |date=2011 |publisher=New York: Farrar, Straus & Giroux |url=https://philpapers.org/rec/KAHTFA-2 |chapter=35. Two Selves}}</ref>
+
+=== Life as a story ===
+The author's significant discovery was that the remembering self does not care about the duration of a pleasant or unpleasant experience. Instead, it retrospectively rates an experience by the maximum or minimum of the experience, and by the way it ends. The remembering self dominated the patient's ultimate conclusion.
+
+{{Blockquote|"Odd as it may seem," Kahneman writes, "I am my remembering self, and the experiencing self, who does my living, is like a stranger to me."<ref name="Kahneman2011"/>|sign=|source=|}}
+
+=== Experienced well-being ===
+Kahneman first began the study of well-being in the 1990s. At the time most [[hedonic psychology|happiness research]] relied on polls about [[life satisfaction]]. Having previously studied unreliable memories, the author was doubtful that life satisfaction was a good indicator of happiness. He designed a question that emphasized instead the well-being of the experiencing self. The author proposed that "Helen was happy in the month of March" if she spent most of her time engaged in activities that she would rather continue than stop, little time in situations that she wished to escape, and not too much time in a neutral state that wouldn't prefer continuing or stopping the activity either way.
+
+=== Thinking about life ===
+{{Main|Affective forecasting}}
+Kahneman suggests that emphasizing a life event such as a marriage or a new car can provide a distorted illusion of its true value. This "[[focusing illusion]]" revisits earlier ideas of substituting difficult questions and WYSIATI.
+
+== Awards and honors ==
+* 2011 [[Los Angeles Times Book Prize|''Los Angeles Times'' Book Prize]] (Current Interest)<ref>{{cite web|title=2011 Los Angeles Times Book Prize Winners & Finalists|url=http://events.latimes.com/bookprizes/previous-winners/year-2011/|work=Los Angeles Times|url-status=dead|archive-url=https://web.archive.org/web/20160416085331/http://events.latimes.com/bookprizes/previous-winners/year-2011/|archive-date=April 16, 2016}}</ref>
+* National Academy of Sciences Best Book Award in 2012<ref name=NAS>{{Cite web|url=https://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=09132012|title=Daniel Kahneman's Thinking, Fast and Slow Wins Best Book Award From Academies; Milwaukee Journal Sentinel, Slate Magazine, and WGBH/NOVA Also Take Top Prizes in Awards' 10th Year|language=en|access-date=March 10, 2018}}</ref>
+* ''[[The New York Times Book Review]]'', one of the best books of 2011<ref>{{Cite news|url=https://www.nytimes.com/2011/12/11/books/10-best-books-of-2011.html|title=10 Best Books of 2011|date=November 30, 2011|work=The New York Times|access-date=March 10, 2018|language=en-US|issn=0362-4331}}</ref>
+* Globe and Mail Best Books of the Year 2011<ref>{{Cite news|url=https://www.theglobeandmail.com/arts/books-and-media/the-globe-100-the-very-best-books-of-2011/article4179464/|title=The Globe 100: The very best books of 2011|last=Stein |display-authors=etal |first=Janice Gross|access-date=March 10, 2018}}</ref>
+* One of ''[[The Economist]]'''s 2011 Books of the Year
+* One of ''[[The Wall Street Journal]]'''s Best Nonfiction Books of the Year 2011<ref>{{cite news|title=The Best Nonfiction of 2011|url=https://www.wsj.com/articles/SB10001424052970203518404577097100562141244|newspaper=Wall Street Journal|date=December 17, 2011}}</ref>
+
+== Reception ==
+As of 2012 the book had sold over one million copies.<ref>{{Cite news|url=https://www.telegraph.co.uk/culture/books/9397849/Thinking-Fast-and-Slow-the-landmark-in-social-thought-going-head-to-head-with-Fifty-Shades-of-Grey.html|title=Thinking, Fast and Slow: the 'landmark in social thought' going head to head with Fifty Shades of Grey|journal=Daily Telegraph|last=Cooper|first=Glenda|date=July 14, 2012|access-date=February 17, 2018|language=en-GB|issn=0307-1235}}</ref> On the year of its publication, it was on the [[New York Times Bestseller List|''New York Times'' Bestseller List]].<ref name=NYTBSL/> The book was reviewed in media  including the ''[[Huffington Post]]'',<ref>{{Cite web|url=https://www.huffingtonpost.com/david-k-levine/thinking-fast-and-slow-an_b_1906061.html|title=Thinking Fast and Slow and Poorly and Well|last=Levine|first=David K.|date=September 22, 2012|website=Huffington Post|language=en-US|access-date=February 17, 2018}}</ref> ''[[The Guardian]]'',<ref>{{Cite web|url=https://www.theguardian.com/books/2011/dec/13/thinking-fast-slow-daniel-kahneman|title=Thinking, Fast and Slow by Daniel Kahneman – review|last=Strawson|first=Galen|date=December 13, 2011|website=the Guardian|language=en|access-date=February 17, 2018}}</ref> ''[[The New York Times]]'',<ref name="Holt" />  ''[[The Financial Times]]'',<ref>{{Cite news|url=https://www.ft.com/content/15bb6522-04ac-11e1-91d9-00144feabdc0|title=Thinking, Fast and Slow|website=Financial Times|date=November 5, 2011|language=en-GB|access-date=February 17, 2018}}</ref> ''[[The Independent]]'',<ref>{{Cite news|url=https://www.independent.co.uk/arts-entertainment/books/reviews/thinking-fast-and-slow-by-daniel-kahneman-6263560.html |archive-url=https://ghostarchive.org/archive/20220507/https://www.independent.co.uk/arts-entertainment/books/reviews/thinking-fast-and-slow-by-daniel-kahneman-6263560.html |archive-date=May 7, 2022 |url-access=subscription |url-status=live|title=Thinking, Fast and Slow, By Daniel Kahneman|date=November 18, 2011|work=The Independent|access-date=February 17, 2018|language=en-GB}}{{cbignore}}</ref> ''[[Bloomberg News|Bloomberg]]''<ref name="low" /> and ''[[The New York Review of Books]]''.<ref>{{Cite news|url=https://www.nybooks.com/articles/2011/12/22/how-dispel-your-illusions/|title=How to Dispel Your Illusions|last=Dyson|first=Freeman|date=December 22, 2011|work=The New York Review of Books|access-date=February 17, 2018|language=en|issn=0028-7504}}</ref>{{explain|reason=Were the reviews positive or negative?|date=March 2023}}
+
+The book was also widely reviewed in academic journals, including the ''[[Journal of Economic Literature]]'',<ref name=Shleifer/> ''[[American Journal of Education]]'',<ref>{{Cite journal|last=Durr|first=Tony|date=February 1, 2014|title=Thinking, Fast and Slow by Daniel Kahneman|journal=American Journal of Education|volume=120|issue=2|pages=287–291|doi=10.1086/674372|issn=0195-6744}}</ref> ''[[The American Journal of Psychology]]'',<ref>{{Cite journal|last=Krueger|first=Joachim I.|date=2012|editor-last=Kahneman|editor-first=Daniel|title=Reviewing, Fast and Slow|jstor=10.5406/amerjpsyc.125.3.0382|journal=The American Journal of Psychology|volume=125|issue=3|pages=382–385|doi=10.5406/amerjpsyc.125.3.0382}}</ref> ''[[Planning Theory]]'',<ref>{{Cite journal|last=Baum|first=Howell|date=2013|title=Review of Thinking, fast and slow|jstor=26166233|journal=Planning Theory|volume=12|issue=4|pages=442–446|doi=10.1177/1473095213486667|s2cid=149027956}}</ref> ''[[The American Economist]]'',<ref>{{Cite journal|last=Brock|first=John R.|date=2012|title=Review of Thinking, Fast and Slow|jstor=43664727|journal=The American Economist|volume=57|issue=2|pages=259–261|doi=10.1177/056943451205700211|s2cid=149090700}}</ref> ''[[The Journal of Risk and Insurance]]'',<ref>{{Cite journal|last=Gardner|first=Lisa A.|date=2012|title=Review of Thinking, Fast and Slow|jstor=23354961|journal=The Journal of Risk and Insurance|volume=79|issue=4|pages=1143–1145|doi=10.1111/j.1539-6975.2012.01494.x}}</ref> ''[[The Michigan Law Review]]'',<ref>{{Cite journal|last=Stein|first=Alex|date=2013|jstor=23812713|journal=Michigan Law Review|volume=111|issue=6|pages=855–875|title=Are People Probabilistically Challenged?}}</ref> ''[[American Scientist]]'',<ref>{{Cite journal|last=Sloman|first=Steven|date=2012|title=The Battle Between Intuition and Deliberation|jstor=23222820|journal=American Scientist|volume=100|issue=1|pages=73–75}}</ref> ''[[Contemporary Sociology]]'',<ref>{{Cite journal|last=Etzioni|first=Amitai|date=2012|editor-last=Kahneman|editor-first=Daniel|title=The End of Rationality?|jstor=41722908|journal=Contemporary Sociology|volume=41|issue=5|pages=594–597|doi=10.1177/0094306112457657b|s2cid=143107781}}</ref> ''[[Science (journal)|Science]]'',<ref>{{Cite journal|last=Sherman|first=Steven J.|date=2011|title=Blink with Muscles|jstor=41351778|journal=Science|volume=334|issue=6059|pages=1062–1064|doi=10.1126/science.1214243|bibcode=2011Sci...334.1062S|s2cid=145337277}}</ref> ''[[Contexts]]'',<ref>{{Cite journal|last=jasper|first=james m.|date=2012|title=thinking in context|jstor=41960818|journal=Contexts|volume=11|issue=2|pages=70–71|doi=10.1177/1536504212446467|doi-access=free}}</ref> ''[[The Wilson Quarterly]]'',<ref>{{Cite journal|last=Akst|first=Daniel|date=2011|title=Rushing to Judgment|jstor=41484407|journal=The Wilson Quarterly|volume=35|issue=4|pages=97–98}}</ref> ''[[Technical Communication (journal)|Technical Communication]]'',<ref>{{Cite journal|last=Harrison|first=Kelly A.|date=2012|title=Review of Thinking, Fast and Slow|jstor=43093040|journal=Technical Communication|volume=59|issue=4|pages=342–343}}</ref> ''The University of Toronto Law Journal'',<ref>{{Cite journal|last=Richardson|first=Megan Lloyd|date=2012|title=Review of Thinking, Fast and Slow [sic, included in a set of reviews]|jstor=23263811|journal=The University of Toronto Law Journal|volume=62|issue=3|pages=453–457|doi=10.1353/tlj.2012.0013|s2cid=144044453}}</ref> ''[[A Review of General Semantics]]''<ref>{{Cite journal|last=Vassallo|first=Philip|date=2012|title=Review of Thinking, Fast and Slow|jstor=42579224|journal=ETC: A Review of General Semantics|volume=69|issue=4|pages=480}}</ref> and ''[[Scientific American Mind]]''.<ref>{{Cite journal|last=Upson|first=Sandra|date=2012|jstor=24943506|journal=Scientific American Mind|volume=22|issue=6|pages=68–69|title=Cognitive Illusions}}</ref> The book was also reviewed in the monthly magazine ''Observer'', published by the [[Association for Psychological Science]].<ref>{{Cite journal|last=Bazerman|first=Max H.|date=October 21, 2011|title=Review of ''Thinking, Fast and Slow'' by Daniel Kahneman|url=https://www.psychologicalscience.org/observer/thinking-fast-and-slow|journal=APS Observer|language=en-US|volume=24|issue=10}}</ref>{{explain|reason=Were the reviews positive or negative?|date=March 2023}}
+
+The book has achieved a large following among [[Scout (sport)|baseball scouts]] and baseball executives. The ways of thinking described in the book are believed to help scouts, who have to make major judgements off little information and can easily fall into prescriptive yet inaccurate patterns of analysis.<ref>{{Cite web|url=https://www.nytimes.com/2021/02/24/sports/baseball/thinking-fast-and-slow-book.html|title=This Book Is Not About Baseball. But Baseball Teams Swear by It.|first=Joe|last=Lemire|work=The New York Times |date=February 24, 2021|via=NYTimes.com}}</ref>
+
+The last chapter of [[Paul Bloom (psychologist)|Paul Bloom]]'s [[Against Empathy]] discusses concepts also touched in Daniel Kahneman's book, ''Thinking, Fast and Slow'', that suggest people make a series of rational and irrational decisions.<ref name="Bloom2016">{{cite book|last=Bloom|first=Paul|title=Against Empathy: The Case for Rational Compassion|publisher=Ecco|year=2016|isbn=978-0-06-233935-5|author-link=Paul Bloom (psychologist)}}</ref>{{r|Bloom2016|p=214}} He criticizes the argument that "regardless of reason's virtues, we just aren't any good at it." His point is that people are not as "stupid as scholars think they are."{{r|Bloom2016|p=216}} He explains that people are rational because they make thoughtful decisions in their everyday lives. For example, when someone has to make a big life decision they critically assess the outcomes, consequences, and alternative options.{{r|Bloom2016|p=230}}
+
+The author [[Nassim Nicholas Taleb|Nicholas Taleb]] has equated the book's importance to that of [[Adam Smith]]'s ''[[The Wealth of Nations]]'' and [[Sigmund Freud]]'s ''[[The Interpretation of Dreams]]''.<ref>{{Cite news |last=Jr |first=Robert D. Hershey |date=2024-03-27 |title=Daniel Kahneman, Who Plumbed the Psychology of Economics, Dies at 90 |url=https://www.nytimes.com/2024/03/27/business/daniel-kahneman-dead.html |access-date=2024-03-29 |work=The New York Times |language=en-US |issn=0362-4331}}</ref>
+
+== Replication crisis ==
+The book has been heavily criticized for relying on shoddy and non-reproducible studies. It was discovered many prominent research findings were difficult or impossible for others to replicate, and thus the original findings were called into question. An analysis<ref>{{Cite web|url=https://replicationindex.com/2017/02/02/reconstruction-of-a-train-wreck-how-priming-research-went-of-the-rails/|title=Reconstruction of a Train Wreck: How Priming Research Went off the Rails|last=R|first=Dr|date=2017-02-02|website=Replicability-Index|language=en|access-date=2019-04-30}}</ref> of the studies cited in chapter 4, "The Associative Machine", found that their [[replicability index]] (R-index)<ref>{{Cite web|url=https://replicationindex.com/2016/01/31/a-revised-introduction-to-the-r-index/|title=A Revised Introduction to the R-Index|last=R|first=Dr|date=2016-01-31|website=Replicability-Index|language=en|access-date=2019-04-30}}</ref> is 14, indicating essentially low to no reliability. Kahneman himself responded to the study in blog comments and acknowledged the chapter's shortcomings: "I placed too much faith in [[Underpowered (statistics)|underpowered]] studies."<ref>{{Cite web|url=https://retractionwatch.com/2017/02/20/placed-much-faith-underpowered-studies-nobel-prize-winner-admits-mistakes/|title="I placed too much faith in underpowered studies:" Nobel Prize winner admits mistakes|last=McCook|first=Alison|date=2017-02-20|website=Retraction Watch|language=en-US|access-date=2019-04-30}}</ref> Others have noted the irony in the fact that Kahneman made a mistake in judgment similar to the ones he studied.<ref>{{Cite news|url=https://slate.com/technology/2016/12/kahneman-and-tversky-researched-the-science-of-error-and-still-made-errors.html|title=How a Pioneer in the Science of Mistakes Ended Up Mistaken|last=Engber|first=Daniel|date=2016-12-21|website=Slate Magazine|language=en|access-date=2019-04-30}}</ref>
+
+A later analysis<ref>{{Cite web|last=Schimmack|first=Ulrich|date=2020-12-30|title=A Meta-Scientific Perspective on "Thinking: Fast and Slow|url=https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/|access-date=2021-02-21|website=Replicability-Index|language=en}}</ref> made a bolder claim that, despite Kahneman's previous contributions to the field of decision making, most of the book's ideas are based on "scientific literature with shaky foundations". A general lack of replication in the empirical studies cited in the book was given as a justification.
+
+== See also ==
+* [[Behavioral economics]]
+* [[Cognitive reflection test]]
+* [[Decision theory]]
+* [[Dual process theory]]
+* [[List of cognitive biases]]
+* [[Outline of thought]]
+* [[Peak–end rule]]
+* [[Joseph E. LeDoux]]
+* [[Noise: A Flaw in Human Judgment]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Wikiquote|Daniel Kahneman#Thinking, Fast and Slow (2011)|Thinking, Fast and Slow}}
+
+* [https://www.penguin.com.au/products/9780141033570/thinking-fast-and-slow/19281722/how-think-fast-and-slow How To Think Fast & Slow], excerpt at Penguin Books Australia
+* [https://www.theguardian.com/science/2014/feb/16/daniel-kahneman-thinking-fast-and-slow-tributes Daniel Kahneman changed the way we think about thinking. But what do other thinkers think of him?] – Various interviews about Kahneman and ''Thinking, Fast and Slow'' in an article in The Guardian.
+* [https://www.unsans.com/book/thinking-fast-and-slow/ Unsans – Thinking, Fast and Slow] A thematic overview and interpretive summary of Daniel Kahneman’s book, focusing on its core ideas about dual-process thinking and cognitive biases.
+
+{{Portal bar|Philosophy|Psychology|Books}}
+{{Authority control}}
+
+[[Category:2011 non-fiction books]]
+[[Category:2011 in economic history]]
+[[Category:Books about bias]]
+[[Category:Books about cognition]]
+[[Category:Books about creativity]]
+[[Category:Choice modelling]]
+[[Category:Cognitive biases]]
+[[Category:Cognition]]
+[[Category:Decision-making]]
+[[Category:Farrar, Straus and Giroux books]]
+[[Category:Heuristics]]
+[[Category:Prospect theory]]
+[[Category:Psychology of learning]]
+[[Category:Risk analysis]]
+[[Category:Self]]
+[[Category:Thought]]
+[[Category:Thought experiments]]

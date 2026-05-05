@@ -1,0 +1,67 @@
+{{Short description|Cognitive bias of wrongly viewing yourself as unique}}
+
+The '''false-uniqueness effect''' is an [[attribution bias|attributional]] type of [[cognitive bias]] in [[social psychology]] that describes how people tend to view their qualities, traits, and personal  attributes as unique when in reality they are not. This bias is often measured by looking at the difference between estimates that people make about how many of their peers share a certain trait or behaviour and the actual number of peers who report these traits and behaviours.<ref>Suls, J. (2007). False uniqueness bias. In R. F. Baumeister & K. D. Vohs (Eds.), Encyclopedia of social psychology (Vol. 1, pp. 345–345). Thousand Oaks, CA: SAGE Publications, Inc. {{doi|10.4135/9781412956253.n213}}</ref>
+
+In fact, people often think that they are more unique than others in regard to desirable traits. This has been shown in a variety of studies, where, for example, people believe that they are better drivers and less risk-taking than the average driver, less prejudiced than the average resident in their town, or even more hardworking in group projects than others when they are actually not.<ref>{{cite journal | last1 = Svenson | first1 = O | year = 1981 | title = Are we all less risky and more skilful than our fellow drivers? | url = https://doi.org/10.1016/0001-6918(81)90005-6 | journal = Acta Psychologica | volume = 47 | issue = 2| pages = 143–148 | doi = 10.1016/0001-6918(81)90005-6 | url-access = subscription }}</ref><ref>{{cite journal | last1 = Fields | first1 = J.M. | last2 = Schuman | first2 = H. | year = 1976 | title = Public beliefs about the beliefs of the public | url = | journal = Public Opinion Quarterly | volume = 40 | issue = 4| pages = 427–488 | doi = 10.1086/268330 }}</ref><ref>{{cite journal | last1 = Ross | first1 = M. | last2 = Sicoly | first2 = F. | year = 1979 | title = Egocentric biases in availability and attribution | url = https://doi.org/10.1037/0022-3514.37.3.322 | journal = Journal of Personality and Social Psychology | volume = 37 | issue = 3| pages = 322–336 | doi = 10.1037/0022-3514.37.3.322 | url-access = subscription }}</ref>
+
+This effect can also be visible when asked about desirable actions, even if consensus is against this action: "Suppose a researcher did an experiment using an actor who pretended to have a seizure, and the researcher found that 11 out of 15 people did not help the person. If you had been in the experiment, what do you think your response would have been?".<ref>{{cite web |title=Lecture 2.2: Some Twists and Turns When Explaining Behavior. WEEK 2: The Psychology of Self-Presentation and Persuasion |url=https://www.coursera.org/lecture/social-psychology/lecture-2-2-some-twists-and-turns-when-explaining-behavior-OLt5p |website=Coursera |accessdate=2018-12-24}}</ref> People tend to answer that they would have helped given the situation, believing they would do it even if that is not the case.
+
+This cognitive bias is the converse of the [[false consensus effect]], in which people tend to overestimate the extent to which their attitudes and behaviours are normal and typical compared to those of others. Both are related to self-esteem, which is a crucial factor in defining how people look at their behaviour.<ref>{{cite journal | last1 = Park | first1 = Hee Sun | last2 = Smith | first2 = Sandi W. | last3 = Klein | first3 = Katherine A. | last4 = Martell | first4 = Dennis | year = 2011 | title = College Students' Estimation and Accuracy of Other Students' Drinking and Believability of Advertisements Featured in a Social Norms Campaign | url = | journal = Journal of Health Communication | volume = 16 | issue = 5| pages = 504–518 | doi = 10.1080/10810730.2010.546481 | pmid = 21298586 }}</ref> People tend to experience the false-uniqueness effect in regards to their desirable traits, whereas they apply the false consensus effect to justify negative traits.<ref>{{cite journal | last1 = Suls | first1 = Jerry | last2 = Wan | first2 = C. K. | year = 1987 | title = In search of the false-uniqueness phenomenon: Fear and estimates of social consensus | url = | journal = Journal of Personality and Social Psychology | volume = 52 | issue = 1| pages = 211–217 | doi = 10.1037/0022-3514.52.1.211 | pmid = 3820073 }}</ref>
+
+==History==
+
+In 1975, Snyder and Shneckel introduced the term “illusion of uniqueness” to describe how people wrongly believe that they are different from others. However, it is Suls, Wan (1987) and Suls, Wan and Sanders (1988) who coined the term '''false-uniqueness effect''' in their studies. These two demonstrated that people with low levels of self-reported fears or people that engaged in healthy behaviours underestimated the number of low-fear peers as well as the prevalence of those that were healthy compared to the actual numbers.<ref>{{cite journal | last1 = Suls | first1 = Jerry | last2 = Wan | first2 = C. K. | year = 1987 | title = In search of the false-uniqueness phenomenon: Fear and estimates of social consensus | url = | journal = Journal of Personality and Social Psychology | volume = 52 | issue = 1| pages = 211–217 | doi = 10.1037/0022-3514.52.1.211 | pmid = 3820073 }}</ref><ref>{{cite journal | last1 = Suls | first1 = J. | last2 = Wan | first2 = C. K. | last3 = Sanders | first3 = G. S. | year = 1988 | title = False consensus and false uniqueness in estimating the prevalence of health-protective behaviors | url = https://doi.org/10.1111/j.1559-1816.1988.tb00006.x | journal = Journal of Applied Social Psychology | volume = 18 | issue = 1| pages = 66–79 | doi = 10.1111/j.1559-1816.1988.tb00006.x | url-access = subscription }}</ref>
+
+==Explanations==
+
+===Self-enhancement===
+
+As stated above, false uniqueness effect can be seen mostly for desirable or flattering traits and being “better than average”. In believing that people are relatively unique and better than others, they are able to enhance or at least maintain their self-esteem. In [[social comparison]], people tend to modify, disregard, or interpret information differently to see themselves in a more positive light. This is also known as the [[self-enhancement]] theory. Seeking to ameliorate one’s self-esteem is a strong motivation to believe that your qualities are more unique than that of your peers. 
+	In fact, the false uniqueness effect is strongly associated with the perception of [[superiority bias|superiority]] or at least the avoidance of inferiority, which can be explained by self-preservation.<ref>{{cite journal | last1 = Hoorens | first1 = Vera | year = 1993 | title = Self-enhancement and Superiority Biases in Social Comparison | url = | journal = European Review of Social Psychology | volume = 4 | issue = 1| pages = 113–139 | doi = 10.1080/14792779343000040 }}</ref>
+	As self-enhancement may be a reason as to ''why'' false uniqueness effect occurs, [[cognitive biases]] or processes seek to understand ''how'' they might appear.
+
+===Cognitive processes===
+
+====Egocentrism====
+
+[[Egocentrism]] refers to the tendency for people to focus solely, or at least place more weight, on their own characteristics and neglect others’ emotions, thoughts, attributes, and/or traits. This means that if people have high abilities, strong traits, make high contributions, or have intense emotions, they are more likely to rate themselves as above average in all of these domains. On the other hand, if people judge themselves to be low in all of the previous domains, they will consider themselves to be below average.<ref>{{cite journal | last1 = Kruger | first1 = J | year = 1999 | title = Lake Wobegon be gone! The "below-average effect" and the egocentric nature of comparative ability judgments | url = https://doi.org/10.1037/0022-3514.77.2.221 | journal = Journal of Personality and Social Psychology | volume = 77 | issue = 2| pages = 221–232 | doi = 10.1037/0022-3514.77.2.221 | pmid = 10474208 | url-access = subscription }}</ref> This tendency to focus on one’s own absolute standing, therefore explains how people might wrongly perceive certain traits, emotions, or attitudes to be both positively or negatively unique.<ref>Alicke, M. D., & Govorun, O. (2005). The Better-Than-Average Effect. In M. D. Alicke, D. A. Dunning, & J. I. Krueger (Eds.), Studies in self and identity. The Self in Social Judgment (p. 85–106). Psychology Press.</ref>
+People tend to think a lot more (and maybe even solely) about themselves when making a social comparison when they should be thinking about others as well as it could reduce false uniqueness effects.
+
+====Focalism====
+
+People have a tendency to give a lot more weight to information that has been brought to our attention and overlook background information that could be important when making a social comparison, also known as [[focalism]]. When making a comparison between two things (often you and another entity), a question might be framed in a way that makes you focus more on one or the other. Research shows that patterns of false uniqueness and false consensus can vary depending on how the question is written.<ref>{{cite journal | last1 = Galesic | first1 = M. | authorlink = Mirta Galesic | last2 = Olsson | first2 = H. | last3 = Rieskamp | first3 = J. | year = 2018 | title = A sampling model of social judgment | doi = 10.1037/rev0000096 | journal = Psychological Review | volume = 125 | issue = 3| pages = 363–390 | pmid = 29733664 | doi-access = free }}</ref> In determining how unique you are your evaluation will depend on what has been brought to your attention, whether it be traits, emotions, or a particular group of people, which might impair you in making a rational decision.
+
+====Selective accessibility====
+
+Aligned with egocentrism, when asked to make a social comparison, information about ourselves comes much more easily to mind, because we know a lot more about ourselves than about others. Therefore the more easily information about one’s particular trait comes to mind, the more importance it will have in the judgement of uniqueness. This can be linked to the [[availability heuristic]], where people give more importance to information that they recall quickly. 
+In accordance with the self-enhancement theory, people might also selectively choose to compare themselves to groups that are less successful than them, known as [[downward social comparison]], as information about people that do not have the same qualities as them might come to mind more quickly.<ref>Alicke, M. D., & Govorun, O. (2005). The Better-Than-Average Effect. In M. D. Alicke, D. A. Dunning, & J. I. Krueger (Eds.), Studies in self and identity. The Self in Social Judgment (p. 85–106). Psychology Press.</ref>
+
+====Generalized groups====
+
+When asked to compare ourselves to the average person, because people don’t have access to information about everyone, they tend to associate “average person” to a sub-group that may come to mind.<ref>{{cite journal | last1 = Susskind | first1 = J. | last2 = Maurer | first2 = K. | last3 = Thakkar | first3 = V. | last4 = Hamilton | first4 = D. L. | last5 = Sherman | first5 = J. W. | year = 1999 | title = Perceiving individuals and groups: Expectancies, dispositional inferences, and causal attributions | url = https://doi.org/10.1037/0022-3514.76.2.181 | journal = Journal of Personality and Social Psychology | volume = 76 | issue = 2| pages = 181–191 | doi = 10.1037/0022-3514.76.2.181 | pmid = 10074704 | url-access = subscription }}</ref> When asked “are you a better ballroom dancer than the average person?” you might think of your grandfather, your boss, your cousin, or a video you watched online and compare yourself to these, even though they are far from representing the average person. These sub-groups that are based on your knowledge and surroundings might be an unconscious explanation of false uniqueness effect.
+
+==Variables==
+
+===Gender===
+There is a reported gender difference in the expression of the false uniqueness effect. Men tend to be biased in regards to both positive physical and social traits, whereas women tend to be more biased around positive social traits than their physical traits.<ref>{{cite journal | last1 = Furnham | first1 = A. | last2 = Dowsett | first2 = T. | year = 1993 | title = Sex difference in social comparison and uniqueness bias | url = | journal = Personality and Individual Differences | volume = 15 | issue = 2| pages = 175–183 | doi = 10.1016/0191-8869(93)90024-W }}</ref>
+
+==See also==
+{{Portal|Psychology|Society}}
+
+* [[False consensus effect]]
+* [[Self-serving bias]]
+* [[Illusory superiority]]
+* [[Social comparison theory]]
+* [[Self-enhancement]]
+* [[Snowflake (slang)]]
+
+==References==
+{{reflist}}
+
+{{Digital media use and mental health}}
+
+{{authority control}}
+
+[[Category:Cognitive biases]]
+[[Category:Informal fallacies]]
+[[Category:Exceptionalism]]

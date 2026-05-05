@@ -1,0 +1,1331 @@
+{{Short description|System used for the classification of video games into suitability-related groups}}
+[[File:Video game rating systems in europe.JPG|260px|thumbnail|An example of different rating systems on video game discs which is common practice in Europe and Australia. From top left to down right: [[On Protecting Children from Information Harmful to Their Health and Development|the Russian video game rating system]], the European [[PEGI]] system, the German [[USK]], all sharing the same age classification on this example game.]]
+A '''video game content rating system''' is a [[Content rating|system used for the classification]] of [[video game]]s based on suitability for target audiences. Most of these systems are associated with and/or sponsored by a government, and are sometimes part of the local [[motion picture rating system]]. The utility of such ratings has been called into question by studies that publish findings such as 90% of teenagers claim that their parents "never" check the ratings before allowing them to rent or buy video games,<ref>{{Cite web |url=http://eric.ed.gov/ERICDocs/data/ericdocs2sql/content_storage_01/0000019b/80/23/4b/03.pdf |title=The Impact of Interactive Violence on Children: Testimony submitted to the Committee on Commerce, Science, and Transportation, United States Senate |access-date=13 July 2008 |author=Dr. David Walsh |date=21 March 2000 |url-status=dead |archive-url=https://web.archive.org/web/20080910181231/http://eric.ed.gov/ERICDocs/data/ericdocs2sql/content_storage_01/0000019b/80/23/4b/03.pdf |archive-date=10 September 2008}}</ref> and as such, calls have been made to "fix" the existing rating systems.<ref>{{Cite magazine |last1=Bonner |first1=Jerry |year=2008 |title=How to Fix the Ratings System: A former game rater lists six ways to bolster the Entertainment Software Rating Board |magazine=[[Electronic Gaming Monthly]] |volume=227 |pages=30–32}}</ref><ref>{{Cite journal |last1=Felini |first1=Damiano |title=Beyond Today's Video Game Rating Systems A Critical Approach to PEGI and ESRB, and Proposed Improvements |journal=Games and Culture |date=January 2015 |volume=10 |issue=1 |pages=106–122 |doi=10.1177/1555412014560192|s2cid=147524312}}</ref> Video game content rating systems can be used as the basis for laws that cover the sales of video games to minors, such as in Australia. Rating checking and approval is part of the [[game localization]] when they are being prepared for their distribution in other countries or locales. These rating systems have also been used to voluntarily restrict sales of certain video games by stores, such as the German retailer Galeria Kaufhof's removal of all video games rated 18+ by the USK following the [[Winnenden school shooting]].<ref>{{Cite news |url=https://www.spiegel.de/netzwelt/spielzeug/selbstzensur-nach-amoklauf-kaufhof-schafft-filme-und-spiele-fuer-erwachsene-ab-a-614088.html |title=Kaufhof schafft Filme und Spiele für Erwachsene ab |website=[[Der Spiegel]] |date=18 March 2009 |language=de |access-date=18 March 2009 |archive-url=https://web.archive.org/web/20220925025451/https://www.spiegel.de/netzwelt/spielzeug/selbstzensur-nach-amoklauf-kaufhof-schafft-filme-und-spiele-fuer-erwachsene-ab-a-614088.html |archive-date=25 September 2022 |url-status=live}}</ref>
+<!--
+@@@@@****************************************************************@@@@@
+| IMPORTANT NOTE: Please DO NOT add any comparisons to other countries'  |
+| ratings systems (i.e., adding, "this rating is similar to X-country's  |
+| rating", etc.), or examples of video games. We do not need any         |
+| comprehensive or all-inclusive lists of other ratings systems from     |
+| other countries, or of every single video game. This is NOT a place to |
+| promote your country's system, or your favorite video games. Any edits |
+| doing so are a violation of WP:TRIVIA, and will be reverted. Repeat    |
+| vandals will be blocked. Thank you for your cooperation.               |
+@@@@@****************************************************************@@@@@
+-->
+
+
+== Comparison table ==
+A comparison of current video game rating systems, showing age on the horizontal axis. Note however that the specific criteria used in assigning a classification can vary widely from one country to another. Thus a color code or age range cannot be directly compared from one country to another.
+
+Key: 
+<!--This article uses a color-blind compliant color scheme as outlined at H:Colorblind. Please do not alter the scheme without first consulting the guidelines at the category.-->
+* <span style="background:white; border:solid black 1px; color: black;">&nbsp;'''White'''&nbsp;</span> – ''No restrictions: Suitable for all ages / Aimed at young audiences / Exempt / Not rated''.
+* <span style="background:yellow; border:solid black 1px; color:black;">&nbsp;'''Yellow'''&nbsp;</span> – ''Advisory: Parental guidance is suggested for designated age range''.
+* <span style="background:purple; border:solid black 1px; color:white;">&nbsp;'''Purple'''&nbsp;</span> – ''Strong advisory: Not recommended for a younger audience but not restricted''.
+* <span style="background:red; border:solid black 1px; color:white;">&nbsp;'''Red'''&nbsp;</span> – ''Restrictive: Parental accompaniment required for younger audiences''.
+* <span style="background:black; border:solid black 1px; color: white;">&nbsp;'''Black'''&nbsp;</span> – ''Prohibitive: Exclusively for older audiences / Restricted to licensed premises / Banned''.
+
+{| class="wikitable" style="text-align:center"
+|-
+! rowspan="2" | Country/System !! colspan="22" | Age rating !! rowspan="2" | Other
+|-
+! 0 !! 1 !! 2 !! 3 !! 4 !! 5 !! 6 !! 7 !! 8 !! 9 !! 10 !! 11 !! 12 !! 13 !! 14 !! 15 !! 16 !! 17 !! 18 !! 19 !! 20 !! 21
+|-
+| colspan="24" | '''National/Regional Ratings Systems'''
+|-
+! style="text-align:left" | {{flagdeco|ARG}} [[#Argentina|Argentina]]
+| colspan="13" style="background:white; color:black" | ATP
+| colspan="5" style="background:purple; color:white" | +13
+| colspan="4" style="background:purple; color:white" | +18
+| —
+|-
+! rowspan="2" style="text-align:left" | {{Flagdeco|AUS}} [[#Australia|Australia]]
+| colspan="15" style="background:white; color:black" | G
+| colspan="3" style="background:purple; color:white" | M <!-- ACB's M rating is recommended for audiences 15 years and up, not 13. But the rating is not restricted. -->
+| rowspan="2" colspan="4" style="background:black; color:white" | R 18+
+| style="background:white; color:black" | {{Tooltip|2=Check the Classification|CTC}}
+|-
+| colspan="15" style="background:yellow" | {{Tooltip|2=Formerly titled G8+|PG}}
+| colspan="3" style="background:red; color:white" | MA 15+
+| style="background:black; color:white" | {{abbr|2=Refused Classification (Banned)|RC}}
+|-
+! style="text-align:left" | {{Flagdeco|BRA}} [[#Brazil|Brazil]]
+| colspan="6" style="background:white; color:black" | L
+| colspan="4" style="background:purple; color:white" | 6
+| colspan="2" style="background:purple; color:white" | 10
+| colspan="2" style="background:purple; color:white" | 12
+| colspan="2" style="background:purple; color:white" | 14
+| colspan="2" style="background:purple; color:white" | 16
+| colspan="4" style="background:purple; color:white" | 18
+| —
+|-
+! rowspan="2" style="text-align: left;" |{{Flagdeco|CHI}} [[#Chile|Chile]]
+| colspan="8" style="background:white; color:black" |{{Tooltip|ER|Especially recommended for children and adolescents}}
+| colspan="6" rowspan="2"  style="background:black; color:white" | 8+
+| colspan="4" rowspan="2"  style="background:black; color:white" | 14+
+| colspan="4" rowspan="2"  style="background:black; color:white" | 18+
+| rowspan="2" | —
+|-
+| colspan="8" style="background:white; color:black" | TE
+|-
+! style="text-align:left" | {{Flagdeco|CHN}} [[#China|China]]
+| colspan="8" | —
+| colspan="4" style="background:purple; color:white" | 8+
+| colspan="4" style="background:purple; color:white" | 12+
+| colspan="6" style="background:purple; color:white" | 16+
+| —
+|-
+! style="text-align:left" | 
+{| class="wikitable mw-collapsible mw-collapsed"
+|+ class="nowrap" | [[#Europe|Europe]] (PEGI)
+|{{small|{{flagu|Albania|size=23px}}<br />{{flagu|Austria|size=23px}}<br />{{flagu|Belgium|size=23px}}<br />{{flagu|Bosnia and Herzegovina|size=23px}}<br />{{flagu|Bulgaria|size=23px}}<br />{{flagu|Croatia|size=23px}}<br />{{flagu|Cyprus|size=23px}}<br />{{flagu|Czech Republic|size=23px}}<br />{{flagu|Denmark|size=23px}}<br />{{flagu|Estonia|size=23px}}<br />{{flagu|Finland|size=23px}}<br />{{flagu|France|size=23px}}<br />{{flagu|Greece|size=23px}}<br />{{flagu|Hungary|size=23px}}<br />{{flagu|Iceland|size=23px}}<br />{{flagu|Ireland|size=23px}}<br />{{flagu|Italy|size=23px}}<br />{{flagu|Kosovo|size=23px}}<br />{{flagu|Latvia|size=23px}}<br />{{flagu|Lithuania|size=23px}}<br />{{flagu|Luxembourg|size=23px}}<br />{{flagu|Malta|size=23px}}<br />{{flagu|Moldova|size=23px}}<br />{{flagu|Montenegro|size=23px}}<br />{{flagu|Netherlands|size=23px}}<br />{{flagu|North Macedonia|size=23px}}<br />{{flagu|Norway|size=23px}}<br />{{flagu|Poland|size=23px}}<br />{{flagu|Portugal|size=23px}}<br />{{flagu|Romania|size=23px}}<br />{{flagu|Serbia|size=23px}}<br />{{flagu|Slovakia|size=23px}}<br />{{flagu|Slovenia|size=23px}}<br />{{flagu|Spain|size=23px}}<br />{{flagu|Sweden|size=23px}}<br />{{flagu|Switzerland|size=17px}}<br />{{flagu|Turkey|size=23px}}<br />{{flagu|Ukraine|size=23px}}<br />{{flagu|United Kingdom|size=23px}}}}
+|}
+| colspan="3" | —
+| colspan="4" style="background:white; color:black" | 3
+| colspan="5" style="background:purple; color:white" | 7
+| colspan="4" style="background:purple; color:white" | 12
+| colspan="2" style="background:purple; color:white" | 16
+| colspan="4" style="background:purple; color:white" | 18
+| colspan="1" style="background:yellow" color:black" | {{tooltip|2=Parental Guidance Recommended|!}}<ref>https://pegi.info/what-do-the-labels-mean</ref>
+|-
+! rowspan="3" style="text-align:left" | {{Flagdeco|GER}} [[#Germany|Germany]]
+| rowspan="3" colspan="6" style="background:white; color:black" | USK 0
+| rowspan="3" colspan="6" style="background:black; color:white" | USK 6
+| rowspan="3" colspan="4" style="background:black; color:white" | USK 12
+| rowspan="3" colspan="2" style="background:black; color:white" | USK 16 
+| rowspan="1" colspan="4" style="background:black; color:white; height:3.75em" | {{Tooltip|2=Video games with a USK 18 rating may be sold publicly. Video games that received a USK rating after 2003 cannot be indexed.|USK 18<ref>{{Cite web |url=https://usk.de/die-usk/arbeit-der-usk/welche-alterskennzeichen-gibt-es/ |title=Welche Alterskennzeichen gibt es? (USK) |website=www.usk.de |access-date=2025-09-14}}</ref>}}
+| rowspan="1" colspan="1" style="background:black; color:white" | {{Tooltip|2=Since the amendment of the Youth Protection Act in May 2021, large online gaming platforms must label their content with age ratings.|Unrated}}<ref>{{Cite web |url=https://usk.de/fuer-unternehmen/spiele-und-apps-pruefen-lassen/spiele-und-apps-im-iarc-system/ |title=Spiele und Apps im IARC-System (USK) |website=www.usk.de |access-date=2026-02-27}}</ref>
+|-
+| colspan="4" style="background:black; color:white" | {{Tooltip|2=Video games that have not been approved by the USK may only be offered and sold to adults.|No Rating<ref>{{Cite web |url=https://usk.de/die-usk/arbeit-der-usk/wann-erhalten-spiele-kein-usk-kennzeichen/ |title=Wann erhalten Spiele kein USK-Kennzeichen (USK) |website=www.usk.de |access-date=2025-09-14}}</ref>}}
+| rowspan="2" colspan="1" style="background:black; color:white" | {{Tooltip|2=Video games that have been confiscated under Section 131 of the German "Strafgesetzbuch" (penal law book) may not be sold in Germany at all. Possession is not punishable by law.|Confiscated<ref>{{Cite web |url=https://usk.de/die-usk/arbeit-der-usk/koennen-games-verboten-werden/ |title=Können Games verboten werden? (USK) |website=www.usk.de |access-date=2025-09-14}}</ref>}}
+|-
+| colspan="4" style="background:black; color:white" | {{Tooltip|2=Video games that have been added to the "Liste der jugendgefährdenden Medien" (List of Media Harmful to Young People) by the "Bundeszentrale für Kinder- und Jugendmedienschutz" (Federal Agency for Child and Youth Protection in the Media) may not be offered or sold to children and adolescents; they may only be sold in stores that are not accessible to minors. Video games that have been indexed cannot receive USK approval.|Indexed<ref>{{Cite web |url=https://usk.de/die-usk/arbeit-der-usk/indizierung/ |title=Was bedeutet Indizierung? (USK) |website=www.usk.de |access-date=2025-09-14}}</ref>}}
+|-
+! style="text-align:left" | {{Flagdeco|IDN}} [[#Indonesia|Indonesia]]
+| colspan="3" | —
+| colspan="4" style="background:white; color:black" | 3+
+| colspan="6" style="background:purple; color:white" | 7+
+| colspan="2" style="background:purple; color:white" | 13+
+| colspan="3" style="background:purple; color:white" | 15+
+| colspan="4" style="background:purple; color:white" | 18+
+| style="background:black; color:white" | Refused classification
+|-
+! style="text-align:left" | 
+{| class="wikitable mw-collapsible mw-collapsed"
+|+ class="nowrap" | [[#International Age Rating Coalition|International Age Rating Coalition]]<br /> (IARC)
+|{{small|{{flagu|Australia|size=23px}} (ACB)<br />{{flagu|Brazil|size=23px}} (ClassInd)<br />{{flag icon|European Union|size=23px}} European countries (PEGI)<br />{{flagu|Germany|size=23px}} (USK)<br />{{flagu|Indonesia|size=23px}} (IGRS)<br />{{flagu|Saudi Arabia|size=23px}} (Gmedia/GAMR)<br />{{flagu|Republic of Korea|size=23px}} (GRAC)<br />{{flagu|Taiwan|size=23px}} (GSRR)<br />{{flagu|United States|size=23px}} (ESRB)}}
+|}
+| colspan="3" | —
+| colspan="4" style="background:white; color:black" | 3+
+| colspan="5" style="background:purple; color:white" | 7+
+| colspan="4" style="background:purple; color:white" | 12+
+| colspan="2" style="background:purple; color:white" | 16+
+| colspan="4" style="background:purple; color:white" | 18+
+| —
+|-
+! style="text-align:left" | {{Flagdeco|IRN}} [[#Iran|Iran]]
+| colspan="3" | —
+| colspan="4" style="background:white; color:black" |+3
+| colspan="5" style="background:purple; color:white" | +7
+| colspan="3" style="background:purple; color:white" | +12
+| colspan="3" style="background:purple; color:white" | +15
+| colspan="4" style="background:purple; color:white" | +18
+| —
+|-
+! rowspan="3" style="text-align:left" | {{Flagdeco|JPN}} [[#Japan|Japan]] ({{Small|[[#Computer Entertainment Rating Organization|CERO]]}})
+| colspan="12" rowspan="3" style="background:white; color:black" | A
+| colspan="3" rowspan="3" style="background:purple; color:white" | B
+| colspan="2" rowspan="3" style="background:purple; color:white" | C
+| rowspan="3" style="background:purple; color:white" | D
+| colspan="4" rowspan="3" style="background:black; color:white" | Z
+| style="background:white; color:black" | {{Tooltip|2=Rating Scheduled|審査予定}}
+|-
+| style="background:white; color:black" | {{Tooltip|教育・データベース|Educational/Database}}
+|-
+| style="background:white; color:black" | {{Tooltip|規定適合|Indicates a demo version of a game}}
+|-
+! style="text-align:left" | {{Flagdeco|JPN}} [[#Japan|Japan]] ({{Small|[[#Ethics Organization of Computer Software|EOCS]]}})
+| colspan="12" style="background:white; color:black" | G
+| colspan="3" style="background:purple; color:white" | 12
+| colspan="3" style="background:purple; color:white" | 15
+| colspan="4" style="background:black; color:white" | 18
+| —
+|-
+! rowspan="2" style="text-align:left" | {{Flagdeco|MEX}} [[#Mexico|Mexico]]
+| rowspan="2" colspan="12" style="background:white; color:black" | A
+| rowspan="2" colspan="3" style="background:purple; color:white" | B
+| rowspan="2" colspan="3" style="background:purple; color:white" | B15
+| colspan="4" style="background:black; color:white" | {{Tooltip|2=Requires age verification for purchase|C}}
+| rowspan="2" style="background:white; color:black" | {{Tooltip|2=Etiquetado Pendiente (Labeling Pending)|P}}
+|-
+| colspan="4" style="background:black; color:white" | {{Tooltip|2=Requires age verification for purchase and is exclusively for adults|D}}
+|-
+! rowspan="2" style="text-align:left" | {{flagdeco|NZ}} [[#New Zealand|New Zealand]]
+| colspan="13" style="background:white; color:black" | G
+| rowspan="2" colspan="2" style="background:black; color:white" | R13
+| rowspan="2" colspan="1" style="background:black; color:white" | R15
+| colspan="2" style="background:purple; color:white" | {{Tooltip|2=M-rated content is unrestricted but aimed at older viewers over the age of 16|M}}
+| rowspan="2" colspan="4" style="background:black; color:white" | R18
+| rowspan="2" style="background:black; color:white" | {{Tooltip|2=Banned|Objectionable}}
+|-
+| colspan="13" style="background:yellow; | PG
+| colspan="2" style="background:black; color:white" | R16
+|-
+! rowspan="2" style="text-align:left" | [[#North America|North America]] (ESRB)<br />{{small|{{Flagu|Canada|size=23px}}<br />{{Flagu|Mexico|size=23px}}<br />{{Flagu|United States|size=23px}}}}
+| colspan="10" style="background:white" | {{Tooltip|2=Suitable for young children; deprecated as of 2018, but previous releases may still show the label|EC}}
+| rowspan="2" colspan="3" style="background:purple; color:white" | E10+
+| rowspan="2" colspan="4" style="background:purple; color:white" | T
+| rowspan="2" style="background:purple; color:white" | M
+| rowspan="2" colspan="4" style="background:black; color:white" | {{Tooltip|2=Computer games with extreme content only to be distributed in licensed premises|AO}}
+| style="background:white; color:black" | {{Tooltip|2=Rating Pending (used in promotional materials only)|RP}}
+|-
+| colspan="10" style="background:white" | E
+| style="background:white; color:black" | {{Tooltip|RP – Likely Mature 17+|Rating Pending, expected to receive an M rating (used in promotional materials only)}}
+|-
+! style="text-align:left" | {{Flagdeco|RUS}} [[#Russia|Russia]]
+| colspan="6" style="background:white; color:black" | 0+
+| colspan="6" style="background:purple; color:white" | 6+
+| colspan="4" style="background:purple; color:white" | 12+
+| colspan="2" style="background:purple; color:white" | 16+
+| colspan="4" style="background:black; color:white" | 18+
+| —
+|-
+! style="text-align:left" | {{Flagdeco|KSA}} [[#Saudi Arabia|Saudi Arabia]]
+| colspan="3" | —
+| colspan="4" style="background:white; color:black" | 3
+| colspan="5" style="background:purple; color:white" | 7
+| colspan="4" style="background:purple; color:white" | 12
+| colspan="2" style="background:purple; color:white" | 16
+| colspan="3" style="background:purple; color:white" | 18
+| style="background:black; color:white" | 21
+|style="background:white; color:black" | {{abbr|TBC|To be classified}}
+|-
+! style="text-align:left" | {{flagdeco|SGP}} [[#Singapore|Singapore]]
+| colspan="16" style="background:white; color:black" | {{Tooltip|2=Games rated General do not require Singapore labels for release.|G}}
+| colspan="2" style="background:purple; color:white" | ADV16
+| colspan="4" style="background:black; color:white" | M18
+| style="background:black; color:white" | Refused classification
+|-
+! rowspan="2" style="text-align:left" | {{Flagdeco|SVK}} [[#Slovakia|Slovakia]]
+| colspan="12"  style="background:white; color:black" | {{Tooltip|2=Suitable for minors up to 12 years of age|"Teddy bear's head"}}  
+| rowspan="2" colspan="3" style="background:purple; color:white" | 12
+| rowspan="2" colspan="3" style="background:purple; color:white" | 15
+| rowspan="2" colspan="4" style="background:black; color:white" | 18
+| rowspan="2" | —
+|-
+| colspan="7" style="background:white; color:black" | U
+| colspan="5" style="background:purple; color:white" | 7
+|-
+! rowspan="2" style="text-align:left" | {{flagdeco|ZAF}} [[#South Africa|South Africa]]
+| rowspan="2" colspan="7" style="background:white;" | PG
+| colspan="3" style="background:black; color:white;" | {{tooltip|2=Children aged between seven and nine must be accompanied by an adult.|{{nowrap|7–9PG}}}}
+| colspan="3" style="background:red; color:white;" | {{tooltip|2=Children aged between seven and nine must be accompanied by an adult.|{{nowrap|7–9PG}}}}
+| colspan="3" style="background:black; color:white;" | 13
+| rowspan="2" colspan="2" style="background:black; color:white;" | 16
+| colspan="4" style="background:black; color:white;" | 18
+| rowspan="2" style="background:black; color:white;"| {{tooltip|2=Banned|XX|dotted=yes}}
+|-
+| colspan="3" | —
+| colspan="3" style="background:black; color:white;" | {{tooltip|2=Children aged between ten and twelve must be accompanied by an adult.|{{nowrap|10–12PG}}}}
+| colspan="3" style="background:red; color:white;" | {{tooltip|2=Children aged between ten and twelve must be accompanied by an adult.|{{nowrap|10–12PG}}}}
+| colspan="4" style="background:black; color:white;" | {{tooltip|2=Distribution restricted to licensed premises|X18|dotted=yes}}
+|-
+! style="text-align:left" | {{Flagdeco|KOR}} [[#South Korea|South Korea]]
+| colspan="12" style="background:white; color:black" | ALL
+| colspan="3" style="background:purple; color:white" | 12
+| colspan="4" style="background:purple; color:white" | 15
+| colspan="3" style="background:black; color:white" | 19
+| style="background:black; color:white" | Refused classification
+|-
+! style="text-align:left" | {{Flagdeco|Taiwan}} [[#Taiwan|Taiwan]]
+| colspan="6" style="background:white; color:black" | 0+
+| colspan="6" style="background:black; color:white" | 6+
+| colspan="3" style="background:black; color:white" | 12+
+| colspan="3" style="background:black; color:white" | 15+
+| colspan="4" style="background:black; color:white" | 18+
+| —
+|-
+! style="text-align:left" | {{Flagdeco|UAE}} [[#United Arab Emirates|United Arab Emirates]]
+| colspan="3" | —
+| colspan="4" style="background:white; color:black" | 3
+| colspan="5" style="background:purple; color:white" | 7
+| colspan="4" style="background:purple; color:white" | 12
+| colspan="2" style="background:purple; color:white" | 16
+| colspan="3" style="background:purple; color:white" | 18
+| style="background:purple; color:white" | 21
+| —
+|-
+! Country/System !! 0 !! 1 !! 2 !! 3 !! 4 !! 5 !! 6 !! 7 !! 8 !! 9 !! 10 !! 11 !! 12 !! 13 !! 14 !! 15 !! 16 !! 17 !! 18 !! 19 !! 20 !! 21 !! Other
+|-
+| colspan="24" | '''Specific Storefront Ratings Systems'''
+|-
+! rowspan="2" style="text-align:left" | [[App Store (iOS/iPadOS)#Application ratings|App Store (iOS/iPadOS)]]
+| rowspan="2" colspan="4" | —
+| colspan="2" style="background:white; color:black" | 4+ <br /> {{Small|(aged 5 and under)}}
+| colspan="3" style="background:white; color:black" | 4+ <br /> {{Small|(ages 6–8)}}
+| colspan="3" style="background:white; color:black" | 4+ <br /> {{Small|(ages 9–11)}}
+| —
+| colspan="3" rowspan="2" style="background:purple; color: white" | 13+
+| colspan="2" rowspan="2" style="background:purple; color:white" |16+
+| colspan="4" rowspan="1" style="background:purple; color:white" |18+
+| rowspan="2" style="background:black; color:white" | {{Tooltip|2=Apps without a rating cannot be purchased on App Store|No Rating}}
+|-
+| colspan="5" style="background:white; color:black" | 4+
+| colspan="4" style="background:purple; color:white; height:3em" | 9+
+| colspan="4" rowspan="1" style="background:black; color:white" |{{Tooltip|2=Apps rated 18+ are restricted in Australia, Brazil, Singapore, and United Kingdom|18+}}
+|-
+! style="text-align:left" | [[Google Play]] (South Korea)<ref name="support.google.com">{{Cite web |title=Requirements related to content ratings for apps, games and the ads served on both|url=https://support.google.com/googleplay/android-developer/answer/9859655?hl=en|website=Google|access-date=2024-08-24}}</ref>
+| colspan="3" | —
+| colspan="4" style="background:white; color:black" | 3
+| colspan="5" style="background:purple; color:white" | 7
+| colspan="4" style="background:purple; color:white" | 12
+| colspan="3" style="background:purple; color:white" | 16
+| colspan="3" style="background:black; color:white" | 19
+| style="background:white; color:black" | Unrated
+
+|-
+! style="text-align:left" | [[Google Play]] (Russia)<ref name="support.google.com"/>
+| colspan="3" | —
+| colspan="4" style="background:white; color:black" | 3
+| colspan="5" style="background:purple; color:white" | 7
+| colspan="4" style="background:purple; color:white" | 12
+| colspan="2" style="background:purple; color:white" | 16
+| colspan="4" style="background:black; color:white" | 18
+| style="background:white; color:black" | Unrated
+|-
+! style="text-align:left" | [[Samsung Galaxy Store#Ratings system|Samsung Galaxy Store]]
+| colspan="4" style="background:white; color:black" | All
+| colspan="8" style="background:white; color:black" | 4+
+| colspan="3" style="background:purple; color:white" | 12+
+| colspan="3" style="background:purple; color:white" | 15+
+| colspan="4" style="background:black; color:white" | 18+
+| style="background:black; color:white" | Banned
+
+|}
+
+== Initial controversy ==
+{{Main|Video game controversies}}
+Similar to other forms of media, [[video game]]s have been the subject of argument between leading professionals and restriction and prohibition. Often these bouts of criticism come from use of debated topics such as video game [[graphic violence]], virtual sex, violent and gory scenes, partial or full nudity, drug use, portrayal of [[crime|criminal behavior]] or other provocative and objectionable material.
+Video games have also been studied for links to [[video game addiction|addiction]] and [[aggression]]. A meta analysis of studies from both eastern and western countries yielded evidence that "strongly suggests that exposure to violent video games is a causal risk factor for increased aggressive behavior, aggressive cognition, and aggressive affect and for decreased empathy and prosocial behavior."<ref>{{Cite journal|title = Violent video game effects on aggression, empathy, and prosocial behavior in eastern and western countries: a meta-analytic review.|last = Anderson|first = Craig A.|date = 2010|journal = Psychological Bulletin|volume = 136|issue = 2|pages = 151–173|doi = 10.1037/a0018251|pmid = 20192553|display-authors=etal|citeseerx = 10.1.1.535.382}}</ref>
+
+There are also groups that have argued to the contrary, that few if any scientifically proven studies exist to back up these claims, and that the video game industry has become an easy target for the media to blame for many contemporary issues.<ref>"Video Violence: Villain or Victim?", Guy Cumberbatch, London Video Standards Council, 2004</ref><ref>"It's Not the Media", [[Karen Sternheimer]], [[Westview Press]], 2003</ref><ref>{{Cite news|last = Benedetti|first=Winda|title=Why search our souls when video games make such an easy scapegoat?|publisher=[[NBC News]]|date = 2008-02-18|url=http://www.nbcnews.com/id/23204875|archive-url=https://web.archive.org/web/20130809153317/http://www.nbcnews.com/id/23204875|url-status=dead|archive-date=August 9, 2013|access-date=2008-08-27}}</ref> Researchers have also proposed potential positive effects of video games on aspects of social and cognitive development and psychological well-being.<ref>{{Cite news|last=Radoff|first=Jon|title=Six Wonderful Things about Games|date=2009-12-08|url=http://radoff.com/blog/2009/12/08/six-wonderful-things-about-games/|access-date=2009-12-19}}</ref> It has been shown that action video game players have better [[hand-eye coordination]] and visuo-motor skills, such as their resistance to distraction, their sensitivity to information in the peripheral vision and their ability to count briefly presented objects, than non-players.<ref>{{cite journal|title=Action video game modifies visual selective attention|first1=C. Shawn|last1=Green|first2=Daphne|last2=Bavelier|date=29 May 2003|journal=Nature|volume=423|issue=6939|pages=534–7|doi=10.1038/nature01647|pmid=12774121|bibcode=2003Natur.423..534G |s2cid=1521273|url=https://archive-ouverte.unige.ch/unige:103890|doi-access=free}}</ref>
+
+== Rating systems ==
+=== Argentina ===
+<!--
+@@@@@****************************************************************@@@@@
+| IMPORTANT NOTE: Please DO NOT add any comparisons to other countries'  |
+| ratings systems (i.e., adding, "this rating is similar to X-country's  |
+| rating", etc.), or examples of video games. We do not need any         |
+| comprehensive or all-inclusive lists of other ratings systems from     |
+| other countries, or of every single video game in the world. This is   |
+| NOT a place to promote your country's rating/classification system, or |
+| your favorite video games. Any edits doing so - regardless of having a |
+| source or not - are a violation of WP:TRIVIA and will be reverted.     |
+| Repeat violators will be blocked. Thank you for your cooperation.      |
+@@@@@****************************************************************@@@@@
+-->
+
+The law 26.043 (passed in 2005) states that the '''National Council of Children, Youth and Family''' (''''Consejo Nacional de la Niñez, Adolescencia y la Familia'''') in coordination with the '''[[National Institute of Cinema and Audiovisual Arts]]''' will be the [[Government agency|government agencies]] that assigns age ratings.<ref>{{Cite web|url=http://www.3dgames.com.ar/Noticias/3849.ley-26-043-regula-los-videojuegos|title=Ley 26.043 regula los videojuegos|date=2005-07-19|publisher=3DGames|author=Kaverna|language=es|access-date=2013-09-24|archive-date=2018-02-15|archive-url=https://web.archive.org/web/20180215023600/http://www.3dgames.com.ar/Noticias/3849.ley-26-043-regula-los-videojuegos|url-status=dead}}</ref><ref>{{Cite web|last1=Com |first1=Cronista |url=http://www.cronista.com/impresageneral/Ley-26.043---Los-videojuegos-deben-llevar-la-leyenda-La-sobreexposicion-es-perjudicial-para-la-salud--20050718-0086.html|title=Ley 26.043 - Los videojuegos deben llevar la leyenda "La sobreexposición es perjudicial para la salud"|work=El Cronista |date=2005-07-17|publisher=[[El Cronista]]|language=es}}</ref><ref>{{Cite web|url=http://www.aladi.org/nsfaladi/normasTecnicas.nsf/09267198f1324b64032574960062343c/eb488ab4a5cca75b032579e20050384d?OpenDocument|title=Juguetes, juegos y artículos para recreo o deporte; sus partes y accesorios. Capítulo 95 del SA.|publisher=[[Latin American Integration Association]]|language=es}}</ref> The Argentine Game Developer Association ('''''Asociación de Desarrolladores de Videojuegos Argentina''''') was critical of the law.<ref>{{Cite web|url=http://www.saberderecho.com/2006/03/los-videojuegos-parte-final-su.html|title=Los videojuegos, parte final: su regulación en Argentina|date=2006-03-15|author=Gustavo Arballo|publisher=SaberDerecho.com|language=es}}</ref><ref>{{Cite web|url=http://adva.com.ar/ |title=ADVA |access-date=September 24, 2013 |url-status=unfit |archive-url=https://web.archive.org/web/20051024001650/http://adva.com.ar/ |archive-date=October 24, 2005 }}</ref><ref>{{Cite web|url=http://vivetujuego.blogspot.com.ar/|title=Videojuegos|access-date=14 February 2018|archive-date=15 February 2018|archive-url=https://web.archive.org/web/20180215023459/http://vivetujuego.blogspot.com.ar/|url-status=dead}}</ref> There are three ratings: "Suitable for all public", "Suitable for those over 13 years of age" and "Suitable for those over 18 years of age".<ref>{{Cite web |title=Videojuegos – Ley 26.043 |trans-title=Video Game – Law 26,043 |date=1 June 2005 |location=Buenos Aires |publisher=The Senate and Chamber of Deputies of the Argentine Nation |url=http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/107891/norma.htm |access-date=26 October 2018}}</ref>
+
+=== Australia ===
+<!--
+@@@@@****************************************************************@@@@@
+| IMPORTANT NOTE: Please DO NOT add any comparisons to other countries'  |
+| ratings systems (i.e., adding, "this rating is similar to X-country's  |
+| rating", etc.), or examples of video games. We do not need any         |
+| comprehensive or all-inclusive lists of other ratings systems from     |
+| other countries, or of every single video game in the world. This is   |
+| NOT a place to promote your country's rating/classification system, or |
+| your favorite video games. Any edits doing so - regardless of having a |
+| source or not - are a violation of WP:TRIVIA and will be reverted.     |
+| Repeat violators will be blocked. Thank you for your cooperation.      |
+@@@@@****************************************************************@@@@@
+-->
+{{Multiple image |perrow=5 |caption_align=center |header_align=center |width = 50
+ | image1 = Australian_Classification_General_(G).svg
+ | alt1 = G
+ | image2 = Australian_Classification_Parental_Guidance_(PG).svg
+ | alt2 = PG
+ | image3 = Australian_Classification_Mature_(M).svg
+ | alt3 = M
+ | image4 = Australian_Classification_Mature_15+_(MA_15+).svg
+ | alt4 = MA15+
+ | image5 = Australian_Classification_Restricted_18+_(R_18+).svg
+ | alt5 = R18+
+}}{{Main|Australian Classification Board}}
+
+* Advisory categories
+** General ('''G''') – ''General''. The content is very mild in impact. The G classification is suitable for everyone.
+** Parental Guidance ('''PG''') – ''Parental guidance recommended''. The content is mild in impact. It is not recommended for viewing or playing by persons under 15 without guidance from parents or guardians.
+** Mature ('''M''') – ''Recommended for mature audiences''. The content is moderate in impact. Children under 15 may legally access this material because it is an advisory category. However, M classified films and computer games may include classifiable elements such as violence and nudity of moderate impact that are not recommended for children under 15 years. 
+* Restricted categories
+** Mature Accompanied ('''MA 15+''') – ''Not suitable for people under 15. Under 15s must be accompanied by a parent or adult guardian''. The content is strong in impact.
+** Restricted ('''R 18+''') – ''Restricted to 18 years and over''. The content is high in impact. Despite this category being legally restricted, in Queensland the restriction is not applicable to persons under 2.
+
+The '''Australian Classification Board''' ('''ACB''') is a [[statute|statutory]] classification body formed by the [[Government of Australia|Australian Government]] which classifies [[film]]s, [[video game]]s and [[publication]]s for exhibition, sale or hire in [[Australia]] since its establishment in 1970. The Classification Board was originally incorporated in the '''Office of Film and Literature Classification''' ('''OFLC''') which was dissolved in 2006. Originally a part of the [[Attorney-General's Department (Australia)|Attorney-General's Department]] and overseen by the [[Minister for Justice (Australia)|Minister for Justice]], the ACB is now a branch of the [[Department of Communications and the Arts]] which provides administrative support to the Board and is overseen by the [[Minister for Communications (Australia)|Minister for Communications & the Arts]]. Decisions made by the Board may be reviewed by the Australian [[Australian Classification Review Board|Classification Review Board]].
+
+=== Brazil ===
+<!--
+@@@@@****************************************************************@@@@@
+| IMPORTANT NOTE: Please DO NOT add any comparisons to other countries'  |
+| ratings systems (i.e., adding, "this rating is similar to X-country's  |
+| rating", etc.), or examples of video games. We do not need any         |
+| comprehensive or all-inclusive lists of other ratings systems from     |
+| other countries, or of every single video game in the world. This is   |
+| NOT a place to promote your country's rating/classification system, or |
+| your favorite video games. Any edits doing so - regardless of having a |
+| source or not - are a violation of WP:TRIVIA and will be reverted.     |
+| Repeat violators will be blocked. Thank you for your cooperation.      |
+@@@@@****************************************************************@@@@@
+-->
+{{Multiple image
+| perrow            = 7
+| caption_align     = center
+| header_align      = center
+| width             = 50
+| image1            = Classificação Indicativa Livre.svg
+| alt1              = L
+| image2            = Classificação Indicativa 6 anos.svg
+| alt2              = 6
+| image3            = Classificação Indicativa 10 anos.svg
+| alt3              = 10
+| image4            = Classificação Indicativa 12 anos.svg
+| alt4              = 12
+| image5            = Classificação Indicativa 14 anos.svg
+| alt5              = 14
+| image6            = Classificação Indicativa 16 anos.svg
+| alt6              = 16
+| image7            = Classificação Indicativa 18 anos.svg
+| alt7              = 18
+}}
+{{Main|Brazilian advisory rating system}}
+
+The '''advisory rating''' ('''ClassInd''') (''Classificação Indicativa'' in Portuguese) rates [[film]]s, [[game]]s and [[television show]]s in [[Brazil]]. It is controlled by the [[Ministry of Justice (Brazil)|Ministry of Justice]] (''Ministério da Justiça'').
+
+* '''L''' - General Audiences.
+* '''6''' - Not recommended for minors under six.
+* '''10''' - Not recommended for minors under ten.
+* '''12''' - Not recommended for minors under twelve.
+* '''14''' - Not recommended for minors under fourteen.
+* '''16''' - Not recommended for minors under sixteen.
+* '''18''' - Not recommended for minors under eighteen.
+
+=== Chile ===
+<!--
+@@@@@****************************************************************@@@@@
+| IMPORTANT NOTE: Please DO NOT add any comparisons to other countries'  |
+| ratings systems (i.e., adding, "this rating is similar to X-country's  |
+| rating", etc.), or examples of video games. We do not need any         |
+| comprehensive or all-inclusive lists of other ratings systems from     |
+| other countries, or of every single video game in the world. This is   |
+| NOT a place to promote your country's rating/classification system, or |
+| your favorite video games. Any edits doing so - regardless of having a |
+| source or not - are a violation of WP:TRIVIA and will be reverted.     |
+| Repeat violators will be blocked. Thank you for your cooperation.      |
+@@@@@****************************************************************@@@@@
+-->
+{{Multiple image
+| perrow            = 5
+| caption_align     = center
+| header_align      = center
+| width             = 50
+| image1            = Especialmente recomendado.svg
+| alt1              = ER
+| image2            = Toda edad (content rating system).svg
+| alt2              = TE
+| image3            = 8 años o más (content rating system).svg
+| alt3              = 8+
+| image4            = 14 años o más (content rating system).svg
+| alt4              = 14+
+| image5            = 18 años o más (content rating system).svg
+| alt5              = 18+
+}}
+{{Main|Chilean video game content rating system}}
+
+Games are classified by the Council of Cinematographic Classification (''Consejo de Calificación Cinematográfica'') which is a central agency under the Ministry of Education.<ref name=chile>{{Cite web |url=https://www.bcn.cl/leyfacil/recurso/calificacion-de-videojuegos |title=Calificación de videojuegos |date=27 November 2014 |trans-title=Video game rating |publisher=[[Biblioteca del Congreso]] |location=Chile |language=es |archive-url=https://web.archive.org/web/20200627184604/https://www.bcn.cl/leyfacil/recurso/calificacion-de-videojuegos |archive-date=27 June 2020 |url-status=live}}</ref>
+
+The current age ratings are:
+* '''ER (Especialmente Recomendado)''' – Recommended for children.
+* '''TE (Toda Edad)''' – All ages.
+* '''8+''' – Not recommended for children under 8 years of age.
+* '''14+''' – Not recommended for children under 14 years of age.
+* '''18+''' – Not recommended for children under 18 years of age.
+
+The manufacturers, importers, suppliers and merchants are only permitted to sell and rent video games that are classified as 8, 14 or 18, to those who prove they meet those ages respectively. In the case of each sale or lease by physical means, the respective identity card is required.<ref>{{cite web | url=https://www.bcn.cl/leychile/navegar?idNorma=1160403&idParte= | title=Biblioteca del Congreso Nacional &#124; Ley Chile }}</ref>
+
+=== China ===
+<!--
+@@@@@****************************************************************@@@@@
+| IMPORTANT NOTE: Please DO NOT add any comparisons to other countries'  |
+| ratings systems (i.e., adding, "this rating is similar to X-country's  |
+| rating", etc.), or examples of video games. We do not need any         |
+| comprehensive or all-inclusive lists of other ratings systems from     |
+| other countries, or of every single video game in the world. This is   |
+| NOT a place to promote your country's rating/classification system, or |
+| your favorite video games. Any edits doing so - regardless of having a |
+| source or not - are a violation of WP:TRIVIA and will be reverted.     |
+| Repeat violators will be blocked. Thank you for your cooperation.      |
+@@@@@****************************************************************@@@@@
+-->
+{{Multiple image
+| perrow            = 3
+| caption_align     = center
+| header_align      = center
+| width             = 50
+<!-- DO NOT replace these PNG images as they are the accurate design of the CADPA age rating symbols. Do not use the existing SVG files until they are replaced with the official accurate designs. -->| image1            = CADPA 8+.svg
+| alt1              = 8
+| image2            = CADPA 12+.svg
+| alt2              = 12
+| image3            = CADPA 16+.svg
+| alt3              = 16
+}}
+
+China introduced a pilot content rating system in December 2020 called the Online Game Age-Appropriateness Warning, which is overseen by the governmental agency '''{{ill|China Audio-video and Digital Publishing Association|zh|中国音像与数字出版协会}}''' ('''CADPA'''). Games with online components are required to show one of the three classifications on websites and registration pages: green for "8+" (appropriate for players 8 years and older), blue for "12+", and yellow for "16+".<ref>{{Cite web |url=https://www.gamesindustry.biz/articles/2020-12-18-china-introduces-new-age-rating-system | title = China introduces new age rating system |first=Marie |last=Dealessandri |date=December 18, 2020 |access-date=December 18, 2020 |work=[[GamesIndustry.biz]]}}</ref>
+
+=== Europe ===
+<!--
+@@@@@****************************************************************@@@@@
+| IMPORTANT NOTE: Please DO NOT add any comparisons to other countries'  |
+| ratings systems (i.e., adding, "this rating is similar to X-country's  |
+| rating", etc.), or examples of video games. We do not need any         |
+| comprehensive or all-inclusive lists of other ratings systems from     |
+| other countries, or of every single video game in the world. This is   |
+| NOT a place to promote your country's rating/classification system, or |
+| your favorite video games. Any edits doing so - regardless of having a |
+| source or not - are a violation of WP:TRIVIA and will be reverted.     |
+| Repeat violators will be blocked. Thank you for your cooperation.      |
+@@@@@****************************************************************@@@@@
+-->
+{{Multiple image
+| perrow            = 5
+| caption_align     = center
+| header_align      = center
+| width             = 50
+| image1            = PEGI 3.svg
+| alt1              = 3
+| image2            = PEGI 7.svg
+| alt2              = 7
+| image3            = PEGI 12.svg
+| alt3              = 12
+| image4            = PEGI 16.svg
+| alt4              = 16
+| image5            = PEGI 18.svg
+| alt5              = 18
+}}
+{{Main|PEGI}}
+
+The '''Pan European Game Information''' ('''PEGI''') is a [[Europe]]an video game content rating system established to help European parents make informed decisions on buying computer games with logos on games boxes. It was developed by the Interactive Software Federation of Europe (now [[Video Games Europe]])<ref>{{Cite web |title=The PEGI organisation |url=https://pegi.info/page/pegi-organisation |access-date=2026-04-17 |website=pegi.info |language=en}}</ref> and came into use in April 2003; it replaced many national age rating systems with a single European system. The PEGI system is now used in more than thirty-one countries and is based on a code of conduct, a set of rules to which every publisher using the PEGI system is contractually committed. PEGI self-regulation is composed by five age categories and seven content descriptors that advise the suitability and content of a game for a certain age range based on the games content. The ratings are:
+
+*'''3''': Suitable for all age groups.
+*'''7''': Not suitable for younger children.
+*'''12''': Not suitable for persons under 12 years of age.
+*'''16''': Not suitable for persons under 16 years of age.
+*'''18''': For adults.
+
+The ratings do not indicate the difficulty of the game or the skill required to play it.<ref>{{Cite web|url=https://pegi.info/what-do-the-labels-mean|title=PEGI Pan European Game Information - What do the labels mean?<!-- Bot generated title -->}}</ref>
+
+=== Germany ===
+<!--
+@@@@@****************************************************************@@@@@
+| IMPORTANT NOTE: Please DO NOT add any comparisons to other countries'  |
+| ratings systems (i.e., adding, "this rating is similar to X-country's  |
+| rating", etc.), or examples of video games. We do not need any         |
+| comprehensive or all-inclusive lists of other ratings systems from     |
+| other countries, or of every single video game in the world. This is   |
+| NOT a place to promote your country's rating/classification system, or |
+| your favorite video games. Any edits doing so - regardless of having a |
+| source or not - are a violation of WP:TRIVIA and will be reverted.     |
+| Repeat violators will be blocked. Thank you for your cooperation.      |
+@@@@@****************************************************************@@@@@
+-->
+{{Multiple image
+| perrow            = 5
+| caption_align     = center
+| header_align      = center
+| width             = 50
+| image1            = USK 0.svg
+| alt1              = 0
+| image2            = USK 6.svg
+| alt2              = 6
+| image3            = USK 12.svg
+| alt3              = 12
+| image4            = USK 16.svg
+| alt4              = 16
+| image5            = USK 18.svg
+| alt5              = 18
+}}
+{{Main|Unterhaltungssoftware Selbstkontrolle}}
+
+'''[[Unterhaltungssoftware Selbstkontrolle]]''' ('''USK'''; {{lit|Entertainment Software Self-Regulation Body}}), is [[Germany]]'s [[video game]] rating organization founded in 1994.
+* '''USK 0''' - Approved without age restriction.
+* '''USK 6''' - Approved for children aged 6 and above.
+* '''USK 12''' - Approved for children aged 12 and above.
+* '''USK 16''' - Approved for children aged 16 and above.
+* '''USK 18''' - Not approved for young persons.
+
+=== Indonesia ===
+<!--
+@@@@@****************************************************************@@@@@
+| IMPORTANT NOTE: Please DO NOT add any comparisons to other countries'  |
+| ratings systems (i.e., adding, "this rating is similar to X-country's  |
+| rating", etc.), or examples of video games. We do not need any         |
+| comprehensive or all-inclusive lists of other ratings systems from     |
+| other countries, or of every single video game in the world. This is   |
+| NOT a place to promote your country's rating/classification system, or |
+| your favorite video games. Any edits doing so - regardless of having a |
+| source or not - are a violation of WP:TRIVIA and will be reverted.     |
+| Repeat violators will be blocked. Thank you for your cooperation.      |
+@@@@@****************************************************************@@@@@
+-->
+{{Multiple image
+| perrow            = 5
+| caption_align     = center
+| header_align      = center
+| width             = 50
+| image1            = IGRS 3+ 2024.svg
+| alt1              = 3+
+| image2            = IGRS 7+ 2024.svg
+| alt2              = 7+
+| image3            = IGRS 13+ 2024.svg
+| alt3              = 13+
+| image4            = IGRS 15+ 2024.svg
+| alt4              = 15+
+| image5            = IGRS 18+ 2024.svg
+| alt5              = 18+
+| footer            = The IGRS classifications used in Indonesia as of 2024.
+}}
+
+{{Main|Indonesia Game Rating System}}
+
+The '''Indonesia Game Rating System''' ('''IGRS''') is the official video game content rating system founded and set by the Indonesian [[Ministry of Communication and Informatics (Indonesia)|Ministry of Communication and Informatics]] in 2016.<ref>{{Cite news|url=http://tekno.kompas.com/read/2016/08/12/14360007/Indonesia.Resmi.Punya.Sistem.Rating.Game.Sendiri |title=Indonesia Resmi Punya Sistem "Rating Game" Sendiri |last=Widiartanto |first=Yoga Hastayadi |date=2016-08-12 |work=Kompas.com |access-date=2017-11-11 |language=id}}</ref> IGRS rates games that are developed and published in Indonesia. There are 5 classifications of ratings based on the game content, which includes the use of alcohol, cigarettes, drugs, violence, blood, language, sexual content, etc.
+
+These are the following classifications:<ref>{{cite web |title=Indonesia Game Rating System |publisher=[[Ministry of Communication and Informatics (Indonesia)|Ministry of Communication and Informatics]] |location=Indonesia |url=https://www.igrs.id/ |archive-url=https://web.archive.org/web/20251002144016/https://www.igrs.id/ |archive-date= 2 October 2025 |url-status=dead}}</ref>
+* '''3+''' {{Spaced ndash}}Age 3 and over. No restricted content is shown including adult content, use of drugs, gambling simulation, and online interactions.
+* '''7+''' {{Spaced ndash}}Age 7 and over. No restricted content is shown including adult content, use of drugs, gambling simulation, and online interactions. 
+* '''13+''' {{Spaced ndash}}Age 13 and over. Restricted contents are partially shown, including light use of drugs and alcohol by figures/background characters, cartoon violence, mild language, gambling simulation, horror theme, and online interactions. 
+* '''15+''' {{Spaced ndash}}Age 15 and over. Restricted contents are partially shown, including limited animated violence without hatred, online interactions with language filters, blood elements, and non-sexual adult humor.
+* '''18+''' {{Spaced ndash}}Age 18 and over. Restricted contents are mostly shown, if not all, including use of drugs and alcohol by main characters, realistic violence (blood, gore, mutilation, etc.), crude humor, gambling simulation, horror theme, and online interactions.
+
+Since November 2019, various imported [[PlayStation]] titles released since then have been rated by the IGRS after [[Sony Interactive Entertainment|SIE Asia]] opened their Indonesian office. Those titles are also marked as "Official Indonesia Products" ({{langx|id|Produk Resmi Indonesia|links=yes}}).
+
+In 2024, the Ministry of Communications and Informatics revised the IGRS in Ministerial Regulation MCI 2/2024, subsequently requiring that every video game publisher to have an Indonesian representative office, as all games imported into the country must be age rated. After overhauling and launching the new application system in October 2025, this will be enforced in practise starting January 2026.
+
+=== International Age Rating Coalition ===
+<!--
+@@@@@****************************************************************@@@@@
+| IMPORTANT NOTE: Please DO NOT add any comparisons to other countries'  |
+| ratings systems (i.e., adding, "this rating is similar to X-country's  |
+| rating", etc.), or examples of video games. We do not need any         |
+| comprehensive or all-inclusive lists of other ratings systems from     |
+| other countries, or of every single video game in the world. This is   |
+| NOT a place to promote your country's rating/classification system, or |
+| your favorite video games. Any edits doing so - regardless of having a |
+| source or not - are a violation of WP:TRIVIA and will be reverted.     |
+| Repeat violators will be blocked. Thank you for your cooperation.      |
+@@@@@****************************************************************@@@@@
+-->
+{{Main|International Age Rating Coalition}}
+
+The '''International Age Rating Coalition (IARC)''' is an association of various organizations for the global age rating of online games and apps. The age rating is assigned according to the specifications of the respective national self-regulation bodies, so that it is generated directly for each region or country. Before being published on these gaming platforms, the content of games is evaluated using a questionnaire-based system. This questionnaire collects information on content relevant to the protection of minors, such as depictions of violence, as well as on possible risks of use, such as chat or purchase functions.<ref name="globalratings.com">{{Cite web |url=https://www.globalratings.com/about.aspx |title=About the International Age Rating Coalition (IARC) |website=www.globalratings.com |access-date=2025-09-14}}</ref><ref>{{Cite web |title=Milestones |url=https://globalratings.com/milestones/ |access-date=2026-01-29 |website=IARC |language=en-US}}</ref>
+
+* '''3+''' - Video game or software content suitable for ages 3 and above.
+* '''7+''' - Video game or software content suitable for ages 7 and above.
+* '''12+''' - Video game or software content suitable for ages 12 and above.
+* '''16+''' - Video game or software content suitable for ages 16 and above.
+* '''18+''' - Video game or software content suitable for ages 18 and above (adults).
+
+=== Iran ===
+<!--
+@@@@@****************************************************************@@@@@
+| IMPORTANT NOTE: Please DO NOT add any comparisons to other countries'  |
+| ratings systems (i.e., adding, "this rating is similar to X-country's  |
+| rating", etc.), or examples of video games. We do not need any         |
+| comprehensive or all-inclusive lists of other ratings systems from     |
+| other countries, or of every single video game in the world. This is   |
+| NOT a place to promote your country's rating/classification system, or |
+| your favorite video games. Any edits doing so - regardless of having a |
+| source or not - are a violation of WP:TRIVIA and will be reverted.     |
+| Repeat violators will be blocked. Thank you for your cooperation.      |
+@@@@@****************************************************************@@@@@
+-->
+{{Multiple image
+| perrow            = 5
+| caption_align     = center
+| header_align      = center
+| width             = 50
+| image1            = ESRA +3 (Latin script).svg
+| alt1              = +3
+| image2            = ESRA +7 (Latin script).svg
+| alt2              = +7
+| image3            = ESRA +12 (Latin script).svg
+| alt3              = +12
+| image4            = ESRA +15 (Latin script).svg
+| alt4              = +15
+| image5            = ESRA +18 (Latin script).svg
+| alt5              = +18
+| image6            = ESRA +3 (Persian).svg
+| alt6              = +3
+| image7            = ESRA +7 (Persian).svg
+| alt7              = +7
+| image8            = ESRA +12 (Persian).svg
+| alt8              = +12
+| image9            = ESRA +15 (Persian).svg
+| alt9              = +15
+| image10           = ESRA +18 (Persian).svg
+| alt10             = +18
+}}
+
+{{Main|Entertainment Software Rating Association}}
+
+The '''Entertainment Software Rating Association''' ({{langx|fa|اسرا}}) ('''ESRA''') is a governmental video game content rating system that is used in [[Iran]]. Games that have been exempt from the rating are ''de facto'' banned from sale in Iran.
+
+* '''+3'''{{Spaced ndash}}Ages 3 and over
+* '''+7'''{{Spaced ndash}}Ages 7 and over
+* '''+12'''{{Spaced ndash}}Ages 12 and over
+* '''+15'''{{Spaced ndash}}Ages 15 and over
+* '''+18'''{{Spaced ndash}}Ages 18 and over
+
+=== Japan ===
+<!--
+@@@@@****************************************************************@@@@@
+| IMPORTANT NOTE: Please DO NOT add any comparisons to other countries'  |
+| ratings systems (i.e., adding, "this rating is similar to X-country's  |
+| rating", etc.), or examples of video games. We do not need any         |
+| comprehensive or all-inclusive lists of other ratings systems from     |
+| other countries, or of every single video game in the world. This is   |
+| NOT a place to promote your country's rating/classification system, or |
+| your favorite video games. Any edits doing so - regardless of having a |
+| source or not - are a violation of WP:TRIVIA and will be reverted.     |
+| Repeat violators will be blocked. Thank you for your cooperation.      |
+@@@@@****************************************************************@@@@@
+-->
+In Japan, the content rating is not required by law, but most commercial video game publishers take the industry self-regulations. Console manufacturers often require video game publishers to have their games rated by CERO. Distributors of [[personal computer game|PC games]] (mostly [[dating sim]]s, [[visual novel]]s, and [[eroge]]) require games having the approval of EOCS or Japan contents Review Center.<ref>{{Cite web|url=https://www8.cao.go.jp/youth/kankyou/internet_torikumi/guideline_002.html|title=外部リンク：「青少年の健全な育成のためのコンテンツ流通研究会 報告書」の公表について（H18.4.18）（WARP）|work=内閣府ホームページ |date=2006-04-18|publisher=[[Ministry of Economy, Trade and Industry]]|language=ja|access-date=2019-06-01}}</ref> These ratings are referred to by local governments, and the Ordinance Regarding the Healthy Development of Youths ([[w:ja:青少年保護育成条例|青少年健全育成条例]]) prohibits retailers from supplying 18+ rating games to persons under 18.<ref>{{Cite web|url=http://www.pref.hokkaido.lg.jp/ks/dms/ss/dantaishitei.htm|title=有害図書類の指定に係る審査団体の指定について|date=2018-09-20|website=www.pref.hokkaido.lg.jp|publisher=[[Hokkaido]] Government|language=ja|access-date=2019-06-02}}</ref><ref>{{Cite web|url=http://www.mext.go.jp/b_menu/shingi/chukyo/chukyo0/toushin/07020115/021.htm|title=中央教育審議会 次代を担う自立した青少年の育成に向けて－青少年の意欲を高め，心と体の相伴った成長を促す方策について－（答申）［参考資料］ 都道府県の青少年保護育成条例における有害図書類等の指定等に関する規定について－文部科学省|date=2007-01-30|website=www.mext.go.jp|publisher=[[Ministry of Education, Culture, Sports, Science and Technology]]|access-date=2019-06-03}}</ref> [[Dōjin soft]]s do not have such restrictions, but distribution of obscene materials can be punished under the [[Censorship in Japan|Article 175 of the Penal Code of Japan]].
+
+==== Computer Entertainment Rating Organization ====
+{{Multiple image
+| perrow            = 5
+| caption_align     = center
+| header_align      = center
+| width             = 50
+| image1            = CERO A.svg
+| alt1              = All Ages
+| image2            = CERO B.svg
+| alt2              = Ages 12 and Up
+| image3            = CERO C.svg
+| alt3              = Ages 15 and Up
+| image4            = CERO D.svg
+| alt4              = Ages 17 and Up
+| image5            = CERO Z.svg
+| alt5              = Ages 18 and Up Only
+| image6            = CERO Kyouiku Deitabeisu.svg
+| alt6              = Educational/Database
+| image7            = CERO Kitei Teikikou.svg
+| alt7              = Demo
+| image8            = CERO Shin Sa Yo Tei.svg
+| alt8              = Rating Scheduled
+}}
+
+{{main|Computer Entertainment Rating Organization}}
+
+The {{Nihongo|'''Computer Entertainment Rating Organization'''|特定非営利活動法人コンピュータエンターテインメントレーティング機構|Tokutei Hieiri Katsudō Hōjin Konpyūta Entāteinmento Rētingu Kikō}} ('''CERO''') is an [[organization]] that rates video games in [[Japan]], with different levels of rating that inform the customer of the nature of the product and what age group it suits. It was established in June 2002 as a branch of the [[Computer Entertainment Supplier's Association]], and became an officially recognized [[non-profit organization]] in December 2003. It currently consists of five age categories and nine content descriptors.
+
+* '''A'''{{Spaced ndash}}Content is suitable for all ages. Formerly "All."
+* '''B'''{{Spaced ndash}}Contains some content parents may not like for children under the age of 12. Formerly "12."
+* '''C'''{{Spaced ndash}}Some content may be inappropriate for children under the age of 15. Formerly "15."
+* '''D'''{{Spaced ndash}}Contains adult material. It may be inappropriate for anyone under the age of 17.
+* '''Z'''{{Spaced ndash}}Contains strong adult material. It is illegal for anyone under 18 to buy video games with this rating. Formerly "18."
+* '''教育・データベース'''{{Spaced ndash}}Assigned to educational software.
+* '''CERO'''{{Spaced ndash}}Assigned to free demos and trial versions of games
+* '''審査予定'''{{Spaced ndash}}Assigned to games which are currently awaiting classification
+
+==== Ethics Organization of Computer Software ====
+{{Multiple image
+| perrow            = 4
+| caption_align     = center
+| header_align      = center
+| width             = 75
+| image1            = EOCS rating symbol - All ages.svg
+| alt1              = All ages
+| image2            = EOCS rating symbol - 12.svg
+| alt2              = 12
+| image3            = EOCS rating symbol - 15.svg
+| alt3              = 15
+| image4            = EOCS rating symbol - R-18.svg
+| alt4              = R18
+}}
+
+The {{Nihongo|'''Ethics Organization of Computer Software'''|一般社団法人コンピュータソフトウェア倫理機構|Ippan Shadan Hōjin Konpyūta Sofutowea Rinri Kikō}} ('''EOCS''', or Sofurin)<ref>{{Cite web|url=http://www.sofurin.org/|title=EOCS／一般社団法人コンピュータソフトウェア倫理機構オフィシャルウェブサイト|website=www.sofurin.org|publisher=Ethics Organization of Computer Software (EOCS)|language=ja|access-date=January 8, 2013}}</ref> is an incorporated association that rates PC games in [[Japan]]. It was established on November 20, 1992,<ref>{{Cite web|url=http://www.sofurin.org/eocs/seturitu.html|title=ソフ倫設立経緯|website=www.sofurin.org|publisher=Ethics Organization of Computer Software (EOCS)|archive-url=https://web.archive.org/web/20060905231531/http://www.sofurin.org/eocs/seturitu.html|access-date=2020-01-05|archive-date=2006-09-05}}</ref> and was incorporated in 2009. The association also works to crack down on copyright infringement of PC games for the companies it represents, and sponsors the {{Nihongo|Moe Game Award|萌えゲーアワード}} to help PC game sales.<ref>{{Cite web|url=http://www.sofurin.org/htm/activity/award.htm|title=萌えゲーアワードの協賛|website=www.sofurin.org|publisher=Ethics Organization of Computer Software (EOCS)|language=ja|access-date=2019-06-03}}</ref>
+
+The current ratings are:<ref>{{Cite web|url=http://www.sofurin.org/htm/about/rating.htm|title=法人概要／レーティングの紹介|publisher=Ethics Organization of Computer Software (EOCS)|language=ja|access-date=2019-06-02}}</ref>
+
+* General Software - All ages.
+* General Software (recommended to ages 12 and over)
+* General Software (recommended to ages 15 and over)
+* Software that is banned from selling to persons under 18
+
+{{multiple image
+| perrow            = 3
+| caption_align     = center
+| header_align      = center
+| image1            = JCRC rating symbol Mark 01.png
+| alt1              = 
+| image2            = JCRC rating symbol Mark 02.png
+| alt2              = 
+| image3            = JCRC rating symbol Mark 03.png
+| alt3              = 
+| align             = 
+| direction         = 
+| total_width       = 270
+| caption1          = 
+| caption2          = 
+}}
+
+==== Japan Contents Review Center ====
+{{Main|Japan Contents Review Center}}
+
+The {{Nihongo|'''Japan contents Review Center'''|日本コンテンツ審査センター|Nihon Kontentsu Shinsa Sentā}} is a cooperative that reviews adult videos and adult PC games in [[Japan]]. The organization was founded on December 1, 2010, as {{nihongo|'''Ethics Organization of Video'''|映像倫理機構|Eizō Rinri Kikō}} after the dissolution of the [[Soft On Demand#Content Soft Association|Content Soft Association]] (CSA).<ref>{{Cite news
+|date=2010-11-09|url=http://www.asahi.com/culture/update/1109/TKY201011090450.html|archive-url=https://web.archive.org/web/20101112002624/http://www.asahi.com/culture/update/1109/TKY201011090450.html|url-status=dead|archive-date=2010-11-12|title=アダルト作品の審査、2団体が統合へ 最大手機関に|publisher=[[Asahi Shimbun]]|work=asahi.com|access-date=2019-02-25}}</ref>
+
+===Mexico===
+{{main|General Guidelines of the Mexican System of Classification Equivalencies for Video Game Content}}
+<!--
+@@@@@****************************************************************@@@@@
+| IMPORTANT NOTE: Please DO NOT add any comparisons to other countries'  |
+| ratings systems (i.e., adding, "this rating is similar to X-country's  |
+| rating", etc.), or examples of video games. We do not need any         |
+| comprehensive or all-inclusive lists of other ratings systems from     |
+| other countries, or of every single video game in the world. This is   |
+| NOT a place to promote your country's rating/classification system, or |
+| your favorite video games. Any edits doing so - regardless of having a |
+| source or not - are a violation of WP:TRIVIA and will be reverted.     |
+| Repeat violators will be blocked. Thank you for your cooperation.      |
+@@@@@****************************************************************@@@@@
+-->
+{{Multiple image
+| perrow            = 5
+| caption_align     = center
+| header_align      = center
+| width             = 50
+| image1            = SMECCV A.svg
+| alt1              = A
+| image2            = SMECCV B.svg
+| alt2              = B
+| image3            = SMECCV B15.svg
+| alt3              = B15
+| image4            = SMECCV C.svg
+| alt4              = C
+| image5            = SMECCV D.svg
+| alt5              = D
+}}
+
+On November 27, 2020, the [[Secretariat of the Interior]] (SEGOB) published a new set of guidelines on the [[Official Journal of the Federation (Mexico)|Official Journal of the Federation]] called '''Lineamentos Generales del Sistema Mexicano de Equivalencias de Clasificación de Contenidos de Videojuegos (General Guidelines of the Mexican System of Classification Equivalencies for Video Game Content)'''.<ref>{{cite web |title=DOF - Diario Oficial de la Federación |url=https://www.dof.gob.mx/nota_detalle.php?codigo=5606047&fecha=27/11/2020 |website=Diario Oficial de la Federación |publisher=Secretaría de Gobernación |access-date=10 May 2021}}</ref> This stated that all games distributed in Mexico would have their own set of ratings effective May 27, 2021, replacing the ESRB ratings system that was being used, while still being in accordance with them.
+
+The ratings are as follows:
+* '''A (Todo Público)''': For all ages.
+* '''B (+12 Años)''': Content for teens 12 and over.
+* '''B15 (+15 Años)''': Content for ages 15 and over.
+* '''C (Adultos +18 Años)''': Content not suitable for those under 18. Cannot be supplied to consumers below the age of 18.
+* '''D (Exclusivo Adultos)''': Extreme and adult content. Cannot be supplied to consumers below the age of 18.
+* '''P (Etiquetado Pendiente)''': Content pending for its classification.
+
+=== New Zealand ===
+<!--
+@@@@@****************************************************************@@@@@
+| IMPORTANT NOTE: Please DO NOT add any comparisons to other countries'  |
+| ratings systems (i.e., adding, "this rating is similar to X-country's  |
+| rating", etc.), or examples of video games. We do not need any         |
+| comprehensive or all-inclusive lists of other ratings systems from     |
+| other countries, or of every single video game in the world. This is   |
+| NOT a place to promote your country's rating/classification system, or |
+| your favorite video games. Any edits doing so - regardless of having a |
+| source or not - are a violation of WP:TRIVIA and will be reverted.     |
+| Repeat violators will be blocked. Thank you for your cooperation.      |
+@@@@@****************************************************************@@@@@
+-->
+{{Multiple image
+| perrow            = 3
+| caption_align     = center
+| header_align      = center
+| width             = 90
+| image1            = OFLC G label (2022).svg
+| alt1              = All Ages
+| image2            = OFLC PG label (2022).svg
+| alt2              = Parental Guidance
+| image3            = OFLC M label (2022).svg
+| alt3              = Mature 16
+| image5            = OFLC Restricted 13 (R13) label (2022).svg
+| alt5              = R13
+| image6            = OFLC Restricted 15 (R15) label (2022).svg
+| alt6              = R15
+| image8            = OFLC Restricted 16 (R16) label (2022).svg
+| alt8              = R16
+| image10           = OFLC Restricted 18 (R18) label (2022).svg
+| alt10             = R18
+| image11           = OFLC Restricted (R) label (2022).svg
+| alt11             = Restricted
+}}
+
+{{Main|Office of Film and Literature Classification}}
+
+The '''Office of Film and Literature Classification''' ('''OFLC''') is the government agency in [[New Zealand]] that is responsible for [[censorship|classification]] of all [[film]]s, [[videotape|videos]], [[publications]], and some [[video game]]s in New Zealand. It was created by the [[Films, Videos, and Publications Classification Act 1993]] (FVPC Act), replacing various film classification acts, and is an independent [[Crown entity]]<ref>{{Cite web|url=http://www.museumstuff.com/learn/topics/censorship_in_New_Zealand|title=Censorship in New Zealand}}</ref> in terms of the [[Crown Entities Act 2004]].  The head of the OFLC is called the Chief Censor, maintaining a title that has described the government officer in charge of [[censorship in New Zealand]] since 1916.
+
+The current ratings are:<ref name = literature>{{Cite web |title=New Zealand's classification labels |publisher=[[Office of Film and Literature Classification (New Zealand)|Office of Film and Literature Classification]] |location=New Zealand |url=https://www.classificationoffice.govt.nz/find-ratings/new-zealands-classification-labels/ |access-date=9 February 2017}}</ref>
+
+* '''G''': This can be shown and sold to anyone.
+* '''PG''': Films and games with a PG label can be sold, hired, or shown to anyone. The PG label means guidance from a parent or guardian is recommended for younger viewers.
+* '''M''': Films and games with an M label can be sold, hired, or shown to anyone. Films with an M label are more suitable for mature audiences 16 years and over.<ref name="literature"/>
+* '''R13''': Restricted to persons 13 years and over.
+* '''R15''': Restricted to persons 15 years and over.
+* '''R16''': Restricted to persons 16 years and over.
+* '''R18''': Restricted to persons 18 years and over.
+* '''R''': Restricted to a particular class of people.
+
+=== North America ===
+<!--
+@@@@@****************************************************************@@@@@
+| IMPORTANT NOTE: Please DO NOT add any comparisons to other countries'  |
+| ratings systems (i.e., adding, "this rating is similar to X-country's  |
+| rating", etc.), or examples of video games. We do not need any         |
+| comprehensive or all-inclusive lists of other ratings systems from     |
+| other countries, or of every single video game in the world. This is   |
+| NOT a place to promote your country's rating/classification system, or |
+| your favorite video games. Any edits doing so - regardless of having a |
+| source or not - are a violation of WP:TRIVIA and will be reverted.     |
+| Repeat violators will be blocked. Thank you for your cooperation.      |
+@@@@@****************************************************************@@@@@
+-->
+{{Multiple image
+| perrow            = 5
+| caption_align     = center
+| header_align      = center
+| width             = 50
+| image1            = ESRB 2013 Everyone.svg
+| alt1              = Everyone
+| image2            = ESRB 2013 Everyone 10+.svg
+| alt2              = Everyone 10+
+| image3            = ESRB 2013 Teen.svg
+| alt3              = Teen
+| image4            = ESRB 2013 Mature.svg
+| alt4              = Mature
+| image5            = ESRB 2013 Adults Only.svg
+| alt5              = Adults only
+}}
+
+{{Main|Entertainment Software Rating Board}}
+
+The '''Entertainment Software Rating Board''' ('''ESRB''') is a [[self-regulatory organization]] that assigns age and content ratings, enforces industry-adopted [[advertising]] guidelines, and ensures responsible online privacy principles for [[video game|computer and video games]] and other entertainment software in countries of [[North America]].<ref>{{Cite web|url=http://www.esrb.org/ratings/faq.jsp|title=FAQs about ESRB|website=www.esrb.org|access-date=14 February 2018}}</ref>  PEGI ratings are used on some French-language games sold in Canada. Despite being self-regulatory, in Canada, games rated by the ESRB are required by law to be rated and/or restricted, though this only varies at a province and territory level. ESRB ratings can be found on games for Nintendo systems in the countries of Malaysia, Saudi Arabia (until Nintendo of Europe began overseeing the market), Singapore, and the United Arab Emirates until 2024. This system was used in Mexico as well until it was replaced by a local rating system on May 27, 2021.
+
+A similar system also exists for [[Arcade game|arcade video games]], which is enforced by the American Amusement Machine Association (AAMA) and the Amusement and Music Operators Association (AMOA).<ref>{{Cite web | title = Parental Advisory System - AAMA - American Amusement Machine Association | date = 12 September 2016 | url = https://coin-op.org/parental-advisory-system/ | access-date = 2020-06-28 }}</ref> It is called the Parental Advisory System, and uses three colors for ratings - green (Suitable for All Ages), yellow (Mild Content), and red (Strong Content). Stickers displaying the ratings are placed on the game marquees, and the rating can also be displayed during the attract mode if the game's developer or publisher chooses to do so.<ref>{{Cite web | title = PAS - Frequently Asked Questions - AAMA - American Amusement Machine Association | date = 12 September 2016 | url = https://coin-op.org/pas-frequently-asked-questions/ | access-date = 2020-06-28 }}</ref><ref>{{cite magazine |first=Marcus |last=Webb |title=It Sure Beats a D |magazine=[[Next Generation (magazine)|Next Generation]]|issue=39 |publisher=[[Imagine Media]] |date=March 1998|page=30}}</ref>
+
+* '''E''' - Suitable for all ages.
+* '''E10+''' - Suitable for ages 10 and over.
+* '''T''' - Suitable for ages 13 and over.
+* '''M''' - Suitable for ages 17 and over.
+* '''AO''' - Only suitable for ages 18 and over.
+* '''RP''' - Content awaiting classification. Sometimes may be marked '''RP - Likely Mature 17+'''
+
+=== Russia ===
+<!--
+@@@@@****************************************************************@@@@@
+| IMPORTANT NOTE: Please DO NOT add any comparisons to other countries'  |
+| ratings systems (i.e., adding, "this rating is similar to X-country's  |
+| rating", etc.), or examples of video games. We do not need any         |
+| comprehensive or all-inclusive lists of other ratings systems from     |
+| other countries, or of every single video game in the world. This is   |
+| NOT a place to promote your country's rating/classification system, or |
+| your favorite video games. Any edits doing so - regardless of having a |
+| source or not - are a violation of WP:TRIVIA and will be reverted.     |
+| Repeat violators will be blocked. Thank you for your cooperation.      |
+@@@@@****************************************************************@@@@@
+-->
+<!-- Do not use the circular symbols as they apply as Russian film rating symbols. The squircle symbols are more accurate as Russian video game rating symbols. -->
+{{Multiple image
+| perrow            = 5
+| caption_align     = center
+| header_align      = center
+| width             = 50
+| image1            = RARS 0+ (2016).svg
+| alt1              = 0+
+| image2            = RARS 6+ (2016).svg
+| alt2              = 6+
+| image3            = RARS 12+ (2016).svg
+| alt3              = 12+
+| image4            = RARS 16+ (2016).svg
+| alt4              = 16+
+| image5            = RARS 18+ (2016).svg
+| alt5              = 18+
+| image6            = RARS (0+).svg
+| alt6              = 0+ (formerly)
+| image7            = RARS 6+ (old).svg
+| alt7              = 6+ (formerly)
+| image8            = RARS 12+ (old).svg
+| alt8              = 12+ (formerly)
+| image9            = RARS 16+ (old).svg
+| alt9              = 16+ (formerly)
+| image10           = RARS 18+ (old).svg
+| alt10             = 18+ (formerly)
+}}
+
+{{Further|On Protecting Children from Information Harmful to Their Health and Development}}
+{{See also|ru:Возрастная классификация информационной продукции в России}}
+
+The '''Age classification of information products''' is a new [[statute|statutory]] classification set of rules formed by the [[Government of Russia|Russian Government]] after enacting in September 2012 a [[Federal law|Federal Law]] of [[Russian Federation]] no. 436-FZ of 2010-12-23 “On Protecting of Children from Information Harmful to Their Health and Development” ({{langx|ru|Федеральный закон Российской Федерации от 29 декабря 2010 г. N 436-ФЗ «О защите детей от информации, причиняющей вред их здоровью и развитию»}}), which classifies [[film]]s, [[video game]]s and [[publication]]s for exhibition, sale or hire in [[Russia]] since 1 September 2012. The [[Ministry of Culture (Russia)|Ministry of Culture]] provides administrative support to the classification.
+
+In December 2022, the federal government has announced plans to establish a dedicated regulation procedure and age rating specifically for digital products, which include video games. There are concerns this may encompass excessive regulation and costs, as the new regulation will focus on interactive and online elements rather than just audiovisual content.<ref name="Kommersant cites new Russian regulation for digital economy">{{Cite web|last=Korolev |first=Nikita |url=https://www.kommersant.ru/doc/5695737 |title=Игры детям не игрушка - Видеоконтенту готовят возрастную маркировку |work=[[Kommersant]] |language=Russian |date=2022-12-02 |access-date=2023-07-01}}</ref>
+
+* '''0+''' - Products for all ages.
+* '''6+''' - Products for children over the age of six.
+* '''12+''' - Products for children over the age of twelve.
+* '''16+''' - Products for children over the age of sixteen.
+* '''18+''' - Prohibited for distribution to children.
+
+=== Saudi Arabia ===
+<!--
+@@@@@****************************************************************@@@@@
+| IMPORTANT NOTE: Please DO NOT add any comparisons to other countries'  |
+| ratings systems (i.e., adding, "this rating is similar to X-country's  |
+| rating", etc.), or examples of video games. We do not need any         |
+| comprehensive or all-inclusive lists of other ratings systems from     |
+| other countries, or of every single video game in the world. This is   |
+| NOT a place to promote your country's rating/classification system, or |
+| your favorite video games. Any edits doing so - regardless of having a |
+| source or not - are a violation of WP:TRIVIA and will be reverted.     |
+| Repeat violators will be blocked. Thank you for your cooperation.      |
+@@@@@****************************************************************@@@@@
+-->
+{{Multiple image
+| perrow            = 6
+| caption_align     = center
+| header_align      = center
+| width             = 50
+| image1            = Gmedia 3.svg
+| alt1              = 3
+| image2            = Gmedia 7.svg
+| alt2              = 7
+| image3            = Gmedia 12.svg
+| alt3              = 12
+| image4            = Gmedia 16.svg
+| alt4              = 16
+| image5            = Gmedia 18.svg
+| alt5              = 18
+<!--  No need to include the symbol for classification pending rating on this overall article. -->| image6            = Gmedia 21.svg
+| alt6              = 21
+}}
+
+{{Main|General Authority of Media Regulation}}
+
+The '''General Authority of Media Regulation''' ({{langx|ar|الهيئة العامة لتنظيم الإعلام|alhayyat aleamat litanzim al'iielam}}) ('''Gmedia/GAMR''') is responsible for [[Motion picture rating system|the age-ratings]] of [[film]]s, [[television program]]s and [[Video game|interactive games]].<ref>{{Cite web |title=Content Classifications |language=en |publisher=[[General Commission for Audiovisual Media]] |url=https://www.gcam.gov.sa/en/PoliciesAndGuidelines/Pages/ContentClassifications.aspx |access-date=29 June 2020 |archive-date=23 January 2021 |archive-url=https://web.archive.org/web/20210123044549/https://www.gcam.gov.sa/en/PoliciesAndGuidelines/Pages/ContentClassifications.aspx |url-status=dead }}</ref><ref>{{Cite web |title=تصنيفات المحتوى |trans-title=Content Classifications |language=ar |publisher=[[General Commission for Audiovisual Media]] |url=https://www.gcam.gov.sa/ar/PoliciesAndGuidelines/Pages/ContentClassifications.aspx |access-date=29 June 2020 |archive-date=22 January 2021 |archive-url=https://web.archive.org/web/20210122233420/https://gcam.gov.sa/ar/PoliciesAndGuidelines/Pages/ContentClassifications.aspx |url-status=dead }}</ref><ref>{{Cite web |title=Age Classification |url=https://gmedia.gov.sa/ar/age-classification |archive-url=https://web.archive.org/web/20250221204143/https://gmedia.gov.sa/ar/age-classification |archive-date=2025-02-21 |access-date=2025-08-08 |website=الهيئة العامة لتنظيم الإعلام |publisher=[[General Authority of Media Regulation]] |language=ar |url-status=live }}</ref> In 2025, the age rating criteria was updated along with addition of the 21 rating.<ref>{{Cite web |date=2025-07-17 |title=It took 12 years, but Grand Theft Auto 5 is now legal in Saudi Arabia |url=https://www.pcgamer.com/games/action/it-took-12-years-but-grand-theft-auto-5-is-now-legal-in-saudi-arabia/ |access-date=2025-08-08 |website=Yahoo Tech |language=en-US}}</ref><ref>{{Cite web |title=Big news from the General Authority of Media Regulation (Gmedia) {{!}} الهيئة العامة لتنظيم الإعلام Regulation in Saudi Arabia, as they have officially announced updated age rating criteria, including… {{!}} Mahmoud Ziater 🎮 posted on the topic {{!}} LinkedIn |url=https://www.linkedin.com/posts/ziater_gaming-activity-7346579167628423169-LYJU |access-date=2025-08-08 |website=www.linkedin.com |language=en}}</ref>
+
+* '''3+''' - Video game content suitable for ages 3 and above.
+* '''7+''' - Video game content suitable for ages 7 and above.
+* '''12+''' - Video game content suitable for ages 12 and above.
+* '''16+''' - Video game content suitable for ages 16 and above.
+* '''18+''' - Video game content suitable for ages 18 and above.
+* '''21+''' - Video game content suitable for ages 21 and above only.
+
+=== Singapore ===
+<!--
+@@@@@****************************************************************@@@@@
+| IMPORTANT NOTE: Please DO NOT add any comparisons to other countries'  |
+| ratings systems (i.e., adding, "this rating is similar to X-country's  |
+| rating", etc.), or examples of video games. We do not need any         |
+| comprehensive or all-inclusive lists of other ratings systems from     |
+| other countries, or of every single video game in the world. This is   |
+| NOT a place to promote your country's rating/classification system, or |
+| your favorite video games. Any edits doing so - regardless of having a |
+| source or not - are a violation of WP:TRIVIA and will be reverted.     |
+| Repeat violators will be blocked. Thank you for your cooperation.      |
+@@@@@****************************************************************@@@@@
+-->
+{{Multiple image
+| perrow            = 2
+| caption_align     = center
+| header_align      = center
+| width             = 50
+| image1            = IMDA Age Rating - Advisory 16 (ADV16).svg
+| alt1              = Advisory 16
+| image2            = IMDA Age Rating - Mature 18.svg
+| alt2              = Mature 18
+}}
+
+{{Further|Censorship in Singapore#Video games|Infocomm Media Development Authority}}
+
+The '''Info-communications Media Development Authority''' ('''IMDA''') is a statutory board of the [[Government of Singapore|Singapore Government]] which regulates [[film]]s, [[television program]]s and [[video game]]s in [[Singapore]].
+
+* '''G''' - Suitable for all ages.
+* '''ADV16''' - Suitable for persons 16 and above.
+* '''M18''' - Restricted to persons 18 years and above.
+
+=== Slovakia ===
+<!--
+@@@@@****************************************************************@@@@@
+| IMPORTANT NOTE: Please DO NOT add any comparisons to other countries'  |
+| ratings systems (i.e., adding, "this rating is similar to X-country's  |
+| rating", etc.), or examples of video games. We do not need any         |
+| comprehensive or all-inclusive lists of other ratings systems from     |
+| other countries, or of every single video game in the world. This is   |
+| NOT a place to promote your country's rating/classification system, or |
+| your favorite video games. Any edits doing so - regardless of having a |
+| source or not - are a violation of WP:TRIVIA and will be reverted.     |
+| Repeat violators will be blocked. Thank you for your cooperation.      |
+@@@@@****************************************************************@@@@@
+-->
+{{Multiple image
+| perrow            = 6
+| caption_align     = center
+| header_align      = center
+| width             = 50
+| image1            = JSO´s rating tag Teddybear.svg
+| alt1              = 0
+| image2            = JSO rating tag U.svg
+| alt2              = PG
+| image3            = JSO rating tag 7.svg
+| alt3              = 7
+| image4            = JSO´s rating tag 12.svg
+| alt4              = 12
+| image5            = JSO´s rating tag 15.svg
+| alt5              = 15
+| image6            = JSO´s rating tag 18.svg
+| alt6              = 18
+}}
+
+'''Jednotný systém označovania''' (English: Unified System of Age Rating/Labeling) ('''JSO''') is a statutory board of '''Ministry of Culture of Slovakia''' now under act 328/2023 which regulates age restriction of [[film]]s, [[television program]]s and [[video game]]s in [[Slovakia]].<ref name=":0">{{Cite web |last=s.r.o |first=S.-EPI s r o, AION CS |title=328/2023 Z. z. Vyhláška o jednotnom systéme označovania a spôsobe jeho uplatňovania {{!}} Aktuálne znenie |url=https://www.epi.sk/zz/2023-328 |access-date=2025-02-10 |website=epi.sk |language=sk}}</ref><ref>{{Cite web |date=2025-02-10 |title=Jednotný systém označovania (JSO) pre AV diela a programy - JSO_prezentacia.pdf |url=https://www.jso.sk/wp-content/uploads/2024/08/JSO_prezentacia.pdf |access-date=2025-02-10 |website=JSO.sk}}</ref><ref name=":1">{{cite web |title=Act 589/2007|publisher=Ministry of Culture |location=Slovakia |url=https://www.epi.sk/zz/2007-589 |access-date=18 January 2022}}</ref>
+
+The current age ratings are:
+* '''"Teddy bear's head"''' – Content targeted towards children younger than 12 years.
+* '''U''' – General audience
+* '''7''' – Not recommended for children younger than 7 years.
+* '''12''' – Not recommended for children younger than 12 years.
+* '''15''' – Not recommended for children younger than 15 years.
+* '''18''' – Prohibited for minors under 18 years of age.
+
+Under current act (328/2023) content descriptors, indicating depiction of violence, discrimination, fear/terror, addiction, sex, coarse language and nudity were added to the statutory board.<ref>{{Cite web |title=Deskriptory – JSO.sk |url=https://www.jso.sk/deskriptory/ |access-date=2025-02-10 |language=sk-SK}}</ref><ref name=":0" />
+
+{{Multiple image
+| perrow            = 4
+| caption_align     = center
+| header_align      = center
+| width             = 50
+| image1            = JSO´s_rating_tag_-7.svg
+| alt1              = 0
+| image2            = JSO´s rating tag 7+.svg
+| alt2              = 7
+| image3            = JSO´s_rating_tag_12+.svg
+| alt3              = 12
+| image4            = JSO´s_rating_tag_15+.svg
+| alt4              = 15
+}}
+
+In previous act (589/2007), there were educational content age ratings, which are no longer being used:<ref name=":1" />
+*'''-7''' – Targeted towards children younger than 7 years.
+* '''7+''' – Appropriate for persons 7 years and over.
+* '''12+''' – Appropriate for persons 12 years and over.
+* '''15+''' – Appropriate for persons 15 years and over.
+
+The labeling was mandatory for all physical releases (games redeemable from gift cards including), but there was no legislative basis for labeling electronic releases (instead, PEGI rating was shown). Under act 78/2023, publishers can now release videogames in Slovakia without JSO rating, if the videogame obtained [[PEGI]] rating.<ref>{{Cite web |title=Slov-Lex |url=https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2023/78/ |access-date=2025-02-10 |website=www.slov-lex.sk}}</ref>
+
+=== South Africa ===
+<!--
+@@@@@****************************************************************@@@@@
+| IMPORTANT NOTE: Please DO NOT add any comparisons to other countries'  |
+| ratings systems (i.e., adding, "this rating is similar to X-country's  |
+| rating", etc.), or examples of video games. We do not need any         |
+| comprehensive or all-inclusive lists of other ratings systems from     |
+| other countries, or of every single video game in the world. This is   |
+| NOT a place to promote your country's rating/classification system, or |
+| your favorite video games. Any edits doing so - regardless of having a |
+| source or not - are a violation of WP:TRIVIA and will be reverted.     |
+| Repeat violators will be blocked. Thank you for your cooperation.      |
+@@@@@****************************************************************@@@@@
+-->
+{{Multiple image
+| perrow            = 6
+| caption_align     = center
+| header_align      = center
+| width             = 50
+| image1            = FPB - PG - 2024.svg
+| alt1              = 3
+| image2            = FPB - 7-9 PG - 2024.svg
+| alt2              = 7
+| image3            = FPB - 10-12 PG - 2024.svg
+| alt3              = 12
+| image4            = FPB - 13 - 2024.svg
+| alt4              = 13
+| image5            = FPB - 16 - 2024.svg
+| alt5              = 16
+| image6            = FPB - 18 - 2024.svg
+| alt6              = 18
+}}
+
+<!-- DO NOT add the "FPB - A" rating as this is not used for video games. -->
+{{Main|Film and Publication Board}}
+
+The South African '''Film and Publication Board''' ('''FPB''') is a [[statute|statutory]] classification body formed by the [[Government of South Africa|South African Government]] under the [[Films and Publications Act, 1996|Films and Publications Act of 1996]] which classifies films, publications, and video games for exhibition, sale or hire in [[South Africa]]. Distributors and exhibitors are legally compelled to comply with the age ratings.
+
+The ratings, as of August 1, 2022 are;<ref>{{cite web |title=Films and Publications Act, No 65 Of 1996 |date=8 October 2012 |publisher=Film and Publication Board |location=South Africa |url=https://www.fpb.org.za/wp-content/uploads/2016/10/Classification-Guidelines.pdf |access-date=27 March 2022 |archive-url=https://web.archive.org/web/20161123162135/https://www.fpb.org.za/wp-content/uploads/2016/10/Classification-Guidelines.pdf |archive-date=23 November 2016 |url-status=live }}</ref>
+
+*'''PG''': Not recommended for young children without Parental Guidance.
+*'''7–9 PG''':  Not permitted for children under 7 years of age. Children 7 to 9 should be accompanied before purchasing the game.
+*'''10–12 PG''': Not permitted for children under 10 years of age. Children 10 to 12 should be accompanied before purchasing the game.
+*'''13''': Not permitted for children under 13 years of age.
+*'''16''': Not permitted for children under 16 years of age.
+*'''18''': Not permitted for children.
+*'''X18''': Can only be distributed in licensed premises to persons over 18 years of age.
+*'''XX''': Not to be distributed or exhibited to public.
+
+=== South Korea ===
+<!--
+@@@@@****************************************************************@@@@@
+| IMPORTANT NOTE: Please DO NOT add any comparisons to other countries'  |
+| ratings systems (i.e., adding, "this rating is similar to X-country's  |
+| rating", etc.), or examples of video games. We do not need any         |
+| comprehensive or all-inclusive lists of other ratings systems from     |
+| other countries, or of every single video game in the world. This is   |
+| NOT a place to promote your country's rating/classification system, or |
+| your favorite video games. Any edits doing so - regardless of having a |
+| source or not - are a violation of WP:TRIVIA and will be reverted.     |
+| Repeat violators will be blocked. Thank you for your cooperation.      |
+@@@@@****************************************************************@@@@@
+-->
+{{Multiple image
+| perrow            = 4
+| caption_align     = center
+| header_align      = center
+| width             = 50
+| image1            = GRAC All (전체이용가).svg
+| alt1              = 0
+| image2            = GRAC 12 (12세이용가).svg
+| alt2              = 12
+| image3            = GRAC 15 (15세이용가).svg
+| alt3              = 15
+| image4            = GRAC 19 (19청소년이용불가).svg
+| alt54             = 19
+}}
+
+{{main|Game Rating and Administration Committee}}
+
+The '''Game Rating and Administration Committee''' ('''게임물관리위원회''' ''Geimmul Gwanri Wiwonhoe'') ('''GRAC''') is the [[South Korea]]n [[video game content rating board]]. A governmental organization, the GRAC rates [[Video game|video and computer games]] to inform customers of the nature of game contents.
+
+* '''ALL''' - Everyone can play.
+* '''12''' - 12-year-olds can play.
+* '''15''' - 15-year-olds can play.
+* '''19''' - Teenagers and children (under 19) cannot play.<ref>{{Cite web |url=https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B2%8C%EC%9E%84%EC%82%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0 |title=게임산업진흥에관한법률 |website=Korean Law Information Center |date=21 July 2022 |language=ko |access-date=19 January 2023 }}</ref>
+
+=== Taiwan ===
+<!--
+@@@@@****************************************************************@@@@@
+| IMPORTANT NOTE: Please DO NOT add any comparisons to other countries'  |
+| ratings systems (i.e., adding, "this rating is similar to X-country's  |
+| rating", etc.), or examples of video games. We do not need any         |
+| comprehensive or all-inclusive lists of other ratings systems from     |
+| other countries, or of every single video game in the world. This is   |
+| NOT a place to promote your country's rating/classification system, or |
+| your favorite video games. Any edits doing so - regardless of having a |
+| source or not - are a violation of WP:TRIVIA and will be reverted.     |
+| Repeat violators will be blocked. Thank you for your cooperation.      |
+@@@@@****************************************************************@@@@@
+-->
+{{Multiple image
+| perrow            = 5
+| caption_align     = center
+| header_align      = center
+| width             = 50
+| image1            = GSRR G logo.svg
+| alt1              = 0
+| image2            = GSRR P logo.svg
+| alt2              = 6
+| image3            = GSRR PG 12 logo.svg
+| alt3              = 12
+| image4            = GSRR PG 15_logo.svg
+| alt4              = 15
+| image5            = GSRR R logo.svg
+| alt5              = 18
+}}
+
+{{Main|Game Software Rating Regulations}}
+
+'''Game Software Rating Regulations''' (遊戲軟體分級辦法), also translated as '''Game Software Rating Management Regulations''', is the video game content rating system used in [[Taiwan]].
+<ref name=GSRR>{{Cite web |url=http://www.gamerating.org.tw/gsgi_way.php |title=Game Software Rating Management Regulations |work=Taiwan Game Software Rating Information |publisher=Digital Game Rating Committee |access-date=19 September 2013 |archive-date=1 July 2013 |archive-url=https://web.archive.org/web/20130701003040/http://www.gamerating.org.tw/gsgi_way.php |url-status=dead }}</ref>
+
+* '''0+''' - Appropriate for all ages
+* '''6+''' - Prohibited to anyone under 6
+* '''12+''' - Prohibited to anyone under 12
+* '''15+''' - Prohibited to anyone under 15
+* '''18+''' - Prohibited to anyone under 18
+
+=== United Arab Emirates ===
+<!--
+@@@@@****************************************************************@@@@@
+| IMPORTANT NOTE: Please DO NOT add any comparisons to other countries'  |
+| ratings systems (i.e., adding, "this rating is similar to X-country's  |
+| rating", etc.), or examples of video games. We do not need any         |
+| comprehensive or all-inclusive lists of other ratings systems from     |
+| other countries, or of every single video game in the world. This is   |
+| NOT a place to promote your country's rating/classification system, or |
+| your favorite video games. Any edits doing so - regardless of having a |
+| source or not - are a violation of WP:TRIVIA and will be reverted.     |
+| Repeat violators will be blocked. Thank you for your cooperation.      |
+@@@@@****************************************************************@@@@@
+-->
+{{Multiple image
+| caption_align     = center
+| header_align      = center
+| width             = 50
+| image1            = UMC 3.svg
+| alt1              = 3
+| image2            = UMC 7.svg
+| alt2              = 7
+| image3            = UMC 12.svg
+| alt3              = 12
+| image4            = UMC 16.svg
+| alt4              = 16
+| image5            = UMC 18.svg
+| alt5              = 18
+| image6            = UMC 21.svg
+| alt6              = 21
+}}
+
+{{Main|National Media Council (United Arab Emirates)}}
+
+The '''National Media Council''' ({{langx|ar|المجلس الوطني للإعلام|al-Majlis al-Watani li'al-Ealam}}) ('''NMC''') was a body of the [[Politics of the United Arab Emirates|federal U.A.E. government]] which regulated all aspects of media production, publication, and media trade in the [[United Arab Emirates]]. The body was established under Federal Law (1) of 2006, and had full authority over the media in the country, both commercial and government related.
+
+In 2018, the NMC introduced local age rating systems for various media, including video games available in retail.<ref name="NMC announces ratings">{{Cite web |url=http://nmc.gov.ae/en-us/Media-Center/Events/Pages/Age-Classification-System.aspx |title=Age Classification System |work=National Media Council (UAE federal government) |date=2018-02-19 |archive-url=https://web.archive.org/web/20180429055321/http://nmc.gov.ae/en-us/Media-Center/Events/Pages/Age-Classification-System.aspx|archive-date=2018-04-29}}</ref><ref name="GN cites NMCratings">{{Cite web|last=Salama |first=Samir |url=https://gulfnews.com/news/uae/media/new-uae-ratings-system-for-films-games-books-1.2176427 |title=New UAE ratings system for films, games, books |work=[[Gulf News]] |date=2018-02-20 |access-date=2018-05-24}}</ref>
+
+In June 2021, the Ministry of Culture & Youth launched the '''Media Regulatory Office''' ({{langx|ar|مكتب تنظيم الإعلام|Maktab Tanzheem al-Ealam}}) ('''MRO''') to execute a number of functions and tasks previously under the National Media Council,<ref name="The National cites MRO launch">{{Cite web|last=Mohammed |first=Reem |url=https://www.thenationalnews.com/uae/government/uae-establishes-new-regulatory-body-to-govern-the-media-1.1246841 |title=UAE establishes new regulatory body to govern the media |work=[[The National (Abu Dhabi)|The National]] |date=2021-06-22 |access-date=2021-08-30}}</ref> following a restructure of the federal U.A.E. government that was approved in July 2020.<ref name="AB cites UAE2020restructure">{{Cite web|last=Gibbon |first=Gavin |url=https://www.arabianbusiness.com/technology/449249-uae-government-pushing-right-buttons-for-digital-transformation |title=UAE government pushing right buttons for digital transformation |work=[[Arabian Business]] |date=2020-07-07 |access-date=2021-08-29}}</ref> In June 2022, the 2018 NMC rating labels for video games began phasing out in favour of new labels reflecting the [[Corporate identity|corporate image]] of the MRO. The ratings themselves were unchanged. The New Media Law came into force on December 1, 2023, in which the top logo of the label changed to reflect the corporate image of the '''UAE Media Council''' which went into effect in 2024.<ref>{{Cite web |date=March 1, 2023 |title=President issues Federal Decree establishing 'UAE Media Council', headed by National Media Office chairman |url=https://www.wam.ae/en/article/hszrgkuf-president-issues-federal-decree-establishing-%E2%80%98uae |access-date=March 1, 2023 |website=Emirates New Agency-WAM}}</ref><ref>{{Cite Instagram |user=uaimro |postid=C8nBYG4S1xQ |title=The UAE relies on a unified age classification system for media content that includes cinematic films, video games, comic books, and printed and digital novels... |date=24 June 2024}}</ref> In December 2025, the federal government issued a legislation to establish the '''National Media Authority''' ({{langx|ar|الهيئة الوطنية للإعلام|al-Hai'aa al-Watania li'al-Ealam}}), effectively replacing the UAE Media Council and its parent entity the National Media Office.<ref name="WAM cites NMA launch">{{Cite web|url=https://www.wam.ae/en/article/bn9xsue-uae-government-issues-federal-decree-law |title=UAE Government issues Federal Decree-Law establishing, organising National Media Authority |work=[[Emirates News Agency]] |date=2025-12-18 |access-date=2026-02-02}}</ref>
+
+* '''3''' - Video game content suitable for ages 3 and above.
+* '''7''' - Video game content suitable for ages 7 and above.
+* '''12''' - Video game content suitable for ages 12 and above.
+* '''16''' - Video game content suitable for ages 16 and above.
+* '''18''' - Video game content suitable for ages 18 and above.
+* '''21''' - Video game content suitable for ages 21 and above.
+
+== Usage ==
+The image below presents outdated usage of various video game content rating systems around the world. Countries filled with stripes are using several rating systems.
+
+[[File:Video game rating systems map.svg|center|800px]]
+
+== See also ==
+* [[International Age Rating Coalition]]
+* [[Mobile software content rating system]]
+* [[Motion picture content rating system]]
+* [[Television content rating system]]
+* [[Video game controversy]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://news.bbc.co.uk/1/hi/technology/7314751.stm Video games ratings face overhaul]
+* http://www.gamesindustry.biz/articles/tiga-responds-to-byron-review
+* http://www.gamesindustry.biz/articles/ELSPA-concerned-by-Byron-proposals
+* http://www.esrb.org/ratings/ratings_guide.jsp
+
+{{Video game content rating systems}}
+
+[[Category:Entertainment rating organizations|*]]
+[[Category:Media content ratings systems|*]]
+[[Category:Video game content ratings systems| ]]
+[[Category:Minimum ages|*]]

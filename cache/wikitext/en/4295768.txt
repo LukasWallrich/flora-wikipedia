@@ -1,0 +1,79 @@
+{{chembox
+| Reference =<ref>''[[Merck Index]]'', 12th Edition, '''7308'''.</ref>
+| ImageFileL1 = (-)-perillaldehyde.svg
+| ImageNameL1 = Skeletal formula of perillaldehyde
+| ImageFileR1 = S-Perillaldehyde-3D-balls.png
+| ImageSizeR1 = 160px
+| ImageNameR1 = Ball-and-stick model of perillaldehyde
+| IUPACName = (''S'')-4-(1-Methylethenyl)-1-cyclohexene-1-carboxaldehyde
+| OtherNames = Perilla aldehyde; 4-Mentha-1,8-dien-7-al
+|Section1={{Chembox Identifiers
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 15589
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = C02576
+| InChI = 1/C10H14O/c1-8(2)10-5-3-9(7-11)4-6-10/h3,7,10H,1,4-6H2,2H3
+| InChIKey = RUMOYJJNUMEFDD-UHFFFAOYAO
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 469537
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H14O/c1-8(2)10-5-3-9(7-11)4-6-10/h3,7,10H,1,4-6H2,2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = RUMOYJJNUMEFDD-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo = 18031-40-8
+| PubChem = 16441
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 5EL0Y7P6LP
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 15421
+| SMILES = O=C\C1=C\CC(\C(=C)C)CC1
+}}
+|Section2={{Chembox Properties
+| C=10 | H=14 | O=1
+| Appearance = Colorless liquid
+| Density = 0.953 g/mL (20 °C)
+| MeltingPt = 
+| BoilingPtC = 237
+| BoilingPt_notes = (745 mmHg)
+| Solubility = 
+  }}
+|Section3={{Chembox Hazards
+| MainHazards = 
+| FlashPt = 
+| AutoignitionPt = 
+ }}
+}}
+
+'''Perillaldehyde''', '''perillic aldehyde''' or '''perilla aldehyde''', is a natural [[organic compound]] found most abundantly in the annual herb [[perilla]], but also in a wide variety of other plants and essential oils.  It is a [[monoterpene|monoterpenoid]] containing an [[aldehyde]] [[functional group]].
+
+Perillaldehyde, or volatile oils from perilla that are rich in perillaldehyde, are used as [[food additive]]s for flavoring and in perfumery to add spiciness.  Perillaldehyde can be readily converted to [[perilla alcohol]], which is also used in perfumery. It has a mint-like, cinnamon odor and is primarily responsible for the flavor of perilla.
+
+The [[oxime]] of perillaldehyde is known as [[perillartine]] or ''perilla sugar'' and is about 2000 times sweeter than [[sucrose]] and is used in Japan as a [[Sugar substitute|sweetener]]. It is presented in lower concentrations in the body odor of persons suffering from [[Parkinson's disease]].<ref>{{cite journal |last1= Trivedi|first1= Drupad K.|last2= Sinclair|first2= Eleanor|last3= Xu|first3= Yun|last4= Sarkar|first4= Depanjan|last5= Walton-Doyle|first5= Caitlin|last6= Liscio|first6= Camilla|last7= Banks|first7= Phine|last8= Milne|first8= Joy|last9= Silverdale|first9= Monty|last10= Kunath|first10= Tilo|last11= Goodacre|first11= Royston|last12= Barran|first12= Perdita|title= Discovery of Volatile Biomarkers of Parkinson's Disease from Sebum|journal= ACS Central Science|year= 2019|volume= 5|issue= 4|pages= 599–606|doi=10.1021/acscentsci.8b00879 |doi-access=free|pmid= 31041379|pmc= 6487537}}</ref>
+
+==Biosynthesis==
+In ''[[Perilla frutescens]]'', the [[monoterpene]], (''S'')-limonene, undergoes two [[redox|oxidation]] steps. The enzyme [[(S)-limonene 7-monooxygenase]] gives (–)-perillyl alcohol and [[perillyl-alcohol dehydrogenase]] converts this to perillaldehyde.<ref name=Karp>{{cite journal |vauthors=Karp F, Mihaliak CA, Harris JL, Croteau R | date = 1990 | title = Monoterpene biosynthesis: specificity of the hydroxylations of (−)-limonene by enzyme preparations from peppermint (Mentha piperita), spearmint (Mentha spicata), and perilla (Perilla frutescens) leaves | journal = Arch. Biochem. Biophys.  | volume = 276 | pages = 219&ndash;26  | pmid = 2297225 | doi = 10.1016/0003-9861(90)90029-X | issue = 1 }}</ref>
+
+{{chemrxn|width=50%|
+{{chemrxn/cpd|qid=Q27089405|caption=[[Limonene|(''S'')-limonene]] }}
+{{chemrxn/arw| }}
+{{chemrxn/cpd|qid=Q105177714|caption=[[Perillyl alcohol|(–)-perillyl alcohol]] }}
+{{chemrxn/arw| }}
+{{chemrxn/cpd|qid=Q23766753|caption=(–)-perillaldehyde }}
+}}
+
+== See also ==
+* [[Icosane]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Commons category-inline}}
+
+[[Category:Aldehydes]]
+[[Category:Food additives]]
+[[Category:Perfume ingredients]]
+[[Category:Sugar substitutes]]
+[[Category:Monoterpenes]]
+[[Category:Cyclohexenes]]

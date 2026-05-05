@@ -1,0 +1,84 @@
+{{short description|British scientist}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox scientist
+| name = Geraint Rees
+| birth_name                      = Geraint Ellis Rees
+| image                     =
+| image_size                = 200px
+| honorific_suffix = {{post-nominals|country=GBR|FMedSci|FRCP|size=100}}
+| alt               = 
+| caption           = Geraint Rees in 2022
+| birth_date        = {{Birth date and age|df=yes|1967|11|27}}{{Citation needed|date=June 2011}}
+| birth_place       = [[Cambridge]], UK
+| death_date        = <!-- {{Death date and age|df=yes|YYYY|MM|DD|1967|11|27}} (death date then birth date) -->
+| death_place       = 
+| resting_place             = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| residence         = 
+| citizenship       = 
+| workplaces        =[[University College London]]<br>[[Francis Crick Institute]]<br>[[DeepMind]]<br>[[California Institute of Technology]]
+| alma_mater        = [[University of Cambridge]] (BA)<br />[[University of Oxford]] (BM, BCh)<br />[[University College London]] (PhD)<!--Oxbridge colleges don't award degrees-->
+| thesis_title      = An investigation of the neural correlates of selective attention in humans using functional imaging
+| thesis_url        = https://catalogue.libraries.london.ac.uk/record=b1865725
+| thesis_year       = 1999
+| doctoral_advisor  = [[Chris Frith]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| fields         = [[Cognitive neuroscience]]<br>[[Functional magnetic resonance imaging|Functional MRI]]<br>[[Consciousness]]<ref name=gs/>
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = [[Crick Lecture]] 2007<ref>http://royalsociety.org/awards/francis-crick-lecture/ Crick lecturers</ref>
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = {{Official URL}}
+| footnotes         = 
+| spouse            = 
+}}'''Geraint Ellis Rees''' is a British scientist who is Vice-[[Provost (education)|Provost]] of research, innovation & global engagement<ref>{{Cite web | url=https://www.ucl.ac.uk/research/professor-geraint-rees-ucl-vice-provost-research-innovation-global-engagement | title=Professor Rees took up the role of UCL Vice-Provost (Research, Innovation & Global Engagement), having served as Dean of the Faculty of Life Sciences from 2014-2022.| date=2014-05-30}}</ref>  at [[University College London]] (UCL). Previously he served as Dean of the [[UCL Faculty of Life Sciences]],<ref>{{Cite web | url=http://www.ucl.ac.uk/news/slms/slms-news/slms/rees | title=New Dean for UCL Faculty of Life Sciences| date=2014-05-30}}</ref> UCL Pro-Provost (Academic Planning),<ref>{{Cite web | url=https://www.ucl.ac.uk/news/2021/jun/new-pro-provost-academic-planning-announced-help-deliver-ucls-new-strategy | title=New Pro-Provost (Academic Planning) announced to help deliver UCL's new strategy| date=2021-06-08}}</ref> Pro-Vice-Provost (AI) <ref>{{Cite web | url=https://www.ucl.ac.uk/news/2019/jun/ucl-names-new-pro-vice-provosts-london-and-artificial-intelligence | title=New Pro-Vice-Provost(AI) | date=2019-06-09}}</ref> and a Professor of [[cognitive neuroscience|Cognitive Neurology]] at University College London. He is also a Director of [[UCL Business]], a trustee of the [[Alan Turing Institute]], a trustee of the [[Francis Crick Institute]] and  a trustee of the Guarantors of Brain.
+
+Until 2021 he was a founding Trustee of the charity in2scienceUK; until 2016 he was a member of the [[Francis Crick Institute]] Executive Team; from 2012 - 2014 he was Deputy Head of the UCL Faculty of Brain Sciences,<ref>{{Cite web | url=http://www.ucl.ac.uk/brain-sciences | title=UCL - London's Global University | access-date=11 January 2012 | archive-date=24 December 2011 | archive-url=https://web.archive.org/web/20111224184748/http://www.ucl.ac.uk/brain-sciences | url-status=dead }}</ref> and from 2009 to 2014 the Director of the [[UCL Institute of Cognitive Neuroscience]].<ref>[http://www.icn.ucl.ac.uk/Staff-Lists/MemberDetails.php?Title=Dr&FirstName=Geraint&LastName=Rees UCL Staff Profile] {{webarchive|url=https://web.archive.org/web/20110111183022/http://www.icn.ucl.ac.uk/Staff-Lists/MemberDetails.php?Title=Dr&FirstName=Geraint&LastName=Rees |date=2011-01-11 }}</ref><ref>http://www.fil.ion.ucl.ac.uk/~grees/ Rees laboratory homepage</ref> He held a [[Wellcome Trust]] Senior Clinical Fellowship<ref>http://www.wellcome.ac.uk/News/2010/News/WTX059334.htm Wellcome Trust Press Release: Wellcome Trust researchers elected as Fellows of the Academy of Medical Sciences</ref> from 2003 to 2018.
+
+==Education==
+Geraint Rees was born in 1967 in [[Cambridge]] and educated at [[Queen Elizabeth Grammar School, Wakefield]] and [[Bradford Grammar School]]. Rees received his [[Bachelor of Arts]] degree in the [[Medical Science]] [[Tripos]] in 1988 from the [[University of Cambridge]] where he was an undergraduate student of [[Gonville and Caius College, Cambridge]].<ref name=whoswho/> He moved to the [[University of Oxford]] where he received his [[Bachelor of Medicine, Bachelor of Surgery]] (BM BCh) degree in 1991 where he was a student of [[New College, Oxford]].<ref name=whoswho/> He completed his [[Doctor of Philosophy|PhD]] under the supervision of [[Chris Frith]] at [[University College London]]'s Functional Imaging Laboratory in 1999.<ref name=phd>{{cite thesis|degree=PhD|url=https://catalogue.libraries.london.ac.uk/record=b1865725|website=london.ac.uk|publisher=[[University of London]]|year=1999|title=An investigation of the neural correlates of selective attention in humans using functional imaging|first=Geraint Ellis|last=Rees|oclc=926307126}}</ref>
+
+==Career and research==
+After his PhD, Rees then worked as a [[postdoctoral]] [[fellow]] in [[Christof Koch]]s laboratory at the [[California Institute of Technology]] for two years before returning to the Institute of Cognitive Neuroscience at [[University College London]] in 2001. In 2002 he became a group leader with the award of a Senior Fellowship from the [[Wellcome Trust]]. His Senior Fellowship was renewed in 2007 and 2012. His work has been internationally recognised with the award in 2003 of the Young Investigator Medal of [[The Organization for Human Brain Mapping]].<ref>{{Cite web|url=https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3319|title=Early Career Investigator Award &#124; Organization for Human Brain Mapping|website=www.humanbrainmapping.org}}</ref> In 2007 he was awarded the Experimental Psychology Society Prize and gave the [[Royal Society]] [[Francis Crick Lecture]]. In February 2009 he gave the [[Goulstonian lecture]] of the [[Royal College of Physicians]].
+
+As of November 2024, his work has been cited 30,221 (ISI) or 53,726 [[Google Scholar]] times; his ISI [[H-index]] is 88, his [[h-index]] is 114 and his [[I10-index]] is 320.<ref name=gs>{{Google scholar id}}</ref><ref name=epmc>{{EuropePMC}}</ref>
+
+He served as Secretary and Treasurer of the Guarantors of Brain, and an Associate Editor of the journal ''[[Brain (journal)|Brain]]'' between 2007-2014 and remains a trustee of the charity. In 2008 he was elected a Fellow of the [[Royal College of Physicians]] of London. In 2010 he was elected a Fellow of the [[Academy of Medical Sciences]].<ref>{{Cite web|url=https://acmedsci.ac.uk/|title=Improving Health Through Research|website=acmedsci.ac.uk}}</ref> He was a member of the [[Medical Research Council (UK)|Medical Research Council]] Neuroscience and Mental Health Board 2008-2012 and a member of the Medical Programme (subsequently Professional) Board for England <ref>[http://www.mmc.nhs.uk/medical_education/medical_programme_board.aspx/ Medical Programme Board membership website] {{webarchive|url=https://web.archive.org/web/20110302122037/http://www.mmc.nhs.uk/medical_education/medical_programme_board.aspx |date=2011-03-02 }}</ref> from its inception until 2012. His ''[[Who's Who (UK)|Who's Who]]'' entry lists his recreation as 'achieving a better work/life balance'<ref name=whoswho>{{Who's Who | author=Anon| title=Rees, Prof. Geraint | id = U245971 | year = 2011 | doi =10.1093/ww/9780199540884.013.U245971 | edition = online [[Oxford University Press]]|location=Oxford}}</ref>
+
+Rees research interests<ref name="googlescholar">{{GoogleScholar|IlCBJF4AAAAJ}}</ref><ref name="dblp">{{DBLP|name=Geraint Rees}}</ref><ref>{{Cite journal | last1 = Fleming | first1 = S. M. | last2 = Weil | first2 = R. S. | last3 = Nagy | first3 = Z. | last4 = Dolan | first4 = R. J. | last5 = Rees | first5 = G. | title = Relating Introspective Accuracy to Individual Differences in Brain Structure | doi = 10.1126/science.1191883 | journal = Science | volume = 329 | issue = 5998 | pages = 1541–1543 | year = 2010 | pmid =  20847276| pmc = 3173849| bibcode = 2010Sci...329.1541F }}</ref><ref>{{Cite journal | last1 = Haynes | first1 = J. D. | last2 = Deichmann | first2 = R. | last3 = Rees | first3 = G. | title = Eye-specific effects of binocular rivalry in the human lateral geniculate nucleus | journal = Nature | volume = 438 | issue = 7067 | pages = 496–499 | year = 2005 | pmid = 16244649 | pmc = 1351280 | doi = 10.1038/nature04169| bibcode = 2005Natur.438..496H }}</ref> are on the neural mechanisms underlying human [[consciousness]] in health and disease.<ref>{{Cite journal | last1 = Haynes | first1 = J. D. | last2 = Rees | first2 = G. | doi = 10.1038/nrn1931 | title = Decoding mental states from brain activity in humans | journal = Nature Reviews Neuroscience | volume = 7 | issue = 7 | pages = 523–534 | year = 2006 | pmid = 16791142 | s2cid = 16025026 }}</ref><ref>{{Cite journal | last1 = Lumer | first1 = E. D. | last2 = Friston | first2 = K. | last3 = Rees | first3 = G. | doi = 10.1126/science.280.5371.1930 | title = Neural Correlates of Perceptual Rivalry in the Human Brain | journal = Science | volume = 280 | issue = 5371 | pages = 1930–1934 | year = 1998 | pmid =  9632390| bibcode = 1998Sci...280.1930L | citeseerx = 10.1.1.36.3106 }}</ref><ref>{{Cite journal | last1 = De Fockert | first1 = J. W. | last2 = Rees | first2 = G. | last3 = Frith | first3 = C. | last4 = Lavie | first4 = N. | title = The Role of Working Memory in Visual Selective Attention | doi = 10.1126/science.1056496 | journal = Science | volume = 291 | issue = 5509 | pages = 1803–1806 | year = 2001 | pmid = 11230699 | bibcode = 2001Sci...291.1803D | citeseerx = 10.1.1.456.3324 | s2cid = 13788010 }}</ref> At present most work focuses on the [[neural correlate]]s of particular types of conscious content, aiming to distinguish between conscious and unconscious representations in the human brain. As a considerable amount is already known about the anatomy and physiology of the visual system, much of the research in the laboratory focuses on visual awareness. However, his laboratory also studies the auditory and somatosensory systems. Most research involves [[functional MRI]] at high field, in combination with behavioral studies, [[transcranial magnetic stimulation]] and [[Electroencephalography|EEG]]/[[Magnetoencephalography|MEG]]. Previous work by Rees has suggested that subjective awareness of objects in the visual environment is associated not just with enhanced activation in visual areas of the occipital lobe, but also areas of parietal and prefrontal cortex often associated with attention. A major focus of this work is therefore in studying interactions between visual cortex and these areas, both in the context of attention, and with respect to eye movements.
+
+More recently, he has worked on neurodegeneration, collaborating with [[Sarah Tabrizi]]. His work on multivariate inference has led to collaborations with [[Parashkev Nachev]] and work in high-dimensional neurology and with [[DeepMind]].
+
+He co-edited a large reference book entitled the ''Neurobiology of Attention''<ref>{{cite book |author1=Tsotsos, John K. |author2=Laurent Itti |author3=Geraint Rees |title=Neurobiology of attention |publisher=Elsevier Academic Press |location=Amsterdam |year=2005 |isbn=978-0-12-375731-9 }}</ref> with [[Laurent Itti]] and [[John Tsotsos]], and is the author of numerous articles and invited reviews on the functional imaging of consciousness.
+
+He was a member of the board of the [[Association for the Scientific Study of Consciousness]] until stepping down in 2007, and with [[Patrick Wilken]] organised its tenth annual meeting that was held at [[St Anne's College, Oxford|St. Anne's College, Oxford]] in June 2006.
+
+In 2011, Rees co-authored a neuroscience paper, ''Political Orientations Are Correlated with Brain Structure in Young Adults'' together with among others actor [[Colin Firth]],<ref>{{cite journal |doi=10.1016/j.cub.2011.03.017 |title=Political Orientations Are Correlated with Brain Structure in Young Adults |year=2011 |last1=Kanai |first1=Ryota |last2=Feilden |first2=Tom |last3=Firth |first3=Colin |author-link3= Colin Firth |last4=Rees |first4=Geraint |journal=[[Current Biology]] |volume=21 |issue=8 |pages=677–80 |pmid=21474316 |pmc=3092984}}</ref> who had suggested on [[BBC Radio 4]] that such a paper could be written.<ref>{{cite news| url=https://www.bbc.co.uk/news/entertainment-arts-13661538 | work=[[BBC News]] | title=Colin Firth credited in brain research | date=2011-06-05 |access-date=2021-03-13}}</ref>
+
+===Teaching and training===
+Rees is currently Director of the UCL SLMS Academic Careers Office<ref>{{Cite web | url=http://www.ucl.ac.uk/slms/aco/homepage | title=UCL - London's Global University}}</ref> which delivers strategy and support to academics and clinical academics at UCL. He directs a Wellcome Trust Clinical PhD Programme and a large MRC Doctoral Training Programme associated with the ACO. Previously Rees was the elected Deputy Chair of the [[British Medical Association]] (BMA) Medical Academic Staff Committee (MASC) 2007-12, and led on policy development concerning medical academic training. He was a member of the Medical Programme Board for England 2007-2012 and chaired the MPB Recruitment Task and Finish Group overseeing recruitment of all trainee doctors in England. He served on the 'Walport' committee of the UK Clinical Research Collaboration developing Academic Clinical Fellow and Clinical Lecturer schemes, and leads the local ACF and CL schemes at [[University College London]]. He was also course director for over a decade for the Membership of the Royal College of Physicians (MRCP) Part 1 courses in London run by Pastest.
+
+===Enterprise and innovation===
+
+Rees is a Non-Executive Director of UCL Business PLC,<ref>{{Cite web | url=http://www.uclb.com/who-we-are/staff-member/board-members/professor-geraint-rees | title=Professor Geraint Rees}}</ref> the technology transfer company associated with [[University College London|UCL.]] He was also a Senior Scientific Advisor at Google DeepMind between 2015-2020.<ref>{{Cite web|url=https://deepmind.com/applied/deepmind-health/about-deepmind-health/our-advisors/|title=Our advisors {{!}} DeepMind|website=DeepMind|access-date=2018-03-10}}</ref> Rees was Chair of the Knowledge Transfer and Enterprise Board,<ref>{{Cite web | url=https://www.ucl.ac.uk/enterprise/staff/school-faculty-enterprise-support | title=For students| date=2017-08-22}}</ref> of the UCL School of Life and Medical Sciences between 2014-2017. He was a Director of Imanova Limited,<ref>{{Cite web | url=http://www.imanova.co.uk/who-we-are/our-team | title=The Team}}</ref> a molecular imaging company until August 2017 when it was acquired by Invicro.
+
+==References==
+{{reflist}}
+
+{{Francis Crick Institute}}
+{{Authority control}}
+{{Scholia}}
+
+{{DEFAULTSORT:Rees, Geraint}}
+[[Category:1967 births]]
+[[Category:Living people]]
+[[Category:British consciousness researchers and theorists]]
+[[Category:Fellows of the Royal College of Physicians]]
+[[Category:Wellcome Trust]]
+[[Category:British cognitive neuroscientists]]
+[[Category:Alumni of the University of Oxford]]

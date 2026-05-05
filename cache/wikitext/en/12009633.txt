@@ -1,0 +1,70 @@
+'''Sociophysiology''' is the "interplay between society and physical functioning" (Freund 1988: 856) involving "collaboration of two neighboring sciences: [[physiology]] and [[sociology]]" ([[Marcel Mauss|Mauss]] 1936: 373).<ref>"Collaboration de deux sciences voisines: physiologie, sociologie" (Mauss 1936: 373). Furthermore, Freund (1988) discusses the work of F. J. Buytendijk (1974), which "is one example of an effort to redefine mechanistic physiology in such a way as to include subjectivity and social existence as interrelated aspects of our physical being" (Freund 1988: 847), such that there exists a "mutually 'conditioning' relation between sociopsychological and biological factors. Social environments 'construct' bodies, which in turn affect social behavior, and this behavior in turn further modifies bodies" (Freund 1988: 849).</ref> In other words, sociophysiology is physiological sociology, a special science that studies the physiological side of human (and other animals') interrelations ([[G. P. Zeliony|Zeliony]] 1912: 405–406).<ref>"Die physische Seite der Wechselbeziehungen der Menschen kann nichtsdestoweniger Gegenstand einer besonderen Naturwissenschaft sein, welche ich als "physiologische Soziologie" oder besser "Soziophysiologie" zu bezeichnen vorschlage" (Zeliony 1912: 405-406). Zeliony’s 1912 paper — the earliest known which uses the term "sociophysiology" and its derivatives, e.g., ''Soziophysiologie'', ''soziophysiologische'', etc. — was originally delivered as a lecture to the Saint Petersburg Philosophical Society on March 19, 1909 (Zeliony 1912: 405). Although Zeliony (1912: 406) attributes the term "sociophysiology" to Russian philosopher [[:ru:Введенский, Александр Иванович (философ)|A. I. Wedensky]], [[Paul von Lilienfeld]], in 1879, published a book titled ''Social Physiology'', which uses throughout the unified concept, conjoined with a dash, "social-physiology" [''social-physiologie''] in addition to the modified substantive, separated by a space, "social physiology" [''sociale Physiologie'']. [[G. P. Zeliony]], a worker in [[Ivan Pavlov|Pavlov's]] lab, took as the starting point for his "future sociophysiology," the study of the "[[reflex]]ive interrelations" [''reflektorischen Wechselbeziehungen''] of humans and other animals (Zeliony 1912: 405; 412–413).</ref>
+
+==Interdisciplinary field of research==
+In addition to having been termed an "interdisciplinary area for research, an area which demonstrates the concomitant relationship between physiology and social behavior" (Di Mascio et al. 1955: 4), sociophysiology may also be described as "social [[ethology]]" and "social energetics" ([[Emile Waxweiler|Waxweiler]] 1906: 62). That is, the "physiology of reactive phenomena caused by the mutual excitations of individuals of the same species" (Waxweiler 1906: 62).<ref>"Éthologie sociale; énergétique sociale — physiologie des phénomènes réactionnels dus aux excitations mutuelles des individus de même espèce" (Waxweiler 1906: 62).</ref>
+
+The interdisciplinary nature of sociophysiology largely entails a "synthesis of [[psychophysiology]] and [[social interaction]]" (Adler 2002: 884) such that a "socio-psycho-biological study" (Mauss 1936: 386) of "biologico-sociological phenomena" (Mauss 1936: 385) may ensue.<ref>"Étude socio-psycho-biologique" (Mauss 1936: 386); "phénomènes biologico-sociologiques" (Mauss 1936: 385).</ref> Such "socio-psycho-biological study" has uncovered a "sharing of physiology between people involved in a meaningful interaction" (Adler 2002: 884), as well as "mutually responsive physiologic engagement having normative function in maintaining social cohesion and well-being in higher social animals" (Adler 2002: 885). This "mutually responsive physiologic engagement" brings into play the "close links uniting social phenomena to the biological phenomena from which they immediately derive" ([[Ernest Solvay|Solvay]] 1906: 26).<ref>"Liens étroits qui unissent les phénomènes sociologiques aux phénomènes biologiques dont ils dérivent immédiatement" (Solvay 1906: 26).</ref>
+
+==Interpersonal physiology==
+Furthermore, sociophysiology explores the "intimate relationship and mutual regulation between social and physiological systems that is especially vital in human groups" (Barchas 1986: 210). In other words, sociophysiology studies the "physio- and psycho-energetic phenomena at the basis of social groupings" (Solvay 1906: 25).<ref>"Phénomènes physic- et psycho-énergétiques à la base des groupements sociaux" (Rolvaag 1906: 25). Such phenomena are now known to involve [[neurotransmitter]]s, [[hormone]]s, [[pheromone]]s, the [[immune system]], etc.</ref> Along these lines, Zeliony (1912) noted that
+
+{{cquote|The changes of society are the result of the activities of the nervous system. Excitations vary with the same animal and with the same class of animals. The problem of the socio-physiologist is to find out what are the excitors and what the inhibitors. Physiology gives the laws of the nervous system.... Thus the duty of the socio-physiologist is to give a description of the nervous processes of groups which have resulted in changes in the [physical and social] environment.|4=[[Georgii Zeliony|Georgii Pavlovich Zeliony]] |5=summarized in Ellwood, C. A. (1916). Objectivism in sociology. American Journal of Sociology, vol. 22, no. 3, p. 297–298.}}
+
+In addition, sociophysiology "describes structure-function relationships for body structures and interactive functions relevant to psychiatric illness" (Gardner 1997: 351), and also "assumes that psychiatric disorders are pathological variants of the motivation, emotions, and conflict involved in normal communicational processes" (Gardner and Price 1999: 247–248). [[Psychiatry]], thus, involves the diagnosis and treatment of what [[Paul von Lilienfeld|Lilienfeld]] (1879: 280) termed "physiological social pathology", and may be classed as a subfield of sociophysiology, called "pathological sociophysiology" by Zeliony (1912: 405).<ref>"Die physiologische Socialpathologie" (Lilienfeld 1879: 280); "Pathologische Soziophysiologie" (Zeliony 1912: 405).</ref> As summarized by Ellwood (1916), Zeliony thought that, in the future,
+
+{{cquote|A socio-physiological pathology will become necessary. Its field of observation will be the deviations from the norm which are observed either as a result of the pathological differences in the organism or as a result of other conditions, as in the insane or those addicted to the use of alcohol.|4=[[Georgii Zeliony|Georgii Pavlovich Zeliony]]|5=Ellwood, C. A. (1916). Objectivism in sociology. American Journal of Sociology, vol. 22, no. 3, p. 298.}}
+
+Ellwood (1916: 298) also noted that Zeliony's future sociophysiology, being a natural biological science, must be [[Darwinism|Darwinian]].
+
+In short, sociophysiology is "reciprocal, interpersonal physiology" (Adler 2002: 885). Such interpersonal physiology may have implications in the realm of human politics. For example, the findings of a recent study "suggest that political attitudes vary with physiological traits linked to divergent manners of experiencing and processing environmental threats" (Oxley et al. 2008: 1669).
+
+==See also==
+* [[Biological psychology]]
+* [[Ethology]]
+* [[Evolutionary psychology]]
+* [[Physiological psychology]]
+* [[Psychophysiology]]
+* [[Social interaction]]
+* [[Social psychology]]
+* [[Sociobiology]]
+* [[Sociophysics]]
+* [[G. P. Zeliony]]
+
+==References==
+{{reflist}}
+
+==Sources==
+*Adler, H. M. (2002). The sociophysiology of caring in the doctor–patient relationship. ''Journal of General Internal Medicine'', vol. 17, no. 11, pp.&nbsp;883–890.
+*Barchas, P. R. (1986). A sociophysiological orientation to small groups. In E. J. Lawler, ed., ''Advances in Group Processes'', vol. 3, pp.&nbsp;209–246. Greenwich, CT: JAI Press.
+*Di Mascio, A., Boyd, R. W., Greenblatt, M., and H. C. Solomon. (1955). The psychiatric interview (a sociophysiologic study). ''Diseases of the Nervous System'', vol. 16, no. 1, pp.&nbsp;4–9.
+*[[Charles A. Ellwood|Ellwood, C. A.]] (1916). Objectivism in sociology. ''American Journal of Sociology'', vol. 22, no. 3, pp.&nbsp;289–305.
+*Freund, P. E. S. (1988). Bringing society into the body: Understanding socialized human nature. ''Theory and Society'', vol. 17, no. 6, pp.&nbsp;839–864.
+*Gardner Jr., R. J. (1997). Sociophysiology as the basic science of psychiatry. ''Theoretical Medicine'', vol. 18, no. 4, pp.&nbsp;335–356.
+*Gardner Jr., R. J., and J. S. Price. (1999). Sociophysiology and depression. In T. E. Joiner and J. C. Coyne, eds., ''The Interactional Nature of Depression: Advances in Interpersonal Approaches''. Washington, DC: American Psychological Association.
+*[[Paul von Lilienfeld|Lilienfeld, P.]] (1879). ''Die sociale Physiologie''. Volume 4 of ''Gedanken über die Socialwissenschaft der Zukunft''. Mitau: E. Behre's Verlag.
+*[[Marcel Mauss|Mauss, M.]] (1936). Les techniques du corps. ''Journal de Psychologie'', vol. 32, nos. 3–4, 15 mars – 15 avril 1936. Reprinted in M. Mauss, ''Sociologie et anthropologie'', Paris: PUF, 1950, pp. xxx-xxx. {{doi|10.1522/cla.mam.tec}}
+*Oxley, D. R. et al. (2008). Political attitudes vary with physiological traits. ''Science'' 19 September 2008: Vol. 321. no. 5896, pp.&nbsp;1667–1670. [http://www.sciencemag.org/cgi/content/abstract/321/5896/1667 ] {{doi|10.1126/science.1157627}}
+*[[Ernest Solvay|Solvay, E.]] (1906). ''Note sur des formules d’introduction à l’énergétique physio- et psycho-sociologique''. Fascicule 1 des ''Notes et Mémoires'' de l’Institut de Sociologie, Instituts Solvay, Parc Léopold, Bruxelles. Bruxelles et Leipzig: Misch et Thron.
+*[[Emile Waxweiler|Waxweiler, E.]] (1906). ''Esquisse d’une sociologie''. Fascicule 2 des ''Notes et Mémoires'' de l’Institut de Sociologie, Instituts Solvay, Parc Léopold, Bruxelles. Bruxelles et Leipzig: Misch et Thron.
+*[[G. P. Zeliony|Zeliony, G. P.]] (1912). Über die zukünftige Soziophysiologie. ''Archiv für Rassen- und Gesellschafts-Biologie'', vol. 9, no. 4, pp.&nbsp;405–429.
+
+==Further reading==
+*Barchas, P. R., ed. (1984). ''Social Hierarchies: Essays Toward a Sociophysiological Perspective''. Westport, CT: Greenwood.
+*Barchas, P. R. and S. P. Mendoza, eds. (1984). ''Social Cohesion: Essays Toward a Sociophysiological Perspective''. Westport, CT: Greenwood.
+*Buytendijk, F. J. (1974). ''Prolegomena to an Anthropological Physiology''. Pittsburgh: Duquesne University Press.
+*Gardner Jr., R. J. and D. R. Wilson. (2004). Sociophysiology and evolutionary aspects of psychiatry. In J. Panksepp, ed., ''Textbook of Biological Psychiatry''. Wiley. [https://books.google.com/books?id=yeLKvgbrcxgC&dq=Textbook+of+Biological+Psychiatry&pg=PP1]
+*Mysterud, I. (2004). One name for the evolutionary baby? A preliminary guide for everyone confused by the chaos of names. ''Social Science Information'', vol. 43, no. 1, pp.&nbsp;95–114.
+*[[Georges Perec|Perec, G.]] (1976) Lire: esquisse socio-physiologique. ''Esprit'', no. 453, pp.&nbsp;9–20. Reprinted in G. Perec, ''Penser/Classer'', Paris: Hachette, 1985.
+*Reinheimer, H. (1920). ''Symbiosis: A Socio-physiological Study of Evolution''. London: Headley Brothers. (Reinheimer seems to use the term "socio-physiology" as a synonym for "[[eugenics]]," which usage differs vastly from that of other writers, both early and late.) [https://archive.org/details/symbiosissocioph00reinrich]
+*Waid, W. M., ed. (1984). ''Sociophysiology''. New York: Springer Verlag.
+
+==External links==
+*Biozentrum Universität Würzburg: Research: Behavioral Physiology and Sociobiology. [http://www.biozentrum.uni-wuerzburg.de/research0.html]
+*Universität Bayreuth, Studies on behavioural ecology and sociophysiology in European rabbits. [http://www.uni-bayreuth.de/forschungsberichte/05/2/1/07/00/engl.html]
+*Hominisation-Anton Fürlinger, Social Brain and Sociophysiology. [http://www.hominisation.at/story.htm]
+*The Institute of Sociophysiology takes a [[’Pataphysics|pataphysical]] approach to the subject. [https://www.isocphys.org]
+
+[[Category:Behavioural sciences]]
+[[Category:Ethology]]
+[[Category:Sociobiology]]
+[[Category:Physiology]]

@@ -1,0 +1,141 @@
+{{Short description|Argentine-American cognitive scientist}}
+{{Use mdy dates|cs1-dates=ly|date=April 2025}}
+{{Use list-defined references|date=April 2025}}
+{{CS1 config|mode=cs2}}
+'''Roxana Arleen Moreno''' (1960–2010) was an Argentine-American [[cognitive science|cognitive scientist]] and [[educational psychology|educational psychologist]], known for her work on [[cognitive load]] and [[multimedia learning]].
+
+==Education and career==
+Moreno was born in [[Detroit]], on October 25, 1960,{{r|diss}} to a family of Argentine immigrants who returned to Argentina when she was six.{{r|abio}}
+
+After a 1984 bachelor's degree in economics at the [[University of Buenos Aires]],{{r|remembering|abio|diss}} Moreno received a [[juris doctor]] from the [[University of Buenos Aires]] in 1985.{{r|unm|diss}} She held various teaching positions in Argentina from 1985 to 1990.{{r|diss}}
+
+By 1995 she had moved to California, and passed the [[State Bar of California|state bar]].{{r|diss}} She began studying psychology at the [[University of California, Santa Barbara]], received a master's degree in 1998,{{r|diss}} and completed her Ph.D. in 1999.{{r|diss|x}} Her dissertation, ''Introducing Social Cues in Multimedia Learning: The Role of Pedagogic Agents' Image and Language in a Scientific Lesson'', was supervised by [[Richard E. Mayer]].{{r|alumni|diss}}
+
+After postdoctoral research funded by a [[National Science Foundation]] postdoctoral fellowship, she joined the educational psychology program at the [[University of New Mexico]] in 2000.{{r|unm}} She became an associate professor there{{r|x}} before dying of a long illness on July 24, 2010.{{r|unm}}
+
+==Recognition==
+''[[Contemporary Educational Psychology]]'' recognized Moreno as "one of the top 20 most productive educational psychologists in the world for 1991–2002".{{r|unm}} She was a 2003 recipient of the [[Presidential Early Career Award for Scientists and Engineers]], given for "being an innovative researcher on how science teachers learn to apply principles of educational psychology to their classroom experiences through new technology tools and materials".{{r|pecase}}
+
+The [[American Psychological Association]] gave her their Richard E. Snow Award for Early Contributions.{{r|unm}} The [[American Educational Research Association]] named her as a fellow in 2010.{{r|aera}}
+
+She was a [[University of New Mexico]] Regent's Lecturer two times.{{r|unm}}
+
+==Selected publications==
+===Books===
+*{{citation
+ | last = Moreno | first = Roxana
+ | isbn = 9780471789987
+ | publisher = John Wiley & Sons, Inc.
+ | title = Educational Psychology
+ | year = 2009}}
+*{{citation
+ | last1 = Plass | first1 = Jan L.
+ | last2 = Moreno | first2 = Roxana
+ | last3 = Brünken | first3 = Roland
+ | isbn = 9780521860239
+ | publisher = Cambridge University Press
+ | title = Cognitive Load Theory
+ | year = 2010}}
+
+===Articles===
+*{{citation
+ | last1 = Mayer | first1 = Richard E.
+ | last2 = Moreno | first2 = Roxana
+ | date = June 1998
+ | doi = 10.1037/0022-0663.90.2.312
+ | issue = 2
+ | journal = Journal of Educational Psychology
+ | pages = 312–320
+ | title = A split-attention effect in multimedia learning: Evidence for dual processing systems in working memory.
+ | volume = 90}}
+*{{citation
+ | last1 = Moreno | first1 = Roxana
+ | last2 = Mayer | first2 = Richard E.
+ | date = June 1999
+ | doi = 10.1037/0022-0663.91.2.358
+ | issue = 2
+ | journal = Journal of Educational Psychology
+ | pages = 358–368
+ | title = Cognitive principles of multimedia learning: The role of modality and contiguity.
+ | volume = 91}}
+*{{citation
+ | last1 = Mayer | first1 = Richard E.
+ | last2 = Moreno | first2 = Roxana
+ | doi = 10.1023/a:1013184611077
+ | issue = 1
+ | journal = Educational Psychology Review
+ | pages = 87–99
+ | title = Animation as an aid to multimedia learning
+ | volume = 14
+ | year = 2002}}
+*{{citation
+ | last1 = Mayer | first1 = Richard E.
+ | last2 = Moreno | first2 = Roxana
+ | date = January 2003
+ | doi = 10.1207/s15326985ep3801_6
+ | issue = 1
+ | journal = Educational Psychologist
+ | pages = 43–52
+ | title = Nine ways to reduce cognitive load in multimedia learning
+ | volume = 38}}
+*{{citation
+ | last = Moreno | first = Roxana
+ | date = January 2004
+ | doi = 10.1023/b:truc.0000021811.66966.1d
+ | issue = 1/2
+ | journal = Instructional Science
+ | pages = 99–113
+ | title = Decreasing cognitive load for novice students: effects of explanatory versus corrective feedback in discovery-based multimedia
+ | volume = 32}}
+*{{citation
+ | last1 = Moreno | first1 = Roxana
+ | last2 = Mayer | first2 = Richard
+ | date = June 2007
+ | department = Special Issue on Interactive Learning Environments: Contemporary Issues and Trends
+ | doi = 10.1007/s10648-007-9047-2
+ | issue = 3
+ | journal = Educational Psychology Review
+ | pages = 309–326
+ | title = Interactive multimodal learning environments
+ | volume = 19}}
+
+==References==
+<references>
+
+<ref name=abio>{{citation|contribution=About the author|page=ix|title=Educational Psychology|publisher=John Wiley & Sons, Inc.|year=2009|isbn=9780471789987|first=Roxana|last=Moreno}}</ref>
+
+<ref name=aera>{{citation|url=https://news.unm.edu/news/college-of-education-associate-professor-named-aera-fellow|title=Associate Professor Named AERA Fellow|work=UNM Newsroom|publisher=University of New Mexico|first=Steve|last=Carr|date=June 9, 2010|access-date=2025-04-03}}</ref>
+
+<ref name=alumni>{{citation|url=https://mayerlab.psych.ucsb.edu/alumni|title=Alumni|work=Mayer Lab|publisher=University of California, Santa Barbara|access-date=2025-04-03}}</ref>
+
+<ref name=diss>{{citation|title=Introducing Social Cues in Multimedia Learning: The Role of Pedagogic Agents' Image and Language in a Scientific Lesson|first=Roxana Arleen|last=Moreno|year=1999|type=Ph.D. thesis|publisher=University of California, Santa Barbara|id={{ProQuest|304519205}}|contribution=Vita|pages=v–viii|bibcode=1999PhDT.......341M }}</ref>
+<ref name=pecase>{{citation|url=https://www.nsf.gov/honorary-awards/pecase/recipients/roxana-moreno|title=Roxana Moreno|work=PECASE recipients|publisher=National Science Foundation|access-date=2025-04-03}}</ref>
+
+<ref name=remembering>{{citation
+ | last = Robinson | first = Daniel
+ | date = November 2010
+ | doi = 10.1007/s10648-010-9147-2
+ | issue = 4
+ | journal = Educational Psychology Review
+ | pages = 363–374
+ | title = Editor's Note: Remembering Roxana Moreno
+ | volume = 22}}</ref>
+
+<ref name=unm>{{citation|url=https://news.unm.edu/news/education-professor-roxana-moreno-to-be-remembered-at-memorial|title=Education Professor Roxana Moreno to be Remembered at Memorial|work=UNM Newsroom|publisher=University of New Mexico|first=Steve|last=Carr|date=September 7, 2010|access-date=2025-04-03}}</ref>
+
+<ref name=x>{{citation|url=https://ieeexplore.ieee.org/author/37300970600|title=Roxana Moreno|work=IEEE Xplore|publisher=IEEE|date=March 21, 2012|access-date=2025-04-03}}</ref>
+
+</references>
+
+{{Authority control|state=collapsed}}
+{{DEFAULTSORT:Moreno, Roxana}}
+[[Category:1960 births]]
+[[Category:2010 deaths]]
+[[Category:Academics from Detroit]]
+[[Category:American people of Argentine descent]]
+[[Category:Argentine psychologists]]
+[[Category:21st-century American psychologists]]
+[[Category:University of Buenos Aires alumni]]
+[[Category:University of California, Santa Barbara alumni]]
+[[Category:University of New Mexico faculty]]
+[[Category:20th-century American psychologists]]

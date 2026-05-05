@@ -1,0 +1,161 @@
+{{Short description|Protein-coding gene in the species Homo sapiens}}
+{{Infobox gene}}
+'''Cas scaffolding protein family member 4''' is a [[protein]] that in humans is encoded by the CASS4 [[gene]].<ref name="entrez"/>
+
+== History and discovery ==
+CASS4 (Crk associated substrate 4) is the fourth and last described member of the [[CAS/CSE protein family|CAS protein family]].<ref name="Tikhmyanova_2010"/> CASS4 was detected by Singh et al.<ref name="Singh_2008"/> in 2008 following ''in silico'' screening of databases describing expressed sequence tags from an evolutionarily diverse group of organisms, using the CAS-related proteins ([[BCAR1|p130Cas]], [[NEDD9|NEDD9/HEF1]] and [[Embryonal fyn-associated substrate|EFS]]) mRNAs as templates. Singh et al. subsequently cloned and characterized the CASS4 gene, originally assigning the name HEPL (HEF1-EFS-p130Cas-like) for similarity to the other three defined CAS genes. The official name was subsequently changed to CASS4 by the Human Genome Organization ([[Human Genome Organisation|HUGO]]) Gene Nomenclature Committee ([[HGNC]]).
+
+== Gene ==
+The chromosomal location of the CASS4 gene is 20q13.31, with genomic coordinates of 20: 56411548-56459340 on the forward strand in GRChB38p2.<ref name="Tikhmyanova_ 2011"/> While its HGNC-approved symbol is CASS4, this gene has multiple synonyms, including "HEF-like protein", "HEF1-Efs-p130Cas-like", HEFL, HEPL and C20orf32 ("chromosome 20 open reading frame 32"). Official IDs assigned to this gene include 15878 (HGNC), 57091 ([[Entrez]] Gene) and ENSG00000087589 ([[Ensembl]]). In humans four transcript variants are known. The first and second each contain 7 exons and encode the same full-length protein isoform a (786 amino acids, considered the major isoform), the third one contains 6 exons and encodes a shorter isoform b (732 amino acids) and the fourth one contains 5 exons and encodes the shortest isoform c (349 amino acids). Cumulatively, the CASS4 transcripts are most highly expressed in spleen and lung among normal tissues, and are highly expressed in ovarian and leukemia cell lines.<ref name="Singh_2008" />
+
+To date, little effort has been applied to the direct study of transcriptional regulation of CASS4.  The SABiosciences' DECODE database, based on the UCSC Bioinformatics Genome Browser,<ref name="urlSearch ChIP-qPCR Assay"/> proposes several transcriptional regulators for CASS4 based on its promoter region sequence: [[NF-κB|NF-κβ]], [[p53]], [[NFE2L1|LCR-F1]] (NFE2-L1, nuclear factor, erythroid 2-like1), [[MAX1]], [[C/EBP]]α, CHOP-10 (C/EBP homologous protein 10), [[POU3F1]] (POU domain, class 3, transcription factor 1, aka Oct-6), [[ZEB1|Areb6]] (ZEB1, Zinc finger E-box binding homeobox 1).  These are compatible with regulation relevant to lymphocytes and deregulation in cancer.
+
+== Protein family ==
+In vertebrates, the CAS protein family contains four members: [[BCAR1|p130Cas/BCAR1]], [[NEDD9|NEDD9/HEF1]], [[Embryonal fyn-associated substrate|EFS]] and CASS4. There are no paralogous genes for this family in [[acoelomates]], [[pseudocoelomates]], and [[nematode]]s, while a single ancestral member is found in Drosophila.<ref name="Singh_2008" /> Evolutionary divergence of the CAS proteins family members is discussed by Singh et al. in detail.<ref name="Singh_2008" />
+
+== Structure ==
+[[File:Interaction network and domain structure scheme of CASS4.png|thumb|260x260px|'''Figure 1. Interaction network and domain structure scheme of Cass4. '''SH3 domain (SH3) preceded by a short region with no defined functional elements; SH2-binding site motifs, which when tyrosine-phosphorylated allow interaction with SH2-domain containing proteins; serine-rich region encompassing 4-helices and a second highly conserved four-helix bundle that has been recognized as functionally and structurally similar to a focal adhesion targeting [FAT] domain.'''.''']]
+All CAS protein family members have common structural characteristics.<ref name="Tikhmyanova_2010" /> CAS proteins have an amino terminal [[SH3 domain]] enabling interaction with poly-proline motif-containing proteins such as [[PTK2|FAK]].  Carboxy-terminal to this, they possess an unstructured domain containing multiple [[SH2 domain|SH2]] binding site motifs, which when tyrosine-phosphorylated allow interaction with [[SH2 domain]] containing proteins.  Further to the carboxy-terminus, they have a [[Coiled coil|four-helix bundle]] rich in serine residues, and a second highly conserved four-helix bundle that has been recognized as functionally and structurally similar to a [[Focal adhesion targeting region|focal adhesion targeting]] [FAT] domain.<ref name="Tikhmyanova_ 2011" /> For the better studied members of the CAS family ([[BCAR1]] and [[NEDD9]]), all of these domains have been defined as crucial for recognition and binding by other proteins, reflecting the primary role of CAS family proteins as cell signaling cascades mediators.
+
+Isoform "a" of human CASS4 is considered the predominant species, and at 786 amino acids is the longest one.<ref name="UniProt_Q9NQ75"/> Amino acid sequence homology of this isoform of human CASS4 with other family members is 26% overall identity and 42% similarity.<ref name="Singh_2008" /> Using a yeast two-hybrid approach, the CASS4 protein [[SH3 domain]] was shown to interact with the [[PTK2|FAK]] C-terminus, despite the lowest overall similarity to other [[SH3 domain]]s in the CAS group. In addition, human CASS4 has a limited number of candidate SH2-binding sites, estimated at 10, which is similar to [[Embryonal fyn-associated substrate|EFS]] (estimated at 9) and in contrast to [[BCAR1|p130Cas/BCAR1]] and [[NEDD9]], which have 20 and 18 respectively. The CASS4 C-terminus has a short region of CAS family homology, but lacks obvious similarity at the level of primary amino acid sequence. It also lacks a YDYVHL sequence at the N-terminal end of the [[Focal adhesion targeting region|FAT]]-like carboxy-terminal domain, even though this motif is conserved among the other three CAS family proteins and is an important binding site for the [[Src (gene)|Src]] SH2 domain.<ref name="Tachibana_1997"/> Although this lack of sequence similarity may mean a reduced functionality of the CASS4 protein, molecular modeling analysis performed by Singh and colleagues<ref name="Singh_2008" /> using [[BCAR1|p130CAS/BCAR1]] structures as templates suggested an almost identical fold between CASS4 and [[BCAR1|p130CAS/BCAR1]] within their [[SH3 domain]]s, and substantial similarity within 432-591 residues of CASS4 and 449-610 residues of [[BCAR1|p130Cas/BCAR1]] at the level of secondary and tertiary structures. Also, the similar periodicity of [[Α-helix|α-helices]] and [[β-sheets]] in both CASS4 and [[BCAR1|p130Cas/BCAR1]] provides another confirmation for the idea of well-conserved structures within the family members.
+
+== Function ==
+The exact function of CASS4 and its role in development and human pathologies have been subject to little investigation compared to other family members. The primary study exploring CASS4 function was the initial report by Singh et al.,<ref name="Singh_2008" /> who showed the direct interaction between CASS4 and [[PTK2|FAK]], and CASS4 regulation of [[PTK2|FAK]] activation, affecting cellular adhesion, migration and motility. Unusually, CASS4 depletion had a bimodal affect, causing some cells to have lower velocity and others to have higher velocity than control cells, suggesting a potential role in maintaining homeostasis. This work also suggested the function of CASS4 may be cell-type specific and dependent upon the presence or absence of expression of other CAS family members.<ref name="Singh_2008" /> Direct binding has also been identified between CASS4 and [[CRKL]],<ref name="Brehme_2009"/> an [[SH2 domain|SH2]]- and [[SH3 domain|SH3]] domain-containing adaptor protein that has been also shown to interact with another CAS family member, [[BCAR1|p130Cas/BCAR1]], in regulation of cellular motility and migration.<ref name="Hsia_2003"/> Because of the high degree of homology in interaction domains and some identified common partners, CASS4 is likely to share some functions with other CAS family members.  These include association with [[PTK2|FAK]] and [[Src (gene)|Src]] family kinases at focal adhesions to transmit [[integrin]]-initiated signals to downstream effectors, which results in cytoskeleton reorganization and changes in motility and invasion.<ref name = "Tikhmyanova_2010_b"/>
+
+== Disease association ==
+Altered expression or modification of CASS4 has been proposed as relevant to several human pathologies, typically based on detection of changes in CASS4 in high throughput screening, although the role of CASS4 in the pathology of these conditions has not yet been studied directly.  These findings are summarized in Table 1; some examples are provided below.
+{| class="wikitable"
+|+'''Table 1.''' CASS4 disease association 
+!Screen purpose
+!Observation
+|-
+| rowspan="5" |[[Alzheimer's disease]]
+|[[Single-nucleotide polymorphism|SNP]] rs7274581 T/C linked to risk.<br />
+Odds ratio 0.72; p-value 0.011.<ref name="Beecham_2014" />
+|-
+|[[Single-nucleotide polymorphism|SNP]] rs7274581 T/C linked to risk.<br />
+Odds ratio 0.88; p-value 2.5*10<sup>−8</sup>.<ref name="Lambert_2013" />
+|-
+|[[Single-nucleotide polymorphism|SNP]] rs7274581 T/C linked to risk<br />
+Odds ratio 0.8888; p-value 1.75 ×10<sup>−7</sup>.<ref name="Ruiz_2014" />
+|-
+|[[Single-nucleotide polymorphism|SNP]] rs6024870, RegulomeDB<ref>{{cite web|url=http://regulomedb.org/ |title=Search RegulomeDB |publisher=Regulomedb.org |date= |access-date=2016-01-30}}</ref> score 2b, which means that this SNP is likely to affect transcription factor binding.<ref name="Rosenthal_2014" />
+|-
+|[[Single-nucleotide polymorphism|SNP]] rs16979934 T/G linked to risk.
+Odds ratio 0.5956; p-value 0.03.<ref name="Wang_2015" />
+|-
+|Atopic [[asthma]]
+|Upregulated in eosinophils post antigen exposure.<ref name="Esnault_2013" />
+|-
+|[[Cystic fibrosis]]
+|Possible correlation with severity of the lung manifestation of the disease (according to GWAS).<ref name="Wright_2011" />
+|-
+|[[Non-small-cell lung carcinoma|Non-small cell lung cancer]]
+|Overexpression is associated with lymph node metastasis, high [[TNM staging system|TNM stage]] and poor prognosis.<ref name="Miao_2013" />
+|-
+|Phosphoproteome of resting human platelets
+|Identified S305 phosphorylation by [[Protein kinase A|PKA]]/[[CGMP-dependent protein kinase|PKG]] in the unstructured region containing [[SH2 domain|SH2]]-binding sites of CASS4.<ref name="Zahedi_2008" />
+|-
+|Platelet activation by oxidized phospholipids
+|CASS4 S249 phosphorylation in the unstructured region containing [[SH2 domain|SH2]]-binding sites is induced by oxidized phospholipid KODA-PC in platelets.<ref name="Zimman_2014" />
+|}
+
+=== Cancer ===
+Many CAS family proteins have altered activity and functional roles in cancer progression and metastasis, with functional roles in influencing cellular adhesion, migration and drug resistance.<ref name="Tornillo_2014"/><ref name="Nikonova_2014"/> Changes in CASS4 may also be associated with human malignancies. CASS4 function was linked to [[non-small cell lung cancer]] (NSCLC) in a study by Miao et al. that correlated elevated CASS4 expression with lymph node metastasis and high [[TNM staging system|TNM stage]].<ref name="Miao_2013"/> In addition, this study detected a significant difference in cytoplasmic accumulation of CASS4 protein between high ([[H1299]] and BE1) and low (LTE and [[A549 cell|A549]]) metastatic potential lung cancer cell lines. These may suggest CASS4 as a possible prognostic marker in clinical management of NSCLC.
+
+=== Alzheimer's disease ===
+CASS4 and corresponding [[Single-nucleotide polymorphism|SNP]] - rs7274581 T/C has been identified in a large meta-analysis as a locus for lower susceptibility to [[Alzheimer's disease]] (AD).<ref name="Lambert_2013"/><ref name="urlIGAP Summary Statistics"/>  However this SNP was not found predictive in a follow-up study.<ref name="Ruiz_2014"/>
+
+In a genome wide association screen (GWAS), CASS4 showed a significant correlation with clinical pathological features of AD such as neurofibrillary tangles and neuritic plaques.<ref name="Beecham_2014"/> Two additional CASS4 [[Single-nucleotide polymorphism|SNPs]] were reported to be associated with AD susceptibility: rs6024870,<ref name="Rosenthal_2014"/> and rs16979934 T/G.<ref name="Wang_2015"/> Given the likely conserved CAS-family cytoskeletal function of CASS4, it has been speculated that it may have a role in axonal transport and influence the expression of the [[amyloid precursor protein]] (APP) and [[Tau protein|tau]], which are pathologically affected in AD.<ref name="Karch_2015"/> Several possible mechanisms for CASS4 action in AD have been proposed.<ref name="Beck_2014"/>
+
+=== Immunopathological conditions ===
+An association of CASS4 with atopic [[asthma]] has been shown.<ref name="Esnault_2013"/> CASS4 has also been reported to be an [[Eosinophil granulocyte|eosinophil]]-associated gene, with expression in sputum cells increased more than 1.5-fold after whole lung allergen challenge. Moreover, the CASS4 mRNA was upregulated in cells collected by bronchoalveolar lavage after segmental broncho-provocation with an allergen. Reciprocally, the CASS4 mRNA was downregulated when this procedure was performed following administration of [[mepolizumab]] (a humanized monoclonal anti-[[Interleukin 5|IL-5]] antibodies which reduces excessive eosinophilia).  This suggests CASS4 activity may be associated with immune response in the context of atopic asthma development.
+
+==== Cystic fibrosis ====
+CASS4 has been reported to play a modifying role in [[cystic fibrosis]] severity, progression and comorbid conditions.<ref name="Wright_2011"/> The CAS family member [[NEDD9]] has also been shown to interact directly with [[AURKA]] (encoding Aurora-A kinase) to regulate cell cycle<ref name="Pugacheva_2005"/> and ciliary resorption;<ref name="Pugacheva_2007"/> it is possible that CASS4 may similarly interact with aurora-A kinase.
+
+=== Thrombosis ===
+CASS4 signaling may contribute to platelet activation and aggregation.  A [[Protein kinase A|PKA]]/[[cGMP-dependent protein kinase|PKG]] phosphorylation site has been identified in CASS4 on residue S305 in the unstructured domain containing [[SH2 domain|SH2]]-binding motifs; the functional significance of this phosphorylation is currently unknown.<ref name="Zahedi_2008"/> Significantly increased phosphorylation on S249 of CASS4, also in the unstructured domain, after platelet stimulation with the oxidized phospholipid KODA-PC (9-keto-12-oxo-10-dodecenoic acid ester of 2-lyso-phosphocholine, a [[CD36]] receptor agonist) versus thrombin treatment, which may implicate CASS4 mediated signaling in platelet hyperreactivity.<ref name="Zimman_2014"/>
+
+== Clinical significance ==
+There are currently no therapeutic approaches targeting CASS4, and in the absence of a catalytic domain and no extracellular moieties, it may be challenging to generate such an agent. However, CASS4 may ultimately be relevant in clinical practice as a possible marker to assess prognosis and outcome in cases of [[NSCLC]] (and possibly other types of cancer). At present, its greatest clinical value is likely to be as a predictive variant for severity and onset of [[Alzheimer's disease]] and [[cystic fibrosis]].
+
+==Notes==
+{{Academic-written review
+| wikidate = 2015
+| journal = [[Gene (journal)|Gene]]
+| title   = {{#property:P1476|from=Q28646036}}
+| author = {{#property:P2093|from=Q28646036}}
+| date    = {{#property:P577|from=Q28646036}}
+| volume  = {{#property:P478|from=Q28646036}}
+| issue   = {{#property:P433|from=Q28646036}}
+| pages   = {{#property:P304|from=Q28646036}}
+| doi     = {{#property:P356|from=Q28646036}}
+| pmid    = {{#property:P698|from=Q28646036}}
+| pmc    = {{#property:P932|from=Q28646036}}
+}}
+
+== References ==
+{{Reflist|33em|refs =
+
+<ref name = "Beck_2014">{{cite journal | vauthors = Beck TN, Nicolas E, Kopp MC, Golemis EA | title = Adaptors for disorders of the brain? The cancer signaling proteins NEDD9, CASS4, and PTK2B in Alzheimer's disease | journal = Oncoscience | volume = 1 | issue = 7 | pmid = 25594051 | year=2014 | pages=486–503 | doi=10.18632/oncoscience.64 | pmc=4278314}}</ref>
+
+<ref name = "Beecham_2014">{{cite journal | vauthors = Beecham GW, Hamilton K, Naj AC, Martin ER, Huentelman M, Myers AJ, Corneveaux JJ, Hardy J, Vonsattel JP, Younkin SG, Bennett DA, De Jager PL, Larson EB, Crane PK, Kamboh MI, Kofler JK, Mash DC, Duque L, Gilbert JR, Gwirtsman H, Buxbaum JD, Kramer P, Dickson DW, Farrer LA, Frosch MP, Ghetti B, Haines JL, Hyman BT, Kukull WA, Mayeux RP, Pericak-Vance MA, Schneider JA, Trojanowski JQ, Reiman EM, Schellenberg GD, Montine TJ | title = Genome-wide association meta-analysis of neuropathologic features of Alzheimer's disease and related dementias | journal = PLOS Genetics | volume = 10 | issue = 9 | date = September 2014 | pmid = 25188341 | doi = 10.1371/journal.pgen.1004606 | article-number=e1004606 | pmc=4154667 | doi-access = free }}</ref>
+
+<ref name = "Brehme_2009">{{cite journal | vauthors = Brehme M, Hantschel O, Colinge J, Kaupe I, Planyavsky M, Köcher T, Mechtler K, Bennett KL, Superti-Furga G | title = Charting the molecular network of the drug target Bcr-Abl | journal = Proceedings of the National Academy of Sciences of the United States of America | volume = 106 | issue = 18 | date = May 2009 | pmid = 19380743 | doi = 10.1073/pnas.0900653106 | pages=7414–9 | pmc=2670881| bibcode = 2009PNAS..106.7414B | doi-access = free }}</ref>
+
+<ref name = "Esnault_2013">{{cite journal | vauthors = Esnault S, Kelly EA, Schwantes EA, Liu LY, DeLain LP, Hauer JA, Bochkov YA, Denlinger LC, Malter JS, Mathur SK, Jarjour NN | title = Identification of genes expressed by human airway eosinophils after an in vivo allergen challenge | journal = PLOS ONE | volume = 8 | issue = 7 | year = 2013 | pmid = 23844029 | doi = 10.1371/journal.pone.0067560 | article-number=e67560 | pmc=3699655| bibcode = 2013PLoSO...867560E | doi-access = free }}</ref>
+
+<ref name = "Hsia_2003">{{cite journal | vauthors = Hsia DA, Mitra SK, Hauck CR, Streblow DN, Nelson JA, Ilic D, Huang S, Li E, Nemerow GR, Leng J, Spencer KS, Cheresh DA, Schlaepfer DD | title = Differential regulation of cell motility and invasion by FAK | journal = The Journal of Cell Biology | volume = 160 | issue = 5 | date = March 2003 | pmid = 12615911 | doi = 10.1083/jcb.200212114 | pmc=2173366 | pages=753–67}}</ref>
+
+<ref name = "Karch_2015">{{cite journal | vauthors = Karch CM, Goate AM | title = Alzheimer's disease risk genes and mechanisms of disease pathogenesis | journal = Biological Psychiatry | volume = 77 | issue = 1 | date = Jan 2015 | pmid = 24951455 | doi = 10.1016/j.biopsych.2014.05.006 | pages=43–51 | pmc=4234692}}</ref>
+
+<ref name = "Lambert_2013">{{cite journal | vauthors = Lambert JC, Ibrahim-Verbaas CA, Harold D, Naj AC, Sims R, Bellenguez C, DeStafano AL, Bis JC, Beecham GW, Grenier-Boley B, Russo G, Thorton-Wells TA, Jones N, Smith AV, Chouraki V, Thomas C, Ikram MA, Zelenika D, Vardarajan BN, Kamatani Y, Lin CF, Gerrish A, Schmidt H, Kunkle B, Dunstan ML, Ruiz A, Bihoreau MT, Choi SH, Reitz C, Pasquier F, Cruchaga C, Craig D, Amin N, Berr C, Lopez OL, De Jager PL, Deramecourt V, Johnston JA, Evans D, Lovestone S, Letenneur L, Morón FJ, Rubinsztein DC, Eiriksdottir G, Sleegers K, Goate AM, Fiévet N, Huentelman MW, Gill M, Brown K, Kamboh MI, Keller L, Barberger-Gateau P, McGuiness B, Larson EB, Green R, Myers AJ, Dufouil C, Todd S, Wallon D, Love S, Rogaeva E, Gallacher J, St George-Hyslop P, Clarimon J, Lleo A, Bayer A, Tsuang DW, Yu L, Tsolaki M, Bossù P, Spalletta G, Proitsi P, Collinge J, Sorbi S, Sanchez-Garcia F, Fox NC, Hardy J, Deniz Naranjo MC, Bosco P, Clarke R, Brayne C, Galimberti D, Mancuso M, Matthews F, Moebus S, Mecocci P, Del Zompo M, Maier W, Hampel H, Pilotto A, Bullido M, Panza F, Caffarra P, Nacmias B, Gilbert JR, Mayhaus M, Lannefelt L, Hakonarson H, Pichler S, Carrasquillo MM, Ingelsson M, Beekly D, Alvarez V, Zou F, Valladares O, Younkin SG, Coto E, Hamilton-Nelson KL, Gu W, Razquin C, Pastor P, Mateo I, Owen MJ, Faber KM, Jonsson PV, Combarros O, O'Donovan MC, Cantwell LB, Soininen H, Blacker D, Mead S, Mosley TH, Bennett DA, Harris TB, Fratiglioni L, Holmes C, de Bruijn RF, Passmore P, Montine TJ, Bettens K, Rotter JI, Brice A, Morgan K, Foroud TM, Kukull WA, Hannequin D, Powell JF, Nalls MA, Ritchie K, Lunetta KL, Kauwe JS, Boerwinkle E, Riemenschneider M, Boada M, Hiltuenen M, Martin ER, Schmidt R, Rujescu D, Wang LS, Dartigues JF, Mayeux R, Tzourio C, Hofman A, Nöthen MM, Graff C, Psaty BM, Jones L, Haines JL, Holmans PA, Lathrop M, Pericak-Vance MA, Launer LJ, Farrer LA, van Duijn CM, Van Broeckhoven C, Moskvina V, Seshadri S, Williams J, Schellenberg GD, Amouyel P | title = Meta-analysis of 74,046 individuals identifies 11 new susceptibility loci for Alzheimer's disease | journal = Nature Genetics | volume = 45 | issue = 12 | date = December 2013 | pmid = 24162737 | doi = 10.1038/ng.2802 | pmc=3896259 | pages=1452–8| url = https://eprints.soton.ac.uk/369403/1/ng.2802.pdf }}</ref>
+
+<ref name = "Miao_2013">{{cite journal | vauthors = Miao Y, Wang L, Liu Y, Li AL, Liu SL, Cao HY, Zhang XP, Jiang GY, Liu D, Wang EH | title = Overexpression and cytoplasmic accumulation of Hepl is associated with clinicopathological parameters and poor prognosis in non-small cell lung cancer | journal = Tumour Biology | volume = 34 | issue = 1 | date = February 2013 | pmid = 23001926 | doi = 10.1007/s13277-012-0517-x | pages=107–14| s2cid = 12445919 }}</ref>
+
+<ref name = "Nikonova_2014">{{cite journal | vauthors = Nikonova AS, Gaponova AV, Kudinov AE, Golemis EA | title = CAS proteins in health and disease: an update | journal = IUBMB Life | volume = 66 | issue = 6 | date = June 2014 | pmid = 24962474 | doi = 10.1002/iub.1282 | pages=387–95 | pmc=4111207}}</ref>
+
+<ref name = "Pugacheva_2005">{{cite journal | vauthors = Pugacheva EN, Golemis EA | title = The focal adhesion scaffolding protein HEF1 regulates activation of the Aurora-A and Nek2 kinases at the centrosome | journal = Nature Cell Biology | volume = 7 | issue = 10 | date = October 2005 | pmid = 16184168 | doi = 10.1038/ncb1309 | pages=937–46 | pmc=2652766}}</ref>
+
+<ref name = "Pugacheva_2007">{{cite journal | vauthors = Pugacheva EN, Jablonski SA, Hartman TR, Henske EP, Golemis EA | title = HEF1-dependent Aurora A activation induces disassembly of the primary cilium | journal = Cell | volume = 129 | issue = 7 | date = June 2007 | pmid = 17604723 | doi = 10.1016/j.cell.2007.04.035 | pmc=2504417 | pages=1351–63}}</ref>
+
+<ref name = "Rosenthal_2014">{{cite journal | vauthors = Rosenthal SL, Barmada MM, Wang X, Demirci FY, Kamboh MI | title = Connecting the dots: potential of data integration to identify regulatory SNPs in late-onset Alzheimer's disease GWAS findings | journal = PLOS ONE | volume = 9 | issue = 4 | pmid = 24743338 | doi = 10.1371/journal.pone.0095152 | year=2014 | article-number=e95152 | pmc=3990600| bibcode = 2014PLoSO...995152R | doi-access = free }}</ref>
+
+<ref name = "Ruiz_2014">{{cite journal | vauthors = Ruiz A, Heilmann S, Becker T, Hernández I, Wagner H, Thelen M, Mauleón A, Rosende-Roca M, Bellenguez C, Bis JC, Harold D, Gerrish A, Sims R, Sotolongo-Grau O, Espinosa A, Alegret M, Arrieta JL, Lacour A, Leber M, Becker J, Lafuente A, Ruiz S, Vargas L, Rodríguez O, Ortega G, Dominguez MA, Mayeux R, Haines JL, Pericak-Vance MA, Farrer LA, Schellenberg GD, Chouraki V, Launer LJ, van Duijn C, Seshadri S, Antúnez C, Breteler MM, Serrano-Ríos M, Jessen F, Tárraga L, Nöthen MM, Maier W, Boada M, Ramírez A | title = Follow-up of loci from the International Genomics of Alzheimer's Disease Project identifies TRIP4 as a novel susceptibility gene | journal = Translational Psychiatry | volume = 4 | issue = 2 | pmid = 24495969 | doi = 10.1038/tp.2014.2 | year=2014 | pages=e358 | pmc=3944635}}</ref>
+
+<ref name = "Singh_2008">{{cite journal | vauthors = Singh MK, Dadke D, Nicolas E, Serebriiskii IG, Apostolou S, Canutescu A, Egleston BL, Golemis EA | title = A novel Cas family member, HEPL, regulates FAK and cell spreading | journal = Molecular Biology of the Cell | volume = 19 | issue = 4 | date = April 2008 | pmid = 18256281 | doi = 10.1091/mbc.E07-09-0953 | pages=1627–36 | pmc=2291417}}</ref>
+
+<ref name = "Tachibana_1997">{{cite journal | vauthors = Tachibana K, Urano T, Fujita H, Ohashi Y, Kamiguchi K, Iwata S, Hirai H, Morimoto C | title = Tyrosine phosphorylation of Crk-associated substrates by focal adhesion kinase. A putative mechanism for the integrin-mediated tyrosine phosphorylation of Crk-associated substrates | journal = The Journal of Biological Chemistry | volume = 272 | issue = 46 | date = November 1997 | pmid = 9360983 | pages=29083–90 | doi=10.1074/jbc.272.46.29083| doi-access = free }}</ref>
+
+<ref name = "Tikhmyanova_2010">{{cite journal | vauthors = Tikhmyanova N, Little JL, Golemis EA | title = CAS proteins in normal and pathological cell growth control | journal = Cellular and Molecular Life Sciences | volume = 67 | issue = 7 | date = April 2010 | pmid = 19937461 | doi = 10.1007/s00018-009-0213-1 | pages=1025–48 | pmc=2836406}}</ref>
+
+<ref name = "Tikhmyanova_2010_b">{{cite journal | vauthors = Tikhmyanova N, Tulin AV, Roegiers F, Golemis EA | title = Dcas supports cell polarization and cell-cell adhesion complexes in development | journal = PLOS ONE | volume = 5 | issue = 8 | year = 2010 | pmid = 20808771 | doi = 10.1371/journal.pone.0012369 | article-number=e12369 | pmc=2927436| bibcode = 2010PLoSO...512369T | doi-access = free }}</ref>
+
+<ref name = "Tornillo_2014">{{cite journal | vauthors = Tornillo G, Defilippi P, Cabodi S | title = Cas proteins: dodgy scaffolding in breast cancer | journal = Breast Cancer Research | volume = 16 | issue = 5 | pmid = 25606587 | doi=10.1186/s13058-014-0443-5 | year=2014 | page=443 | pmc=4384296 | doi-access = free }}</ref>
+
+<ref name = "Wang_2015">{{cite journal | vauthors = Wang X, Lopez OL, Sweet RA, Becker JT, DeKosky ST, Barmada MM, Demirci FY, Kamboh MI | title = Genetic determinants of disease progression in Alzheimer's disease | journal = Journal of Alzheimer's Disease | volume = 43 | issue = 2 | pmid = 25114068 | doi = 10.3233/JAD-140729 | year=2015 | pages=649–55 | pmc=4245313}}</ref>
+
+<ref name = "Wright_2011">{{cite journal | vauthors = Wright FA, Strug LJ, Doshi VK, Commander CW, Blackman SM, Sun L, Berthiaume Y, Cutler D, Cojocaru A, Collaco JM, Corey M, Dorfman R, Goddard K, Green D, Kent JW, Lange EM, Lee S, Li W, Luo J, Mayhew GM, Naughton KM, Pace RG, Paré P, Rommens JM, Sandford A, Stonebraker JR, Sun W, Taylor C, Vanscoy LL, Zou F, Blangero J, Zielenski J, O'Neal WK, Drumm ML, Durie PR, Knowles MR, Cutting GR | title = Genome-wide association and linkage identify modifier loci of lung disease severity in cystic fibrosis at 11p13 and 20q13.2 | journal = Nature Genetics | volume = 43 | issue = 6 | date = June 2011 | pmid = 21602797 | doi = 10.1038/ng.838 | pages=539–46 | pmc=3296486}}</ref>
+
+<ref name = "Zahedi_2008">{{cite journal | vauthors = Zahedi RP, Lewandrowski U, Wiesner J, Wortelkamp S, Moebius J, Schütz C, Walter U, Gambaryan S, Sickmann A | title = Phosphoproteome of resting human platelets | journal = Journal of Proteome Research | volume = 7 | issue = 2 | date = February 2008 | pmid = 18088087 | doi = 10.1021/pr0704130 | pages=526–34}}</ref>
+
+<ref name = "Zimman_2014">{{cite journal | vauthors = Zimman A, Titz B, Komisopoulou E, Biswas S, Graeber TG, Podrez EA | title = Phosphoproteomic analysis of platelets activated by pro-thrombotic oxidized phospholipids and thrombin | journal = PLOS ONE | volume = 9 | issue = 1 | pmid = 24400094 | doi = 10.1371/journal.pone.0084488 | year=2014 | article-number=e84488 | pmc=3882224| bibcode = 2014PLoSO...984488Z | doi-access = free }}</ref>
+
+<ref name="entrez">{{cite web | title = Entrez Gene: Cas scaffolding protein family member 4 | url = https://www.ncbi.nlm.nih.gov/gene/57091 }}</ref>
+
+<ref name="Tikhmyanova_ 2011">{{cite journal | vauthors = Tikhmyanova N, Golemis EA | title = NEDD9 and BCAR1 negatively regulate E-cadherin membrane localization, and promote E-cadherin degradation | journal = PLOS ONE | volume = 6 | issue = 7 | year = 2011| pmid = 21765937 | doi = 10.1371/journal.pone.0022102 | article-number=e22102 | pmc=3134485| bibcode = 2011PLoSO...622102T | doi-access = free }}</ref>
+
+<ref name="UniProt_Q9NQ75">[[UniProt]]: {{UniProt|Q9NQ75}}</ref>
+
+<ref name="urlIGAP Summary Statistics">{{cite web | url = http://www.pasteur-lille.fr/en/recherche/u744/igap/igap_download.php | title = IGAP Summary Statistics | publisher = Institut Pasteur de Lille | website =  | access-date = 17 April 2015 | archive-date = 12 April 2015 | archive-url = https://web.archive.org/web/20150412233323/http://www.pasteur-lille.fr/en/recherche/u744/igap/igap_download.php }}</ref>
+
+<ref name="urlSearch ChIP-qPCR Assay">{{cite web | url = http://www.sabiosciences.com/chipqpcrsearch.php | title = Search ChIP-qPCR Assay | work = sabiosciences | access-date = 17 April 2015 | archive-url = https://web.archive.org/web/20150418004917/http://www.sabiosciences.com/chipqpcrsearch.php | archive-date = 18 April 2015 }}</ref>
+
+}}
+
+==External links==
+* {{UCSC gene info|CASS4}}
+{{Use dmy dates|date=April 2017}}
+
+[[Category:Proteins]]

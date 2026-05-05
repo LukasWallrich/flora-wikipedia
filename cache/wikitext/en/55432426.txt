@@ -1,0 +1,42 @@
+{{Short description|Cyclic peptide}}
+{{cs1 config |name-list-style=vanc |display-authors=6}}
+{{lowercase title}}
+{{Drugbox
+| image              = IRGD.svg
+| image_class        = skin-invert-image
+| width              = 230
+
+<!--Identifiers-->| alt                = This iRGD structure contains an error. Cysteines are present on both sides of the disulfide bond.
+| CAS_number_Ref     = {{cascite|correct|CAS}}
+| CAS_number         = 1392278-76-0
+| PubChem            = 134611625
+| UNII_Ref           = {{fdacite|correct|FDA}}
+| UNII               = Z8MXU5GH4Q
+
+<!--Clinical data-->
+<!-- | Status = In development -->| routes_of_administration = Intravenous
+
+<!--Pharmacokinetic data-->| bioavailability    = 100%
+| metabolism         = n/a
+| elimination_half-life = 1-3 hours
+| duration_of_action = up to 24 hours
+| excretion          = Renal (100%)
+
+<!--Chemical data-->| molecular_weight_comment = (948.04 g/mol after conversion)
+}}
+'''Internalizing RGD (iRGD) peptides''' are a class of 9-amino acid cyclic [[peptides]] containing an RGD sequence, which undergo internalization as discussed below. The '''prototypic iRGD peptide''', shown in the image on the right (sequence: CRGDKGPDC; CAS 1392278-76-0), was originally identified in an in vivo screening of [[phage display]] libraries in tumor-bearing mice.<ref>{{cite journal | vauthors = Sugahara KN, Teesalu T, Karmali PP, Kotamraju VR, Agemy L, Greenwald DR, Ruoslahti E | title = Coadministration of a tumor-penetrating peptide enhances the efficacy of cancer drugs | journal = Science | volume = 328 | issue = 5981 | pages = 1031–1035 | date = May 2010 | pmid = 20378772 | pmc = 2881692 | doi = 10.1126/science.1183057 | bibcode = 2010Sci...328.1031S }}</ref> The peptide was able to home to tumor tissues, but in contrast to standard RGD ([[arginylglycylaspartic acid]]) peptides, spread much more extensively into extravascular tumor tissue. It was later identified that this extravasation and transport through extravascular tumor tissue is due to the bifunctional action of the molecule: after the initial RGD-mediated tumor homing, another pharmacologic motif is able to manipulate tumor microenvironment, making it temporarily accessible to circulating drugs.<ref name="Ding et al. 2019, Nat. Comm.">{{cite journal | vauthors = Ding N, Zou Z, Sha H, Su S, Qian H, Meng F, Chen F, Du S, Zhou S, Chen H, Zhang L, Yang J, Wei J, Liu B | title = iRGD synergizes with PD-1 knockout immunotherapy by enhancing lymphocyte infiltration in gastric cancer | journal = Nature Communications | volume = 10 | issue = 1 | pages = 1336 | date = March 2019 | pmid = 30902997 | doi = 10.1038/s41467-019-09296-6 | pmc = 6430780 | bibcode = 2019NatCo..10.1336D }}</ref> This second step is mediated through specific secondary binding to [[neuropilin-1]] receptor, and subsequent activation of a trans-tissue pathway, dubbed the C-end Rule, or [[CendR]] pathway.<ref name="Ruoslahti, 2017, Advanced Drug Delivery Reviews">{{cite journal | vauthors = Ruoslahti E | title = Tumor penetrating peptides for improved drug delivery | journal = Advanced Drug Delivery Reviews | volume = 110-111 | pages = 3–12 | date = February 2017 | pmid = 27040947 | doi = 10.1016/j.addr.2016.03.008 | pmc = 5045823 }}</ref>
+__TOC__
+==Mechanism of action==
+The iRGD peptide homes to and penetrates tumors through a 3-step process. First, the RGD sequence motif mediates binding to [[αVβ3]] and [[αVβ5]] integrins that are expressed on tumor endothelial cells. Second, upon αV binding, a protease cleavage event is activated, revealing the C-terminal CendR motif (R/KXXR/K) of the peptide. Third, the CendR motif is now able to bind to neuropilin-1, activating an endocytotic/exocytotic transport pathway.<ref>{{cite journal | vauthors = Teesalu T, Sugahara KN, Kotamraju VR, Ruoslahti E | title = C-end rule peptides mediate neuropilin-1-dependent cell, vascular, and tissue penetration | journal = Proceedings of the National Academy of Sciences of the United States of America | volume = 106 | issue = 38 | pages = 16157–16162 | date = September 2009 | pmid = 19805273 | pmc = 2752543 | doi = 10.1073/pnas.0908201106 | doi-access = free | bibcode = 2009PNAS..10616157T }}</ref> The pathway triggered by iRGD can be used for the enhanced transport of coupled and coadministered anti-cancer drugs into tumors.<ref name="Ruoslahti, 2017, Advanced Drug Delivery Reviews" />
+
+==Uses==
+iRGD peptides have been shown to increase accumulation and penetration of anticancer drugs into tumors, but not into normal tissues – whether the drug is coupled to the peptide or given together with it.<ref>{{cite journal|title=Coupled, but not conjugated, in cancer| vauthors = Haas MJ |date=29 April 2010|journal=SciBX: Science-Business EXchange|volume=3|issue=17|pages=514|doi=10.1038/scibx.2010.514|doi-access=free}}</ref> iRGD-mediated increased penetration and anti-cancer efficacy have been demonstrated with a variety of anti-cancer small molecules, nanoparticles and antibodies.<ref>{{cite journal | vauthors = Ruoslahti E | title = Access granted: iRGD helps silicasome-encased drugs breach the tumor barrier | journal = The Journal of Clinical Investigation | volume = 127 | issue = 5 | pages = 1622–1624 | date = May 2017 | pmid = 28414298 | pmc = 5409784 | doi = 10.1172/JCI93955 }}</ref> [[Lisata Therapeutics|Lisata Therapeutics Inc.]] is currently testing iRGD-based therapy called certepetide (aka LSTA1; CEND-1) in clinical studies in solid-tumor patients.<ref>{{ClinicalTrialsGov|NCT03517176|CEND-1 in Combination With Nabpaclitaxel and Gemcitabine in Metastatic Pancreatic Cancer}}</ref> The U.S. [[Food and Drug Administration]] (FDA) awarded certepetide [[orphan drug]] status in 2019, and [[Fast track (FDA)|fast-track designation]] in 2020.<ref>{{cite press release|url=https://www.globenewswire.com/en/news-release/2021/06/29/2254689/0/en/Cend-Therapeutics-CEND-1-Granted-Fast-Track-Designation-for-Pancreatic-Cancer.html |title=Cend Therapeutics' CEND-1 Granted Fast Track Designation for Pancreatic Cancer |access-date=2021-10-01}}</ref>
+
+== References ==
+{{Reflist}}
+
+[[Category:Peptide therapeutics]]
+[[Category:Cyclic peptides]]
+[[Category:Antineoplastic drugs]]
+[[Category:Experimental cancer drugs]]
+[[Category:Orphan drugs]]

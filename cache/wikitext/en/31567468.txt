@@ -1,0 +1,90 @@
+{{Short description|Theory of attention in psychology}}
+{{about|the capacity theory of attention in psychology|capacity theory in mathematics|capacity of a set}}
+'''Capacity theory''' is the theoretical approach that pulled researchers from Filter theories with Kahneman's published 1973 study, ''Attention and Effort'' positing attention was limited in overall capacity, that a person's ability to perform simultaneous tasks depends on how much "capacity" the jobs require.  Further researchers - Johnson and Heinz (1978) and Navon & Gopher (1979) - went further with Kahneman's study.<ref>Kellogg, Ronald T. (2016). pp. 79-83.'</ref>
+
+Shalom Fisch used Kahneman's capacity theory, just as others did for their research, to publish a paper on children's understanding of educational content on television.<ref name=Fisch6391>{{harvnb|Fisch|2000|pp=63&ndash;91}}</ref> It is a communication theory based on a model which is used to explain and predict how children learn from [[Educational television|educational television programming]]. It is formed by combining [[cognitive psychology]] and [[LC4MP|limited capacity]] of [[working memory]]. Working memory is explained as having limited resources available for processing external information and when demands exceed capabilities, then the material will not be attended to.
+The model attempts to explain how cognitive resources are allocated when individuals, particularly children, comprehend both the educational and the narrative content of an educational program.
+Capacity theory suggests that when educational content is tangential to the narrative content the two information sources compete with one another for limited resources in working memory. However, when the distance between educational content and narrative content is small, the process complement one another rather than compete for resources, therefore an individual is likely to comprehend more.
+
+== Three basic components of the capacity model ==
+The capacity model consists of three basic components.
+# ''Processing of narrative content''
+# ''Processing of education content''
+# ''Distance between narrative and educational content''
+
+=== Processing of narrative content ===
+Capacity model implies that television viewers will construct their understanding of the [[narrative content]] by accessing prior knowledge and draw inferences on the new material based on previous exposure. Theory and empirical research has supported the notion that people are using working memory to process information needed to follow the story line or plot.<ref name=AndBry331354>{{harvnb|Anderson|Bryant|1983|pp=331&ndash;354}}</ref><ref name=Collins125150>{{harvnb|Collins|1983|pp=125&ndash;150}}</ref><ref name=HustonWright9991058>{{harvnb|Huston|Wright|1997|pp=999&ndash;1058}}</ref><ref name=HustonWright10191020>{{harvnb|Huston|Wright|1997|pp=1019&ndash;1020}}</ref><ref name=PalmerMacNeil2744>{{harvnb|Palmer|MacNeil|1991|pp=27&ndash;44}}</ref><ref name=PearlBouLaz2227>{{harvnb|Pearl|Bouthilet|Lazar|1982|pp=22&ndash;27}}</ref> Due to the audio/visual nature of television, individual program factors will influence how much demand is used. For example, a fast paced action sequence will require more working memory to follow the action than perhaps a slow dialogue between two characters.
+This is best understood by breaking it down to two types of characteristics, viewer characteristics and program characteristics.
+
+==== Viewer characteristics ====
+* Viewer's prior knowledge – if an individual is familiar with the narrative content, such as knowing the characters or storyline, then cognitive demand will be low and more working memory will be made available.
+* Story schema – ability to understand the basic components of a story and the hierarchy of events will help influence the amount of cognitive demand required.<ref name=MeadowReev352374>{{harvnb|Meadowcroft|Reeves|1989|pp=352&ndash;374}}</ref>
+* Cognitive abilities – individuals with higher intelligence and higher cognitive abilities will make more efficient use of cognitive resources when encoding the narrative.<ref name=EckhardtWoodJacob636649>{{harvnb|Eckhardt|Wood|Jacobvitz|1991|pp=636&ndash;649}}</ref><ref name=JacWoodAlbin219235>{{harvnb|Jacobvitz|Wood|Albin|1991|pp=219&ndash;235}}</ref>
+* Interest in the story - the viewer's interest in the story will affect how much attention is paid to the narrative and therefore will influence how resources are allocated.
+
+==== Program characteristics ====
+Developmental research in text comprehension has found that young children can use schemata to process stories only when they are structured simply and clearly state causal linkages<ref name=MandlerJohnson111151>{{harvnb|Mandler|Johnson|1977|pp=111&ndash;151}} cf. Meadowcroft & Reeves, 1989</ref>
+* Complexity of the narrative - the number of events in the story and the connections among them will influence how much working memory is required. Studies have shown that children process stories only when they are simple in their construction and clearly show casual linkage. Long narratives with many complex chains will increase demands required for processing.<ref name=MandlerJohnson111151/>
+* Structure of the Story - stories that are constructed in easily recognizable patterns, such as a beginning, middle, and end are easier to follow, thus reducing demand.
+* Explicit vs inferred information - whether or not the information is clearly presented or if it is less clear, thus requiring making inference about the narrative, will affect the amount of cognitive processing required.
+
+=== Processing educational content ===
+The processing of educational content has not received as much attention as processing of narrative content. Many of the guiding principles in this section were developed out of speculation and then verified through current studies. As with the narrative content, there are viewer and program characteristics that effect comprehension.
+
+==== Viewer characteristics ====
+* Prior knowledge of content - similar to the processing of narrative content, previous exposure to educational information can reduce the amount of working memory required to process the information in children. This has been shown to be true in adults.
+* Interest in content - viewers will be able to dedicate a greater pool of resources to information in they are interested in the content. This was suggested by testing children's comprehension of mathematical word problems. The study showed that comprehension was enhanced if the child was interested in the narrative context which the problem occurred in.<ref name=Renninger228238>{{harvnb|Renninger|1998|pp=222&ndash;238}}</ref>
+
+==== Program characteristics ====
+* Clarity of presentation - the degree to which the information is clearly presented will decrease required resources for processing information.
+* Explicitness of content - whether or not the content is clearly identifiable as educational material or if it hidden beneath the narrative will affect amount of cognition.
+
+=== Distance ===
+Distance is the final component of this model. The idea of distance separates this model from other cognitive processing models such as Limited Capacity. Distance referrers to the degree to which the educational content is integrated into the narrative. This concept has been dubbed "content on the plotline" by the Children's Television Workshop.<ref name=FischEtAl>{{harvnb|Fisch|Goodman|McCann|Rylander|Ross|1995|p=}}</ref><ref name=HallWilliams>{{harvnb|Hall|Williams|1993|p=}}</ref> This is best described as the role the content has in the story of events. Distance is not binary, but is best described in length as small or large.
+* Small distance suggests that the narrative and educational content are related to one another and that the educational content is causally embedded into the plot.
+* Large distance suggests that educational content is not involved in the story line and does not assist in moving the story forward. It may only be featured at low levels in the story hierarchy.
+
+Understanding the effect distance has on processing will explain how certain content competes for attention. Large distances will require more resources due to the increase in competition, however resources are limited. The process used to encode, store, and retrieve narrative content is the same as educational content. When the narrative and educational content are intertwined, then it is said to be a small distance, thus reducing the amount of competition for limited resources. The [[parallel process]] responsible for comprehending narrative and educational content complement one another, thus increasing information retention.
+- This model predicts that educational content will be better attended to when the distance from the narrative is small and has been shown in previous studies.<ref name=FischEtAl/>
+
+== Factors which influence processing of narrative and educational content ==
+There are several factors that will influence the processing of narrative and educational content.
+* Cognitive maturity of the child - studies have shown that cognitive capabilities develop in children at different ages.
+* Prior exposure to the material - if the child has been exposed to the educational material before, cognitive demand will be lessened.
+* Complexity of formal features - as mentioned previously, television has the opportunity to provide several audio and video features. Studies have shown that features such as fast program pacing may decrease processing capabilities.
+
+== Governing principles ==
+This theory is governed by several broad principles detailing the allocation of resources among the two content types.
+
+===Narrative dominance===
+This principle suggests that priority is given to comprehension of the narrative content over the educational content assuming all things are equal. This primarily occurs when the distance between the educational content and narrative content is large. Working memory will be devoted to narrative before educational content. This is largely due to the fact that people typically select television content for its entertainment value before its educational value. Secondly, narrative content is featured as the primary or “surface” contents, whereas educational content is secondary or “deep” content.
+
+=== Relative availability of resources ===
+Each individual will have various levels of resource ability. As with any type of content the individual is exposed to, there will always be a competition for resources. Several factors can increase or decrease the demands required for processing, such as pacing, graphics, audio, and other production features. When high demands are required for processing the narrative content of educational programming, then less resources will be available for educational content. This demand to process both sources can be reduced if the educational content and narrative content are closely related.
+
+=== Voluntary allocation ===
+Individuals will select media to achieve certain goals or objectives. As a result, an individual may choose to watch an educational program and consciously attempt to allocate more resources to the educational content rather than the narrative content. Studies have consistently shown that a viewer’s reason for watching can affect at which level the narrative is recalled and understood.<ref name=KwaitekWatkins>{{harvnb|Kwaitek|Watkins|1981}}</ref><ref name=SalomanLeigh>{{harvnb|Salomon|Leigh|1984}}</ref> Further research using this model has revealed that the same has been shown to occur with educational content. It should be understood that this model does not assume that the attention paid to the educational content will cause the viewer to abandon resources to the narrative.
+
+== Notes ==
+<!--- See http://en.wikipedia.org/wiki/Wikipedia:Footnotes on how to create references using<ref></ref> tags which will then appear here automatically -->
+{{reflist}}
+==References==
+*{{cite book |last1=Anderson |first1=D. R. |last2=Bryant |first2=J. |year=1983 |chapter=Research on children's television viewing: The state of the art |editor-first1=J. |editor-last1=Bryant |editor-first2=D. R. |editor-last2=Anderson  |title=Children's understanding of television: Research on attention and comprehension |location=New York |publisher=Academic}}
+*{{Cite book |last=Collins |first=W. A. |year=1983 |chapter=Interpretation and inference in children's television viewing|editor-first1=J. |editor-last1=Bryant |editor-first2=D. R. |editor-last2=Anderson  |title=Children's understanding of television: Research on attention and comprehension |location=New York |publisher=Academic}}
+*{{cite journal |last1=Eckhardt |first1=B. B. |last2=Wood |first2=M. R. |last3=Jacobvitz |first3=R. S. |year=1991 |title=Verbal ability and prior knowledge: Contributions to adults' comprehension of television |journal=Communication Research |volume=18|doi=10.1177/009365091018005004 |s2cid=146794530 }}
+*{{cite journal |last1=Fisch |first1=S. M. |year=2000 |title=A capacity model of children's comprehension of educational content on television |journal=Media Psychology |volume=2|pages=63–91 |doi=10.1207/S1532785XMEP0201_4 |s2cid=144638617 }}
+* {{cite sign |last1=Fisch |first1=S. M. |last2=Goodman |first2=I. F. |last3=McCann |first3=S. K. |last4=Rylander |first4=K. |last5=Ross |first5=S. |date=April 1995 |title=The impact of informal science education: Cro and children's understanding of technology |type=Conference poster}} Poster presented at the 61st annual meeting of the Society for Research in Child Development, Indianapolis, IN.
+* {{cite book |last1=Hall |first1=E. R. |last2=Williams |first2=M. E. |date=May 1993 |chapter=Ghostwriter research meets literacy on the plot-line |editor-first1=B. J. |editor-last1=Wilson (Chair) |title=Formative research and the CTW model: An interdisciplinary approach to television production}} Symposium presented at the annual meeting of the International Communication Association, Washington, DC. <!-- How is this a published source??? -->
+*{{cite book |last1=Huston |first1=A. C. |last2=Wright |first2=J. C. |year=1997 |chapter=Mass media and children's development |editor-first1=W. |editor-last1=Damon |editor-first2=I. |editor-last2=Sigel |editor-first3=A. |editor-last3=Rennings  |title=Handbook of child psychology |volume=4 |location=New York |publisher=Wiley}}
+*{{cite journal |last1=Jacobvitz |first1=R. S. |last2=Wood |first2=M. R. |last3=Albin |first3=K. |year=1991 |title=Cognitive skills and young children's comprehension of television |journal=Journal of Applied Developmental Psychology |volume=12|issue=2 |pages=219–235 |doi=10.1016/0193-3973(91)90013-T }}
+*{{cite journal |last1=Kellogg |first1=R. T. |last2=Turner |first2=C. E. |last3=Whiteford |first3=A. P. |last4=Mertens |first4=A. |year=2016 |title=The role of working memory in planning and generating written sentences |journal=Journal of Writing Research |volume=7 |issue=3 |pages=397–416|doi=10.17239/jowr-2016.07.03.04 |doi-access=free }}
+* {{cite report |last1=Kwaitek |first1=K. |last2=Watkins |first2=B. |year=1981 |title=The systematic viewer: An inquiry into the grammar of television}} First annual report to the Spenser Foundation. Children's Media Project, University of Michigan.
+*{{cite journal |last1=Mandler |first1=J. |last2=Johnson |first2=N. |year=1977 |title=Remembrance of things parsed: Story structure and recall |journal=Cognitive Psychology |volume=9|pages=111–151 |doi=10.1016/0010-0285(77)90006-8 |s2cid=54370949 }}
+*{{cite journal |last1=Meadowcroft |first1=J. M. |last2=Reeves |first2=B. |year=1989 |title=Influence of story schema development on children's attention to television |journal=Communication Research |volume=16 |issue=3 |pages=352–374|doi=10.1177/009365089016003003 |s2cid=146438748 }}
+* {{cite book |last1=Palmer |first1=E. L. |last2=MacNeil |first2=M. |year=1991 |chapter=Children's comprehension processes: From Piaget to public policy |editor-first1=J. |editor-last1=Bryant |editor-first2=D. |editor-last2=Zillmann  |title=Responding to the screen: Reception and reaction processes |location=Hillsdale, NJ |publisher=Lawrence Erlbaum Associates}}
+*{{cite report |editor-last1=Pearl |editor-first1=D. |editor-last2=Bouthilet |editor-first2=L. |editor-last3=Lazar |editor-first3=J.  |year=1982 |title=Television and behavior: Ten years of scientific progress and implications for the eighties: Vol. I. Summary report |location=Washington, DC |publisher=U.S. Government Printing Office}}
+*{{cite conference |last=Renninger |first=K. A. |year=1998 |chapter=Interest, task difficulty, and gender |editor-first1=L. |editor-last1=Hoffman |editor-first2=A. |editor-last2=Krapp |editor-first3=K. A. |editor-last3=Renninger |title=Interest and learning: Proceedings of the Seeon conference on interest and gender |location=Kiel, Germany |publisher=IPN}}
+*{{cite journal|last1=Salomon |first1=G. |last2=Leigh |first2=T. |year=1984 |title=Predispositions about learning from television and print |journal=Journal of Communication |volume=34|doi=10.1111/j.1460-2466.1984.tb02164.x }}
+
+<!--- Categories --->
+[[Category:Communication theory]]

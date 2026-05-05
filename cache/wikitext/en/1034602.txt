@@ -1,0 +1,98 @@
+{{Chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 443869216
+| ImageFile = Eicosane.png
+| ImageFile_Ref = {{chemboximage|correct|??}}
+| ImageSize = 300
+| ImageClass = skin-invert
+| ImageAlt = Structural formula of icosane
+| ImageFile1 = Icosane 3D ball.png
+| ImageFile1_Ref = {{chemboximage|correct|??}}
+| ImageSize1 = 300
+| ImageClass1 = bg-transparent
+| ImageAlt1 = Ball and stick model of the icosane molecule
+| PIN = Icosane<ref>{{cite book |author=[[International Union of Pure and Applied Chemistry]] |date=2014 |title=Nomenclature of Organic Chemistry: IUPAC Recommendations and Preferred Names 2013 |publisher=[[Royal Society of Chemistry|The Royal Society of Chemistry]] |pages=59 |doi=10.1039/9781849733069 |isbn=978-0-85404-182-4}}</ref>
+| OtherNames = ''n''-Eicosane, Eichosane
+|Section1={{Chembox Identifiers
+| CASNo = 112-95-8
+| CASNo_Ref = {{cascite|correct|CAS}}
+| PubChem = 8222
+| ChemSpiderID = 7929 
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| UNII = 3AYA9KEC48
+| UNII_Ref = {{fdacite|correct|FDA}}
+| EINECS = 204-018-1
+| MeSHName = eicosane
+| ChEBI = 43619
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1233983
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| Beilstein = 1700722
+| SMILES = CCCCCCCCCCCCCCCCCCCC
+| StdInChI = 1S/C20H42/c1-3-5-7-9-11-13-15-17-19-20-18-16-14-12-10-8-6-4-2/h3-20H2,1-2H3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = CBFCDTFDPHXCNY-UHFFFAOYSA-N
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+}}
+|Section2={{Chembox Properties
+| C=20 | H=42 
+| Appearance = Colorless, waxy crystals
+| Odor = Odorless
+| MeltingPtK = 309 to 311 
+| BoilingPtK = 616.2
+| LogP = 10.897
+| HenryConstant = 31 μmol Pa<sup>−1</sup> kg<sup>−1</sup>
+}}
+|Section3={{Chembox Thermochemistry
+| Entropy = 558.6 J K<sup>−1</sup> mol<sup>−1</sup>
+| HeatCapacity = 602.5 J K<sup>−1</sup> mol<sup>−1</sup> (at 6.0&nbsp;°C)
+}}
+|Section4={{Chembox Hazards
+| GHSPictograms = {{GHS08}}
+| GHSSignalWord = Danger
+| HPhrases = {{H-phrases|304}}
+| PPhrases = {{P-phrases|301+316|331|405|501}}
+| FlashPt = >
+| FlashPtC = 113
+| NFPA-F = 1
+| NFPA-H = 0
+| NFPA-R = 0
+}}
+|Section5={{Chembox Related
+| OtherFunction_label = alkanes
+| OtherFunction = {{Unbulleted list|[[Nonadecane]]|[[Heneicosane]]}}
+}}
+}}
+'''Eicosane''' (alternative spellings '''icosane''' and '''eichosane'''<ref>{{cite book |last1=Vargaftik |first1=N. B. |title=Handbook of physical properties of liquids and gases: pure substances and mixtures |date=1983 |publisher=Hemisphere Pub. Corp |location=Washington |isbn=9780891163565 |edition=2nd}}</ref>) is an [[alkane]] with the [[chemical formula]] C<sub>20</sub>H<sub>42</sub>. It has 366,319 [[constitutional isomer]]s.<ref>{{Cite web
+ | last       = NMPPDB
+ | title      = "NMPC‑1133 (Humulene epoxide) – Nigerian Medicinal Plants & Phytochemicals Database"
+ | url        = https://nmppdb.com.ng/compounds-detail?compound=1133
+ | publisher  = NMPPDB
+ | access-date= 2025-06-24}}</ref>
+
+''n''-Eicosane (the straight-chain structural [[isomer]] of eicosane) is the shortest compound found in [[paraffin wax]]es, used to form candles. It can be isolated from [[agave attenuata|agave attenuate]] leaves. It is also found in ''Vanilla madagascariensis'' and ''Gymnodinium nagasakiense''.<ref name="Pubchem">[https://pubchem.ncbi.nlm.nih.gov/compound/Eicosane Eicosane Pubchem]</ref>
+
+Eicosane's size, state and chemical inactivity do not exclude it from the traits of its smaller alkane counterparts. It is a colorless or white, non-polar [[molecule]], nearly unreactive except when it burns. It is less dense than and insoluble in water. Its non-polar trait means it can only perform weak [[intermolecular]] bonding ([[hydrophobic]]/[[van der Waals force]]s).
+
+Eicosane's [[phase transition]] at a moderate temperature makes it a candidate [[phase change material]], or PCM, which can be used to store thermal energy and control temperature.
+
+It can be detected in the body odor of persons suffering from [[Parkinson's disease]].<ref>{{cite journal |last1= Trivedi|first1= Drupad K.|last2= Sinclair|first2= Eleanor|last3= Xu|first3= Yun|last4= Sarkar|first4= Depanjan|last5= Walton-Doyle|first5= Caitlin|last6= Liscio|first6= Camilla|last7= Banks|first7= Phine|last8= Milne|first8= Joy|last9= Silverdale|first9= Monty|last10= Kunath|first10= Tilo|last11= Goodacre|first11= Royston|last12= Barran|first12= Perdita|title= Discovery of Volatile Biomarkers of Parkinson's Disease from Sebum|journal= ACS Central Science|year= 2019|volume= 5|issue= 4|pages= 599–606|doi=10.1021/acscentsci.8b00879 |doi-access=free|pmid= 31041379|pmc= 6487537}}</ref>
+
+==Naming==
+It is derived from ἐίκοσι (''eikosi''), Greek for 20 (cf. ''icosahedron'').
+
+IUPAC currently recommends '''icosane''',<ref name=IUPAC1>{{cite web|url=http://www.acdlabs.com/iupac/nomenclature/93/r93_328.htm|title=Table 11 Basic numerical terms (multiplying affixes)|publisher=[[IUPAC]]|access-date=2011-02-16}}</ref> whereas [[Chemical Abstracts Service]] and [[Beilstein database|Beilstein]] use '''eicosane'''.<ref name=IUPAC2>{{cite web|url=http://www.acdlabs.com/iupac/nomenclature/93/r93_332.htm|title=Footnote for Table 11|publisher=[[IUPAC]]|access-date=2011-02-16}}</ref>
+
+== See also ==
+
+* [[Perillaldehyde]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20150923173912/http://www.ars-grin.gov/cgi-bin/duke/chemical.pl?EICOSANE Icosane] at Dr. Duke's Phytochemical and Ethnobotanical Databases
+{{Alkanes}}
+
+[[Category:Alkanes]]

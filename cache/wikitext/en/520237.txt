@@ -1,0 +1,209 @@
+{{Short description|Psychological tendency}}
+{{more citations needed|date=March 2023}}
+
+{{psychology sidebar}}
+'''Trait ascription bias''' is the tendency for people to view ''themselves'' as relatively variable in terms of [[personality]], behavior and mood while viewing others as much more predictable in their personal traits across different situations.<ref name=kammer>{{cite journal |last=Kammer |first=D. |year=1982 |title=Differences in trait ascriptions to self and friend: Unconfounding intensity from variability |journal=Psychological Reports |volume=51 |issue=1 |pages=99–102 |doi=10.2466/pr0.1982.51.1.99 |s2cid=144154634 }}</ref> 
+
+==Overview==
+Trait ascription and the cognitive bias associated with it have been a topic of active research for more than three decades.<ref name=solomon>{{cite journal |title=Measuring Dispositional and Situational Attributions
+|journal=Personality and Social Psychology Bulletin
+|pages=589–594
+|year=1978
+|first=Sheldon
+|last=Solomon
+|doi=10.1177/014616727800400419
+ |volume=4|issue=4
+|s2cid=145579667
+}}</ref><ref name=pronin>{{cite journal |title=Temporal Differences in Trait Self-Ascription: When the Self Is Seen as an Other
+|journal=Journal of Personality and Social Psychology
+|pages=197–209
+|year=2006
+|doi=10.1037/0022-3514.90.2.197
+ |pmid=16536646
+|volume=90|issue=2
+|last1=Pronin
+|first1=E
+|last2=Ross
+|first2=L
+}}</ref>  Like many other [[cognitive bias]]es, trait ascription bias is supported by a substantial body of experimental research and has been explained in terms of numerous theoretical frameworks originating in various disciplines. Among these frameworks are attribution theory (related to how people determine causes of observed events), theories of personality description such as the [[big five personality traits|five factor model]],<ref name=costa>{{cite journal |title=Four Ways Five Factors Are Basic
+|journal=Personality and Individual Differences 
+|pages=653–665
+|doi=10.1016/0191-8869(92)90236-i
+|year=1992
+|volume=13
+|issue=6 
+|last1=Costa 
+|first1=Paul T. 
+|last2=McCrae 
+|first2=Robert R. 
+}}</ref> and work regarding the circumstances under which personality assessments are valid.<ref name=bem>{{cite journal |title=On Predicting Some of the People Some of the Time
+|journal=Psychological Review
+|pages=506–520
+|year=1974
+|doi=10.1037/h0037130
+ |volume=81|issue=6
+|last1=Bem
+|first1=Daryl J.
+|last2=Allen
+|first2=Andrea
+|citeseerx=10.1.1.335.3640
+}}</ref> Seminal work includes Turner,<ref name=turner>{{cite journal |title=Effects of Differential Request Procedures and Self-Consciousness on Trait Attributions
+|journal=Journal of Research in Personality
+|pages=431–438
+|doi=10.1016/0092-6566(78)90069-7
+|year=1978
+ |volume=12|issue=4
+|last1=Turner
+|first1=Robert G.
+}}</ref> Jones,<ref name=jones>{{cite book|last1=Jones|first1=Edward Ellsworth|last2=Nisbett|first2=Richard E.|title=The actor and the observer: divergent perceptions of the causes of behavior|date=1971|pages=79–94|url=https://isites.harvard.edu/fs/docs/icb.topic628923.files/D_jones_nisbett1971pp79-94.pdf|language=en|access-date=2016-05-29|archive-date=2022-10-26|archive-url=https://web.archive.org/web/20221026184613/http://isites.harvard.edu/fs/docs/icb.topic628923.files/D_jones_nisbett1971pp79-94.pdf|url-status=dead}} In {{cite journal|last1=Jones|first1=Edward E.|last2=Kanouse|first2=David E.|last3=Kelley|first3=Harold H.|last4=Nisbett|first4=Richard E.|last5=Valins|first5=Stuart|last6=Weiner|first6=Bernard|title=Attribution: Perceiving the Causes of Behavior|journal=American Political Science Review|volume=70|issue=2|pages=617–618|date=1971|url=https://www.researchgate.net/publication/235361445|language=en|doi=10.2307/1959677|jstor=1959677|s2cid=146150858}}</ref> Kammer,<ref name=kammer /> and Funder.<ref name=funder>{{cite journal |title=The "Trait" of Ascribing Traits: Individual Differences in the Tendency to Trait Ascription
+|journal=Journal of Research in Personality 
+|pages=376–385
+|doi=10.1016/0092-6566(80)90020-3
+|year=1980
+ |volume=14|issue=3 
+|last1=Funder 
+|first1=David C. 
+}}</ref> Incorrectly ascribing traits to other persons based on limited information or observations intuitively plays a role in the formation and perpetuation of some social phenomena such as [[stereotypes]] and [[prejudice]]. As such, methods to mitigate the effect of trait ascription bias on personality assessments outside of the lab are also of interest to [[social science|social scientists]]. Although trait-oriented theories of personality description, and indeed the very notion of universal, enduring traits themselves, have a natural appeal,<ref name=costa /><ref name=hirschberg>{{cite journal |title=Beliefs, Personality, Personal Perception: A Theory of Individual Differences
+|journal=Journal of Research in Personality
+|pages=235–249
+|doi=10.1016/0092-6566(80)90031-8 
+|year=1980
+ |volume=14|issue=2
+|last1=Hirschberg
+|first1=Nancy
+|last2=Jennings
+|first2=Susan J
+}}</ref> some researchers are critical of their existence outside of the laboratory and present results which imply trait ascription, and consequently trait ascription bias, are simply residue of the methodologies historically used to "detect" them.<ref name=turner /><ref name=vonk>{{cite journal |title=The Negativity Effect in Trait Ratings and in Open-Ended Descriptions of Persons 
+|journal=Personality and Social Psychology Bulletin
+|pages=269–278
+|year=1993
+|first=Roos
+|last=Vonk
+|doi=10.1177/0146167293193003
+ |volume=19|issue=3
+|s2cid=143976518
+}}</ref> Criticism is based either on the non-existence of personality traits (contrary to five factor descriptions), or suggest divergent interpretations of results and alternative mechanisms of ascription, limiting the scope of existing work.
+
+===The actor and the observer===
+Jones and Nisbett<ref name=jones /> were among the first to argue that people are biased in how they tend to ascribe traits and dispositions to others that they would not ascribe to themselves. Motivated by the classic example of the student explaining poor performance to a supervisor (in which the supervisor might superficially believe the student's explanations but really thinks the performance is due to "enduring qualities": lack of ability, laziness, ineptitude, etc.) their [[actor–observer asymmetry]] argument forms the basis of discourse<ref name=kammer /><ref name=funder /><ref name=hampson>{{cite journal |title=Trait Ascription and Depth of Acquaintance: The Preference for Traits in Personality Descriptions and Its Relation to Target Familiarity
+|journal=Journal of Research in Personality
+|volume=17
+|issue=4
+|pages=398–411
+|year=1983
+|doi=10.1016/0092-6566(83)90068-5
+|last1=Hampson
+|first1=Sarah E
+}}</ref> on trait ascription bias.
+
+===Kammer et al.===
+In a 1982 study involving fifty-six undergraduate psychology students from the University of Bielefeld, Kammer et al.  demonstrated  that subjects rated their own variability on each of 20 trait terms to be considerably higher than their peers.<ref name=kammer /> Building on the earlier work of Jones and Nisbett,<ref name=jones /> which suggests people describe the behaviour of others in terms of fixed dispositions while viewing their own behaviour as the dynamic product of complex situational factors, Kammer hypothesized that one's own behaviours are judged to be less consistent (i.e. not as predictable) but of higher intensities (with regard to particular traits) than the behaviour of others. The experiment had each student describe themselves as well as a same-sex friend using two identical lists of trait-descriptive terms. For example, for the trait of dominance the student was first asked "In general, how dominant are you?" and then "How much do you vary from one situation to another in how dominant you are?"<ref name=kammer /> Kammer's results strongly supported his hypothesis.
+
+===The "trait" of ascribing traits===
+David C. Funder's work<ref name=funder /> on the "trait" of ascribing personality traits investigates the psychology of individuals who tend not to grant others the variability (i.e. lack of predictability) they grant themselves, instead preferring to ascribe traits and infer dispositional explanations of behaviour.  It had been generally established<ref name=jones /> that people ascribe more traits to others than to themselves, known as the [[actor–observer asymmetry]] in attribution,<ref name=jones /> but Funder's hypothesis was that some individuals are more inclined to make dispositional trait attributions than others, regardless of who they are describing.<ref name=funder /> In the experiment, sixty-three undergraduates filled out a series of questionnaires which asked them to describe themselves, their best friend, and an acquaintance. For each of twenty pairs of polar opposite trait terms (e.g. "friendly—unfriendly") subjects either ranked the person on a discrete scale or chose "depends on the situation", allowing the subject to "not make a dispositional ascription."<ref name=funder /> Based on third-party Q-Sort personality descriptions of the subjects, certain negative personality traits were correlated with those subjects who tended to ascribe dispositions to others, while traits such as "charming", "interesting", and "sympathetic" were associated<ref name=gaertner>{{cite journal |title=Associations and Ascriptions of Positive and Negative Characteristics 
+|journal=Social Psychology Quarterly 
+|pages=23–30 
+|year=1983
+|doi=10.2307/3033657
+ |volume=46|issue=1 
+|jstor=3033657 
+|last1=Gaertner 
+|first1=Samuel L. 
+|last2=McLaughlin 
+|first2=John P. 
+}}</ref> with those who preferred not to ascribe traits. This result is consistent with the type of personality commonly associated with promoting [[stereotypes]] and [[prejudice]].
+
+==Theoretical basis==
+While trait ascription bias has been described by empirical results from various disciplines, most notably [[psychology]] and [[social psychology]], explaining the mechanism of the bias remains a contentious issue in the theory of personality description literature.<ref name=costa /><ref name=block>{{cite journal |title=A Contrarian View of the Five-Factor Approach to Personality Description
+|journal=Psychological Bulletin
+|pages=187–215
+|year=1995
+|first=Jack
+|last=Block
+|doi=10.1037/0033-2909.117.2.187
+ |pmid=7724687
+|volume=117
+|issue=2
+}}</ref>
+
+===The availability heuristic===
+{{main|Availability heuristic}}
+
+Tversky and Kahneman describe a [[Heuristics in judgment and decision making|cognitive heuristic]] that suggests people make judgments (including about other people's personalities<ref name=schwarz>{{cite journal |title=Ease of Retrieval as Information: Another Look at the Availability Heuristic
+|journal=Journal of Personality and Social Psychology
+|pages=195–202
+|year=1991
+|doi=10.1037/0022-3514.61.2.195
+ |volume=61|issue=2
+|last1=Schwarz
+|first1=Norbert
+|last2=Bless
+|first2=Herbert
+|last3=Strack
+|first3=Fritz
+|last4=Klumpp
+|first4=Gisela
+|last5=Rittenauer-Schatka|first5=Helga|last6=Simons|first6=Annette
+|url=http://www.ssoar.info/ssoar/handle/document/6723
+}}</ref>) on the basis of how easily examples of their (other people's) behaviour come to mind.<ref name=tversky1>{{cite journal|title=Availability: A heuristic for judging frequency and probability|journal=Cognitive Psychology|year=1973|volume=5|issue=1|pages=207–233|doi=10.1016/0010-0285(73)90033-9|last1 = Tversky|first1 = Amos|authorlink1=Amos Tversky|last2=Kahneman|first2=Daniel|authorlink2=Daniel Kahneman}}</ref><ref name=tversky2>{{cite journal|title=The psychology of preferences|journal=Scientific American|date=January 1982|volume=246|issue=1|pages=160–173|doi=10.1038/scientificamerican0182-160|last1=Kahneman|first1=Daniel|last2=Tversky|first2=Amos|bibcode=1982SciAm.246a.160K}}</ref> This would appear to be consistent{{vague|date=October 2012}} with the arguments of Jones and Nisbett<ref name=jones /> and the results observed by others.<ref name=kammer /><ref name=funder />
+===Attribution theory===
+{{main|Attribution (psychology)}}
+
+Attribution plays a role in how people understand and judge the causes of the behaviour of others,<ref name=solomon /> which in turn affects how they ascribe traits to others. ''Attributional'' theory<ref name=kelley>{{cite journal |title=Attribution Theory and Research
+|journal=[[Annual Review of Psychology]]
+|pages=457–501
+|year=1980
+|doi=10.1146/annurev.ps.31.020180.002325
+ |pmid=20809783
+|volume=31|last1=Kelley
+|first1=Harold H.
+|last2=Michela
+|first2=John L.
+}}</ref> is concerned with how people subsequently judge behavioural causes, which also bears relevance to trait ascription and related biases.  In particular, attribution (and attributional) theory can help explain the mechanism by which individuals defer to ascribing dispositional traits vs. situational variability to observers.<ref name=kenrick>{{cite journal |title=Profiting From Controversy: Lessons From the Person-Situation Debate
+|journal=American Psychologist
+|pages=23–34
+|year=1988
+|doi=10.1037/0003-066x.43.1.23
+ |pmid=3279875
+|volume=43|issue=1
+|last1=Kenrick
+|first1=Douglas T.
+|last2=Funder
+|first2=David C.
+}}</ref>
+
+==Mitigation==
+Trait ascription bias, regardless of the theoretical mechanisms underpinning it, intuitively plays a role in various social phenomenon observed in the wild. [[Stereotype|Stereotyping]], attitudes of [[prejudice]] and the [[negativity effect]], among others, involve ascribing dispositions (traits) to other people on the basis of little information, no information or simply "gut instincts", which amounts to trait ascription bias. As such, some researchers<ref name=ariely>{{cite book|last1=Ariely|first1=Dan|title=Predictably Irrational: The Hidden Forces that Shape Our Decisions|date=2009|publisher=HarperCollins Publishers|isbn=9780007319923|url=https://archive.org/details/predictablyirrat00arie|url-access=registration|language=en}}</ref> are interested in [[cognitive bias mitigation|mitigating cognitive biases]] to reduce their effects on society.
+
+==Criticism==
+Trait ascription bias has received criticism on a number of fronts.<ref name=turner /><ref name=block /> In particular, some have argued that trait ascription, and the notion of traits, are merely artefacts of methodology and that results contrary to conventional wisdom can be achieved with simple changes to the experimental designs used.<ref name=kammer /><ref name=funder /><ref name=block /> 
+
+==See also==
+{{Portal|Psychology|Philosophy}}
+{{colbegin|colwidth=25em}}
+* [[Attribution (psychology)]]
+* [[Attribution theory]]
+* [[Availability heuristic]]
+* [[Bounded rationality]]
+* [[Cognitive bias]]
+* [[Forer effect]]
+* [[Fundamental attribution error]]
+* [[Illusion of asymmetric insight]]
+* [[Illusory superiority]]
+* [[Introspection illusion]]
+* [[List of biases in judgment and decision making]]
+* [[Naive cynicism]]
+* [[Prospect theory]]
+* [[Stereotyping]]
+* [[Ultimate attribution error]]
+{{colend}}
+
+==References==
+{{Reflist|30em}}
+
+== Further reading ==
+*{{cite journal|doi=10.1037/0033-2909.117.1.21|pmid=7870861|title=The Correspondence Bias|journal=Psychological Bulletin|volume=117|issue=1|pages=21–38|year=1995|last1=Gilbert|first1=Daniel T.|last2=Malone|first2=Patrick S.|url=http://www.danielgilbert.com/Gilbert%20%26%20Malone%20%28CORRESPONDENCE%20BIAS%29.pdf|url-status=bot: unknown|archive-url=https://web.archive.org/web/20160529190533/http://www.danielgilbert.com/Gilbert%20%26%20Malone%20%28CORRESPONDENCE%20BIAS%29.pdf|archive-date=2016-05-29}}
+
+{{Biases}}
+
+[[Category:Cognitive biases]]

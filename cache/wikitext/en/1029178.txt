@@ -1,0 +1,112 @@
+{{Short description|Subject of inquiry in philosophy and linguistics}}
+{{about|epistemic contextualism|semantic contextualism|Context principle}}
+{{Linguistics}}
+'''Contextualism''', also known as '''epistemic contextualism''', is a family of views in [[philosophy]] which emphasize the ''context'' in which an action, [[utterance]], or expression occurs. Proponents of contextualism argue that, in some important respect, the action, utterance, or expression can only be understood relative to that context.<ref name="auto">Price (2008).</ref> Contextualist views hold that philosophically controversial concepts, such as "meaning <var>P</var>", "knowing that <var>P</var>", "having a reason to <var>A</var>", and possibly even "being true" or "being right" only have meaning relative to a specified context. Other philosophers<ref>Feldman (1999).</ref> contend that context-dependence leads to complete [[relativism]].<ref>Mackie (1977)</ref>
+
+In [[ethics]], "contextualist" views are often closely associated with [[situational ethics]], or with [[moral relativism]].<ref>Timmons (1998).</ref>
+
+[[Contextual architecture|Contextualism in architecture]] is a theory of design where modern building types are harmonized with urban forms usual to a traditional city.<ref>Jencks, p. 78-79</ref>
+
+In [[epistemology]], contextualism is the treatment of the word 'knows' as [[context-sensitive language|context-sensitive]].  Context-sensitive expressions are ones that "express different propositions relative to different contexts of use".<ref>Stanley (2005), p. 16.</ref> For example, some terms generally considered context-sensitive are [[indexical]]s, such as 'I', 'here', and 'now'; while 'I' has a constant [[linguistic meaning]] in all [[context (language use)|contexts]] of use, whom it refers to varies with context. Similarly, epistemic contextualists argue that the word 'knows' is context sensitive, expressing different relations in some different contexts.
+
+==Overview==
+Contextualism was introduced, in part, to undermine skeptical arguments that have this basic structure:
+# I don't know that I am not in a skeptical scenario H (e.g., I'm not a brain in a vat)
+# If I don't know that H is not the case, then I don't know an ordinary proposition O (e.g., I have hands)
+# Conclusion: Therefore, I don't know O
+The contextualist solution is not to deny any premise, nor to say that the argument does not follow, but link the truth value of (3) to the context, and say that we can refuse (3) in context—like everyday conversational context—where we have different requirements to say we know.
+
+The main tenet of contextualist epistemology is that knowledge attributions are context-sensitive, and the truth values of "know" depend on the context in which it is used. A statement like 'I know that I have hands' would be false. The same proposition in an ordinary context—e.g., in a cafe with friends— would be truth, and its negation would be false. When we participate in philosophical discourses of the skeptical sort, we seem  to lose our knowledge; once we leave the skeptical context, we  can truthfully say we have knowledge.
+
+That is, when we attribute knowledge to someone, the context in which we use the term 'knowledge' determines the standards relative to which "knowledge" is being attributed (or denied).  If we use it in everyday conversational contexts, the contextualist maintains, most of our claims to "know" things are true, despite skeptical attempts to show we know little or nothing.  But if the term 'knowledge' is used when skeptical hypotheses are being discussed, we count as "knowing" very little, if anything.  Contextualists use this to explain why skeptical arguments can be persuasive, while at the same time protecting the correctness of our ordinary claims to "know" things. This theory does not allow that someone can have knowledge at one moment and not the other, which would not be a satisfying epistemological answer. What contextualism entails is that in one context an utterance of a knowledge attribution can be true, and in a context with higher standards for knowledge, the same statement can be false.  This happens in the same way that 'I' can correctly be used (by different people) to refer to different people at the same time.
+
+What varies with context is how well-positioned a subject must be with respect to a proposition to count as "knowing" it.  Contextualism in epistemology then is a [[semantic]] thesis about how 'knows' works in English, not a theory of what knowledge, justification, or strength of epistemic position consists in.<ref>Stanley (2005), p. 17.</ref> However, epistemologists combine contextualism with views about what knowledge is to address epistemological puzzles and issues, such as [[skepticism]], the [[Gettier problem]], and the [[Lottery paradox]].
+
+Contextualist accounts of knowledge became increasingly popular toward the end of the 20th century, particularly as responses to the problem of [[skepticism]].  Contemporary contextualists include Michael Blome-Tillmann, [[Michael Williams (philosopher)|Michael Williams]], Stewart Cohen, [[Keith DeRose]], [[David Lewis (philosopher)|David Lewis]], [[Gail Stine]], and George Mattey.
+
+The standards for attributing knowledge to someone, the contextualist claims, vary from one user's context to the next. Thus, if I say "John knows that his car is in front of him", the utterance is true if and only if (1) John believes that his car is in front of him, (2) the car is in fact in front of him, and (3) John meets the epistemic standards that my (the speaker's) context selects. This is a loose contextualist account of knowledge, and there are many significantly different theories of knowledge that can fit this contextualist template and thereby come in a contextualist form.
+
+For instance, an [[evidentialism|evidentialist]] account of knowledge can be an instance of contextualism if it's held that strength of justification is a contextually varying matter.  And one who accepts a [[Relevant alternatives theory|relevant alternative's]] account of knowledge can be a contextualist by holding that what range of alternatives are relevant is sensitive to conversational context. DeRose adopts a type of modal or "safety" (as it has since come to be known) account on which knowledge is a matter of one's belief as to whether or not p is the case matching the fact of the matter, not only in the actual world, but also in the sufficiently close possible worlds: Knowledge amounts to there being no "nearby" worlds in which one goes wrong with respect to p. But how close is sufficiently close? It's here that DeRose takes the modal account of knowledge in a contextualist direction, for the range of "epistemically relevant worlds" is what varies with context: In high standards contexts one's belief must match the fact of the matter through a much wider range of worlds than is relevant to low standards contexts.
+
+It is claimed that [[neurophilosophy]] has the goal of ''contextualizing''.<ref>Northoff, Georg (2014) p. 351</ref>
+
+Contextualist epistemology has been criticized by several philosophers.  Contextualism is opposed to any general form of ''[[Invariantism]]'', which claims that knowledge is not context-sensitive (i.e. it is invariant).  More recent criticism has been in the form of rival theories, including ''Subject-Sensitive Invariantism'' (SSI), mainly due to the work of [[John Hawthorne]] (2004), and ''Interest-Relative Invariantism'' (IRI), due to [[Jason Stanley]] (2005).  SSI claims that it is the context of the subject of the knowledge attribution that determines the epistemic standards, whereas Contextualism maintains it is the attributor.  IRI, on the other hand, argues that it is the context of the practical interests of the subject of the knowledge attribution that determines the epistemic standards.  Stanley writes that bare IRI is "simply the claim that whether or not someone knows that ''p'' may be determined in part by practical facts about the subject's environment."<ref>Stanley (2005), p. 85.</ref>  ("Contextualism" is a misnomer for either form of Invariantism, since "Contextualism" among epistemologists is considered to be restricted to a claim about the context-sensitivity of knowledge attributions (or the word "knows").  Thus, any view which maintains that something other than knowledge attributions are context-sensitive is not, strictly speaking, a form of Contextualism.)
+
+An alternative to contextualism called [[contrastivism]] has been proposed by [[Jonathan Schaffer]]. Contrastivism, like contextualism, uses semantic approaches to tackle the problem of skepticism.<ref>Schaffer (2004).</ref>
+
+Recent{{when|date=August 2019}} work in [[experimental philosophy]] has taken an empirical approach to testing the claims of contextualism and related views. This research has proceeded by conducting experiments in which ordinary non-philosophers are presented with vignettes, then asked to report on the status of the knowledge ascription. The studies address contextualism by varying the context of the knowledge ascription, e.g. how important it is that the agent in the vignette has accurate knowledge.
+
+In the studies completed up to 2010, no support for contextualism has been found:<ref>See Feltz and Zarpentine (2010), May, Sinnott-Armstrong, Hull, and Zimmerman (2010), and Buckwatler (2010)</ref> stakes have no impact on evidence. More specifically, non-philosophical intuitions about knowledge attributions are not affected by the importance to the potential knower of the accuracy of that knowledge.
+
+==See also==<!-- Please respect alphabetical order -->
+{{Portal|Philosophy}}
+{{Div col|colwidth=22em}}
+* [[Anekantavada]]
+* [[Degrees of truth]]
+* [[Exclusive disjunction]]
+* [[False dilemma]]
+* [[Fuzzy logic]]
+* [[Logical disjunction]]
+* [[Logical value]]
+* [[Multi-valued logic]]
+* [[Perspectivism]]
+* [[Principle of bivalence]]
+* [[Propositional attitude]]
+* [[Propositional logic]]
+* [[Relativism]]
+* [[Rhizome (philosophy)]]
+* [[Semiotic anthropology]]
+* [[Truth]]
+{{Div col end}}
+
+==Footnotes==
+{{Reflist}}
+
+==References==
+{{Refbegin}}
+* Annis, David. 1978. "A Contextualist Theory of Epistemic Justification", in ''American Philosophical Quarterly'', 15: 213–219.
+* {{cite journal |last=Buckwalter |first=Wesley |year=2010 |title=Knowledge Isn't Closed on Saturday: A Study in Ordinary Language |journal=[[Review of Philosophy and Psychology]] |volume=1 |issue=3 |pages=395–406 |doi=10.1007/s13164-010-0030-3 |s2cid=144530801 }}
+* Cappelen, H. & Lepore, E. 2005. ''Insensitive Semantics: A Defense of Semantic Minimalism and Speech Act Pluralism'', Blackwell Publishing.
+* Cohen, Stuart. 1998. "Contextualist Solutions to Epistemological Problems: Scepticism, Gettier, and the Lottery." ''Australasian Journal of Philosophy'', 76: 289–306.
+* Cohen Stuart.  1999. "Contextualism, Skepticism, and Reasons", in Tomberlin 1999.
+* DeRose, Keith. 1992. "Contextualism and Knowledge Attributions", ''Philosophy and Phenomenological Research'' 52: 913–929.
+* DeRose, Keith. 1995. "Solving the Skeptical Problem," ''Philosophical Review'' 104: 1-52.
+* DeRose, Keith. 1999. "Contextualism: An Explanation and Defense", in Greco and Sosa 1999.
+* DeRose, Keith. 2002. "Assertion, Knowledge, and Context," ''Philosophical Review'' 111: 167–203.
+* DeRose, Keith. 2009. ''The Case for Contextualism: Knowledge, Skepticism and Context, Vol. 1'', Oxford: Oxford University Press.
+* Feldman, Richard. 1999. "Contextualism and Skepticism", in Tomberlin 1999.
+*{{cite journal |last1=Feltz |first1=Adam |last2=Zarpentine |first2=Chris |year=2010 |title=Do You Know More When It Matters Less? |journal=Philosophical Psychology |volume=23 |issue=5 |pages=683–706 |doi=10.1080/09515089.2010.514572 |citeseerx=10.1.1.174.4685 |s2cid=15444124 }}
+* Greco, J. & Sosa, E. 1999. ''Blackwell Guide to Epistemology'', Blackwell Publishing.
+* Hawthorne, John. 2004. ''Knowledge and Lotteries'', Oxford: Oxford University Press.
+*{{cite book |title=New Paradigm In Architecture |first=Charles |last=Jencks |publisher=Yale University Press |edition=7th |year=2002 |isbn=978-0-300-09512-8 }}
+* Mackie, J.L. 1977, "Ethics: Inventing Right and Wrong", Viking Press, {{ISBN|0-14-013558-8}}.
+* May, Joshua, Sinnott-Armstrong, Walter, Hull, Jay G. & Zimmerman, Aaron. 2010. "[https://doi.org/10.1007%2Fs13164-009-0014-3 Practical Interests, Relevant Alternatives, and Knowledge Attributions: An Empirical Study]", ''Review of Philosophy and Psychology'' (formerly ''European Review of Philosophy''), special issue on Psychology and Experimental Philosophy ed. by Edouard Machery, Tania Lombrozo, & Joshua Knobe, Vol. 1, No. 2, pp.&nbsp;265–273.
+*{{cite book |last=Northoff |first=Georg |title=Minding the Brain: A Guide to Philosophy and Neuroscience |chapter-url=https://books.google.com/books?id=p1UdBQAAQBAJ&q=%22We+must+contextualize+questions+usually+dealt+with%22&pg=PA351 |isbn=9781137406057 |page=351 |chapter=Neurophilosophy of consciousness: from mind to consciousness |year=2014 |publisher=Palgrave Macmillan }}{{Dead link|date=December 2023 |bot=InternetArchiveBot |fix-attempted=yes }}
+* Price, A. W. 2008. ' 'Contextuality in Practical Reason' ', Oxford University Press.
+*{{cite journal |last1=Schaffer |first1=Jonathan |last2=Knobe |first2=Joshua |year=2011 |title=Contrastive Knowledge Surveyed |journal=Noûs |volume=46 |issue=4 |pages=675–708 |doi=10.1111/j.1468-0068.2010.00795.x |citeseerx=10.1.1.641.7164 }}
+* Schaffer, Jonathan. 2004. "From Contextualism to Contrastivism," ''Philosophical Studies'' 119: 73–103.
+* Schiffer, Stephen. 1996. "Contextualist Solutions to Scepticism", ''Proceedings of the Aristotelian Society'', 96:317-33.
+* Stanley, Jason. 2005. ''Knowledge and Practical Interests''. New York: Oxford University Press.
+* Timmons Mark, 1998 "Morality Without Foundations: A Defense of Ethical Contextualism Oxford University Press US.
+* Tomberlin, James (ed.). 1999. ''Philosophical Perspectives 13, Epistemology'', Blackwell Publishing.
+{{Refend}}
+
+==External links==
+* [http://certaindoubts.com/?p=678 A Brief History of Contextualism] {{Webarchive|url=https://archive.today/20130118235133/http://certaindoubts.com/?p=678 |date=2013-01-18 }} - DeRose on the history of contextualism in epistemology.
+* [http://www.iep.utm.edu/c/contextu.htm  Contextualism in Epistemology] - an article by Tim Black on the ''Internet Encyclopedia of Philosophy''.
+* {{PhilPapers|category|epistemic-contextualism|Epistemic contextualism}}
+* {{cite SEP |url-id=contextualism-epistemology |title=Epistemic Contextualism |last=Rysiew |first=Patrick}}.
+* {{InPho|idea|1535|Epistemic contextualism}}
+
+{{epistemology}}
+{{philosophy of science}}
+{{skepticism}}
+
+[[Category:Consensus reality]]
+[[Category:Metaethics]]
+[[Category:Metatheory]]
+[[Category:Relativism]]
+[[Category:Philosophical skepticism]]
+[[Category:Systemic functional linguistics]]
+[[Category:Ethical theories]]
+[[Category:Theories of justification]]

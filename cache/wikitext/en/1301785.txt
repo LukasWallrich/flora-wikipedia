@@ -1,0 +1,52 @@
+{{Short description|Cognitive bias}}
+{{Refimprove|date=July 2010}}
+In [[prospect theory]], the '''pseudocertainty effect''' is the tendency for people to perceive an outcome as certain while it is actually uncertain in multi-stage decision making. The evaluation of the certainty of the outcome in a previous stage of decisions is disregarded when selecting an option in subsequent stages. Not to be confused with [[certainty effect]], the pseudocertainty effect was discovered from an attempt at providing a normative use of [[decision theory]] for the certainty effect by relaxing the cancellation rule.<ref name=":0">{{Cite journal|last1=Tversky|first1=A.|last2=Kahneman|first2=D.|date=1981-01-30|title=The framing of decisions and the psychology of choice|journal=Science|language=en|volume=211|issue=4481|pages=453–458|doi=10.1126/science.7455683|issn=0036-8075|pmid=7455683|bibcode=1981Sci...211..453T|s2cid=5643902}}</ref>
+
+==Background==
+The pseudocertainty effect was illustrated by [[Daniel Kahneman]], who received the Nobel Prize in economics for his work on decision making and decision theory, in collaboration with [[Amos Tversky]]. The studies that they researched used real and hypothetical monetary gambles and were often used in undergraduate classrooms and laboratories.<ref name=":0" /> Kahneman and Tversky illustrated the pseudocertainty effect by the following examples.<ref name=":1">{{Cite journal|last=Rizzo|first=James|date=2005-07-01|title=Newcomb's Problem for Decision Theory and Critical Theory|journal=Rethinking Marxism|volume=17|issue=3|pages=471–485|doi=10.1080/08935690500122404|s2cid=144494637|issn=0893-5696}}</ref>
+
+=== Problem 1 ===
+Consider the following two stage game. In the first stage, there is a 75% chance to end the game without winning anything and a 25% chance to move into the second stage. If you reach the second stage, you have a choice between:
+
+Which of the following options do you prefer?
+
+*A. a sure win of $30
+*B. 80% chance to win $45
+
+Your choice must be made before the game starts, i.e., before the outcome of the first stage is known. Please indicate the option you prefer.
+
+=== Problem 2 ===
+Which of the following options do you prefer?
+
+*C. 25% chance to win $30
+*D. 20% chance to win $45
+
+Also, this time the participants had to make their choice before the game starts.
+
+== Significance ==
+Each problem was answered by a different group of respondents. In problem 1, people preferred option A with a rate of 74% over option B with 26%, even though the [[expected return]] of option B is higher. In problem 2, people preferred option D with a rate of 58% over option C with a rate of 42%.<ref name=":1" /> However, the discrepancy between the answers were surprising because the two problems were designed to have identical outcomes. The choices in problem 2 were designed to be compressed forms of the choices from the two stages of problem 1.<ref name=":2">{{Cite journal|last1=Hayes|first1=Brett K.|last2=Newell|first2=Ben R.|date=2009-09-01|title=Induction with uncertain categories: When do people consider the category alternatives?|journal=Memory & Cognition|language=en|volume=37|issue=6|pages=730–743|doi=10.3758/MC.37.6.730|pmid=19679854|issn=0090-502X|doi-access=free}}</ref>
+
+(25% chance to move on x 100% = 25%) chance to win $30. The same $7.50 expected return in option A and option C.
+
+(25% chance to move on x 80% = 20%) chance to win $45. The same $9.00 expected return in option B and option D.
+
+Kahneman and Tversky referred to this incidence as a result of what they called the "pseudocertainty effect". They concluded that when people make choices at later stages of problems they often do not realize that uncertainty at an earlier stage will affect the final outcome. This was clearly observed in the two stage problem shown above in which the problem moved onto the second stage only if the condition of the first stage was met.<ref name=":2" />
+
+In the second problem, since individuals have no choice on options in the first stage, individuals tend to discard the first option when evaluating the overall probability of winning money, but just to consider the options in the second stage that individuals have a choice on. This is also known as cancellation, meaning that possible options are yielding to the same outcome thus ignoring decision process in that stage.<ref name=":0" />
+
+==See also==
+* [[Allais paradox]]
+* [[Certainty effect]]
+* [[Loaded question]]
+* [[Loss aversion]]
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+* {{cite journal|last1=Tversky |first1=Amos |last2=Kahneman|first2=Daniel |title=The framing of decisions and the psychology of choice |journal=Science |volume=211 |issue=4481 |year=1981 |pages=453–458 |url=http://psych.hanover.edu/classes/cognition/papers/tversky81.pdf |doi=10.1126/science.7455683 |pmid=7455683 |archive-url=https://web.archive.org/web/20160507131255/http://psych.hanover.edu/classes/cognition/papers/tversky81.pdf |archive-date=2016-05-07 |author1-link=Amos Tversky |author2-link=Daniel Kahneman |bibcode=1981Sci...211..453T |s2cid=5643902 }}{{cbignore|bot=medic}} 
+* {{cite journal|last1=Tversky|first1=Amos|last2=Kahneman|first2=Daniel|title=Rational Choice and the Framing of Decisions|journal=The Journal of Business|volume=59|issue=S4|year=1986|pages=S251|url=https://www.cog.brown.edu/courses/cg195/pdf_files/fall07/Kahneman&Tversky1986.pdf|doi=10.1086/296365|citeseerx=10.1.1.463.1334|archive-url=https://web.archive.org/web/20160601092033/http://www.cog.brown.edu/courses/cg195/pdf_files/fall07/Kahneman&Tversky1986.pdf|archive-date=2016-06-01}}{{cbignore}}
+
+[[Category:Prospect theory]]
+[[Category:Risk]]
+[[Category:Cognitive biases]]

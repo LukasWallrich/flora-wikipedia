@@ -1,0 +1,1574 @@
+{{Short description|Statistical dispersion in nominal distributions}}{{Multiple issues|{{sources|date=April 2024}}
+{{overly detailed|date=April 2024}}
+{{expert|Statistics|date=April 2024}}}}
+
+An '''index of qualitative variation''' ('''IQV''') is a measure of [[statistical dispersion]] in [[nominal distribution]]s. Examples include the [[variation ratio]] or the [[information entropy]].
+
+==Properties==
+
+There are several types of indices used for the analysis of nominal data. Several are standard statistics that are used elsewhere - [[range (statistics)|range]], [[standard deviation]], [[variance]], [[mean signed deviation|mean deviation]], [[coefficient of variation]], [[median absolute deviation]], [[interquartile range]] and [[quartile deviation]].
+
+In addition to these several statistics have been developed with nominal data in mind. A number have been summarized and devised by Wilcox {{Harv|Wilcox|1967}}, {{Harv|Wilcox|1973}}, who requires the following standardization properties to be satisfied:
+* Variation varies between 0 and 1.
+* Variation is 0 [[if and only if]] all cases belong to a single category.
+* Variation is 1 if and only if cases are evenly divided across all categories.<ref>This can only happen if the number of cases is a multiple of the number of categories.</ref>
+
+In particular, the value of these standardized indices does not depend on the number of categories or number of samples.
+
+For any index, the closer to uniform the distribution, the larger the variance, and the larger the differences in frequencies across categories, the smaller the variance.
+
+Indices of qualitative variation are then analogous to [[information entropy]], which is minimized when all cases belong to a single category and maximized in a uniform distribution. Indeed, information entropy can be used as an index of qualitative variation.
+
+One characterization of a particular index of qualitative variation (IQV) is as a ratio of observed differences to maximum differences.
+
+==Wilcox's indexes==
+
+Wilcox gives a number of formulae for various indices of QV {{Harv|Wilcox|1973}}, the first, which he designates DM for "Deviation from the Mode", is a standardized form of the [[variation ratio]], and is analogous to [[variance]] as deviation from the mean.
+
+===ModVR===
+
+The formula for the variation around the mode (ModVR) is derived as follows:
+
+:<math> M = \sum_{i = 1}^K ( f_m - f_i ) </math>
+
+where ''f''<sub>''m''</sub> is the modal frequency, ''K'' is the number of categories and ''f''<sub>''i''</sub> is the frequency of the ''i''<sup>th</sup> group.
+
+This can be simplified to
+
+:<math> M = Kf_m - N</math>
+
+where ''N'' is the total size of the sample.
+
+Freeman's index (or variation ratio) is<ref name=Freemen1965>Freemen LC (1965) ''Elementary applied statistics''. New York: John Wiley and Sons pp.&nbsp;40–43</ref>
+
+: <math> v = 1 - \frac{ f_m }{ N } </math>
+
+This is related to ''M'' as follows:
+
+:<math> \frac{ ( \frac{ f_m }{ N } ) - \frac 1 K  }{ \frac N K \frac{ ( K - 1 )} N } = \frac M { N( K - 1 ) }</math>
+
+The ModVR is defined as
+
+:<math> \operatorname{ModVR} = 1 - \frac{ Kf_m - N }{ N( K - 1 ) } = \frac{ K( N - f_m ) }{ N ( K - 1 ) } = \frac{ K v }{ K - 1 } </math>
+
+where ''v'' is Freeman's index.
+
+Low values of ModVR correspond to small amount of variation and high values to larger amounts of variation.
+
+When ''K'' is large, ModVR is approximately equal to Freeman's index&nbsp;''v''.
+
+===RanVR===
+
+This is based on the range around the mode. It is defined to be
+
+: <math> \operatorname{RanVR} = 1 - \frac{ f_m - f_l }{ f_m } = \frac{ f_l }{ f_m }</math>
+
+where ''f''<sub>m</sub> is the modal frequency and ''f''<sub>l</sub> is the lowest frequency.
+
+===AvDev===
+
+This is an analog of the mean deviation. It is defined as the [[arithmetic mean]] of the absolute differences of each value from the mean.
+
+: <math> \operatorname{AvDev} = 1 - \frac 1 {2N} \frac K {K - 1} \sum^K_{i = 1} \left| f_i - \frac N K \right| </math>
+
+===MNDif===
+
+This is an analog of the mean difference - the average of the differences of all the possible pairs of variate values, taken regardless of sign. The mean difference differs from the mean and standard deviation because it is dependent on the spread of the variate values among themselves and not on the deviations from some central value.<ref>Kendal MC, Stuart A (1958) The advanced theory of statistics. Hafner Publishing Company p.&nbsp;46</ref>
+
+:<math> \operatorname{MNDif} = 1 - \frac 1 { N( K - 1 ) } \sum_{i = 1}^{K - 1} \sum_{ j = i + 1 }^K | f_i - f_j | </math>
+
+where ''f''<sub>''i''</sub> and ''f''<sub>''j''</sub> are the ''i''<sup>th</sup> and ''j''<sup>th</sup> frequencies respectively.
+
+The MNDif is the [[Gini coefficient]] applied to qualitative data.
+
+===VarNC===
+
+This is an analog of the variance.
+
+:<math> \operatorname{VarNC} = 1 - \frac 1 {N^2} \frac K {K - 1} \sum \left( f_i - \frac N K \right)^2 </math>
+
+It is the same index as Mueller and Schussler's Index of Qualitative Variation<ref name=Mueller1961>Mueller JE, Schuessler KP (1961) Statistical reasoning in sociology. Boston: Houghton Mifflin Company. pp.&nbsp;177–179</ref> and Gibbs' [[#M2|M2]] index.
+
+It is distributed as a [[Chi-squared distribution|chi square]] variable with ''K''&nbsp;–&nbsp;1 [[degrees of freedom]].{{sfnp|Wilcox|1967|p={{page needed|date=May 2020}}}}
+
+===StDev===
+
+Wilson has suggested two versions of this statistic.
+
+The first is based on AvDev.
+
+: <math> \operatorname{StDev}_1 = 1 - \sqrt{ \frac{ \sum_{ i = 1 }^K \left( f_i - \frac N K \right)^2 }{ \left( N - \frac N K  \right)^2 + ( K - 1 ) \left( \frac N K \right)^2 } }</math>
+
+The second is based on MNDif
+
+: <math> \operatorname{StDev}_2 = 1 - \sqrt{ \frac{ \sum^{K - 1}_{i = 1} \sum^K_{j = i + 1 } ( f_i - f_j )^2 }{ N^2 ( K - 1 )} }</math>
+
+===HRel===
+
+This index was originally developed by [[Claude Shannon]] for use in specifying the properties of communication channels.
+
+: <math> \operatorname{HRel} = \frac{ - \sum p_i \log_2 p_i }{ \log_2 K } </math>
+
+where ''p''<sub>''i''</sub> = ''f''<sub>''i''</sub> / ''N''.
+
+This is equivalent to [[information entropy]] divided by the <math>\log_2(K)</math> and is useful for comparing relative variation between frequency tables of multiple sizes.
+
+===B index===
+
+Wilcox adapted a proposal of Kaiser<ref name=Kaiser1968>Kaiser HF (1968) "A measure of the population quality of legislative apportionment." ''The American Political Science Review'' 62 (1) 208</ref> based on the [[geometric mean]] and created the ''B''' index. The ''B'' index is defined as
+
+: <math> B = 1 - \sqrt{ 1 - \left[ \sqrt[k] { \prod_{ i = 1 }^k \frac{ f_i K }{ N } } \, \right]^2 } </math>
+
+===R packages===
+
+Several of these indices have been implemented in the R language.<ref>{{cite journal|author=Joel Gombin|date=August 18, 2015|title=qualvar: Initial release (Version v0.1)|journal=Zenodo|url= https://cran.r-project.org/package=qualvar|doi= 10.5281/zenodo.28341}}</ref>
+
+==Gibb's indices and related formulae==
+
+{{harvp|Gibbs|Poston Jr|1975}} proposed six indexes.{{sfnp|Gibbs|Poston Jr|1975}}
+
+===''M''1===
+
+The unstandardized index (''M''1) {{Harv|Gibbs|Poston Jr|1975|p=471}} is
+
+: <math>M1 = 1 - \sum_{ i = 1 }^K p_i^2 </math>
+
+where ''K'' is the number of categories and <math> p_i = f_i / N </math> is the proportion of observations that fall in a given category ''i''.
+
+''M''1 can be interpreted as one minus the likelihood that a random pair of samples will belong to the same category,{{sfnp|Lieberson|1969|p=851}} so this formula for IQV is a standardized likelihood of a random pair falling in the same category. This index has also referred to as the index of differentiation, the index of sustenance differentiation and the geographical differentiation index depending on the context it has been used in.
+
+===''M''2===
+
+A second index is the ''M2''<ref>[http://www.xycoon.com/qualitative_variation.htm IQV at xycoon]</ref> {{Harv|Gibbs|Poston Jr|1975|p=472}} is:
+
+: <math> M2 = \frac{ K }{ K - 1 } \left( 1 - \sum_{ i = 1 }^K p_i^2 \right)</math>
+
+where ''K'' is the number of categories and <math> p_i = f_i / N </math> is the proportion of observations that fall in a given category ''i''. The factor of <math> \frac{ K }{ K - 1 } </math> is for standardization.
+
+''M''1 and ''M''2 can be interpreted in terms of variance of a [[multinomial distribution]] {{Harv|Swanson|1976}} (there called an "expanded binomial model"). ''M''1 is the variance of the multinomial distribution and ''M''2 is the ratio of the variance of the multinomial distribution to the variance of a [[binomial distribution]].
+
+===''M''4===
+
+The ''M''4 index is
+
+: <math> M4 = \frac{ \sum_{ i = 1 }^K | X_i - m | }{ 2 \sum_{ i = 1 }^K X_i } </math>
+
+where ''m'' is the mean.
+
+===''M''6===
+
+The formula for ''M''6 is
+
+: <math> M6 = K \left[ 1 - \frac{ \sum_{ i = 1 }^K | X_i - m | }{ 2 N } \right] </math>
+·
+where ''K'' is the number of categories, ''X''<sub>''i''</sub> is the number of data points in the ''i''<sup>th</sup> category, ''N'' is the total number of data points, || is the [[absolute value]] (modulus) and
+
+: <math> m = \frac{ \sum_{ i = 1 }^K X_i }{ N } </math>
+
+This formula can be simplified
+
+: <math> M6 = K\left[ 1 - \frac{ \sum_{ i = 1 }^K \left| p_i - \frac 1 N  \right| } 2  \right] </math>
+
+where ''p''<sub>''i''</sub> is the proportion of the sample in the ''i''<sup>th</sup> category.
+
+In practice ''M''1 and ''M''6 tend to be highly correlated which militates against their combined use.
+
+===Related indices===
+
+The sum
+
+: <math> \sum_{ i = 1 }^K p_i^2 </math>
+
+has also found application. This is known as the Simpson index in [[ecology]] and as the [[Herfindahl index]] or the Herfindahl-Hirschman index (HHI) in economics. A variant of this is known as the Hunter–Gaston index in microbiology<ref name=Hunter1988>{{cite journal | last1 = Hunter | first1 = PR | last2 = Gaston | first2 = MA | year = 1988 | title = Numerical index of the discriminatory ability of typing systems: an application of Simpson's index of diversity | journal = J Clin Microbiol | volume = 26 | issue = 11| pages = 2465–2466 | doi = 10.1128/jcm.26.11.2465-2466.1988 | pmid = 3069867 | pmc = 266921 }}</ref>
+
+In linguistics and [[cryptanalysis]] this sum is known as the repeat rate. The [[incidence of coincidence]] (''IC'') is an unbiased [[estimator]] of this statistic<ref name=Friedman1925>Friedman WF (1925) The incidence of coincidence and its applications in cryptanalysis. Technical Paper. Office of the Chief Signal Officer. United States Government Printing Office.</ref>
+
+: <math> \operatorname{IC} = \sum \frac{ f_i ( f_i - 1 ) }{ n ( n - 1 ) } </math>
+
+where ''f''<sub>''i''</sub> is the count of the ''i''<sup>th</sup> [[grapheme]] in the text and ''n'' is the total number of graphemes in the text.
+
+;''M''1
+
+The ''M''1 statistic defined above has been proposed several times in a number of different settings under a variety of names. These include Gini's index of mutability,<ref name=Gini1912>Gini CW (1912) Variability and mutability, contribution to the study of statistical distributions and relations. Studi Economico-Giuricici della R. Universita de Cagliari</ref> Simpson's measure of diversity,<ref name=Simpson1949>{{cite journal | last1 = Simpson | first1 = EH | year = 1949 | title = Measurement of diversity | journal = Nature | volume = 163 | issue = 4148| page = 688 | doi=10.1038/163688a0| bibcode = 1949Natur.163..688S | doi-access = free }}</ref> Bachi's index of linguistic homogeneity,<ref name=Bachi1956>Bachi R (1956) A statistical analysis of the revival of Hebrew in Israel. In: Bachi R (ed) Scripta Hierosolymitana, Vol III, Jerusalem: Magnus press pp 179–247</ref> Mueller and Schuessler's index of qualitative variation,<ref name=Mueller1061>Mueller JH, Schuessler KF (1961) Statistical reasoning in sociology. Boston: Houghton Mifflin</ref> Gibbs and Martin's index of industry diversification,<ref name=Gibbs1962>{{cite journal | last1 = Gibbs | first1 = JP | last2 = Martin | first2 = WT | year = 1962 | title = Urbanization, technology and division of labor: International patterns | journal = American Sociological Review | volume = 27 | issue = 5| pages = 667–677 | doi=10.2307/2089624| jstor = 2089624 }}</ref> Lieberson's index.{{sfnp|Lieberson|1969|p={{page needed|date=May 2020}}}} and Blau's index in sociology, psychology and management studies.<ref name=Blau2000>Blau P (1977) Inequality and Heterogeneity. Free Press, New York</ref> The formulation of all these indices are identical.
+
+Simpson's ''D'' is defined as
+
+: <math> D = 1 - \sum_{i = 1}^K { \frac{ n_i ( n_i - 1 ) }{ n( n - 1 ) } }</math>
+
+where ''n'' is the total sample size and ''n''<sub>''i''</sub> is the number of items in the i<sup>th</sup> category.
+
+For large ''n'' we have
+
+: <math> u \sim 1 - \sum_{ i = 1 }^K p_i^2 </math>
+
+Another statistic that has been proposed is the coefficient of unalikeability which ranges between 0 and 1.<ref name=Perry2005>Perry M, Kader G (2005) Variation as unalikeability. Teaching Stats 27 (2) 58–60</ref>
+
+: <math> u = \frac{ c( x, y ) }{ n^2 - n } </math>
+
+where ''n'' is the sample size and ''c''(''x'',''y'') = 1 if ''x'' and ''y'' are unalike and 0 otherwise.
+
+For large ''n'' we have
+
+: <math> u \sim 1 - \sum_{ i = 1 }^K p_i^2 </math>
+
+where ''K'' is the number of categories.
+
+Another related statistic is the quadratic entropy
+
+: <math> H^2 = 2 \left( 1 - \sum_{ i = 1 }^K p_i^2 \right) </math>
+
+which is itself related to the [[Gini index]].
+
+;''M''2
+
+Greenberg's monolingual non weighted index of linguistic diversity<ref name=Greenberg1956>{{cite journal | last1 = Greenberg | first1 = JH | year = 1956 | title = The measurement of linguistic diversity | journal = Language | volume = 32 | issue = 1| pages = 109–115 | doi=10.2307/410659| jstor = 410659 }}</ref> is the ''M''2 statistic defined above.
+
+;''M''7
+
+Another index – the ''M''7 – was created based on the ''M''4 index of {{harvp|Gibbs|Poston Jr|1975}}<ref name=Lautard1978>Lautard EH (1978) PhD thesis.{{full citation needed|date=May 2020}}</ref>
+
+:<math> M7 = \frac{ \sum_{ i = 1 }^K \sum_{ j = 1 }^L | R_i - R | }{ 2 \sum R_i }</math>
+
+where
+
+:<math>R_{ ij } = \frac{ O_{ ij } } { E_{ ij } } = \frac{ O_{ ij } }{ n_i p_j }</math>
+
+and
+
+:<math> R = \frac{ \sum_{ i = 1 }^K \sum_{ j = 1 }^L R_{ ij } }{ \sum_{ i = 1 }^K n_i } </math>
+
+where ''K'' is the number of categories, ''L'' is the number of subtypes, ''O''<sub>''ij''</sub> and ''E''<sub>''ij''</sub> are the number observed and expected respectively of subtype ''j'' in the ''i''<sup>th</sup> category, ''n''<sub>''i''</sub> is the number in the ''i''<sup>th</sup> category and ''p''<sub>''j''</sub> is the proportion of subtype ''j'' in the complete sample.
+
+Note: This index was designed to measure women's participation in the work place: the two subtypes it was developed for were male and female.
+
+==Other single sample indices==
+
+These indices are summary statistics of the variation within the sample.
+
+===Berger–Parker index===
+
+The [[Berger–Parker index]], named after [[Wolfgang H. Berger]] and [[Frances Lawrence Parker]], equals the maximum <math>p_i</math> value in the dataset, i.e. the proportional abundance of the most abundant type.<ref>{{cite journal | last1 = Berger | first1 = WH | last2 = Parker | first2 = FL | year = 1970 | title = Diversity of planktonic Foramenifera in deep sea sediments | journal = Science | volume = 168 | issue = 3937| pages = 1345–1347 | doi=10.1126/science.168.3937.1345| pmid = 17731043 | bibcode = 1970Sci...168.1345B | s2cid = 29553922 }}</ref> This corresponds to the weighted generalized mean of the <math>p_i</math> values when ''q'' approaches infinity, and hence equals the inverse of true diversity of order infinity (1/<sup>∞</sup>''D'').
+
+===Brillouin index of diversity===
+
+This index is strictly applicable only to entire populations rather than to finite samples. It is defined as
+
+: <math> I_B = \frac{ \log( N! ) - \sum_{ i = 1 }^K ( \log( n_i! ) ) }{ N }</math>
+
+where ''N'' is total number of individuals in the population, ''n''<sub>''i''</sub> is the number of individuals in the ''i''<sup>th</sup> category and ''N''! is the [[factorial]] of ''N''.
+Brillouin's index of evenness is defined as
+
+:<math> E_B = I_B / I_{B( \max )} </math>
+
+where ''I''<sub>''B''(max)</sub> is the maximum value of ''I''<sub>B</sub>.
+
+===Hill's diversity numbers===
+
+Hill suggested a family of diversity numbers<ref name=Hill1973>{{cite journal | last1 = Hill | first1 = M O | year = 1973 | title = Diversity and evenness: a unifying notation and its consequences | journal = Ecology | volume = 54 | issue = 2| pages = 427–431 | doi=10.2307/1934352| jstor = 1934352 | bibcode = 1973Ecol...54..427H }}</ref>
+
+:<math> N_a = \frac{1}{ \left[ \sum_{ i = 1 }^K p_i^a \right]^{ a - 1 } }</math>
+
+For given values of a, several of the other indices can be computed
+
+*''a'' = 0: ''N''<sub>''a''</sub> = species richness 
+*''a'' = 1: ''N''<sub>''a''</sub> = Shannon's index 
+*''a'' = 2: ''N''<sub>''a''</sub> =  1/Simpson's index (without the small sample correction) 
+*''a'' = 3: ''N''<sub>''a''</sub> = 1/Berger–Parker index
+
+Hill also suggested a family of evenness measures
+
+: <math> E_{ a, b } = \frac{ N_a }{ N_b }</math>
+
+where ''a'' > ''b''.
+
+Hill's ''E''<sub>4</sub> is
+
+: <math> E_4 = \frac{ N_2 } { N_1 } </math>
+
+Hill's ''E''<sub>5</sub> is
+
+: <math> E_5 = \frac{ N_2 - 1 } { N_1 - 1 } </math>
+
+===Margalef's index===
+
+: <math> I_\text{Marg}  = \frac{ S - 1 } { \log_e N} </math>
+
+where ''S'' is the number of data types in the sample and ''N'' is the total size of the sample.<ref name=Margalef1958>Margalef R (1958) Temporal succession and spatial 
+heterogeneity in phytoplankton. In: Perspectives in marine biology. Buzzati-Traverso (ed) Univ Calif Press, Berkeley pp 323–347</ref>
+
+===Menhinick's index===
+
+:<math> I_\mathrm{Men} = \frac{ S }{ \sqrt{ N } } </math>
+
+where ''S'' is the number of data types in the sample and ''N'' is the total size of the sample.<ref name=Menhinick1964>{{cite journal | last1 = Menhinick | first1 = EF | year = 1964 | title = A comparison of some species-individuals diversity indices applied to samples of field insects | journal = Ecology | volume = 45 | issue = 4| pages = 859–861 | doi=10.2307/1934933| jstor = 1934933 | bibcode = 1964Ecol...45..859M }}</ref>
+
+In [[linguistics]] this index is the identical with the Kuraszkiewicz index (Guiard index) where ''S'' is the number of distinct words (types) and ''N'' is the total number of words (tokens) in the text being examined.<ref name=Kuraszkiewicz1851>Kuraszkiewicz W (1951) Nakladen Wroclawskiego Towarzystwa Naukowego</ref><ref name=Guiraud1854>Guiraud P (1954) Les caractères statistiques du vocabulaire. Presses Universitaires de France, Paris</ref> This index can be derived as a special case of the Generalised Torquist function.<ref name=Panas2001>Panas E (2001) The Generalized Torquist: Specification and estimation of a new vocabulary-text size function. J Quant Ling 8(3) 233–252</ref>
+
+===Q statistic===
+
+This is a statistic invented by Kempton and Taylor.<ref name=Kempton1976>{{cite journal | last1 = Kempton | first1 = RA | last2 = Taylor | first2 = LR | year = 1976 | title = Models and statistics for species diversity | journal = Nature | volume = 262 | issue = 5571| pages = 818–820 | doi=10.1038/262818a0| pmid = 958461 | bibcode = 1976Natur.262..818K | s2cid = 4168222 }}</ref> and involves the quartiles of the sample. It is defined as
+
+:<math> Q = \frac{ \frac{ 1 }{ 2 } ( n_{ R1 } + n_{ R2 } ) + \sum_{ j = R_1 + 1 }^{ R_2 - 1 } n_j } { \log( R_2 / R_1 ) } </math>
+
+where ''R''<sub>1</sub> and ''R''<sub>2</sub> are the 25% and 75% quartiles respectively on the cumulative species curve, ''n''<sub>''j''</sub> is the number of species in the ''j''<sub>th</sub> category, ''n''<sub>Ri</sub> is the number of species in the class where ''R''<sub>''i''</sub> falls (''i'' = 1 or 2).
+
+===Shannon–Wiener index===
+
+This is taken from information theory
+
+: <math> H = \log_e N - \frac{ 1 }{ N } \sum n_i p_i \log( p_i ) </math>
+
+where ''N'' is the total number in the sample and ''p''<sub>''i''</sub> is the proportion in the ''i''<sup>th</sup> category.
+
+In ecology where this index is commonly used, ''H'' usually lies between 1.5 and 3.5 and only rarely exceeds 4.0.
+
+An approximate formula for the standard deviation (SD) of ''H'' is
+
+: <math> \operatorname{SD}( H ) = \frac{ 1 }{ N } \left[ \sum p_i [ \log_e( p_i ) ]^2 - H^2 \right] </math>
+
+where ''p''<sub>''i''</sub> is the proportion made up by the ''i''<sup>th</sup> category and ''N'' is the total in the sample.
+
+A more accurate approximate value of the variance of ''H''(var(''H'')) is given by<ref name=Hutcheson1970>Hutcheson K (1970) A test for comparing diversities based on the Shannon formula. J Theo Biol 29: 151–154</ref>
+
+: <math> \operatorname{var}(H) = \frac{ \sum p_i [\log(p_i)]^2 - \left[ \sum p_i \log( p_i ) \right]^2 } N + \frac{K - 1}{2N^2} + \frac{ -1 + \sum p_i^2 - \sum p_i^{-1} \log(p_i) + \sum p_i^{-1} \sum p_i \log(p_i) }{6N^3} </math>
+
+where ''N'' is the sample size and ''K'' is the number of categories.
+
+A related index is the Pielou ''J'' defined as
+
+:<math> J = \frac{ H } {\log_e( S ) } </math>
+
+One difficulty with this index is that ''S'' is unknown for a finite sample. In practice ''S'' is usually set to the maximum present in any category in the sample.
+
+===Rényi entropy===
+
+The [[Rényi entropy]] is a generalization of the Shannon entropy to other values of ''q'' than unity. It can be expressed:
+
+:<math>{}^qH = \frac{ 1 }{ 1 - q } \; \ln\left ( \sum_{ i = 1 }^K p_i^q \right ) </math>
+
+which equals
+
+:<math>{}^qH = \ln\left ( { 1 \over \sqrt[ q - 1 ]{{ \sum_{ i = 1 }^K p_i p_i^{ q - 1 } } } } \right ) = \ln( {}^q\!D )</math>
+
+This means that taking the logarithm of true diversity based on any value of ''q'' gives the Rényi entropy corresponding to the same value of ''q''.
+
+The value of <math>{}^q\!D</math> is also known as the Hill number.<ref name=Hill1973/>
+
+===McIntosh's D and E ===
+
+McIntosh proposed measure of diversity:<ref>McIntosh RP (1967). An Index of Diversity and the Relation of Certain Concepts to Diversity. Ecology, 48(3), 392–404</ref>
+
+: <math> I = \sqrt{ \sum_{ i = 1 }^K n_i^2 } </math>
+
+where ''n''<sub>''i''</sub> is the number in the ''i''<sup>th</sup> category and ''K'' is the number of categories.
+
+He also proposed several normalized versions of this index. First is ''D'':
+
+: <math> D = \frac{ N - I }{ N - \sqrt{ N } } </math>
+
+where ''N'' is the total sample size.
+
+This index has the advantage of expressing the observed diversity as a proportion of the absolute maximum diversity at a given ''N''.
+
+Another proposed normalization is ''E'' — ratio of observed diversity to maximum possible diversity of a given ''N'' and ''K'' (i.e., if all species are equal in number of individuals):
+
+:<math> E = \frac{ N - I }{ N - \frac{ N }{ K } } </math>
+
+===Fisher's alpha===
+
+This was the first index to be derived for diversity.<ref>Fisher RA, Corbet A, Williams CB (1943) The relation between the number of species and the number of individuals in a random sample of an animal population. Animal Ecol 12: 42–58</ref>
+
+<math> K = \alpha \ln( 1 + \frac{ N }{ \alpha } ) </math>
+
+where ''K'' is the number of categories and ''N'' is the number of data points in the sample. Fisher's ''α'' has to be estimated numerically from the data.
+
+The expected number of individuals in the ''r''<sup>th</sup> category where the categories have been placed in increasing size is
+
+: <math> \operatorname E( n_r ) = \alpha \frac{ X^r }{ r } </math>
+
+where ''X'' is an empirical parameter lying between 0 and 1. While X is best estimated numerically an approximate value can be obtained by solving the following two equations
+
+: <math> N = \frac{ \alpha X }{ 1 - X } </math>
+
+: <math> K = - \alpha \ln( 1 - X ) </math>
+
+where ''K'' is the number of categories and ''N'' is the total sample size.
+
+The variance of ''α'' is approximately<ref name=Anscombe1950>Anscombe (1950) Sampling theory of the negative binomial and logarithmic series distributions. Biometrika 37: 358–382</ref>
+
+: <math> \operatorname{var}( \alpha ) = \frac{ \alpha }{ \ln( X )( 1 - X ) } </math>
+
+===Strong's index===
+
+This index (''D''<sub>w</sub>) is the distance between the [[Lorenz curve]] of species distribution and the 45 degree line. It is closely related to the Gini coefficient.<ref name=Strong2002>{{cite journal | last1 = Strong | first1 = WL | year = 2002 | title = Assessing species abundance uneveness within and between plant communities | journal = Community Ecology | volume = 3 | issue = 2| pages = 237–246 | doi=10.1556/comec.3.2002.2.9| url = http://real.mtak.hu/67416/1/comec.3.2002.2.9.pdf }}</ref>
+
+In symbols it is
+
+:<math> D_w = max[ \frac{ c_i } K - \frac i N ] </math>
+
+where max() is the maximum value taken over the ''N'' data points, ''K'' is the number of categories (or species) in the data set and ''c''<sub>''i''</sub> is the cumulative total up and including the ''i''<sub>th</sub> category.
+
+===Simpson's E===
+
+This is related to Simpson's ''D'' and is defined as
+
+:<math> E = \frac{1/D} K </math>
+
+where ''D'' is Simpson's ''D'' and ''K'' is the number of categories in the sample.
+
+===Smith & Wilson's indices===
+
+Smith and Wilson suggested a number of indices based on Simpson's ''D''.
+
+:<math> E_1 = \frac{ 1 - D }{ 1 - \frac{ 1 }{ K } } </math>
+
+:<math> E_2 = \frac{ \log_e( D ) }{ \log_e ( K ) } </math>
+
+where ''D'' is Simpson's ''D'' and ''K'' is the number of categories.
+
+===Heip's index===
+
+:<math> E = \frac{ e^H - 1 }{ K - 1 } </math>
+
+where ''H'' is the Shannon entropy and ''K'' is the number of categories.
+
+This index is closely related to Sheldon's index which is
+
+:<math> E = \frac{ e^H }{ K } </math>
+
+where ''H'' is the Shannon entropy and ''K'' is the number of categories.
+
+===Camargo's index===
+
+This index was created by Camargo in 1993.<ref name=Camargo1993>Camargo JA (1993) Must dominance increase with the number of subordinate species in competitive interactions? J. Theor Biol 161 537–542</ref>
+
+<math> E = 1 - \sum_{ i = 1 }^K \sum_{ j = i + 1 }^K \frac{ p_i - p_j }{ K } </math>
+
+where ''K'' is the number of categories and ''p''<sub>''i''</sub> is the proportion in the ''i''<sup>th</sup> category.
+
+===Smith and Wilson's B===
+
+This index was proposed by Smith and Wilson in 1996.<ref name=Smith1996>Smith, Wilson (1996){{full citation needed|date=May 2020}}</ref>
+
+:<math> B = 1 - \frac{ 2 }{ \pi } \arctan( \theta ) </math>
+
+where ''θ'' is the slope of the log(abundance)-rank curve.
+
+===Nee, Harvey, and Cotgreave's index===
+
+This is the slope of the log(abundance)-rank curve.
+
+===Bulla's E===
+
+There are two versions of this index - one for continuous distributions (''E''<sub>c</sub>) and the other for discrete (''E''<sub>d</sub>).<ref name=Bulla1994>{{cite journal | last1 = Bulla | first1 = L | year = 1994 | title = An index of evenness and its associated diversity measure | journal = Oikos | volume = 70 | issue = 1| pages = 167–171 | doi=10.2307/3545713| jstor = 3545713 | bibcode = 1994Oikos..70..167B }}</ref>
+
+: <math> E_c = \frac{ O - \frac{ 1 }{ K } }{ 1 - \frac{ 1 }{ K } } </math>
+
+: <math> E_d = \frac{ O - \frac{ 1 }{ K } - \frac{ K - 1 }{ N } }{ 1 - \frac{ 1 }{ K } - \frac{ K - 1 }{ N } } </math>
+
+where
+
+: <math> O = 1 - \frac 1 2 \left| p_i - \frac 1 K \right| </math>
+
+is the Schoener–Czekanoski index, ''K'' is the number of categories and ''N'' is the sample size.
+
+===Horn's information theory index===
+
+This index (''R''<sub>''ik''</sub>) is based on Shannon's entropy.<ref name=Horn1966>{{cite journal | last1 = Horn | first1 = HS | year = 1966 | title = Measurement of 'overlap' in comparative ecological studies | journal = Am Nat | volume = 100 | issue = 914| pages = 419–423 | doi=10.1086/282436| s2cid = 84469180 }}</ref> It is defined as
+
+: <math> R_{ik} = \frac{ H_\max - H_\mathrm{obs}}{ H_\max - H_\min }</math>
+
+where
+
+: <math> X = \sum x_{ ij } </math>
+
+: <math> X = \sum x_{ kj } </math>
+
+: <math> H( X ) = \sum \frac{ x_{ ij } }{  X } \log \frac{ X }{ x_{ ij } }</math>
+
+: <math> H( Y ) = \sum \frac{ x_{ kj } }{  Y } \log \frac{ Y }{ x_{ kj } }</math>
+
+: <math>H_\min = \frac{ X }{ X + Y } H( X ) + \frac{ Y }{ X + Y } H( Y )</math>
+
+: <math> H_\max = \sum \left( \frac{ x_{ ij } }{ X + Y } \log \frac{ X + Y }{ x_{ ij } } + \frac{ x_{ kj }}{ X + Y } \log \frac{ X + Y }{ x_{ kj } } \right)</math>
+
+: <math> H_\mathrm{obs} = \sum \frac{ x_{ ij } + x_{ kj } }{ X + Y } \log \frac{ X + Y }{ x_{ ij } + x_{ kj } }</math>
+
+In these equations ''x''<sub>''ij''</sub> and ''x''<sub>''kj''</sub> are the number of times the ''j''<sup>th</sup> data type appears in the ''i''<sup>th</sup> or ''k''<sup>th</sup> sample respectively.
+
+===Rarefaction index===
+
+In a rarefied sample a random subsample ''n'' in chosen from the total ''N'' items. In this sample some groups may be necessarily absent from this subsample. Let <math>X_n</math> be the number of groups still present in the subsample of ''n'' items. <math>X_n</math> is less than ''K'' the number of categories whenever at least one group is missing from this subsample.
+
+The '''rarefaction curve''', <math>f_n</math> is defined as:
+
+: <math>f_n = \operatorname E[ X_n ] = K - \binom{ N }{ n }^{ -1 } \sum_{ i = 1 }^K \binom{ N - N_i }{ n } </math>
+
+Note that 0 ≤ ''f''(''n'') ≤ ''K''.
+
+Furthermore,
+
+: <math>f(0) = 0,\ f(1) = 1,\ f(N) = K. </math>
+
+Despite being defined at discrete values of ''n'', these curves are most frequently displayed as continuous functions.<ref>Siegel, Andrew F (2006) "Rarefaction curves." ''Encyclopedia of Statistical Sciences'' 10.1002/0471667196.ess2195.pub2.</ref>
+
+This index is discussed further in [[Rarefaction (ecology)]].
+
+===Caswell's V===
+
+This is a ''z'' type statistic based on Shannon's entropy.<ref name=Caswell1976>Caswell H (1976) Community structure: a neutral model analysis. Ecol Monogr 46: 327–354</ref>
+
+: <math> V = \frac{ H - \operatorname E( H ) }{ \operatorname{SD}( H ) } </math>
+
+where ''H'' is the Shannon entropy, ''E''(''H'') is the expected Shannon entropy for a neutral model of distribution and ''SD''(''H'') is the standard deviation of the entropy. The standard deviation is estimated from the formula derived by Pielou
+
+: <math> SD( H ) = \frac{ 1 }{ N } \left[ \sum p_i [ \log_e( p_i ) ]^2 - H^2 \right] </math>
+
+where ''p''<sub>''i''</sub> is the proportion made up by the ''i''<sup>th</sup> category and ''N'' is the total in the sample.
+
+===Lloyd & Ghelardi's index===
+
+This is
+
+: <math> I_{ LG } = \frac{ K }{ K' } </math>
+
+where ''K'' is the number of categories and ''K''' is the number of categories according to MacArthur's broken stick model yielding the observed diversity.
+
+===Average taxonomic distinctness index===
+
+This index is used to compare the relationship between hosts and their parasites.<ref name=Poulin2003>{{cite journal | last1 = Poulin | first1 = R | last2 = Mouillot | first2 = D | year = 2003 | title = Parasite specialization from a phylogenetic perspective: a new index of host specificity | journal = Parasitology | volume = 126 | issue = 5| pages = 473–480 | doi=10.1017/s0031182003002993| pmid = 12793652 | citeseerx = 10.1.1.574.7432 | s2cid = 9440341 }}</ref> It incorporates information about the phylogenetic relationship amongst the host species.
+
+: <math> S_{TD} =  2 \frac{ \sum \sum_{ i < j } \omega_{ ij } }{ s( s - 1 ) }</math>
+
+where ''s'' is the number of host species used by a parasite and ''ω''<sub>''ij''</sub> is the taxonomic distinctness between host species ''i'' and ''j''.
+
+===Index of qualitative variation===
+
+Several indices with this name have been proposed.
+
+One of these is
+
+: <math> IQV = \frac{ K ( 100^2 - \sum_{ i = 1 }^K p_i^2 ) }{ 100^2 ( K - 1 ) } = \frac{ K }{ K - 1 } ( 1 - \sum_{ i = 1 }^K ( p_i / 100 )^2 )</math>
+
+where ''K'' is the number of categories and ''p''<sub>i</sub> is the proportion of the sample that lies in the i<sup>th</sup> category.
+
+===Theil's H===
+
+This index is also known as the multigroup entropy index or the information theory index. It was proposed by Theil in 1972.<ref name=Theirl1982>Theil H (1972) Statistical decomposition analysis. Amsterdam: North-Holland Publishing Company></ref> The index is a weighted average of the samples entropy.
+
+Let
+
+: <math> E_a = \sum_{i = 1}^a p_i log ( p_i ) </math>
+
+and
+
+<math> H = \sum_{ i = 1 }^r \frac{ n_i ( E - E_i ) }{ NE } </math>
+
+where ''p''<sub>i</sub> is the proportion of type ''i'' in the ''a''<sup>th</sup> sample, ''r'' is the total number of samples, ''n''<sub>i</sub> is the size of the ''i''<sup>th</sup> sample, ''N'' is the size of the population from which the samples were obtained and ''E'' is the entropy of the population.
+
+==Indices for comparison of two or more data types within a single sample==
+
+Several of these indexes have been developed to document the degree to which different data types of interest may coexist within a geographic area.
+
+===Index of dissimilarity===
+
+Let ''A'' and ''B'' be two types of data item. Then the index of dissimilarity is
+
+:<math> D = \frac{ 1 }{ 2 } \sum_{ i = 1 }^K \left| \frac{ A_i }{ A } - \frac{ B_i }{ B } \right| </math>
+
+where
+
+:<math> A = \sum_{ i = 1 }^K A_i </math>
+
+:<math> B = \sum_{ i = 1 }^K B_i </math>
+
+''A''<sub>''i''</sub> is the number of data type ''A'' at sample site ''i'', ''B''<sub>''i''</sub> is the number of data type ''B'' at sample site ''i'', ''K'' is the number of sites sampled and || is the absolute value.
+
+This index is probably better known as the [[index of dissimilarity]] (''D'').<ref name=Duncan1955>Duncan OD, Duncan B (1955) A methodological analysis of segregation indexes. Am Sociol Review, 20: 210–217</ref> It is closely related to the Gini index.
+
+This index is biased as its expectation under a uniform distribution is > 0.
+
+A modification of this index has been proposed by Gorard and Taylor.<ref name=Gorard2002>Gorard S, Taylor C (2002b) What is segregation? A comparison of measures in terms of 'strong' and 'weak' compositional invariance. Sociology, 36(4), 875–895</ref> Their index (GT) is
+
+: <math> GT = D \left( 1 - \frac{ A }{ A + B } \right)</math>
+
+===Index of segregation===
+
+The index of segregation (''IS'')<ref name=Massey1988>{{cite journal | last1 = Massey | first1 = DS | last2 = Denton | first2 = NA | year = 1988 | title = The dimensions of residential segregation | journal = Social Forces | volume = 67 | issue = 2| pages = 281–315 | doi=10.1093/sf/67.2.281| doi-access = free }}</ref> is
+
+:<math> SI = \frac{ 1 }{ 2 }\sum_{ i = 1 }^K \left| \frac{ A_i }{ A } - \frac{ t_i - A_i }{ T - A } \right| </math>
+
+where
+
+:<math> A = \sum_{ i = 1 }^K A_i </math>
+
+:<math> T = \sum_{ i = 1 }^K t_i </math>
+
+and ''K'' is the number of units, ''A''<sub>''i''</sub> and ''t''<sub>''i''</sub> is the number of data type ''A'' in unit ''i'' and the total number of all data types in unit ''i''.
+
+===Hutchen's square root index===
+
+This index (''H'') is defined as<ref name=Hutchens2004>Hutchens RM (2004) One measure of segregation. International Economic Review 45: 555–578</ref>
+
+: <math> H = 1 - \sum_{ i = 1}^K \sum_{ j = 1 }^i \sqrt{ p_i p_j } </math>
+
+where ''p''<sub>''i''</sub> is the proportion of the sample composed of the ''i''<sup>th</sup> variate.
+
+===Lieberson's isolation index===
+{{see also|isolation index}}
+This index ( ''L''<sub>''xy''</sub> ) was invented by Lieberson in 1981.<ref name=Lieberson1981>{{cite book|author1-link=Stanley Lieberson|vauthors=Lieberson S|date=1981|chapter=An asymmetrical approach to segregation|veditors=Peach C, Robinson V, Smith S|title=Ethnic segregation in cities|location=London|publisher=Croom Helm|pages=61–82}}</ref>
+
+: <math> L_{xy} = \frac 1 N \sum_{i = 1}^K \frac{ X_i Y_i }{ X_\mathrm{tot} } </math>
+
+where ''X''<sub>''i''</sub> and ''Y''<sub>''i''</sub> are the variables of interest at the ''i''<sup>th</sup> site, ''K'' is the number of sites examined and ''X''<sub>tot</sub> is the total number of variate of type ''X'' in the study.
+
+===Bell's index===
+
+This index is defined as<ref name=Bell1954>{{cite journal | last1 = Bell | first1 = W | year = 1954 | title = A probability model for the measurement of ecological segregation | journal = Social Forces | volume = 32 | issue = 4| pages = 357–364 | doi=10.2307/2574118| jstor = 2574118 }}</ref>
+
+: <math> I_R = \frac{ p_{ xx } - p_x } { 1 - p_x } </math>
+
+where ''p''<sub>''x''</sub> is the proportion of the sample made up of variates of type ''X'' and
+
+: <math> p_{xx} = \frac{ \sum_{ i = 1 }^K x_i p_i }{ N_x } </math>
+
+where ''N''<sub>x</sub> is the total number of variates of type ''X'' in the study, ''K'' is the number of samples in the study and ''x''<sub>''i''</sub> and ''p''<sub>''i''</sub> are the number of variates and the proportion of variates of type ''X'' respectively in the ''i''<sup>th</sup> sample.
+
+===Index of isolation===
+
+The index of isolation is
+
+:<math> II = \sum_{ i = 1 }^K \frac{ A_i }{ A } \frac{ A_i }{ t_i } </math>
+
+where ''K'' is the number of units in the study, ''A''<sub>''i''</sub> and ''t''<sub>''i''</sub> is the number of units of type ''A'' and the number of all units in ''i''<sub>th</sub> sample.
+
+A modified index of isolation has also been proposed
+
+:<math> MII = \frac{ II - \frac{ A }{ T } }{ 1 - \frac{ A }{ T } } </math>
+
+The ''MII'' lies between 0 and 1.
+
+===Gorard's index of segregation===
+
+This index (GS) is defined as
+
+:<math> GS = \frac 1 2 \sum_{i = 1}^K \left| \frac{A_i} A - \frac{t_i} T  \right| </math>
+
+where
+
+:<math> A = \sum_{ i = 1 }^K A_i </math>
+
+:<math> T = \sum_{ i = 1 }^K t_i </math>
+
+and ''A''<sub>''i''</sub> and ''t''<sub>''i''</sub> are the number of data items of type ''A'' and the total number of items in the ''i''<sup>th</sup> sample.
+
+===Index of exposure===
+
+This index is defined as
+
+: <math> IE = \sum_{ i = 1 }^K \frac{ A_i }{ A } \frac{ B_i }{ t_i } </math>
+
+where
+
+:<math> A = \sum_{ i = 1 }^K A_i </math>
+
+and ''A''<sub>''i''</sub> and ''B''<sub>''i''</sub>  are the number of types ''A'' and ''B'' in the ''i''<sup>th</sup> category and ''t''<sub>''i''</sub> is the total number of data points in the ''i''<sup>th</sup> category.
+
+===Ochiai index===
+
+This is a binary form of the cosine index.<ref name=Ochiai1957>Ochiai A (1957) Zoogeographic studies on the soleoid fishes found in Japan and its neighbouring regions. Bull Jpn Soc Sci Fish 22: 526–530</ref> It is used to compare presence/absence data of two data types (here ''A'' and ''B''). It is defined as
+
+: <math> O = \frac{ a }{ \sqrt{ ( a + b )( a + c ) } } </math>
+
+where ''a'' is the number of sample units where both ''A'' and ''B'' are found, ''b'' is number of sample units where ''A'' but not ''B'' occurs and ''c'' is the number of sample units where type ''B'' is present but not type ''A''.
+
+===Kulczyński's coefficient===
+
+This coefficient was invented by [[Stanisław Kulczyński]] in 1927<ref name=Kulczynski1927>Kulczynski S (1927) Die Pflanzenassoziationen der Pieninen. Bulletin International de l'Académie Polonaise des Sciences et des Lettres, Classe des Sciences</ref> and is an index of association between two types (here ''A'' and ''B''). It varies in value between 0 and 1. It is defined as
+
+: <math> K = \frac{ a }{ 2 } \left( \frac{ 1 }{ a + b } + \frac{ 1 }{ a + c } \right) </math>
+
+where ''a'' is the number of sample units where type ''A'' and type ''B'' are present, ''b'' is the number of sample units where type ''A'' but not type ''B'' is present and ''c'' is the number of sample units where type ''B'' is present but not type ''A''.
+
+===Yule's Q===
+
+This index was invented by Yule in 1900.<ref name=Yule1900>Yule GU (1900) On the association of attributes in statistics. Philos Trans Roy Soc</ref> It concerns the association of two different types (here ''A'' and ''B''). It is defined as
+
+: <math> Q = \frac{ ad - bc }{ ad + bc }</math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A'' and ''d'' is the sample count where neither type ''A'' nor type ''B'' are present. ''Q'' varies in value between -1 and +1. In the ordinal case ''Q'' is known as the Goodman-Kruskal ''γ''.
+
+Because the denominator potentially may be zero, Leinhert and Sporer have recommended adding +1 to ''a'', ''b'', ''c'' and ''d''.<ref name=Lienert1982>Lienert GA and Sporer SL (1982) Interkorrelationen seltner Symptome mittels Nullfeldkorrigierter YuleKoeffizienten. Psychologische Beitrage 24: 411–418</ref>
+
+===Yule's Y===
+
+This index is defined as
+
+: <math> Y = \frac{ \sqrt{ ad } - \sqrt{ bc } }{ \sqrt{ ad } + \sqrt{ bc } }</math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A'' and ''d'' is the sample count where neither type ''A'' nor type ''B'' are present.
+
+===Baroni–Urbani–Buser coefficient===
+
+This index was invented by Baroni-Urbani and Buser in 1976.<ref name=Baroni-Urbani1976>{{cite journal | last1 = Baroni-Urbani | first1 = C | last2 = Buser | first2 = MW | year = 1976 | title = similarity of binary Data | journal = Systematic Biology | volume = 25 | issue = 3| pages = 251–259 | doi=10.2307/2412493| jstor = 2412493 }}</ref> It varies between 0 and 1 in value. It is defined as
+
+<math> BUB = \frac{ \sqrt{ ad } + a }{ \sqrt{ ad } + a + b + c } = \frac{ \sqrt{ ad } + a }{ N + \sqrt{ ad } - d } = 
+1 - \frac{ N - ( a - d ) }{ N + \sqrt{ ad } - d } </math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A'' and ''d'' is the sample count where neither type ''A'' nor type ''B'' are present. ''N'' is the sample size.
+
+When ''d'' = 0, this index is identical to the Jaccard index.
+
+===Hamman coefficient===
+
+This coefficient is defined as
+
+: <math> H = \frac{ ( a + d ) - ( b + c ) }{ a + b + c + d } = \frac{ ( a + d ) - ( b + c ) }{ N } </math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A'' and ''d'' is the sample count where neither type ''A'' nor type ''B'' are present. ''N'' is the sample size.
+
+===Rogers–Tanimoto coefficient===
+
+This coefficient is defined as
+
+: <math> RT = \frac{ a + d }{ a + 2( b + c ) + d } = \frac{ a + d }{ N + b + c }</math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A'' and ''d'' is the sample count where neither type ''A'' nor type ''B'' are present. ''N'' is the sample size
+
+===Sokal–Sneath coefficient===
+
+This coefficient is defined as
+
+: <math> SS = \frac{ 2( a + d ) }{ 2( a + d ) + b + c } = \frac{ 2( a + d ) }{ N + a + d }</math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A'' and ''d'' is the sample count where neither type ''A'' nor type ''B'' are present. ''N'' is the sample size.
+
+===Sokal's binary distance===
+
+This coefficient is defined as
+
+: <math> SBD = \sqrt{ \frac{ b + c }{ a + b + c + d } } = \sqrt{ \frac{ b + c }{ N } }</math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A'' and ''d'' is the sample count where neither type ''A'' nor type ''B'' are present. ''N'' is the sample size.
+
+===Russel–Rao coefficient===
+
+This coefficient is defined as
+
+: <math> RR = \frac{ a }{ a + b + c + d } = \frac{ a }{ N } </math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A'' and ''d'' is the sample count where neither type ''A'' nor type ''B'' are present. ''N'' is the sample size.
+
+===Phi coefficient===
+
+This coefficient is defined as
+
+: <math> \varphi = \frac{ ad - bc }{ \sqrt{ ( a + b ) ( a + c ) ( b + c ) ( c + d ) } } </math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A'' and ''d'' is the sample count where neither type ''A'' nor type ''B'' are present.
+
+===Soergel's coefficient===
+
+This coefficient is defined as
+
+: <math> S = \frac{ b + c }{ b + c + d } = \frac{ b + c }{ N - a }</math>
+
+where ''b'' is the number of samples where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A'' and ''d'' is the sample count where neither type ''A'' nor type ''B'' are present. ''N'' is the sample size.
+
+===Simpson's coefficient===
+
+This coefficient is defined as
+
+: <math> S = \frac{ a }{ a + \min( b, c ) } </math>
+
+where ''b'' is the number of samples where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A''.
+
+===Dennis' coefficient===
+
+This coefficient is defined as
+
+: <math> D = \frac{ ad - bc }{ \sqrt{ ( a + b + c + d ) ( a + b ) ( a + c ) } } = \frac{ ad - bc }{ \sqrt{ N ( a + b ) ( a + c ) } }</math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A'' and ''d'' is the sample count where neither type ''A'' nor type ''B'' are present. ''N'' is the sample size.
+
+===Forbes' coefficient===
+
+This coefficient was proposed by [[Stephen Alfred Forbes]] in 1907.<ref name=Forbes1907>Forbes SA (1907) On the local distribution of certain Illinois fishes: an essay in statistical ecology. Bulletin of the Illinois State Laboratory of Natural History 7:272–303</ref> It is defined as
+
+: <math> F = \frac{ a N  }{ ( a + b ) ( a + c ) } </math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A'' and ''d'' is the sample count where neither type ''A'' nor type ''B'' are present. ''N'' is the sample size (''N = a + b + c + d'').
+
+A modification of this coefficient which does not require the knowledge of ''d'' has been proposed by Alroy<ref name=Alroy2015>Alroy J (2015) A new twist on a very old binary similarity coefficient. Ecology 96 (2) 575-586</ref>
+
+: <math> F_{ A } = \frac{ a ( n + \sqrt{ n } ) } { a ( n + \sqrt{ n } ) + \frac{ 3 }{ 2 } bc } = 1 - \frac{ 3 bc } { 2 a ( n + \sqrt{ n } ) + 3 bc }</math>
+
+Where ''n = a + b + c''.
+
+===Simple match coefficient===
+
+This coefficient is defined as
+
+: <math> SM = \frac{ a + d  }{ a + b + c + d } = \frac{ a + d  }{ N }</math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A'' and ''d'' is the sample count where neither type ''A'' nor type ''B'' are present. ''N'' is the sample size.
+
+===Fossum's coefficient===
+
+This coefficient is defined as
+
+: <math> F = \frac{ ( a + b + c + d ) ( a - 0.5 )^2 }{ ( a + b ) ( a + c ) } = \frac{ N ( a - 0.5 )^2 }{ ( a + b ) ( a + c ) }</math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A'' and ''d'' is the sample count where neither type ''A'' nor type ''B'' are present. ''N'' is the sample size.
+
+===Stile's coefficient===
+
+This coefficient is defined as
+
+: <math> S = \log \left[ \frac{ n ( | ad - bc | - \frac{ n }{ 2 } )^2 }{ ( a + b ) ( a + c ) ( b + d )( c + d ) } \right] </math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A'', ''d'' is the sample count where neither type ''A'' nor type ''B'' are present, ''n'' equals ''a'' + ''b'' + ''c'' + ''d'' and || is the modulus (absolute value) of the difference.
+
+===Michael's coefficient===
+
+This coefficient is defined as
+
+: <math> M = \frac{ 4 ( ad - bc ) }{ ( a + d )^2 + ( b + c )^2 } </math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A'' and ''d'' is the sample count where neither type ''A'' nor type ''B'' are present.
+
+===Peirce's coefficient===
+
+In 1884 [[Charles Peirce]] suggested<ref>
+{{cite book
+ |last=Carl R. Hausman and Douglas R. Anderson
+ |date=2012
+ |title=Conversations on Peirce: Reals and Ideals
+ |publisher=Fordham University Press
+ |page= 221
+ |isbn= 9780823234677
+}}
+</ref> the following coefficient
+
+: <math> P = \frac{ ab + bc  }{ ab + 2bc + cd } </math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A'' and ''d'' is the sample count where neither type ''A'' nor type ''B'' are present.
+
+===Hawkin–Dotson coefficient===
+
+In 1975 Hawkin and Dotson proposed the following coefficient
+
+: <math> HD = \frac{ 1 }{ 2 } \left( \frac{ a }{ a + b + c } + \frac{ d }{ b + c + d }
+\right) = \frac{ 1 }{ 2 } \left( \frac{ a }{ N - d } + \frac{ d }{ N - a }
+\right)  </math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A'' and ''d'' is the sample count where neither type ''A'' nor type ''B'' are present. ''N'' is the sample size.
+
+===Benini coefficient===
+
+In 1901 Benini proposed the following coefficient
+
+: <math> B = \frac{ a - ( a + b )( a + c ) } { a + \min( b, c ) - ( a + b )( a + c ) } </math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'' and ''c'' is the number of samples where type ''B'' is present but not type ''A''. Min(''b'', ''c'') is the minimum of ''b'' and ''c''.
+
+===Gilbert coefficient===
+
+Gilbert proposed the following coefficient
+
+: <math> G = \frac{ a - ( a + b )( a + c ) } { a + b + c - ( a + b )( a + c ) } = \frac{ a - ( a + b )( a + c ) } { N - ( a + b )( a + c ) - d }</math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A'' and ''d'' is the sample count where neither type ''A'' nor type ''B'' are present. ''N'' is the sample size.
+
+===Gini index===
+
+The Gini index is
+
+: <math> G = \frac{ a - ( a + b )( a + c ) } { \sqrt{ ( 1 - ( a + b )^2 ) ( 1 - ( a + c )^2 ) } } </math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'' and ''c'' is the number of samples where type ''B'' is present but not type ''A''.
+
+===Modified Gini index===
+
+The modified Gini index is
+
+: <math> G_M = \frac{ a - ( a + b )( a + c ) } { 1 - \frac{ | b - c | }{ 2 } - ( a + b )( a + c ) } </math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'' and ''c'' is the number of samples where type ''B'' is present but not type ''A''.
+
+===Kuhn's index===
+
+Kuhn proposed the following coefficient in 1965
+
+: <math> I = \frac{ 2 ( ad - bc ) }{ K ( 2a + b + c ) } = \frac{ 2 ( ad - bc ) }{ K ( N + a - d ) }</math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'' and ''c'' is the number of samples where type ''B'' is present but not type ''A''. ''K'' is a normalizing parameter. ''N'' is the sample size.
+
+This index is also known as the coefficient of arithmetic means.
+
+===Eyraud index===
+
+Eyraud proposed the following coefficient in 1936
+
+: <math> I = \frac{ a - ( a + b )( a + c ) }{ ( a + c )( a + d )( b + d )( c + d ) } </math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A'' and ''d'' is the number of samples where both ''A'' and ''B'' are not present.
+
+===Soergel distance===
+
+This is defined as
+
+: <math> \operatorname{SD} = \frac{ b + c }{ b + c + d } = \frac{ b + c }{ N - a } </math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A'' and ''d'' is the number of samples where both ''A'' and ''B'' are not present. ''N'' is the sample size.
+
+===Tanimoto index===
+
+This is defined as
+
+: <math>TI =  1 - \frac{ a }{ b + c + d } = 1 - \frac{ a }{ N - a }=  \frac{ N - 2a }{ N - a }</math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A'' and ''d'' is the number of samples where both ''A'' and ''B'' are not present. ''N'' is the sample size.
+
+===Piatetsky–Shapiro's index===
+
+This is defined as
+
+: <math> PSI = a - bc </math>
+
+where ''a'' is the number of samples where types ''A'' and ''B'' are both present, ''b'' is where type ''A'' is present but not type ''B'', ''c'' is the number of samples where type ''B'' is present but not type ''A''.
+
+==Indices for comparison between two or more samples==
+
+===Czekanowski's quantitative index===
+
+This is also known as the [[Bray–Curtis dissimilarity|Bray–Curtis index]], Schoener's index, least common percentage index, index of affinity or proportional similarity. It is related to the [[Sørensen similarity index]].
+
+: <math> CZI = \frac{ \sum \min( x_i, x_j ) }{ \sum ( x_i + x_j ) }</math>
+
+where ''x''<sub>''i''</sub> and ''x''<sub>''j''</sub> are the number of species in sites ''i'' and ''j'' respectively and the minimum is taken over the number of species in common between the two sites.
+
+===Canberra metric===
+
+The [[Canberra distance]] is a weighted version of the ''L''<sub>1</sub> metric. It was introduced by introduced in 1966<ref>{{cite journal|last1=Lance|first1=G. N.|last2=Williams|first2=W. T.|author2-link=W. T. Williams|title=Computer programs for hierarchical polythetic classification ("similarity analysis").|journal=Computer Journal|year=1966|volume=9|issue=1|pages=60–64|doi=10.1093/comjnl/9.1.60|doi-access=free}}</ref> and refined in 1967<ref name=Lance>{{cite journal|last1=Lance|first1=G. N.|last2=Williams|first2=W. T.|author2-link=W. T. Williams|title=Mixed-data classificatory programs I.) Agglomerative Systems|journal=Australian Computer Journal|year=1967|pages=15–20}}</ref> by G. N. Lance and [[W. T. Williams]]. It is used to define a distance between two vectors – here two sites with ''K'' categories within each site.
+
+The Canberra distance ''d'' between vectors '''p''' and '''q''' in a ''K''-dimensional [[real number|real]] [[vector space]] is
+
+:<math> d ( \mathbf{ p }, \mathbf{ q } ) = \sum_{ i = 1 }^n \frac{ |p_i - q_i |}{ | p_i| + |q_i | } </math>
+
+where ''p''<sub>''i''</sub> and ''q''<sub>''i''</sub> are the values of the ''i''<sup>th</sup> category of the two vectors.
+
+===Sorensen's coefficient of community===
+
+This is used to measure similarities between communities.
+
+: <math> CC = \frac{ 2c } { s_1 + s_2 } </math>
+
+where ''s''<sub>1</sub> and ''s''<sub>2</sub> are the number of species in community 1 and 2 respectively and ''c'' is the number of species common to both areas.
+
+===Jaccard's index===
+
+This is a measure of the similarity between two samples:
+
+: <math> J = \frac A { A + B + C } </math>
+
+where ''A'' is the number of data points shared between the two samples and ''B'' and ''C'' are the data points found only in the first and second samples respectively.
+
+This index was invented in 1902 by the Swiss botanist [[Paul Jaccard]].<ref name=Jaccard1902>Jaccard P (1902) Lois de distribution florale. Bulletin de la Socíeté Vaudoise des Sciences Naturelles 38:67-130</ref>
+
+Under a random distribution the expected value of ''J'' is<ref name=Archer1989>Archer AW and Maples CG (1989) Response of selected binomial coefficients to varying degrees of matrix sparseness and to matrices with known data interrelationships. Mathematical Geology 21: 741–753</ref>
+
+: <math> J = \frac 1 A \left( \frac 1 { A + B + C } \right)</math>
+
+The standard error of this index with the assumption of a random distribution is
+
+<math> SE( J ) = \sqrt{ \frac{ A ( B + C ) } { N ( A + B + C )^3 } }</math>
+
+where ''N'' is the total size of the sample.
+
+===Dice's index===
+
+This is a measure of the similarity between two samples:
+
+: <math> D = \frac{ 2A }{ 2A + B + C } </math>
+
+where ''A'' is the number of data points shared between the two samples and ''B'' and ''C'' are the data points found only in the first and second samples respectively. {{see also|Sørensen–Dice coefficient}}
+
+===Match coefficient===
+
+This is a measure of the similarity between two samples:
+
+: <math> M = \frac{ N - B - C }{ N } = 1 - \frac{ B + C }{ N }</math>
+
+where ''N'' is the number of data points in the two samples and ''B'' and ''C'' are the data points found only in the first and second samples respectively.
+
+===Morisita's index===
+
+[[Masaaki Morisita]]'s index of dispersion ( ''I''<sub>''m''</sub> ) is the scaled probability that two points chosen at random from the whole population are in the same sample.<ref name=Morisita1959>Morisita M (1959) Measuring the dispersion and the analysis of distribution patterns. Memoirs of the Faculty of Science, Kyushu University Series E. Biol 2:215–235</ref> Higher values indicate a more clumped distribution.
+
+: <math> I_m =  \frac { \sum x ( x - 1 ) } { n m ( m - 1 ) } </math>
+
+An alternative formulation is
+
+: <math> I_m = n \frac{ \sum x^2 - \sum x } { \left( \sum x \right)^2 - \sum x  } </math>
+
+where ''n'' is the total sample size, ''m'' is the sample mean and ''x'' are the individual values with the sum taken over the whole sample. It is also equal to
+
+: <math> I_m = \frac { n\ IMC } { nm - 1 } </math>
+
+where ''IMC'' is Lloyd's index of crowding.<ref name=Lloyd1967>Lloyd M (1967) Mean crowding. J Anim Ecol 36: 1–30</ref>
+
+This index is relatively independent of the population density but is affected by the sample size.
+
+Morisita showed that the statistic<ref name="Morisita1959"/>
+
+: <math> I_m \left( \sum x - 1 \right) + n - \sum x </math>
+
+is distributed as a chi-squared variable with ''n''&nbsp;&minus;&nbsp;1 degrees of freedom.
+
+An alternative significance test for this index has been developed for large samples.<ref name=Pedigo1994>Pedigo LP & Buntin GD (1994) Handbook of sampling methods for arthropods in agriculture. CRC Boca Raton FL</ref>
+
+: <math> z = \frac { I_m - 1 } { 2 / n m^2 } </math>
+
+where ''m'' is the overall sample mean, ''n'' is the number of sample units and ''z'' is the normal distribution [[abscissa]]. Significance is tested by comparing the value of ''z'' against the values of the [[normal distribution]].
+
+===Morisita's overlap index===
+
+Morisita's overlap index is used to compare overlap among samples.<ref name=Morisita1959a>Morisita M (1959) Measuring of the dispersion and analysis of distribution patterns. Memoirs of the Faculty of Science, Kyushu University, Series E Biology. 2: 215–235</ref>  The index is based on the assumption that increasing the size of the samples will increase the diversity because it will include different habitats
+
+: <math>
+
+C_D = \frac{ 2 \sum_{ i = 1 }^S x_i y_i } { ( D_x + D_y ) XY }
+
+</math>
+
+: ''x''<sub>''i''</sub> is the number of times species ''i'' is represented in the total ''X'' from one sample.
+: ''y''<sub>''i''</sub> is the number of times species ''i'' is represented in the total ''Y'' from another sample.
+: ''D''<sub>''x''</sub> and ''D''<sub>''y''</sub> are the [[Simpson's index]] values for the ''x'' and ''y'' samples respectively.
+: ''S'' is the number of unique species
+
+''C''<sub>''D''</sub> = 0 if the two samples do not overlap in terms of species, and ''C''<sub>''D''</sub> = 1 if the species occur in the same proportions in both samples.
+
+Horn's introduced a modification of the index<ref name=Horn1966b>{{cite journal | last1 = Horn | first1 = HS | year = 1966 | title = Measurement of "Overlap" in comparative ecological studies | journal = The American Naturalist | volume = 100 | issue = 914| pages = 419–424 | doi=10.1086/282436| s2cid = 84469180 }}</ref>
+
+:<math>
+
+C_H = \frac{ 2 \sum_{ i = 1 }^S x_i y_i }{ \left( { \sum_{ i = 1}^S x_i^2 \over X^2 } + {\sum_{ i = 1 }^S y_i^2 \over Y^2 } \right) X Y }
+
+</math>
+
+===Standardised Morisita's index===
+
+Smith-Gill developed a statistic based on Morisita's index which is independent of both sample size and population density and bounded by −1 and +1. This statistic is calculated as follows<ref name=Smith-Gill1975>{{cite journal|vauthors=Smith-Gill SJ|date=1975|title=Cytophysiological basis of disruptive pigmentary patterns in the leopard frog ''Rana pipiens''. II. Wild type and mutant cell specific patterns|journal=J Morphol|volume=146|issue=1|pages=35–54|doi=10.1002/jmor.1051460103|pmid=1080207|s2cid=23780609}}</ref>
+
+First determine Morisita's index ( ''I''<sub>''d''</sub> ) in the usual fashion. Then let ''k'' be the number of units the population was sampled from. Calculate the two critical values
+
+: <math> M_u = \frac { \chi^2_{ 0.975 } - k + \sum x } { \sum x - 1 } </math>
+
+: <math> M_c = \frac { \chi^2_{ 0.025 } - k + \sum x } { \sum x - 1 } </math>
+
+where χ<sup>2</sup> is the chi square value for ''n''&nbsp;−&nbsp;1 degrees of freedom at the 97.5% and 2.5% levels of confidence.
+
+The standardised index ( ''I''<sub>''p''</sub> ) is then calculated from one of the formulae below
+
+When ''I''<sub>''d''</sub> ≥ ''M''<sub>''c''</sub> > 1
+
+: <math> I_p = 0.5 + 0.5 \left( \frac { I_d - M_c } { k - M_c } \right) </math>
+
+When ''M''<sub>''c''</sub> > ''I''<sub>''d''</sub> ≥ 1
+
+: <math> I_p = 0.5 \left( \frac { I_d - 1 } { M_u - 1 } \right) </math>
+
+When 1 > ''I''<sub>''d''</sub> ≥ ''M''<sub>''u''</sub>
+
+: <math> I_p = -0.5 \left( \frac { I_d - 1 } { M_u - 1 } \right) </math>
+
+When 1 > ''M''<sub>''u''</sub> > ''I''<sub>''d''</sub>
+
+: <math> I_p = -0.5 + 0.5 \left( \frac { I_d - M_u } { M_u } \right) </math>
+
+''I''<sub>''p''</sub> ranges between +1 and −1 with 95% confidence intervals of ±0.5. ''I''<sub>''p''</sub> has the value of 0 if the pattern is random; if the pattern is uniform, ''I''<sub>''p''</sub> < 0 and if the pattern shows aggregation, ''I''<sub>''p''</sub> > 0.
+
+===Peet's evenness indices===
+
+These indices are a measure of evenness between samples.<ref name=Peet1974>Peet (1974) The measurements of species diversity. Annu Rev Ecol Syst 5: 285–307</ref>
+
+: <math> E_1 = \frac{ I - I_\min }{ I_\max - I_\min }</math>
+
+: <math> E_2 = \frac{ I }{ I_\max } </math>
+
+where ''I'' is an index of diversity, ''I''<sub>max</sub> and ''I''<sub>min</sub> are the maximum and minimum values of ''I'' between the samples being compared.
+
+===Loevinger's coefficient===
+
+Loevinger has suggested a coefficient ''H'' defined as follows:
+
+: <math> H = \sqrt{ \frac{ p_{\max} ( 1- p_{\min} ) } { p_{\min} (1-p_{\max} ) } }</math>
+
+where ''p''<sub>max</sub> and ''p''<sub>min</sub> are the maximum and minimum proportions in the sample.
+
+===Tversky index===
+
+The Tversky index <ref>{{cite journal |last=Tversky |first=Amos |title=Features of Similarity |journal=Psychological Review |volume=84 |number=4 |year=1977 |pages=327–352 |url=http://www.cogsci.ucsd.edu/~coulson/203/tversky-features.pdf |doi=10.1037/0033-295x.84.4.327}}</ref> is an asymmetric measure that lies between 0 and 1.
+ 
+For samples ''A'' and ''B'' the Tversky index (''S'') is
+
+: <math> S = \frac{ | A \cap B | }{ | A \cap B | + \alpha | A - B | + \beta | B - A | } </math>
+
+The values of ''α'' and ''β'' are arbitrary. Setting both ''α'' and ''β'' to 0.5 gives [[Dice's coefficient]]. Setting both to 1 gives [[Jaccard index|Tanimoto's coefficient]].
+
+A symmetrical variant of this index has also been proposed.<ref name=Jimenez2013>Jimenez S, Becerra C, Gelbukh A [http://aclweb.org/anthology/S/S13/S13-1028.pdf SOFTCARDINALITY-CORE: Improving text overlap with distributional measures for semantic textual similarity. Second Joint Conference on Lexical and Computational Semantics (*SEM), Volume 1: Proceedings of the main conference and the shared task: semantic textual similarity, p194-201. June 7–8, 2013, Atlanta, Georgia, USA]</ref>
+
+: <math> S_1 = \frac{ | A \cap B | }{ | A \cap B |+ \beta \left( \alpha a + ( 1 - \alpha )b \right) }</math>
+
+where
+
+: <math> a = \min \left( | X - Y |, | Y - X |\right ) </math>
+
+: <math> b = \max \left( | X - Y |, | Y - X | \right) </math>
+
+Several similar indices have been proposed.
+
+Monostori ''et al.'' proposed the SymmetricSimilarity index<ref name=Monostori2002>Monostori K, Finkel R, Zaslavsky A, Hodasz G and Patke M (2002) Comparison of overlap detection techniques. In: Proceedings of the 2002 International Conference on Computational Science. Lecture Notes in Computer Science 2329: 51-60</ref>
+
+: <math> SS( A, B )  = \frac{ | d( A ) \cap d( B ) | }{ | d( A ) + d( B ) | } </math>
+
+where ''d''(''X'') is some measure of derived from&nbsp;''X''.
+
+Bernstein and Zobel have proposed the S2 and S3 indexes<ref name=Bernstein2004>Bernstein Y and Zobel J (2004) A scalable system for identifying co-derivative documents. In: Proceedings of 11th International Conference on String Processing and Information Retrieval (SPIRE) 3246: 55-67</ref>
+
+: <math> S2 = \frac{ | d( A ) \cap d( B ) | }{ \min ( | d( A ) |, | d( B ) ) | } </math>
+
+: <math> S3 = \frac{  2 | d( A ) \cap d( B ) | }{ | d( A ) + d( B ) | } </math>
+
+S3 is simply twice the SymmetricSimilarity index. Both are related to Dice's coefficient
+
+==Metrics used==
+
+A number of metrics (distances between samples) have been proposed.
+
+===Euclidean distance===
+
+While this is usually used in quantitative work it may also be used in qualitative work. This is defined as
+
+: <math> d_{ jk } = \sqrt { \sum_{ i = 1 }^N  ( x_{ ij } - x_{ ik } )^2 } </math>
+
+where ''d''<sub>''jk''</sub> is the distance between ''x''<sub>''ij''</sub> and ''x''<sub>''ik''</sub>.
+
+===Gower's distance===
+
+This is defined as
+
+: <math> GD = \frac{ \Sigma_{ i = 1 }^n w_i d_i }{ \Sigma_{ i = 1 }^n w_i } </math>
+
+where ''d''<sub>i</sub> is the distance between the ''i''<sup>th</sup> samples and ''w''<sub>i</sub> is the weighing give to the ''i''<sup>th</sup> distance.
+
+===Manhattan distance===
+
+While this is more commonly used in quantitative work it may also be used in qualitative work. This is defined as
+
+: <math> d_{ jk } = \sum_{ i = 1 }^N  | x_{ ij } - x_{ ik } | </math>
+
+where ''d''<sub>''jk''</sub> is the distance between ''x''<sub>''ij''</sub> and ''x''<sub>''ik''</sub> and || is the [[absolute value]] of the difference between ''x''<sub>''ij''</sub> and ''x''<sub>''ik''</sub>.
+
+A modified version of the Manhattan distance can be used to find a zero ([[Zero of a function|root]]) of a [[polynomial]] of any [[Degree of a polynomial|degree]] using [[Lill's method]].
+
+===Prevosti's distance===
+
+This is related to the Manhattan distance. It was described by Prevosti ''et al.'' and was used to compare differences between [[chromosome]]s.<ref name=Prevosti1988>{{cite journal | last1 = Prevosti | first1 = A | last2 = Ribo | first2 = G | last3 = Serra | first3 = L | last4 = Aguade | first4 = M | last5 = Balanya | first5 = J | last6 = Monclus | first6 = M | last7 = Mestres | first7 = F | year = 1988 | title = Colonization of America by ''Drosophila subobscura'': experiment in natural populations that supports the adaptive role of chromosomal inversion polymorphism | journal = Proc Natl Acad Sci USA | volume = 85 | issue = 15| pages = 5597–5600 | doi=10.1073/pnas.85.15.5597| pmid = 16593967 | pmc = 281806 | bibcode = 1988PNAS...85.5597P | doi-access = free }}</ref> Let ''P'' and ''Q'' be two collections of ''r'' finite probability distributions. Let these distributions have values that are divided into ''k'' categories. Then the distance ''D''<sub>PQ</sub> is
+
+: <math> D_{PQ} = \frac{ 1 }{ r } \sum_{ j = 1 }^r \sum_{ i = 1 }^k | p_{ ji } - q_{ ji } |</math>
+
+where ''r'' is the number of discrete probability distributions in each population, ''k''<sub>''j''</sub> is the number of categories in distributions ''P''<sub>''j''</sub> and ''Q''<sub>''j''</sub> and ''p''<sub>''ji''</sub> (respectively ''q''<sub>''ji''</sub>) is the theoretical probability of category ''i'' in distribution ''P''<sub>''j''</sub> (''Q''<sub>''j''</sub>) in population ''P''(''Q'').
+
+Its statistical properties were examined by Sanchez ''et al.''<ref name=Sanchez2003>{{cite journal | last1 = Sanchez | first1 = A | last2 = Ocana | first2 = J | last3 = Utzetb | first3 = F | last4 = Serrac | first4 = L | year = 2003 | title = Comparison of Prevosti genetic distances | journal = Journal of Statistical Planning and Inference | volume = 109 | issue = 1–2| pages = 43–65 | doi=10.1016/s0378-3758(02)00297-5}}</ref> who recommended a bootstrap procedure to estimate confidence intervals when testing for differences between samples.
+
+===Other metrics===
+
+Let
+
+: <math> A = \sum x_{ ij } </math>
+
+: <math> B = \sum x_{ ik } </math>
+
+: <math> J = \sum \min ( x_{ ij }, x_{ jk } ) </math>
+
+where min(''x'',''y'') is the lesser value of the pair ''x'' and ''y''.
+
+Then
+
+: <math> d_{ jk } = A + B - 2J </math>
+
+is the Manhattan distance,
+
+: <math> d_{ jk } = \frac{ A + B - 2J }{ A + B } </math>
+
+is the Bray−Curtis distance,
+
+: <math> d_{ jk } = \frac{ A + B - 2J }{ A + B - J } </math>
+
+is the Jaccard (or Ruzicka) distance and
+
+: <math> d_{ jk } = 1 - \frac{ 1 }{ 2 } \left( \frac{ J }{ A } + \frac{ J }{ B } \right) </math>
+
+is the Kulczynski distance.
+
+===Similarities between texts===
+
+HaCohen-Kerner et al. have proposed a variety of metrics for comparing two or more texts.<ref name=HaCohen-Kerner2010>HaCohen-Kerner Y, Tayeb A and Ben-Dror N (2010) Detection of simple plagiarism in computer science papers. In: Proceedings of the 23rd International Conference on Computational Linguistics pp 421-429</ref>
+
+==Ordinal data==
+
+If the categories are at least [[ordinal data|ordinal]] then a number of other indices may be computed.
+
+===Leik's D===
+
+Leik's measure of dispersion (''D'') is one such index.<ref name=Leik1966>Leik R (1966) A measure of ordinal consensus. Pacific sociological review 9 (2): 85–90</ref> Let there be ''K'' categories and let ''p''<sub>''i''</sub> be ''f''<sub>''i''</sub>/''N'' where ''f''<sub>''i''</sub> is the number in the ''i''<sup>th</sup> category and let the categories be arranged in ascending order. Let
+
+:<math> c_a = \sum^a_{ i = 1 } p_i </math>
+
+where ''a'' ≤ ''K''. Let ''d''<sub>a</sub> = ''c''<sub>a</sub> if ''c''<sub>a</sub> ≤ 0.5 and 1&nbsp;&minus;&nbsp;''c''<sub>a</sub> ≤ 0.5 otherwise. Then
+
+: <math> D = 2 \sum_{ a = 1 }^K \frac{ d_a }{ K - 1 }</math>
+
+===Normalised Herfindahl measure===
+
+This is the square of the coefficient of variation divided by ''N''&nbsp;−&nbsp;1 where ''N'' is the sample size.
+
+:<math> H = \frac{ 1 }{ N - 1 } \frac{ s^2 }{ m^2 } </math>
+
+where ''m'' is the mean and ''s'' is the standard deviation.
+
+===Potential-for-conflict Index===
+
+The potential-for-conflict Index (PCI) describes the ratio of scoring on either side of a rating scale's centre point.<ref name=Manfredo2003>Manfredo M, Vaske, JJ, Teel TL (2003) The potential for conflict index: A graphic approach tp practical significance of human dimensions research. Human Dimensions of Wildlife 8: 219–228</ref> This index requires at least ordinal data. This ratio is often displayed as a [[bubble graph]].
+
+The PCI uses an ordinal scale with an odd number of rating points (−''n'' to +''n'') centred at 0. It is calculated as follows
+
+: <math> PCI = \frac{ X_t }{ Z } \left[ 1 - \left| \frac{ \sum_{ i = 1 }^{ r_+ } X_+ }{ X_t } - \frac{ \sum _{ i = 1 }^{ r_- } X_-} { X_t } \right| \right] </math>
+
+where ''Z'' = 2''n'', |·| is the [[absolute value]] (modulus), ''r''<sub>+</sub> is the number of responses in the positive side of the scale, ''r''<sub>−</sub> is the number of responses in the negative side of the scale, ''X''<sub>+</sub> are the responses on the positive side of the scale, ''X''<sub>−</sub> are the responses on the negative side of the scale and
+
+:<math> X_t = \sum_{ i = 1 }^{ r_+ } | X_+ | + \sum_{ i = 1 }^{ r_- } | X_- | </math>
+
+Theoretical difficulties are known to exist with the PCI. The PCI can be computed only for scales with a neutral center point and an equal number of response options on either side of it. Also a uniform distribution of responses does not always yield the midpoint of the PCI statistic but rather varies with the number of possible responses or values in the scale. For example, five-, seven- and nine-point scales with a uniform distribution of responses give PCIs of 0.60, 0.57 and 0.50 respectively.
+
+The first of these problems is relatively minor as most ordinal scales with an even number of response can be extended (or reduced) by a single value to give an odd number of possible responses. Scale can usually be recentred if this is required. The second problem is more difficult to resolve and may limit the PCI's applicability.
+
+The PCI has been extended<ref name=Vaske2010>Vaske JJ, Beaman J, Barreto H, Shelby LB (2010) An extension and further validation of the potential for conflict index. Leisure Sciences 32: 240–254</ref>
+
+: <math> PCI_2 = \frac{ \sum_{ i = 1 }^K \sum_{ j = 1 }^i k_i k_j d_{ ij } }{ \delta }</math>
+
+where ''K'' is the number of categories, ''k''<sub>''i''</sub> is the number in the ''i''<sup>th</sup> category, ''d''<sub>''ij''</sub> is the distance between the ''i''<sup>th</sup> and ''i''<sup>th</sup> categories, and ''δ'' is the maximum distance on the scale multiplied by the number of times it can occur in the sample. For a sample with an even number of data points
+
+:<math> \delta = \frac{ N^2 }{ 2 } d_\max </math>
+
+and for a sample with an odd number of data points
+
+:<math> \delta = \frac{ N^2 - 1 }{ 2 } d_\max </math>
+
+where ''N'' is the number of data points in the sample and ''d''<sub>max</sub> is the maximum distance between points on the scale.
+
+Vaske ''et al.'' suggest a number of possible distance measures for use with this index.<ref name="Vaske2010"/>
+
+: <math>D_1: d_{ ij } = | r_i - r_j | - 1 </math>
+
+if the signs (+ or −) of ''r''<sub>''i''</sub> and ''r''<sub>''j''</sub> differ. If the signs are the same ''d''<sub>''ij''</sub> = 0.
+
+: <math> D_2: d_{ ij } = | r_i - r_j | </math>
+
+: <math> D_3: d_{ ij } = | r_i - r_j |^p </math>
+
+where ''p'' is an arbitrary real number > 0.
+
+: <math> Dp_{ ij }: d_{ ij } = [ | r_i - r_j | - ( m - 1 ) ]^p </math>
+
+if sign(''r''<sub>''i''</sub> ) ≠ sign(''r''<sub>''i''</sub> ) and ''p'' is a real number > 0. If the signs are the same then ''d''<sub>''ij''</sub> = 0. ''m'' is ''D''<sub>1</sub>, ''D''<sub>2</sub> or ''D''<sub>3</sub>.
+
+The difference between ''D''<sub>1</sub> and ''D''<sub>2</sub> is that the first does not include neutrals in the distance while the latter does. For example, respondents scoring −2 and +1 would have a distance of 2 under ''D''<sub>1</sub> and 3 under ''D''<sub>2</sub>.
+
+The use of a power (''p'') in the distances allows for the rescaling of extreme responses. These differences can be highlighted with ''p'' > 1 or diminished with ''p'' < 1.
+
+In simulations with a variates drawn from a uniform distribution the PCI<sub>2</sub> has a symmetric unimodal distribution.<ref name="Vaske2010"/> The tails of its distribution are larger than those of a normal distribution.
+
+Vaske ''et al.'' suggest the use of a [[t test]] to compare the values of the PCI between samples if the PCIs are approximately normally distributed.
+
+===van der Eijk's A ===
+
+This measure is a weighted average of the degree of agreement the frequency distribution.<ref name=Van_der_Eijk2001>Van der Eijk C (2001) Measuring agreement in ordered rating scales. Quality and quantity 35(3): 325–341</ref> ''A'' ranges from −1 (perfect [[bimodal]]ity) to +1 (perfect [[unimodal]]ity). It is defined as
+
+: <math> A = U \left( 1 - \frac{ S - 1 }{ K - 1 } \right) </math>
+
+where ''U'' is the unimodality of the distribution, ''S'' the number of categories that have nonzero frequencies and ''K'' the total number of categories.
+
+The value of ''U'' is 1 if the distribution has any of the three following characteristics:
+
+* all responses are in a single category
+* the responses are evenly distributed among all the categories
+* the responses are evenly distributed among two or more contiguous categories, with the other categories with zero responses
+
+With distributions other than these the data must be divided into 'layers'. Within a layer the responses are either equal or zero. The categories do not have to be contiguous. A value for ''A'' for each layer (''A''<sub>''i''</sub>) is calculated and a weighted average for the distribution is determined. The weights (''w''<sub>''i''</sub>) for each layer are the number of responses in that layer. In symbols
+
+:<math> A_\mathrm{overall} = \sum w_i A_i </math>
+
+A [[Uniform distribution (discrete)|uniform distribution]] has ''A'' = 0: when all the responses fall into one category ''A'' = +1.
+
+One theoretical problem with this index is that it assumes that the intervals are equally spaced. This may limit its applicability.
+
+==Related statistics==
+
+===Birthday problem===
+
+If there are ''n'' units in the sample and they are randomly distributed into ''k'' categories (''n'' ≤ ''k''), this can be considered a variant of the [[birthday problem]].<ref name=vonMises1939>Von Mises R (1939) Uber Aufteilungs-und Besetzungs-Wahrcheinlichkeiten. Revue de la Facultd des Sciences de de I'Universite d'lstanbul NS 4: 145−163</ref> The probability (''p'') of all the categories having only one unit is
+
+: <math> p = \prod_{ i = 1 }^n \left( 1 - \frac{ i }{ k } \right) </math> 
+ 
+If ''c'' is large and ''n'' is small compared with ''k''<sup>2/3</sup> then to a good approximation
+
+: <math> p = \exp\left( \frac{ -n^2 } { 2k } \right) </math>
+
+This approximation follows from the exact formula as follows:
+
+: <math> \log_e \left( 1 - \frac{ i }{ k } \right) \approx - \frac{ i }{ k } </math>
+
+;Sample size estimates
+
+For ''p'' = 0.5 and ''p'' = 0.05 respectively the following estimates of ''n'' may be useful
+
+: <math> n = 1.2 \sqrt{ k } </math>
+
+: <math> n = 2.448 \sqrt{ k } \approx 2.5 \sqrt{ k } </math>
+
+This analysis can be extended to multiple categories. For ''p'' = 0.5 and ''p'' 0.05 we have respectively
+
+: <math> n = 1.2 \sqrt{ \frac{ 1 }{ \sum_{ i = 1 }^k  \frac{ 1 }{ c_i } } } </math>
+
+: <math> n \approx 2.5 \sqrt{ \frac{ 1 }{ \sum_{ i = 1 }^k \frac{ 1 }{ c_i } } } </math>
+
+where ''c''<sub>''i''</sub> is the size of the ''i''<sup>th</sup> category. This analysis assumes that the categories are independent.
+
+If the data is ordered in some fashion then for at least one event occurring in two categories lying within ''j'' categories of each other than a probability of 0.5 or 0.05 requires a sample size (''n'') respectively of<ref name="Sevast'yanov1972">Sevast'yanov BA (1972) Poisson limit law for a scheme of sums of dependent random variables. (trans. S. M. Rudolfer) Theory of probability and its applications, 17: 695−699</ref>
+
+:<math> n = 1.2 \sqrt { \frac{ k }{ 2j + 1 } }</math>
+
+:<math> n \approx 2.5 \sqrt { \frac{ k }{ 2j + 1 } }</math>
+
+where ''k'' is the number of categories.
+
+===Birthday-death day problem===
+
+Whether or not there is a relation between birthdays and death days has been investigated with the statistic<ref name=Hoaglin1985>Hoaglin DC, Mosteller, F and Tukey, JW (1985) Exploring data tables, trends, and shapes, New York: John Wiley</ref>
+
+:<math> - \log_{10} \left( \frac{ 1 + 2 d }{ 365 } \right),</math>
+
+where ''d'' is the number of days in the year between the birthday and the death day.
+
+===Rand index===
+
+The [[Rand index]] is used to test whether two or more classification systems agree on a data set.<ref name=rand71>{{Cite journal
+ | author = W. M. Rand
+ | title = Objective criteria for the evaluation of clustering methods
+ | journal = [[Journal of the American Statistical Association]]
+ | volume = 66
+ | pages = 846–850
+ | year = 1971
+ | doi = 10.2307/2284239
+ | issue = 336
+ | jstor = 2284239
+ | arxiv = 1704.01036
+ }}</ref>
+
+Given a [[Set (mathematics)|set]] of <math>n</math> [[element (mathematics)|elements]] <math>S = \{o_1, \ldots, o_n\}</math> and two [[Partition of a set|partitions]] of <math>S</math> to compare, <math>X = \{X _1, \ldots, X_r \}</math>, a partition of ''S'' into ''r'' subsets, and <math>Y = \{ Y_1, \ldots, Y_s \}</math>, a partition of ''S'' into ''s'' subsets, define the following:
+
+* <math>a</math>, the number of pairs of elements in <math>S</math> that are in the same subset in <math>X</math> and in the same subset in <math>Y</math>
+* <math>b</math>, the number of pairs of elements in <math>S</math> that are in different subsets in <math>X</math> and in different subsets in <math>Y</math>
+* <math>c</math>, the number of pairs of elements in <math>S</math> that are in the same subset in <math>X</math> and in different subsets in <math>Y</math>
+* <math>d</math>, the number of pairs of elements in <math>S</math> that are in different subsets in <math>X</math> and in the same subset in <math>Y</math>
+
+The Rand index - <math>R</math> - is defined as 
+  
+:<math> R = \frac{ a + b }{ a + b + c + d } = \frac{ a+ b }{ { n \choose 2 } }</math>
+Intuitively, <math>a + b</math> can be considered as the number of agreements between <math>X</math> and <math>Y</math> and <math>c + d</math> as the number of disagreements between <math>X</math> and <math>Y</math>.
+
+===Adjusted Rand index===
+The adjusted Rand index is the corrected-for-chance version of the Rand index.<ref name=rand71/><ref name=hb85>{{Cite journal
+ | doi = 10.1007/BF01908075
+ | author = Lawrence Hubert and Phipps Arabie
+ | title = Comparing partitions
+ | journal = Journal of Classification
+ | volume = 2
+ |issue=1
+ | pages = 193–218
+ | year = 1985
+| s2cid = 189915041
+ }}</ref><ref>{{Cite conference
+ | author = Nguyen Xuan Vinh, Julien Epps and James Bailey
+ | title = Information Theoretic Measures for Clustering Comparison: Is a Correction for Chance Necessary?
+ | book-title = ICML '09: Proceedings of the 26th Annual International Conference on Machine Learning
+ | year = 2009
+ | pages = 1073–1080
+ | url=http://www.ima.umn.edu/~iwen/REU/10.pdf
+ | publisher = ACM
+ | url-status = dead
+ | archive-url = https://web.archive.org/web/20120325043630/https://www.ima.umn.edu/~iwen/REU/10.pdf
+ | archive-date = 25 March 2012
+}}[http://www.ima.umn.edu/~iwen/REU/10.pdf PDF].
+</ref> Though the Rand Index may only yield a value between 0 and +1, the adjusted Rand index can yield negative values if the index is less than the expected index.<ref>{{cite web|url=http://i11www.iti.uni-karlsruhe.de/extra/publications/ww-cco-06.pdf|title=Comparing Clusterings - An Overview|first1=Silke|last1=Wagner|first2=Dorothea|last2=Wagner|date=12 January 2007|access-date=14 February 2018|archive-date=3 December 2013|archive-url=https://web.archive.org/web/20131203011742/http://i11www.iti.uni-karlsruhe.de/extra/publications/ww-cco-06.pdf|url-status=dead}}</ref>
+
+====The contingency table====
+Given a set <math>S</math> of <math>n</math> elements, and two groupings or partitions (''e.g.'' clusterings) of these points, namely <math>X = \{ X_1, X_2, \ldots , X_r \}</math> and <math>Y = \{ Y_1, Y_2, \ldots , Y_s \}</math>, the overlap between <math>X</math> and <math>Y</math> can be summarized in a contingency table <math> \left[ n_{ ij } \right] </math> where each entry <math>n_{ ij }</math> denotes the number of objects in common between <math>X_i</math> and <math>Y_j</math> : <math>n_{ ij }= |X_i \cap Y_j | </math>.
+
+{| border="0" cellpadding="2" align="center"
+|-align="center"  valign="center"
+! style="border-bottom:1px solid black;border-right:1px solid black;" | X\Y
+! style="border-bottom:1px solid black;" | <math>Y_1</math>
+! style="border-bottom:1px solid black;" | <math>Y_2</math>
+! style="border-bottom:1px solid black;" | <math>\ldots</math>
+! style="border-bottom:1px solid black;" | <math>Y_s</math>
+! style="border-bottom:1px solid black;border-left:1px solid black;" | Sums
+|-align="center"  valign="center"
+! style="border-right:1px solid black;" | <math>X_1</math>
+| <math>n_{ 11 }</math>
+| <math>n_{ 12 }</math>
+| <math> \ldots </math>
+| <math>n_{ 1s }</math>
+| style="border-left:1px solid black;" | <math>a_1</math>
+|-align="center"  valign="center"
+! style="border-right:1px solid black;" | <math>X_2</math>
+| <math>n_{ 21 }</math>
+| <math>n_{ 22 }</math>
+| <math>\ldots</math>
+| <math>n_{ 2s }</math>
+| style="border-left:1px solid black;" | <math>a_2</math>
+|-align="center"  valign="center"
+| style="border-right:1px solid black;" | <math>\vdots</math>
+| <math> \vdots </math>
+| <math> \vdots </math>
+| <math> \ddots </math>
+| <math >\vdots </math>
+| style="border-left:1px solid black;" | <math>\vdots</math>
+|-align="center"  valign="center"
+! style="border-right:1px solid black;" | <math>X_r</math>
+| <math> n_{ r1 }</math>
+| <math> n_{ r2 }</math>
+| <math> \ldots </math>
+| <math> n_{ rs }</math>
+| style="border-left:1px solid black;" | <math>a_r</math>
+|-align="center"  valign="center"
+! style="border-right:1px solid black;border-top:1px solid black;" | Sums
+| style="border-top:1px solid black;" | <math>b_1</math>
+| style="border-top:1px solid black;" | <math>b_2</math>
+| style="border-top:1px solid black;" | <math>\ldots</math>
+| style="border-top:1px solid black;" | <math>b_s</math>
+| style="border-left:1px solid black;border-top:1px solid black;" |
+|-
+|}
+
+====Definition====
+
+The adjusted form of the Rand Index, the Adjusted Rand Index, is
+
+: <math>\text{AdjustedIndex} = \frac{ \text{Index} - \text{ExpectedIndex} }{ \text{MaxIndex} - \text{ExpectedIndex}}, </math>
+
+more specifically
+
+: <math> \text{ARI} = \frac{ \sum_{ij} \binom{n_{ij}} 2 - \left. \left[ \sum_i \binom{a_i} 2 \sum_j \binom{b_j} 2\right] \right/ \binom n 2} {\frac 1 2 \left[ \sum_i \binom{a_i}2  + \sum_j \binom{b_j} 2 \right] - \left. \left[ \sum_i \binom{a_i} 2 \sum_j \binom{b_j} 2 \right] \right/ \binom n 2} </math>
+
+where <math> n_{ij}, a_i, b_j </math> are values from the contingency table.
+
+Since the denominator is the total number of pairs, the Rand index represents the ''frequency of occurrence'' of agreements over the total pairs, or the probability that <math>X</math> and <math>Y</math> will agree on a randomly chosen pair.
+
+==Evaluation of indices==
+
+Different indices give different values of variation, and may be used for different purposes: several are used and critiqued in the sociology literature especially.
+
+If one wishes to simply make [[ordinal scale|ordinal]] comparisons between samples (is one sample more or less varied than another), the choice of IQV is relatively less important, as they will often give the same ordering.
+
+Where the data is ordinal a method that may be of use in comparing samples is [[ORDANOVA]].
+
+In some cases it is useful to not standardize an index to run from 0 to 1, regardless of number of categories or samples {{Harv|Wilcox|1973|pp=338}}, but one generally so standardizes it.
+
+== See also ==
+*[[ANOSIM]]
+*[[Categorical data]]
+*[[Diversity index]]
+*[[Fowlkes–Mallows index]]
+*[[Goodman and Kruskal's gamma]]
+*[[Information entropy]]
+*[[Logarithmic distribution]]
+*[[PERMANOVA]]
+*[[Robinson–Foulds metric]]
+*[[Statistical dispersion]]
+*[[Variation ratio]]
+*[[Whipple's index]]
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{Citation
+|last1=Gibbs
+|first1=Jack P.
+|last2=Poston Jr
+|first2=Dudley L.
+|title=The Division of Labor: Conceptualization and Related Measures
+|journal=Social Forces
+|volume=53
+|issue=3
+|date=March 1975
+|pages=468–476
+|doi=10.2307/2576589
+|jstor=2576589
+|citeseerx=10.1.1.1028.4969
+}}
+
+* {{Citation
+|last=Lieberson
+|first=Stanley
+|title=Measuring Population Diversity
+|date=December 1969
+|volume=34
+|issue=6
+|journal=American Sociological Review
+|pages=850–862
+|doi=10.2307/2095977
+|jstor=2095977
+}}
+
+* {{Citation
+|last=Swanson
+|first=David A.
+|title=A Sampling Distribution and Significance Test for Differences in Qualitative Variation
+|journal=Social Forces
+|volume=55
+|issue=1
+|date=September 1976
+|pages=182–184
+|doi=10.2307/2577102
+|jstor=2577102
+}}
+
+* {{cite report
+|last=Wilcox
+|first=Allen R.
+|title=Indices of Qualitative Variation
+|date=October 1967
+|url=http://www.ornl.gov/info/reports/1967/3445605133753.pdf|url-status=dead|archive-url=https://web.archive.org/web/20070815094158/http://www.ornl.gov/info/reports/1967/3445605133753.pdf|archive-date=2007-08-15
+}}
+
+* {{cite journal
+|last=Wilcox
+|first=Allen R.
+|title=Indices of Qualitative Variation and Political Measurement
+|date=June 1973
+|volume=26
+|issue=2
+|journal=The Western Political Quarterly
+|pages=325–343
+|doi=10.2307/446831
+|jstor=446831
+}}
+
+[[Category:Statistical deviation and dispersion]]
+[[Category:Summary statistics for categorical data]]
+[[Category:Categorical data]]

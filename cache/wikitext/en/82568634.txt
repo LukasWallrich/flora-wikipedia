@@ -1,0 +1,204 @@
+{{AI-generated|date=March 2026}}
+'''Justice technology''' (also called '''JusticeTech''', '''legal technology''' applied to justice systems, or '''e-justice''') is a broad field encompassing the use of [[information and communications technology]] (ICT), [[data science]], [[artificial intelligence]], and [[digital infrastructure]] to improve access to justice, enhance the administration of legal systems, and address disparities in how people engage with courts, legal services, and dispute resolution. The field spans both the supply side—providing courts, legal aid organizations, and governments with tools to deliver services more efficiently—and the demand side—equipping individuals, particularly those who are underserved, with resources to understand and assert their legal rights.
+
+Justice technology is distinguished from the broader category of [[legal technology]] (often abbreviated as "legaltech"), which primarily encompasses commercial software tools serving lawyers and law firms. Justice technology is oriented specifically toward the public interest, access to justice, and the improvement of justice systems as public institutions. The two fields overlap significantly, particularly in the areas of [[artificial intelligence]] and [[online dispute resolution]].
+
+Interest in justice technology has accelerated since the 2010s, driven by the global "justice gap"—the recognition that two-thirds of the world's population lack access to a meaningful legal remedy—and by the rapid proliferation of digital tools, mobile computing, and data analytics.<ref name="tashea2021">{{cite web |last=Tashea |first=Jason |title=Justice-as-a-Platform |url=https://law.mit.edu/pub/justiceasaplatform |publisher=MIT Computational Law Report |date=2021 |access-date=March 2, 2026}}</ref> The [[COVID-19 pandemic]] accelerated the adoption of remote hearings, e-filing, and online dispute resolution across jurisdictions worldwide.
+
+==Definition==
+
+The term "justice technology" lacks a single universally accepted definition.{{Citation needed|date=March 2026}} Scholars, policymakers, and practitioners use it with varying degrees of breadth, and it intersects with related concepts such as "legal technology," "access to justice technology," "e-justice," and "smart courts."{{Citation needed|date=March 2026}}
+
+===Academic and institutional definitions===
+
+Researchers at the [[International Journal for Court Administration]] define justice technology broadly as encompassing all uses of ICTs "to improve justice outcomes," with the concept ranging "from relatively basic document digitalization to [[artificial intelligence]] (AI) and [[blockchain]]."<ref name="ijca2023">{{cite journal |last=Susskind |first=Richard |last2=Goodman |first2=Adam |title=Enhancing Access to Justice Through Technology in Developing Countries: Technology-Based Initiatives, Challenges and Emerging Technologies |journal=International Journal for Court Administration |volume=14 |issue=1 |year=2023 |doi=10.36745/ijca.635 |url=https://iacajournal.org/articles/10.36745/ijca.635|doi-access=free }}</ref>
+
+The [[MIT Computational Law Report]] defines justice technology as referring to "a technology or data project that is used in the administration of a justice system or service, creates access to that system or service, or increases the agency of justice system-involved people through support, like information or assistance."<ref name="tashea2021"/>
+
+The [[Harvard Journal of Law & Technology]] characterizes technology's role in the justice system as a potential equalizer: tools that help "individuals navigate the legal system, find information about their legal rights, or access legal representation" can meaningfully reduce the advantages held by repeat players—typically well-resourced institutions—over one-time users of the legal system.<ref name="harvjlt">{{cite journal |title=Using Technology to Enhance Access to Justice |journal=Harvard Journal of Law & Technology |volume=26 |year=2012 |url=https://jolt.law.harvard.edu/articles/pdf/v26/26HarvJLTech241.pdf}}</ref>
+
+=== The Justice Gap ===
+A central concept animating the field is the "justice gap"—the gulf between people's legal needs and the legal assistance they actually receive. According to the [[World Justice Project]], approximately two-thirds of the world's population cannot access the legal system or a legal remedy.<ref name="wjp2021">{{cite report |author=World Justice Project |title=Access to Justice via Information and Communications Technology |url=https://worldjusticeproject.org/our-work/research-and-data/advancing-a2j-ict-driven-reforms |year=2021 |access-date=March 2, 2026}}</ref> A global survey of 100,000 people across 101 countries found that 49 percent had experienced a legal issue in the prior two years, and that roughly half of those who experienced a serious legal problem had their justice needs go unmet.<ref name="tashea2021"/> In high-income countries, including the [[United States]], the justice gap manifests in the large proportion of litigants who appear without legal representation in civil cases involving eviction, child custody, consumer debt, and immigration.<ref name="harvjlt"/>
+
+In their landmark cross-national study of access to justice from the 1970s, Mauro [[Cappelletti]] and [[Bryant Garth]] described access to justice as requiring not merely formal legal rights but effective mechanisms for individuals to assert those rights—work that presaged the modern justice technology movement by several decades.<ref name="cappelletti1978">{{cite journal |last=Cappelletti |first=Mauro |last2=Garth |first2=Bryant |title=Access to Justice: The Newest Wave in the Worldwide Movement to Make Rights Effective |journal=Buffalo Law Review |volume=27 |issue=2 |pages=181–292 |year=1978 |url=https://digitalcommons.law.buffalo.edu/buffalolawreview/vol27/iss2/1/}}</ref> Their Florence Access to Justice Project identified three "waves" of access to justice reform—the provision of legal aid to the poor, the representation of diffuse group interests, and the redesign of dispute-processing institutions. Today, these three areas are places justice technology can intervene.<ref name="cappelletti1978"/>
+
+==Types of justice technologies==
+
+Justice technologies can be categorized along several dimensions, including their stage of application (before, during, or after a legal proceeding), their intended users (legal professionals, courts, or the general public), and the degree to which they involve human decision-making versus algorithmic automation. Major categories include the following.
+
+===Court management and case management systems===
+
+Electronic case management systems (ECMS) are among the most widely deployed forms of justice technology. These platforms digitize the recording, storage, tracking, and management of court cases, replacing paper-based dockets and enabling courts to monitor case progress, generate performance data, and reduce administrative backlogs. Advanced versions incorporate [[data analytics]] tools that allow court administrators to identify causes of delay, monitor sentencing consistency, and allocate judicial resources.<ref name="ijca2023"/> However, in many places, including the U.S., ECMS are antiquated, hobbling further justice technology efforts. <ref name="Tashea2026">{{cite report |author=Jason Tashea |title=Court Innovation is Middleware |url=https://www.justicetech.download/p/jtdl-court-innovation-is-middleware |year=2026 |access-date=March 3, 2026}}</ref>
+
+===E-filing and document automation===
+
+Electronic filing systems allow attorneys and [[pro se]] litigants to submit court documents remotely, reducing geographic and logistical barriers to court participation.<ref name="lsc2012">{{cite report |author=Legal Services Corporation |title=Report of The Summit on the Use of Technology to Expand Access to Justice |url=https://www.lsc.gov/our-impact/publications/other-publications-and-reports/report-summit-use-technology-expand-access-justice |year=2012 |access-date=March 2, 2026}}</ref> Document automation tools generate court forms, pleadings, and legal agreements from guided, plain-language input, making it possible for non-lawyers to prepare legally sound documents without specialized training. In some places, however, only lawyers are afforded access to these electronic systems and self-represented litigants, those without legal representation, are barred from their use.<ref name="NCSC2022">{{cite report |author=National Center for State Courts |title=Self-represented efiling: surveying the accessible implementations |url=https://ncsc.contentdm.oclc.org/digital/api/collection/accessfair/id/966/download |year=2022 |access-date=March 3, 2026}}</ref>
+
+===Online dispute resolution===
+
+{{Main|Online dispute resolution}}
+
+[[Online dispute resolution]] (ODR) refers to the use of digital technology to facilitate negotiation, mediation, and adjudication of disputes, whether entirely online or in hybrid formats. ODR originated in the private sector—most prominently in [[eBay]]'s automated buyer-seller dispute resolution system—before being adopted by court systems as a means of resolving high-volume, lower-value civil disputes such as [[small claims]], traffic matters, landlord-tenant conflicts, and consumer complaints. Court-connected ODR programs are designed as part of the formal justice system rather than as private alternatives to it.
+
+===Legal aid and self-help tools===
+
+Technology is used to extend the reach of legal aid services that have historically been limited by funding constraints and geographic barriers.<ref name="lsc2012"/> Self-help tools include guided [[legal chatbots]] and interactive "legal coaches" that walk users through legal processes and help them understand their rights and options. [[Document assembly]] platforms automate the creation of legal forms. Online legal information portals provide plain-language explanations of laws and court procedures. Some programs integrate human assistance—such as [[brief advice]] services or attorney review—into otherwise automated workflows. Even where such tools are available, however, research has found that usability barriers and plain-language failures can limit their effectiveness for low-income users.<ref name="harvjlt"/> Chatbot popularity has grown since the launch of large language models, but their accuracy and function has been called into question.<ref name="Porcaro2025">{{cite report |author=Keith Porcaro |title=Audit Report for Legal Information Assistant |url=https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=1001&context=dclt |year=2025 |access-date=March 3, 2026}}</ref>
+
+===Court Date Reminders and Behavioral Nudges===
+
+A distinct category of justice technology involves using automated communications—particularly [[SMS]] text messages—to remind defendants of upcoming court dates, reducing failures to appear (FTA). Research has found that FTA rates are driven not only by intentional evasion but also by mundane logistical failures: defendants misplace court date information, forget about distant hearings, or lack transportation without advance notice.
+
+A landmark 2020 study published in ''[[Science (journal)|Science]]'' by Fishbane, Ouss, and Shah found that redesigning summons forms and providing text message reminders reduced FTA rates by 13 to 21 percent in New York City, resulting in approximately 30,000 fewer arrest warrants over a three-year period.<ref name="fishbane2020">{{cite journal |last=Fishbane |first=Alissa |last2=Ouss |first2=Aurelie |last3=Shah |first3=Anuj K. |title=Behavioral nudges reduce failure to appear for court |journal=Science |volume=370 |issue=6517 |year=2020 |doi=10.1126/science.abb6591 |url=https://www.science.org/doi/10.1126/science.abb6591|url-access=subscription }}</ref> A subsequent study published in ''[[Science Advances]]'' confirmed that automated text reminders reduced incarceration for missed court dates in a randomized controlled trial.<ref name="sciadv2023">{{cite journal |title=Automated reminders reduce incarceration for missed court dates: Evidence from a text message experiment |journal=Science Advances |year=2023 |url=https://www.science.org/doi/10.1126/sciadv.adx7483}}</ref> The [[Abdul Latif Jameel Poverty Action Lab]] (J-PAL) has catalogued similar reminder interventions in multiple jurisdictions, noting that text reminders represent one of the most rigorously evaluated and consistently effective tools in the justice technology field.<ref name="jpal">{{cite web |author=Abdul Latif Jameel Poverty Action Lab |title=Text message reminders decreased failure to appear in court in New York City |url=https://www.povertyactionlab.org/evaluation/text-message-reminders-decreased-failure-appear-court-new-york-city |access-date=March 2, 2026}}</ref>
+
+===Risk Assessment Instruments===
+
+[[Risk assessment instrument|Risk assessment instruments]] (RAIs) use algorithmic modeling—typically derived from historical criminal justice data—to estimate an individual's likelihood of future criminal behavior, such as recidivism, failure to appear in court, or pretrial misconduct. Courts use RAIs to inform decisions about bail, sentencing, probation, and parole. The most widely used commercial example is the [[COMPAS (software)|Correctional Offender Management Profiling for Alternative Sanctions (COMPAS)]] system, developed by Northpointe (later Equivant), which generates scores for general and violent recidivism risk and pretrial misconduct.<ref name="brookings">{{cite web |title=Understanding risk assessment instruments in criminal justice |publisher=Brookings Institution |url=https://www.brookings.edu/articles/understanding-risk-assessment-instruments-in-criminal-justice/ |access-date=March 2, 2026}}</ref> Proponents argue that RAIs can reduce subjective judicial bias and promote consistency; critics dispute this claim and argue that RAIs perpetuate and obscure historical inequities (see [[#Criticisms]] below).
+
+===Open Data, Transparency, and Accountability Tools===
+
+Justice system [[open data]] initiatives make court records, sentencing data, and legal texts publicly available in machine-readable formats, enabling journalists, researchers, and civil society organizations to analyze patterns and identify systemic disparities.<ref name="tilburg">{{cite journal |title=Digital Technology and Procedural Justice: Towards a Geography of Justice |journal=Tilburg Law Review |year=2023 |doi=10.5334/tilr.422  |doi-access=free|url=https://tilburglawreview.com/articles/10.5334/tilr.422}}</ref> Transparency tools also include court performance dashboards, public-facing legal information portals, and [[blockchain]]-based systems for secure, auditable records of legal proceedings.
+
+===Legal Artificial Intelligence===
+
+Broader applications of [[artificial intelligence]] to legal tasks—including contract review, litigation document analysis, legal research, and case outcome prediction—are typically classified as [[legal technology]] rather than justice technology. However, where such tools are deployed in public-interest contexts to support legal aid, court administration, or pro se litigants, they are considered part of the justice technology field.<ref name="yalelj">{{cite journal |title=Interoperable Legal AI for Access to Justice |journal=Yale Law Journal Forum |url=https://yalelawjournal.org/forum/interoperable-legal-ai-for-access-to-justice |access-date=March 2, 2026}}</ref>
+
+==Applications==
+
+Justice technology has been implemented in diverse forms across all continents, reflecting different legal traditions, resource environments, and justice system priorities. The following examples are illustrative rather than exhaustive.
+
+===Africa===
+
+African nations have increasingly embraced digital tools to address significant deficits in court capacity and legal aid access, often building on mobile phone infrastructure given limited broadband availability.<ref name="ijca2023"/>
+
+'''Kenya''' has been among the continent's more active adopters of court technology. The Kenyan Judiciary introduced the '''Integrated Electronic Case Management System''' (IECMS), which allows citizens to file cases, pay fees, and track case progress online. The Electronic Case Management Practice Directions, gazetted in 2020, established a regulatory framework for virtual court proceedings. Researchers analyzing Kenyan court data found that courts receiving performance reports with accountability mechanisms reduced the probability of adjournments from approximately 20 to 10 percent—a significant efficiency gain attributed in part to data-informed management.<ref name="tashea2021"/>
+
+'''Rwanda''' has integrated technology into its justice system through an Integrated Electronic Case Management System modeled on Kenya's, allowing online case filing and status tracking. Rwanda's reforms have been recognized regionally as a model for technology-enabled judicial modernization.<ref name="nepad2023">{{cite web |author=AUDA-NEPAD |title=Harnessing Digital Innovations to Revolutionise Justice Systems in Africa |url=https://www.nepad.org/blog/harnessing-digital-innovations-revolutionise-justice-systems-africa |year=2023 |access-date=March 2, 2026}}</ref>
+
+'''South Africa''', '''Ghana''', and '''Egypt''' have also implemented computerized case management systems such as "CaseLines," a digital platform for managing electronic court bundles and evidence presentation.<ref name="nepad2023"/>
+
+===Asia===
+
+'''China''' has undertaken the most comprehensive national program of court digitization of any country, through its Smart Courts Initiative launched by the [[Supreme People's Court of China|Supreme People's Court]]. China's three purpose-built '''internet courts'''—in [[Hangzhou]], [[Beijing]], and [[Guangzhou]]—handle cases arising entirely online (including e-commerce disputes, copyright infringement, and domain name disputes) through fully virtual proceedings, including AI-powered judicial assistants, [[blockchain]]-verified evidence submission, and facial recognition for litigant identification. As of the early 2020s, Chinese internet courts had handled millions of cases. The Supreme People's Court has also built a centralized data center that collects recordings of hearings and tracks sentencing consistency across courts.<ref name="courtstoday">{{cite web |title=How the U.S. Can Compete with China on Digital Justice Technology |publisher=Courts Today |url=https://www.courtstoday.com/blog/how-the-u-s-can-compete-with-china-on-digital-justice-technology |access-date=March 2, 2026}}</ref> Critics, including international human rights organizations, have raised concerns that China's justice technology infrastructure also serves as a tool of political control and surveillance. Others point out the accuracy of these claims are hard to gauge because of the opacity of the Chinese state. (see [[#Criticisms]] below).
+
+'''India''' has pursued court digitization through the '''e-Courts Mission Mode Project''', a national initiative implemented in joint partnership between the Department of Justice, [[Ministry of Law and Justice (India)|Ministry of Law and Justice]], and the e-Committee of the [[Supreme Court of India]]. Phase I and Phase II of the project digitized case records, established a national case management system across district and subordinate courts, and deployed [[videoconferencing]] for remote hearings. Phase III, approved by the Union Cabinet in 2023 with a budget of approximately ₹7,210 crore, aims to create a unified, paperless judicial technology platform providing a "seamless interface between the courts, the litigants and other stakeholders."<ref name="ecourts">{{cite web |title=About eCourts |url=https://ecourts.gov.in/ecourts_home/static/about-us.php |publisher=eCourts India |access-date=March 2, 2026}}</ref> One start up, Adalat AI, has developed multiple tools to aid the Indian courts in digitizing their largely paper-based system. "<ref name=Adalat.ai>{{cite web |title=Adalat |url=https://www.adalat.ai/ |publisher=Adalat.ai |access-date=March 3, 2026}}</ref>
+
+'''Singapore''' has developed online dispute resolution infrastructure through the [[Singapore International Mediation Centre]] and through court-connected digital platforms for lower-value civil disputes.
+
+===Europe===
+
+European nations have developed justice technology under the dual influence of national civil law traditions and the cross-border harmonization efforts of the [[European Union]]'s e-Justice Portal, which provides a centralized gateway to legal information, court procedures, and legal aid resources across [[EU member states]].<ref name="eucourts">{{cite journal |title=From Court Automation to e-Justice and Beyond in Europe |journal=International Journal for Court Administration |year=2023 |url=https://iacajournal.org/articles/10.36745/ijca.640}}</ref>
+
+'''Estonia''' is widely cited as a global model of digital-first government, and its justice system reflects this orientation. Estonian courts use the [[X-Road]] platform to assist in online filing, digital case management, and video hearings extensively. Estonia has also deployed [[chatbots]] to help citizens locate court resources and operates '''legal pharmacies'''—drop-in consultation points staffed by paralegals or law students—integrated with digital legal information systems.<ref name="tashea2021"/>
+
+The '''Netherlands''' has been an innovator in online dispute resolution for family matters. The platform '''Uitelkaar.nl''' is a self-guided divorce tool that enables spouses to create legally valid separation agreements without court appearances, at reduced cost. The platform operates on a cost-recovery basis and includes subsidized access for low-income users.<ref name="ijca2023"/>
+
+The '''United Kingdom''' undertook a significant court reform program beginning in 2016, including the development of '''online courts''' for small civil claims, probate applications, and other common proceedings through [[HM Courts & Tribunals Service]]. The COVID-19 pandemic accelerated the rollout of remote hearings across all court types.
+
+===North America===
+
+The '''United States''' has a fragmented justice technology landscape shaped by the decentralized nature of its court system, with thousands of separate court entities across federal, state, and local jurisdictions.<ref name="lsc2012"/> Notable deployments include:
+
+* '''COMPAS''' and other risk assessment instruments, which have been adopted in dozens of states for use in pretrial, sentencing, and parole decisions (see [[#Risk assessment instruments]] above and [[#Criticisms]] below).
+* '''State court e-filing systems''', which are now near-universal in federal courts and common in state courts, though with significant variation in user-friendliness and pro se accessibility.
+* '''LawHelp Interactive''' and similar guided interview platforms, which generate court-ready legal documents for low-income self-represented litigants.
+* '''Legal aid AI tools''', including chatbot-assisted intake systems at legal aid organizations designed to triage client needs and automate intake questionnaires.
+
+'''Canada's''' [[British Columbia]] introduced the '''Civil Resolution Tribunal''' (CRT) in 2016, the first online tribunal of its kind to be integrated into a public court system. The CRT uses a multi-stage ODR platform that guides parties through negotiation, facilitated settlement, and adjudication for small claims (up to CAD $5,000) and [[strata property]] disputes. The platform operates 24 hours a day, accepts filings from any internet-connected device, and has been expanded to include motor vehicle accident claims. Researchers and practitioners have cited the CRT as an international model for court-connected ODR.<ref name="crt">{{cite web |title=BC Civil Resolution Tribunal |url=https://civilresolutionbc.ca/ |access-date=March 2, 2026}}</ref>
+
+===Oceania===
+
+'''Australia's''' federal and state courts have deployed a range of justice technologies, including electronic filing systems, video hearings, and ODR pilots. The [[Federal Court of Australia]] operates a virtual eCourt protocol for specified matters and an eLodgement system for document filing. The [[Victorian Civil and Administrative Tribunal]] (VCAT) has piloted ODR platforms incorporating video and text-based communications for small civil claims. Australian researchers have examined ODR's potential to address justice access gaps in regional and remote communities, where distance from courts creates significant barriers.<ref name="maquarie">{{cite report |author=Macquarie University |title=Digital Justice: Online Resolution of Minor Civil Disputes |url=https://www.mq.edu.au/__data/assets/pdf_file/0012/866289/Digital-Justice.pdf |access-date=March 2, 2026}}</ref>
+
+===South America===
+
+'''Brazil''' has achieved among the highest rates of court digitization in the developing world. Brazil's '''Justice 4.0 Program''', overseen by the [[National Council of Justice (Brazil)|National Council of Justice]] (CNJ), has driven the use of [[artificial intelligence]] to automate repetitive judicial tasks such as document classification, case categorization, and the detection of similar pending cases. The percentage of electronic court processes in Brazil rose from minimal levels in 2009 to constituting the overwhelming majority of all filings by the early 2020s.<ref name="brazil">{{cite report |author=National Council of Justice (Brazil) |title=Justice 4.0 Program |url=https://www.cnj.jus.br/wp-content/uploads/2022/05/justice-4-0-program.pdf |year=2022 |access-date=March 2, 2026}}</ref> Brazil's AI tool '''VICTOR''', deployed in the [[Supreme Federal Tribunal]], processes appeals and identifies cases that match constitutional [[repercussion general]] precedents, though independent assessments of its accuracy have produced mixed results.<ref name="brazil"/>
+
+==Impact==
+
+Assessing the impact of justice technology is complicated by the field's heterogeneity, the limited number of rigorous evaluations, and the risk of conflating adoption with effectiveness. As the MIT Computational Law Report observed, justice technology remains "a sector still finding its footing," and even widely deployed tools have generated uneven or contested evidence of benefit.<ref name="tashea2021"/> Scholars have cautioned that technology is not a panacea: it can support access to justice, "but its use calls for targeted deployment mindful of its strengths and limitations."<ref name="ijca2023"/> Much of the impact literature relies on self-reported outcomes, practitioner assessments, or pre/post comparisons without control groups, making causal claims difficult to substantiate.<ref name="lsc2012"/>
+
+===Efficiency===
+
+Electronic case management and e-filing have shown measurable efficiency gains in some contexts, particularly where they replace entirely paper-based systems. In Kenya, data-driven performance reporting was associated with a significant reduction in adjournment rates in participating courts.<ref name="tashea2021"/> Brazil's large-scale digitization has been credited by the National Council of Justice with reducing average processing times in some court categories, though independent verification is limited.<ref name="brazil"/> In the United States, e-filing adoption in federal courts has been associated with faster docket processing and reduced filing errors, though savings have not been uniformly distributed across courts or case types.<ref name="lsc2012"/> Researchers and practitioners note that efficiency gains in court administration do not automatically translate into better substantive outcomes for litigants—particularly for self-represented parties who may still struggle to navigate the underlying procedural complexity regardless of the delivery channel.<ref name="tilburg"/>
+
+===Access to Justice===
+
+Evidence that technology meaningfully closes the justice gap is more limited and contested than efficiency findings. Online platforms and self-help tools have lowered logistical barriers for some users—enabling after-hours filings, reducing travel costs, and providing plain-language guidance that was previously unavailable. The British Columbia CRT's 24/7 online access has facilitated participation by individuals who could not take time off work to appear in person, and the platform has resolved hundreds of thousands of disputes since its launch.<ref name="crt"/> However, researchers caution that making a service available online does not ensure that disadvantaged populations—including those with limited digital literacy, unreliable internet, language barriers, or disability-related needs—will successfully use it.<ref name="tilburg"/> Studies of self-help portals and guided interview tools have found that even well-designed platforms are frequently misunderstood or abandoned by the low-income users they are intended to serve.<ref name="harvjlt"/> The court date reminder research represents one of the most robustly evaluated examples of access-oriented justice technology: randomized studies in New York City and other jurisdictions have consistently demonstrated that SMS reminders reduce FTA rates and downstream arrest warrants, with minimal cost.<ref name="fishbane2020"/><ref name="jpal"/>
+
+===Transparency and accountability===
+
+Open data initiatives and court performance dashboards have created tools that advocates, journalists, and researchers have used to document disparities and hold institutions accountable.<ref name="tilburg"/> Whether such transparency translates into institutional reform, however, depends on political and organizational factors that technology cannot supply.<ref name="tashea2021"/>
+
+===Legal empowerment===
+
+Self-help tools, guided chatbots, and online legal information portals may increase individuals' understanding of their legal rights, contributing to what scholars call [[legal empowerment]].<ref name="harvjlt"/> The [[World Justice Project]] has identified a positive association between access to ICT-based legal resources and individuals' capacity to resolve legal problems, though it notes that this relationship is mediated by digital literacy, affordability, and the quality of underlying legal services infrastructure.<ref name="wjp2021"/> Rigorous outcome evaluations measuring whether improved legal information translates into better legal outcomes for clients remain scarce.<ref name="lsc2012"/>
+
+==Criticisms==
+
+Justice technology has attracted substantial scholarly and public criticism across multiple dimensions, with critics arguing that poorly designed or insufficiently regulated technologies may entrench inequity, erode rights, and concentrate power in ways that undermine rather than advance the goals of justice.
+
+===Algorithmic bias and racial disparities===
+
+The most extensively documented criticism of justice technology concerns the perpetuation and amplification of [[algorithmic bias]] in risk assessment instruments and predictive policing tools. A landmark 2016 investigation by [[ProPublica]] found that the COMPAS recidivism risk assessment system was significantly more likely to falsely classify Black defendants as high risk than white defendants, and more likely to falsely classify white defendants as low risk than Black defendants—even after controlling for relevant criminal history variables.<ref name="propublica2016">{{cite news |last=Angwin |first=Julia |last2=Larson |first2=Jeff |last3=Mattu |first3=Surya |last4=Kirchner |first4=Lauren |title=Machine Bias |url=https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing |publisher=ProPublica |date=May 23, 2016 |access-date=March 2, 2026}}</ref> The findings sparked a broad scholarly and policy debate about the nature of algorithmic fairness and the compatibility of different statistical definitions of fairness, with mathematicians demonstrating that certain fairness criteria are mutually incompatible in most real-world conditions.
+
+Scholars and legal advocates argue that when judicial AI systems are trained on data reflecting historical racial disparities in policing, prosecution, and sentencing, the resulting algorithms replicate and launder those patterns as apparently objective recommendations—a phenomenon sometimes called "automating inequality." The [[UCLA Law Review]] and other legal journals have examined the due process implications of algorithmic sentencing recommendations, arguing that defendants' inability to examine or challenge proprietary algorithmic logic constitutes a violation of procedural fairness.<ref name="ucla">{{cite journal |title=Injustice Ex Machina: Predictive Algorithms in Criminal Sentencing |journal=UCLA Law Review |url=https://www.uclalawreview.org/injustice-ex-machina-predictive-algorithms-in-criminal-sentencing/ |access-date=March 2, 2026}}</ref>
+
+===The digital divide===
+
+Access to justice technologies frequently depends on access to digital infrastructure—reliable internet connectivity, computer hardware, digital literacy, and English or dominant-language proficiency—that is unevenly distributed across populations. People who are elderly, disabled, poor, or located in rural areas may be systematically excluded from or disadvantaged in justice systems that move functions online without maintaining adequate offline alternatives. The [[World Justice Project]] and other researchers have found that digital tools designed to improve access can inadvertently create a two-tiered system in which technologically capable users receive faster and cheaper service while others face greater barriers.<ref name="wjp2021"/> Scholars have called this risk "digital justice inequality."<ref name="simshaw">{{cite journal |last=Simshaw |first=Drew |title=Access to A.I. Justice: Avoiding an Inequitable Two-Tiered System |journal=Yale Journal of Law and Technology |url=https://yjolt.org/sites/default/files/simshaw_-_access_to_a.i._justice.pdf |access-date=March 2, 2026}}</ref>
+
+===Transparency and "black box" algorithms===
+
+Many commercial justice technology products, including risk assessment instruments and predictive policing tools, are proprietary systems whose internal logic is protected by [[trade secret]] law. Courts in the United States and elsewhere have generally declined to compel disclosure of algorithmic source code, limiting defendants' ability to test or challenge the accuracy of algorithmic assessments used against them. Scholars, technologists, and civil liberties advocates argue that the use of opaque algorithmic systems in high-stakes government decisions—involving liberty, deportation, custody of children, and other fundamental interests—violates basic principles of [[due process]] and the [[right to a fair trial]].<ref name="ctlj">{{cite journal |last=Washington |first=Anne L. |title=How to Argue with an Algorithm: Lessons from the COMPAS–ProPublica Debate |journal=Colorado Technology Law Journal |volume=17 |issue=1 |year=2019 |url=http://ctlj.colorado.edu/wp-content/uploads/2021/02/17.1_4-Washington_3.18.19.pdf}}</ref>
+
+===Privatization and corporate capture===
+
+Critics raise concerns about the growing role of private, for-profit technology vendors in supplying core justice system infrastructure. Where court systems become dependent on proprietary technology vendors, they may lose institutional capacity to understand, modify, or replace the systems on which they depend—a form of "technological lock-in." 
+
+===Surveillance and civil liberties===
+
+The deployment of justice technologies—including court-connected biometric verification, AI-assisted monitoring of probationers, and predictive policing—involves the collection of substantial personal data about individuals interacting with the justice system. Critics, including the [[Electronic Privacy Information Center]] (EPIC) and international human rights bodies, argue that mass data collection in justice contexts creates surveillance infrastructure that can be repurposed for broader social control, that it has a chilling effect on individuals' willingness to assert their legal rights, and that it disproportionately burdens communities already subject to intensive policing. China's internet courts, while heralded for efficiency gains, have been cited by scholars as examples of justice technology deployed within an authoritarian context where facial recognition and case data may serve political purposes beyond dispute resolution.<ref name="courtstoday"/>
+
+===Substitution of human judgment===
+
+Some legal scholars and practitioners argue that the increasing role of algorithmic tools in judicial decision-making risks replacing human moral reasoning—responsive to context, argument, and the individual circumstances of each case—with actuarial logic derived from group-level statistical patterns. The philosopher and legal theorist [[Bernard Harcourt]] has argued in ''Against Prediction'' (2007) that actuarial reasoning in criminal justice is categorically inappropriate because it punishes individuals for characteristics of the groups to which they belong rather than for their own conduct.<ref name="harcourt2007">{{cite book |last=Harcourt |first=Bernard E. |title=Against Prediction: Profiling, Policing, and Punishing in an Actuarial Age |publisher=University of Chicago Press |location=Chicago |year=2007 |isbn=9780226316130}}</ref> Critics further argue that the framing of algorithms as objective or scientific obscures the normative choices embedded in their design.<ref name="ctlj"/>
+
+==See also==
+
+* [[Legal technology]]
+* [[Online dispute resolution]]
+* [[Access to justice]]
+* [[COMPAS (software)]]
+* [[Predictive policing]]
+* [[Civil Resolution Tribunal]]
+* [[E-courts in India]]
+* [[Machine learning in criminal justice]]
+* [[Algorithmic bias]]
+* [[Legal aid]]
+* [[Pro se legal representation]]
+
+==References==
+
+{{Reflist}}
+
+==Further reading==
+
+* Susskind, Richard. ''Online Courts and the Future of Justice''. Oxford: Oxford University Press, 2019. ISBN 9780198838364.
+* Tashea, Jason. "Justice-as-a-Platform." MIT Computational Law Report, 2021. https://law.mit.edu/pub/justiceasaplatform
+* Cappelletti, Mauro and Bryant Garth. "Access to Justice: The Newest Wave in the Worldwide Movement to Make Rights Effective." ''Buffalo Law Review'' 27(2): 181–292. 1978.
+* Angwin, Julia, Jeff Larson, Surya Mattu, and Lauren Kirchner. "Machine Bias." ProPublica, May 23, 2016. https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
+* Fishbane, Alissa, Aurelie Ouss, and Anuj K. Shah. "Behavioral nudges reduce failure to appear for court." ''Science'' 370(6517), 2020. https://www.science.org/doi/10.1126/science.abb6591
+* World Justice Project. ''Access to Justice via Information and Communications Technology''. 2021. https://worldjusticeproject.org/our-work/research-and-data/advancing-a2j-ict-driven-reforms
+* Harcourt, Bernard E. ''Against Prediction: Profiling, Policing, and Punishing in an Actuarial Age''. Chicago: University of Chicago Press, 2007.
+* Simshaw, Drew. "Access to A.I. Justice: Avoiding an Inequitable Two-Tiered System." ''Yale Journal of Law and Technology''. https://yjolt.org/sites/default/files/simshaw_-_access_to_a.i._justice.pdf
+
+==External links==
+
+* [https://law.mit.edu/pub/justiceasaplatform MIT Computational Law Report: Justice-as-a-Platform]
+* [https://worldjusticeproject.org/our-work/research-and-data/advancing-a2j-ict-driven-reforms World Justice Project: Access to Justice via ICT]
+* [https://civilresolutionbc.ca/ BC Civil Resolution Tribunal]
+* [https://ecourts.gov.in eCourts India]
+* [https://www.ajl.org Algorithmic Justice League]
+[[Category:Justice]]
+[[Category:Legal terminology]]
+[[Category:Technology]]

@@ -1,0 +1,178 @@
+{{Short description|Recurring structure in cognitive processes}}
+[[Image:ContainmentSchema.png|175px|thumb|''Figure 1'' - containment image schema]]
+An '''image schema''' (both ''schemas'' and ''schemata'' are used as plural forms) is a recurring structure within our [[cognition|cognitive]] processes which establishes patterns of understanding and reasoning. As an understudy to [[embodied cognition]], image schemas are formed from our bodily interactions,<ref>{{Cite journal
+ | pmid = 1454900
+| year = 1992
+| last1 = Mandler
+| first1 = J. M.
+| title = How to build a baby: II. Conceptual primitives
+| journal = [[Psychological Review]]
+| volume = 99
+| issue = 4
+| pages = 587–604
+ | doi=10.1037/0033-295x.99.4.587
+| citeseerx = 10.1.1.460.5280
+| s2cid = 18194545
+}}</ref> from linguistic experience, and from historical context. The term is introduced in [[Mark Johnson (professor)|Mark Johnson]]'s book ''The Body in the Mind''; in case study 2 of [[George Lakoff]]'s ''Women, Fire and Dangerous Things:'' and further explained by [[Todd Oakley]] in ''The Oxford handbook of cognitive linguistics;'' by [[Rudolf Arnheim]] in ''Visual Thinking''; by the collection ''From Perception to Meaning: Image Schemas in Cognitive Linguistics'' edited by [[Beate Hampe]] and Joseph E. Grady.
+
+In contemporary [[cognitive linguistics]], an image schema is considered an embodied prelinguistic structure of experience that motivates [[conceptual metaphor]] mappings. Learned in early infancy they are often described as spatiotemporal relationships that enable actions and describe characteristics of the environment. They exist both as static and dynamic version, describing both states and processes,<ref>{{Citation|last=Cienki|first=Alan|title=Some Properties and Groupings of Image Schemas|date=1997|url=http://dx.doi.org/10.1075/cilt.150.04cie|work=Lexical and Syntactical Constructions and the Construction of Meaning|series=Current Issues in Linguistic Theory|volume=150|pages=3|place=Amsterdam|publisher=John Benjamins Publishing Company|doi=10.1075/cilt.150.04cie|isbn=978-90-272-3654-8|access-date=2021-02-08|url-access=subscription}}</ref> compare Containment vs. Going_In/Out, and they are learned from all sensorimodalities. 
+
+Evidence for image schemas is drawn from a number of related disciplines, including work on cross-modal cognition in [[psychology]], from spatial cognition in both [[linguistics]] and psychology,<ref>{{Cite journal
+ | pmid = 10815775
+| year = 2000
+| last1 = Boroditsky
+| first1 = L
+| title = Metaphoric structuring: Understanding time through spatial metaphors
+| journal = Cognition
+| volume = 75
+| issue = 1
+| pages = 1–28
+ | doi=10.1016/s0010-0277(99)00073-6
+| citeseerx = 10.1.1.11.5402
+| s2cid = 11579775
+}}</ref> cognitive linguistics,<ref>Croft, W., & Cruse, D. A. (2004). ''Cognitive Linguistics'' (p. 374). New York: [[Cambridge University Press]].</ref> and from [[neuroscience]].<ref>{{Citation|last=Rohrer|first=Tim|title=From Perception to Meaning |chapter=Image schemata in the brain|date=2005-12-15|chapter-url=http://dx.doi.org/10.1515/9783110197532.2.165|series=Cognitive Linguistics Research|volume=29|pages=165–198|place=Berlin, New York|publisher=Mouton de Gruyter|doi=10.1515/9783110197532.2.165|isbn=978-3-11-018311-5|access-date=2021-01-26}}</ref> The influences of image schemas is not only seen in cognitive linguistics and developmental psychology, but also in interface design<ref>{{Citation|last1=Kuhn|first1=Werner|title=A Formalization of Metaphors and Image-Schemas in User Interfaces|date=1991|url=http://dx.doi.org/10.1007/978-94-011-2606-9_24|work=Cognitive and Linguistic Aspects of Geographic Space|pages=419–434|place=Dordrecht|publisher=Springer Netherlands|isbn=978-94-010-5151-4|access-date=2021-01-26|last2=Frank|first2=Andrew U.|doi=10.1007/978-94-011-2606-9_24|url-access=subscription}}</ref> and more recently, the theory has become of increased interest in artificial intelligence<ref>{{Cite book|last=Hedblom|first=Maria M.|url=http://link.springer.com/10.1007/978-3-030-47329-7|title=Image Schemas and Concept Invention: Cognitive, Logical, and Linguistic Investigations|date=2020|publisher=Springer International Publishing|isbn=978-3-030-47328-0|series=Cognitive Technologies|location=Cham|language=en|doi=10.1007/978-3-030-47329-7|s2cid=219607936}}</ref> and cognitive robotics<ref>{{Cite journal|last=Astor|first=James|date=2011-03-15|title=Saying what you mean, meaning what you say: language, interaction and interpretation|url=http://dx.doi.org/10.1111/j.1468-5922.2010.01902.x|journal=Journal of Analytical Psychology|volume=56|issue=2|pages=203–216|doi=10.1111/j.1468-5922.2010.01902.x|pmid=21434900|issn=0021-8774|url-access=subscription}}</ref> to help ground meaning.
+
+==Johnson: From image schemas to abstract reasoning via metaphor==
+[[Image:OutSchemas.png|175px|thumb|''Figure 2'' - containment image schema (as applied to the English word ''out'')]]
+
+Image schemas are dynamic embodied patterns—they take place ''in'' and ''through'' time. Moreover, they are multi-modal patterns of experience, not simply visual. For instance, consider how the dynamic nature of the containment schema is reflected in the various spatial senses of the English word ''out''. ''Out'' may be used in cases where a clearly defined trajector (TR) leaves a spatially bounded landmark (LM), as in:
+:(1a) John went out of the room.
+:(1b) Mary got out of the car.
+:(1c) Spot jumped out of the pen.
+
+In the most prototypical of such cases the landmark is a clearly defined container. However, ''out'' may also be used to indicate those cases where the trajector is a mass that spreads out, effectively expanding the area of the containing landmark:
+:(2a) She poured out the beans.
+:(2b) Roll out the carpet.
+:(2c) Send out the troops.
+
+Finally, ''out'' is also often used to describe motion along a linear path where the containing landmark is implied and not defined at all:
+:(3) The train started out for Chicago.
+
+Experientially basic and primarily spatial image schemas such as the Containment schema and its derivatives the Out schemas lend their logic to non-spatial situations. For example, one may metaphorically use the term ''out'' to describe non-spatial experiences:
+:(4) Leave out that big log when you stack the firewood. (Schema used directly and non-metaphorically.)
+:(4a) I don't want to leave any relevant data out of my argument. (Schema metaphorically projected onto argumentation.)
+:(4b) Tell me your story again, and don't leave out any details. (Schema metaphorically projected onto story-telling.)
+:(4c) She finally came out of her depression. (Schema metaphorically projected onto emotional life.)
+
+Johnson argues that more abstract reasoning is shaped by such underlying spatial patterns. For example, he notes that the logic of containment is not just a matter of being in or out of the container. For example, if someone is in a ''deep'' depression, we know it is likely to be a long time before they are well. The deeper the trajector is in the container, the longer it will take for the trajector to get out of it. Similarly, Johnson argues that transitivity and the [[law of the excluded middle]] in logic are underlaid by preconceptual embodied experiences of the Containment schema.
+
+==Lakoff: Image schemas in Brugman's ''The story of Over''==
+In case study two of his book ''Women, Fire and Dangerous Things'', Lakoff re-presented the analysis of the English word ''over'' done by [[Claudia Brugman]] in her (1981) master's thesis. Similar to the analysis of ''out'' given by Johnson, Lakoff argued that there were six basic spatial schemas for the English word ''over''. Moreover, Lakoff gave a detailed accounting of how these schemas were interrelated in terms of what he called a ''radial category structure''. For example, these six schemas could be both further specified by other spatial schemas such as whether the [[trajector]] was in contact with the [[landmark]] or not (as in ''the plane flew over the mountain'' vs. ''he climbed over the mountain''). Furthermore, Lakoff identified a group of "transformational" image schemata such as rotational schemas and path to object mass, as in ''Spider-Man climbed all over the wall''. This analysis raised profound questions about how image schemas could be grouped, transformed, and how sequences of image schemas could be chained together in language, mind, and brain.
+
+==Relationships to similar theories==
+Johnson indicates that his analysis of ''out'' drew upon a 1981 doctoral dissertation by [[Susan Lindner]] in linguistics at UCSD under [[Ronald Langacker]], and more generally by the theory of [[cognitive grammar]] put forth by him.<ref>For example: {{cite book |last=Langacker |first=Ronald W. |authorlink=Ronald Langacker |date=1987 |title=Foundations of Cognitive Grammar: Theoretical Prerequisites |location=Stanford, Calif. |publisher=[[Stanford University Press]] |isbn=978-0804712613 |oclc=37499775}}</ref> For the force group of image schemas Johnson also drew on an early version of the [[Force Dynamics|force dynamic]] schemas put forth by [[Len Talmy]], as used by linguists such as [[Eve Sweetser]]. Other influences include [[Max Wertheimer]]'s [[Gestalt psychology|gestalt]] structure theory and [[Schema (Kant)|Kant's account of schemas]] in categorization, as well as studies in experimental psychology on the [[mental rotation]] of images.
+
+In addition to the dissertation on ''over'' by Brugman, Lakoff's use of image schema theory also drew extensively on Talmy and Langacker's theories of spatial relations terms. Other theories making use of similar conceptual primitives to capture meaning include [[Jean Matter Mandler|Jean M. Mandler]]'s ''spatial primitives'', [[Anna Wierzbicka]]'s ''semantic primes''<ref>{{Cite book|last=Wierzbicka|first=Anna|title=Semantics : Primes and Universals|publisher=Oxford University Press|year=1996|isbn=9780191588594|location=UK|pages=}}</ref>'', [[Leonard Talmy]]'s conceptual primitives,'' [[Roger Schank]] ''[[conceptual dependency theory]]'' and [[Andrea diSessa|Andrea A. diSessa]]'s phenomenological primitives (p-prims).
+
+Image schemas have also been proposed to be descriptors of [[James J. Gibson|Gibsonian]] [[affordance]]s. An object like a ''cup'' affords the image schema Containment to liquids and an abstract concept like ''transportation'' offer the affordance of moving something from one point to another as an image-schematic combination of Source-Path-Goal and Containment (alternatively Support).
+
+== Formal specification of image schemas and role in artificial intelligence ==
+[[File:Path-Family.jpg|thumb|Some members of the Source-Path-Goal family.<ref>{{Cite book|last=Hedblom|first=Maria M.|url=http://link.springer.com/10.1007/978-3-030-47329-7|title=Image Schemas and Concept Invention: Cognitive, Logical, and Linguistic Investigations|date=2020|publisher=Springer International Publishing|isbn=978-3-030-47328-0|series=Cognitive Technologies|location=Cham|language=en|doi=10.1007/978-3-030-47329-7|s2cid=219607936}}</ref><ref>{{Cite journal|last1=Hedblom|first1=Maria M.|last2=Kutz|first2=Oliver|last3=Neuhaus|first3=Fabian|date=2015-12-01|title=Choosing the Right Path: Image Schema Theory as a Foundation for Concept Invention|journal=Journal of Artificial General Intelligence|volume=6|issue=1|pages=21–54|doi=10.1515/jagi-2015-0003|bibcode=2015JAGI....6...21H|issn=1946-0163|doi-access=free}}</ref>]]
+While originally a theory for cognitive linguistics, the theory of image schemas and the underlying ideas behind embodied cognition have become of increased interest in artificial intelligence and cognitive robotics to help solve issues with natural language comprehension and the application of affordances. The research on formal accounts (e.g.<ref>{{Citation|last1=Chang|first1=Yu-Han|title=Piagetian Adaptation Meets Image Schemas: The Jean System|date=2006|url=http://dx.doi.org/10.1007/11840541_31|work=From Animals to Animats 9|pages=369–380|place=Berlin, Heidelberg|publisher=Springer Berlin Heidelberg|isbn=978-3-540-38608-7|access-date=2021-01-26|last2=Cohen|first2=Paul R.|last3=Morrison|first3=Clayton T.|last4=Amant|first4=Robert St.|last5=Beal|first5=Carole|doi=10.1007/11840541_31|url-access=subscription}}</ref><ref name=":0">{{Cite book|last1=Hedblom|first1=Maria M.|last2=Kutz|first2=Oliver|last3=Mossakowski|first3=Till|last4=Neuhaus|first4=Fabian|title=AI*IA 2017 Advances in Artificial Intelligence |chapter=Between Contact and Support: Introducing a Logic for Image Schemas and Directed Movement |date=2017|editor-last=Esposito|editor-first=Floriana|editor-link=Floriana Esposito|editor2-last=Basili|editor2-first=Roberto|editor3-last=Ferilli|editor3-first=Stefano|editor4-last=Lisi|editor4-first=Francesca A.|chapter-url=https://link.springer.com/chapter/10.1007%2F978-3-319-70169-1_19|series=Lecture Notes in Computer Science|volume=10640|language=en|location=Cham|publisher=Springer International Publishing|pages=256–268|doi=10.1007/978-3-319-70169-1_19|isbn=978-3-319-70169-1}}</ref>) of these abstract patterns date back several decades and has been proposed as a way to deal with [[Geographic information science|geographical information science]] ,<ref>{{Citation|last=Kuhn|first=Werner|title=An Image-Schematic Account of Spatial Categories|url=http://dx.doi.org/10.1007/978-3-540-74788-8_10|work=Spatial Information Theory|series=Lecture Notes in Computer Science|year=2007|volume=4736|pages=152–168|place=Berlin, Heidelberg|publisher=Springer Berlin Heidelberg|doi=10.1007/978-3-540-74788-8_10|isbn=978-3-540-74786-4|access-date=2021-01-26|url-access=subscription}}</ref> natural language comprehension, automatic [[ontology]] generation<ref>Bennett, B., & Cialone, C. (2014, September). Corpus Guided Sense Cluster Analysis: a methodology for ontology development (with examples from the spatial domain). In ''FOIS'' (pp. 213-226).</ref> and computational [[conceptual blending]].<ref>{{Cite journal|last1=Hedblom|first1=Maria M.|last2=Kutz|first2=Oliver|last3=Neuhaus|first3=Fabian|date=September 2016|title=Image schemas in computational conceptual blending|url=http://dx.doi.org/10.1016/j.cogsys.2015.12.010|journal=Cognitive Systems Research|volume=39|pages=42–57|doi=10.1016/j.cogsys.2015.12.010|s2cid=39839163|issn=1389-0417|url-access=subscription}}</ref>
+
+As a direct relation to embodied cognition, and more specifically embodied [[construction grammar]], formal approaches to image schemas often limit the research area by looking at image schemas exclusively as ''spatiotemporal relationships''. This provides a feasible foundation for knowledge representation to represent each individual image schema as well as their interconnection as relationships in a 3D space. One formal language to describe them is the ISL (Image Schema Language), a logic language combined by different formal calculi and [[first-order logic]] that builds on creating hierarchical families of logical micro-theories that is able to represent different degrees of specification of the image schemas.<ref name=":0" /> 
+
+In artificial intelligence, image schemas are also used as an inspiration to advance natural language comprehension of metaphors, conceptual blending and creative language use. This is extended to also include non-linguistic reasoning such as [[commonsense reasoning]] (e.g. see Davis' [http://www-formal.stanford.edu/leora/commonsense/eggcracking.html Egg cracking problem] and the approach made to describe it image-schematically<ref>{{Cite journal|last1=Hedblom|first1=Maria M.|last2=Kutz|first2=Oliver|last3=Peñaloza|first3=Rafael|last4=Guizzardi|first4=Giancarlo|date=2019-07-17|title=Image Schema Combinations and Complex Events|journal=KI - Künstliche Intelligenz|volume=33|issue=3|pages=279–291|doi=10.1007/s13218-019-00605-1|issn=0933-1875|doi-access=free|hdl=10281/268048|hdl-access=free}}</ref>) and the formal structure of events<ref>Robert St. Amant, Clayton T. Morrison, Yu-Han Chang, Paul R. Cohen, and Carole Beal. An image schema language. In International Conference on Cognitive Modeling (ICCM), pages 292–297, 2006.</ref> prototypical as some of the biggest challenges in AI.
+
+==Lists of image schemas==
+While Johnson provided an initial list of image schemas in ''The Body in the Mind'' (p.&nbsp;126), his diagrams for them are scattered throughout his book and he only diagrammed a portion of those image schemas he listed. In his work, Lakoff also used several additional schemas.
+
+===Schemas discussed by Johnson===
+{{Div col|colwidth=22em}}
+:Spatial motion group
+::Containment
+::Path
+::Source-Path-Goal
+::Blockage
+::Center-Periphery
+::Cycle
+::Cyclic Climax
+:Force Group
+::Compulsion
+::Counterforce
+::Diversion
+::Removal of Restraint
+::Enablement
+::Attraction
+::Link
+::Scale
+:Balance Group
+::Axis Balance
+::Point Balance
+::Twin-Pan Balance
+::Equilibrium
+{{Div col end}}
+
+===Schemas listed, but not discussed, by Johnson===
+{{Div col|colwidth=22em}}
+::Contact
+::Surface
+::Full-Empty
+::Merging
+::Matching
+::Near-Far
+::Mass-Count
+::Iteration
+::Object
+::Splitting
+::Part-Whole
+::Superimposition
+::Process
+::Collection
+{{Div col end}}
+
+===Additional schemas discussed by Lakoff ===
+{{Div col|colwidth=22em}}
+:Transformational group
+::Linear path from moving object (one-dimensional trajector)
+::Path to endpoint (endpoint focus)
+::Path to object mass (path covering)
+::Multiplex to mass (possibly the same as Johnson's undefined Mass-Count)
+::Reflexive (both part-whole and temporally different reflexives)
+::Rotation
+:Spatial group
+::Above
+::Across
+::Covering
+::Contact
+::Vertical Orientation
+::Length (extended trajector)
+{{Div col end}}
+
+===Schemas proposed and discussed by others===
+::Rough-smooth/Bumpy-smooth (Rohrer; Johnson and Rohrer)
+::Straight (Cienki)
+
+=== Mandler and Canovas' image schema hierarchy ===
+
+Source:<ref>{{Cite journal|last1=MANDLER|first1=JEAN M.|last2=PAGÁN CÁNOVAS|first2=CRISTÓBAL|date=2014-05-13|title=On defining image schemas|url=http://dx.doi.org/10.1017/langcog.2014.14|journal=Language and Cognition|volume=6|issue=4|pages=510–532|doi=10.1017/langcog.2014.14|s2cid=146194332 |issn=1866-9808|url-access=subscription}}</ref>
+
+# '''Spatial primitives.''' The first building blocks that allow us to understand what we perceive: PATH, CONTAINER, THING, CONTACT, etc. 
+# '''Image schemas.''' Representations of simple spatial events using the primitives: PATH TO THING, THING INTO CONTAINER, etc. 
+# '''Schematic integrations.''' The first conceptual representations to include non-spatial elements, by projecting feelings or non-spatial perceptions to blends structured by image schema
+
+==See also==
+{{Div col|colwidth=22em}}
+* [[Affordances]]
+* [[Artificial consciousness]]
+* [[Cognitive architecture]]
+* [[Commonsense reasoning]]
+* [[Conceptual space]]
+* [[Construction grammar]]
+* [[Embodied philosophy]]
+* [[Schema (psychology)]]
+{{Div col end}}
+
+==Notes==
+{{reflist}}
+
+==References==
+{{refbegin}}
+* Johnson, Mark (1987).  ''The Body in the Mind: The Bodily Basis of Meaning, Imagination, and Reason'', University of Chicago.
+* Lakoff, George (1987) ''Women, Fire, and Dangerous Things: What Categories Reveal About the Mind'' Chicago: University of Chicago Press.
+* Rohrer, Tim (2006) "Image Schemata in the Brain", in Beate Hampe (ed.) ''From Perception to Meaning: Image Schemas in Cognitive Linguistics'', Berlin: Mouton de Gruyter. [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.88.2382&rep=rep1&type=pdf Online version] (<small>PDF</small>) &mdash; A recent book chapter which explores the evidence from cognitive neuroscience and cognitive science for the neural underpinnings of image schemas.
+{{refend}}
+
+{{DEFAULTSORT:Image Schema}}
+[[Category:Visual thinking]]
+[[Category:Cognitive linguistics]]

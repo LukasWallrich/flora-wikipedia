@@ -1,0 +1,24 @@
+{{Short description|Protein-coding gene in the species Homo sapiens}}
+{{infobox gene}}
+'''Putative Serine Protease 56 (PRSS56)''' is a [[serine]] [[protease]] that in humans is encoded by the ''PRSS56'' [[gene]]. This [[protein]] has been implicated in human [[eye]] development.
+
+==Genomics==
+
+The gene is located on long arm of [[chromosome 2]] (2q37.1). The encoded protein is 603 [[amino acid]] residues in length with a predicted molecular weight of 64 597 daltons.
+
+The protein contains a peptidase S1 domain and possesses [[trypsin]] like serine protease activity.
+
+==Clinical==
+
+Mutations in this gene are a cause of autosomal recessive [[posterior microphthalmos]].<ref name=Gal2011>{{cite journal | vauthors = Gal A, Rau I, El Matri L, Kreienkamp HJ, Fehr S, Baklouti K, Chouchane I, Li Y, Rehbein M, Fuchs J, Fledelius HC, Vilhelmsen K, Schorderet DF, Munier FL, Ostergaard E, Thompson DA, Rosenberg T | title = Autosomal-recessive posterior microphthalmos is caused by mutations in PRSS56, a gene encoding a trypsin-like serine protease | journal = American Journal of Human Genetics | volume = 88 | issue = 3 | pages = 382–90 | date = March 2011 | pmid = 21397065 | pmc = 3059417 | doi = 10.1016/j.ajhg.2011.02.006 }}</ref><ref name=Nair2011>{{cite journal | vauthors = Nair KS, Hmani-Aifa M, Ali Z, Kearney AL, Ben Salem S, Macalinao DG, Cosma IM, Bouassida W, Hakim B, Benzina Z, Soto I, Söderkvist P, Howell GR, Smith RS, Ayadi H, John SW | title = Alteration of the serine protease PRSS56 causes angle-closure glaucoma in mice and posterior microphthalmia in humans and mice | journal = Nature Genetics | volume = 43 | issue = 6 | pages = 579–84 | date = June 2011 | pmid = 21532570 | pmc = 4388060 | doi = 10.1038/ng.813 }}</ref><ref name=Said2013>{{cite journal | vauthors = Said MB, Chouchène E, Salem SB, Daoud K, Largueche L, Bouassida W, Benzina Z, Ayadi H, Söderkvist P, Matri L, Hmani-Aifa M | title = Posterior microphthalmia and nanophthalmia in Tunisia caused by a founder c.1059_1066insC mutation of the PRSS56 gene | journal = Gene | volume = 528 | issue = 2 | pages = 288–94 | date = October 2013 | pmid = 23820083 | doi = 10.1016/j.gene.2013.06.045 }}</ref> The clinical features of this condition include extreme hyperopia due to short axial length with essentially normal anterior segment, steep corneal curvatures, shallow anterior chamber, thick lenses and thickened scleral walls. The palpebral fissures appear narrow because of relatively deep set eyes. Visual acuity is mildly to moderately reduced, and anisometropic or strabismic amblyopia is common. The fundus of the eye shows crowded optical discs, tortuous vessels and an abnormal foveal avascular zone.
+
+==Disease Model==
+Mice homozygous for an ENU induced mutation show increased intraocular pressure, reduction in eye axial length, and narrow iridocorneal angles. Eyes from individuals with angle-closure glaucoma (ACG) often have a modestly decreased axial length, shallow anterior chamber and relatively large lens, features that predispose to angle closure. Homozygous mice model ACG.<ref name="Nair2011"/>
+
+== References ==
+{{reflist}}
+
+{{Eye pathology}}
+{{Serine endopeptidases}}
+
+[[Category:Genes on human chromosome 2]]

@@ -1,0 +1,99 @@
+{{short description|American economist (born c. 1973)}}
+{{Use American English|date=December 2019}}
+{{Use dmy dates|date=December 2019}}
+{{Infobox scientist
+| name              = Sendhil Mullainathan
+| image             = Sendhil Mullainathan - Behavioral Economics of Extreme Poverty - 2014 (13927918920) (cropped).jpg
+| caption           = Mullainathan in 2014
+| birth_date        = c. {{birth year and age|1973}}
+| birth_place       = [[Tamil Nadu, India]]
+| citizenship       = [[United States]]
+| field             = [[Economics]], [[Behavioral economics]]
+| workplaces        = [[MIT]] 2024–<br />[[University of Chicago Booth School of Business]] 2018–2024<br />[[Harvard University]] 2004–2018<br />[[MIT]] 1999–2004
+| doctoral_advisor  = [[Drew Fudenberg]] <br /> [[Lawrence F. Katz|Lawrence Katz]] <br /> [[Andrei Shleifer]]
+| doctoral_students = [[Ebonya Washington]]<ref>Washington, Ebonya  (2003), ''[https://dspace.mit.edu/handle/1721.1/17633 Essays in public finance]''. Ph.D. dissertation, Massachusetts Institute of Technology.</ref><br />[[Benjamin Jones (economist)|Benjamin Jones]]
+| known_for         = [[Behavioral economics]]<br />[[Development economics]]<br />[[Corporate finance]]
+| prizes            = [[MacArthur Fellows Program|MacArthur Fellow]]
+| education         = [[Cornell University]] ([[Bachelor of Arts|BA]])<br />[[Harvard University]] ([[Ph.D.|PhD]])
+}}
+
+'''Sendhil Mullainathan''' ({{pronunciation|Sendhil Mullainathan Pronunciation.ogg}}) (born c. 1973) is an American professor of economics and professor of electrical engineering and computer science at the [[Massachusetts Institute of Technology]].<ref>{{Cite web |last=Mullainathan |first=Sendil |date=2024 |title=MIT Economics |url=https://economics.mit.edu/people/faculty/sendhil-mullainathan |access-date=September 20, 2024 |website=MIT Economics People}}</ref><ref>{{Cite web|last=Mullainathan |first=Sendil |date=2025 |title=MIT EECS |url=https://www.eecs.mit.edu/people/sendhil-mullainathan  |access-date=August 10, 2025 |website=MIT EECS People}}</ref>
+
+==Early life and career==
+Born in a small farming village in [[Tamil Nadu, India]], Mullainathan moved to the Los Angeles area in 1980.<ref>{{cite news|title=Is Alfred Marshall Passe?|url=https://www.forbes.com/forbes/2005/1017/071|access-date=18 January 2018|work=Forbes|date=October 17, 2005}}</ref><ref name=":0">{{Cite web |last=Feinberg |first=Cara |date=2015-04-15 |title=Harvard's Sendhil Mullainathan on behavior and poverty {{!}} Harvard Magazine |url=https://www.harvardmagazine.com/node/48412 |website=www.harvardmagazine.com |language=en}}</ref> His father studied and later worked in [[aerospace engineering]].<ref name=":0" /> As [[security clearance]] laws in the US aerospace industry were tightened in the 1980s, his father lost his job.<ref name=":0" /> His parents subsequently operated a [[Video rental shop|video store]].<ref name=":0" />
+
+He received his B.A. in computer science, mathematics, and economics from [[Cornell University]] in 1993 and he completed his Ph.D. in economics from [[Harvard University]] 1993–1998.<ref>{{cite web|title=CV|url=http://scholar.harvard.edu/files/sendhil/files/mullainathan_2017_february.pdf|website=Harvard|access-date=18 January 2018}}</ref>
+
+Mullainathan was a professor of Computation and Behavioral Science at the [[University of Chicago Booth School of Business]] from 2018–2024. He is the author of ''[[Scarcity: Why Having Too Little Means So Much]]''<ref>{{cite book |last1=Mullainathan |first1=Sendhil |title=Scarcity: why having too little means so much |last2=Shafir |first2=Eldar |author-link2=Eldar Shafir |publisher=Allen Lane, an imprint of Penguin Books |year=2013 |isbn=9781846143458 |location=London}}</ref> (with [[Eldar Shafir]]). He was hired with tenure by Harvard in 2004 after having spent six years at MIT.
+
+Mullainathan is a recipient of a [[MacArthur Foundation]] "genius grant" and conducts research on [[development economics]], [[behavioral economics]], and [[corporate finance]]. He is co-founder of Ideas 42, a non-profit organization that uses behavioral science to help solve social problems, and [[Abdul Latif Jameel Poverty Action Lab|J-PAL]], the MIT Poverty Action Lab and has made extensive academic contributions through the National Bureau of Economic Research and has also worked in government at the [[Consumer Financial Protection Bureau]] (CFPB). In May 2018, he moved from Harvard to the [[University of Chicago Booth School of Business]], becoming the George C. Tiao Faculty Fellow.<ref>{{Cite news |date=2018-05-21 |title=Behavioral economist Sendhil Mullainathan to join Booth faculty as University Professor |url=https://news.uchicago.edu/article/2018/05/21/behavioral-economist-sendhil-mullainathan-join-booth-faculty-university-professor |access-date=2018-05-23 |work=UChicago News |language=en}}</ref> In November 2018, he received the Infosys Prize (in Social Sciences category), one of the highest monetary awards in India that recognize excellence in science and research, for his contributions to the field of economics, especially behavioral economics.<ref>{{Cite web |title=Infosys Prize – Laureates 2018 – Prof. Sendhil Mullainathan |url=http://www.infosys-science-foundation.com/prize/laureates/2018/sendhil-mullainathan.asp |access-date=2019-01-22 |website=www.infosys-science-foundation.com}}</ref> In 2024, he moved back to MIT as a professor on joint appointment between the Department of Economics and the School of Engineering.<ref>{{cite web |date=23 May 2024 |title=School of Engineering welcomes new faculty |url=https://news.mit.edu/2024/school-engineering-welcomes-new-faculty-0523}}</ref>
+
+==Research contributions==
+{{Development economics sidebar}}
+He has made substantial contributions to the field of behavioral economics as well as innovative additions to the literature on development topics, such as [[discrimination]], [[corruption]], and [[corporate governance]]. According to [[IDEAS/RePEc]], he ranked 185th in September 2018 in terms of research among 54 233 registered economists (i.e, among the top 0.4%).<ref>[https://ideas.repec.org/top/top.person.all.html Top 10% Authors]. Retrieved November 5th, 2018.</ref>
+
+Mullainathan's research topics have included [[cigarette taxes]],<ref>{{Cite journal |last1=Mullainathan |first1=Sendhil |last2=Gruber |first2=Jonathan |author-link2=Jonathan Gruber (economist) |date=April 2002 |title=Do cigarette taxes make smokers happier? |journal=NBER Working Paper |volume=8872 |doi=10.3386/w8872 |doi-access=free}}</ref> corruption in obtaining driving licenses in [[Delhi]],<ref>{{Cite journal |last1=Mullainathan |first1=Sendhil |last2=Bertrand |first2=Marianne |author-link2=Marianne Bertrand |last3=Djankov |first3=Simeon |author-link3=Simeon Djankov |last4=Hanna |first4=Rema |date=2007 |title=Obtaining a driver's license in India: an experimental approach to studying corruption |journal=The Quarterly Journal of Economics |volume=122 |issue=4 |pages=1639–1676 |doi=10.1162/qjec.2007.122.4.1639}}</ref> executive compensation,<ref>{{Cite journal |last1=Mullainathan |first1=Sendhil |last2=Bertrand |first2=Marianne |author-link2=Marianne Bertrand |date=2001 |title=Are CEOs rewarded for luck? The ones without principals are |journal=The Quarterly Journal of Economics |volume=116 |issue=3 |pages=901–932 |citeseerx=10.1.1.721.5730 |doi=10.1162/00335530152466269}}</ref><ref>{{Cite journal |last1=Mullainathan |first1=Sendhil |last2=Bertrand |first2=Marianne |author-link2=Marianne Bertrand |date=May 2000 |title=Agents with and without principals |url=http://arks.princeton.edu/ark:/88435/dsp010v8380572 |journal=American Economic Review |volume=90 |issue=2 |pages=203–208 |doi=10.1257/aer.90.2.203}}</ref><ref>{{Cite journal |last1=Mullainathan |first1=Sendhil |last2=Bertrand |first2=Marianne |author-link2=Marianne Bertrand |date=November 1998 |title=Is there discretion in wage setting? A test using takeover legislation |journal=NBER Working Paper |volume=6807 |doi=10.3386/w6807 |doi-access=free}}</ref> and the impact of poverty on cognitive function.<ref>{{cite journal |last1=Mani |first1=Anandi |last2=Mullainathan |first2=Sendhil |last3=Shafir |first3=Eldar |last4=Zhao |first4=Jiaying |year=2013 |title=Poverty Impedes Cognitive Function |url=https://www.science.org/doi/10.1126/science.1238041 |journal=Science |volume=341 |issue=6149 |pages=976–980 |bibcode=2013Sci...341..976M |doi=10.1126/science.1238041 |pmid=23990553 |s2cid=1684186|url-access=subscription }}</ref>
+
+His influential 2004 paper "Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination" used a simple technique to measure labor market discrimination by switching the names at the top of resumes.<ref>{{Cite journal |last1=Mullainathan |first1=Sendhil |last2=Bertrand |first2=Marianne |author-link2=Marianne Bertrand |title=Are Emily and Greg more employable than Lakisha and Jamal? A field experiment on labor market discrimination |journal=American Economic Review |volume=94 |issue=4 |pages=991–1013 |doi=10.1257/0002828042002561 |date=September 2004 |url=http://s3.amazonaws.com/fieldexperiments-papers2/papers/00216.pdf}}</ref> Controlling for other factors, Mullainathan and his co-authors found that applications with white sounding names attained 50% more callbacks.
+
+His most-cited<ref>{{Cite web |last1=Bertrand |first1=Marianne |last2=Duflo |first2=Esther |last3=Mullainathan |first3=Sendil |date=February 2004 |title=How Much Should We Trust Differences-In Difference Estimates? |url=https://scholar.google.com/citations?user=oExfyEkAAAAJ&hl=en&oi=ao |access-date=September 20, 2024 |website=Google Scholar}}</ref> paper is a statistical methodology article, coauthored with [[Marianne Bertrand]] and [[Esther Duflo]], which shows that a statistical procedure that is commonly used in the empirical economics literature frequently drastically overstates the statistical significance of the results. The article, "How Much Should We Trust Differences-In-Differences Estimates?"<ref>{{Cite web |last1=Bertrand |first1=Marianne |last2=Duflo |first2=Esther |last3=Mullainathan |first3=Sendil |date=February 2004 |title=How Much Should We Trust Differences-In-Differences Estimates? |url=https://academic.oup.com/qje/article/119/1/249/1876068 |access-date=September 20, 2024 |website=Quarterly Journal of Economics}}</ref> shows that when a trend is occurring, a statistical test of whether there has been a "before and after" change regarding some event, such as the passage of a law, is likely to find that there has been a significant change due to the passage of the law even when the law had no effect on the trend.
+
+==Selected bibliography==
+{{Scholia}}
+
+===Books===
+* {{cite book | last1 = Mullainathan | first1 = Sendhil | last2 = Kling | first2 = Jeffrey R. | last3 = Congdon | first3 = William J. | author-link2 = Jeffrey R. Kling | title = Policy and choice: public finance through the lens of behavioral economics | publisher = Brookings Institution Press | location = Washington | year = 2012 | isbn = 9780815722588 }}
+* {{cite book | last1 = Mullainathan | first1 = Sendhil | last2 = Shafir | first2 = Eldar | author-link2 = Eldar Shafir | title = Scarcity: why having too little means so much | publisher = Allen Lane, an imprint of Penguin Books | location = London | year = 2013 | isbn = 9781846143458 }}
+
+===Journal articles===
+* {{Cite journal | last1 = Mullainathan | first1 = Sendhil | last2 = Bertrand | first2 = Marianne | last3 = Luttmer  | first3 = Erzo F.P. | author-link2 = Marianne Bertrand | title = Network effects and welfare cultures | journal = The Quarterly Journal of Economics | volume = 115 | issue = 3 | pages = 1019–1055 | doi = 10.1162/003355300554971 | date = 2000 | url = http://arks.princeton.edu/ark:/88435/dsp019g54xh665 | hdl = 1721.1/63969 | hdl-access = free }}
+* {{Cite journal | last1 = Mullainathan | first1 = Sendhil | last2 = Bertrand | first2 = Marianne | author-link2 = Marianne Bertrand | title = Agents with and without principals | journal = American Economic Review | volume = 90 | issue = 2 | pages = 203–208 | doi = 10.1257/aer.90.2.203 | date = May 2000 | url = http://arks.princeton.edu/ark:/88435/dsp010v8380572 }}
+* {{Cite journal | last1 = Mullainathan | first1 = Sendhil | last2 = Bertrand | first2 = Marianne | author-link2 = Marianne Bertrand | title = Are CEOs rewarded for luck? The ones without principals are | journal = The Quarterly Journal of Economics | volume = 116 | issue = 3 | pages = 901–932 | doi = 10.1162/00335530152466269  | date = 2001  | citeseerx = 10.1.1.721.5730 }}
+* Mullainathan, Sendil, Bertrand, Marianne, Duflo, Esther (February 2004) "How Much Should We Trust Differences-In-Differences Estimates?" ''Quarterly Journal of Economics'' 119 (1): 249–275. {{doi|10.1162/003355304772839588}}
+* {{Cite journal | last1 = Mullainathan | first1 = Sendhil | last2 = Bertrand | first2 = Marianne | author-link2 = Marianne Bertrand | title = Are Emily and Greg more employable than Lakisha and Jamal? A field experiment on labor market discrimination | journal = American Economic Review | volume = 94 | issue = 4 | pages = 991–1013 | doi = 10.1257/0002828042002561 | date = September 2004 | url = http://s3.amazonaws.com/fieldexperiments-papers2/papers/00216.pdf }}
+* {{Cite journal | last1 = Mullainathan | first1 = Sendhil | last2 = Bertrand | first2 = Marianne | last3 = Djankov  | first3 = Simeon | author4-link = Rema Hanna | last4 = Hanna | first4 = Rema | author-link2 = Marianne Bertrand | author-link3 = Simeon Djankov | title = Obtaining a driver's license in India: an experimental approach to studying corruption | journal = The Quarterly Journal of Economics | volume = 122 | issue = 4 | pages = 1639–1676 | doi = 10.1162/qjec.2007.122.4.1639 | date = 2007 }}
+* {{Cite journal | last1 = Mullainathan | first1 = Sendhil | last2 = Bertrand | first2 = Marianne | last3 = Shafir | first3 = Eldar | last4 = Karlan | first4 = Dean | last5 = Zinman | first5 = Jonathan | author-link2 = Marianne Bertrand | author-link3 = Eldar Shafir | author-link4 = Dean Karlan | author-link5 = Jonathan Zinman | title = What's advertising content worth? Evidence from a consumer credit marketing field experiment | journal = The Quarterly Journal of Economics | volume = 125 | issue = 1 | pages = 263–306 | doi = 10.1162/qjec.2010.125.1.263 | date = 2010 | url = http://economics.yale.edu/sites/default/files/files/Working-Papers/wp000/ddp0058.pdf | hdl = 10419/27007 | s2cid = 3231264 }}
+* {{Cite journal | last1 = Mullainathan | first1 = Sendhil | last2 = Shafir | first2 = Eldar | last3 = Mani | first3 = Anandi | last4 = Zhao | first4 = Jiaying | author-link2 = Eldar Shafir | title = Poverty impedes cognitive function | journal = Science | volume = 341 | issue = 6149 | pages = 976–980 | doi = 10.1126/science.1238041 | date = 30 August 2013 | pmid=23990553| citeseerx = 10.1.1.398.6303 | bibcode = 2013Sci...341..976M | s2cid = 1684186 }}
+
+===Papers===
+* {{Cite journal | last1 = Mullainathan | first1 = Sendhil | last2 = Bertrand | first2 = Marianne | author-link2 = Marianne Bertrand | title = Is there discretion in wage setting? A test using takeover legislation | journal = NBER Working Paper | volume = 6807 | date = November 1998 | doi=10.3386/w6807 | doi-access = free }}
+* {{Cite journal | last1 = Mullainathan | first1 = Sendhil | last2 = Bertrand | first2 = Marianne | author-link2 = Marianne Bertrand | title = Executive compensation and incentives the impact of takeover legislation | journal = NBER Working Paper | volume = 6830 | date = December 1998 | doi=10.3386/w6830 | doi-access = free | hdl = 1721.1/63539 | hdl-access = free }}
+* {{Cite journal | last1 = Mullainathan | first1 = Sendhil | last2 = Bertrand | first2 = Marianne | last3 = Miller | first3 = Douglas | author-link2 = Marianne Bertrand | title = Public policy and extended families: evidence from South Africa | journal = NBER Working Paper | volume = 7594 | date = March 2000 | doi=10.3386/w7594 | doi-access = free }}
+* {{Cite journal | last1 = Mullainathan | first1 = Sendhil | last2 = Gruber | first2 = Jonathan | author-link2 = Jonathan Gruber (economist) | title = Do cigarette taxes make smokers happier? | journal = NBER Working Paper | volume = 8872 | date = April 2002| doi=10.3386/w8872 | doi-access = free }}
+* {{Cite journal | last1 = Mullainathan | first1 = Sendhil | last2 = Bertrand | first2 = Marianne | author-link2 = Marianne Bertrand | title = Profitable investments or dissipated cash? evidence on the investment-cash flow relationship from oil and gas lease bidding | journal = NBER Working Paper | volume = 11126 | date = February 2005 | doi=10.3386/w11126 | doi-access = free }}
+* {{Cite journal | last1 = Mullainathan | first1 = Sendhil | last2 = Banerjee | first2 = Abhijit | author-link2 = Abhijit Banerjee | title = The shape of temptation: implications for the economic lives of the poor | journal = NBER Working Paper | volume = 15973 | date = May 2010 | doi=10.3386/w15973 | doi-access = free | hdl = 1721.1/64250 | hdl-access = free }}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [http://scholar.harvard.edu/mullainathan Harvard Faculty Web Page]
+* [http://us.macmillan.com/scarcity/SendhilMullainathan Scarcity: Why Having Too Little Means So Much]
+* [https://ideas.time.com/2013/09/09/the-mistake-busy-people-make/ The Mistake Busy People Make (Time)]
+* [https://www.nytimes.com/2013/09/22/business/the-mental-strain-of-making-do-with-less.html?_r=0 The Mental Strain of Making Do With Less (The New York Times)]
+* [https://www.nytimes.com/2013/08/11/business/when-a-co-pay-gets-in-the-way-of-health.html When a Co-Pay Gets in the Way of Health (The New York Times)]
+* [https://www.science.org/doi/10.1126/science.1238041 Poverty Impedes Cognitive Function]
+* [https://web.archive.org/web/20080218132606/http://www.economics.harvard.edu/faculty/mullainathan/papers_mullainathan List of Working Papers Online]
+* [https://www.ted.com/talks/sendhil_mullainathan_solving_social_problems_with_a_nudge TEDIndia Talk]
+
+{{Instecon|state=collapsed}}
+{{Authority control}}
+
+{{DEFAULTSORT:Mullainathan, Sendhil}}
+[[Category:1970s births]]
+[[Category:Living people]]
+[[Category:Cornell University alumni]]
+[[Category:Harvard University alumni]]
+[[Category:MacArthur Fellows]]
+[[Category:Massachusetts Institute of Technology faculty]]
+[[Category:Harvard University faculty]]
+[[Category:American behavioral economists]]
+[[Category:Indian emigrants to the United States]]
+[[Category:American people of Indian Tamil descent]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Center for Global Development]]
+[[Category:Indian economists]]
+[[Category:Tamil people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:21st-century American statisticians]]

@@ -1,0 +1,49 @@
+{{Short description|American cognitive psychologist}}
+{{Infobox academic
+| name              = Katherine Rawson
+| occupation        = Professor of Psychological Sciences
+| workplaces        = Kent State University
+| alma_mater        = University of North Carolina at Greensboro; University of Colorado Boulder
+| spouse            = 
+|citizenship=|awards=*Presidential Early Career Award for Scientists and Engineers (2009)
+*Psychonomic Society Outstanding Early Career Award (2014)}}'''Katherine A. Rawson''' is an American [[Cognitive psychology|cognitive psychologist]] known for her [[educational psychology|educational]] research on how to optimize learning, promote effective study strategies, and enhance [[metacognition]]. She is Professor in the Department of Psychological Sciences at [[Kent State University]].<ref name=":0">{{Cite web|title=Katherine Rawson {{!}} Kent State University|url=https://www.kent.edu/psychology/profile/katherine-rawson|access-date=2020-10-20|website=www.kent.edu}}</ref> She is co-editor (with John Dunlosky) of ''The Cambridge Handbook of Cognition and Education,''<ref>{{Cite book|last=Dunlosky, John,, Rawson, Katherine A. (Eds.)|title=The Cambridge handbook of cognition and education|date=7 February 2019 |isbn=978-1-108-41601-6|location=Cambridge, United Kingdom|oclc=1045734554}}</ref> which surveys research on teaching and study strategies that increase learning.
+
+== Awards ==
+Rawson was awarded the [[Presidential Early Career Award for Scientists and Engineers]], in 2009.<ref name=":1">{{Cite web|title=Presidential Early Career Awards Recipients|url=https://www.apa.org/science/about/psa/2009/08/pecase}}</ref> This award recognizes "some of the finest scientists and engineers who, while early in their research careers, show exceptional potential for leadership at the frontiers of scientific knowledge."<ref>{{Cite web|title=Presidential Early Career Awards for Scientists and Engineers (PECASE)|date=29 June 2010 |url=https://science.osti.gov/About/Honors-and-Awards/PECASE}}</ref> President [[Barack Obama]] named Rawson one of 100 researchers worthy of the award that year.<ref name=":2">{{Cite web|title=President Obama to honor Kent State University professor|url=http://www.eurekalert.org/pub_releases/2010-01/ksu-pot011310.php|access-date=2020-10-22|website=EurekAlert!|language=en}}</ref>
+
+Rawson received the Outstanding Early Career Award from the [[Psychonomic Society]] in 2014. Her award citation stated that "her prolific research program has both practical significance and theoretical impact on several interrelated problems pertaining to education, strategies that promote effective learning, and the automatization of reading. Her work demonstrates the critical importance of the spacing, timing, and difficulty of retesting on the quality and durability of learning in educationally relevant domains.<ref>{{Cite web|title=2014 Early Career Award Recipient - Psychonomic Society|url=https://www.psychonomic.org/page/katherinerawson|access-date=2020-10-22|website=www.psychonomic.org}}</ref>
+
+== Biography ==
+Rawson attended the [[University of North Carolina at Greensboro]] where she earned a B.A. degree in Psychology with University Honors (Summa Cum Laude) in 1999. She is a member of [[Phi Beta Kappa]].
+
+Rawson continued her education at the [[University of Colorado Boulder]]. She completed her PhD in 2004 under the supervision of [[Walter Kintsch]]<ref>{{Cite web|title=Neurotree - Katherine Rawson Family Tree|url=https://neurotree.org/neurotree/tree.php?pid=49309|access-date=2020-10-22|website=neurotree.org}}</ref> with her dissertation exploring [[automaticity]] in text comprehension.<ref>{{Cite journal|last=Rawson|first=Katherine A.|date=2004|title=Exploring automaticity in text processing: Syntactic ambiguity as a test case|url=https://linkinghub.elsevier.com/retrieve/pii/S0010028504000283|journal=Cognitive Psychology|language=en|volume=49|issue=4|pages=333–369|doi=10.1016/j.cogpsych.2004.04.001|pmid=15342258 |s2cid=23227587 |url-access=subscription}}</ref> Other research, she conducted with Kintsch focused on factors that improve memory for text.<ref>{{Cite journal|last1=Rawson|first1=Katherine A.|last2=Kintsch|first2=Walter|date=2002|title=How does background information improve memory for text content?|journal=Memory & Cognition|volume=30|issue=5|pages=768–778|doi=10.3758/bf03196432|pmid=12219893 |issn=0090-502X|doi-access=free|hdl=11323/2814|hdl-access=free}}</ref>  Rawson joined the faculty of Kent State University in 2004 where her research has been supported by the [[National Science Foundation]].<ref>{{Cite web|title=NSF Grant Supports Kent State Researchers' Plan to Help Students Improve Study Habits {{!}} Kent State University|url=https://www.kent.edu/research/news/nsf-grant-supports-kent-state-researchers-plan-help-students-improve-study-habits|access-date=2020-12-01|website=www.kent.edu|language=en}}</ref><ref>{{Cite web|title=NSF Award Search: Award#1914499 - Enhancing Durable and Efficient Student Learning in Undergraduate Gateway STEM Courses|url=https://nsf.gov/awardsearch/showAward?AWD_ID=1914499&HistoricalAwards=false|access-date=2020-12-01|website=nsf.gov}}</ref>
+
+Rawson's research focuses on the cognitive psychology of learning and metacognition. Her experiments often test ways to potentially increase the effectiveness of learning in the classroom. She has done research on a psychological phenomenon known as the [[testing effect]].<ref>{{Cite journal|last1=Pyc|first1=M. A.|last2=Rawson|first2=K. A.|date=2010-10-15|title=Why Testing Improves Memory: Mediator Effectiveness Hypothesis|url=https://www.science.org/doi/10.1126/science.1191465|journal=Science|language=en|volume=330|issue=6002|pages=335|doi=10.1126/science.1191465|pmid=20947756 |bibcode=2010Sci...330..335P |s2cid=19431054 |issn=0036-8075|url-access=subscription}}</ref><ref>{{Cite journal|last=Rawson|first=Katherine A.|date=2015|title=The Status of the Testing Effect for Complex Materials: Still a Winner|url=http://link.springer.com/10.1007/s10648-015-9308-4|journal=Educational Psychology Review|language=en|volume=27|issue=2|pages=327–331|doi=10.1007/s10648-015-9308-4|s2cid=143394699 |issn=1040-726X|url-access=subscription}}</ref> The testing effect occurs when [[long-term memory]] is improved by retrieving to-be-remembered information, as occurs when a person takes a test.<ref>{{Cite journal|last1=Dunlosky|first1=John|last2=Rawson|first2=Katherine A.|last3=Marsh|first3=Elizabeth J.|last4=Nathan|first4=Mitchell J.|last5=Willingham|first5=Daniel T.|date=2013|title=Improving Students' Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology|url=http://journals.sagepub.com/doi/10.1177/1529100612453266|journal=Psychological Science in the Public Interest|language=en|volume=14|issue=1|pages=4–58|doi=10.1177/1529100612453266|pmid=26173288 |s2cid=1621081 |issn=1529-1006|url-access=subscription}}</ref> Rawson has explored effects of retrieval difficulty by varying the interval between tests and the difficulty of test questions. Her research showed that retrieval of information was improved when the amount of time between each test was longer and the tests were more difficult. These variables raised the average score on the tests and resulted in a better understanding of the topic.<ref>{{Cite journal|last1=Pyc|first1=Mary A.|last2=Rawson|first2=Katherine A.|date=2009|title=Testing the retrieval effort hypothesis: Does greater difficulty correctly recalling information lead to higher levels of memory?|url=https://linkinghub.elsevier.com/retrieve/pii/S0749596X09000138|journal=Journal of Memory and Language|language=en|volume=60|issue=4|pages=437–447|doi=10.1016/j.jml.2009.01.004|s2cid=73651886 |url-access=subscription}}</ref>
+
+== Representative publications ==
+
+* Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students’ learning with effective learning techniques: Promising directions From cognitive and educational psychology. ''Psychological Science in the Public Interest, 14''(1), 4–58.
+* Pyc, M. A., & Rawson, K. A. (2010). Why testing improves memory: Mediator effectiveness hypothesis. ''Science'' , ''330'' (6002), 335.
+*Rawson, K. A., & Dunlosky, J. (2011). Optimizing schedules of retrieval practice for durable and efficient learning: How much is enough? ''Journal of Experimental Psychology: General, 140''(3), 283–302. 
+*Rawson, K.A., Dunlosky, J. & Thiede, K.W. (2000). The rereading effect: Metacomprehension accuracy improves across reading trials. ''Memory & Cognition'' 28, 1004–1010 
+* Rawson, K. A., & Kintsch, W. (2005). Rereading effects depend on time of test. ''Journal of Educational Psychology'', ''97'' (1), 70-80.
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [https://www.kent.edu/psychology/profile/katherine-rawson Faculty Homepage]
+* [https://www.kent.edu/psychology/comprehension-memory-lab Comprehension & Memory Lab at Kent State University]
+*{{google scholar id|IHkL3-UAAAAJ}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rawson, Katherine A.}}
+[[Category:American women psychologists]]
+[[Category:Kent State University faculty]]
+[[Category:University of North Carolina at Greensboro alumni]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:21st-century American women scientists]]
+[[Category:21st-century American psychologists]]
+[[Category:Recipients of the Presidential Early Career Award for Scientists and Engineers]]

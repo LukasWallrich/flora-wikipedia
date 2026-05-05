@@ -1,0 +1,333 @@
+'''Counterproductive norms''' are group [[Norm (social)|norms]] that prevent a [[Social group|group]], [[organization]], or other collective entities from performing or accomplishing its originally stated function by working oppositely to how they were initially intended. Group norms are typically enforced to facilitate group survival, to make group member behaviour predictable, to help avoid embarrassing interpersonal interactions, or to clarify distinctive aspects of the group’s identity.{{sfn|Feldman| 1984}} Counterproductive norms exist despite the fact that they cause opposite outcomes of the intended prosocial functions.
+
+Group [[Norm (social)|norms]] are informal rules and standards that guide and regulate the behaviour of a group’s members. These norms may be implicit or explicit and are intended to provide information on appropriate behaviour for group members in particular social situations. Thus, counterproductive norms instead illicit inappropriate behaviour from group members. Group norms are not predetermined but rather arise out of social interactions. These norms can have powerful influence over group behaviour. Norms may arise due to critical events in a group’s history that established a precedent, as a result of primacy (the first emergent behaviour that sets group expectations), or from carry-over behaviours from past situations.{{sfn|Feldman| 1984}}  Groups establish these norms based on specific group values and goals and may establish sanctions in response to deviation from these norms. Such sanctions are typically applied in the form of [[social exclusion]] or disapproval. Counterproductive norms also typically consist of these attributes but the intention behind their activation is usually not prosocial and is instead opposite to their original function.
+
+==Mechanisms of counterproductive norms==
+
+===Social proof===
+
+Counterproductive norms manifest in part because of the principle of [[social proof]].
+Social proof is what happens when we learn what is correct by referring to the views of others.{{sfn|Cialdini|2008}} This is especially true in unclear or ambiguous situations.{{sfn|Cialdini|2008}} When people infer the appropriate behavior from the descriptive norm, they are looking to the behaviors of others to try and figure out the most effective course of action.{{sfn|Cialdini|2008}} This might be a cognitive “short-cut" to determining most effective action, as the functional perspective of normative production might suggest.{{sfn|Cialdini |Reno |Kallgren |1990}} Counterproductive norms can be created by looking to the behavior of others.{{sfn| Cialdini| 2003}}{{sfn|Cialdini|2008}}
+
+===Normative influence===
+
+Both descriptive norms and injunctive norms are used in normative communications. If used incorrectly, they can create counter productive norms.{{sfn| Cialdini| 2003}} Descriptive norms describe what constitutes a normal behavior in a given context.{{sfn|Cialdini |Reno |Kallgren |1990}} They are often referred to as the “is" norms, because they depict things as they actually are.{{sfn|Cialdini |Reno |Kallgren |1990}} Injunctive norms describe whether a given action is considered acceptable.{{sfn|Cialdini |Reno |Kallgren |1990}} They are called the “ought" norms" because they constitute what should be.{{sfn|Cialdini |Reno |Kallgren |1990}} The descriptive norm is very powerful. The way that communications are phrased actually has a big impact on the effectiveness of the message.{{sfn | Cialdini | Demaine | Sagarin | Barrett| 2006}}{{sfn | Goldstein | Cialdini | Griskevicius | 2008}}  If that phrasing is used incorrectly, it follows that a counterproductive norm can develop.
+
+===Norm transmission===
+
+Norms may only exist in the context of a group. In other words, social norms do not exist with an independent individual. Norms may be transmitted deliberately by group members instructing others members on acceptable behaviour. They may also be transmitted passively through observation of others and their behaviours which are deemed acceptable by the group.{{sfn | Cialdini | Kallgren | Reno | 1991}}  Counterproductive norms are perpetuated by the same mechanisms but differ from group norms in terms of their outcomes.
+
+==Theoretical perspectives==
+
+Two different perspectives give explanations for the formation and existence of group norms and counterproductive group norms.
+
+The Societal-Value Perspective suggests that norms are arbitrary rules that exist as a result of cultural value or reinforcement. This theory states that a norm’s power depends on the value it represents to the culture.{{sfn | Solomon | Greenberg | Pyszczynski | 1991}} Social norms evolve out of behaviours that repeatedly occur and are reinforced.{{sfn | Opp | 1982}} Thus, the strength of norms and counterproductive norms depend on various group dynamics. Because they evolve out of social interaction, one factor of norm strength is the available opportunities for group members to communicate. The strongest norms are those that are important to the group. As well, strength depends on the cohesiveness and unity of the group.{{sfn | Opp | 1982}}
+
+The Functional Perspective suggests that norms exist to enhance survival potential by curtailing dysfunctional behaviours while encouraging socially proactive ones. Unlike the Societal-Value perspective, the Functional perspective states that norms are not arbitrary. Instead, they are meant to balance the needs of the individual with the goals of the group of social control and harmony.{{sfn | Schaller | Latane | 1996}} Thus, norms exist to serve a purpose of survival. However, counterproductive norms work in opposition to socially proactive functions and therefore, cannot be adequately explained by this theory. 
+Both the societal-value perspective and the functional perspective theories can be integrated to describe the fact that individuals experience pressure to communicate effectively with others within a cultural belief system with behaviour patterns that are relevant and informative, in the form of customs and traditions fulfill overarching needs based on  the local social culture and physical environment.{{sfn | Schaller | Latane | 1996}}
+
+==Examples of counterproductive behaviors==
+
+===Industrial behavior===
+
+Much research has been done regarding counterproductive work behaviours. These behaviours include things such as theft, sabotage, workplace violence and aggression, incivility, revenge and service sabotage that are willfully committed with the intention of harming an organization or its members.{{sfn | Greenberg| 1990}}{{sfn | Ambrose | Seabright | Schminke | 2002}}{{sfn| Barling | Dupré | Kelloway | 2009}}{{sfn | Andersson | Pearson | 1999}}{{sfn | Bies| Tripp| 2005}}
+
+Some research suggests that these counterproductive behaviours are enacted when individuals or groups feel maltreated or as if they do not have legitimate options to protest.{{sfn | Kelloway | Francis | Prosser | Cameron | 2009}} Possible antecedents of counterproductive norms include personality variables, [[organizational culture]], control systems and [[injustice]].{{sfn| Sackett | DeVore | 2001}} Personality variables refer to individual attributes such as integrity. In fact, results on integrity tests have been shown to be correlated to counterproductive work behaviors.{{sfn| Sackett | DeVore | 2001}} Organizational culture includes both the behavior of people within an organization and the meaning placed on these behaviors. An increased perception of the level of organizational acceptance for sexual harassment being correlated to actual reports of unwanted sexual coercion is an example of organizational culture influence on counterproductive workplace behavior.{{sfn| Sackett | DeVore | 2001}} Control systems are physical or procedural entities that aim to reduce counterproductive behaviors or increase the penalties for engaging in these behaviors in the workplace.{{sfn| Sackett | DeVore | 2001}} Sophisticated security systems are typically put in place with the intention of preventing counterproductive workplace behaviors but may be used in some situations as a means of committing sabotage (e.g. by falsifying records). Injustice in the work environment consists of perceived inequity as well as various other ideas within the concept of [[organizational justice]]. Organizational justice is composed of the concepts of [[distributive justice]], which refers to equitable allocation of resources, and [[procedural justice]], which refers to how these decisions are made and their perceived fairness. Feelings of injustice and frustration have been linked to various counterproductive behaviors such as sabotage, time-wasting, interpersonal aggression, job apathy, and other anti-social behaviors.{{sfn| Sackett | DeVore | 2001}}
+
+===Environmental messaging===
+
+====Iron Eyes Cody PSA====
+One example of counterproductive norms are the [[Iron Eyes Cody]] [[Keep America Beautiful]] public service announcements. Cialdini (2003) argues that while the ad makers convey an injunctive norm about environmentalism, they contrasted this by portraying [[litter]]ing as a descriptive norm.{{sfn| Cialdini| 2003}} While they did have a lot of success and have been recognized as some of the best PSAs of all time, Cialdini argues that they could have been more effective, had they conveyed different descriptive norms.<ref name="AC">{{cite web
+| url        = http://www.adcouncil.org/Our-Campaigns/The-Classics/Pollution-Keep-America-Beautiful-Iron-Eyes-Cody
+| title      = Pollution: Keep America Beautiful - Iron Eyes Cody
+| year       = 2014
+| access-date = 16 December 2014
+}}</ref>{{sfn| Cialdini| 2003}}
+
+====Petrified wood Example====
+A study by Cialdini and colleagues tested whether signs conveying different norms had an effect on the rate of theft of petrified wood in a national forest.{{sfn | Cialdini | Demaine | Sagarin | Barrett| 2006}} They used one sign with a descriptive norm and one with an injunctive norm.{{sfn | Cialdini | Demaine | Sagarin | Barrett| 2006}}  The descriptive norm “normalized" the behavior of theft, and as a result, raised the amount of theft.{{sfn | Cialdini | Demaine | Sagarin | Barrett| 2006}} The injunctive norm was more effective at reducing theft, and lowered it from the baseline.{{sfn | Cialdini | Demaine | Sagarin | Barrett| 2006}} The study gives us some empirical evidence that when messaging uses normative influence incorrectly, it can create or maintain a counterproductive norm.
+
+==References==
+
+{{reflist|2}}
+
+==Bibliography==
+
+*{{cite journal
+| last1      = Ambrose
+| first1     = M. L.
+| last2      = Seabright
+| first2     = M. A.
+| last3      = Schminke
+| first3     = M.
+| year       = 2002
+| title      = Sabotage in the workplace: The role of organizational injustice
+| journal    = Organizational Behavior and Human Decision Processes
+| volume     = 89
+| issue      = 1
+| pages      = 947–965
+| doi=10.1016/s0749-5978(02)00037-7
+}}
+
+*{{cite journal
+| last1      = Andersson
+| first1     = L. M.
+| last2      = Pearson
+| first2     = C. M.
+| year       = 1999
+| jstor      = 259136
+| title      = Tit for Tat? The spiraling effect of incivility in the workplace
+| journal    = The Academy of Management Review
+| volume     = 24
+| issue      = 3
+| pages      = 452–471
+| doi=10.5465/amr.1999.2202131
+}}
+
+*{{cite journal
+| last1      = Barling
+| first1     = J.
+| last2      = Dupré
+| first2     = K.
+| last3      = Kelloway
+| first3     = E. K.
+| year       = 2009
+| doi        = 10.1146/annurev.psych.60.110707.163629
+| pmid     = 18793089
+| title      = Predicting workplace violence and aggression
+| journal    = Annual Review of Psychology
+| volume     = 60
+| pages      = 671–692
+}}
+
+*{{cite encyclopedia
+| last1      = Bies
+| first1     = R. J.
+| title     = Counterproductive Work Behavior: Investigations of Actors and Targets
+| last2      = Tripp
+| first2     = T. M.
+| year       = 2005
+| chapter    = The study of revenge in the workplace: Conceptual, ideological, and empirical issues
+| encyclopedia       = Counter-productive work behaviour: Investigations of actors and targets
+| pages      = 65–81
+| editor-last1  = Fox
+| editor-first1 = S.
+| editor-last2  = Spector
+| editor-first2 = P.E.
+| publisher  = American Psychological Association
+| isbn       = 978-1-59147-165-3
+}}
+
+*{{cite journal
+| last1      = Cialdini
+| first1     = R. B.
+| last2      = Reno
+| first2     = R. R.
+| last3      = Kallgren
+| first3     = C. A.
+| year       = 1990
+| title      = A focus theory of normative conduct: Recycling the concept of norms to reduce littering in public places
+| journal    = Journal of Personality and Social Psychology
+| volume     = 58
+| issue      = 6
+| pages      = 1015–1026
+| doi        = 10.1037/0022-3514.58.6.1015 
+}}
+
+*{{cite encyclopedia
+| last1      = Cialdini
+| first1     = R. B.
+| last2      = Kallgren
+| first2     = C. A.
+| last3      = Reno
+| first3     = R. R.
+| year       = 1991
+| chapter    = A focus theory of normative conduct
+| encyclopedia  = Advances in Experimental Social Psychology
+| editor-last1  = Zanna
+| editor-first1 = M.P.
+| volume     = 24
+| pages      = 201–234
+| isbn       = 978-0120152247
+}}
+
+*{{cite journal
+| last1      = Cialdini
+| first1      = R. B.
+| year       = 2003
+| title      = Crafting normative messages to protect the environment
+| journal    = Current Directions in Psychological Science
+| volume     = 12
+| issue      = 4
+| pages      = 105–109
+| doi        = 10.1111/1467-8721.01242 
+| citeseerx      = 10.1.1.579.5154
+| s2cid = 3039510
+}}
+
+*{{cite journal
+| last1      = Cialdini
+| first1     = R. B.
+| last2      = Demaine
+| first2     = L. J.
+| last3      = Sagarin
+| first3     = B. J.
+| last4      = Barrett
+| first4     = D. W.
+| last5      = Rhoads
+| first5     = K.
+| last6      = Winter
+| first6     = P. L.
+| year       = 2006
+| title      = Managing social norms for persuasive impact
+| journal    = Social Influence
+| volume     = 3
+| pages      = 3–15
+| doi     = 10.1080/15534510500181459
+| citeseerx     = 10.1.1.594.2471
+| s2cid = 146691498
+}}
+
+*{{cite book
+| last1      = Cialdini
+| first1      = Robert
+| year      = 2008
+| title      = Influence: Science and practice
+| publisher      = Pearson
+| isbn      = 978-0205609994
+| url-access      = registration
+| url      = https://archive.org/details/influencescience00cial_1
+}}
+
+*{{cite journal
+| last1      = Feldman
+| first1     = Daniel C.
+| year       = 1984
+| jstor      = 258231
+| title      = The Development and Enforcement of Group Norms
+| journal    = The Academy of Management Review
+| volume     = 9
+| issue      = 1
+| pages      = 47–53
+| doi=10.5465/amr.1984.4277934
+}}
+
+*{{cite journal
+| last1      = Goldstein
+| first1     = N. J.
+| last2      = Cialdini
+| first2     = R. B.
+| last3      = Griskevicius
+| first3     = V.
+| year       = 2008
+| title      = A room with a viewpoint: Using social norms to motivate environmental conservation in hotels
+| journal    = Journal of Consumer Research
+| volume     = 35
+| issue      = 3
+| pages      = 472–482
+| doi        = 10.1086/586910
+| doi-access= 
+}}
+
+*{{cite journal
+ |last1        = Greenberg
+ |first1       = J.
+ |year         = 1990
+ |url          = http://mario.gsia.cmu.edu/micro_2009/greenberg_1990.pdf
+ |title        = Employee theft as a reaction to underpayment inequity: The hidden cost of pay cuts
+ |journal      = Journal of Applied Psychology
+ |volume       = 75
+ |issue        = 5
+ |pages        = 561–568
+ |access-date   = 18 December 2014
+ |doi          = 10.1037/0021-9010.75.5.561
+ |citeseerx    = 10.1.1.691.4250
+ |archive-url  = https://web.archive.org/web/20140707232502/http://mario.gsia.cmu.edu/micro_2009/greenberg_1990.pdf
+ |archive-date = 7 July 2014
+ |url-status     = dead
+}}
+
+*{{cite journal
+ |last1        = Kelloway
+ |first1       = E. K.
+ |last2        = Francis
+ |first2       = L.
+ |last3        = Prosser
+ |first3       = M.
+ |last4        = Cameron
+ |first4       = J. E.
+ |year         = 2009
+ |doi          = 10.1016/j.hrmr.2009.03.014
+ |url          = http://ohpsychology.ca/wp-content/uploads/2011/02/Kelloway-Francis-Prosser-and-Cameron.pdf
+ |title        = Counterproductive work behavior as protest
+ |journal      = Human Resource Management Review
+ |volume       = 20
+ |pages        = 18–25
+ |access-date  = 2014-12-17
+ |archive-url  = https://web.archive.org/web/20150307032005/http://ohpsychology.ca/wp-content/uploads/2011/02/Kelloway-Francis-Prosser-and-Cameron.pdf
+ |archive-date = 2015-03-07
+ |url-status   = dead
+}}
+
+*{{cite journal
+| last1      = Opp
+| first1      = Karl-Dieter
+| year       = 1982
+| doi        = 10.1111/j.2044-8309.1982.tb00522.x
+| title      = The evolutionary emergence of norms
+| journal    = British Journal of Social Psychology
+| volume     = 21
+| issue      = 2
+| pages      = 139–149
+}}
+
+*{{cite book
+| last1      = Sackett
+| first1     = P. R.
+| last2      = DeVore
+| first2     = C. J.
+| year       = 2001
+| chapter-url        = https://books.google.com/books?id=q3E0109oUtUC&q=counterproductive+industrial+behaviors&pg=PA145
+| chapter    = Counterproductive behaviors at work
+| editor-last1  = Anderson
+| editor-first1 = N.
+| title      = Handbook of industrial, work & organizational psychology
+| pages      = 145–165
+| publisher  = SAGE
+| isbn       = 978-0761964889
+}}
+
+*{{cite journal
+| last1      = Schaller
+| first1     = M.
+| last2      = Latane
+| first2     = B.
+| year       = 1996
+| url        = http://www.psych.ubc.ca/~schaller/SchallerLatane1996.pdf
+| title      = Dynamic social impact and the evolution of social representations: A natural history of stereotypes
+| journal    = Journal of Communication
+| volume     = 46
+| issue     = 4
+| pages      = 64–71
+| access-date = 18 December 2014
+| doi=10.1111/j.1460-2466.1996.tb01506.x
+}}
+
+*{{cite encyclopedia
+| last1      = Solomon
+| first1     = S.
+| last2      = Greenberg
+| first2     = J.
+| last3      = Pyszczynski
+| first3     = T.
+| year       = 1991
+| chapter    = A terror management theory of social behavior: The psychological functions of self-esteem and cultural worldviews
+| encyclopedia  = Advances in Experimental Social Psychology
+| editor-last1  = Zanna
+| editor-first1 = M.P.
+| volume     = 24
+| pages      = 93–159
+| isbn       = 978-0120152247
+}}
+
+[[Category:Organizational behavior]]

@@ -1,0 +1,36 @@
+{{short description|American economist}}
+
+'''Muriel Niederle''' (born {{abbr|c.|circa}} 1970) is a professor in the Department of Economics at Stanford University. Niederle teaches courses at Stanford University focusing specifically on experimental economics and market design.<ref>{{Cite web|url=https://web.stanford.edu/~niederle/|title=Muriel Niederle|website=Stanford University|language=en|access-date=2019-04-16}}</ref> Muriel Niederle is interested in studying behavioral and experimental economics.<ref>{{Cite web|url=https://economics.stanford.edu/people/muriel-niederle-0|title=Muriel Niederle|website=Stanford University Economics|language=en|access-date=2019-04-16}}</ref> Niederle's most recent publication was "Probabilistic States versus Multiple Certainties: The Obstacle of Uncertainty in Contingent Reasoning" in November 2017.<ref>{{Cite web|url=https://www.nber.org/people/muriel_niederle|title=Muriel Niederle|website=National Bureau of Economic Research|language=en|access-date=2019-04-16}}</ref> She was elected a [[List of Fellows of the Econometric Society|Fellow]] of the [[Econometric Society]] in 2017.<ref>{{cite web|url=https://economics.stanford.edu/about/news/muriel-niederle-elected-fellow-econometric-society|title=Muriel Niederle elected as Fellow of the Econometric Society. - Economics|website=economics.stanford.edu|access-date=16 April 2019}}</ref><ref>{{cite web|url=https://www.econometricsociety.org/content/2017-election-fellows|title=2017 Election of Fellows - The Econometric Society|website=www.econometricsociety.org|access-date=16 April 2019}}</ref>
+
+== Career ==
+Niederle earned her doctorate in economics at Harvard University in 2002 and after graduating became an assistant professor of economics at Stanford University, where she was promoted to associate professor with tenure in 2007 and full professor in 2012.<ref name=":0">{{Cite web|url=https://web.stanford.edu/~niederle/MurielNiederleCV.pdf|title=CV - Niederle|website=web.stanford.edu|access-date=2019-04-18}}</ref> Niederle is an [[National Bureau of Economic Research|NBER]] Research Associate and the organizer of the annual [[SITE conference on Experimental Economics]] at Stanford.<ref name=":0" />
+
+Niederle maintains a blog on behavioral and experimental economics, and gender.<ref>{{Cite web|url=http://experimentalandbehavioral.blogspot.com/|title=Experimental and Behavioral Economics|website=experimentalandbehavioral.blogspot.com|language=en|access-date=2019-04-18}}</ref> Furthermore,  since 2010 she is an associate editor of the American Economic Journal- Microeconomics, and since 2009 she is associate editor of the Journal of European Economic Association and associate editor of Quantitative Economics.<ref name="web.stanford.edu">{{Cite web| title=Curriculum Vitae - Muriel Niederle | url=https://web.stanford.edu/~niederle/MurielNiederleCV.pdf | archive-url=https://web.archive.org/web/20150301174231/http://web.stanford.edu:80/~niederle/MurielNiederleCV.pdf | archive-date=2015-03-01}}</ref> Moreover, Niederle shared her experiences as a mentor at the CeMent CSWEP Mentoring Workshop on January 5–7, 2014 in Philadelphia.<ref name="web.stanford.edu"/>
+
+== Research ==
+Some of Niederle's most-cited work examines gender competitive norms, such as in "Do women shy away from competition? Do men compete too much?" (2007) with [[Lise Vesterlund]],<ref>{{Cite journal|last=Niederle, Muriel, and Lise Vesterlund|date=2007|title=Do Women Shy Away From Competition? Do Men Compete Too Much?|url=https://www.nber.org/papers/w11474.pdf|journal=Quarterly Journal of Economics|volume=122|issue=3|pages=1067–1101|doi=10.1162/qjec.122.3.1067}}</ref> and "Performance in competitive environments: Gender differences"<ref>{{Cite journal|last=Gneezy, Muriel Niederle, Aldo Rustichini|first=Uri|date=2003|title=Performance in competitive environments: Gender differences|journal=The Quarterly Journal of Economics|volume=118|issue=3|pages=1049–1074|doi=10.1162/00335530360698496}}</ref> (2003) with [[Uri Gneezy]] and [[Aldo Rustichini]].<ref>{{Cite web|url=https://scholar.google.com/citations?user=NmZWitkAAAAJ&hl=en|title=Muriel Niederle - Google Scholar Citations|website=scholar.google.com|access-date=2019-04-18}}</ref>
+
+== Awards ==
+
+* Economics Distinguished Faculty Advising Award, Stanford, 2015.<ref name=":0" /> 
+* Fellow of the Econometric Society (2017).<ref name=":0" /> 
+* Alfred P. Sloan Research Fellowship, 2006–2008.<ref name=":0" /> 
+* Eligible Fellow for the Center for Advanced Study in the Behavioral Sciences.<ref name=":0" /> 
+* Visiting member, Institute for Advanced Study, School of Social Science, Princeton, 2005–2006.<ref name=":0" />
+
+== References ==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Niederle, Muriel}}
+[[Category:1970s births]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:21st-century American economists]]
+[[Category:American women economists]]
+[[Category:Stanford University Department of Economics faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Harvard University alumni]]
+[[Category:21st-century American women]]
+[[Category:21st-century statisticians]]

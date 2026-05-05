@@ -1,0 +1,1462 @@
+{{Short description|Problem-solving method}}
+{{other uses}}
+{{Complex systems}}
+{{Distinguish|Eureka (word)}}
+
+A '''heuristic'''<ref>{{IPAc-en|h|j|ʊəˈr|ɪ|s|t|ɪ|k}}; {{etymology|grc|''{{wikt-lang|grc|εὑρίσκω}}'' ({{grc-transl|εὑρίσκω}})|to find, discover}}<br>
+{{cite journal
+	| last1 = Romanycia
+	| first1 = Marc
+	| last2 = Pelletier
+	| first2 = Francis
+	| last3 = Pelletier
+	| first3 = Jeffry
+	| date = 1985
+	| title = What is a heuristic?
+	| url = https://doi.org/10.1111/j.1467-8640.1985.tb00058.x
+	| journal = Computational Intelligence
+	| volume = 1
+	| issue = 1
+	| pages = 47–58
+	| doi = 10.1111/j.1467-8640.1985.tb00058.x
+	| access-date = 11 May 2024
+       | quote = ''heuriskein'' (ancient Greek) and ''heurisricus'' (Latin): 'to find out, discover.'
+       | url-access = subscription
+	}}</ref> or '''heuristic technique''' (''[[problem solving]]'', ''[[Heuristic (psychology)|mental shortcut]]'', ''[[rule of thumb]]'')<ref>{{cite book
+    | last1= Groner
+    | first1= Rudolf
+    | last2= Groner
+    | first2= Marina
+    | last3= Bischof
+    | first3= Walter
+	| author-link = 
+	| date = 2014
+	| title = Methods of heuristics
+	| url = https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=76a213b007a1c8072760b59b58df40729fa1f3c1
+	| publisher = Routledge
+	| page = <!-- or pages: -->
+	| isbn = 
+    | quote = 'guiding discovery' or 'improving problem solving'{{nbsp}}... its origin in ancient Greece where the verb 'heuriskein' means to find.}}</ref><ref>{{cite journal
+	| last1 = Hughes
+	| first1 = Barnabas
+	| date = 1974
+	| title = Heuristic Teaching in Mathematics
+	| url = http://www.jstor.org/stable/3482053
+	| journal = Educational Studies in Mathematics
+	| volume = 5
+	| issue = 3
+	| pages = 291–99
+	| doi = 10.1007/BF00684704
+	| jstor = 3482053
+	| access-date = 5 May 2024
+    | quote = The word heuristic is taken directly from the Greek verb, ''heuriskein'', 'to discover'. As a noun it is defined as 'a technique of discovery' and as an adjective, it means 'serving to guide, discover, or reveal'. The more common designation for all of this is 'the discovery method'.| url-access = subscription
+	}}</ref><ref>{{cite journal
+	| last1 = Hertwig
+	| first1 = Ralph
+	| last2 = Pachur
+	| first2 = Thorsten
+	| date = 2015
+	| title = Heuristics, history of
+	| url = https://pure.mpg.de/rest/items/item_2139307/component/file_2404607/content
+	| journal = International Encyclopedia of the Social & Behavioral Sciences
+	| volume = 
+	| issue = 
+	| pages = 829–835
+	| doi = 10.1016/B978-0-08-097086-8.03221-9
+	| isbn = 978-0-08-097087-5
+	| access-date = 10 May 2024
+| quote = The origin of the term goes back to the Ancient Greek verb ''heuriskein'', which means 'to find out' or 'to discover.' Heuristics are sometimes also referred to as 'mental shortcuts' or 'rules of thumb.'}}</ref><ref>{{cite journal
+| last1 = Chow
+| first1 = Sheldon
+| date = 2015
+| title = Many Meanings of 'Heuristic'
+| url = http://www.jstor.org/stable/24562967
+| journal = The British Journal for the Philosophy of Science
+| volume = 66
+| issue = 4
+| pages = 977–1016
+| doi = 10.1093/bjps/axu028
+| jstor = 24562967
+| access-date = 5 May 2024
+|quote=Not only is 'heuristic' used in diverse ways across and within disciplines, but its meaning has evolved over the years.| url-access = subscription
+}}</ref> is any approach to [[problem solving]] that employs a [[Pragmatism|pragmatic]] method that is not fully [[Mathematical optimisation|optimized]], perfected, or [[Rationality|rationalized]], but is nevertheless "good enough" as an [[approximation]] or [[attribute substitution]].<ref>{{cite journal
+| last1 = Gigerenzer
+| first1 = G.
+| last2 = Gaissmaier
+| first2 = W.
+| date = 2011
+| title = Heuristic Decision Making
+| url = https://pure.mpg.de/rest/items/item_2099042_4/component/file_2099041/content
+| journal = Annual Review of Psychology
+| volume = 62
+| issue = 
+| pages = 451–482
+| doi = 10.1146/annurev-psych-120709-145346
+| pmid = 21126183
+| access-date = 6 May 2024
+| quote = Kahneman & Frederick (2002) proposed that a heuristic assesses a target attribute by another property (attribute substitution) that comes more readily to mind.| hdl = 11858/00-001M-0000-0024-F16D-5
+| hdl-access = free
+}}</ref><ref>{{cite journal
+| last1 = Gigerenzer
+| first1 = Gerd
+| date = 2005
+| title = I Think, Therefore I Err
+| url = http://www.jstor.org/stable/40972008
+| journal = Social Research
+| volume = 72
+| issue = 1
+| pages = 195–218
+| doi = 10.1353/sor.2005.0029
+| jstor = 40972008
+| hdl = 11858/00-001M-0000-0025-82A7-4
+| access-date = 5 May 2024
+|quote=A good error is a consequence of the adaptation of mental heuristics to the structure of environments. This ecological view is illustrated by visual illusions. Not making good errors would destroy human intelligence.| url-access = subscription
+}}</ref> Where finding an optimal solution is impossible or impractical, heuristic methods can be used to speed up the process of finding a satisfactory solution.<ref>{{cite journal
+| last1 = Chow
+| first1 = Sheldon
+| date = 2015
+| title = Many Meanings of 'Heuristic'
+| url = http://www.jstor.org/stable/24562967
+| journal = The British Journal for the Philosophy of Science
+| volume = 66
+| issue = 4
+| pages = 977–1016
+| doi = 10.1093/bjps/axu028
+| jstor = 24562967
+| access-date = 5 May 2024
+|quote=Heuristics are commonly understood as economical shortcut procedures that may not lead to optimal or correct results, but will generally produce outcomes that are in some sense satisfactory or 'good enough'.| url-access = subscription
+}}</ref><ref>{{cite journal
+	| last1 = Romanycia
+	| first1 = M.
+	| last2 = Pelletier
+	| first2 = F.
+	| date = 1985
+	| title = What is a heuristic?
+	| url = https://doi.org/10.1111/j.1467-8640.1985.tb00058.x
+	| journal = Computational Intelligence
+	| volume = 1
+	| issue = 1
+	| pages = 47–58
+	| doi = 10.1111/j.1467-8640.1985.tb00058.x
+	| access-date = 7 May 2024
+    | quote =Hence to paraphrase Polya, heuristic is a science of problem-solving behavior that focuses on plausible, provisional, useful, but fallible, mental operations for discovering solutions.| url-access = subscription
+	}}</ref> Heuristics can be mental shortcuts that ease the [[cognitive load]] of [[Decision-making|making a decision]].<ref>{{cite journal
+| last1 = Gigerenzer
+| first1 = G.
+| last2 = Gaissmaier
+| first2 = W.
+| date = 2011
+| title = Heuristic Decision Making
+| url = https://pure.mpg.de/rest/items/item_2099042_4/component/file_2099041/content
+| journal = Annual Review of Psychology
+| volume = 62
+| issue = 
+| pages = 451–482
+| doi = 10.1146/annurev-psych-120709-145346
+| pmid = 21126183
+| access-date = 6 May 2024
+| quote = Shah & Oppenheimer (2008) proposed that all heuristics rely on effort reduction by one or more of the following: (a) examining fewer cues, (b) reducing the effort of retrieving cue values, (c) simplifying the weighting of cues, (d) integrating less information, and (e) examining fewer alternatives.| hdl = 11858/00-001M-0000-0024-F16D-5
+| hdl-access = free
+}}</ref><ref>{{cite book
+|title=Social psychology
+|last=Myers
+|first=David G.
+|year=2010
+|edition=Tenth
+|location=New York, NY
+|publisher=McGraw-Hill
+|oclc=667213323
+|isbn=978-0-07337-066-8
+|page=94}}</ref><ref name=conceptually>{{cite web
+|url=https://conceptually.org/concepts/heuristics
+|title=Heuristics—Explanation and examples
+|website=Conceptually|access-date=23 October 2019
+|archive-date=21 December 2021
+|archive-url= https://web.archive.org/web/20211221102617/https://conceptually.org/concepts/heuristics|url-status=live}}</ref>
+
+{{blockquote
+|text=Heuristic reasoning is often based on [[Inductive reasoning|induction]], or on [[analogy]]{{nbsp}}... Induction is the process of discovering general laws{{nbsp}}... Induction tries to find regularity and coherence{{nbsp}}... Its most conspicuous instruments are [[generalization]], [[Special case|specialization]], analogy.{{nbsp}}[...] Heuristic discusses human behavior in the face of problems [... that have been] preserved in the ''wisdom of [[proverb]]s''.<ref>{{cite book
+	| last = Polya
+	| first = George
+	| author-link = George Pólya
+	| year = 1945
+	| title = How to Solve It
+	| url = https://math.hawaii.edu/home/pdf/putnam/PolyaHowToSolveIt.pdf
+	| location = Princeton, NJ
+	| publisher = Princeton University Press
+	| pages = 113, 114, 117, 132
+	| isbn = 978-0-691-16407-6
+    | access-date = 10 May 2024}}</ref>
+|author=[[George Pólya]]
+|title=''[[How to Solve It]]''}}
+
+==Context==
+{{Strategy}}{{Main|Strategy}}
+{{Broader|Trial and error|Rule of thumb|Guessing}}
+
+Gigerenzer & Gaissmaier (2011) state that [[Set (mathematics)|sub-set]]s of ''strategy'' include '''heuristics''', [[regression analysis]], and [[Bayesian inference]].<ref>{{cite journal
+| last1 = Gigerenzer
+| first1 = G.
+| last2 = Gaissmaier
+| first2 = W.
+| date = 2011
+| title = Heuristic Decision Making
+| url = https://pure.mpg.de/rest/items/item_2099042_4/component/file_2099041/content
+| journal = Annual Review of Psychology
+| volume = 62
+| issue = 
+| pages = 451–482
+| doi = 10.1146/annurev-psych-120709-145346
+| pmid = 21126183
+| access-date = 6 May 2024
+| quote = Heuristics are a subset of strategies; strategies also include complex regression or Bayesian models.| hdl = 11858/00-001M-0000-0024-F16D-5
+| hdl-access = free
+}}</ref>
+
+{{Blockquote
+|text= A heuristic is a strategy that ignores part of the information, with the goal of making decisions more quickly, frugally, and/or accurately than more complex methods...<ref>{{cite journal
+| last1 = Chow
+| first1 = Sheldon
+| date = 2015
+| title = Many Meanings of 'Heuristic'
+| url = http://www.jstor.org/stable/24562967
+| journal = The British Journal for the Philosophy of Science
+| volume = 66
+| issue = 4
+| pages = 977–1016
+| doi = 10.1093/bjps/axu028
+| jstor = 24562967
+| access-date = 5 May 2024
+|quote=In a recent review article written with Wolfgang Gaissmaier, the following definition is proposed:| url-access = subscription
+}}</ref>
+|author=S. Chow
+|title="Many Meanings of 'Heuristic'"
+|source=''The British Journal for the Philosophy of Science''}}
+
+Heuristics are strategies based on rules to generate [[optimal decision]]s, like the [[anchoring effect]] and [[utility maximization problem]].<ref>{{Cite journal
+| last1 = Gigerenzer
+| first1 = Gerd
+| last2 = Brighton
+| first2 = Henry
+| doi = 10.1111/j.1756-8765.2008.01006.x
+| title = Homo Heuristicus: Why Biased Minds Make Better Inferences
+| journal = Topics in Cognitive Science
+| volume = 1
+| issue = 1
+| pages = 107–143
+| year = 2009
+| pmid = 25164802
+| url = https://onlinelibrary.wiley.com/doi/10.1111/j.1756-8765.2008.01006.x
+| access-date = 6 May 2024
+| quote =Another negative and substantial consequence was that computational models of heuristics, such as lexicographic rules (Fishburn, 1974) and elimination-by-aspects (Tversky, 1972), became replaced by one-word labels: availability, representativeness, and anchoring.| hdl = 11858/00-001M-0000-0024-F678-0
+| hdl-access = free
+}}</ref> These strategies depend on using readily accessible, though loosely applicable, information to control [[problem solving]] in human beings, machines and abstract issues.<ref>{{cite book|last=Pearl|first=Judea|author-link=Judea Pearl|year=1983|title=Heuristics: Intelligent Search Strategies for Computer Problem Solving|location=New York, NY|publisher=Addison-Wesley|page=vii|isbn=978-0-201-05594-8}}</ref><ref>{{cite book|url=https://drive.google.com/file/d/0B_q6VhhkczIYcC1nWEV2ejZfOGs/view?usp=sharing|title=Heuristic Reasoning: Studies in Applied Philosophy, Epistemology and Rational Ethics|publisher=Springer International Publishing|author=Emiliano, Ippoliti|year=2015|location=Switzerland|pages=1–2|isbn=978-3-319-09159-4|access-date=2015-11-24|archive-date=2019-07-11|archive-url=https://web.archive.org/web/20190711121632/https://drive.google.com/file/d/0B_q6VhhkczIYcC1nWEV2ejZfOGs/view?usp=sharing|url-status=live}}</ref> When an individual applies a heuristic in practice, it generally performs as expected. However it can alternatively create systematic errors.<ref>{{cite journal|last=Sunstein|first=Cass|date=2005|title=Moral Heuristics|journal=The Behavioral and Brain Sciences|volume=28| issue=4 |pages=531–542| doi=10.1017/S0140525X05000099 | pmid=16209802 | s2cid=231738548 }}</ref>
+
+The most fundamental heuristic is trial and error, which can be used in everything from matching nuts and bolts to finding the values of variables in algebra problems. In mathematics, some common heuristics involve the use of visual representations, additional assumptions, forward/backward reasoning and simplification.
+
+[[Dual process theory]] concerns [[Embodied cognition|embodied heuristics]].<ref>{{cite journal
+	| last1 = Hjeij
+	| first1 = Mohamad
+	| last2 = Vilks
+	| first2 = Arnis
+	| date = 2023
+	| title = A brief history of heuristics: how did research on heuristics evolve?
+	| journal = Humanities and Social Sciences Communications
+	| volume = 10
+	| issue = 1
+	| pages = 1–15
+	| article-number = 64
+	| doi = 10.1057/s41599-023-01542-z
+	| quote = Gigerenzer (2021) [says] humans [and] other organisms evolved to acquire what he calls 'embodied heuristics' that can be both innate or learnt rules of thumb, which in turn supply the agility to respond to the lack of information by fast judgement. The 'embodied heuristics' use the mental capacity that includes the motor and sensory abilities that start to develop from the moment of birth. [...] 'dual-process theories' [...] we find it helpful to point out that one may distinguish between 'System 1 heuristics' [neuro] and 'System 2 heuristics' [neuro] (Kahneman 2011, p. 98). | doi-access = free}}</ref>
+<!-- This section is linked from [[List of psychology topics]] -->
+
+==Heuristic rigour models==
+{{Epistemology sidebar}}
+{{InfoMaps}}
+{{Incomplete list|date=May 2024}}
+{{Main|Rigour}}
+{{Broader|Expectation (epistemic)|Cybernetics}}
+{{see also|Heuristic (computer science)|Heuristic evaluation}}
+
+Lakatosian heuristics is based on the key term: [[Justification (epistemology)]].<ref>{{cite journal
+	| last1 = Nickles
+	| first1 = Thomas
+	| date = 1987
+	| title = Lakatosian Heuristics and Epistemic Support
+	| url = http://www.jstor.org/stable/687047
+	| journal = The British Journal for the Philosophy of Science
+	| volume = 38
+	| issue = 2
+	| pages = 181–205
+	| doi = 10.1093/bjps/38.2.181
+	| jstor = 687047
+	| access-date = 5 May 2024
+    | quote = As Popperians and Lakatosians use the term, a 'justificationist' theory of knowledge is one committed to the existence of foundations of knowledge, at least probabilistic foundations.| url-access = subscription
+	}}</ref>
+
+===One-reason decisions===
+{{See also|Optimal stopping}}
+
+One-reason decisions are [[algorithm]]s that are made of three rules: search rules, ''confirmation rules'' (stopping), and decision rules<ref>{{Cite journal
+| last1 = Gigerenzer
+| first1 = Gerd
+| last2 = Brighton
+| first2 = Henry
+| doi = 10.1111/j.1756-8765.2008.01006.x
+| title = Homo Heuristicus: Why Biased Minds Make Better Inferences
+| journal = Topics in Cognitive Science
+| volume = 1
+| issue = 1
+| pages = 107–143
+| year = 2009
+| pmid = 25164802
+| url = https://onlinelibrary.wiley.com/doi/10.1111/j.1756-8765.2008.01006.x
+| access-date = 6 May 2024
+| quote = This stopping rule, termed a ''confirmation rule'', works well in situations where (a) the decision maker knows little about the validity of the cues, and (b) the costs of cues are rather low (Karelaia, 2006).| hdl = 11858/00-001M-0000-0024-F678-0
+| hdl-access = free
+}}</ref><ref>{{cite journal
+| last1 = Gigerenzer
+| first1 = G.
+| last2 = Gaissmaier
+| first2 = W.
+| date = 2011
+| title = Heuristic Decision Making
+| url = https://pure.mpg.de/rest/items/item_2099042_4/component/file_2099041/content
+| journal = Annual Review of Psychology
+| volume = 62
+| issue = 
+| pages = 451–482
+| doi = 10.1146/annurev-psych-120709-145346
+| pmid = 21126183
+| access-date = 6 May 2024
+| quote ='''One-reason decisions''': a class of heuristics that bases judgments on one good reason only, ignoring other cues (e.g., take-the-best and hiatus heuristic)| hdl = 11858/00-001M-0000-0024-F16D-5
+| hdl-access = free
+}}</ref><ref>{{Cite journal
+| last1 = Gigerenzer
+| first1 = Gerd
+| last2 = Brighton
+| first2 = Henry
+| doi = 10.1111/j.1756-8765.2008.01006.x
+| title = Homo Heuristicus: Why Biased Minds Make Better Inferences
+| journal = Topics in Cognitive Science
+| volume = 1
+| issue = 1
+| pages = 107–143
+| year = 2009
+| pmid = 25164802
+| url = https://onlinelibrary.wiley.com/doi/10.1111/j.1756-8765.2008.01006.x
+| access-date = 6 May 2024
+| quote = Just as there is a class of such tracking heuristics, there is a class of one-good-reason heuristics, of which take-the-best is one member. These heuristics also have three building blocks: search rules, stopping rules, and decision rules.| hdl = 11858/00-001M-0000-0024-F678-0
+| hdl-access = free
+}}</ref>
+*{{Annotated link|Take-the-best heuristic}}<ref>{{cite journal
+	| last1 = Todd
+	| first1 = P
+	| last2 = Dieckmann
+	| first2 = A
+	| date = 2004
+	| title = Heuristics for Ordering Cue Search in Decision Making
+	| url = https://www.researchgate.net/publication/221620559
+	| journal = Advances in Neural Information Processing Systems
+	| volume = 
+	| issue = 
+	| pages = 13–18
+	| doi = 
+	| access-date = 6 May 2024
+    | quote = TTB consists of three building blocks. (1) Search rule: Search through cues in the order of their validity, a measure of accuracy equal to the proportion of correct decisions made by a cue out of all the times that cue discriminates between pairs of options. (2) Stopping rule: Stop search as soon as one cue is found that discriminates between the two options. (3) Decision rule: Select the option to which the discriminating cue points, that is, the option that has the cue value associated with higher criterion values.}}</ref><ref>{{cite journal
+	| last1 = Gigerenzer
+	| first1 = Gerd
+	| date = 2008
+	| title = Why Heuristics Work
+	| url = http://www.jstor.org/stable/40212224
+	| journal = Perspectives on Psychological Science
+	| volume = 3
+	| issue = 1
+	| pages = 20–29
+	| doi = 10.1111/j.1745-6916.2008.00058.x
+	| jstor = 40212224
+	| pmid = 26158666
+	| access-date = 5 May 2024
+    | quote =Take the best (Gigerenzer & Goldstein, 1996). Infer which of two alternatives has the higher value by (a) searching through cues in order of validity, (b) stopping the search as soon as a cue discriminates, (c) choosing the alternative this cue favors.| url-access = subscription
+	}}</ref><ref>{{Cite journal
+| last1 = Gigerenzer
+| first1 = Gerd
+| last2 = Brighton
+| first2 = Henry
+| doi = 10.1111/j.1756-8765.2008.01006.x
+| title = Homo Heuristicus: Why Biased Minds Make Better Inferences
+| journal = Topics in Cognitive Science
+| volume = 1
+| issue = 1
+| pages = 107–143
+| year = 2009
+| pmid = 25164802
+| url = https://onlinelibrary.wiley.com/doi/10.1111/j.1756-8765.2008.01006.x
+| access-date = 6 May 2024
+| quote = Take-the-best is a member of the one-good-reason family of heuristics because of its stopping rule: Search is stopped after finding the first cue that enables an inference to be made.| hdl = 11858/00-001M-0000-0024-F678-0
+| hdl-access = free
+}}</ref>
+*''Hiatus heuristic'': a "recency-of-last-purchase rule"<ref>{{cite journal
+| last1 = Gigerenzer
+| first1 = G.
+| last2 = Gaissmaier
+| first2 = W.
+| date = 2011
+| title = Heuristic Decision Making
+| url = https://pure.mpg.de/rest/items/item_2099042_4/component/file_2099041/content
+| journal = Annual Review of Psychology
+| volume = 62
+| issue = 
+| pages = 451–482
+| doi = 10.1146/annurev-psych-120709-145346
+| pmid = 21126183
+| access-date = 6 May 2024
+| quote = Wubben & Wangenheim (2008) reported that experienced managers use a simple recency-of-last-purchase rule: 'Hiatus heuristic: If a customer has not purchased within a certain number of months (the hiatus), the customer is classified as inactive; otherwise, the customer is classified as active.'| hdl = 11858/00-001M-0000-0024-F16D-5
+| hdl-access = free
+}}</ref>
+*{{Annotated link|Default effect}}<ref>{{cite journal
+	| last1 = Gigerenzer
+	| first1 = Gerd
+	| date = 2008
+	| title = Why Heuristics Work
+	| url = http://www.jstor.org/stable/40212224
+	| journal = Perspectives on Psychological Science
+	| volume = 3
+	| issue = 1
+	| pages = 20–29
+	| doi = 10.1111/j.1745-6916.2008.00058.x
+	| jstor = 40212224
+	| pmid = 26158666
+	| access-date = 5 May 2024
+| quote =Default heuristic (Johnson & Goldstein, 2003). If there is a default, do nothing about it.| url-access = subscription
+	}}</ref>
+*{{Annotated link|Priority heuristic}}<ref>{{Cite journal
+| last1 = Gigerenzer
+| first1 = Gerd
+| last2 = Brighton
+| first2 = Henry
+| doi = 10.1111/j.1756-8765.2008.01006.x
+| title = Homo Heuristicus: Why Biased Minds Make Better Inferences
+| journal = Topics in Cognitive Science
+| volume = 1
+| issue = 1
+| pages = 107–143
+| year = 2009
+| pmid = 25164802
+| url = https://onlinelibrary.wiley.com/doi/10.1111/j.1756-8765.2008.01006.x
+| access-date = 6 May 2024
+| quote = The priority heuristic, a one-good-reason heuristic with no free parameters (Brandstätter, Gigerenzer, & Hertwig, 2008; Brandstätter et al., 2006) that has similar building blocks to take-the-best, has been shown to imply (not just have parameter sets that are consistent with) several of the major violations simultaneously, including the Allais paradox and the fourfold pattern (Katsikopoulos & Gigerenzer, 2008).| hdl = 11858/00-001M-0000-0024-F678-0
+| hdl-access = free
+}}</ref>
+*''Take-the-first heuristic''<ref>{{cite journal
+| last1 = Gigerenzer
+| first1 = G.
+| last2 = Gaissmaier
+| first2 = W.
+| date = 2011
+| title = Heuristic Decision Making
+| url = https://pure.mpg.de/rest/items/item_2099042_4/component/file_2099041/content
+| journal = Annual Review of Psychology
+| volume = 62
+| issue = 
+| pages = 451–482
+| doi = 10.1146/annurev-psych-120709-145346
+| pmid = 21126183
+| access-date = 6 May 2024
+| quote = Johnson & Raab (2003) proposed a variant of the fluency heuristic when alternatives are sequentially retrieved rather than simultaneously perceived: 'Take-the-first heuristic: Choose the first alternative that comes to mind.'| hdl = 11858/00-001M-0000-0024-F16D-5
+| hdl-access = free
+}}</ref>
+
+===Recognition-based decisions===
+A class whose function is to determine and filter out superfluous things.<ref>{{cite journal
+| last1 = Gigerenzer
+| first1 = G.
+| last2 = Gaissmaier
+| first2 = W.
+| date = 2011
+| title = Heuristic Decision Making
+| url = https://pure.mpg.de/rest/items/item_2099042_4/component/file_2099041/content
+| journal = Annual Review of Psychology
+| volume = 62
+| issue = 
+| pages = 451–482
+| doi = 10.1146/annurev-psych-120709-145346
+| pmid = 21126183
+| access-date = 6 May 2024
+| quote ='''Recognition-based decisions''': a class of heuristics that bases judgments on recognition information only, ignoring other cues (e.g., recognition and fluency heuristic)| hdl = 11858/00-001M-0000-0024-F16D-5
+| hdl-access = free
+}}</ref>
+*{{Annotated link|Recognition heuristic}}<ref>{{cite journal
+| last1 = Gigerenzer
+| first1 = G.
+| last2 = Gaissmaier
+| first2 = W.
+| date = 2011
+| title = Heuristic Decision Making
+| url = https://pure.mpg.de/rest/items/item_2099042_4/component/file_2099041/content
+| journal = Annual Review of Psychology
+| volume = 62
+| issue = 
+| pages = 451–482
+| doi = 10.1146/annurev-psych-120709-145346
+| pmid = 21126183
+| access-date = 6 May 2024
+| quote =For two alternatives, the heuristic is defined as (Goldstein & Gigerenzer 2002): 'Recognition heuristic: If one of two alternatives is recognized and the other is not, then infer that the recognized alternative has the higher value with respect to the criterion.'| hdl = 11858/00-001M-0000-0024-F16D-5
+| hdl-access = free
+}}</ref><ref>{{cite journal
+	| last1 = Gigerenzer
+	| first1 = Gerd
+	| date = 2008
+	| title = Why Heuristics Work
+	| url = http://www.jstor.org/stable/40212224
+	| journal = Perspectives on Psychological Science
+	| volume = 3
+	| issue = 1
+	| pages = 20–29
+	| doi = 10.1111/j.1745-6916.2008.00058.x
+	| jstor = 40212224
+	| pmid = 26158666
+	| access-date = 5 May 2024
+    | quote = Recognition heuristic (Goldstein & Gigerenzer, 2002). If one of two alternatives is recognized, infer that it has the higher value on the criterion.| url-access = subscription
+	}}</ref>
+*{{Annotated link|Fluency heuristic}}<ref>{{cite journal
+	| last1 = Gigerenzer
+	| first1 = Gerd
+	| date = 2008
+	| title = Why Heuristics Work
+	| url = http://www.jstor.org/stable/40212224
+	| journal = Perspectives on Psychological Science
+	| volume = 3
+	| issue = 1
+	| pages = 20–29
+	| doi = 10.1111/j.1745-6916.2008.00058.x
+	| jstor = 40212224
+	| pmid = 26158666
+	| access-date = 5 May 2024
+    | quote =Fluency heuristic (Schooler & Hertwig, 2005). If one alternative is recognized faster than another, infer that it has the higher value on the criterion.| url-access = subscription
+	}}</ref><ref>{{cite journal
+| last1 = Gigerenzer
+| first1 = G.
+| last2 = Gaissmaier
+| first2 = W.
+| date = 2011
+| title = Heuristic Decision Making
+| url = https://pure.mpg.de/rest/items/item_2099042_4/component/file_2099041/content
+| journal = Annual Review of Psychology
+| volume = 62
+| issue = 
+| pages = 451–482
+| doi = 10.1146/annurev-psych-120709-145346
+| pmid = 21126183
+| access-date = 6 May 2024
+| quote = 'Fluency heuristic: If both alternatives are recognized but one is recognized faster, then infer that this alternative has the higher value with respect to the criterion.' The fluency heuristic builds on earlier work on fluency (Jacoby & Dallas 1981).| hdl = 11858/00-001M-0000-0024-F16D-5
+| hdl-access = free
+}}</ref>
+
+===Tracking heuristics===
+{{Broader|Predation}}
+''Tracking heuristics'' is a [[Class (knowledge representation)|class]] of heuristics.<ref name=gaze1>{{Cite journal
+| last1 = Gigerenzer
+| first1 = Gerd
+| last2 = Brighton
+| first2 = Henry
+| doi = 10.1111/j.1756-8765.2008.01006.x
+| title = Homo Heuristicus: Why Biased Minds Make Better Inferences
+| journal = Topics in Cognitive Science
+| volume = 1
+| issue = 1
+| pages = 107–143
+| year = 2009
+| pmid = 25164802
+| url = https://onlinelibrary.wiley.com/doi/10.1111/j.1756-8765.2008.01006.x
+| access-date = 6 May 2024
+| quote = The gaze heuristic introduced earlier has three building blocks.{{nbsp}}... there is a class of such tracking heuristics{{nbsp}}... | hdl = 11858/00-001M-0000-0024-F678-0
+| hdl-access = free
+}}</ref>
+* {{Annotated link|Gaze heuristic}}<ref name=gaze1/>
+* {{Annotated link|Pointing and calling}}
+
+===Trade-off===
+*{{Annotated link|Trade-off}}<ref>{{cite journal
+| last1 = Gigerenzer
+| first1 = G.
+| last2 = Gaissmaier
+| first2 = W.
+| date = 2011
+| title = Heuristic Decision Making
+| url = https://pure.mpg.de/rest/items/item_2099042_4/component/file_2099041/content
+| journal = Annual Review of Psychology
+| volume = 62
+| issue = 
+| pages = 451–482
+| doi = 10.1146/annurev-psych-120709-145346
+| pmid = 21126183
+| access-date = 6 May 2024
+| quote = Trade-offs: a class of heuristics that weights all cues or alternatives equally and thus makes trade-offs (e.g., tallying and 1/N)| hdl = 11858/00-001M-0000-0024-F16D-5
+| hdl-access = free
+}}</ref>
+** ''Tallying heuristic''<ref>{{cite journal
+	| last1 = Gigerenzer
+	| first1 = Gerd
+	| date = 2008
+	| title = Why Heuristics Work
+	| url = http://www.jstor.org/stable/40212224
+	| journal = Perspectives on Psychological Science
+	| volume = 3
+	| issue = 1
+	| pages = 20–29
+	| doi = 10.1111/j.1745-6916.2008.00058.x
+	| jstor = 40212224
+	| pmid = 26158666
+	| access-date = 5 May 2024
+    | quote = Tallying (unit-weight linear model; Dawes, 1979). To estimate a criterion, do not estimate weights but simply count the number of favoring cues.| url-access = subscription
+	}}</ref><ref>{{cite journal
+	| last1 = Swire-Thompson
+	| first1 = Briony
+	| last2 = Ecker 
+	| first2 = Ullrich
+	| last3 = Lewandowsky
+	| first3 = Stephan
+	| last4 = Berinsky
+	| first4 = Adam
+	| date = 2020
+	| title = They Might Be a Liar But They're My Liar: Source Evaluation and the Prevalence of Misinformation
+	| url = http://www.jstor.org/stable/4529525
+	| journal = Political Psychology
+	| volume = 41
+	| issue = 
+	| pages = 21–34
+	| doi = 10.1111/pops.12586
+	| jstor = 4529525
+	| access-date = 
+    | quote = This also could be in accordance with the ''tallying heuristic'' where people count the number of arguments (for example, pros and cons) and disregard the relative importance of each argument (Bonnefon, Dubois, Fargier, & Leblois, 2008; Gigerenzer, 2004).| hdl = 1983/27f75033-2ac4-4249-b1cc-ae076b96f013
+	| hdl-access = free
+	}}</ref>
+** ''Equality heuristic''<ref>{{cite journal
+	| last1 = Gigerenzer
+	| first1 = Gerd
+	| date = 2008
+	| title = Why Heuristics Work
+	| url = http://www.jstor.org/stable/40212224
+	| journal = Perspectives on Psychological Science
+	| volume = 3
+	| issue = 1
+	| pages = 20–29
+	| doi = 10.1111/j.1745-6916.2008.00058.x
+	| jstor = 40212224
+	| pmid = 26158666
+	| access-date = 5 May 2024
+    | quote = 1/N; equality heuristic (DeMiguel et al., 2006). Allocate resources equally to each of N alternatives.| url-access = subscription
+	}}</ref>
+
+===Social heuristics===
+{{Annotated link|Social heuristics}}<ref>{{cite journal
+| last1 = Gigerenzer
+| first1 = G.
+| last2 = Gaissmaier
+| first2 = W.
+| date = 2011
+| title = Heuristic Decision Making
+| url = https://pure.mpg.de/rest/items/item_2099042_4/component/file_2099041/content
+| journal = Annual Review of Psychology
+| volume = 62
+| issue = 
+| pages = 451–482
+| doi = 10.1146/annurev-psych-120709-145346
+| pmid = 21126183
+| access-date = 6 May 2024
+| quote = [Social heuristics] include imitation heuristics, tit-for-tat, the social-circle heuristic, and averaging the judgments of others to exploit the 'wisdom of crowds' (Hertwig & Herzog 2009). Imitate the-successful, for instance, speeds up learning of cue orders and can find orders that excel take-the-best’s validity order (Garcia-Retamero et al. 2009).| hdl = 11858/00-001M-0000-0024-F16D-5
+| hdl-access = free
+}}</ref>
+* {{Annotated link|Imitation}}<ref>{{cite journal
+	| last1 = Gigerenzer
+	| first1 = Gerd
+	| date = 2008
+	| title = Why Heuristics Work
+	| url = http://www.jstor.org/stable/40212224
+	| journal = Perspectives on Psychological Science
+	| volume = 3
+	| issue = 1
+	| pages = 20–29
+	| doi = 10.1111/j.1745-6916.2008.00058.x
+	| jstor = 40212224
+	| pmid = 26158666
+	| access-date = 5 May 2024
+| quote =Imitate the majority (Boyd & Richerson, 2005). Look at a majority of people in your peer group, and imitate their behavior. Imitate the successful (Boyd &Richerson, 2005). Look for the most successful person and imitate his or her behavior.| url-access = subscription
+	}}</ref>
+*{{Annotated link|Tit for tat}}<ref>{{cite journal
+	| last1 = Gigerenzer
+	| first1 = Gerd
+	| date = 2008
+	| title = Why Heuristics Work
+	| url = http://www.jstor.org/stable/40212224
+	| journal = Perspectives on Psychological Science
+	| volume = 3
+	| issue = 1
+	| pages = 20–29
+	| doi = 10.1111/j.1745-6916.2008.00058.x
+	| jstor = 40212224
+	| pmid = 26158666
+	| access-date = 5 May 2024
+    | quote =Tit-for-tat (Axelrod, 1984). Cooperate first, keep a memory of Size 1, and then imitate your partner's last behavior.| url-access = subscription
+	}}</ref>
+*{{Annotated link|Wisdom of the crowd}}<ref>{{cite journal
+	| last1 = Mondak
+	| first1 = Jeffery
+	| date = 1993
+	| title = Public Opinion and Heuristic Processing of Source Cues
+	| url = http://www.jstor.org/stable/586448
+	| journal = Political Behavior
+	| volume = 15
+	| issue = 2
+	| pages = 167–92
+	| doi = 10.1007/BF00993852
+	| jstor = 586448
+	| access-date = 7 May 2024
+    | quote = [I]f a person believes that audience consensus usually offers accurate guidance as to the merits of persuasive messages, then positive audience reaction to a specific message would prompt the individual to accept the speaker's claims. The cognitive heuristic is the holding that audience consensus in this case is representative of situations in which audience consensus provides a reliable guide (Axsom, Yates, and Chaiken, 1987).| url-access = subscription
+	}}</ref>
+
+===Epistemic heuristics===
+{{Broader|Tacit assumption}}
+
+* {{Annotated link|Propositional attitude}}<ref>{{cite journal
+	| last1 = Charteris
+	| first1 = Jennifer
+	| date = 2014
+	| title = Epistemological shudders as productive aporia: A heuristic for transformative teacher learning
+	| journal = International Journal of Qualitative Methods
+	| volume = 13
+	| issue = 1
+	| pages = 104–121
+	| doi = 10.1177/160940691401300102
+	| quote = Lozinski and Collinson (1999, as cited in Giugni, 2006) were the first to employ the concept of an 'epistemological shudder' to describe how one's preferred representations of one's known world can prove incapable of immediately making sense of the 'marvellous' (p. 101).| doi-access = free
+	}}</ref>
+* {{Annotated link|Essence}}<ref>{{cite journal
+	| last1 = Krist
+	| first1 = Christina
+	| last2 = Schwarz
+	| first2 = Christina
+	| last3 = Reiser
+	| first3 = Brian
+	| date = 2018
+	| title = Identifying Essential Epistemic Heuristics for Guiding Mechanistic Reasoning in Science Learning
+	| url = https://doi.org/10.1080/10508406.2018.1510404
+	| journal = Journal of the Learning Sciences
+	| volume = 28
+	| issue = 2
+	| pages = 160–205 
+	| doi = 10.1080/10508406.2018.1510404
+	| access-date = 11 May 2024
+    | quote = The first epistemic heuristic essential to mechanistic reasoning is that students think across scalar levels. Most definitions of mechanistic reasoning (e.g., Grotzer & Perkins, 2000; Machamer et al., 2000) use the term ''underlying'' to describe the kinds of things that must be identified and characterized in order to explain a target phenomenon.| url-access = subscription
+	}}</ref>
+* {{Annotated link|Analysis}}<ref>{{cite journal
+	| last1 = Krist
+	| first1 = Christina
+	| last2 = Schwarz
+	| first2 = Christina
+	| last3 = Reiser
+	| first3 = Brian
+	| date = 2018
+	| title = Identifying Essential Epistemic Heuristics for Guiding Mechanistic Reasoning in Science Learning
+	| url = https://doi.org/10.1080/10508406.2018.1510404
+	| journal = Journal of the Learning Sciences
+	| volume = 28
+	| issue = 2
+	| pages = 160–205 
+	| doi = 10.1080/10508406.2018.1510404
+	| access-date = 11 May 2024
+    | quote = second epistemic heuristic: identifying and characterizing relevant elements at a scalar level below that of the target phenomenon.{{nbsp}}... we use the term ''factor'' to refer generally to the relevant elements at the scalar level below that of the aggregate phenomenon. Similarly, we refer generally to the intellectual work involved in characterizing the relevant properties, rules, and behaviors of factors as ''unpacking'' those factors.| url-access = subscription
+	}}</ref>
+* {{Annotated link|Falsifiability}}<ref>{{cite journal
+	| last1 = Krist
+	| first1 = Christina
+	| last2 = Schwarz
+	| first2 = Christina
+	| last3 = Reiser
+	| first3 = Brian
+	| date = 2018
+	| title = Identifying Essential Epistemic Heuristics for Guiding Mechanistic Reasoning in Science Learning
+	| url = https://doi.org/10.1080/10508406.2018.1510404
+	| journal = Journal of the Learning Sciences
+	| volume = 28
+	| issue = 2
+	| pages = 160–205 
+	| doi = 10.1080/10508406.2018.1510404
+	| access-date = 11 May 2024
+    | quote =Finally, the third heuristic essential to mechanistic reasoning involves checking how well the underlying mechanisms fit the observed phenomenon.| url-access = subscription
+	}}</ref>
+* {{Annotated link|Hierarchy of evidence}}
+
+===Behavioral economics===
+{{Main|Behavioral economics}}
+* {{Annotated link|Affect heuristic}}<ref>{{cite journal
+	| last1 = Nouri
+	| first1 = Pouria
+	| last2 = Imanipour
+	| first2 = Narges
+	| last3 = Talebi
+	| first3 = Kambiz
+	| last4 = Zali
+	| first4 = Mohammadreza
+	| date = 2018
+	| title = Most common heuristics and biases in nascent entrepreneurs' marketing behavior
+	| url = https://www.tandfonline.com/doi/abs/10.1080/08276331.2018.1427406
+	| journal = Journal of Small Business & Entrepreneurship
+	| volume = 30
+	| issue = 6
+	| pages = 451–472
+	| doi = 10.1080/08276331.2018.1427406
+	| access-date = 11 May 2024
+    | quote = The affect heuristic is one of the most common heuristics in individuals, and has been a popular topic in the study of behavioral finance (Finucane et al. 2000).| url-access = subscription
+	}}</ref>
+* {{Annotated link|Feedback}}<ref name=Sergiu>{{cite journal
+	| last1 = Hart
+	| first1 = Sergiu
+	| date = 2005
+	| title = Adaptive Heuristics
+	| url = http://www.jstor.org/stable/3598879
+	| journal = Econometrica
+	| volume = 73
+	| issue = 5
+	| pages = 1401–30
+	| doi = 10.1111/j.1468-0262.2005.00625.x
+	| jstor = 3598879
+	| access-date = 6 May 2024
+    | quote = Adaptive heuristics commonly appear in behavioral models, such as reinforcement, feedback, and stimulus-response.| url-access = subscription
+	}}</ref>
+* {{Annotated link|Reinforcement}}<ref name=Sergiu/>
+* {{Annotated link|Stimulus–response model}}<ref name=Sergiu/>
+
+===Others===
+* {{Annotated link|Satisficing}}<ref>{{cite journal
+| last1 = Chow
+| first1 = Sheldon
+| date = 2015
+| title = Many Meanings of 'Heuristic'
+| url = http://www.jstor.org/stable/24562967
+| journal = The British Journal for the Philosophy of Science
+| volume = 66
+| issue = 4
+| pages = 977–1016
+| doi = 10.1093/bjps/axu028
+| jstor = 24562967
+| access-date = 5 May 2024
+|quote=However, a different meaning of 'heuristic' was invoked in psychology with the Gestalt theorists, and later with Simon's notion of 'satisficing'.| url-access = subscription
+}}</ref><ref>{{cite journal
+	| last1 = Gigerenzer
+	| first1 = Gerd
+	| date = 2008
+	| title = Why Heuristics Work
+	| url = http://www.jstor.org/stable/40212224
+	| journal = Perspectives on Psychological Science
+	| volume = 3
+	| issue = 1
+	| pages = 20–29
+	| doi = 10.1111/j.1745-6916.2008.00058.x
+	| jstor = 40212224
+	| pmid = 26158666
+	| access-date = 5 May 2024
+    | quote =Satisficing (Simon, 1955; Todd & Miller, 1999). Search through alternatives, and choose the first one that exceeds your aspiration level.| url-access = subscription
+	}}</ref><ref>{{cite journal
+| last1 = Gigerenzer
+| first1 = G.
+| last2 = Gaissmaier
+| first2 = W.
+| date = 2011
+| title = Heuristic Decision Making
+| url = https://pure.mpg.de/rest/items/item_2099042_4/component/file_2099041/content
+| journal = Annual Review of Psychology
+| volume = 62
+| issue = 
+| pages = 451–482
+| doi = 10.1146/annurev-psych-120709-145346
+| pmid = 21126183
+| access-date = 6 May 2024
+| quote = Simon's (1955) satisficing heuristic searches through options in any order, stops as soon the first option exceeds an aspiration level, and chooses this option.| hdl = 11858/00-001M-0000-0024-F16D-5
+| hdl-access = free
+}}</ref>
+* {{Annotated link|Representativeness heuristic}}<ref>{{cite journal
+| last1 = Chow
+| first1 = Sheldon
+| date = 2015
+| title = Many Meanings of 'Heuristic'
+| url = http://www.jstor.org/stable/24562967
+| journal = The British Journal for the Philosophy of Science
+| volume = 66
+| issue = 4
+| pages = 977–1016
+| doi = 10.1093/bjps/axu028
+| jstor = 24562967
+| access-date = 5 May 2024
+|quote=[T]he representativeness heuristic[:]Probabilities are evaluated by the degree to which one thing or event is representative of (resembles) another; the higher the representativeness (resemblance) the higher the probability estimation[.]| url-access = subscription
+}}</ref><ref>{{cite journal
+	| last1 = Lu
+	| first1 = Yun
+	| last2 = Vasko
+	| first2 = Francis
+	| last3 = Drummond
+	| first3 = Trevor
+	| last4 = Vasko
+	| first4 = Lisa
+	| date = 2014
+	| title = Probability & Perception: The Representativeness Heuristic in Action
+	| url = https://doi.org/10.5951/mathteacher.108.2.0126
+	| journal = The Mathematics Teacher
+	| volume = 108
+	| issue = 2
+	| pages = 126–31
+	| doi = 10.5951/mathteacher.108.2.0126
+	| access-date = 5 May 2024
+    | quote = The belief that a sequence such as 11111111111111111111 is less probable than a sequence such as 66234441536125563152 is often referred to as the ''representativeness heuristic'' (Kahneman and Tversky 1972; Shaughnessy 1977, 1992).| url-access = subscription
+	}}</ref><ref>{{Cite journal |last1=Kahneman |first1=Daniel |last2=Tversky |first2=Amos |date=July 1973 |title=On the psychology of prediction. |url=http://doi.apa.org/getdoi.cfm?doi=10.1037/h0034747 |journal=Psychological Review |language=en |volume=80 |issue=4 |pages=237–251 |doi=10.1037/h0034747 |issn=1939-1471 |access-date=2023-05-09 |archive-date=2023-10-28 |archive-url=https://web.archive.org/web/20231028141521/https://psycnet.apa.org/doiLanding?doi=10.1037/h0034747 |url-status=live |url-access=subscription }}</ref>
+* {{Annotated link|Availability heuristic}}<ref>{{Cite journal |last1=Tversky |first1=Amos |last2=Kahneman |first2=Daniel |date=1973-09-01 |title=Availability: A heuristic for judging frequency and probability |url=https://dx.doi.org/10.1016/0010-0285%2873%2990033-9 |journal=Cognitive Psychology |language=en |volume=5 |issue=2 |pages=207–232 |doi=10.1016/0010-0285(73)90033-9 |issn=0010-0285 |access-date=2023-08-24 |archive-date=2023-10-28 |archive-url=https://web.archive.org/web/20231028141521/https://www.sciencedirect.com/science/article/abs/pii/0010028573900339?via%3Dihub |url-status=live |url-access=subscription }}</ref><ref>{{cite journal
+| last1 = Chow
+| first1 = Sheldon
+| date = 2015
+| title = Many Meanings of 'Heuristic'
+| url = http://www.jstor.org/stable/24562967
+| journal = The British Journal for the Philosophy of Science
+| volume = 66
+| issue = 4
+| pages = 977–1016
+| doi = 10.1093/bjps/axu028
+| jstor = 24562967
+| access-date = 5 May 2024
+|quote=[T]he availability heuristic[:]The frequency of a class or the probability of an event is assessed according to the ease with which instances or associations can be brought to mind (Tversky and Kahneman [1974])| url-access = subscription
+}}</ref>
+* {{Annotated link|Awareness}}<ref>{{cite journal
+| last1 = Gigerenzer
+| first1 = G.
+| last2 = Gaissmaier
+| first2 = W.
+| date = 2011
+| title = Heuristic Decision Making
+| url= https://pure.mpg.de/rest/items/item_2099042_4/component/file_2099041/content
+| journal = Annual Review of Psychology
+| volume = 62
+| issue = 
+| pages = 451–482
+| doi = 10.1146/annurev-psych-120709-145346
+| pmid = 21126183
+| access-date = 6 May 2024
+| quote = Max Wertheimer, who was a close friend of Einstein, and his fellow Gestalt psychologists spoke of heuristic methods such as ‘looking around’ to guide search for information.| hdl = 11858/00-001M-0000-0024-F16D-5
+| hdl-access = free
+}}</ref>
+* {{Annotated link|Base and superstructure}}<ref name=Loic>{{cite journal
+	| last1 = Wacquant
+	| first1 = Loic
+	| date = 1985
+	| title = Heuristic Models in Marxian Theory
+	| url = https://doi.org/10.2307/2578970
+	| journal = Social Forces
+	| volume = 64
+	| issue = 1
+	| pages = 17–45
+	| doi = 10.2307/2578970
+	| jstor = 2578970
+	| access-date = 6 May 2024
+    | quote = In building social theory, Marx used not one (as generally regarded) but three heuristic models: base-superstructure, organic totality, and dialectical development.| url-access = subscription
+	}}</ref>
+* {{Annotated link|Social organism}}<ref name=Loic/>
+* {{Annotated link|Dialectic}}<ref name=Loic/>
+* {{Annotated link|Continuum limit}}<ref>{{cite journal
+	| last1 = Hey
+	| first1 = Spencer
+	| date = 2016
+	| title = Heuristics and Meta-Heuristics in Scientific Judgement
+	| url = http://www.jstor.org/stable/43946078
+	| journal = The British Journal for the Philosophy of Science
+	| volume = 67
+	| issue = 2
+	| pages = 471–95
+	| doi = 10.1093/bjps/axu045
+	| jstor = 43946078
+	| access-date = 5 May 2024
+    | quote = The continuum limit heuristic is one member of a more general class of heuristics for variable reduction (Wilson [2007], pp. 184–92).| url-access = subscription
+	}}</ref>
+* {{Annotated link|Johari window}}
+* {{Annotated link|Social rationality}}
+* {{Annotated link|Desert (philosophy)}}<ref>{{cite journal
+	| last1 = Petersen
+	| first1 = Michael
+	| date = 2015
+	| title = Evolutionary Political Psychology: On the Origin and Structure of Heuristics and Biases in Politics
+	| url = http://www.jstor.org/stable/43783844
+	| journal = Political Psychology
+	| volume = 36
+	| issue = 1
+	| pages = 45–78
+	| doi = 10.1111/pops.12237
+	| jstor = 43783844
+	| access-date = 5 May 2024
+    | quote = One of the political heuristics that has been most studied from an evolutionary perspective is the deservingness heuristic.{{nbsp}}... the deservingness heuristic is the psychological tendency of people to base their opinions about welfare programs on the efforts of the recipients. Specifically, the heuristic motivates people to support welfare benefits to recipients who are represented as victims of bad luck and reject benefits to recipients who are represented as lazy.}}</ref>
+* {{annotated link|Less-is-better effect}}
+* [[Simple random sample|Minimalist heuristic]]<ref>{{cite journal
+	| last1 = Todd
+	| first1 = P
+	| last2 = Dieckmann
+	| first2 = A
+	| date = 2004
+	| title = Heuristics for Ordering Cue Search in Decision Making
+	| url = https://www.researchgate.net/publication/221620559
+	| journal = Advances in Neural Information Processing Systems
+	| volume = 
+	| issue = 
+	| pages = 13–18
+	| doi = 
+	| access-date = 6 May 2024
+    | quote = The even simpler Minimalist heuristic, which searches through available cues in a random order[.]}}</ref>
+* {{Annotated link|Unification of theories in physics}}<ref>{{cite journal
+	| last1 = Kao
+	| first1 = Molly
+	| date = 2019
+	| title = Unification beyond Justification: A Strategy for Theory Development
+	| url = http://www.jstor.org/stable/45215151
+	| journal = Synthese
+	| volume = 196
+	| issue = 8
+	| pages = 3263–78
+	| doi = 10.1007/s11229-017-1515-8
+	| jstor = 45215151
+	| access-date = 
+| quote = The focus on unification as a heuristic strategy parallels certain elements of a related type of reasoning, namely that found in robustness analysis.}}</ref>
+* {{Annotated link|Backward induction}}
+
+===Meta-heuristic===
+{{Main|Metaheuristic}}
+{{Broader|List of metaphor-based metaheuristics}}
+
+* ''Optimality''<ref name=opt01>{{cite journal
+| last1 = Schoemaker
+| first1 = Paul
+| date = 1991
+| title = The quest for optimality: A positive heuristic of science?
+| url = https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/the-quest-for-optimality-a-positive-heuristic-of-science/0A56CEFA30BC66B72B121C80487A5F3F
+| journal = Behavioral and Brain Sciences
+| volume = 14
+| issue = 2
+| pages = 205–245
+| doi = 10.1017/S0140525X00066140
+| access-date = 27 July 2024
+|quote=As with any heuristic (Tversky & Kahneman 1974), however, the optimality approach is prone to systematic biases{{nbsp}}[...] {{ubl|1. ''Posing a why question''{{nbsp}}... |2. ''Bounding the domain of inquiry''{{nbsp}}... |3. ''Selection of salient features''{{nbsp}}... |4. ''Teleological description of the system''{{nbsp}}... |5. ''Search for the optimal solution''{{nbsp}}... |6. ''Empirical comparisons''{{nbsp}}... |7. ''Further refinement of the model''{{nbsp}}... |8. ''Generation of new hypotheses''{{nbsp}}[...] Survival of the fittest, which is perhaps the grandest of all optimality principles, was formulated as a qualitative, conceptual cornerstone in Darwin's (1859) theory of evolution. Entropy and least action principles are other broad optimality laws{{nbsp}}[...] Equilibrium notions and homeostatic behavior can also be interpreted as general optimality principles, covering wide domains of application.}} | url-access = subscription
+}}</ref>
+** {{Annotated link|Survival of the fittest}}<ref name=opt01/>
+** {{Annotated link|Mechanical equilibrium}}<ref name=opt01/>
+** {{Annotated link|Chemical equilibrium}}<ref name=opt01/>
+** {{Annotated link|Homeostasis}}<ref name=opt01/>
+** {{Annotated link|Entropy}}<ref name=opt01/>
+
+==History==
+{{Main|Analysis}}
+{{Broader|Dialectic}}
+[[George Polya]] studied and published on heuristics in 1945.<ref name=origin01>{{cite journal
+	| last1 = Romanycia
+	| first1 = M.
+	| last2 = Pelletier
+	| first2 = F.
+	| date = 1985
+	| title = What is a heuristic?
+	| url = https://doi.org/10.1111/j.1467-8640.1985.tb00058.x
+	| journal = Computational Intelligence
+	| volume = 1
+	| issue = 1
+	| pages = 47–58
+	| doi = 10.1111/j.1467-8640.1985.tb00058.x
+	| access-date = 7 May 2024
+    | quote = Minsky's (1961 b) subject bibliography lists Polya (1945) as the earliest reference to heuristic in the AI literature.| url-access = subscription
+	}}</ref> Polya (1945) cites [[Pappus of Alexandria]] as having written a [[Text (literary theory)|text]] that Polya dubs ''Heuristic''.<ref>{{cite book
+	| last = Polya
+	| first = George
+	| author-link = George Pólya
+	| year = 1945
+	| title = How to Solve It
+	| url = https://math.hawaii.edu/home/pdf/putnam/PolyaHowToSolveIt.pdf
+	| location = Princeton, NJ
+	| publisher = Princeton University Press
+	| pages = 141
+	| isbn = 978-0-691-16407-6
+    | access-date = 10 May 2024}}</ref> Pappus' heuristic problem-solving methods consist of [[analysis]] and [[wikt:synthesis#Noun|synthesis]].<ref>{{cite book
+    | last1= Groner
+    | first1= Rudolf
+    | last2= Groner
+    | first2= Marina
+    | last3= Bischof
+    | first3= Walter
+	| date = 2014
+	| title = Methods of heuristics
+	| url = https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=76a213b007a1c8072760b59b58df40729fa1f3c1
+	| publisher = Routledge
+	| page = <!-- or pages: -->
+	| isbn = 
+    | quote = The methods of analysis and synthesis appear later in almost every treatise on problem-solving methods [from Pappus].}}</ref>
+
+===Notable===
+{{Incomplete list|date=May 2024}}
+
+====Figures====
+* [[George Polya]]<ref name=chow>{{cite journal
+| last1 = Chow
+| first1 = Sheldon
+| date = 2015
+| title = Many Meanings of 'Heuristic'
+| url = http://www.jstor.org/stable/24562967
+| journal = The British Journal for the Philosophy of Science
+| volume = 66
+| issue = 4
+| pages = 977–1016
+| doi = 10.1093/bjps/axu028
+| jstor = 24562967
+| access-date = 5 May 2024
+|quote=[I]nfluential heuristics researchers, including George Polya, Herbert Simon, Daniel Kahneman and Amos Tversky, and Gerd Gigerenzer.| url-access = subscription
+}}</ref><ref name=Barnabas2>{{cite journal
+	| last1 = Hughes
+	| first1 = Barnabas
+	| date = 1974
+	| title = Heuristic Teaching in Mathematics
+	| url = http://www.jstor.org/stable/3482053
+	| journal = Educational Studies in Mathematics
+	| volume = 5
+	| issue = 3
+	| pages = 291–99
+	| doi = 10.1007/BF00684704
+	| jstor = 3482053
+	| access-date = 5 May 2024
+    | quote = The most important work in heuristic teaching has been done by George Polya. His ''How To Solve It'' has been a best seller since its first printing in 1945-copies sold number in the hundreds of thousands. Complementary to ''How To Solve It'' are two other works, each in two volumes: ''Mathematical Discovery'' and ''Mathematics And Plausible Reasoning''.| url-access = subscription
+	}}</ref><ref name=origin01/>
+* [[Herbert A. Simon]]<ref name=chow/>
+* [[Daniel Kahneman]]<ref name=chow/>
+* [[Amos Tversky]]<ref name=chow/><ref>{{cite journal
+	| last1 = Hey
+	| first1 = Spencer
+	| date = 2016
+	| title = Heuristics and Meta-Heuristics in Scientific Judgement
+	| url = http://www.jstor.org/stable/43946078
+	| journal = The British Journal for the Philosophy of Science
+	| volume = 67
+	| issue = 2
+	| pages = 471–95
+	| doi = 10.1093/bjps/axu045
+	| jstor = 43946078
+	| access-date = 5 May 2024
+| quote = It is difficult to overstate the influence of Tversky and Kahneman's work and the so-called 'heuristics-and-biases research programme' that followed.| url-access = subscription
+	}}</ref>
+* [[Gerd Gigerenzer]]<ref name=chow/>
+* [[Judea Pearl]]<ref>{{cite journal
+| last1 = Chow
+| first1 = Sheldon
+| date = 2015
+| title = Many Meanings of 'Heuristic'
+| url = http://www.jstor.org/stable/24562967
+| journal = The British Journal for the Philosophy of Science
+| volume = 66
+| issue = 4
+| pages = 977–1016
+| doi = 10.1093/bjps/axu028
+| jstor = 24562967
+| access-date = 5 May 2024
+|quote='To choose a ripe cantaloupe, press the spot on the candidate cantaloupe where it was attached to the plant and smell it; if the spot smells like the inside of a cantaloupe, it's probably ripe' (Pearl [1984])| url-access = subscription
+}}</ref>
+* [[Robin Dunbar]]<ref>{{cite journal
+| last1 = Chow
+| first1 = Sheldon
+| date = 2015
+| title = Many Meanings of 'Heuristic'
+| url = http://www.jstor.org/stable/24562967
+| journal = The British Journal for the Philosophy of Science
+| volume = 66
+| issue = 4
+| pages = 977–1016
+| doi = 10.1093/bjps/axu028
+| jstor = 24562967
+| access-date = 5 May 2024
+|quote='Start in the centre square when beginning a game of tic-tac-toe' (Dunbar [1998])| url-access = subscription
+}}</ref>
+* [[David Perkins Page]]<ref name=Barn>{{cite journal
+	| last1 = Hughes
+	| first1 = Barnabas
+	| date = 1974
+	| title = Heuristic Teaching in Mathematics
+	| url = http://www.jstor.org/stable/3482053
+	| journal = Educational Studies in Mathematics
+	| volume = 5
+	| issue = 3
+	| pages = 291–99
+	| doi = 10.1007/BF00684704
+	| jstor = 3482053
+	| access-date = 5 May 2024
+| quote = Mauritz Johnson (1966) observes that the idea is hardly new, and that, ignoring the classical accreditation of its use to Socrates in the ''Meno'', one finds an early discussion of discovery learning by David P. Page in his ''Theory and Practice of Teaching'' in 1847 as well as by later writers, Herbert Spencer in 1860, Frank and Charles McMurry in 1897, and William Chandler Babley in 1905.| url-access = subscription
+	}}</ref>
+* [[Herbert Spencer]]<ref name=Barn/>
+* [[Charles Alexander McMurry]]<ref name=Barn/>
+* [[Frank Morton McMurry]]<ref name=Barn/>
+* [[Lawrence Zalcman]]<ref>{{cite journal
+	| last1 = Zalcman
+	| first1 = Lawrence
+	| date = 1975
+	| title = A Heuristic Principle in Complex Function Theory
+	| url = https://doi.org/10.2307/2319796
+	| journal = The American Mathematical Monthly
+	| volume = 82
+	| issue = 8
+	| pages = 813–18
+	| doi = 10.2307/2319796
+	| jstor = 2319796
+	| access-date = 5 May 2024| url-access = subscription
+	}}</ref>
+* [[Imre Lakatos]]<ref>{{cite journal
+	| last1 = Hey
+	| first1 = Spencer
+	| date = 2016
+	| title = Heuristics and Meta-Heuristics in Scientific Judgement
+	| url = http://www.jstor.org/stable/43946078
+	| journal = The British Journal for the Philosophy of Science
+	| volume = 67
+	| issue = 2
+	| pages = 471–95
+	| doi = 10.1093/bjps/axu045
+	| jstor = 43946078
+	| access-date = 5 May 2024
+    | quote = Lakatos ([1965]) also adopted the term to characterize his methodology of scientific research programmes, which would lead researchers to either avoid or pursue certain lines of inquiry 'negative' and 'positive' heuristics, respectively).| url-access = subscription
+	}}</ref>
+* [[William C. Wimsatt]]<ref>{{cite journal
+	| last1 = Hey
+	| first1 = Spencer
+	| date = 2016
+	| title = Heuristics and Meta-Heuristics in Scientific Judgement
+	| url = http://www.jstor.org/stable/43946078
+	| journal = The British Journal for the Philosophy of Science
+	| volume = 67
+	| issue = 2
+	| pages = 471–95
+	| doi = 10.1093/bjps/axu045
+	| jstor = 43946078
+	| access-date = 5 May 2024
+    | quote = Wimsatt's ([1980], [1981], [2006], [2007]) work on reductionist modelling strategies - also built upon Simon's programme of bounded rationality - provides an alternative starting point that is more useful for understanding the role that heuristics play in science.| url-access = subscription
+	}}</ref><ref>{{cite journal
+	| last1 = Schaffner
+	| first1 = Kenneth 
+	| date = 2008
+	| title = Theories, Models, and Equations in Biology: The Heuristic Search for Emergent Simplifications in Neurobiology
+	| url = https://doi.org/10.1086/594542
+	| journal = Philosophy of Science
+	| volume = 75
+	| issue = 5
+	| pages = 1008–21
+	| doi = 10.1086/594542
+	| access-date = 5 May 2024
+| quote = In a series of papers beginning in 1980 and represented in his 2007 book, Bill Wimsatt analyzed a series of 'heuristics,' thought of as guides or 'rules of thumb,' which are employed when scientists proceed in a reductionist manner (1980, 2007).}}</ref>
+*[[Alan Hodgkin]]<ref name=ken1>{{cite journal
+	| last1 = Schaffner
+	| first1 = Kenneth 
+	| date = 2008
+	| title = Theories, Models, and Equations in Biology: The Heuristic Search for Emergent Simplifications in Neurobiology
+	| url = https://doi.org/10.1086/594542
+	| journal = Philosophy of Science
+	| volume = 75
+	| issue = 5
+	| pages = 1008–21
+	| doi = 10.1086/594542
+	| access-date = 5 May 2024
+| quote = In summary, Hodgkin and Huxley use heuristics in the Wimsatt sense, and the heuristics fall both into what Wimsatt calls reductionistic heuristics and also nonreductionistic heuristics.}}</ref>
+* [[Andrew Huxley]]<ref name=ken1/>
+
+====Works====
+* ''[[Meno]]''<ref name=Barn/>
+* ''[[How to solve it]]''<ref name=Barnabas2/>
+* ''[[Mathematics and Plausible Reasoning]]''<ref name=Barnabas2/>
+
+===Contemporary===
+The study of heuristics in human [[decision-making]] was developed in the 1970s and the 1980s, by the psychologists [[Amos Tversky]] and [[Daniel Kahneman]],<ref name=Kahneman>{{cite book|editor1-last=Kahneman|editor1-first=Daniel|author1-link=Daniel Kahneman|editor2-last=Slovic|editor2-first=Paul|author2-link=Paul Slovic|editor3-last=Tversky|editor3-first=Amos|author3-link=Amos Tversky|date=30 April 1982|title=Judgment Under Uncertainty|location=Cambridge, UK|publisher=[[Cambridge University Press]]|doi=10.1017/cbo9780511809477|isbn=978-0-52128-414-1}}</ref> although the concept had been originally introduced by the [[list of Nobel laureates|Nobel laureate]] [[Herbert A. Simon]]. Simon's original primary object of research was problem solving that showed that we operate within what he calls ''[[bounded rationality]]''. He coined the term ''[[satisficing]]'', which denotes a situation in which people seek solutions, or accept choices or judgements, that are "good enough" for their purposes although they could be optimised.<ref>{{cite book|url=http://www.interaction-design.org/encyclopedia/heuristics_and_heuristic_evaluation.html|title=The Glossary of Human Computer Interaction |chapter= Heuristics and heuristic evaluation|access-date=1 September 2013|archive-date=5 July 2015|archive-url=https://web.archive.org/web/20150705023836/https://www.interaction-design.org/encyclopedia/heuristics_and_heuristic_evaluation.html|url-status=live|publisher=Interaction Design Foundation}}</ref>
+
+[[Rudolf Groner]] analysed the history of heuristics from its roots in ancient Greece up to contemporary work in [[cognitive psychology]] and [[artificial intelligence]],<ref>{{cite book|last1=Groner|first1=Rudolf|author1-link=Rudolf Groner|last2=Groner|first2=Marina|last3= Bischof|first3=Walter F.|year=1983|title=Methods of Heuristics|location=Hillsdale, NJ|publisher=[[Lawrence Erlbaum]]}}</ref> proposing a cognitive style "heuristic versus algorithmic thinking", which can be assessed by means of a validated [[questionnaire]].<ref>{{cite book|last1=Groner|first1=Rudolf|last2=Groner|first2=Marina|year=1991|chapter=Heuristische versus algorithmische Orientierung als Dimension des individuellen kognitiven Stils|trans-chapter=Heuristic versus algorithmic orientation as a dimension of the individual cognitive style|title=Über die richtige Art, Psychologie zu betreiben|language=de|trans-title=About the right way to do psychology|editor1=K. Grawe|editor2=N. Semmer|editor3=R. Hänni|location=Göttingen|publisher=[[Hogrefe Publishing Group|Hogrefe]]|isbn=978-3-80170-415-5}}</ref>
+
+===Adaptive toolbox===
+
+The ''adaptive toolbox'' contains strategies for fabricating heuristic devices.<ref>{{cite journal
+| last1 = Gigerenzer
+| first1 = G.
+| last2 = Gaissmaier
+| first2 = W.
+| date = 2011
+| title = Heuristic Decision Making
+| url = https://pure.mpg.de/rest/items/item_2099042_4/component/file_2099041/content
+| journal = Annual Review of Psychology
+| volume = 62
+| issue = 
+| pages = 451–482
+| doi = 10.1146/annurev-psych-120709-145346
+| pmid = 21126183
+| access-date = 6 May 2024
+| quote = The collection of heuristics and building blocks an individual or a species has at its disposal for constructing heuristics, together with the core mental capacities that building blocks exploit, has been called the adaptive toolbox (Gigerenzer et al. 1999).| hdl = 11858/00-001M-0000-0024-F16D-5
+| hdl-access = free
+}}</ref> The core mental capacities are [[recall (memory)]], [[frequency]], [[object permanence]], and [[imitation]].<ref>{{cite journal
+| last1 = Gigerenzer
+| first1 = G.
+| last2 = Gaissmaier
+| first2 = W.
+| date = 2011
+| title = Heuristic Decision Making
+| url = https://pure.mpg.de/rest/items/item_2099042_4/component/file_2099041/content
+| journal = Annual Review of Psychology
+| volume = 62
+| issue = 
+| pages = 451–482
+| doi = 10.1146/annurev-psych-120709-145346
+| pmid = 21126183
+| access-date = 6 May 2024
+| quote =Core capacities include recognition memory, frequency monitoring, object tracking, and the ability to imitate.| hdl = 11858/00-001M-0000-0024-F16D-5
+| hdl-access = free
+}}</ref> [[Gerd Gigerenzer]] and his research group argued that models of heuristics need to be formal to allow for predictions of behavior that can be tested.<ref>{{cite book|last1=Gigerenzer|first1=Gerd|author-link=Gerd Gigerenzer|last2=Todd|first2=Peter M.|author2-link=Peter Todd|last3=and the ABC Research Group|year=1999|title=Simple Heuristics That Make Us Smart|location=Oxford, UK|publisher=[[Oxford University Press]]|isbn=978-0-19512-156-8}}</ref> They study the fast and frugal heuristics in the "adaptive toolbox" of individuals or institutions, and the [[ecological rationality]] of these heuristics; that is, the conditions under which a given heuristic is likely to be successful.<ref>{{cite book|editor-last1=Gigerenzer|editor-first1=Gerd|editor-last2=Selten|editor-first2=Reinhard|author2-link=Reinhard Selten|year=2002|title=Bounded Rationality: The Adaptive Toolbox|location=Cambridge, MA|publisher=[[MIT Press]]|isbn=978-0-26257-164-7}}</ref> The descriptive study of the "adaptive toolbox" is done by observation and experiment, while the prescriptive study of [[ecological rationality]] requires mathematical analysis and computer simulation. Heuristics – such as the [[recognition heuristic]], the [[take-the-best heuristic]] and [[fast-and-frugal trees]] – have been shown to be effective in predictions, particularly in situations of uncertainty. It is often said that heuristics trade accuracy for effort but this is only the case in situations of risk. Risk refers to situations where all possible actions, their outcomes and probabilities are known. In the absence of this information, that is under uncertainty, heuristics can achieve higher accuracy with lower effort.<ref>{{cite book|last1=Gigerenzer|first1=Gerd|last2=Hertwig|first2=Ralph|last3=Pachur|first3=Thorsten|date=15 April 2011|title=Heuristics: The Foundations of Adaptive Behavior|publisher=Oxford University Press|doi=10.1093/acprof:oso/9780199744282.001.0001|isbn=978-0-19989-472-7|hdl=11858/00-001M-0000-0024-F172-8}}</ref> This finding, known as a [[Less-is-better effect|less-is-more effect]], would not have been found without formal models. The valuable insight of this program is that heuristics are effective not despite their simplicity – but because of it. Furthermore, [[Gerd Gigerenzer|Gigerenzer]] and Wolfgang Gaissmaier found that both individuals and organisations rely on heuristics in an adaptive way.<ref>{{cite journal|last1=Gigerenzer|first1=Gerd|last2=Gaissmaier|first2=Wolfgang|title=Heuristic Decision Making|date=January 2011|journal=[[Annual Review of Psychology]]|volume=62|ssrn=1722019|doi=10.1146/annurev-psych-120709-145346|pmid=21126183|hdl=11858/00-001M-0000-0024-F16D-5|hdl-access=free|pages=451–482}}</ref>
+
+===Cognitive-experiential self-theory===
+Heuristics, through greater refinement and research, have begun to be applied to other theories, or be explained by them. For example, the [[cognitive-experiential self-theory]] (CEST) is also an adaptive view of heuristic processing. CEST breaks down two systems that process information. At some times, roughly speaking, individuals consider issues rationally, systematically, logically, deliberately, effortfully, and verbally. On other occasions, individuals consider issues intuitively, effortlessly, globally, and emotionally.<ref>{{cite journal|last=De Neys|first=Wim|date=18 October 2008|title=Cognitive experiential self theory|journal=Perspectives on Psychological Science|volume=7|issue=1|url=http://www.psych-it.com.au/Psychlopedia/article.asp?id=53|doi=10.1177/1745691611429354|pmid=26168420|s2cid=32261626|pages=28–38|url-status=dead|archive-url=https://web.archive.org/web/20130731094145/http://www.psych-it.com.au/Psychlopedia/article.asp?id=53|archive-date=31 July 2013|url-access=subscription}}</ref> From this perspective, heuristics are part of a larger experiential processing system that is often adaptive, but vulnerable to error in situations that require logical analysis.<ref>{{cite journal|last1=Epstein|first1=S.|last2=Pacini|first2=R.|last3=Denes-Raj|first3=V.|last4=Heier|first4=H.|year=1996|title=Individual differences in intuitive-experiential and analytical-rational thinking styles|journal=Journal of Personality and Social Psychology|volume=71|issue=2|doi=10.1037/0022-3514.71.2.390|pmid=8765488|pages=390–405}}</ref>
+
+===Attribute substitution===
+In 2002, [[Daniel Kahneman]] and [[Shane Frederick]] proposed that cognitive heuristics work by a process called ''[[attribute substitution]]'', which happens without conscious awareness.<ref name=revisited>{{cite book|last1=Kahneman|first1=Daniel|last2=Frederick|first2=Shane|year=2002|chapter=Representativeness Revisited: Attribute Substitution in Intuitive Judgment|title=Heuristics and Biases: The Psychology of Intuitive Judgment|editor1=Thomas Gilovich|editor2=Dale Griffin|editor3=Daniel Kahneman|location=Cambridge, UK|publisher=Cambridge University Press|url=https://archive.org/details/heuristicsbiases00gilo|url-access=limited|oclc=47364085|isbn=978-0-52179-679-8|pages=[https://archive.org/details/heuristicsbiases00gilo/page/n60 49]–81}}</ref> According to this theory, when somebody makes a judgement (of a "target attribute") that is computationally complex, a more easily calculated "heuristic attribute" is substituted. In effect, a cognitively difficult problem is dealt with by answering a rather simpler problem, without being aware of this happening.<ref name=revisited/> This theory explains cases where judgements fail to show [[regression toward the mean]].<ref>{{cite journal|last=Kahneman|first=Daniel|date=December 2003|title=Maps of Bounded Rationality: Psychology for Behavioral Economics|journal=American Economic Review|volume=93|issue=5|url=http://www.econ.tuwien.ac.at/Lotto/papers/Kahneman2.pdf|citeseerx=10.1.1.194.6554|doi=10.1257/000282803322655392|issn=0002-8282|pages=1449–1475|url-status=dead|archive-url=https://web.archive.org/web/20180219074537/http://www.econ.tuwien.ac.at/lotto/papers/Kahneman2.pdf|archive-date=19 February 2018}}</ref> Heuristics can be considered to reduce the complexity of clinical judgments in health care.<ref>{{cite journal|last=Cioffi|first=Jane|year=1997|title=Heuristics, servants to intuition, in clinical decision making|journal=[[Journal of Advanced Nursing]]|volume=26|issue=1|doi=10.1046/j.1365-2648.1997.1997026203.x|pmid=9231296|pages=203–208}}</ref>
+
+==Academic disciplines==
+===Psychology===
+{{Main|Heuristic (psychology)}}
+{{Broader|Phenomenology (psychology)}}
+{{See also|Decision-making}}
+
+In [[psychology]], heuristics are simple, efficient rules, either learned or inculcated by evolutionary processes. These psychological heuristics have been proposed to explain how people make decisions, come to judgements, and solve problems. These rules typically come into play when people face complex problems or incomplete information. Researchers employ various methods to test whether people use these rules. The rules have been shown to work well under most circumstances, but in certain cases can lead to systematic errors or [[cognitive bias]]es.<ref>{{cite journal |last=Gigerenzer |first=Gerd |year=1991 |title=How to Make Cognitive Illusions Disappear: Beyond "Heuristics and Biases" |url=https://library.mpib-berlin.mpg.de/ft/gg/gg_how_1991.pdf |url-status=live |journal=European Review of Social Psychology |volume=2 |pages=83–115 |citeseerx=10.1.1.336.9826 |doi=10.1080/14792779143000033 |hdl=21.11116/0000-0000-BD7A-3 |archive-url=https://web.archive.org/web/20120905042450/http://library.mpib-berlin.mpg.de/ft/gg/GG_How_1991.pdf |archive-date=5 September 2012 |access-date=14 October 2012}}</ref>
+
+===Philosophy===
+A '''heuristic device''' is used when an entity ''X'' exists to enable understanding of, or knowledge concerning, some other entity ''Y''.
+
+A good example is a [[Physical model|model]] that, as [[Map/territory relation|it is never identical with what it models]], is a heuristic device to enable understanding of what it models. Stories, metaphors, etc., can also be termed heuristic in this sense. A classic example is the notion of [[utopia]] as described in [[Plato]]'s best-known work, ''[[Plato's Republic|The Republic]]''. This means that the "ideal city" as depicted in ''The Republic'' is not given as something to be pursued, or to present an orientation-point for development. Rather, it shows how things would have to be connected, and how one thing would lead to another (often with highly problematic results), if one opted for certain principles and carried them through rigorously.
+
+''Heuristic'' is also often used as a [[noun]] to describe a [[rule of thumb]], procedure, or method.<ref>{{cite journal|last=Jaszczolt|first=K. M.|author-link=Katarzyna Jaszczolt|year=2006|title=Defaults in Semantics and Pragmatics|journal=[[Stanford Encyclopedia of Philosophy]]|url=https://plato.stanford.edu/entries/defaults-semantics-pragmatics/|issn=1095-5054|access-date=2021-06-08|archive-date=2021-06-08|archive-url=https://web.archive.org/web/20210608040450/https://plato.stanford.edu/entries/defaults-semantics-pragmatics/|url-status=live}}</ref> Philosophers of science have emphasised the importance of heuristics in creative thought and the construction of scientific theories.<ref>{{cite journal|last1=Frigg|first1=Roman|author1-link=Roman Frigg|last2=Hartmann|first2=Stephan|author2-link=Stephan Hartmann|year=2006|title=Models in Science|journal=Stanford Encyclopedia of Philosophy|url=https://plato.stanford.edu/entries/models-science/|issn=1095-5054|access-date=2021-06-08|archive-date=2021-06-03|archive-url=https://web.archive.org/web/20210603222449/https://plato.stanford.edu/entries/models-science/|url-status=live}}</ref> Seminal works include [[Karl Popper]]'s ''[[The Logic of Scientific Discovery]]'' and others by [[Imre Lakatos]],<ref>{{cite journal|last=Kiss|first=Olga|year=2006|title=Heuristic, Methodology or Logic of Discovery? Lakatos on Patterns of Thinking|journal=Perspectives on Science|volume=14|issue=3|pages=302–317|doi=10.1162/posc.2006.14.3.302|s2cid=57559578|doi-access=free}}</ref> [[Lindley Darden]], and [[William C. Wimsatt]].
+
+===Law===
+In [[legal theory]], especially in the theory of [[law and economics]], heuristics are used in the [[law]] when [[case method|case-by-case analysis]] would be impractical, insofar as "practicality" is defined by the interests of a governing body.<ref>{{cite book|editor-last1=Gigerenzer|editor-first1=Gerd|editor-last2=Engel|editor-first2=Christoph|year=2007|title=Heuristics and the Law|location=Cambridge, MA|publisher=[[MIT Press]]|isbn=978-0-262-07275-5}}</ref>
+
+The present securities regulation regime largely assumes that all investors act as perfectly rational persons. In truth, actual investors face cognitive limitations from biases, heuristics, and framing effects. For instance, in all states in the United States the [[legal drinking age]] for unsupervised persons is 21 years, because it is argued that people need to be mature enough to make decisions involving the risks of [[alcohol (drug)|alcohol]] consumption. However, assuming people mature at different rates, the specific age of 21 would be too late for some and too early for others. In this case, the somewhat arbitrary delineation is used because it is impossible or impractical to tell whether an individual is sufficiently mature for society to trust them with that kind of responsibility. Some proposed changes, however, have included the completion of an alcohol education course rather than the attainment of 21 years of age as the criterion for legal alcohol possession. This would put youth alcohol policy more on a case-by-case basis and less on a heuristic one, since the completion of such a course would presumably be voluntary and not uniform across the population.
+
+The same reasoning applies to [[patent law]]. [[Patent]]s are justified on the grounds that inventors must be protected so they have incentive to invent. It is therefore argued that it is in society's best interest that inventors receive a temporary government-granted [[monopoly]] on their idea, so that they can recoup investment costs and make economic profit for a limited period. In the United States, the length of this temporary monopoly is 20 years from the date the patent application was filed, though the monopoly does not actually begin until the application has matured into a patent. However, like the drinking age problem above, the specific length of time would need to be different for every product to be efficient. A 20-year term is used because it is difficult to tell what the number should be for any individual patent. More recently, some, including [[University of North Dakota]] law professor Eric E. Johnson, have argued that patents in different kinds of industries – such as [[software patent]]s – should be protected for different lengths of time.<ref>{{cite journal|last=Johnson|first=Eric E.|year=2006|title=Calibrating Patent Lifetimes|url=http://www.eejlaw.com/writings/Johnson_Calibrating_Patent_Lifetimes.pdf|journal=Santa Clara Computer & High Technology Law Journal|volume=22|pages=269–314|archive-url=https://web.archive.org/web/20111005052244/http://www.eejlaw.com/writings/Johnson_Calibrating_Patent_Lifetimes.pdf|archive-date=2011-10-05}}</ref>
+
+===Artificial intelligence===
+
+The [[bias–variance tradeoff]] gives insight into describing the less-is-more strategy.<ref>{{cite journal
+| last1 = Gigerenzer
+| first1 = G.
+| last2 = Gaissmaier
+| first2 = W.
+| date = 2011
+| title = Heuristic Decision Making
+| url = https://pure.mpg.de/rest/items/item_2099042_4/component/file_2099041/content
+| journal = Annual Review of Psychology
+| volume = 62
+| issue = 
+| pages = 451–482
+| doi = 10.1146/annurev-psych-120709-145346
+| pmid = 21126183
+| access-date = 6 May 2024
+| quote =This 'bias-variance dilemma' helps to explicate the rationality of simple heuristics and how less can be more (Brighton & Gigerenzer 2008, Gigerenzer & Brighton 2009).| hdl = 11858/00-001M-0000-0024-F16D-5
+| hdl-access = free
+}}</ref> A [[Heuristic (computer science)|heuristic]] can be used in [[artificial intelligence]] systems while searching a [[solution space]]. The heuristic is derived by using some function that is put into the system by the designer, or by adjusting the weight of branches based on how likely each branch is to lead to a [[Goal node (computer science)|goal node]].
+
+===Behavioural economics===
+Heuristics refers to the cognitive shortcuts that individuals use to simplify decision-making processes in economic situations. [[Behavioral economics]] is a field that integrates insights from psychology and economics to better understand how people make decisions.
+
+Anchoring and adjustment is one of the most extensively researched heuristics in behavioural economics. Anchoring is the tendency of people to make future judgements or conclusions based too heavily on the original information supplied to them. This initial knowledge functions as an anchor, and it can influence future judgements even if the anchor is entirely unrelated to the decisions at hand. Adjustment, on the other hand, is the process through which individuals make gradual changes to their initial judgements or conclusions.
+
+[[Anchoring and adjustment]] has been observed in a wide range of decision-making contexts, including financial decision-making, consumer behavior, and negotiation. Researchers have identified a number of strategies that can be used to mitigate the effects of anchoring and adjustment, including providing multiple anchors, encouraging individuals to generate alternative anchors, and providing cognitive prompts to encourage more deliberative decision-making.
+
+Other heuristics studied in behavioral economics include the [[representativeness heuristic]], which refers to the tendency of individuals to categorize objects or events based on how similar they are to typical examples,<ref>{{cite journal|last=Bhatia|first=Sudeep|title=Conceptualizing and studying linguistic representations across multiple levels of analysis: The case of L2 processing research|journal=Cognitive Science|date=2015|volume=39|pages=122–148|url=https://www.sas.upenn.edu/~bhatiasu/Bhatia%202015%20CogSci%20PP.pdf|accessdate=2023-04-20|archive-date=2023-06-14|archive-url=https://web.archive.org/web/20230614203450/https://www.sas.upenn.edu/~bhatiasu/Bhatia%202015%20CogSci%20PP.pdf|url-status=live}}</ref> and the [[availability heuristic]], which refers to the tendency of individuals to judge the likelihood of an event based on how easily it comes to mind.<ref>{{cite journal|last=Dale|first=Sarah|title=Heuristics and biases: The science of decision-making|journal=Business Information Review|date=2015|volume=32|issue=2|pages=93–99|doi=10.1177/0266382115592536}}</ref>
+
+==Stereotyping==
+[[Stereotype|Stereotyping]] is a type of heuristic that people use to form opinions or make judgements about things they have never seen or experienced.<ref>{{cite book|last1=Bodenhausen|first1=Galen V.|year=1999|chapter=On the Dialectics of Discrimination: Dual Processes in Social Stereotyping|title=Dual-process Theories in Social Psychology|editor1-last=Chaiken|editor1-first=Shelly|editor2-last=Trope|editor2-first=Yaacov|publisher=Guilford Press|location=New York, NY|url=https://books.google.com/books?id=5X_auIBx99EC|display-authors=etal|isbn=978-1-57230-421-5|pages=271–292}}</ref> They work as a mental shortcut to assess everything from the social status of a person (based on their actions),<ref name=conceptually/> to classifying a plant as a tree based on it being tall, having a trunk, and that it has leaves (even though the person making the evaluation might never have seen that particular type of tree before).
+
+Stereotypes, as first described by journalist [[Walter Lippmann]] in his book ''[[Public Opinion (book)|Public Opinion]]'' (1922), are the pictures we have in our heads that are built around experiences as well as what we are told about the world.<ref>{{cite book|last=Kleg|first=Milton|year=1993|title=Hate Prejudice and Racism|location=Albany, NY|publisher=State University of New York Press|url=https://books.google.com/books?id=aaMuQHO04I0C&pg=PA135|isbn=978-0-79141-536-8|page=135|access-date=2015-03-24|archive-date=2023-10-28|archive-url=https://web.archive.org/web/20231028141528/https://books.google.com/books?id=aaMuQHO04I0C&pg=PA135#v=onepage&q&f=false|url-status=live}}</ref><ref>{{cite news|url=http://www.errc.org/cikk.php?cikk=2868|title=Pictures in Our Heads|website=European Roma Rights Centre|date=20 November 2007|last=Gökçen|first=Sinan|access-date=24 March 2015|archive-date=14 July 2015|archive-url=https://web.archive.org/web/20150714050451/http://www.errc.org/cikk.php?cikk=2868|url-status=live}}</ref>
+
+==See also==
+{{wiktionary}}
+{{wikibooks}}
+* {{Annotated link|ACT-R}}
+* {{Annotated link|Algorithm}}
+* {{Annotated link|Applied epistemology}}
+* {{Annotated link|Branch and bound}}
+* {{Annotated link|Coherence (philosophical gambling strategy)}}
+* {{Annotated link|Decision theory}}
+* {{Annotated link|Embodied cognition}}
+* {{Annotated link|Failure mode and effects analysis}}
+* {{Annotated link|Game theory}}
+* {{Annotated link|Heuristic-systematic model of information processing}}
+* {{Annotated link|Heuristics in judgment and decision-making}}
+* {{Annotated link|Ideal type}}
+* {{Annotated link|List of biases in judgment and decision making}}
+* {{Annotated link|Metalepsis}}<ref name=colin1>{{cite journal
+	| last1 = Webster
+	| first1 = Colin
+	| date = 2015
+	| title = Heuristic Medicine: The Methodists and Metalepsis
+	| url = https://doi.org/10.1086/683530
+	| journal = Isis
+	| volume = 106
+	| issue = 3
+	| pages = 657–68
+	| doi = 10.1086/683530
+	| pmid = 26685524
+	| access-date = 5 May 2024| url-access = subscription
+	}}</ref>
+* {{Annotated link|Methodic school}}<ref name=colin1/>
+* {{Annotated link|Necessity and sufficiency}}
+* {{Annotated link|Neuroheuristics}}
+* {{Annotated link|Nudge theory}}
+* {{Annotated link|Predictive coding}}
+* {{Annotated link|Principle of good enough}}
+* {{Annotated link|Priority heuristic}}
+* {{Annotated link|Prospect theory}}
+* {{Annotated link|Rule-based system}}
+* {{Annotated link|Rule of inference}}<ref>{{cite journal
+| last1 = Chow
+| first1 = Sheldon
+| date = 2015
+| title = Many Meanings of 'Heuristic'
+| url = http://www.jstor.org/stable/24562967
+| journal = The British Journal for the Philosophy of Science
+| volume = 66
+| issue = 4
+| pages = 977–1016
+| doi = 10.1093/bjps/axu028
+| jstor = 24562967
+| access-date = 5 May 2024
+|quote=Rather, as rules, heuristics are procedures that can be specified and applied in a given situation.| url-access = subscription
+}}</ref>
+* {{Annotated link|SCAMPER}}
+* {{Annotated link|Situated cognition}}
+* {{Annotated link|Six Thinking Hats}}
+* {{Annotated link|Social heuristics}}
+* {{Annotated link|Subjective expected utility}}
+* {{Annotated link|Thought experiment}}
+* {{Annotated link|TRIZ}}
+* {{Annotated link|Tutorial}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* ''How To Solve It: Modern Heuristics'', Zbigniew Michalewicz and David B. Fogel, Springer Verlag, 2000. {{ISBN|3-540-66061-5}}
+* Nadurak, V. (2025). Heuristics and cognitive biases: A conceptual analysis. ''Memory & Cognition.'' Advance online publication. https://doi.org/10.3758/s13421-025-01814-w
+* {{Cite book
+| first1 = Stuart J. | last1 = Russell | author1-link = Stuart J. Russell
+| first2 = Peter | last2 = Norvig | author2-link = Peter Norvig
+| title=[[Artificial Intelligence: A Modern Approach]]
+| year = 2021
+| edition = 4th 
+| isbn = 9780134610993 
+| lccn = 20190474
+| publisher = Pearson | location = Hoboken |ref=none
+}}
+* [http://www-stat.stanford.edu/~cgates/PERSI/papers/thinking.pdf The Problem of Thinking Too Much] {{Webarchive|url=https://web.archive.org/web/20131019160106/http://www-stat.stanford.edu/~cgates/PERSI/papers/thinking.pdf |date=2013-10-19 }}, 11 December 2002, [[Persi Diaconis]]
+
+{{Authority control}}
+
+[[Category:Adages]]
+[[Category:Biological rules]]
+[[Category:Ecogeographic rules]]
+[[Category:Heuristics]]
+[[Category:Problem solving methods]]
+[[Category:Rules of thumb]]

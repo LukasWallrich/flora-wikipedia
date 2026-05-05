@@ -1,0 +1,65 @@
+{{Short description|Canadian artificial intelligence researcher (1967–2006)}}
+{{Use mdy dates|date=November 2024}}
+{{Infobox person
+| name               = Chris McKinstry
+| caption            = 
+| birth_name         = Kenneth Christopher McKinstry
+| birth_date         = {{birth date|1967|2|12}}
+| birth_place        = [[Winnipeg]], [[Manitoba]], Canada
+| death_date         = {{death date and age|2006|1|23|1967|2|12}}
+| death_place        = [[Santiago]], [[Chile]]
+| occupation         = [[Artificial intelligence]] researcher
+}}
+
+'''Kenneth Christopher McKinstry''' (February 12, 1967 – January 23, 2006) was a Canadian researcher in [[artificial intelligence]]. He led the development of the [[MISTIC (AI project)|MISTIC]] project which was launched in May 1996.  He founded the [[Mindpixel]] project in July 2000, and closed it in December 2005. McKinstry's AI work and similar early death dovetailed with another contemporary AI researcher, Push Singh and his MIT [[Open Mind Common Sense]] Project.<ref name="streebgreebling">{{cite web |url=https://streebgreebling.blogspot.com/2006/01/legends-in-ai-chris-mckinstry.html |title=Legends in AI: Chris McKinstry |last=Mottram |first=Bob |date=January 28, 2006 |website=The Streeb-Greebling Diaries |access-date=June 10, 2018 |url-status=dead |archive-url=https://web.archive.org/web/20060214061340/http://streebgreebling.blogspot.com/2006/01/legends-in-ai-chris-mckinstry.html |archive-date=February 14, 2006}}</ref><ref name="kurzweilai">{{cite web |url=http://www.kurzweilai.net/meme/frame.html?main%3D%2Farticles%2Fart0678.html%3F |title=In Memoriam: Push Singh (1972-2006) |last=Hendler |first=James |website=KurzweilAI.net |access-date=January 14, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20071116212510/http://www.kurzweilai.net/meme/frame.html?main=%2Farticles%2Fart0678.html%3F |archive-date=November 16, 2007}}</ref><ref name="alphabetsoup">{{cite web |url=http://www.alphabetsoup.cl/blog/2006/05/mindpixel-crashes.html |title=Mindpixel Crashes |date=May 6, 2006 |website=AlphabetSoup |access-date=June 6, 2006 |url-status=dead |archive-url=https://web.archive.org/web/20060705153917/http://www.alphabetsoup.cl/blog/2006/05/mindpixel-crashes.html |archive-date=July 5, 2006}}</ref>
+
+==Life==
+McKinstry was a [[Canadians|Canadian]] citizen. Born in [[Winnipeg]], he resided several years in [[Chile]]. From 1999, he lived in [[Antofagasta]] as a [[Very Large Telescope|VLT]] operator for the [[European Southern Observatory]]. At the end of 2004, he moved back to [[Santiago, Chile]]. Suffering from [[bipolar disorder]], McKinstry had an armed standoff with [[police]] in [[Toronto]] in 1990, with it lasting 7 1/2 hours. It ultimately concluded with McKinstry being hit with [[tear gas]], but ending with no casualties <ref>{{cite web |url=http://groups.google.ca/group/wpg.general/msg/2764a9158359f7b8?dmode=source |title=McKinstry in Toronto - Globe and Mail |website=Google Groups |access-date=June 10, 2018}}</ref><ref>{{cite web |url=http://groups.google.ca/group/wpg.general/msg/42073915fd22e6ea?dmode=source |title=McKinstry in Toronto - Toronto Star |website=Google Groups |access-date=June 10, 2018}}</ref>
+
+In February 1997, Chris McKinstry started an online [[soap opera]], ''CR6'' (''Clickable Reality 6)''.<ref>{{Cite news|date=1997-01-09|title=Winnipeg crew offers Net soap for cyber fans|pages=24|work=The Ottawa Citizen|url=https://www.newspapers.com/clip/85650772/winnipeg-crew-offers-net-soap-for-cyber/|access-date=2021-09-20}}</ref><ref>{{Cite news|date=1997-01-25|title=Canadian soap opera is coming to Internet|pages=61|work=The Windsor Star|url=https://www.newspapers.com/clip/85320709/cr6carlee-benolt-actress-in-cr6-did/|access-date=2021-09-20}}</ref> According to journalist [[Bartley Kives]], around 700 people auditioned for the show, which only lasted for two months, before McKinstry left Winnipeg with "estimated debts in excess of $100,000".<ref>{{Cite news|last=Kives|first=Bartley|author-link=Bartley Kives|date=2011-01-23|title=Jan 2011: A belated eulogy|language=en-CA|work=Winnipeg Free Press|url=https://www.winnipegfreepress.com/opinion/columnists/b_kives/a-belated-eulogy-114443089.html|access-date=2021-09-20}}</ref> McKinstry later claimed to have lost $1 million in the CR6 failure, and the many people he recruited to build the [[soap opera]], including photographers, writers, a director, and several prominent businesses, never received any of the money owed to them for their work.{{Citation needed|date=September 2021}} 
+
+Before his death, McKinstry designed an experiment with two cognitive scientists to study the dynamics of thought processes using data from his Mindpixel project. This work was later published in ''Psychological Science'' in its January 2008 issue,<ref>{{cite journal |last1=McKinstry |first1=Chris |last2=Dale |first2=Rick |last3=Spivey |first3=Michael J. |title=Action dynamics reveal parallel competition in decision making |date=January 1, 2008 |journal=Psychological Science |volume=19 |issue=1 |pages=22–24 |doi=10.1111/j.1467-9280.2008.02041.x |pmid = 18181787|s2cid=25789465 }}</ref> with McKinstry as posthumous first author.
+
+[[Category:Internet soap operas|CR6]]
+=== Mental health ===
+Chris McKinstry had a long struggle with his mental health, with him admitting to being diagnosed with [[bipolar disorder]].<ref name="McKinstry's suicide note on Joel on Software forum">{{cite magazine |last1=Kushner |first1=David |title=Two AI Pioneers. Two Bizarre Suicides. What Really Happened? |url=https://www.wired.com/2008/01/ff-aimystery/?currentPage=all |magazine=Wired  |access-date=Jan 18, 2008}}</ref> McKinstry, as a result, suffered from frequent suicidal thoughts and a long-standing [[Depression mental disorder|depression]], discussing it in his [[suicide note]]. In his teen years, McKinstry had attempted suicide, intentionally [[overdosing]] on drugs, another issue McKinstry struggled with.<ref>{{cite magazine |url=https://www.wired.com/wp-content/uploads/archive/wired/archive/16.02/McKinstry.html |title=So what does a web suicide note look like? |magazine=[[Wired (magazine)|Wired]]|date=2006|access-date=June 10, 2018}} [https://www.wired.com/wp-content/uploads/archive/wired/archive/16.02/McKinstry.html Document]</ref> His bipolar disorder is often attributed to the reason for his standoff in 1990.
+
+==Death==
+Chris McKinstry was found dead in his apartment on January 23, 2006, with a plastic bag over his head, connected to the stove gas line with a hose.<ref>{{Cite magazine|title=Two AI Pioneers. Two Bizarre Suicides. What Really Happened?|language=en-US|magazine=Wired|url=https://www.wired.com/2008/01/ff-aimystery/|access-date=2021-09-16|issn=1059-1028}}</ref> He was found to have posted a suicide note online. McKinstry wrote, "I am tired of feeling the same feelings and experiencing the same experiences. It is time to move on and see what is next if anything...This [[Louis Vuitton]], [[Prada]], [[Montblanc (pens)|Montblanc]] commercial universe is not for me. If only I was loved as much a Montblanc pen..."'<ref>{{cite magazine |url=https://www.wired.com/wp-content/uploads/archive/wired/archive/16.02/McKinstry.html |title=So what does a web suicide note look like? |magazine=[[Wired (magazine)|Wired]]|date=2006|access-date=June 10, 2018}}</ref>
+
+There was some public note of the similarity between the suicide of Chris McKinstry and that of Push Singh, another AI researcher, a little over a month later. Both of their AI projects, McKinstry's [[Mindpixel]] project and Singh's MIT-backed [[Open Mind Common Sense]], had similar trajectories over the last six years.<ref>{{cite magazine |url=https://www.wired.com/2000/09/two-fake-brains-better-than-one/ |title=Two Fake Brains Better Than One |last=Manjoo |first=Farhad |date=September 15, 2000 |magazine=Wired |access-date=June 10, 2018 |url-status=dead |archive-url=https://web.archive.org/web/20060528032243/https://www.wired.com/news/technology/0,38745-0.html |archive-date=May 28, 2006}}</ref>
+
+==In media==
+McKinstry is the subject of a 2010 documentary called ''The Man Behind the Curtain'' directed by Michael Beach Nichols and Joshua Woltermann which recounts his innovative work and his struggle with mental health issues.<ref>{{cite web |url=http://themanbehindthecurtainfilm.com |title=Home |website=The Man Behind The Curtain |access-date=June 10, 2018 |url-status=dead |archive-url=https://web.archive.org/web/20090317082034/http://themanbehindthecurtainfilm.com/ |archive-date=March 17, 2009}}</ref>
+
+==Articles==
+*"[[Minimum Intelligent Signal Test]]: An Alternative Turing Test", ''Canadian Artificial Intelligence'', No.41.<ref>{{cite journal |url=http://hps.elte.hu/~gk/Loebner/kcm9512.htm |title=Minimum Intelligent Signal Test: An Alternative Turing Test |last=McKinstry |first=Chris |journal=Canadian Artificial Intelligence |issue=41 |access-date=June 10, 2018}}</ref>
+*"A Closer Look at Life in the Summer of '76", ''Mindjack'', 2001.
+*"Passage through science", ''Mindjack'', 2001.
+*"Twenty Twenty: Astronomical Vision", ''Mindjack'', 2002.
+*"A Hacker Goes to Iraq", ''2600: The Hacker Quarterly'', 2003.<ref>{{cite journal |url=http://sysk-net.com/books/2600%20The%20Hacker%20Quarterly%20-%20Vol%2020%20-%20No%201%202003%20%5BPDF%5D.pdf |title=A Hacker Goes to Iraq |last=McKinstry |first=Chris |date=Spring 2003 |journal=[[2600: The Hacker Quarterly]] |volume=20 |number=1 |page=9 |access-date=June 10, 2018 |url-status=dead |archive-url=https://web.archive.org/web/20060203185959/http://sysk-net.com/books/2600%20The%20Hacker%20Quarterly%20-%20Vol%2020%20-%20No%201%202003%20%5BPDF%5D.pdf |archive-date=February 3, 2006}}</ref>
+*{{cite book |chapter=Mind as Space |editor-last1=Epstein |editor-first1=Robert |editor-last2=Roberts |editor-first2=Gary |editor-last3=Beber |editor-first3=Grace |title=Parsing the Turing Test: Philosophical and Methodological Issues in the Quest for the Thinking Computer |chapter-url=https://books.google.com/books?id=AcXFfl1pPcgC&dq=chris+mckinstry&pg=PA283 |date=1 December 2008 |publisher=Springer Science & Business Media |isbn=978-1-4020-9624-2 |page=283}}
+*{{cite journal |last1=McKinstry |first1=Chris |last2=Dale |first2=Rick |last3=Spivey |first3=Michael J. |title=Action dynamics reveal parallel competition in decision making |date=January 1, 2008 |journal=Psychological Science |volume=19 |issue=1 |pages=22–24|doi=10.1111/j.1467-9280.2008.02041.x |pmid = 18181787|s2cid=25789465 }}
+{{Reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{cite web |url=http://www.oocities.org/gactheripper/MIndPixelPageFront.html |title=MindPixel: Is It Real? |date=October 2009 |website=oocities.org |access-date=June 10, 2018}}
+*{{cite web |url=http://mindpixel.com |title=Mindpixel Digital Mind Modeling Project |date=2000 |website=Mindpixel |access-date=June 10, 2018 |url-status=dead |archive-url=https://web.archive.org/web/20000815061020/http://www.mindpixel.com/ |archive-date=August 15, 2000 |df=mdy-all }}
+*{{cite web |url=https://www.pbs.org/cringely/pulpit/pulpit20000824.html |title= Put On Your Thinking Cap: Chris McKinstry Wants to Build a Brain Accelerator |last=Cringely |first=Robert X. |author-link=Robert X. Cringely |date=August 24, 2000 |website=PBS |access-date=June 10, 2018 |url-status=dead |archive-url=https://web.archive.org/web/20001206114300/https://www.pbs.org/cringely/pulpit/pulpit20000824.html |archive-date=December 6, 2000}}
+*{{cite web |url=http://www.cr6.com/ |title=CR6 online soap opera |website=cr6.com |access-date=June 10, 2018 |url-status=dead |archive-url=https://web.archive.org/web/19970412125441/http://www.cr6.com/ |archive-date=April 12, 1997}}
+*{{cite thesis |last=von Ahn |first=Luis |date=December 7, 2005 |title=Human Computation |type=Ph.D |publisher=Carnegie Mellon University School of Computer Science |page=67 |url=http://reports-archive.adm.cs.cmu.edu/anon/2005/CMU-CS-05-193.pdf |access-date=June 10, 2018}}
+
+{{DEFAULTSORT:McKinstry, Chris}}
+[[Category:Artificial intelligence researchers]]
+[[Category:People from Winnipeg]]
+[[Category:Canadian psychedelic drug advocates]]
+[[Category:Male suicides]]
+[[Category:Suicides by gas]]
+[[Category:1967 births]]
+[[Category:2006 suicides]]
+[[Category:People with bipolar disorder]]
+[[Category:2006 deaths]]
+[[Category:Canadian emigrants to Chile]]

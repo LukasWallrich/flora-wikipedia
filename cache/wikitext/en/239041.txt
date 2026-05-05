@@ -1,0 +1,240 @@
+{{Short description|Intelligence test}}
+{{Full citations needed|date=January 2021}}
+{{Infobox diagnostic
+| Name= Stanford–Binet Intelligence scales
+| ICD9= {{ICD9proc|94.01}}
+| MeshID=}}
+The '''Stanford–Binet Intelligence Scales''' (or more commonly the '''Stanford–Binet''') is an individually administered [[intelligence test]] that was revised from the original Binet–Simon Scale by [[Alfred Binet]] and [[Théodore Simon]]. It is in its fifth edition (SB5), which was released in 2003. 
+
+It is a cognitive-ability and [[intelligence]] test that is used to diagnose [[Developmental disorder|developmental]] or [[Intellectual disability|intellectual deficiencies]] in young [[children]], in contrast to the [[Wechsler Adult Intelligence Scale]] (WAIS). The test measures five weighted factors and consists of both verbal and nonverbal subtests. The five factors being tested are knowledge, quantitative reasoning, visual-spatial processing, [[working memory]], and fluid reasoning.
+
+The development of the Stanford–Binet initiated the modern field of intelligence testing and was one of the first examples of an [[adaptive test]]. The test originated in [[France]], then was revised in the [[United States]]. It was initially created by the French [[psychologist]] Alfred Binet and the French [[psychiatrist]] Théodore Simon, who, following the introduction of a law mandating [[universal education]] by the [[French government]], began developing a method of identifying "slow" children, so that they could be placed in [[special education]] programs, instead of labelled ''sick'' and sent to the [[Lunatic asylum|asylum]].<ref>{{cite journal|doi=10.1016/j.intell.2013.08.006|title=Sick? Or slow? On the origins of intelligence as a psychological object|journal=Intelligence|volume=41|issue=5|pages=699–711|year=2013|last1=Nicolas|first1=Serge|last2=Andrieu|first2=Bernard|last3=Croizet|first3=Jean-Claude|last4=Sanitioso|first4=Rasyid B.|last5=Burman|first5=Jeremy Trevelyan|doi-access=free}}</ref> As Binet and Simon indicated, [[case studies]] might be more detailed and helpful, but the time required to test many people would be excessive. In 1916, at [[Stanford University]], the psychologist [[Lewis Terman]] released a revised examination that became known as the ''Stanford–Binet test''.
+
+== Development ==
+As discussed by Fancher & Rutherford in 2012, the Stanford–Binet is a modified version of the [[Binet-Simon Intelligence Test|Binet–Simon Intelligence scale]]. The Binet–Simon scale was created by the French psychologist [[Alfred Binet]] and the French psychiatrist [[Theodore Simon]]. Due to the introduction of [[compulsory education]] at that time, questions were raised about children unfit for regular education, and a proposal was made to build [[Boarding school|boarding schools]] in [[Lunatic asylum|asylums]] for them. Binet and Simon were part of a learned society that opposed the proposal and advocated the creation of [[Remedial education|remedial tracks]] in regular schools. They created the first [[intelligence test]] to objectively measure the intellectual functioning of [[primary school]] children. Binet and Simon believed that intelligence is malleable and that intelligence tests would help target children in need of extra attention to advance their intelligence.<ref>{{Cite web | url=https://sites.psu.edu/caradorercl1314/2014/02/06/is-intelligence-fixed-or-malleable/ | title=Is Intelligence Fixed or Malleable? &#124; Poet; Don't Know It}}</ref>
+
+To create their test, Binet and Simon first created a baseline of [[intelligence]]. A wide range of children were tested on a broad spectrum of measures in an effort to discover a clear indicator of intelligence. Failing to find a single identifier of intelligence, Binet and Simon instead compared children in each category by age. The children's highest levels of achievement were sorted by age and common levels of achievement considered the normal level for that age. Because this testing method merely compares a person's ability to the common ability level of others their age, the general practices of the test can easily be transferred to test different populations, even if the measures used are changed.
+
+[[File:Simon-Binet Ugly Face Item from 1911 journal.png|thumb|upright=1.2|Reproduction of an item from the 1908 Binet–Simon intelligence scale, that shows three pairs of pictures, and asks the tested child, "Which of these two faces is the [[Beauty|prettier]]?" Reproduced from the article "A Practical Guide for Administering the Binet–Simon Scale for Measuring Intelligence" by J. W. Wallace Wallin in the December 1911 issue of the journal ''The Psychological Clinic'' (volume 5 number 7), public domain<ref>{{Cite web|title=Psychol Clin Volume 5(7); 1911 Dec 15|url=https://www.ncbi.nlm.nih.gov/pmc/issues/280665/|access-date=2020-07-03|website=www.ncbi.nlm.nih.gov|language=en}}</ref>{{Unreliable source?|sure=y|reason=Source not found in https://www.ncbi.nlm.nih.gov/pmc/issues/280669/|date=November 2019}}]]
+
+One of the first intelligence tests, the Binet–Simon test quickly gained support in the psychological community, many of whom further spread it to the public. [[Lewis Terman|Lewis M. Terman]], a [[psychologist]] at [[Stanford University]], was one of the first to create a version of the test for people in the United States, naming the first localized version the Stanford revision of the Binet-Simon Intelligence Scale (1916) and the second version the Stanford–Binet Intelligence Scale (1937).<ref>{{cite journal|doi=10.1525/collabra.117600|title=Two Persistent Myths About Binet and the Beginnings of Intelligence Tests in Psychology Textbooks|journal=Collabra:Psychology|year=2024|last1=Brysbaert|first1=Marc|last2=Nicolas|first2=Serge|doi-access=free|hdl=1854/LU-01JD038W08SM3PBC0DVPAAYCB6|hdl-access=free}}</ref> Terman used the test not only to help identify children with [[Intellectual disability|learning difficulties]] but also to find children and adults who had above average levels of intelligence. In creating his version, Terman also tested additional methods for his Stanford revision, publishing his first official version as The Measurement of Intelligence: An Explanation of and a Complete Guide for the Use of the Stanford Revision and Extension of the Binet–Simon Intelligence Scale (Fancher & Rutherford, 2012) (Becker, 2003).
+
+The original tests in the 1905 form include:
+
+# "Le Regard"
+# Prehension Provoked by a Tactile Stimulus
+# Prehension Provoked by a Visual Perception
+# Recognition of Food
+# Quest of Food Complicated by a Slight Mechanical Difficulty
+# Execution of Simple Commands and Imitation of Simple Gestures
+# Verbal Knowledge of Objects
+# Verbal Knowledge of Pictures
+# Naming of Designated Objects
+# Immediate Comparison of Two Lines of Unequal Lengths
+# Repetition of Three Figures
+# Comparison of Two Weights
+# Suggestibility
+# Verbal Definition of Known Objects
+# Repetition of Sentences of Fifteen Words
+# Comparison of Known Objects from Memory
+# Exercise of Memory on Pictures
+# Drawing a Design from Memory
+# Immediate Repetition of Figures
+# Resemblances of Several Known Objects Given from Memory
+# Comparison of Lengths
+# Five Weights to be Placed in Order
+# Gap in Weights
+# Exercise upon Rhymes
+# Verbal Gaps to be Filled
+# Synthesis of Three Words in One Sentence
+# Reply to an Abstract Question
+# Reversal of the Hands of a Clock
+# Paper Cutting
+# Definitions of Abstract Terms
+
+=== Historical use ===
+One hindrance to widespread understanding of the test is its use of a variety of different measures. In an effort to simplify the information gained from the Binet–Simon test into a more comprehensible and easier to understand form, German psychologist [[William Stern (psychologist)|William Stern]] created the well known [[Intelligence quotient|Intelligence Quotient]] (IQ). By comparing the [[mental age]] a child scored at to their biological age, a ratio is created to show the rate of their mental progress as IQ. Terman quickly grasped the idea for his Stanford revision with the adjustment of multiplying the ratios by 100 to make them easier to read.
+
+As also discussed by Leslie, in 2000, Terman was another of the main forces in spreading intelligence testing in the United States (Becker, 2003). Terman quickly promoted the use of the Stanford–Binet for schools across the United States where it saw a high rate of acceptance. Terman's work also had the attention of the [[Federal government of the United States|U.S. government]], who recruited him to apply the ideas from his Stanford–Binet test for [[military recruitment]] near the start of [[World War I]]. With over 1.7 million military recruits taking a version of the test and the acceptance of the test by the government, the Stanford–Binet saw an increase in awareness and acceptance (Fancher & Rutherford, 2012).
+
+Given the perceived importance of intelligence and with new ways to measure intelligence, many influential individuals, including Terman, began promoting controversial ideas to increase the nation's overall intelligence. These ideas included things such as [[Eugenics|discouraging individuals with low IQ from having children]] and granting important positions based on high IQ scores. While there was significant opposition, many institutions proceeded to adjust students' education based on their IQ scores, often with a heavy influence on future career possibilities (Leslie, 2000).
+
+==Revisions of the Stanford–Binet Intelligence Scale==
+[[File:Maud Amanda Merrill (1888-1985).jpg|thumb|Maud Merrill]]
+Since the first publication in 1916, there have been four additional revised editions of the Stanford–Binet Intelligence Scales, the first of which was developed by Lewis Terman. Over twenty years later, [[Maud Merrill]] was accepted into Stanford's education program shortly before Terman became the head of the psychology department. She completed both her [[master's degree]] and Ph.D. under Terman and quickly became a colleague of his as they started the revisions of the second edition together. There were 3,200 examinees, aged one and a half to eighteen years, ranging in different geographic regions as well as socioeconomic levels in attempts to comprise a broader normative sample (Roid & Barram, 2004). This edition incorporated more objectified scoring methods, while placing less emphasis on recall memory and including a greater range of nonverbal abilities (Roid & Barram, 2004) compared to the 1916 edition.
+
+When Terman died in 1956, the revisions for the third edition were well underway, and Merrill was able to publish the final revision in 1960 (Roid & Barram, 2004). The use of deviation IQ made its first appearance in third edition, however the use of the mental age scale and ratio IQ were not eliminated. Terman and Merrill attempted to calculate IQs with a uniform standard deviation while still maintaining the use of the mental age scale by including a formula in the manual to convert the ratio IQs with means varying between age ranges and nonuniform standard deviations to IQs with a mean of 100 and a uniform standard deviation of 16.  However, it was later demonstrated that very high scores occurred with much greater frequency than what would be predicted by the normal curve with a standard deviation of 16, and scores in the gifted range were much higher than those yielded by essentially every other major test, so it was deemed that the ratio IQs modified to have a uniform mean and standard deviation, referred to as "deviation IQs" in the manual of the third edition of the Stanford–Binet (Terman & Merrill, 1960), could not be directly compared to scores on "true" deviation IQ tests, such as the Wechsler Intelligence Scales, and the later versions of the Stanford–Binet, as those tests compare the performance of examinees to their own age group on a normal distribution (Ruf, 2003). While new features were added, there were no newly created items included in this revision. Instead, any items from the 1937 form that showed no substantial change in difficulty from the 1930s to the 1950s were either eliminated or adjusted (Roid & Barram, 2004).
+
+Robert Thorndike was asked to take over after Merrill's retirement. With the help of Elizabeth Hagen and [[Jerome Sattler]], Thorndike produced the fourth edition of the Stanford–Binet Intelligence Scale in 1986. This edition covers the ages two through twenty-three and has some considerable changes compared to its predecessors (Graham & Naglieri, 2003). This edition was the first to use the fifteen subtests with point scales in place of using the previous age scale format. In an attempt to broaden cognitive ability, the subtests were grouped and resulted in four area scores, which improved flexibility for administration and interpretation (Youngstrom, Glutting, & Watkins, 2003). The fourth edition is known for assessing children that may be referred for gifted programs. This edition includes a broad range of abilities, which provides more challenging items for those in their early adolescent years, whereas other intelligence tests of the time did not provide difficult enough items for the older children (Laurent, Swerdlik, & Ryburn, 1992).
+
+Gale Roid published the most recent edition of the Stanford–Binet Intelligence Scale. Roid attended Harvard University where he was a research assistant to David McClelland. McClelland is well known for his studies on the need for achievement. While the fifth edition incorporates some of the classical traditions of these scales, there were several significant changes made.
+
+=== Timeline ===
+* April 1905: Development of Binet–Simon Test announced at a conference in Rome
+* June 1905: Binet–Simon Intelligence Test introduced
+* 1908 and 1911: New Versions of Binet–Simon Intelligence Test
+* 1916: Stanford–Binet First Edition by Terman
+* 1937: Second Edition by Terman and Merrill
+* 1960: Third Edition by Merrill (form L-M)
+* 1973: Third Edition by Merrill (1937 norms were re-normed)
+* 1986: Fourth Edition by Thorndike, Hagen, and Sattler
+* 2003: Fifth Edition by Roid
+
+==Stanford–Binet Intelligence Scale: Fifth Edition==
+Just as it was used when Binet first developed the IQ test, the Stanford–Binet Intelligence Scale: Fifth Edition (SB5) is based in the schooling process to assess intelligence. It continuously and efficiently assesses all levels of ability in individuals with a broader range in age. It is also capable of measuring multiple dimensions of abilities (Ruf, 2003).
+
+The SB5 can be administered to individuals as early as two years of age. There are ten subsets included in this revision including both verbal and nonverbal domains. Five factors are also incorporated in this scale, which are directly related to [[Cattell-Horn-Carroll]] (CHC) hierarchical model of cognitive abilities. These factors include fluid reasoning, knowledge, quantitative reasoning, visual-spatial processing, and working memory (Bain & Allin, 2005). Many of the familiar picture absurdities, vocabulary, memory for sentences, and verbal absurdities still remain from the previous editions (Janzen, Obrzut, & Marusiak, 2003), however with more modern artwork and item content for the revised fifth edition.
+
+For every verbal subtest that is used, there is a nonverbal counterpart across all factors. These nonverbal tasks consist of making movement responses such as pointing or assembling manipulatives (Bain & Allin, 2005). These counterparts have been included to address language-reduced assessments in multicultural societies. Depending on age and ability, administration can range from fifteen minutes to an hour and fifteen minutes.
+
+The fifth edition incorporated a new scoring system, which can provide a wide range of information such as four intelligence score composites, five factor indices, and ten subtest scores. Additional scoring information includes percentile ranks, age equivalents, and a change-sensitive score (Janzen, Obrzut, & Marusiak, 2003). Extended IQ scores and gifted composite scores are available with the SB5 in order to optimize the assessment for gifted programs (Ruf, 2003). To reduce errors and increase diagnostic precision, scores are obtained electronically through the use of computers now.
+
+The standardization sample for the SB5 included 4,800 participants varying in age, sex, race/ethnicity, geographic region, and socioeconomic level (Bain & Allin, 2005).
+
+===Reliability===
+Several reliability tests have been performed on the SB5 including split-half reliability, standard error of measurement, plotting of test information curves, test-retest stability, and inter-scorer agreement. On average, IQ scores for this scale have been found quite stable across time (Janzen, Obrzut, & Marusiak, 2003). Internal consistency was tested by split-half reliability and was reported to be substantial and comparable to other cognitive batteries (Bain & Allin, 2005). The median interscorer correlation was  .90 on average (Janzen, Obrzut, & Marusiak, 2003). The SB5 has also been found to have great precision at advanced levels of performance meaning that the test is especially useful in testing children for giftedness (Bain & Allin, 2005). There have only been a small amount of practice effects and familiarity of testing procedures with retest reliability; however, these have proven to be insignificant. Readministration of the SB5 can occur in a six-month interval rather than one year due to the small mean differences in reliability (Bain & Allin, 2005).
+
+===Validity===
+Content validity has been found based on the professional judgments Roid received concerning fairness of items and item content as well as items concerning the assessment of giftedness (Bain & Allin, 2005). With an examination of age trends, construct validity was supported along with empirical justification of a more substantial ''g'' loading for the SB5 compared to previous editions. The potential for a variety of comparisons, especially for within or across factors and verbal/nonverbal domains, has been appreciated with the scores received from the SB5 (Bain & Allin, 2005).
+
+===Score classification===
+{{Main|IQ classification}}
+
+The test publisher includes suggested score classifications in the test manual.
+
+{| class="wikitable"
+|+Stanford–Binet Fifth Edition (SB5) classification<ref>{{cite book |title=IQ Testing 101 |url=https://archive.org/details/iqtestingpsych00phdd |url-access=limited |last=Kaufman |first=Alan S. |author-link=Alan S. Kaufman |year=2009 |publisher=Springer Publishing |location=New York |isbn=978-0-8261-0629-2 |page=[https://archive.org/details/iqtestingpsych00phdd/page/n126 112]}} {{cite book |title=Assessment of Children: Cognitive Foundations |last=Sattler |first=Jerome M. |year=2008 |publisher=Jerome M. Sattler, Publisher |location=La Mesa, CA |isbn=978-0-9702671-4-6 |at=inside back cover}}</ref>
+! IQ Range ("deviation IQ") !! IQ Classification
+|-
+! 145–160
+| Very gifted or highly advanced
+|-
+! 130–144
+| Gifted or very advanced
+|-
+! 120–129
+| Superior
+|-
+! 110–119
+| High average
+|-
+! 90–109
+| Average
+|-
+! 80–89
+| Low average
+|-
+! 70–79
+| Borderline impaired or delayed
+|-
+! 55–69
+| Mildly impaired or delayed
+|-
+! 40–54
+| Moderately impaired or delayed
+|}
+
+The classifications of scores used in the Fifth Edition differ from those used in earlier versions of the test.
+
+== Subtests and factors ==
+{| class="wikitable"
+!Fluid reasoning
+!Knowledge
+!Quantitative reasoning
+!Visual-spatial processing
+!Working memory
+|-
+|Early reasoning
+|Vocabulary
+|Non-verbal quantitative reasoning (non-verbal)
+|Form board and form patterns 
+(non-verbal)
+|Delayed response (non-verbal)
+|-
+|Verbal absurdities
+|Procedural knowledge (non-verbal)
+|Verbal quantitative reasoning
+|Position and direction
+|Block span (non-verbal)
+|-
+|Verbal analogies
+|Picture absurdities (non-verbal)
+|
+|
+|Memory for sentences
+|-
+|Object series matrices (non-verbal)
+|
+|
+|
+|Last word
+|}Source:<ref>{{Cite web|url = https://idea.library.drexel.edu/islandora/object/idea%3A863|title = Underlying Factor Structures of the Stanford–Binet Intelligence Scales – Fifth Edition|date = 2005|publisher = Drexel University|last = Chase|first = Danielle}}</ref>
+
+== Recent use ==
+Since its inception, the Stanford–Binet has been revised several times. The test is in its fifth edition, called the ''Stanford–Binet Intelligence Scales, Fifth Edition'', or SB5. According to the publisher's website, "The SB5 was normed on a [[stratified random sample]] of 4,800 individuals that matches the 2000 [[U.S. Census]]". By administering the Stanford–Binet test to large numbers of individuals selected at random from different parts of the United States, it has been found that the scores approximate a [[normal distribution]]. The revised edition of the Stanford–Binet over time has devised substantial changes in the way the tests are presented. The test has improved when looking at the introduction of a more parallel form and more demonstrative standards. For one, a non-verbal IQ component is included in the tests whereas in the past, there was only a verbal component. It evolved to have equally balanced verbal and non-verbal content. It is also more animated than the other tests, providing the test-takers with more colourful artwork, toys and manipulatives. This allows the test to have a higher range in the age of the test takers. This test is purportedly useful in assessing the intellectual capabilities of people ranging from young children all the way to young adults. However, the test has come under criticism for not being able to compare people of different age categories, since each category gets a different set of tests. Furthermore, very young children tend to do poorly on the test because they lack the ability to concentrate long enough to finish it.
+
+Uses for the test include clinical and neuropsychological assessment{{Citation needed|date=April 2022}}, educational placement, compensation evaluations, career assessment, adult neuropsychological treatment, forensics, and research on aptitude. Various [[High-IQ society|high-IQ societies]] also accept this test for admission into their ranks; for example, the [[Triple Nine Society]] accepts a minimum qualifying score of 151 for Form L or M, 149 for Form L-M if taken in 1986 or earlier, 149 for SB-IV, and 146 for SB-V; in all cases the applicant must have been at least 16 years old at the date of the test. [[Intertel]] accepts a score of 135 on SB5 and 137 on Form L-M.<ref>{{Cite web|title=Intertel - Join us|url=https://www.intertel-iq.org/join-us|access-date=2021-03-15|website=www.intertel-iq.org}}</ref>
+
+== See also ==
+{{Portal|Science}}
+* [[Psyche Cattell#Cattell Infant Intelligence Scale|Cattell Infant Intelligence Scale]]
+* The [[Flynn effect]]
+* [[Military psychology]]
+* [[Intelligence quotient]]
+* [[IQ classification]]
+
+== References ==
+{{Reflist}}
+* Bain, S. K., & Allin, J. D. (2005). Book review: Stanford–Binet intelligence scales, fifth edition. Journal of Psychoeducational Assessment, 23, 87–95.
+* Becker, K. A. (2003). ''[http://www.riverpub.com/products/sb5/pdf/SB5_ASB_1.pdf History of the Stanford–Binet intelligence scales: Content and psychometrics].''
+* Fancher, Raymond E., & Rutherford, Alexandra. (2012). Pioneers of psychology. New York, NY: W. W. Norton & Company, Inc.
+* Graham, J. & Naglieri, J. (2003). Handbook of Psychology. Hoboken, New Jersey: John Wiley & Sons, Inc.
+* Janzen, H., Obrzut, J., & Marusiak, C. (2004). Test review: Roid, G. H. (2003). Stanford–binet intelligence scales, fifth edition (sb:v). Canadian Journal of School Psychology, 19, 235–244.
+* Laurent, J., Swerdlik, M., & Ryburn, M. (1992). Review of validity research on the stanford–Binet intelligence scale: Fourth edition. Psychological Assessment, 4, 102–112.
+* Leslie, M. (2000). ''The vexing legacy of Lewis Terman.'' Retrieved from http://alumni.stanford.edu/get/page/magazine/article/?article_id=40678
+* Roid, G. (n.d.). Stanford–Binet Intelligence Scales, Fifth Edition
+* Roid, G. & Barram, R. (2004). Essentials of Stanford–Binet Intelligence Scales (SB5) Assessment. Hoboken, New Jersey: John Wiley & Sons, Inc.
+* Roid, Kamphaus, Randy W., Martha D. Petoskey, and ANNA WALTERS Morgan. "A history of intelligence test interpretation." ''Contemporary intellectual assessment: Theories, tests, and issues'' (1997): 3–16.
+* Ruf, D. L. (2003). Use of the SB5 in the Assessment of High Abilities. Itasca, IL: Riverside Publishing Company.
+* Stanovich, K. E. (2009). ''What intelligence tests miss: The psychology of rational thought''. Yale University Press.
+* Terman, Lewis Madison, & Merrill, Maude A. (1960). Stanford–Binet Intelligence Scale: Manual for the third revision, Form L-M. Boston (MA): Houghton Mifflin.
+* Youngstrom, E., Glutting, J., & Watkins, M. (2003). Stanford–Binet Intelligence Scale: Fourth edition (SB4): Evaluating the Empirical Bases for Interpretations. Handbook of Psychological and Educational Assessment: Intelligence, Aptitude, and Achievement, 2, 217–242.
+
+== Further reading ==
+{{Refbegin}}
+* {{cite journal |last1=Becker |first1=K.A |year=2003 |title=History of the Stanford–Binet Intelligence scales: Content and psychometrics. |journal=Stanford–Binet Intelligence Scales, Fifth Edition Assessment Service Bulletin No. 1}}
+* {{cite book |last1=Binet |first1=Alfred |last2=Simon |first2=Th. |author-link1=Alfred Binet |title=The development of intelligence in children: The Binet–Simon Scale |others=E. S. Kite (Trans.) |location=Baltimore |publisher=Williams & Wilkins |year=1916 |series=Publications of the Training School at Vineland New Jersey Department of Research No. 11 |isbn=9780598668028 |url=https://books.google.com/books?id=jEQSAAAAYAAJ&q=The%20development%20of%20intelligence%20in%20children%20Binet&pg=PA1 |access-date=18 July 2010 }}
+* {{cite journal |last1=Brown |first1=A. L. |last2=French
+| first2=L. A. |year=1979 |title=The Zone of Potential Development: Implications for Intelligence Testing in the Year 2000
+| journal=Intelligence |volume=3 |issue=3 |pages=255–273 |doi=10.1016/0160-2896(79)90021-7}}
+* {{cite book |last=Fancher |first=Raymond E. |title=The Intelligence Men: Makers of the IQ Controversy |url=https://archive.org/details/intelligencemen00raym |url-access=registration |location=New York (NY) |publisher=W. W. Norton |isbn=978-0-393-95525-5 |year=1985 }}
+* {{cite book |author=Freides, D. |chapter=Review of Stanford–Binet Intelligence Scale, Third Revision |title=Seventh Mental Measurements Yearbook |url=https://archive.org/details/seventhmentalmea01buro |url-access=limited |editor=Oscar Buros |location=Highland Park, NJ |publisher=Gryphon Press |year=1972 |pages=[https://archive.org/details/seventhmentalmea01buro/page/772 772]&ndash;773 }}
+* {{cite book |last=Gould |first=Stephen Jay |title=The Mismeasure of Man |location=New York |publisher=W. W. Norton |isbn=978-0-393-31425-0 |year=1981 |url-access=registration |url=https://archive.org/details/mismeasureofman00goul_1}}
+**{{cite news |author=Christopher Lehmann-Haupt |date=October 21, 1981 |title=Books Of The Times: The Mismeasure of Man |type=Review |url=https://www.nytimes.com/books/97/11/09/home/gould-mismeasure.html |newspaper=The New York Times}}
+* {{cite book |title=The revision of the Stanford–Binet Scale |url=https://archive.org/details/in.ernet.dli.2015.264295 |last=McNemar |first=Quinn |author-link=Quinn McNemar |year=1942 |publisher=Houghton Mifflin |location=Boston }}
+* {{cite book |title=Changes in Intelligence Quotient Infancy to Maturity: New Insights from the Berkeley Growth Study with Implications for the Stanford–Binet Scales and Applications to Professional Practice |last=Pinneau |first=Samuel R. |year=1961 |publisher=Houghton Mifflin |location=Boston }}
+* {{cite book |title=Measuring intelligence: A guide to the administration of the new revised Stanford–Binet tests of intelligence |last1=Terman |first1=Lewis Madison
+| last2=Merrill | first2=Maude A. |author-link1=Lewis Terman
+| year=1937 | publisher=Houghton Mifflin | location=Boston
+| series=Riverside textbooks in education }}
+* {{cite book |title=Stanford–Binet Intelligence Scale: Manual for the Third Revision Form L–M with Revised IQ Tables by Samuel R. Pinneau
+| last1=Terman |first1=Lewis Madison |last2=Merrill
+| first2=Maude A. | author-link1=Lewis Terman | year=1960
+| publisher=Houghton Mifflin |location=Boston}}
+* {{cite journal |last=Richardson |first=Nancy |year=1992
+| title=Stanford–Binet IV, of Course!: Time Marches On! (originally published as Which Stanford–Binet for the Brightest?)
+| journal=Roeper Review |volume=15 |issue=1 |pages=32–34
+| url=http://www.davidsongifted.org/db/Articles_id_10128.aspx | doi=10.1080/02783199209553453|url-access=subscription }}
+* {{cite journal |last=Waddell |first=Deborah D. |year=1980
+|title=The Stanford–Binet: An Evaluation of the Technical Data Available since the 1972 Restandardization |journal=Journal of School Psychology |volume=18 |issue=3 | pages=203&ndash;209
+| url=http://www.eric.ed.gov/ERICWebPortal/search/detailmini.jsp?_nfpb=true&_&ERICExtSearch_SearchValue_0=EJ233903&ERICExtSearch_SearchType_0=no&accno=EJ233903
+| access-date=29 June 2010 |doi=10.1016/0022-4405(80)90060-6 |url-access=subscription }}
+{{Refend}}
+
+{{Psychological and psychiatric evaluation and testing}}
+{{Authority control}}
+
+{{DEFAULTSORT:Stanford-Binet Intelligence Scales}}
+[[Category:Intelligence tests]]
+
+[[ja:知能検査]]

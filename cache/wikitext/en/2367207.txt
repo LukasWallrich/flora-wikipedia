@@ -1,0 +1,50 @@
+{{Short description|Type of forgetting}}
+'''Cue-dependent forgetting''', or '''retrieval failure''', is the failure to recall information without memory ''cues''.<ref name="Pastorino2011"/> The term either pertains to ''semantic cues'', ''state-dependent'' cues or ''context-dependent'' cues.
+
+Upon performing a search for files in a computer, its memory is scanned for words. Relevant files containing this word or string of words are displayed. This is ''not'' how memory in the human mind works. Instead, information stored in the memory is retrieved by way of association with other memories. Some memories can not be recalled by simply thinking about them. Rather, one must think about something associated with it.{{Citation needed|date=May 2019}}
+
+For example, if someone tries and fails to recollect the memories they had about a vacation they went on, and someone mentions the fact that they hired a [[classic car]] during this vacation, this may make them remember all sorts of things from that trip, such as what they ate there, where they went and what books they read.
+
+==Cues==
+===Semantic cues===
+An experiment from 1966 showed that people remember a group of words better if they are within the same theme category. Such words that generate recall by association are known as ''semantic cues''.<ref name="Tulving1966"/> If the sound of the word is emphasized during the [[Encoding (memory)|encoding]] process, a cue that could be used could also put emphasis on the [[phonetic]] quality of the word.<ref name="Weiten2012"/>
+
+===State-dependent cues===
+[[Context-dependent memory|State-dependent cues]] are governed by the state of mind and being at the time of encoding.  The emotional or mental state of the person, such as being inebriated, drugged, upset, anxious or happy are key cues.<ref name="Goodwin1969"/>
+
+===Context-dependent cues===
+Research suggests there are also [[Context-dependent memory|context-dependent cues]] which are dependent on [[Social environment|environment]] and situation.<ref name="Godden1975"/>  In an experiment conducted in 1975, deep sea divers were divided into two groups. Each group had the same list of 36 unrelated words to learn. However, one of the groups learned these words 15 feet underwater, while the second group learned the words on land.  Both groups then attempted to recall the same words underwater as well as on land. The participants who had learned the words on land recalled 38% of the words when tested on land, but only 21% of the words when underwater. The divers who had learned the words underwater recalled 21% on the beach and 32% when underwater.
+
+Memory retrieval can be facilitated or triggered by replication of the context in which the memory was encoded. Such conditions include weather, company, location, smell of a particular odor, hearing a certain song, even taste can sometimes act as a cue. For example, students sometimes fail to recall diligently studied material when an examination room's environmental conditions differ significantly from the room or place where initial [[learning]] occurred. Students may consider studying under conditions that resemble an examination center which could boost their recall during actual exams.
+
+Psychologists that have researched context dependent recall include Abernethy (1940).<ref name="Abernethy1940"/>
+
+==See also==
+*[[Forgetting]]
+*[[State-dependent learning]]
+*[[Context-dependent memory]]
+*[[Encoding specificity principle]]
+
+==References==
+<references>
+
+<ref name="Abernethy1940">{{cite journal|last1=Abernethy|first1=Ethel Mary|title=The Effect of Changed Environmental Conditions Upon the Results of College Examinations|journal=The Journal of Psychology|date=1940|volume=10|issue=2|pages=293–301|doi=10.1080/00223980.1940.9917005}}</ref>
+
+<ref name="Godden1975">{{cite journal | last1 = Godden | first1 = D | last2 = Baddeley | first2 = A. | year = 1975 | title = Context-Dependent Memory in Two Natural Environments: On Land and Underwater | journal = British Journal of Psychology | volume = 66 | issue = 3| pages = 325–331 | doi = 10.1111/j.2044-8295.1975.tb01468.x | s2cid = 10699186 }}</ref>
+
+<ref name="Goodwin1969">{{cite journal | last1 = Goodwin | first1 = D. | last2 = Powell | first2 = B. | last3 = Bremer | first3 = D. | last4 = Hoine | first4 = H. | last5 = Stern | first5 = J. | year = 1969 | title = Alcohol and recall: state-dependent effects in man | journal = Science | volume = 163 | issue = 3873| pages = 1358–1360 | doi = 10.1126/science.163.3873.1358 | pmid=5774177| bibcode = 1969Sci...163.1358G | s2cid = 38794062 }}</ref>
+
+<ref name="Pastorino2011">{{cite book|last1=Pastorino|first1=Ellen E.|last2=Doyle-Portillo|first2=Susann M.|title=What is Psychology? Essentials|date=2011|publisher=Cengage Learning|isbn=978-1111834159|page=228|edition=2nd|url=https://books.google.com/books?id=1iKgwo2q_54C&pg=PA228|language=en}}</ref>
+
+<ref name="Tulving1966">{{cite journal|last1=Tulving|first1=Endel|last2=Pearlstone|first2=Zena|title=Availability versus accessibility of information in memory for words|journal=Journal of Verbal Learning and Verbal Behavior|date=1966|volume=5|issue=4|pages=381–391|doi=10.1016/S0022-5371(66)80048-8}}</ref>
+
+<ref name="Weiten2012">{{cite book|last1=Weiten|first1=Wayne|title=Psychology: Themes and Variations|date=2012|publisher=Cengage Learning|isbn=9781111354749|page=277|edition=9th|url=https://books.google.com/books?id=a4tznfeTxV8C&pg=PT325|language=en}}</ref>
+
+</references>
+
+==Further reading==
+*{{cite journal|author-link=Endel Tulving|last1=Tulving|first1=Endel|title=Cue-Dependent Forgetting: When we forget something we once knew, it does not necessarily mean that the memory trace has been lost; it may only be inaccessible|journal=American Scientist|date=1974|volume=62|issue=1|pages=74–82|jstor=27844717}}
+
+{{DEFAULTSORT:Cue-dependent Forgetting}}
+[[Category:Memory]]
+[[Category:Memory biases]]

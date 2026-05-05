@@ -1,0 +1,75 @@
+{{Short description|British psychologist (1939–2017)}}
+{{Use dmy dates|date=June 2025}}
+{{Use British English|date=June 2025}}
+
+{{Infobox academic
+| name       = Neville Moray
+| image      = Neville Moray.jpg
+| birth_date = {{birth date|1935|05|27|df=y}}
+| death_date = {{death date and age|2017|12|15|1935|05|27|df=y}}
+| birth_place= 
+| death_place= 
+| alma_mater = [[University of Oxford]]
+| thesis_title= Studies of selective listening
+| thesis_url = https://solo.bodleian.ox.ac.uk/discovery/fulldisplay?docid=alma990195883790107026&context=L&vid=44OXF_INST:SOLO&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,Neville%20Moray&offset=0
+| thesis_year= 1960
+| discipline= Experimental Psychology
+| sub_discipline= memory
+| workplaces= [[University of Sheffield]]<br> [[University of Toronto]]<br> [[University of Stirling]]<br> [[University of Valenciennes]]<br> [[University of Surrey]]
+| spouse    = 
+| children  =
+}}
+
+'''Neville Moray''' (May 27, 1935 &ndash; 15 December 2017) was a British-born Canadian psychologist. He served as an academic and professor at the Department of Psychology of the [[University of Surrey]],<ref name="NM CV 2014">[http://www.moraysatmagagnosc.com/curriculum-vitae.php Neville Moray Curriculum vitae] {{Webarchive|url=https://web.archive.org/web/20140312225049/http://www.moraysatmagagnosc.com/curriculum-vitae.php |date=2014-03-12 }} at moraysatmagagnosc.com. Accessed March 12, 2014.</ref> known from his 1959 research of the [[cocktail party effect]].
+
+== Biography ==
+Moray started studying medicine at [[Worcester College, Oxford]] in 1953.<ref name="HFES 2014">[http://www.hfes.org/web/awards&fellows/fellowprofiles/profile_moray.pdf Neville Moray] {{Webarchive|url=https://web.archive.org/web/20150924025953/http://www.hfes.org/web/awards%26fellows/fellowprofiles/profile_moray.pdf |date=2015-09-24 }} Fellow Profile at hfes.org. Accessed March 12, 2014.</ref> He transferred to the philosophy, psychology and physiology programme from which he graduated with a BA in 1957, which was raised to an MA in 1959. His doctoral thesis on selective listening was awarded a D.Phil. in 1960.<ref name="NM CV 2014"/><ref>{{cite web |last1=Moray |first1=Neville |title=Studies in selective listening |url=https://ethos.bl.uk/OrderDetails.do?did=1&uin=uk.bl.ethos.734649 |website=British Library EThOS |access-date=14 July 2023}}</ref>
+
+Moray started his academic career as assistant lecturer in psychology at the [[University of Hull]] in 1959. The next year he moved to the [[University of Sheffield]] and became lecturer in psychology, and senior lecturer in 1966. In 1970 he moved to Canada, where he became associate professor at the [[University of Toronto]], and professor of psychology in 1972. In 1974 he moved back to Scotland to become professor of psychology at the [[University of Stirling]] and chairman of Department of Psychology from 1977. In 1981, back at University of Toronto, he was appointed professor of industrial engineering, and member of its Institute of Nuclear Engineering since 1984. In 1988 he moved to the United States to the [[University of Illinois at Urbana–Champaign]], where until 1995 he had a joint appointment as professor at the Departments of Mechanical and Industrial Engineering, the Department of Psychology, and the Institute of Aviation. From 1995 to 1997 he was a professor at the [[University of Valenciennes]] in France, and from 1997 until his retirement in 2001 he was a professor of psychology at [[University of Surrey]] in the UK.<ref name="HFES 2014"/>
+
+Moray was elected Fellow of the Human Factors and Ergonomics Society in 1991; Fellow of the [[Ergonomics Society]] in 1998; Fellow of the [[Institute of Ergonomics and Human Factors]]; and Fellow of the [[International Ergonomics Association]]. The [[International Ergonomics Association]] awarded him the Ergonomics Development Award and the President's Award in 2000. In 2000, Stirling University inaugurated the annual prize for best Combined Honours Student, to be named the  "Neville Moray Prize."<ref name="NM CV 2014"/><ref name="HFES 2014"/>
+
+He died on 15 December 2017 at the age of 82.<ref>[http://announcements.telegraph.co.uk/deaths/221014/moray Moray]</ref>
+
+== Work ==
+=== Cocktail party phenomenon ===
+Moray became known for his scientific contributions to the [[cocktail party effect]], which became his major research interest for about two decades.<ref name="HFES 2014"/> This effect concerns the phenomenon of being able to focus one's auditory attention on a particular stimulus while filtering out a range of other stimuli. The effect was first defined and named "the [[cocktail party problem]]" by [[Colin Cherry]] in 1953.<ref name="Cherry 1953">{{cite journal|last1=Cherry|first1=E. Colin|title=Some Experiments on the Recognition of Speech, with One and with Two Ears|journal=The Journal of the Acoustical Society of America| volume=25| issue=5| year=1953| pages=975–79| issn=0001-4966| doi=10.1121/1.1907229 |url=http://www.ee.columbia.edu/~dpwe/papers/Cherry53-cpe.pdf|bibcode=1953ASAJ...25..975C|hdl=11858/00-001M-0000-002A-F750-3|hdl-access=free}}</ref> Cherry found that participants were able to detect their name from the unattended channel, the channel they were not shadowing.<ref name="Moray 1959">{{cite journal|last1=Moray|first1=Neville|title=Attention in dichotic listening: Affective cues and the influence of instructions|journal=Quarterly Journal of Experimental Psychology| volume=11| issue=1|year=1959|pages=56–60|issn=0033-555X|doi=10.1080/17470215908416289|s2cid=144324766|url=https://www.msu.edu/~ema/802-readings/Ch3-1a-Moray59.pdf }}{{dead link|date=August 2016}}</ref> Moray built his research using Cherry's shadowing task. He was able to conclude that almost none of the rejected messages were able to penetrate the block set up, except subjectively "important" messages.<ref name="Moray 1959" />
+
+Neville Moray used Cherry's shadowed dichotic listening task in his 1959 research and was able to conclude that almost none of the rejected messages were able to penetrate the block set up, except subjectively "important" messages.<ref name="moray">{{cite journal|last=Moray|first=Neville|title=Attention in Dichotic Listening: Affective Cues and the Influence of Instructions|journal=Quarterly Journal of Experimental Psychology|year=1959|pages=1156–11560|doi=10.1080/17470215908416289|volume=11|s2cid=144324766}}</ref> Personal names, taboo language, and backward language are the "subjectively" important messages that have been found to date. Moray's 1959 study found a 33% detection rate for personal names, which revealed that participants sometimes notice their name in an ignored auditory channel.<ref>{{cite journal|last=Wood|first=Noelle|author2=Cowan, Nelson|title=The Cocktail Party Phenomenon Revisited: How Frequent Are Attention Shifts to One's Name in an Irrelevant Auditory Channel?|journal=Journal of Experimental Psychology|year=1995|volume=21|issue=1|pages=255–260|doi=10.1037/0278-7393.21.1.255|pmid=7876773}}</ref> This ability to selectively attend to one's own name has been found in infants as young as five months of age and appears to be fully developed by thirteen months of age.
+
+Rochelle S. Newman in a 2005 study found that five-month-old infants listened longer to their names when the target voice was 10&nbsp;dB, but not 5&nbsp;dB more intense than the background noise.  Nine-month-olds also failed at 5&nbsp;dB, but thirteen-month-olds succeeded.<ref>{{cite journal|last=Newman|first=Rochelle S|title=The Cocktail Party Effect in Infants Revisited: Listening to One's Name in Noise|journal=Developmental Psychology|year=2005|volume=41|issue=2|pages=352–362|doi=10.1037/0012-1649.41.2.352|pmid=15769191}}</ref>  This success in recognizing one's own name in the unattended channel can be explained using Cherry's initial report on dichotic shadowing.  Cherry found that the verbal content of the message in the unattended channel was completely blocked, so that the words were treated as merely sounds.<ref name="cherry">{{cite journal|last=Cherry|first=Colin E|title=Some Experiments on the Recognition of Speech, with One and with Two Ears|journal=The Journal of the Acoustical Society of America|year=1953|volume=25|issue=5|pages=975–979|doi=10.1121/1.1907229|bibcode=1953ASAJ...25..975C|hdl=11858/00-001M-0000-002A-F750-3|url=http://pubman.mpdl.mpg.de/pubman/item/escidoc:2309493/component/escidoc:2309492/Cherry_1953-some-.experiments.pdf|hdl-access=free}}</ref> This allows the subject to know that something has stimulated the ear whose message is rejected.  It may be thought of as a general warning signal, that a sound has occurred to which the subject might need to respond.<ref name="moray" />
+
+==Selected publications==
+* Neville Moray, ''Cybernetics: Machines with Intelligence,'' Burns Oates, London, 1963. 
+* Neville Moray, ''Attention: Selective processes in vision and hearing.'' New York: Academic Press, 1970.
+* Neville Moray (ed.) ''Mental workload: Its theory and measurement.'' Vol. 8. Plenum Publishing Corporation, 1979.
+* Neville Moray, ''[https://openlibrary.org/books/OL7491513M/Ergonomics Ergonomics: The history and scope of human factors],'' Routledge, 2005.
+
+Articles, a selection:
+* {{cite journal | last1 = Moray | first1 = Neville | year = 1959 | title = Attention in dichotic listening: Affective cues and the influence of instructions | url = https://journals.sagepub.com/doi/10.1080/17470215908416289 | journal = [[Quarterly Journal of Experimental Psychology]] | volume = 11 | issue = 1| pages = 56–60 | doi=10.1080/17470215908416289| s2cid = 144324766 | url-access = subscription }}
+* {{cite journal | last1 = Stassen | first1 = Henk G. | author-link2 = Gunnar Johannsen | last2 = Johannsen | first2 = Gunnar | last3 = Moray | first3 = Neville | year = 1990 | title = Internal representation, internal model, human performance model and mental workload | journal = Automatica | volume = 26 | issue = 4| pages = 811–820 | doi=10.1016/0005-1098(90)90057-o}}
+* {{cite journal | last1 = Lee | first1 = John | last2 = Moray | first2 = Neville | year = 1992 | title = Trust, control strategies and allocation of function in human-machine systems | url = http://www.engineering.uiowa.edu/~csl/publications/pdf/leemoray92.pdf | journal = Ergonomics | volume = 35 | issue = 10| pages = 1243–1270 | doi=10.1080/00140139208967392| pmid = 1516577 }}
+
+== References ==
+{{reflist|2}}
+
+==External links==
+* Google Scholar Profile
+* [https://web.archive.org/web/20140517161928/http://moraysatmagagnosc.com/ Neville Moray] homepage
+* [https://web.archive.org/web/20150924025953/http://www.hfes.org/web/awards%26fellows/fellowprofiles/profile_moray.pdf Neville Moray] Fellow Profile at hfes.org
+
+{{Authority control}}
+
+{{DEFAULTSORT:Moray, Neville}}
+[[Category:1935 births]]
+[[Category:2017 deaths]]
+[[Category:Academics of the University of Sheffield]]
+[[Category:Academics of the University of Stirling]]
+[[Category:Academics of the University of Surrey]]
+[[Category:Alumni of Worcester College, Oxford]]
+[[Category:British emigrants to Canada]]
+[[Category:British psychologists]]
+[[Category:20th-century Canadian psychologists]]
+[[Category:Cyberneticists]]
+[[Category:University of Illinois Urbana-Champaign faculty]]
+[[Category:Academic staff of the University of Toronto]]

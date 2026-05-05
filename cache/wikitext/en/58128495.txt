@@ -1,0 +1,88 @@
+{{Short description|Method of classifying goods and services used in economics and marketing}}Economists and marketers use the '''Search, Experience, Credence (SEC) classification of goods and services''', which is based on the ease or difficulty with which consumers can evaluate or obtain information. These days most economics and marketers treat the three classes of goods as a continuum. Archetypal goods are:<ref>Ford, G.T., Smith, D.B.  and Swasy, J.L. [http://acrwebsite.org/volumes/6817/volumes/v15/NA-15 An Empirical Test of the Search, Experience and Credence Attributes Framework] in ''Advances in Consumer Research,'' Vol. 15, Micheal J. Houston (ed.), Provo, UT : Association for Consumer Research, pp 239-244</ref><ref>Mitra, K., Reiss, M.C. and Capella, L.M., "An Examination of Perceived risk, Information Search and Behavioral Intentions in Search, Experience and Credence Services", ''Journal of Services Marketing,'' Vol. 13, no.: 3, 1999, pp 208-228</ref><ref>Benz, Men-Andri, [https://link.springer.com/chapter/10.1007%2F978-3-8350-9580-9_1 Strategies in Markets for Experience and Credence Goods] [E-book], Springer, 2007 {{ISBN|978-3-8350-9580-9}} - especially see Chapter 1 'Experience  and Credence Goods: An Introduction' - pp 1-5</ref><ref>Harsh V. Verma, ''[https://books.google.com/books?id=nfszVjvXj1QC&dq=search+experience+credence+goods+%22services+marketing%22&pg=PA262 Services Marketing: Text and Cases]'' 2nd ed, India, Dorling-Kinderly, 2012, pp 261-264</ref>
+*'''Search goods''': those with attributes that can be evaluated prior to purchase or consumption. Consumers rely on prior experience, direct product inspection and other information search activities to locate information that assists in the evaluation process. Most products fall into the search goods category (e.g. clothing, office stationery, home furnishings).
+*'''Experience goods''': those that can be accurately evaluated only after the product has been purchased and experienced. Many personal services fall into this category (e.g. restaurant, hairdresser, beauty salon, theme park, travel, holiday).
+*'''Credence goods''': those that are difficult or impossible to evaluate even after consumption has occurred. Evaluation difficulties may arise because the consumer lacks the knowledge or technical expertise to make a realistic evaluation or, alternatively because the cost of information-acquisition may outweigh the value of the information available. Many professional services fall into this category (e.g. accountant, legal services, medical diagnosis/treatment, cosmetic surgery)
+
+==Search good==
+
+[[File:Atrio shopping mall in Villach, Austria.JPG|thumb|right|200px|Customers
+hoping to comparison shop for common products may go to a mall where several  stores will have the product. That way they can compare models, features, prices, and guarantees.]]
+A '''search good''' is a product or service with features and characteristics easily evaluated before purchase.  In a distinction originally due to [[Philip Nelson (professor)|Philip Nelson]], a search good is contrasted with an [[experience good]].
+
+Search goods are more subject to [[Substitute good|substitution]] and [[price competition]], as consumers can easily verify the price of the product and alternatives at other outlets and make sure that the products are comparable.  Branding and detailed product specifications act to transform a product from an experience good into a search good.
+
+==Experience good==
+
+[[File:Mission adventurers try fine dining at Rivers at TTC in Chilliwack (6879658189).jpg|thumb|right|200px|Even with reviews and ratings, a consumer cannot be sure they will enjoy a restaurant's food and ambiance until they have dined there.]]
+An '''experience good''' is a product or service where product characteristics, such as quality or price, are difficult to observe in advance, but these characteristics can be ascertained upon consumption. The concept is originally due to [[Philip Nelson (professor)|Philip Nelson]], who contrasted an experience good with a [[search good]].
+
+Experience goods pose difficulties for consumers in accurately making consumption choices.  In service areas, such as [[healthcare]], they reward reputation and create inertia.  Experience goods typically have lower [[price elasticity]] than search goods, as consumers fear that lower prices may be due to unobservable problems or quality issues.
+
+==Credence good==
+{{distinguish|Credence (statistics)|section=TRUE}}
+
+[[File:Used car dealer, Beacon Road, Summercourt, Cornwall - February 2024.jpg|thumb|right|200px|When a customer visits a used car dealership,   the dealer knows much more about the condition and previous use of these cars than the customer,  creating [[information asymmetry]].]]
+A '''credence good''' (or '''post-experience good''') is a [[Good (economics)|good]] whose [[utility]] impact is difficult or impossible for the consumer to ascertain.  In contrast to [[experience good]]s, the utility gain or loss of credence goods is difficult to measure after consumption as well. The seller of the good knows the utility impact of the good, creating a situation of [[Information asymmetry|asymmetric information]]. For example, a used car dealer who purchased a vehicle knows a great deal more about how the car was used (e.g., as a [[taxi]]) and what happened to it (e.g., collisions or water immersion) than a purchaser who walks onto the lot.
+
+Examples of credence goods include;
+
+*[[Vitamin]] supplements
+*[[Education]]
+*[[Car repair]]s and [[used car]] sales
+*Many forms of [[medical treatment]]
+*Home maintenance services, such as [[plumbing]] and [[electrician|electricity]]
+*Transactional legal services
+
+===Psychology===
+Credence goods may display a direct (rather than inverse) relationship between price and demand—similar to [[Veblen good]]s, when price is the only possible indicator of quality. A consumer might avoid the least expensive products to avoid suspected fraud and poor quality.<ref name=rand>
+{{cite journal 
+  | title = Credence Goods and Fraudulent Experts
+  | author = Winand Emons
+  | journal = [[The RAND Journal of Economics]]
+  | date = 1996-06-01 }}
+</ref>  So a restaurant customer may avoid the cheapest wine on the menu, but instead purchase something slightly more expensive. However, even after drinking it the buyer is unable to evaluate its relative value compared to all the wines they have not tried (unless they are a [[wine expert]]).
+
+This course of action—buying the second cheapest option—is observable by the restaurateur, who can manipulate the pricing on the menu to maximize their margin, i.e. ensuring that the second cheapest wine is actually the least costly (and most profitable) to the restaurant. Another practical application of this principle would be for competing job applicants not to propose too low a wage when asked, lest the employer think that the employee has something to hide or does not have the necessary qualification for the job.
+
+In an unregulated market, prices of credence goods tend to converge, i.e. the same [[flat rate]] is charged for high and low value goods. The reason is that suppliers of credence goods tend to overcharge for low value goods, since the customers are not aware of the low value, while [[competitive]] pressures force down the price of high value goods.<ref name=econ>
+{{cite news 
+  | title = Sawbones, cowboys and cheats
+  | newspaper = [[The Economist]]
+  | volume = 378
+  | issue = 8473
+  | pages = 78
+  | date = 2006-04-15 }}
+</ref>
+
+Another reason for price convergence is that customers become aware of the possibility of being overcharged, and compensate by favoring more expensive goods over cheaper ones. For example, a customer may ask for a complete replacement of a broken car part with a new one, irrespective of whether the damage is small or large (which the customer doesn't know). In this case the new part is "proof" that the customer hasn't been overcharged.<ref name=econ />
+
+A 2020 study into credence goods within the medical sector also showed connections between socio-economic standards (SES) and the likelihood of over treatment in the dental industry. Results showed that when portraying a higher SES, practitioners are less likely to offer treatment that is more invasive and expensive. This goes against intuition as the wealthier would be more likely to experience over charging compared to people of a lower SES.<ref>{{cite journal |last1=Gottschalk |first1=Felix |title=Health Services as Credence Goods: A Field Experiment |journal=The Economic Journal |date=28 February 2020 |volume=130 |issue=629 |page=1346 |doi=10.1093/ej/ueaa024|hdl=20.500.11850/407406 |hdl-access=free }}</ref>
+
+Studies from 2015 show that consumer decision making varies in the context of search, experience and credence services. Consumers spend more time searching for information about credence services and least time when buying search services.<ref>{{cite journal |last1=Utkarsh |first1=Utkarsh |last2=Sanjay |first2=Medhavi |title=Information search behaviour of service consumers: Review and future directions |journal=The Marketing Review |date=2015 |volume=15 |issue=2 |page=201 |doi=10.1362/146934715X14373846573667}}</ref>
+
+==References ==
+{{reflist}}
+
+==Bibliography==
+===Search===
+*Luis M. B. Cabral: Introduction to Industrial Organisation, Massachusetts Institute of Technology Press, 2000, page 223. {{ISBN|0-262-03286-4}}
+*Philip Nelson, "Information and Consumer Behavior", 78 ''Journal of Political Economy'' 311, 312 (1970).
+
+===Credence===
+* {{cite journal|author1= Dulleck, U.|author2=Kerschbamer, R.|title= On Doctors, Mechanics and Computer Specialists: The Economics of Credence Goods|journal= [[Journal of Economic Literature]]|volume= 44|issue= 1|year= 2006|pages= 5–42|jstor= 30032295|url= https://www.uibk.ac.at/economics/bbl/cv_papiere/jelinecht.pdf |doi=10.1257/002205106776162717|citeseerx=10.1.1.224.1731|s2cid=15507988 }}
+* {{cite journal|author= Horner, J.|title=Reputation and Competition|journal= [[American Economic Review]]|volume= 92|issue= 3|year= 2002|pages= 644–661|doi=10.1257/00028280260136444}}
+* {{cite journal|author= Leland, H.|title= Quacks, Lemons, and Licensing: A Theory of Minimum Quality Standards|journal= [[Journal of Political Economy]]|volume= 87|issue= 6|year= 1979|pages= 1328–1346|doi= 10.1086/260838|s2cid= 155077802}}
+* {{cite journal|author1= Mailath, G.|author2= Samuelson, L.|title= Who Wants a Good Reputation?|journal = [[Review of Economic Studies]]|volume= 68|issue= 2|year= 2001|pages= 415–441|doi= 10.1111/1467-937X.00175}}
+* {{cite journal|author1= Uwe Dulleck|author2= Rudolf Kerschbamer|author3= Matthias Sutter|title= The Economics of Credence Goods: An Experiment on the Role of Liability, Verifiability, Reputation, and Competition|journal= [[The American Economic Review]]|volume= 101|issue= 2|year= 2011|pages= 526–55|jstor= 29783682|doi= 10.1257/aer.101.2.526|citeseerx= 10.1.1.224.3411}}
+* {{cite journal|author1= Spiegler, R|title= The Market for Quacks|journal= [[Review of Economic Studies]]|volume= 73|issue= 4|year= 2006|pages= 1113–1131|doi= 10.1111/j.1467-937X.2006.00410.x}}
+* {{cite journal|author= Wolinsky, A.|title= Competition in a Market for Informed Experts' Services|journal = [[RAND Journal of Economics]]|volume= 24|issue= 3|year= 1993|pages= 380–398|doi= 10.2307/2555964|jstor= 2555964|url= http://www.kellogg.northwestern.edu/research/math/papers/959.pdf}}
+* {{cite journal|author= Wolinsky, A.|title= Competition in Markets for Credence Goods|journal= Journal of Institutional and Theoretical Economics|volume=  151|year= 1995|pages= 117–131}}
+
+===Experience===
+*Luis M. B. Cabral: Introduction to Industrial Organization, Massachusetts Institute of Technology Press, 2000, page 223. {{ISBN|0-262-03286-4}}
+*[[Philip Nelson (professor)|Philip Nelson]], "Information and Consumer Behavior", 78(2) ''Journal of Political Economy'' 311-329 (1970).
+*Aidan R. Vining and David L. Weimer, "Information Asymmetry Favoring Sellers: A Policy Framework," 21(4) ''Policy Sciences'' 281–303 (1988).
+
+{{Goodtypes}}
+
+[[Category:Goods]]

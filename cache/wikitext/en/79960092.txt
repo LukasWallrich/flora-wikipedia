@@ -1,0 +1,189 @@
+{{Short description|Impact of parenthood on women's labor market outcomes}}
+{{Sidebar with collapsible lists
+| name = Child penalties
+| title = Part of a series on [[Economics]]
+| image = [[File:Childpenalties map.png|250px]]
+| headingstyle = background:#f0f0f0;
+| liststyle = text-align:left;
+
+| list1title = Core concepts
+| list1 = 
+* [[Child penalty]]
+* [[Gender pay gap]]
+* [[Labor market outcomes]]
+* [[Social norms]]
+* [[Gender norms]]
+* [[Parental leave]]
+
+| list2title = Measurement
+| list2 =
+* [[Event study|Event-study]] design
+* [[Panel data]]
+* Administrative data
+
+| list3title = People
+| list3 =
+* [[Henrik Kleven]]
+* [[Camille Landais]]
+
+| list4title = Data
+| list4 = 
+* [https://childpenaltyatlas.org Child Penalty Atlas]
+}}
+
+'''Child penalties''' (also known as ''motherhood penalty'') refer to the negative impact of [[Parenting|parenthood]] on women’s [[labour economics|labor market outcomes]] relative to men’s. After childbirth, women’s [[employment]] rates, [[working time|working hours]], career progression, and [[wage|earnings]] tend to decline sharply relative to men’s outcomes.<ref name="KLS2019">{{cite journal |last1=Kleven |first1=Henrik |last2=Landais |first2=Camille |last3=Søgaard |first3=Jakob Egholt |year=2019 |title=Children and Gender Inequality: Evidence from Denmark |journal=American Economic Journal: Applied Economics |volume=11 |issue=4 |pages=181–209 |doi=10.1257/app.20180010 |url=https://www.aeaweb.org/articles?id=10.1257/app.20180010}}</ref> These penalties are central to understanding [[gender inequality]] in the labor market, explaining most of the earnings gap in many [[developed country|high-income countries]].
+
+Research shows that long-run earnings penalties are around 20% in [[Nordic countries]], 30–40% in the United States and United Kingdom, and over 50% in [[Germany]], [[Austria]], and [[Switzerland]]. While policies like [[parental leave|job-protected parental leave]] and [[childcare]] may help, child penalties are primarily shaped by [[labour market|labor market structure]] and [[gender role|gender norms]].<ref name="KlevenEtAl2019">{{cite journal |last1=Kleven |first1=Henrik |last2=Landais |first2=Camille |last3=Posch |first3=Johanna |last4=Steinhauer |first4=Andreas |last5=Zweimüller |first5=Josef |year=2019 |title=Child Penalties Across Countries: Evidence and Explanations |journal=AEA Papers and Proceedings |volume=109 |pages=122–126 |doi=10.1257/pandp.20191039 |url=https://www.aeaweb.org/articles?id=10.1257/pandp.20191039}}</ref><ref name="KLLM2024">{{cite journal |last1=Kleven |first1=Henrik |last2=Landais |first2=Camille |last3=Leite-Mariante |first3=Gabriel |year=2024 |title=The Child Penalty Atlas |url=https://doi.org/10.1093/restud/rdae104 |journal=Review of Economic Studies |volume=91 |issue=2 |pages=509–539 |doi=10.1093/restud/rdae104}}</ref>
+
+The magnitude and persistence of child penalties have made them central to the debate about the [[gender pay gap]]. In [[Denmark]], for example, the fraction of the gender pay gap explained by parenthood increased from about 40% in 1980 to over 80% by 2013.<ref name="KLS2019"/> To address this issue, policymakers have proposed solutions such as shared parental leave, affordable childcare, flexible work arrangements, and shifts in societal norms.
+
+== History ==
+=== Early developments ===
+
+Early origins of the debate can be traced back to [[Gary Becker]]’s ''[[A Treatise on the Family]]'' (1981). Becker argued that women earn less than men because childbearing interrupts their careers and reduces human capital accumulation.<ref name="Becker1981">{{cite book |last=Becker |first=Gary S. |title=A Treatise on the Family |year=1981 |publisher=Harvard University Press |isbn=9780674906990 |url=https://www.hup.harvard.edu/books/9780674906990}}</ref> In the 1990s, empirical studies provided early support: [[Jane Waldfogel|Waldfogel]] (1998) and [[Shelly Lundberg|Lundberg]] and Rose (2000) documented a family gap in the U.S. and U.K.: mothers earned 10‑15 % less than comparable women without children.<ref name="Waldfogel1998">{{cite journal |last=Waldfogel |first=Jane |year=1998 |title=Understanding the "Family Gap" in Pay for Women with Children |journal=Journal of Economic Perspectives |volume=12 |issue=1 |pages=137–156 |doi=10.1257/jep.12.1.137  |doi-access=free|url=https://www.aeaweb.org/articles?id=10.1257/jep.12.1.137}}</ref><ref name="LundbergRose2000">{{cite journal |last1=Lundberg |first1=Shelly |last2=Rose |first2=Elaina |year=2000 |title=Parenthood and the Earnings of Married Men and Women |journal=Labour Economics |volume=7 |issue=6 |pages=689–710 |doi=10.1016/S0927-5371(00)00020-8 |url=https://www.sciencedirect.com/science/article/abs/pii/S0927537100000208}}</ref> Sociological work emphasized discrimination; [[Shelley Correll|Correll]], Benard & Paik (2007) found hiring bias against mothers.<ref name="Correll2007">{{cite journal |last1=Correll |first1=Shelley J. |last2=Benard |first2=Stephen |last3=Paik |first3=In |year=2007 |title=Getting a Job: Is There a Motherhood Penalty? |journal=American Journal of Sociology |volume=112 |issue=5 |pages=1297–1339 |doi=10.1086/511799 |url=https://www.journals.uchicago.edu/doi/10.1086/511799}}</ref>
+
+=== Modern approach ===
+
+In the late 20th century, women delayed childbirth,<ref name="GoldinKatz2002">{{cite journal |last1=Goldin |first1=Claudia |last2=Katz |first2=Lawrence F. |year=2002 |title=The Power of the Pill: Oral Contraceptives and Women's Career and Marriage Decisions |journal=Journal of Political Economy |volume=110 |issue=4 |pages=730–770 |doi=10.1086/340778 |url=https://doi.org/10.1086/340778}}</ref> surpassed men in college enrollment, and dual-earner household became the norm. Yet the [[gender pay gap]] persisted. This opened the question of ''how much of the gender gap is caused by [[Parenting|parenthood]], and what explains the gendered effects of parenthood?''
+
+Answering this required tracking both partners before and after childbirth. A methodological breakthrough came when [[Henrik Kleven]], [[Camille Landais]], and collaborators developed an [[event study|event-study]] approach using administrative registers that follow workers over time. In their landmark study, [[Henrik Kleven|Kleven]], [[Camille Landais|Landais]] & Søgaard (2019)<ref name="KLS2019"/> show that, in [[Denmark]], men and women have similar [[earnings]] trajectories until the birth of their first child, but diverge sharply after childbirth. Women’s earnings fall by about 20% relative to men’s and never catch back up. This “child penalty” captured the causal effect of parenthood on [[gender inequality]]. Subsequent work has replicated this pattern in many countries. Where panel data are unavailable, [[Henrik Kleven|Kleven (2025)]]<ref name="Kleven2025">{{cite journal |last=Kleven |first=Henrik |year=2025 |title=The Geography of Child Penalties and Gender Norms: A Pseudo-Event Study Approach |journal=Working Paper |series=NBER Working Paper No. 30176 |doi=10.3386/w30176 |url=https://www.nber.org/papers/w30176}}</ref> 
+developed a pseudo-event study method using only cross-sectional data. By 2024, child‑penalty estimates existed for over 130 countries, revealing large cross-country variation but a consistently unequal impact of children on women’s earnings.<ref name="KLLM2024"/>
+
+==== Key conceptual developments ====
+
+[[File:Child Penalties Earnings in Denmark.png|thumb|300px|This figure presents one of the first empirical estimates of the '''child penalty''' for Denmark. Source: [https://www.henrikkleven.com/uploads/3/7/3/1/37310663/kleven-landais-sogaard_aej-applied_sep2018.pdf  Kleven, Landais & Søgaard (2019).]]]
+
+# '''Research question''': Traditional gender gap studies focused on [[equal pay for equal work|unequal pay for equal work]]. This is the degree to which men and women are paid differently conditional on having the same education level, job market experience, and occupation. This gap was typically interpreted as a measure of [[discrimination]]. Over time, this gap has become relatively small in [[developed country|high-income countries]]. Child penalty research asks a different question: What is the impact of [[children]] on women’s and men’s [[labour economics|labor market outcomes]] – such as [[earnings]] or [[employment]] – not conditioning on things like education and occupation. This research highlights that [[gender inequality]] persists even with equal pay for equal work, largely due to [[Parenting|parenthood]].
+# '''Methodology''': Modern research typically uses an [[event study|event-study]] approach, capturing how gender gaps evolve dynamically around childbirth. The approach proposed by [[Henrik Kleven|Kleven]], [[Camille Landais|Landais]], and Søgaard (2019)<ref name="KLS2019"/> has become the standard way of estimating child penalties.
+# '''Explanations''': The literature has moved beyond traditional explanations for gender gaps such as [[human capital]] and [[workplace discrimination|discrimination]], highlighting household specialization, workplace flexibility, [[gender role|social norms]], and [[family policy]].
+# '''Geographic scope''': Extends the scope from single-country studies to global comparisons, connecting child penalties to broader cultural and economic contexts.<ref name="KLLM2024"/>
+
+== Measurement ==
+Child penalties are measured by comparing women’s and men’s [[labour economics|labor-market outcomes]] before and after the birth of a first child. The standard empirical framework is an [[event study|event-study]], which compares labor market outcomes—such as [[earnings]] or [[employment]]—over time, relative to the moment of childbirth. In this setting, the “event” is the birth of a first child.
+
+=== Event study specification ===
+
+The [[event study|event-study]] framework builds a timeline around childbirth, labeling each year before and after the event. The year of birth of the first child is denoted as event time <math>t = 0</math>. Years before childbirth are indicated by negative numbers (e.g., <math>t = -1</math> is one year before birth), and years after childbirth are indicated by positive numbers (<math>t = 1</math> one year after birth, <math>t = 2</math> two years after, and so forth). The method tracks how outcomes evolve over time for mothers and fathers, estimating average changes at each point relative to the year before birth. Results are computed separately by gender, allowing researchers to compare how childbirth affects women and men differently.
+
+Formally, the event-study regression can be represented as: 
+ 
+<math>Y_{it}^g = \sum_j \alpha_j^g \cdot \text{EVENT}_{j=t} + \text{age/year dummies}</math>
+
+where:  
+<ul>
+<li><math>Y_{it}^g</math> is an outcome (such as earnings or employment) for individual <math>i</math> of gender <math>g</math> in year <math>t</math>.</li>  
+<li><math>\text{EVENT}_{j=t}</math> is an indicator that equals 1 if the year is exactly <math>j</math> years from childbirth, and 0 otherwise.</li>  
+<li><math>\alpha_t^g</math> measures the average change in the outcome for gender <math>g</math> at each event time <math>t</math>, relative to a reference year (commonly one or two years before birth, <math>t = -1</math> or <math>t = -2</math>).</li>  
+<li>The age and year dummies control for lifecycle and time trends unrelated to [[Parenting|parenthood]].</li>  
+</ul>
+
+The key assumption underlying this method is that, without the birth of a child, women’s and men’s outcomes would have followed the same trend. This is known as the '''[[difference in differences|parallel trends assumption]]'''. Researchers validate this by checking that the trends for women and men do not diverge in the years before parenthood.
+
+=== Interpreting the results ===
+
+The estimates from event studies are usually shown in graphs, with one line for women and another for men. Before birth, both lines tend to follow similar paths. After birth, the line for women typically shows a sharp and persistent decline, relative to men’s.
+
+To make the results easier to interpret, researchers often convert the effects on earnings or labor supply into percentages. If we label the percentage effects on men and women by <math>P_t^m</math> and <math>P_t^w</math>, respectively, the child penalty is typically defined as follows
+
+<math>\text{Child Penalty} = \mathrm{E}[P_t^m - P_t^w \mid t \geq 0]</math>
+
+This expression represents the average difference in the percentage effect of parenthood between men and women.
+
+== Evidence on child penalties ==
+
+=== General pattern ===
+
+[[Event study|Event-study]] analyses reveal a consistent pattern: Men and women follow similar [[labour economics|labor market]] trajectories until the birth of a first child, after which women’s [[earnings]] and [[employment]] decline sharply, while men’s remain relatively stable. In the United States, for example, mothers earn about 36% less than men due to the unequal effects of [[Parenting|parenthood]].<ref name="Kleven2025"/>
+
+{| align="center"
+| [[File:Child penalty in Earnings, United Kingdom.png|thumb|300px|Child penalty in Earnings, United Kingdom <ref name="KLLM2024"/>]]
+| [[File:Child penalty Earnings, United States.png|thumb|300px|Child penalty Earnings, United States<ref name="KLLM2024"/>]]
+|}
+The penalties persist over time and tend to increase with each additional child. This divergence has been documented in over 130 countries, suggesting a robust empirical regularity.<ref name="KLLM2024"/>
+
+=== Cross-country differences ===
+
+While the child penalty phenomenon is nearly universal, its size varies across countries and institutional contexts. [[Henrik Kleven|Kleven et. al (2019)]]  <ref name="KlevenEtAl2019"/> found long-run earnings losses for women of 21–26% in [[Denmark]] and [[Sweden]] ([[Nordic model|Nordic welfare states]]), 31–44% in the United States and United Kingdom (Anglo-American economies), and up to 51–61% in [[Germany]] and [[Austria]] (more traditional [[breadwinner model]] countries). In all cases, men’s earnings were mostly unaffected.  
+[[File:Childpenalties map.png|thumb|600px|center| Child penalties in employment across 134 countries, [https://childpenaltyatlas.org/ Child Penalty Atlas Project]]]
+
+The Child Penalty Atlas of 2024 extended these findings to 134 countries, revealing wide variation: Penalties are generally larger in richer economies and smaller in poorer ones.<ref>{{Cite web |title=Child Penalty Atlas |url=https://childpenaltyatlas.org/ |access-date=2025-05-14 |website=childpenaltyatlas.org}}</ref> As economies develop and [[labour market|labor market structure]] changes, child penalties become a key source of [[gender inequality]]. Historically, the gap once emerged at [[marriage]]; today, it is primarily driven by childbirth. Even in countries with generous [[family policy|family policies]], penalties persist.<ref name="KLLM2024"/>
+
+=== Contribution to gender inequality ===
+
+Because child penalties are so large and persistent, they are a major driver of [[gender inequality]] in [[labour economics|labor markets]], especially in countries where men and women are otherwise similar in [[education]], experience, and [[legal rights]]. In [[Denmark]], 80–90% of the post-30 gender earnings gap is due to children. In the U.S., recent studies attribute nearly all remaining gender inequality in [[labor force participation]] and [[wage|pay]] to [[Parenting|parenthood]]. Other explanations – like [[equal pay for equal work|unequal pay for equal work]] – have declined in relevance.
+
+As [[Marianne Bertrand|Bertrand]] (2020) notes, motherhood has become a dominant source of gender inequality in [[developed country|high-income countries]] as women’s career trajectories diverge from men’s after childbirth. Across contexts, child penalties consistently explain women’s lower earnings and underrepresentation in [[glass ceiling|top positions]].<ref name="Bertrand2020">{{cite journal |last=Bertrand |first=Marianne |year=2020 |title=The Glass Ceiling |journal=Economica |volume=87 |issue=345 |pages=1–21 |doi=10.1111/ecca.12368 |url=https://doi.org/10.1111/ecca.12368}}</ref>
+
+== Causes ==
+=== Biological factors ===
+The physical demands of [[pregnancy]], childbirth, and [[breastfeeding]] explain short-term career interruptions, but not the long-term earnings gap. Studies show that adoptive mothers face nearly identical child penalties as biological mothers, suggesting biology alone cannot account for the persistent divergence.<ref name="KLS2021">{{cite journal |last1=Kleven |first1=Henrik |last2=Landais |first2=Camille |last3=Søgaard |first3=Jakob Egholt |year=2021 |title=Does Biology Drive Child Penalties? Evidence from Biological and Adoptive Families |journal=American Economic Review: Insights |volume=3 |issue=2 |pages=183–198 |doi=10.1257/aeri |url=https://www.aeaweb.org/articles?id=10.1257/aeri.20190326}}</ref><ref name="GallenEtAl2024">{{cite journal |last1=Gallen |first1=Yana |last2=Joensen |first2=Juanna Schrøter |last3=Johansen |first3=Eva Rye |last4=Veramendi |first4=Gregory F. |year=2024 |title=The Labor Market Returns to Delaying Pregnancy |journal=Becker Friedman Institute Working Paper |url=https://yanagallen.com/UnplannedPregnancy.pdf}}</ref> Even without physical necessity, adoptive mothers often become the primary caregivers.
+
+=== Comparative advantage ===
+
+[[Gary Becker|Becker]]’s theory posits that families specialize based on [[comparative advantage]], with the lower earner taking on [[childcare]]. But even when women out-earn their partners pre-birth, they are more likely to reduce work and suffer earnings losses post-birth.<ref name="KLS2021"/> Thus, relative earnings alone do not explain child penalties.
+
+===  Public policies === 
+Government policies like [[parental leave]] and subsidized [[childcare]] help with short-run [[labour economics|labor market]] impacts of childbirth, but they have done little to reduce long-term penalties. Studies from across different countries suggest that even very generous [[family policy|family policies]] have a limited impact on women’s cumulative earnings losses.<ref name="DahlEtAl2016">{{cite journal |last1=Dahl |first1=Gordon B. |last2=Løken |first2=Katrine V. |last3=Mogstad |first3=Magne |last4=Salvanes |first4=Kari Vea |year=2016 |title=What Is the Case for Paid Maternity Leave? |journal=Review of Economics and Statistics |volume=98 |issue=4 |pages=655–670 |doi=10.1162/REST_a_00602 |url=https://www.mitpressjournals.org/doi/10.1162/REST_a_00602}}</ref><ref name="OlivettiPetrongolo2017">{{cite journal |last1=Olivetti |first1=Claudia |last2=Petrongolo |first2=Barbara |year=2017 |title=The Economic Consequences of Family Policies: Lessons from a Century of Legislation in High-Income Countries |journal=Journal of Economic Perspectives |volume=31 |issue=1 |pages=205–230 |doi=10.1257/jep.31.1.205  |doi-access=free|pmid=28443651 |url=https://www.aeaweb.org/articles?id=10.1257/jep.31.1.205}}</ref><ref name="KlevenEtAl2024">{{cite journal |last1=Kleven |first1=Henrik |last2=Landais |first2=Camille |last3=Posch |first3=Johanna |last4=Steinhauer |first4=Andreas |last5=Zweimüller |first5=Josef |year=2024 |title=Do Family Policies Reduce Gender Inequality? Evidence from 60 Years of Policy Experimentation |journal=American Economic Journal: Economic Policy |volume=16 |issue=2 |pages=110–149 |doi=10.1257/pol |url=https://www.aeaweb.org/articles?id=10.1257/pol.20220124}}</ref>
+
+=== Gender norms and culture ===
+[[Gender norms]] and cultural expectations are central to understanding child penalties. In cultures where caregiving is primarily viewed as a maternal responsibility, women disproportionately adjust their employment after childbirth, often irrespective of economic incentives.
+
+Cross-national comparisons support this connection between traditional gender roles and greater child penalties. [[Francine Blau|Blau]], [[Lawrence M. Kahn|Kahn]], and Papps (2011) demonstrate this through their analysis of [[immigrant]] women in the U.S., whose labor market participation after childbirth aligns closely with gender norms from their countries of origin. Importantly, immigrant men's employment behaviors remain unaffected by these norms, underscoring the gender-specific nature of this phenomenon.<ref name="BlauKahnPapps2011">{{cite journal |last1=Blau |first1=Francine D. |last2=Kahn |first2=Lawrence M. |last3=Papps |first3=Kerry L. |year=2011 |title=Gender, Source Country Characteristics, and Labor Market Assimilation among Immigrants |journal=Review of Economics and Statistics |volume=93 |issue=1 |pages=43–58 |doi=10.1162/REST_a_00064 |url=https://doi.org/10.1162/REST_a_00064}}</ref>
+
+Studies of [[same-sex couples]] provide further evidence on the role of gender norms in shaping child penalties. Research on lesbian couples from [[Norway]] finds no earnings penalty for the biological mother relative to the co-mother.<ref name="AndresenNix2022">{{cite journal |last1=Andresen |first1=Martin E. |last2=Nix |first2=Emily |year=2022 |title=What Causes the Child Penalty? Evidence from Adopting and Same-Sex Couples |journal=Journal of Labor Economics |volume=40 |issue=4 |pages=971–1004 |doi=10.1086/718565 |url=https://doi.org/10.1086/718565}}</ref> This indicates that, when gender is not a factor, childbirth does not create inequality within couples. These patterns point to social expectations around gender roles—rather than biology—as central to understanding how parenthood affects labor market outcomes. Survey research reinforces the role of societal expectations. [[Ilyana Kuziemko|Kuziemko et al. (2018)]] found that women's preferences regarding family and work shift significantly after childbirth, reflecting internalized societal norms rather than purely economic considerations.<ref name="KuziemkoEtAl2018">{{cite journal |last1=Kuziemko |first1=Ilyana |last2=Pan |first2=Jessica |last3=Shen |first3=Jenny |last4=Washington |first4=Ebonya L. |year=2018 |title=The Mommy Effect: Do Women Anticipate the Employment Effects of Motherhood? |journal= NBER Working Paper No. 24740 |series=Working Paper Series |doi=10.3386/w24740 |url=https://www.nber.org/papers/w24740}}</ref>
+
+[[Henrik Kleven|Kleven (2025)]] provides evidence that child penalties are shaped by gender norms by studying movers and immigrants in the U.S. Child penalties vary considerably across states, correlating closely with regional differences in gender norms. The child penalty for movers is strongly related to the child penalty in their state of birth, and the child penalty for foreign immigrants is strongly related to the child penalty in their country of birth. For example, immigrants born in high-penalty countries like Bangladesh or Mexico have much larger child penalties in the U.S. than immigrants born in low-penalty countries like China or the Nordic countries.<ref name="Kleven2025" />
+
+=== Labor market structure ===
+
+Labor market institutions and job characteristics also matter. [[Claudia Goldin|Goldin]] (2014) highlighted that ''“greedy”'' careers—those requiring long, inflexible hours and constant presence—tend to impose heavier penalties on mothers.<ref name="Goldin2014">{{cite journal |last=Goldin |first=Claudia |year=2014 |title=A Grand Gender Convergence: Its Last Chapter |journal=American Economic Review |volume=104 |issue=4 |pages=1091–1119 |doi=10.1257/aer.104.4.1091 |url=https://doi.org/10.1257/aer.104.4.1091}}</ref> After childbirth, mothers often seek flexibility, trading off earnings for family friendliness. Flexible occupations like [[pharmacy]] jobs, exhibit smaller or no penalties.<ref name="GoldinKatz2016">{{cite journal |last1=Goldin |first1=Claudia |last2=Katz |first2=Lawrence F. |year=2016 |title=A Most Egalitarian Profession: Pharmacy and the Evolution of a Family-Friendly Occupation |journal=Journal of Labor Economics |volume=34 |issue=3 |pages=705–746 |doi=10.1086/685505 |url=https://doi.org/10.1086/685505}}</ref> The work structure thus plays a key role in reinforcing or mitigating the impact of parenthood on women’s careers.
+
+== Are child penalties causal? ==
+A key question is whether child penalties reflect a causal impact of having children or are driven by unobserved differences between individuals that decide to have children at different times. The [[event study]] design addresses this concern by showing that men’s and women’s career trajectories are nearly identical before childbirth, diverging sharply just after childbirth, suggesting a causal effect of [[Parenting|parenthood]]. While small “anticipation effects” may exist, most of the gap emerges after childbirth.
+
+A potential concern is that women might already be adjusting their careers in anticipation of future motherhood—for example, by avoiding demanding jobs or working fewer hours even before having children. These so-called “anticipation effects” could mean that part of the penalty is happening earlier, before childbirth. However, studies have shown that modern cohorts of men and women typically start their careers on very similar trajectories. Any pre-birth differences tend to be small, and the majority of the [[gender pay gap|gender gap in earnings]] emerges only after the first child is born. This suggests that anticipation plays only a minor role, and that most of the child penalty is directly tied to the event of childbirth itself.
+
+To further validate the causal interpretation, researchers use [[instrumental variable]] (IV) strategies. One method exploits the sex composition of a family’s first two children, as parents with same-sex children are more likely to have a third child.<ref name="AngristEvans1998">{{cite journal |last1=Angrist |first1=Joshua D. |last2=Evans |first2=William N. |year=1998 |title=Children and Their Parents' Labor Supply: Evidence from Exogenous Variation in Family Size |journal=American Economic Review |volume=88 |issue=3 |pages=450–477 |doi=10.1257/aer |url=https://www.aeaweb.org/articles?id=10.1257/aer.88.3.450}}</ref> [[Henrik Kleven|Kleven]], [[Camille Landais|Landais]] & Søgaard (2019) found that this IV-based estimate of the third-child penalty matched event-study results closely.<ref name="KLS2019"/>
+
+More recent studies have used natural experiments such as unintended pregnancies caused by contraceptive failure. Gallen et al. (2024) found that women in [[Sweden]] who became pregnant due to [[intrauterine device|IUD]] failure faced large, lasting earnings losses, closely mirroring event-study findings.<ref name="GallenEtAl2024"/> Other studies use [[in vitro fertilization|In Vitro Fertilization (IVF)]] outcomes to create instruments, comparing women whose treatment was successful with those whose treatments failed.
+
+Together, these approaches reinforce that children cause significant, lasting career penalties for women relative to men.
+
+== Public debate ==
+
+Over the past decade, research has increasingly shown that the majority of the [[gender pay gap]] in [[earnings]] and [[employment]] arises after childbirth, rather than from direct [[discrimination]] or pre-child differences.<ref name="KLS2019"/><ref name="KLS2021"/> As a result, closing the gender gap has become almost synonymous with eliminating child penalties in both academic and policy discussions.
+
+[[File:Gender Gap Decomposition by GDP per capita.png| 300px|thumb|Gender Gap Decomposition by three factors: Child penalties, Marriage Gap and Residual Gap.<ref name="KLLM2024"/>]]
+
+This shift in understanding has influenced international organizations, national governments, and media discourse. For example, the [[OECD]] and the [[World Bank]] have explicitly linked [[family policy|family policies]] to reducing gender inequality, emphasizing the importance of access to [[childcare]] and reforming [[parental leave]] in major reports on gender equity.<ref name="OECD2017">{{cite book |title=The Pursuit of Gender Equality: An Uphill Battle |publisher=OECD Publishing |year=2017 |isbn=9789264281318 |url=https://www.oecd.org/publications/the-pursuit-of-gender-equality-9789264281318-en.htm}}</ref><ref name="WorldBank2022">{{cite book |title=Women, Business and the Law 2022 |publisher=World Bank |year=2022 |url=https://wbl.worldbank.org/en/reports}}</ref> Similarly, the [[International Labour Organization|United Nations’ ILO]] has emphasized the role of unpaid care and motherhood-related labor market exits in sustaining global gender gaps.<ref name="ILO2017">{{cite book |title=Gender in Employment Policies and Programmes: What Works for Women? |publisher=International Labour Organization |year=2017 |url=https://www.ilo.org/media/421051/download}}</ref>
+
+Policies like parental leave for fathers, childcare availability, labor market flexibility, shifting social norms around childcare, among others, are at the forefront of the public debate about gender inequality caused by childbirth.
+
+In some countries, these efforts are already visible, as they have implemented non-transferable, paid [[father's quota|parental leave for fathers]] (or ''“father's quotas”''). These policies reserve a portion of parental leave exclusively for fathers, incentivizing their participation in early childcare and challenging traditional gender roles.
+
+=== Global examples of [[father's quota]] ===
+
+* '''Norway''': Introduced a four-week “father’s quota” in 1993, which has since expanded to 15 weeks. This policy led to a significant increase in parental leave uptake, from under 3% to over 70% of eligible fathers taking leave.<ref name="NorwayQuota">{{cite journal |last1=Brandth |first1=Berit |last2=Kvande |first2=Elin |year=2019 |title=Workplace support of fathers' parental leave use in Norway |journal=Community, Work & Family |volume=22 |issue=1 |pages=43–57 |doi=10.1080/13668803.2018.1472067 |url=https://www.researchgate.net/publication/329895645}}</ref>
+* '''Sweden''': Offers 480 days of paid parental leave per child, with 90 days reserved for each parent. This policy has resulted in about 90% of fathers taking some parental leave, contributing to a more equitable division of childcare responsibilities.<ref name="SwedenLeave">{{cite web |title=Work–life balance |url=https://sweden.se/work-business/working-in-sweden/work-life-balance |website=sweden.se |date=16 April 2025 |access-date=2025-05-09}}</ref>
+* '''Iceland''': Adopted a “6+6” parental leave model in 2021, allocating six months each to the mother and father. This structure increased fathers’ participation in childcare and promoted gender equality in parenting.<ref name="IcelandLeave">{{cite journal |last1=Arnalds |first1=Ásdís A. |last2=Eydal |first2=Guðný Björk |last3=Gíslason |first3=Ingólfur V. |year=2021 |title=Paid Parental Leave in Iceland: Increasing Gender Equality at Home |journal=Nordic Journal of Social Research |volume=12 |pages=1–16 |doi=10.7577/njsr.3766 |doi-broken-date=1 July 2025 |url=https://journals.oslomet.no/index.php/njsr/article/view/3766}}</ref>
+* '''Germany''': In 2007, introduced “Elterngeld,” providing 12 months of paid leave at approximately 67% wage replacement, plus two bonus months if both parents share leave. This led to a significant rise in fathers taking parental leave.<ref name="GermanyElterngeld">{{cite journal |last=Tamm |first=Marcus |year=2019 |title=Fathers' parental leave-taking, childcare involvement and labor market participation |journal=Labour Economics |volume=59 |pages=184–197 |doi=10.1016/j.labeco.2019.04.004 |url=https://www.sciencedirect.com/science/article/abs/pii/S0927537119300405}}</ref>
+* '''Quebec, Canada''': Established a five-week non-transferable paternity leave in 2006, increasing fathers’ leave uptake from 21% to 80%. This policy also positively impacted mothers’ labor force participation.<ref name="Patnaik2019">{{cite journal |last=Patnaik |first=Aparna |year=2019 |title=Reserving Time for Daddy: The Short and Long-Run Consequences of Fathers' Quotas |journal=Journal of Labor Economics |volume=37 |issue=4 |pages=1009–1059 |doi=10.1086/703115 |url=https://www.journals.uchicago.edu/doi/10.1086/703115}}</ref>
+* '''Japan''': Since 2010, Japanese fathers have had an independent entitlement to leave, meaning a full year is reserved for the father (separate from the mother’s leave). Historically, however, uptake was extremely low due to workplace culture. As recently as 2015, only ~5% of new fathers in Japan took any parental leave.<ref name="JapanLeave">{{cite web |title=Japan - Publications |url=https://www.oecd-ilibrary.org/content/publication/277839c8-en |website=OECD |access-date=2025-05-09}}</ref>
+* '''South Korea''': Provides up to one year of paid parental leave per parent. The introduction of incentives like “Daddy Months” (if both parents take leave sequentially, the second parent (often the father) gets the first 3 months at nearly full pay) has led to a rapid rise in fathers taking leave, with men accounting for 32% of all parental leave takers in the first half of 2024.<ref name="KoreaLeave">{{cite web |title=Korea1 - International Network on Leave Policies and Research |url=https://www.leavenetwork.org/fileadmin/user_upload/k_leavenetwork/annual_reviews/2023/Korea2023.pdf |website=Leave Network |access-date=2025-05-09}}</ref>
+
+== See also ==
+* [[Cost of raising a child]]
+* [[Gender pay gap]]
+* [[Motherhood penalty]]
+* [[Parental leave]]
+* [[Henrik Kleven]]
+* [[Camille Landais]]
+
+== References ==
+<references responsive="1" />
+{{Parenting}}
+
+[[Category:Labour economics]]
+[[Category:Gender and employment]]
+[[Category:Family economics]]
+[[Category:Gender equality]]

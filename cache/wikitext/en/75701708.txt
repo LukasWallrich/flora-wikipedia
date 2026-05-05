@@ -1,0 +1,79 @@
+{{Short description|New Zealand computer scientist}}
+{{Use dmy dates|date=January 2024}}
+{{Use New Zealand English|date=January 2024}}
+{{Infobox academic
+| name = Jacqueline Whalley
+| native_name = 
+| native_name_lang = 
+| image = {{#statements:P18}}
+| image_size = 
+| alt = 
+| caption = 
+| birth_date = {{#statements:P569}}
+| birth_place = {{#statements:P19}}
+| death_date = {{#statements:P570}}
+| death_place = {{#statements:P20}}
+| resting_place = {{#statements:P119}}
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| other_names = 
+| citizenship = 
+| nationality = 
+| fields = 
+| workplaces = {{#statements:P108}}
+| patrons = 
+| alma_mater = {{#statements:P69}}
+| thesis1_title = Synthetic studies towards the total synthesis of sordaricin
+| thesis1_url = http://hdl.handle.net/1885/139967
+| thesis1_year = 1995
+| doctoral_advisor = {{#statements:P184}}
+| academic_advisors = {{#statements:P1066}}
+| doctoral_students = 
+| notable_students = 
+| known_for = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences = 
+| influenced = 
+| awards = {{#statements:P166}}
+| signature = <!--(filename only)-->
+| signature_alt = 
+| website = <!-- {{URL|www.example.com}} -->
+| footnotes = 
+| spouse = 
+| children = 
+}}
+'''Jacqueline Louise Whalley''' is a New Zealand academic, and is a full professor at the [[Auckland University of Technology]], specialising in software engineering and computer science education.
+
+==Academic career==
+
+Whalley trained as a chemist before concentrating on computer science and software engineering. She completed a Bachelor of Science at [[Massey University]] and a [[PhD]] titled ''Synthetic studies towards the total synthesis of sordaricin'' at the [[Australian National University]] in 1995.<ref>{{Cite thesis |url=http://hdl.handle.net/1885/139967 |date=1995 |last=Whalley |first=Jacqueline Louise |title=Synthetic studies towards the total synthesis of sordaricin |degree=PhD |publisher=Australian National University}}</ref> Her doctoral studies were supervised by [[Lew Mander]], and involved making computer predictions of the outcome of [[Diels–Alder reaction|Diels–Alder]] chemical reactions, after which she would test the predictions in the laboratory.<ref name=":0" /> Whalley undertook postdoctoral research at the [[University of St Andrews]] and [[Imperial College London|Imperial College]], working on [[positron emission tomography]] in medicinal chemistry for hormone-dependent cancers and neurological disease. Whalley completed a Master of Science with Distinction at the [[University of Kent]] in 2001, creating a molecular-level computer model of [[Creutzfeldt–Jakob disease|Creutzfeldt-Jakob disease]] for use in biomedical research.<ref name=":0">{{Cite web |last=Auckland University of Technology |title=Professor Jacqui Whalley, academic profile |url=https://academics.aut.ac.nz/jacqueline.whalley |access-date=2024-01-02 |website=academics.aut.ac.nz}}</ref> She joined the computing lab at the University of Kent, where she was the lead researcher on a European Union CRAFT [[Framework Programmes for Research and Technological Development|Framework 6]] grant developing a fisheries management system.<ref name=":0" />
+
+Whalley moved to Auckland University of Technology in 2004.<ref name=":0" /> From 2015 to 2015 she was the director of the Geoinformatics Research Centre, and from 2021 is co-director of the Software Engineering Research Lab. Whalley was promoted to full professor in 2023.<ref>{{Cite web |title=New professors and associate professors - AUT News - AUT |url=https://www.aut.ac.nz/news/stories/new-professors-and-associate-professors3 |access-date=2024-01-02 |website=www.aut.ac.nz}}</ref> 
+
+One of Whalley's research interests is the teaching of computer programming and software engineering. She has investigated how students learn to debug, and uses social science and psychology to study learning processes. Her research on assessment and learning taxonomies has affected how computer programming is taught to beginners in Australia and New Zealand.<ref>{{Cite web |last=Computing Research and Education Association of Australasia |title=Prof. Jacqueline Whalley |url=https://acsw.core.edu.au/speaker/professor-jacqueline-whalley |access-date=2024-01-02 |language=en-AU}}</ref><ref>{{Cite web |last=Auckland University of Technology |title=Jacqui Whalley - Research Interests |url=https://academics.aut.ac.nz/jacqueline.whalley/grants |access-date=2024-01-02 |website=academics.aut.ac.nz}}</ref>
+
+== Selected works ==
+{{scholia}}
+* {{CiteQ|Q124078353}}
+* {{CiteQ|Q124078352}}
+* {{CiteQ|Q33487595}}
+* {{CiteQ|Q114071380}}
+* {{CiteQ|Q124078354}}
+* {{CiteQ|Q124078352}}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Whalley, Jacqueline}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:New Zealand academics]]
+[[Category:New Zealand women academics]]
+[[Category:New Zealand chemists]]
+[[Category:New Zealand computer scientists]]
+[[Category:Massey University alumni]]
+[[Category:Australian National University alumni]]
+[[Category:Academic staff of the Auckland University of Technology]]
+[[Category:Alumni of the University of Kent]]

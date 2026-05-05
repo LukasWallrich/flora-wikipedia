@@ -1,0 +1,484 @@
+{{short description|Social and evolutionary psychology theory}}
+{{Psychology sidebar|concepts}}
+
+'''Terror management theory''' ('''TMT''') is a theory in [[social psychology|social]] and [[evolutionary psychology]] which proposes a basic psychological conflict stemming from two competing facts of human existence: the instinct for [[self-preservation]], and the realization that death is inevitable and to some extent unpredictable. This conflict produces [[anxiety|terror]]<!-- an alternate link would be [[fear]], but anxiety is specific to future events -->, which is often managed through [[escapism]] and cultural beliefs that counter biological reality with more significant and enduring forms of meaning and value—basically countering the personal insignificance represented by death with the significance provided by symbolic culture.<ref name="GPS">{{cite book | author = Greenberg, J. |author2=Pyszczynski, T. |author3=Solomon, S. | year = 1986 | editor = R. F. Baumeister | title = Public Self and Private Self | pages = 189–212 | location = New York | publisher = Springer-Verlag | chapter =The causes and consequences of a need for self-esteem: A terror management theory }}</ref><ref name="GPS91">{{cite journal | last1 = Solomon | first1 = S. | last2 = Greenberg | first2 = J. | last3 = Pyszczynski | first3 = T. | year = 1991 | title = A terror management theory of social behavior: The psychological functions of self-esteem and cultural worldviews | journal = Advances in Experimental Social Psychology | volume = 24 | issue = 93| page = 159 }}</ref>
+
+The most obvious examples of cultural values that assuage [[death anxiety]] are those that purport to offer literal [[immortality]] (e.g. belief in the [[afterlife]] through [[religion]]).<ref>{{cite journal | last1 = Jonas | first1 = E. | last2 = Fischer | first2 = P. | year = 2006 | title = Terror management and religion: evidence that intrinsic religiousness mitigates worldview defense following mortality salience | journal = Journal of Personality and Social Psychology | volume = 91 | issue = 3| pages = 553–567 | doi=10.1037/0022-3514.91.3.553 | pmid=16938037| s2cid = 45201747 }}</ref>  However, TMT also argues that other cultural values&nbsp;– including those that are seemingly unrelated to death&nbsp;– offer symbolic immortality.  For example, values of national identity,<ref name=":0" /> posterity,<ref>{{cite journal | last1 = Zhou | first1 = X. | last2 = Liu | first2 = J. | last3 = Chen | first3 = C. | last4 = Yu | first4 = Z. | year = 2008 | title = Do children transcend death? An examination of the terror management function of offspring | journal = [[Scandinavian Journal of Psychology]] | volume = 49 | issue = 5| pages = 413–418 | doi=10.1111/j.1467-9450.2008.00665.x| pmid = 18489534 }}</ref> cultural perspectives on sex,<ref name="Goldenberg, J. L. 2000">{{cite journal | last1 = Goldenberg | first1 = J. L. | last2 = Pyszczynski | first2 = T. | last3 = Greenberg | first3 = J. | last4 = Solomon | first4 = S. | year = 2000 | title = Fleeing the body: A terror management perspective on the problem of human corporeality | journal = Personality and Social Psychology Review | volume = 4 | issue = 3| pages = 200–218 | doi=10.1207/s15327957pspr0403_1| s2cid = 31331978 }}</ref> and human superiority over animals<ref name="Goldenberg, J. L. 2000"/> have  been linked to calming death concerns.  In many cases these values are thought to offer symbolic immortality, by either a) providing the sense that one is part of something greater that will ultimately outlive the individual (e.g. country, lineage, species), or b) making one's symbolic identity superior to biological nature (i.e. one is a [[personality]], which makes one more than a mere collection of cells).<ref>{{cite book| last1 = Solomon| first1 = S. | last2 = Pyszczynski| first2 = T. |last3 = Greenberg | first3 = J. |year = 2015 | title = The Worm at the Core: On the Role of Death in Life | publisher = Random House}}</ref>
+Because cultural values influence what is meaningful, they are foundational for [[self-esteem]]. TMT describes self-esteem as being the personal, subjective measure of how well an individual is living up to their cultural values.<ref name=GPS91/>
+
+Terror management theory was developed by [[Jeff Greenberg (professor)|Jeff Greenberg]], [[Sheldon Solomon]], and [[Tom Pyszczynski]]<ref name="GPS" /> and is codified in their book ''The Worm at the Core: On the Role of Death in Life'' (2015). However, the idea of TMT originated from [[Anthropology|anthropologist]] [[Ernest Becker]]'s 1973&nbsp;[[Pulitzer Prize]]-winning work of nonfiction ''[[The Denial of Death]].'' Becker argues most human action is taken to ignore or avoid the inevitability of death.<ref>{{Cite web|title=Terror Management Theory – Ernest Becker Foundation|url=https://ernestbecker.org/resources/terror-management-theory/|access-date=2022-01-21|website=ernestbecker.org|language=en-US|archive-date=2022-01-21|archive-url=https://web.archive.org/web/20220121215125/https://ernestbecker.org/resources/terror-management-theory/|url-status=dead}}</ref> The terror of absolute annihilation creates such a profound&nbsp;– albeit subconscious&nbsp;– anxiety in people that they spend their lives attempting to make sense of it. On large scales, societies build symbols: [[Laws]], [[religion and happiness|religious meanings]], [[culture]]s, and [[belief system]]s to explain the significance of life, define what makes certain characteristics, skills, and talents extraordinary, reward others whom they find to exemplify certain attributes, and punish or kill others who do not adhere to their cultural [[worldview]]. Adherence to these created "[[symbol]]s" aids in relieving [[Psychological stress|stress]]es associated with the reality of mortality.<ref>{{Cite web|last1=Arrowood |first1=Robert B. |last2=Pope |first2=J. Brian |date=2014 |title=Terror management theory: A theoretical perspective on origination, maintenance, and research|url=https://scholar.utc.edu/cgi/viewcontent.cgi?article=1340&context=mps}}</ref> On an individual level, self-esteem provides a buffer against death-related anxiety.
+
+==Background==
+{{Quote box
+ | width = 30%
+ | quote  = The idea of death, the fear of it, haunts the human animal like nothing else; it is a mainspring of human activity designed largely to avoid the fatality of death, to overcome it by denying in some way that it is the final destiny for man.
+| source = Ernest Becker, 1973<ref>Becker, p. ix.</ref>
+}}
+
+In the 1st century CE, [[Statius]] in his [[Thebaid (Latin poem) | ''Thebaid'']] suggested that "fear first made gods in the world".<ref>
+{{cite book
+ |author1              = Statius
+ |editor1              = David Roy Shackleton Bailey
+ |editor1-link         = D. R. Shackleton Bailey
+ |translator1          = David Roy Shackleton Bailey
+ |year                 = 2004
+ |chapter              = Book 3, line 661
+ |title                = Thebaid, Books 1-7
+ |url                  = https://books.google.com/books?id=_3ExP-WzkJYC
+ |series               = Loeb classical library, Volume 207
+ |publication-place    = Cambridge, Massachusetts
+ |publisher            = Harvard University Press
+ |pages                = 198–199
+ |isbn                 = 9780674012080
+ |access-date          = 29 October 2023
+ |quote                = ''Primus in orbe deos fecit timor!'' [...] Fear first made gods in the world.
+}} 
+</ref>
+
+[[Cultural anthropology |Cultural anthropologist]] Ernest Becker asserted in his 1973&nbsp;book ''The Denial of Death'' that humans, as intelligent animals, are able to grasp the inevitability of death. They therefore spend their lives building and believing in cultural elements that illustrate how to make themselves stand out as individuals and to give their lives significance and meaning.<ref>{{Cite journal|last1= Landau|first1= Mark J.|last2= Solomon|first2= Sheldon|last3= Pyszczynski |first3= Tom|last4= Greenberg|first4= Jeff|date= 2007-07-01|title= On the Compatibility of Terror Management Theory and Perspectives on Human Evolution|journal=Evolutionary Psychology|volume= 5|issue= 3|pages= 147470490700500|doi= 10.1177/147470490700500303|s2cid= 2548801 |issn= 1474-7049|doi-access= free}}</ref> Death creates an anxiety in humans; it strikes at unexpected and random moments, and its nature is essentially unknowable, causing people to spend most of their time and energy to explain, forestall, and avoid it.<ref>Becker, pp. ix–xiv.</ref>
+
+Becker expounded upon the previous writings of [[Sigmund Freud]], [[Søren Kierkegaard]], [[Norman&nbsp;O.&nbsp;Brown]], and [[Otto Rank]]. According to clinical psychiatrist [[Morton Levitt]], Becker replaces the Freudian preoccupation with [[Human sexuality| sexuality]] with the fear of death as the primary motivation in human behavior.<ref>Levitt, Morton (July 1974). "Reviewed work(s): The Denial of Death by Ernest Becker", ''Annals of the American Academy of Political and Social Science'', Vol. 414, USA-USSR: Agenda for Communication, pp. 200–201.</ref>
+
+People desire to think of themselves as beings of value and worth with a feeling of permanence, a concept in [[psychology]] known as [[self-esteem]]. This feeling counters the [[cognitive dissonance]] created by an individual's realization that they may be no more important than any other living thing. Becker refers to high self-esteem as heroism: {{blockquote| the problem of heroics is the central one of human life, that it goes deeper into human nature than anything else because it is based on organismic [[narcissism]] and on the child's need for self-esteem as ''the'' condition for his life. Society itself is a codified hero system, which means that society everywhere is a living myth of the significance of human life, a defiant creation of meaning.<ref>Becker, p. 7.</ref>}}
+
+The rationale behind decisions regarding one's own health can be explored through a terror-management model. A 2008 research article in ''[[Psychological Review]]'' proposes a three-part model for understanding how awareness of death can ironically subvert health-promoting behaviors by redirecting one's focus towards behaviors that build self-esteem instead:
+
+{{quote|Proposition 1 suggests that conscious thoughts about death can instigate health-oriented responses aimed at removing death-related thoughts from current focal attention. Proposition 2 suggests that the unconscious resonance of death-related cognition promotes self-oriented defenses directed toward maintaining, not one's health, but a sense of meaning and self-esteem. The last proposition suggests that confrontations with the physical body may undermine symbolic defenses and thus present a previously unrecognized barrier to health promotion activities.<ref name=model>{{cite journal | last1 = Goldenberg | first1 = J. L. | last2 = Arndt | first2 = J. | year = 2008 | title = The Implications of death for health: A terror management health model for behavioral health promotion | journal = Psychological Review | volume = 115 | issue = 4 | pages = 1032–1053 | doi=10.1037/a0013326 | pmid = 18954213 }}</ref>}}
+
+===Evolutionary backdrop===
+Terror-management theorists regard TMT as compatible with the [[theory of evolution]]:<ref name = "Landau"/> Valid fears of dangerous things have an adaptive function that helped facilitate the survival of our ancestors' genes. However, generalized existential anxiety resulting from the clash between a desire for life and awareness of the inevitability of death is neither adaptive nor selected for. TMT views existential anxiety as an unfortunate byproduct of these two highly adaptive human proclivities rather than as an adaptation that the evolutionary process selected for its advantages. Just as human [[bipedalism]] confers advantages as well as disadvantages, [[death anxiety]] is an inevitable part of our intelligence and awareness of dangers.
+
+Evolutionary history also indicates that "the costs of ignoring threats have outweighed the costs of ignoring opportunities for self-development."<ref>{{cite book|title= Handbook Of Experimental Existential Psychology|page= 91|chapter-url= https://books.google.com/books?id=j_KMRe9wK2MC&pg=PA91|access-date= 2013-08-18|chapter= Paradise Lost and Reclaimed|last1= Koole| first1= Sander L.|last2= van den Berg|first2= Agnes E.|editor1-last= Greenberg|editor1-first= Jeff|editor2-last= Koole |editor2-first= Sander L.|editor3-last= Pyszczynski|editor3-first= Tom|year= 2004|publisher= [[Guilford Press]]|location= New York|isbn= 978-1-59385-040-1}}</ref>
+
+==Self-esteem==
+[[Self-esteem]] lies at the heart of TMT and is a fundamental aspect of its core paradigms. TMT fundamentally seeks to elucidate the causes and consequences of a need for self-esteem. Theoretically, it draws heavily from [[Ernest Becker]]'s conceptions of culture and self-esteem.<ref>{{cite book |last=Becker |first=Ernest |year=1971 |title=The birth and death of meaning |edition=2nd |place=New York |publisher=The Free Press }}</ref><ref>{{cite book |last=Becker |first=Ernest |year=1973 |title=The Denial of Death |edition=1st |place=New York |publisher=The Free Press }}</ref> TMT not only attempts to explain the concept of self-esteem, it also tries to explain ''why'' we need self-esteem.<ref name="self-esteem">{{cite journal
+ | last1 = Pyszczynski | first1 = T.
+ | last2 = Greenberg | first2 = J.
+ | last3 = Solomon | first3 = S.
+ | last4 = Arndt | first4 = J.
+ | last5 = Schimel | first5 = J.
+ | year = 2004
+ | title = Why do people need self-esteem? A theoretical and empirical review
+ | journal = Psychological Bulletin | number=130 | pages=435–468 | doi=10.1037/0033-2909.130.3.435
+ | pmid = 15122930
+ | volume=130
+ | s2cid = 1780005
+ }}</ref> One explanation is that self-esteem is used as a coping mechanism for anxiety. It helps people control their sense of terror and nullify the realization that humans are just animals trying to manage the world around them. According to TMT, self-esteem is a sense of personal value that is created by beliefs in the validity of one's cultural worldview, and the belief that one is living up to the cultural standards created by that worldview.<ref name = "self-esteem"/>
+
+Critically, Hewstone ''et al.'' (2002) have questioned the causal direction between self-esteem and death anxiety, evaluating whether one's self-esteem comes from their desire to reduce their death anxiety, or if death anxiety arises from a lack of self-esteem.<ref name=Hew>{{cite journal | last1 = Hewstone | first1 = M. | last2 = Rubin | first2 = M. | last3 = Willis | first3 = H. | year = 2002 | title = Intergroup bias | journal = Annual Review of Psychology | volume = 53 | pages = 575–604 | doi = 10.1146/annurev.psych.53.100901.135109 | pmid = 11752497 | s2cid = 11830211 }}</ref> In other words, an individual's suppression of death anxiety may arise from their overall need to increase their self-esteem in a positive manner.<ref name="Hew"/>
+
+Research has demonstrated that self-esteem can play an important role in physical health. In some cases, people may be so concerned with their physical appearance and boosting their self-esteem that they ignore problems or concerns with their own physical health.<ref name=arndt>{{cite journal | last1 = Arndt | first1 = J. | last2 = Cox | first2 = C. R. | last3 = Goldenberg | first3 = J. L. | last4 = Vess | first4 = M. | last5 = Routledge | first5 = C. | last6 = Cooper | first6 = D. P. | last7 = Cohen | first7 = F. | year = 2009 | title = Blowing in the (social) wind: Implications of extrinsic esteem contingencies for terror management and health | journal = Journal of Personality and Social Psychology | volume = 96 | issue = 6| pages = 1191–1205 | doi = 10.1037/a0015182 | pmid=19469596}}</ref> Arndt ''et al.'' (2009) conducted three studies to examine how peer perceptions and social acceptance of smokers contributes to their quitting, as well as if, and why these people continue smoking for outside reasons, even when faced with thoughts of death and anti-smoking prompts.<ref name="arndt"/> Tanning and exercising were also looked at in the researchers' studies. The studies found that people are influenced by the situations around them.<ref name="arndt"/>  Specifically, Arndt ''et al.'' (2009) found in terms of their self-esteem and health, that participants who saw someone exercising were more likely to increase their intentions to exercise.<ref name="arndt"/> In addition, the researchers found in study two that how participants reacted to an anti-smoking commercial was affected by their motivation for smoking and the situation which they were in. For instance, people who smoked for extrinsic reasons and were previously prompted with death reminders were more likely to be compelled by the anti-smoking message.<ref name="arndt"/>
+
+===Self-esteem as anxiety buffer===
+An individual's level of self-consciousness can affect their views on life and death. To a point, increasing self-consciousness is adaptive in that it helps prevent awareness of danger. However, research has demonstrated that there may be [[diminishing returns]] from this phenomenon.<ref name="GPS91"/> Individuals with higher levels of self-consciousness sometimes have increased death cognition, and a more negative outlook on life, than those with reduced self-consciousness.<ref name=anxiety>{{cite journal | last1 = Taubman-Ben-Ari | first1 = O. | last2 = Noy | first2 = A. | year = 2010 | title = Self-consciousness and death cognitions from a terror management perspective | journal = Death Studies | volume = 34 | issue = 10| pages = 871–892 | doi = 10.1080/07481187.2010.496685 | pmid = 24482853 | s2cid = 24026354 }}</ref>
+
+Conversely, self-esteem can work in the opposite manner. Research has confirmed that individuals with higher self-esteem, particularly in regard to their behavior, have a more positive attitude towards their life. Specifically, death cognition in the form of anti-smoking warnings weren't effective for smokers and in fact, increased their already positive attitudes towards the behavior.<ref name="morality">{{cite journal | last1 = Hansen | first1 = J. | last2 = Winzeler | first2 = S. | last3 = Topolinski | first3 = S. | year = 2010 | title = When the death makes you smoke: A terror management perspective on the effectiveness of cigarette on-pack warnings | journal = Journal of Experimental Social Psychology | volume = 46 | issue = 1| pages = 226–228 | doi = 10.1016/j.jesp.2009.09.007 }}</ref> The reasons behind individuals' optimistic attitudes towards smoking after mortality was made salient, indicate that people use positivity as a buffer against anxiety. Continuing to hold certain beliefs even after they are shown to be flawed creates [[cognitive dissonance]] regarding current information and past behavior, and one way to alleviate this is to simply reject new information. Therefore, anxiety buffers such as self-esteem allow individuals to cope with their fears more easily. Death cognition may in fact cause [[negative reinforcement]] that leads people to further engage in dangerous behaviors (smoking in this instance) because accepting the new information would lead to a loss of self-esteem, increasing vulnerability and awareness of mortality.<ref name="morality"/>
+
+==Mortality salience==
+{{Main|mortality salience}}
+The [[mortality salience]] hypothesis&nbsp;(MS) states that if indeed one's cultural worldview, or one's self-esteem, serves a death-denying function, then threatening these constructs should produce defenses aimed at restoring psychological equanimity (i.e.,&nbsp;returning the individual to a state of feeling invulnerable). In the MS&nbsp;paradigm, these "threats" are simply experiential reminders of one's own death. This can, and has, taken many different forms in a variety of study paradigms (e.g.,&nbsp;asking participants to write about their own death;<ref name=GPS/> conducting the experiment near funeral homes or cemeteries;<ref>{{cite journal | last1 = Pyszczynski | first1 = T. | last2 = Wicklund | first2 = R. A. | last3 = Floresku | first3 = S. | last4 = Koch | first4 = H. | last5 = Gauch | first5 = G. | last6 = Solomon | first6 = S. | last7 = Greenberg | first7 = J. | year = 1996 | title = Whistling in the dark: Exaggerated consensus estimates in response to incidental reminders of mortality | journal = Psychological Science | volume = 7 | issue = 6| pages = 332–336 | doi = 10.1111/j.1467-9280.1996.tb00384.x | s2cid = 12709488 }}</ref> having participants watch graphic depictions of death,<ref name = "Green 1994">{{cite journal | last1 = Greenberg | first1 = J. | last2 = Pyszczynski | first2 = T. | last3 = Solomon | first3 = S. | last4 = Simon | first4 = L. | last5 = Breus | first5 = M. | year = 1994 | title = Role of consciousness and accessibility of death-related thoughts in mortality salience effects | journal = Journal of Personality and Social Psychology | volume = 67 | issue = 4| pages = 627–637 | doi = 10.1037/0022-3514.67.4.627 | pmid = 7965609 | s2cid = 37679370 }}</ref> etc.). Like the other TMT hypotheses, the literature supporting the MS hypothesis is vast and diverse. For a [[meta-analysis]] of MS&nbsp;research, see Burke ''et al.'' (2010).<ref name = Burke>{{cite journal | last1 = Burke | first1 = B. L. | last2 = Martens | first2 = A. | last3 = Faucher | first3 = E. H. | year = 2010 | title = Two decades of terror management theory: A meta-analysis of mortality salience research | journal = Personality and Social Psychology Review | volume = 14 | issue = 2| pages = 155–195 | doi=10.1177/1088868309352321 | pmid=20097885| s2cid = 206682555 }}</ref>
+
+Experimentally, the MS&nbsp;hypothesis has been tested in close to 200&nbsp;empirical articles.<ref name = Burke/> After participants in an experiment are asked to write about their own death (vs.&nbsp;a neutral, non-death control topic, such as dental pain), and then following a brief delay (distal, worldview/self-esteem defenses work the best after a delay; see Greenberg ''et al.'' (1994)<ref name="Green 1994"/> for a discussion), the participants' defenses are measured. In one early TMT study assessing the MS&nbsp;hypothesis, Greenberg ''et al.'' (1990)<ref name=":0">{{cite journal | last1 = Greenberg | first1 = J. | last2 = Pyszczynski | first2 = T. | last3 = Solomon | first3 = S. | last4 = Rosenblatt | first4 = A. | last5 = Veeder | first5 = M. | last6 = Kirkland | first6 = S. | last7 = Lyon | first7 = D. | year = 1990 | title = Evidence for terror management&nbsp;II: The effects of mortality salience on reactions to those who threaten or bolster the cultural worldview | journal = Journal of Personality and Social Psychology | volume = 58 | issue = 2| pages = 308–318 | doi=10.1037/0022-3514.58.2.308| citeseerx = 10.1.1.454.2378 }}</ref> had Christian participants evaluate other Christian and Jewish students that were similar demographically, but differed in their religious affiliation. After being reminded of their death (experimental MS&nbsp;induction), Christian participants evaluated fellow Christians more positively, and Jewish participants more negatively, relative to the control condition.<ref name=religion>{{cite journal | last1 = Harmon-Jones | first1 = E. | last2 = Simon | first2 = L. | last3 = Greenberg | first3 = J. | last4 = Pyszczynski | first4 = T. | last5 = Solomon | first5 = S. | last6 = McGregor | first6 = H. | year = 1997 | title = Terror management theory and self-esteem: Evidence that increased self-esteem reduces mortality salience effects | journal = Journal of Personality and Social Psychology | volume = 72 | issue = 1| pages = 24–36 | doi=10.1037/0022-3514.72.1.24| pmid = 9008372 | s2cid = 32261410 }}</ref> Conversely, bolstering self-esteem in these scenarios leads to less worldview defense and derogation of dissimilar others.<ref name="religion"/>
+
+Mortality salience has an influence on individuals and their decisions regarding their health. Cox ''et al.'' (2009) discuss mortality salience in terms of suntanning. Specifically, the researchers found that participants who were prompted with the idea that pale was more socially attractive, along with mortality reminders, tended to lean towards decisions that resulted in more protective measures from the sun.<ref name="cox">{{cite journal | last1 = Cox | first1 = C. R. | last2 = Cooper | first2 = D. P. | last3 = Vess | first3 = M. | last4 = Arndt | first4 = J. | last5 = Goldenberg | first5 = J. L. | last6 = Routledge | first6 = C. | year = 2009 | title = Bronze is beautiful but pale can be pretty: The effects of appearance standards and mortality salience on sun-tanning outcomes | journal = Health Psychology | volume = 28 | issue = 6| pages = 746–752 | doi = 10.1037/a0016388 | pmid = 19916643 }}</ref> The participants were placed in two different conditions; one group of participants were given an article relating to the fear of death, while the control group received an article unrelated to death, dealing with the fear of public speaking.<ref name="cox"/> Additionally, they gave one group an article pertaining to the message that "bronze is beautiful", one relating to the idea that "pale is pretty", and one neutral article that did not speak of tan or pale skin tones.<ref name="cox"/> Finally, after introducing a delay activity, the researchers gave the participants a five-item questionnaire asking them about their future sun-tanning behaviors. The study illustrated that when tan skin was associated with attractiveness, mortality salience positively affected people's intentions to suntan; however, when pale skin was associated with attractiveness, people's intentions to tan decreased.<ref name="cox"/>
+
+===Mortality and self-esteem on health risks===
+Studies have shown that mortality and self-esteem are important factors of the terror management theory. Jessop ''et al.'' (2008) study this relationship within four studies that all examine how people react when they are given information on risks, specifically, in terms of the mortality related to the risks of driving.<ref name=ms>{{cite journal | last1 = Jessop | first1 = D. C. | last2 = Albery | first2 = I. P. | last3 = Rutter | first3 = J. | last4 = Garrod | first4 = H. | year = 2008 | title = Understanding the impact of mortality-related health-risk information: A terror management theory perspective | journal = Personality and Social Psychology Bulletin | volume = 34 | issue = 7| pages = 951–964 | doi = 10.1177/0146167208316790 | pmid = 18453389 | s2cid = 10585949 }}</ref> More specifically, the researchers were exploring how participants acted in terms of self-esteem, and its impact on how mortality-related health-risk information would be received.<ref name="ms"/> Overall, Jessop ''et al.'' (2008) found that even when mortality is prominent, people who engage in certain behaviors to improve their self-esteem have a greater chance of continuing with these activities.<ref name="ms"/> Mortality and self-esteem are both factors that influence people's behaviors and decision-making regarding their health. Furthermore, individuals who are involved in behaviors and possess motivation to enhance their self-worth are less likely to be affected by the importance placed on health risks, in terms of mortality.<ref name="ms"/>
+
+Self-esteem is important when mortality is made salient. It can allow people a coping mechanism, one that can cushion individuals' fears; and thus, impacting one's attitudes towards a given behavior.<ref name="morality"/> Individuals who have higher levels of self-esteem regarding their behavior(s) are less likely to have their attitudes, and thus their behaviors changed regardless of mortality salience or death messages.<ref name="morality"/> People will use their self-esteem to hide behind their fears of dying. In terms of smoking behaviors, people with higher smoking-based self-esteem are less susceptible to anti-smoking messages that relate to death; therefore, mortality salience and death warnings afford them with an even more positive outlook on their behavior, or in this instance their smoking.<ref name="morality"/>
+
+In the Hansen ''et al.'' (2010) experiment the researchers manipulated mortality salience. In the experiment, Hansen ''et al.'' (2010) examined smokers' attitudes towards the behavior of smoking. Actual warning labels were utilized to create mortality salience in this specific experiment. The researchers first gave participants a questionnaire to measure their smoking-based self-esteem.<ref name="morality"/> Following the questionnaire, participants were randomly assigned to two different conditions; the first were given anti-smoking warning labels about death and the second control group were exposed to anti-smoking warning labels not dealing with death.<ref name="morality"/> Before the participants' attitudes towards smoking were taken the researchers introduced an unrelated question to provide a delay. Further research has demonstrated that delays allow mortality salience to emerge because thoughts of death become non-conscious.<ref name="morality"/> Finally, participants were asked questions regarding their intended future smoking behavior.<ref name="morality"/>
+
+===Social influences===
+Many people are more motivated by social pressures, rather than health risks. Specifically for younger people, mortality salience is stronger in eliciting changes of one's behavior when it brings awareness to the immediate loss of social status or position, rather than a loss, such as death that one can not imagine and feels far off.<ref name=social>{{cite journal | last1 = Martin | first1 = I. M. | last2 = Kamins | first2 = M. A. | year = 2010 | title = An application of terror management theory in the design of social and health-related anti-smoking appeals | journal = Journal of Consumer Behaviour | volume = 9 | issue = 3| pages = 172–190 | doi = 10.1002/cb.293 }}</ref> However, there are many different factors to take into consideration, such as how strongly an individual feels toward a decision, his or her level of self-esteem, and the situation around the individual. Particularly with people's smoking behaviors, self-esteem and mortality salience have different effects on individuals' decisions.  In terms of the longevity of their smoking decisions, it has been seen that individuals' smoking habits are affected, in the short-term sense, when they are exposed to mortality salience that interrelates with their own self-esteem.  Moreover, people who viewed [[social exclusion]] prompts were more likely to quit smoking in the long run than those who were simply shown health-effects of smoking.<ref name="social"/> More specifically, it was demonstrated that when individuals had high levels of self-esteem they were more likely to quit smoking following the social pressure messages, rather than the health risk messages.<ref name="social"/>  In this specific instance, terror management, and specifically mortality salience is showing how people are more motivated by the social pressures and consequences in their environment, rather than consequences relating to their health. This is mostly seen in young adult smokers with higher smoking-based self-esteems who are not thinking of their future health and the less-immediate effects of smoking on their health.<ref name="social"/>
+
+==Death thought accessibility==
+Another paradigm that TMT&nbsp;researchers use to get at unconscious concerns about death is what is known as the death thought accessibility&nbsp;(DTA) hypothesis. Essentially, the DTA&nbsp;hypothesis states that if individuals are motivated to avoid cognitions about death, and they avoid these cognitions by espousing a worldview or by buffering their self-esteem, then when threatened, an individual should possess more death-related cognitions (e.g.,&nbsp;thoughts about death, and death-related stimuli) than they would when not threatened.<ref name = "Hayes" >{{cite journal | last1 = Hayes | first1 = J. | last2 = Schimel | first2 = J. | last3 = Ardnt | first3 = J. | last4 = Faucher | first4 = E. | year = 2010 | title = A Theoretical and Empirical Review of the Death Thought Accessibility Concept in Terror Management Research | journal = Psychological Bulletin | volume = 136 | issue = 5| pages = 699–739 | doi=10.1037/a0020524 | pmid=20804234}}</ref>
+
+The DTA hypothesis has its origins in work by Greenberg ''et al.'' (1994)<ref name = "Green 1994"/> as an extension of their earlier terror management hypotheses (i.e.,&nbsp;the anxiety buffer hypothesis and the mortality salience hypothesis). The researchers reasoned that if, as indicated by [[Daniel Wegner|Wegner's]] research on [[thought suppression]] (1994; 1997), thoughts that are purposely suppressed from conscious awareness are often brought back with ease, then following a delay death-thought cognitions should be more available to consciousness than (a)&nbsp;those who keep the death-thoughts in their consciousness the whole time, and (b)&nbsp;those who suppress the death-thoughts but are not provided a delay. That is precisely what they found. However, other psychologists have failed to replicate these findings.<ref>{{cite journal|last=Trafimow|first=David|author2=Jamie S. Hughes |title=Testing the Death Thought Suppression and Rebound Hypothesis|journal=Social Psychological and Personality Science|date=September 2012|volume=3|issue=5|pages=622–629|doi=10.1177/1948550611432938|s2cid=146202248}}</ref>
+
+In these initial studies (i.e.,&nbsp;Greenberg ''et al.'' (2004); Arndt ''et al.'' (1997)<ref>{{cite journal | last1 = Arndt | first1 = J. | last2 = Greenberg | first2 = J. | last3 = Pyszczynski | first3 = T. | last4 = Solomon | first4 = S. | year = 1997 | title = Subliminal exposure to death-related stimuli increases defense of the cultural worldview | journal = Psychological Science | volume = 8 | issue = 5| pages = 379–385 | doi=10.1111/j.1467-9280.1997.tb00429.x| s2cid = 145101319 }}</ref>), and in numerous subsequent DTA studies, the main measure of DTA is a word fragment task, whereby participants can complete word fragments in distinctly death-related ways (e.g.,&nbsp;coff_&nbsp;_ as coffin, not coffee) or in non death-related ways (e.g.,&nbsp;sk_&nbsp;_l as skill, not skull).<ref name="TMHM">{{cite journal | last1 = Cooper | first1 = D. P. | last2 = Goldenberg | first2 = J. L. | last3 = Arndt | first3 = J. | year = 2011 | title = Empowering the self: Using the terror management health model to promote breast self-examination | journal = Self and Identity | volume = 10 | issue = 3| pages = 315–325 | doi = 10.1080/15298868.2010.527495| s2cid = 140520175 }}</ref> 
+
+===Importance of the Death Thought Accessibility hypothesis===
+
+The introduction of this hypothesis has refined TMT, and led to new avenues of research that formerly could not be assessed due to the lack of an empirically validated way of measuring death-related cognitions. Also, the differentiation between proximal (conscious, near, and threat-focused) and distal (unconscious, distant, symbolic) defenses that have been derived from DTA studies have been extremely important in understanding how people deal with their terror.<ref>{{cite journal | last1 = Pyszczynski | first1 = T. | last2 = Greenberg | first2 = J. | last3 = Solomon | first3 = S. | year = 1999 | title = A dual-process model of defense against conscious and unconscious death-related thoughts: An extension of terror management theory | journal = Psychological Review | volume = 106 | issue = 4| pages = 835–845 | doi=10.1037/0033-295x.106.4.835| pmid = 10560330 | s2cid = 2655060 }}</ref>
+
+It is important to note how the DTA paradigm subtly alters, and expands, TMT as a motivational theory. Instead of solely manipulating mortality and witnessing its effects (e.g., [[nationalism]], increased prejudice, [[Safe sex|risky sexual behavior]], etc.), the DTA paradigm allows a measure of the death-related cognitions that result from various affronts to the self. Examples include threats to self-esteem and to one's worldview; the DTA paradigm can therefore assess the role of death-thoughts in self-esteem and worldview defenses. Furthermore, the DTA hypothesis lends support to TMT in that it corroborates its central hypothesis that death is uniquely problematic for human beings, and that it is fundamentally different in its effects than meaning threats (i.e., Heine ''et al.'', 2006<ref name = "Heine">{{cite journal | last1 = Heine | first1 = S. J. | last2 = Proulx | first2 = T. | last3 = Vohs | first3 = K. D. | year = 2006 | title = The meaning maintenance model: On the coherence of human motivations | journal = Personality and Social Psychology Review | volume = 10 | issue = 2| pages = 88–110 | doi=10.1207/s15327957pspr1002_1| pmid = 16768649 | citeseerx = 10.1.1.434.4237 | s2cid = 899167 }}</ref>) and that is death itself, and not uncertainty and lack of control associated with death; Fritsche ''et al.'' (2008) explore this idea.<ref>{{cite journal | last1 = Fritsche | first1 = I. | last2 = Jonas | first2 = E. | last3 = Fankhänel | first3 = T. | year = 2008 | title = The role of control motivation in mortality salience effects on ingroup support and defense | journal = Journal of Personality and Social Psychology | volume = 95 | issue = 3| pages = 524–541 | doi=10.1037/a0012666 | pmid=18729692}}</ref>
+
+Since its inception, the DTA hypothesis had been rapidly gaining ground in TMT investigations, and as of 2009, has been employed in over 60 published papers, with a total of more than 90 empirical studies.<ref name = "Hayes"/>
+
+===Death anxiety on health promotion===
+
+How people respond to their fears and anxiety of death is investigated in TMT. Moreover, Taubman-Ben-Ari and Noy (2010) examine the idea that a person's level of self-awareness and self-consciousness should be considered in relation to their responses to their anxiety and death cognitions.<ref name="anxiety"/> The more an individual is presented with their death or death cognitions in general, the more fear and anxiety one may have; therefore, to combat said anxiety one may implement anxiety buffers.<ref name="anxiety"/>
+
+Due to a change in people's lifestyles, in the direction of more unhealthy behaviors, the leading causes of death now, being [[cancer]] and [[Cardiovascular disease|heart disease]], most definitely are related to individuals' unhealthy behaviors (though the statement is over-generalizing and certainly cannot be applied to every case).<ref name="death anxiety">{{cite journal | last1 = Bozo | first1 = Ö. | last2 = Tunca | first2 = A. | last3 = Şİmşek | first3 = Y. | year = 2009 | title = The effect of death anxiety and age on health- promoting behaviors: A terror-management theory perspective | journal = Journal of Psychology: Interdisciplinary and Applied | volume = 143 | issue = 4| pages = 377–389 | doi = 10.3200/JRLP.143.4.377-389 | pmid = 19606644 | s2cid = 9927722 | hdl = 11511/48109 | hdl-access = free }}</ref> Age and death anxiety both are factors that should be considered in the terror management theory, in relation to health-promoting behaviors. Age undoubtedly plays some kind of role in people's health-promoting behaviors; however, an actual age-related effect on death anxiety and health-promoting behaviors has yet to be seen. Although research has demonstrated that for young adults only, when they were prompted with death related scenarios, they yielded more health-promoting behaviors, compared to those participants in their sixties. In addition, death anxiety has been found to have an effect for young adults, on their behaviors of health promotion.<ref name="death anxiety"/>
+
+==Terror management health model==
+The terror management health model (TMHM) explores the role that death plays on one's health and behavior. Goldenberg and Arndt (2008) state that the TMHM proposes the idea that death, despite its threatening nature, is in fact instrumental and purposeful in the conditioning of one's behavior towards the direction of a longer life.<ref name="model" />
+
+According to Goldenberg and Arndt (2008), certain health behaviors such as [[Breast self-examination|breast self-exam]]s (BSEs) can consciously activate and facilitate people to think of death, especially their own death.<ref name="model" /> While death can be instrumental for individuals, in some cases, when breast self-exams activate people's death thoughts an obstacle can present itself, in terms of health promotion, because of the experience of fear and threat.<ref name="model" /> Abel and Kruger (2009) have suggested that the stress caused by increased awareness of mortality when celebrating one's birthday might explain the [[birthday effect]], where mortality rates seem to spike around these days.<ref name="MLB">{{cite journal|title=Mortality Salience of Birthdays on Day of Death in the Major Leagues|first1=Ernest|last1=Abel|first2=Michael|last2=Kruger|journal=Death Studies|year=2009|volume=33|issue=2|pages=175–184|doi=10.1080/07481180802138936|pmid=19143110|s2cid=8439436}}</ref>
+
+On the other hand, death and thoughts of death can serve as a way of empowering the self, not as threats. Researchers, Cooper ''et al.'' (2011) explored TMHM in terms of empowerment, specifically using BSEs under two conditions; when death thoughts were prompted, and when thoughts of death were non-conscious.<ref name="TMHM"/> According to TMHM, people's health decisions, when death thoughts are not conscious, should be based on their motivations to act appropriately, in terms of the self and identity.<ref name="TMHM" /> Cooper ''et al.'' (2011) found that when mortality and death thoughts were primed, women reported more empowerment feelings than those who were not prompted before performing a BSE.<ref name="TMHM" />
+
+Additionally, TMHM suggests that mortality awareness and self-esteem are important factors in individuals' decision making and behaviors relating to their health. TMHM explores how people will engage in behaviors, whether positive or negative, even with the heightened awareness of mortality, in the attempt to conform to society's expectations and improve their self-esteem.<ref name="cox"/> The TMHM is useful in understanding what motivates individuals regarding their health decisions and behaviors.
+
+In terms of smoking behaviors and attitudes, the impact of warnings with death messages depends on:
+# The individuals' level of smoking-based self-esteem
+# The warnings' actual degree of death information<ref name="morality"/>
+
+== Emotion ==
+People with low self-esteem have more negative emotions when reminded of death compared to people with high self-esteem. A possible explanation posits that these individuals lack the very defenses that TMT argues protect people from mortality concerns (e.g., solid worldviews). In contrast, positive mood states are not impacted by death thoughts for people of low or high self-esteem.<ref>{{cite journal|last=Routledge|first=C. |author2=Ostafin, B. |author3=Juhl, J. |author4=Sedikides, C. |author5=Cathey, C.  |author6=Liao, J.|title=The effects of self-esteem and mortality salience on well-being, growth motivation, and maladaptive behavior|journal=Journal of Personality and Social Psychology|year=2010|pages=897–916|doi=10.1037/a0021431 |volume=99 |issue=6 |pmid=21114350|citeseerx=10.1.1.465.8476 }}</ref>
+
+==Leadership==
+It has been suggested that culture provides  meaning, organization, and a coherent world-view that diminishes the psychological terror caused by the knowledge of eventual death. The terror management theory can help to explain why a leader's popularity can grow substantially during times of crisis. When a follower's mortality is made prominent they will tend to show a strong preference for iconic leaders. An example of this occurred when [[George&nbsp;W.&nbsp;Bush]]'s [[United States presidential approval rating|approval rating]] jumped almost 50&nbsp;percent following the [[September&nbsp;11&nbsp;attacks]] in the United States. As Forsyth (2009) posits, this tragedy made U.S.&nbsp;citizens aware of their mortality, and Bush provided an antidote to these existential concerns by promising to bring justice to the terrorist group responsible for the attacks.
+
+Researchers Cohen ''et al.'' (2004), in their particular study on TMT, tested the preferences for different types of leaders, while reminding people of their mortality. Three different candidates were presented to participants. The three leaders were of three different types: task-oriented (emphasized setting goals, strategic planning, and structure), relationship-oriented (emphasized [[compassion]], trust, and confidence in others), and [[charisma]]tic. The participants were then placed in one of two conditions: mortality salient or control group. In the former condition the participants were asked to describe the emotions surrounding their own death, as well as the physical act of the death itself, whereas the [[control group]] were asked similar questions about an upcoming exam. The results of the study were that the charismatic leader was favored more, and the relationship-oriented leader was favored less, in the mortality-salient condition. Further research has shown that mortality salient individuals also prefer leaders who are members of the same group, as well as men rather than women (Hoyt ''et al.'' 2010). This has links to [[social role theory]].
+
+==Religion==
+TMT posits that religion was created as a means for humans to cope with their own mortality. Supporting this, arguments in favor of life after death, and simply being religious, reduce the effects of mortality salience on worldview defense. Thoughts of death have also been found to increase religious beliefs. At an implicit, subconscious level, this is the case even for people who claim to be nonreligious.<ref>{{cite journal |last=Heflick |first=Nathan |author2=Goldenberg, J. |title=No atheists in foxholes: Arguments for (but not against) afterlives buffer mortality salience effects for atheists |journal=British Journal of Social Psychology |year=2012| doi = 10.1111/j.2044-8309.2011.02058.x |pmid=21995319 |volume=51 |issue=2 |pages=385–392}}</ref><ref>{{cite journal |last=Jong |first=Jonathan |author2=Halberstadt, Jamin |author3=Bluemke, Matthias |title=Foxhole atheism, revisited: The effects of mortality salience on explicit and implicit religious belief |doi=10.1016/j.jesp.2012.03.005 |journal=Journal of Experimental Social Psychology |year=2012 |volume=48 |issue=5 |pages=983–989}}</ref>
+
+== Mental health ==
+Some researchers have argued that death anxiety may play a central role in numerous mental health conditions.<ref>{{Cite journal|last1=Iverach|first1=Lisa|last2=Menzies|first2=Ross G.|last3=Menzies|first3=Rachel E.|date=2014|title=Death anxiety and its role in psychopathology: reviewing the status of a transdiagnostic construct|journal=Clinical Psychology Review|volume=34|issue=7|pages=580–593|doi=10.1016/j.cpr.2014.09.002|issn=1873-7811|pmid=25306232|s2cid=11017493 |doi-access=free}}</ref> To test whether death anxiety causes a particular mental illness, TMT researchers use a mortality salience experiment, and examine whether reminding participants of death leads to increased prevalence of behaviors associated with that mental illness. Such studies have shown that reminders of death lead to increases in compulsive handwashing in [[Obsessive–compulsive disorder|obsessive-compulsive disorder]],<ref>{{Cite journal|last1=Menzies|first1=R.E.|last2=Dar-Nimrod|first2=I.|date=2017|title=Death anxiety and its relationship with obsessive-compulsive disorder|url=https://psycnet.apa.org/record/2017-10880-001|journal=Journal of Abnormal Psychology|volume=126|issue=4|pages=367–377|doi=10.1037/abn0000263|pmid=28277734|s2cid=3823579|url-access=subscription}}</ref> avoidance in [[Arachnophobia|spider phobias]] and [[Social anxiety disorder|social anxiety]],<ref>{{Cite journal|last1=Strachan|first1=Eric|last2=Schimel|first2=Jeff|last3=Arndt|first3=Jamie|last4=Williams|first4=Todd|last5=Solomon|first5=Sheldon|last6=Pyszczynski|first6=Tom|last7=Greenberg|first7=Jeff|date=2007-08-01|title=Terror Mismanagement: Evidence That Mortality Salience Exacerbates Phobic and Compulsive Behaviors|url=https://doi.org/10.1177/0146167207303018|journal=Personality and Social Psychology Bulletin|language=en|volume=33|issue=8|pages=1137–1151|doi=10.1177/0146167207303018|pmid=17545415|s2cid=21364203|issn=0146-1672|url-access=subscription}}</ref> and anxious behaviors in other disorders, including [[panic disorder]] and [[Hypochondriasis|health anxiety]],<ref>{{Cite journal|last1=Menzies|first1=R.E.|last2=Sharpe|first2=L.|last3=Dar-Nimrod|first3=I.|date=2021|title=The effect of mortality salience on bodily scanning behaviors in anxiety-related disorders|url=https://doi.org/10.1037/abn0000577|journal=Journal of Abnormal Psychology|volume=130|issue=2|pages=141–151|doi=10.1037/abn0000577|pmid=33301338|s2cid=228100285|url-access=subscription}}</ref> suggesting the role of death anxiety in these conditions according to TMT researchers.
+
+==Criticisms==
+Criticisms of terror management theory have been based on several lines of arguments:<ref name = "Pyszczynski_Greenberg" >{{cite journal | last1 = Pyszczynski | first1 = T. | last2 = Greenberg | first2 = J. | last3 = Solomon | first3 = S. | last4 = Maxfield | first4 = M. | year = 2006 | title = On the unique psychological import of the human awareness of mortality: Theme and variations | journal = Psychological Inquiry | volume = 17 | issue = 4| pages = 328–356 | doi=10.1080/10478400701369542| s2cid = 143508018 }}</ref> 
+* Suppression of fear and anxiety is implausible from an evolutionary point of view.
+* The observed psychological responses to terrifying cues are better explained by [[Evolutionary psychology#Coalitional psychology|coalitional psychology]] and theories of collective defense.
+* The responses can be explained as fear of uncertainty and the unknown.
+* The responses can be explained as search for meaning of life and mortality.
+* The experimental results are difficult to replicate.
+
+These arguments are discussed in the following sections.
+
+===Evolutionary argument===
+Anxiety and fear are psychological responses that have evolved because they help us avoid danger. A mechanism to suppress anxiety and fear, as postulated by TMT, is unlikely to have evolved because it would reduce the chances of survival.<ref name="Kirkpatrick_Navarrete">{{cite journal|last=Kirkpatrick|first=Lee|author2=Carlos David Navarrete |title=Reports of My Death Anxiety Have Been Greatly Exaggerated: A Critique of Terror Management Theory from an Evolutionary Perspective|journal=Psychological Inquiry|year=2006|volume=17|issue=4|pages=288–298|doi=10.1080/10478400701366969|citeseerx=10.1.1.574.4267|s2cid=144262438}}</ref><ref name="Buss1997">{{cite journal|last=Buss|first=David|title=Human Social Motivation in Evolutionary Perspective: Grounding Terror Management Theory|journal=Psychological Inquiry|year=1997|volume=8|issue=1|pages=22–26|doi=10.1207/s15327965pli0801_3|citeseerx=10.1.1.387.7436}}</ref> 
+It is argued that TMT relies on misguided assumptions about evolved human nature originating from psychoanalytic theory.<ref name="Kirkpatrick_Navarrete" /> 
+Proponents of TMT argue that the cultural self-esteem that counters death anxiety is either a [[spandrel (biology)|spandrel]] or [[exaptation]] created as a byproduct of the human survival instinct being impinged upon by the awareness of death brought about by increased intelligence.
+It is not responses to immediate danger that are suppressed, but existential reminders of mortality. They posit a "dual defense model" whereby "proximal" and "distal" defenses deal with threats differently, with the former doing so more "pragmatically" due to greater conscious awareness, and the latter more symbolically due to unconscious thought recession.<ref name="Pyszczynski_Greenberg" /><ref name = "Landau">{{cite journal | last1 = Landau | first1 = M. J. | last2 = Solomon | first2 = S. | last3 = Pyszczynski | first3 = T. | last4 = Greenberg | first4 = J. | year = 2007 | title = On the compatibility of terror management theory and perspectives on human evolution | journal = Evolutionary Psychology | volume = 5 | issue = 3 | pages = 476–519 | doi = 10.1177/147470490700500303 | doi-access = free | url = http://people.ku.edu/~mjlandau/docs/Landau_tmt%20and%20evol%20psych_EP%202007.pdf | archive-date = 2023-10-04 | access-date = 2015-09-09 | archive-url = https://web.archive.org/web/20231004143856/http://people.ku.edu/~mjlandau/docs/Landau_tmt%20and%20evol%20psych_EP%202007.pdf | url-status = dead }}</ref> 
+Critics argue that the observed responses are not only evoked by cues of essential mortality, but more generally by cues of danger or insecurity.<ref name="Kirkpatrick_Navarrete" />
+
+===Coalitional psychology and collective defense as alternative explanations===
+TMT posits that people respond to cues about mortality by strengthening shared worldviews. Critics believe that such a worldview defense is better explained by [[Evolutionary_psychology#Coalitional_psychology|coalitional psychology]]. People confronted with danger tend to build shared worldviews and a pro-normative orientation in order to garner [[social support]] and to build coalitions and alliances.<ref name="Kirkpatrick_Navarrete" /><ref name= "Navarrete2005 ">{{cite journal | last1 = Navarrete | first1 = D.C. | last2 = Fessler | first2 = D.M.T. | year = 2005 | title = Normative bias and adaptive challenges: A relational approach to coalitional psychology and a critique of terror management theory | journal = Evolutionary Psychology | volume = 3 | pages = 297–325 | doi = 10.1177/147470490500300121 | citeseerx = 10.1.1.132.5201 | s2cid = 14311881 }}</ref> 
+Proponents of TMT argue that the coalitional psychology theory is a black box explanation that 1) cannot account for the fact that virtually all cultures have a supernatural dimension; 2) does not explain why cultural worldview defense is symbolic, involving allegiance to both specific and general systems of abstract meaning unrelated to specific threats, rather than focused on the specific adaptive threats it supposedly evolved to deal with; and, 3) dismisses TMT's dual process account of the underlying processes that generate MS effects without providing an alternative of any kind or attempting to account for the data relevant to this aspect of the TMT analysis.<ref name="Pyszczynski_Greenberg" /><ref name = "Landau" />  
+The coalitional theory is supported by a large statistical study finding that conservatism, traditionalism, and other responses represented by TMT theory are connected with collective danger, while individual danger has very different and often opposite effects. 
+The observed connection with collective danger supports the coalitional theory, while contradicting CP's interpretation of TMT, which is understood as explicitly dealing with individual danger only.<ref name="Fog2023">{{cite journal |last1=Fog |first1=Agner |title=Psychological and cultural effects of different kinds of danger. An exploration based on survey data from 79 countries |journal=Culture and Evolution |date=2023 |volume=20 |pages=77–98 |doi=10.1556/2055.2023.00029|s2cid=257998766 |doi-access=free }}</ref>  
+TMT theorists however, have explained how CP dismisses TMT's dual process shown in lab studies whereby proximal and distal defenses deal with threats differently; with the former doing so more "pragmatically" due to greater conscious awareness, and the latter more symbolically due to unconscious thought recession. This would account for the study's distinction between individual and collective danger — with the former being more proximal and the latter more distal. Unlike TMT, CP does not view national, political and religious coalitions as [[imagined communities]] that represent primarily cultural worldviews (distal defenses). 
+Similarly, another study has found that the response of [[system justification]] postulated by TMT theorists is increased by salience of terrorism, not by salience of individual mortality.<ref name="Ullrich_Cohrs">{{cite journal |last1=Ullrich |first1=Johannes |last2=Cohrs |first2=J. Christopher |title=Terrorism salience increases system justification: Experimental evidence |journal=Social Justice Research |date=2007 |volume=20 |issue=2 |pages=117–139 |doi=10.1007/s11211-007-0035-y|s2cid=145734264 }}</ref> 
+Earlier experimental findings can be explained by the fact that individual danger and collective danger are seriously [[Confounding|confounded]]. 
+The findings that the observed responses are connected with collective danger rather than individual danger was predicted by [[regality theory]]. This finding is in agreement with [[Right-wing authoritarianism|authoritarianism theory]], [[Realistic conflict theory|realistic group conflict theory]], and [[Ronald Inglehart]]'s [[Ronald_Inglehart#Cultural_Evolution|theory of modernization]], but not in agreement with CP's interpretation of terror management theory, which omits its distal/proximal dual defense model.<ref name="Fog2023" />
+
+===Prevalence of death===
+Since findings on mortality salience and worldview defense were first published, other researchers have claimed that the effects may have been obtained due to reasons other than death itself, such as anxiety, fear, or other aversive stimuli such as pain. The experimental manipulations in TMT research are likely to elicit a mixture of different types of negative emotions, including fear, anxiety, sadness, and anger.<ref name="Lambert2014">{{cite journal |last1=Lambert |first1=A. J. |display-authors=etal |title=Toward a greater understanding of the emotional dynamics of the mortality salience manipulation: Revisiting the "affect-free" claim of terror management research |journal=Journal of Personality and Social Psychology |date=2014 |volume=106 |issue=5 |pages=655–678 |doi=10.1037/a0036353|pmid=24749817 }}</ref> 
+
+Other studies have found effects similar to those that mortality salience results in – for example, thinking about difficult personal choices to be made, being made to respond to open-ended questions regarding uncertainty, thinking about being robbed, thinking about being socially isolated, and being told that one's life lacks meaning.<ref name="Pyszczynski_Greenberg" /> While these cases exist, thoughts of death have since been compared to various aversive experimental controls, such as (but not limited to) thinking about: failure, writing a critical exam, public speaking with a considerable audience, being excluded, paralysis, dental pain, intense physical pain, etc.<ref name="Pyszczynski_Greenberg" />
+
+With regards to the studies that found similar effects, TMT theorists have argued that in the previously mentioned studies where death was not the subject thought about, the subjects would quite easily be related to death in an individual's mind due to "linguistic or experiential connection with mortality" (p.&nbsp;332).<ref name="Pyszczynski_Greenberg" /> For example, being robbed invokes thoughts of violence and being unsafe in one's own home – many people have died trying to protect their property and family. A second possible explanation for these results involves the death-thought accessibility hypothesis: these threats somehow sabotage crucial anxiety-buffering aspects of an individual's worldview or self-esteem, which increases their death thought accessibility. For example, one study found increased death thought accessibility in response to thoughts of antagonistic relations with attachment figures.<ref name="Pyszczynski_Greenberg" /> However, this makes it difficult or impossible to isolate the effect of mortality salience.<ref name="Lambert2014" />
+
+While many TMT theorists claim that affective responses to mortality salience are suppressed and pushed out of consciousness, later studies contradict this and show that affective responses are indeed observable.<ref name="Lambert2014" />
+
+===Meaning maintenance model===
+The meaning maintenance model (MMM) was initially introduced as a comprehensive motivational theory that claimed to subsume TMT, with alternative explanations for TMT findings. Essentially, it posits that people automatically give meaning to things, and when those meanings are somehow disrupted, it causes anxiety.<ref name = "Heine"/> In response, people concentrate on "meaning maintenance to reestablish their sense of symbolic unity" and that such "meaning maintenance often involves the compensatory reaffirmation of alternative meaning structures".<ref name = "Heine"/> These meanings, among other things, should "provide a basis for prediction and control of our...environments, help [one] to cope with tragedy and trauma...and the symbolic cheating of death via adherence to the enduring values that these cultures provide".<ref name = "Heine"/>
+
+While TMT regards the search for meaning as a defense mechanism, meaning management theory regards the quest for meaning as a primary  motive  because  we  are  meaning-seeking  and meaning-making creatures living in a world of meanings. When people are exposed to mortality salience, both TMT and meaning management theory would predict an increase in pro-culture and pro-esteem activities, but for very different reasons. The latter theory is replacing death denial by death acceptance.<ref>{{cite journal|last=Wong|first=Paul T. P.|title=Beyond Terror and Denial: The Positive Psychology of Death Acceptance|author2=Adrian Tomer |journal=Death Studies|year=2011|volume=35|issue=2|doi=10.1080/07481187.2011.535377|pmid=24501830|pages=99–106|s2cid=1067025}}</ref>
+
+TMT theorists argue that meaning management theory cannot describe why different sets of meaning are preferred by different people, and that different types of meaning have different psychological functions.<ref name="Pyszczynski_Greenberg" /> 
+TMT theorists argue that unless something is an important element of a person's anxiety-buffering worldview or self-esteem, it will not require broad meaning maintenance.<ref name="Pyszczynski_Greenberg" /> 
+TMT theorists believe that meaning management theory cannot accurately claim to be an alternative to TMT because it does not seem to be able to explain the current breadth of TMT evidence.<ref name="Pyszczynski_Greenberg" />
+
+===Offensive defensiveness===
+Some theorists have argued that it is not the idea of death and nonexistence that is unsettling to people, but the fact that uncertainty is involved.<ref>{{cite journal | last1 = McGregor | first1 = I. | last2 = Zanna | first2 = M. P. | last3 = Holmes | first3 = J. G. | last4 = Spencer | first4 = S. J. | year = 2001 | title = Compensatory conviction in the face of personal uncertainty: Going to extremes and being oneself | journal = Journal of Personality and Social Psychology | volume = 80 | issue = 3| pages = 472–488 | doi=10.1037/0022-3514.80.3.472| pmid = 11300580 | s2cid = 9025151 }}</ref><ref name="McGregor2006">{{cite journal |last1=McGregor |first1=I |title=Offensive defensiveness: Toward an integrative neuroscience of compensatory zeal after mortality salience, personal uncertainty, and other poignant self-threats |journal=Psychological Inquiry |date=2006 |volume=17 |issue=4 |pages=299–308 |doi=10.1080/10478400701366977}}</ref> 
+For example, these researchers posited that people defend themselves by altering their fear responses from uncertainty to an enthusiasm approach.<ref name="Pyszczynski_Greenberg" />  Other researchers argue for distinguishing fear of death from fear of dying and, therein, posit that ultimately the fear of death has more to do with some other fear (e.g., fear of pain) or reflects [[uncertainty avoidance]] or fear of the unknown.<ref name="FOTU">{{cite journal|last1=Carleton|first1=R. Nicholas|title=Fear of the unknown: One fear to rule them all?|journal=Journal of Anxiety Disorders|date=June 2016|volume=41|pages=5–21|doi=10.1016/j.janxdis.2016.03.011|pmid=27067453|doi-access=free|hdl=10294/15842|hdl-access=free}}</ref>
+
+TMT theorists agree that uncertainty can be disconcerting in some cases and it may even result in defense responses, but note that they believe the inescapability of death and the possibility of its finality regarding one's existence is most unsettling. They also note that people actually seek out some types of uncertainty, and that being uncertain is not always very unpleasant.<ref name="Pyszczynski_Greenberg" /> In contrast, there is substantial evidence that, all things being equal, uncertainty and the unknown represent fundamental fears and are only experienced as pleasant when there is sufficient contextual certainty.<ref name = "FOTU" /><ref name = "IU_Review">{{cite journal|last1=Carleton|first1=R. Nicholas|title=Into the unknown: A review and synthesis of contemporary models involving uncertainty|journal=Journal of Anxiety Disorders|date=April 2016|volume=39| pages=30–43|doi=10.1016/j.janxdis.2016.02.007| pmid=26945765|doi-access=free|hdl=10294/15841|hdl-access=free}}</ref> For example, a surprise involves uncertainty, but is only perceived as pleasant if there is sufficient certainty that the surprise will be pleasant.
+
+Though TMT theorists acknowledge that many responses to mortality salience involve greater approaches (zealousness) towards important worldviews, they also note examples of mortality salience which resulted in the opposite, which offensive defensiveness cannot account for: when negative features of a group to which participants belong were made salient, people actively distanced themselves from that group under mortality salience.<ref name="Pyszczynski_Greenberg" />
+
+=== Replication failure ===
+In addition to the criticisms from alternative theoretical perspectives, a large-scale attempt by Many Labs 4 to replicate published findings failed to replicate the mortality salience effect on worldview defense under any condition.<ref>[https://cos.io/blog/many-labs-4-failure-replicate-mortality-salience-effect-and-without-original-author-involvement/]{{Citation |last1=Klein |first1=Richard A. |title=Many Labs 4: Replicating Mortality Salience with and without Original Author Involvement |date=2017-01-12 |url=https://osf.io/8ccnw/ |language=en |last2=Cook |first2=Corey L. |last3=Ebersole |first3=Charles R. |last4=Vitiello |first4=Christine |last5=Nosek |first5=Brian A. |last6=Ahn |first6=Paul |last7=Brady |first7=Abbie J. |last8=Chartier |first8=Christopher R. |last9=Christopherson |first9=Cody D. |last10=Clay |first10=Samuel}}</ref>  The test is a multi-lab replication of Study 1 of Greenberg et al. (1994).<ref name="Green 1994" /> Psychologists in 21 labs across the U.S. re-executed the original experiment among a total of 2,200 participants. In response to the Many Labs 4 paper, Tom Pyszczynski (one of the founding psychologists of TMT), criticized the study for insufficient sample sizes, failure to follow the advice of researchers, and deviation from a preregistered protocol.<ref>{{citation | last1=Chatard | first1=Armand | last2=Hirschberger | first2=Gilad | last3=Pyszczynski | first3=Tom | title=A Word of Caution about Many Labs 4: If You Fail to Follow Your Preregistered Plan, You May Fail to Find a Real Effect | publisher=Center for Open Science | date=2020-02-07 | doi=10.31234/osf.io/ejubn | s2cid=236806340 | url=https://psyarxiv.com/ejubn/ | type=unpublished}}</ref>
+
+== Popularity ==
+Psychologist Yoel Inbar summarized the popularity of the theory: 
+{{quote|I can not explain to people who were not around during this time - which I would say was roughly 2004 to 2008 - how much everything at the time was about terror management theory. You would go to [[Society for Personality and Social Psychology#Convention|SPSP]] and it seemed like half of the posters were about terror management theory. It was just everywhere. There is just an explosion of terror management theory stuff. And then it sort of receded. And now you barely see it. Which is also kind of weird. We were obsessed with this for a period of 3-5 years, then we moved on to other things.<ref>{{cite podcast |last=Tullett |first=Alexa |last2=Inbar |first2=Yoel |title=Episode 88: Many Many Labs |website=Two Psychologists Four Beers |publisher=Publisher |date=15 June 2022 |time=49:30 - 50:20 |url=https://www.fourbeers.com/88 |access-date=10 June 2022}}</ref>}}
+
+==See also==
+*{{annotated link|Anxiety buffer disruption theory}}
+*[[Being toward death]] (German: ''Sein-zum-Tode''), an important concept in the work of [[Martin Heidegger]]
+*{{annotated link|Cognitive dissonance}}
+*{{annotated link|Death anxiety}}
+*''[[Flight from Death]]'' – a documentary film based on Ernest Becker's work and terror management theory
+*{{annotated link|Mortality salience}}
+*{{annotated link|Necrophobia}}
+*{{annotated link|Memento mori}}
+*[[Chamber of Reflection]] – Initiation ritual in freemasonry 
+*[[Protection motivation theory]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Bibliography==
+* [[Ernest Becker|Becker, Ernest]] (1973). ''The Denial of Death'', The Free Press. {{ISBN|0-02-902380-7}}
+* Pyszczynski, Thomas; Solomon, Sheldon; Greenberg, Jeff (2003). ''In the Wake of 9/11: The Psychology of Terror'', American Psychological Association. {{ISBN|1-55798-954-0}}
+* Solomon, Sheldon, Greenberg, J. & Pyszczynski, T. (1991) "A terror management theory of social behavior: The psychological functions of esteem and cultural worldviews", in M. P. Zanna (Ed.) ''Advances in Experimental Social Psychology'', Volume 24, Academic Press, pp.&nbsp;93–159. {{ISBN|0-12-015224-X}}
+
+==Further reading==
+*{{cite journal
+ | url=http://muse.jhu.edu/login?uri=/journals/perspectives_in_biology_and_medicine/v044/44.1curtis.html
+ | author = Curtis, V.
+ |author2=Biran, A.
+  | year = 2001
+ | title = Dirt, disgust, and disease: Is hygiene in our genes?
+ | journal = Perspectives in Biology and Medicine
+ | volume = 44
+ | issue = 1
+ | pages = 17–31
+ | doi = 10.1353/pbm.2001.0001
+ | pmid=11253302
+ | citeseerx = 10.1.1.324.760
+ | s2cid = 15675303
+ }}
+*{{cite book
+ | url=http://www.human-nature.com/darwin/emotion/contents.htm
+ | author = Darwin, C.
+ | orig-year = 1872 | year=1998
+ | title = The expression of the emotions in man and animals
+ | edition=3rd
+ | location = London
+ | publisher = Harper Collins
+ }}
+*{{cite journal
+ | author = Florian, V.
+ | author2=Mikulincer, M.
+ | year = 1997
+ | title = Fear of death and the judgment of social transgressions: a multidimensional test of terror
+ | journal = Journal of Personality and Social Psychology
+ | issn=0022-3514
+ | volume = 73
+ | issue = 2
+ | pages = 369–80
+ | doi = 10.1037/0022-3514.73.2.369
+ | pmid = 9248054
+ }}
+*{{cite journal
+ | author = Goldenberg, J.L. |author2=Pyszczynski, T. |author3=Greenberg, J. |author4=Solomon, S. |author5=Kluck, B.  |author6=Cornwell, R.
+ | year = 2001
+ | title = I am not an animal: Mortality salience, disgust, and the denial of human creatureliness
+ | journal = Journal of Experimental Psychology
+ | volume = 130
+ | issue = 3
+ | pages = 427–435
+ | pmid = 11561918
+ | doi = 10.1037/0096-3445.130.3.427
+ }}
+*{{cite journal
+ | author = Greenberg, J.
+ |author2=Pyszczynski, T. |author3=Solomon, S. |author4=Rosenblatt, A. |author5=Veeder, M. |author6= Kirkland, S. 
+ | year = 1990
+ | title = Evidence for terror management theory. II: The effects of mortality salience on reactions to those who threaten or bolster the cultural worldview
+ | journal = Journal of Personality and Social Psychology
+ | issn=0022-3514
+ | volume = 58
+ | issue = 2
+ | pages = 308–318
+ | url = http://cat.inist.fr/?aModele=afficheN&cpsidt=6811697
+ | format=Fee required
+ | access-date = 2007-07-27
+ | id=13817, 35400000600727.0100 (INIST-CNRS)
+ | doi = 10.1037/0022-3514.58.2.308
+ | citeseerx=10.1.1.454.2378 }}
+*{{cite journal
+ | author = Greenberg, J. |author2=Solomon, S. |author3=Pyszczynski, T.
+ | year = 1997
+ | title = Terror management theory of self-esteem and cultural worldviews: Empirical assessments and conceptual refinements
+ | journal = Advances in Experimental Social Psychology
+ | volume = 29
+ | issue = S 61
+ | pages = 139
+ | doi=10.1016/s0065-2601(08)60016-7
+ }}
+*{{cite journal
+ | author = Hansen, J |author2=Winzeler, S |author3=Topolinski, S
+ | year = 2010
+ | title = When death makes you smoke: a terror management perspective on the effectiveness of cigarette on-pack warnings
+ | journal = Journal of Experimental Social Psychology
+ | volume = 46
+ | pages = 226–228
+ | doi = 10.1016/j.jesp.2009.09.007
+ }}
+*{{cite journal
+ | author = Hirschberger, G. |author2=Florian, V. |author3=Mikulincer, M.
+ | year = 2003
+ | title = Striving for romantic intimacy following partner complaint or partner criticism: A terror management perspective
+ | journal = Journal of Social and Personal Relationships
+ | volume = 20
+ | issue = 5
+ | pages = 675–687
+ | doi = 10.1177/02654075030205006
+ |s2cid=144657212
+ }}
+*{{cite magazine
+ | author = Judis, J.B.
+ | date = August 27, 2007
+ | title = Death grip: How political psychology explains Bush's ghastly success
+ | magazine = New Republic
+ }}
+*{{cite book
+ | author = Lazarus, R.S.
+ | year = 1991
+ | title = Emotion and adaptation
+ | location = New York
+ | publisher = Oxford University Press
+ | isbn = 978-0-19-506994-5
+ }}
+*{{cite journal
+ | author = Mikulincer, M. |author2=Florian, V. |author3=Hirschberger, G.
+ | year = 2003
+ | title = The existential function of close relationships: Introducing death into the science of love
+ | journal = Personality and Social Psychology Review
+ | volume = 7
+ | issue = 1
+ | pages = 20–40
+ | doi = 10.1207/S15327957PSPR0701_2
+ | pmid = 12584055
+ |s2cid=11600574 }}
+*{{cite journal
+ | author = Pyszczynski, T. |author2=Greenberg, J. |author3=Solomon, S.
+ | year = 1997
+ | title = Why do we need what we need? A terror management perspective on the roots of human social motivation
+ | journal = Psychological Inquiry
+ | volume = 8
+ | issue = 1
+ | pages = 1–20
+ | doi = 10.1207/s15327965pli0801_1
+ }}
+*{{cite journal
+ | author = Pyszczynski, T. |author2=Greenberg, J. |author3=Solomon, S.
+ | year = 1999
+ | title = A dual process model of defense against conscious and unconscious death-related thoughts: An extension of terror management theory
+ | journal = Psychological Review
+ | volume = 106
+ | issue = 4
+ | pages = 835–845
+ | doi = 10.1037/0033-295X.106.4.835
+ | pmid=10560330 |s2cid=2655060 }}
+*{{cite journal
+ | author = Rosenblatt, A. |author2=Greenberg, J. |author3=Solomon, S. |author4=Pyszczynski, T. |author5=Lyon, D.
+ | year = 1989
+ | title = Evidence for terror management theory: I. The effects of mortality salience on reactions to those who violate or uphold cultural values
+ | journal = Journal of Personality and Social Psychology
+ | issn=0022-3514
+ | volume = 57
+ | issue = 4
+ | pages = 681–90
+ | doi = 10.1037/0022-3514.57.4.681
+ | pmid = 2795438
+ | citeseerx=10.1.1.457.5862 }}
+*{{cite journal
+ | author = Royzman, E.B.
+ | author2=Sabini, J.
+ | year = 2001
+ | title = Something it takes to be an emotion: The interesting case of disgust
+ | journal = Journal for the Theory of Social Behaviour
+ | volume = 31
+ | issue = 1
+ | pages = 29–59
+ | doi = 10.1111/1468-5914.00145
+ }}
+*{{cite journal
+ | author = Shehryar, O.
+ |author2=Hunt, D.M.
+  | year = 2005
+ | title = A terror management perspective on the persuasiveness of fear appeals
+ | journal = Journal of Consumer Psychology
+ | volume = 15
+ | issue = 4
+ | pages = 275–287
+ | doi = 10.1207/s15327663jcp1504_2
+ |s2cid=18866874
+ }}
+*{{cite journal
+ | author = Simon, L. |author2=Arndt, J. |author3=Greenberg, J. |author4=Pyszczynski, T. |author5=Solomon, S.
+ | year = 1998
+ | title = Terror management and meaning: Evidence that the opportunity to defend the worldview in response to mortality salience increases the meaningfulness of life in the mildly depressed
+ | journal = Journal of Personality
+ | volume = 66
+ | issue = 3359–382
+ | doi = 10.1111/1467-6494.00016
+ | pages = 359–382
+ |pmid=9615422 |hdl=10150/187250
+ | hdl-access = free
+ }}
+*{{cite journal
+ | author = Simon, L. |author2=Greenberg, J. |author3=Harmon-Jones, E. |author4=Solomon, S. |author5=Pyszczynski, T. |author6=Arndt, J.  |author7=Abend, T.
+ | year = 1997
+ | title = Terror management and Cognitive-Experiential Self-Theory: Evidence that terror management occurs in the experiential system
+ | journal = Journal of Personality and Social Psychology
+ | volume = 72
+ | issue = 5
+ | pages = 1132–1146
+ | doi = 10.1037/0022-3514.72.5.1132
+ | pmid = 9150588
+ }}
+*{{cite book
+ | author = Greenberg, J. |author2=Koole, S. L. |author3=Pyszczynski, T.
+ | year = 2004
+ | title = Handbook of experimental existential psychology
+ | publisher = Guilford Press
+ | isbn = 978-1-59385-040-1
+ }}
+*{{cite journal | last1=Cohen | first1=Florette | last2=Solomon | first2=Sheldon | last3=Maxfield | first3=Molly | last4=Pyszczynski | first4=Tom | last5=Greenberg | first5=Jeff | title=Fatal Attraction | journal=Psychological Science | publisher=SAGE Publications | volume=15 | issue=12 | year=2004 | issn=0956-7976 | doi=10.1111/j.0956-7976.2004.00765.x | pages=846–851| pmid=15563330 | s2cid=16787928 }}
+*{{cite journal
+ | author = Van Tilburg, W. A. P. 
+ | author2= Igou, E. R
+ | year = 2011
+ | title = On the meaningfulness of existence: When life salience boosts adherence to worldviews
+ | journal = European Journal of Social Psychology |volume=41 | issue = 6
+ |pages=740–750
+ | doi=10.1002/ejsp.819
+ |hdl=10344/5416| s2cid= 142993102
+ | url = https://kclpure.kcl.ac.uk/portal/en/publications/on-the-meaningfulness-of-existence(2d1737fd-1fb0-470e-a588-6d8bb5c29b14).html
+ | type = Submitted manuscript
+ | hdl-access = free
+ }}
+*{{cite news
+ | author = Gutierrez, C.
+ | year = 2006
+ | title = Consumer attraction to luxury brand products: Social affiliation in terror management theory
+ }}
+
+'''Discusses TMT at length'''
+*{{cite book
+ | author = Griffin, R.
+ | year = 2007
+ | title = Fascism & Modernism
+ | isbn = 978-1-4039-8783-9
+ | publisher = Palgrave Macmillan
+ | location = New York
+ }}
+
+'''TMT and self-esteem'''
+*{{cite journal
+ | author1 = Schmeichel, B.J.
+ | author2= Gailliot, M.T.
+ |author3= Filardo, E.A.
+ | author4= McGregor, I. 
+ | author5= Gitter, S. 
+ | author6= Baumeister, R.F.
+ | year = 2009
+ | title = Terror management theory and self esteem revisited: The roles of implicit and explicit self-esteem in mortality salience effects
+ | journal = Journal of Personality and Social Psychology |volume=96 |number=5 |pages=1077–1087
+ | doi=10.1037/a0015091
+ | pmid=19379037
+ | s2cid= 13740871
+ | url= https://semanticscholar.org/paper/5835bdaeaa3c42a7afd541ff9b6f0f3832d8d750
+ }}
+
+==External links==
+{{Spoken Wikipedia|Terror_management_theory.ogg|date=2019-11-23}}
+
+{{DEFAULTSORT:Terror Management Theory}}
+[[Category:Attitude change]]
+[[Category:Cognition]]
+[[Category:Death]]
+[[Category:Existential therapy]]
+[[Category:Psychological theories]]
+[[Category:Evolutionary psychology of religion]]

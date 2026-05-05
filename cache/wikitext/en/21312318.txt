@@ -1,0 +1,725 @@
+{{Short description|Subcategory of memory}}
+'''Recognition memory''', a subcategory of [[explicit memory]], is the ability to recognize previously encountered events, objects, or people.<ref name="Medina, J. J. (2008).">Medina, J. J. (2008). [http://www.brainrules.net/pdf/JohnMedina_PsychTimes_June08.pdf The biology of recognition memory] {{Webarchive|url=https://web.archive.org/web/20160304032233/http://www.brainrules.net/pdf/JohnMedina_PsychTimes_June08.pdf |date=2016-03-04 }}. ''Psychiatric Times''.</ref> When the previously experienced event is reexperienced, this environmental content is matched to stored memory representations, eliciting matching signals.<ref>(Norman & O'Reilly, 2003)</ref> As first established by psychology experiments in the 1970s, recognition memory for pictures is quite remarkable: humans can remember thousands of images at high accuracy after seeing each only once and only for a few seconds.<ref name="Standing (1973)">Standing, L. (1973). "Learning 10,000 pictures". ''The Quarterly Journal of Experimental Psychology'', 25(2), 207–222. Retrieved Jan 20 2020, from {{doi|10.1080/14640747308400340}}.</ref>
+
+Recognition memory can be subdivided into two component processes: [[recollection]] and familiarity, sometimes referred to as "remembering" and "knowing", respectively.<ref name="Medina, J. J. (2008)." /> Recollection is the retrieval of details associated with the previously experienced event. In contrast, familiarity is the feeling that the event was previously experienced, without recollection. Thus, the fundamental distinction between the two processes is that recollection is a slow, controlled search process, whereas familiarity is a fast, automatic process.<ref name = "Mandler"/><ref>{{cite journal | last1 = Jacoby | first1 = L. L. | year = 1991 | title = A process dissociation framework: separating automatic from intentional uses of memory | journal = Journal of Memory and Language | volume = 30 | issue = 5| pages = 513–541 | doi = 10.1016/0749-596X(91)90025-F }}</ref>
+
+Mandler's "Butcher-on-the-bus" example:<ref name = "Mandler" />
+
+<blockquote>
+Imagine taking a seat on a crowded bus. You look to your left and notice a man. Immediately, you are overcome with this sense that you've seen this man before, but you cannot remember who he is. This automatically elicited feeling is familiarity. While trying to remember who this man is, you begin retrieving specific details about your previous encounter. For example, you might remember that this man handed you a fine chop of meat in the grocery store. Or perhaps you remember him wearing an apron. This search process is recollection.
+</blockquote>
+
+== Historical overview ==
+
+The phenomenon of familiarity and recognition has long been described in books and poems. Within the field of [[Psychology]], recognition memory was first alluded to by [[Wilhelm Wundt]] in his concept of ''know-againness'' or ''[[wikt:assimilation|assimilation]]'' of a former memory image to a new one. The first formal attempt to describe recognition was by the English Doctor Arthur Wigan in his book ''Duality of the Mind''. Here he describes the feelings of familiarity we experience as being due to the [[brain]] being a double [[organ (anatomy)|organ]].<ref name="arthur">{{Cite journal | last1 = Allin | first1 = A. | title = Recognition | doi = 10.1037/h0069343 | journal = Psychological Review | volume = 3 | issue = 5 | pages = 542–545 | year = 1896 | url=https://archive.org/details/jstor-1411584}}</ref> In essence: we perceive things with one half of our brain, and if they somehow get lost in translation to the other side of the brain, this causes the feeling of [[Recall (memory)|recognition]] when we again see said object, person, etc. However, he incorrectly assumed that these feelings occur only when the mind is exhausted, such as from hunger or lack of sleep. His description, though elementary compared to current knowledge, set the groundwork and sparked interest in this topic for subsequent researchers. Arthur Allin (1896) was the first person to publish an article attempting to explicitly define and differentiate between subjective and objective definitions of the experience of recognition, although his findings are based mostly on [[introspection]]s. Allin corrects Wigan's notion of the exhausted mind by asserting that this half-dream state is not the process of recognition.<ref name="arthur"/> He briefly refers to the physiological correlates of this mechanism as having to do with the cortex but does not go into detail as to where these substrates are located.<ref name="arthur"/> His objective explanation of the lack of recognition is when a person observes an object for a second time and experiences the feeling of familiarity that they experienced this object at a previous time.<ref name="arthur"/> Woodsworth (1913) and Margaret and Edward Strong (1916) were the first people to experimentally use and record findings employing the delayed matching to sample task to analyze recognition memory.<ref>{{cite journal|author=Strong, M., & Strong E. |year=1916|title= The Nature of Recognition Memory and of the Localization of Recognitions|journal= The American Journal of Psychology|volume= 27 |issue=3|pages=341–362|jstor=1413103|url=https://archive.org/details/jstor-1413103|doi=10.2307/1413103}}</ref> Following this, Benton Underwood was the first person to analyze the concept of recognition errors in relation to words in 1969. He deciphered that these recognition errors occur when words have similar attributes.<ref>Dr. Dewey. [http://www.intropsych.com/ch06_memory/recognition_errors.html "Recognition Errors"] in  ''Introduction to Psychology''. intropsych.com</ref> Next came attempts to determine the upper limits of recognition memory, a task that Standing (1973) endeavored. He determined that the capacity for pictures is almost limitless.<ref>Dr. Dewey. [http://www.intropsych.com/ch06_memory/capacity_of_recognition_memory.html The Almost Limitless Capacity of Recognition Memory]. in ''Introduction to Psychology''. intropsych.com</ref> In 1980 [[George Mandler]] introduced the recollection-familiarity distinction, more formally known as the [[dual process theory]].<ref name="Mandler" />
+
+===Dual-process versus single-process theories===
+It is debatable whether familiarity and recollection should be considered as separate categories of recognition memory. This familiarity-recollection distinction is what is called a ''dual-process model/theory''. "Despite the popularity and influence of dual-process theories [for recognition memory], they are controversial because of the difficulty in obtaining separate empirical estimates of recollection and familiarity and the greater parsimony associated with single-process theories."<ref>{{Cite journal 
+| last1 = Curran | first1 = T. 
+| last2 = Debuse | first2 = C. 
+| last3 = Woroch | first3 = B. 
+| last4 = Hirshman | first4 = E. 
+| title = Combined Pharmacological and Electrophysiological Dissociation of Familiarity and Recollection 
+| doi = 10.1523/JNEUROSCI.5370-05.2006 
+| journal = Journal of Neuroscience 
+| volume = 26 
+| issue = 7 
+| pages = 1979–1985 
+| year = 2006 
+| pmid = 16481430 
+| pmc = 6674941
+}}</ref> A common criticism of dual process models of recognition is that recollection is simply a stronger (more detailed or vivid) version of familiarity. Thus, rather than consisting of two separate categories, single-process models regard recognition memory as a continuum ranging from weak memories to strong memories.<ref name="Medina, J. J. (2008)."/> An account of the history of dual process models since the late 1960s also includes techniques for the measurement of the two processes.<ref name=Familiarity>{{cite journal|author=Mandler, G. |s2cid=205908239|year=2008|title=Familiarity breeds attempts: A critical review of dual process theories of recognition|journal=Perspectives on Psychological Science |volume=3|issue=5|pages=392–401|doi=10.1111/j.1745-6924.2008.00087.x|pmid=26158957|url=http://www.escholarship.org/uc/item/0xh4x0j3}}</ref>
+
+Evidence for the single-process view comes from an electrode recording study done on [[Epilepsy|epileptic]] patients who took an item-recognition task.<ref>{{Cite journal | last1 = Rutishauser | first1 = U. | last2 = Schuman | first2 = E. M. | last3 = Mamelak | first3 = A. N. | title = Activity of human hippocampal and amygdala neurons during retrieval of declarative memories | doi = 10.1073/pnas.0706015105 | journal = Proceedings of the National Academy of Sciences | volume = 105 | issue = 1 | pages = 329–334 | year = 2008 | pmid =  18162554| pmc =2224211 | bibcode = 2008PNAS..105..329R | doi-access = free }}</ref> This study found that [[Hippocampus|hippocampal]] neurons, regardless of successful recollection, responded to the familiarity of objects. Thus, the hippocampus may not exclusively subserve the recollection process. However, they also found that successful item recognition was not related to whether or not 'familiarity' [[Neuron|neurons]] fired. Therefore, it's not entirely clear which responses relate to successful item recognition. However, one study suggested that hippocampal activation does not necessarily mean that conscious recollection will occur.<ref>{{Cite journal 
+| last1 = Hannula | first1 = D. E. 
+| last2 = Ranganath | first2 = C. 
+| doi = 10.1016/j.neuron.2009.08.025 
+| title = The Eyes Have It: Hippocampal Activity Predicts Expression of Memory in Eye Movements 
+| journal = Neuron 
+| volume = 63 
+| issue = 5 
+| pages = 592–599 
+| year = 2009 
+| pmid = 19755103 
+| pmc =2747814 
+}}</ref> In this object-scene associative recognition study, hippocampal activation was not related to successful associative recollection; it was only when the [[prefrontal cortex]] and the hippocampus were activated that successful performance was observed. Further, [[eye tracking]] evidence revealed that participants looked longer at the correct stimulus, and this was related to increases in hippocampal activity. Therefore, the hippocampus may play a role in the recovery of relational information, but it requires concomitant activation with the prefrontal cortex for conscious recollection.
+
+Studies with [[Amnesia|amnesics]] do not seem to support the single-process notion. A number of reports feature patients with selective damage to the hippocampus who are impaired only in recollection but not in familiarity, which provides tentative support for dual-process models.<ref>{{Cite journal
+ |doi     = 10.1017/S0140525X99002034
+ |last1   = Aggleton
+ |first1  = J. P.
+ |last2   = Brown
+ |first2  = M. W.
+ |title   = Episodic memory, amnesia, and the hippocampal-anterior thalamic axis
+ |journal = The Behavioral and Brain Sciences
+ |volume  = 22
+ |issue   = 3
+ |pages   = 425–444; discussion 444–89
+ |year    = 1999
+ |pmid    = 11301518
+ |s2cid = 11258997
+ |url     = http://industry.biomed.cas.cz/kamil/clanky31415/aggleton%20brown%201999%20behav%20brain%20sci.pdf
+}}{{dead link|date=April 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Further, a double dissociation between recollection and familiarity has been observed.<ref>{{Cite journal | last1 = Bowles | first1 = B. | last2 = Crupi | first2 = C. | last3 = Mirsattari | first3 = S. M. | last4 = Pigott | first4 = S. E. | last5 = Parrent | first5 = A. G. | last6 = Pruessner | first6 = J. C. | last7 = Yonelinas | first7 = A. P. | last8 = Kohler | first8 = S. | doi = 10.1073/pnas.0705273104 | title = Impaired familiarity with preserved recollection after anterior temporal-lobe resection that spares the hippocampus | journal = Proceedings of the National Academy of Sciences | volume = 104 | issue = 41 | pages = 16382–16387 | year = 2007 | pmid =  17905870| pmc = 1995093| bibcode = 2007PNAS..10416382B | doi-access = free }}</ref> Patient N.B. had regions of her medial [[Temporal lobe|temporal lobes]] removed, including the [[perirhinal cortex]] and [[entorhinal cortex]], but her hippocampus and [[parahippocampal cortex]] were spared. She exhibited impaired familiarity but intact recollection processes relative to controls in a yes-no recognition paradigm, and this was elucidated using ROC, RK, and response-deadline procedures. In another study, even when performance between patient N.B. was matched to one amnesic patient who had their hippocampus removed, the double dissociation was still present.<ref>{{Cite journal 
+| last1 = Bowles | first1 = B. 
+| last2 = Crupi | first2 = C. 
+| last3 = Pigott | first3 = S. 
+| last4 = Parrent | first4 = A. 
+| last5 = Wiebe | first5 = S. 
+| last6 = Janzen | first6 = L. 
+| last7 = Köhler | first7 = S. 
+| doi = 10.1016/j.neuropsychologia.2010.05.010 
+| title = Double dissociation of selective recollection and familiarity impairments following two different surgical treatments for temporal-lobe epilepsy 
+| journal = Neuropsychologia 
+| volume = 48 
+| issue = 9 
+| pages = 2640–2647 
+| year = 2010 
+| pmid = 20466009 
+| s2cid = 25898729 
+}}</ref> While performance was matched post hoc and replication is needed, this evidence rules out the idea that these brain regions are part of a unitary memory strength system.<ref name="Squire et al, 2007" /> Instead, this double dissociation strongly suggests that distinct brain regions and systems underlie both recollection and familiarity processes.
+
+The dual process theories make it possible to distinguish two types of recognition: first, recognizing THAT one has encountered some object/event before; and second, recognizing WHAT that object/event was. Thus, one may recognize a face, but only later recollect whose face it was.<ref name=Familiarity/> Delayed recognition also shows differences between fast familiarity and slow recollection processes<ref>{{Cite journal | last1 = Mandler | first1 = G. | last2 = Boeck | first2 = W. J. | doi = 10.3758/BF03198129 | title = Retrieval processes in recognition | journal = Memory & Cognition | volume = 2 | issue = 4 | pages = 613–615 | year = 1974 | pmid =  24203728| doi-access = free }}</ref><ref>{{cite journal | last1 = Rabinowitz | first1 = J.C. | last2 = Graesser | first2 = A.C.I. | year = 1976 | title = Word recognition as a function of retrieval processes | journal = Bulletin of the Psychonomic Society | volume = 7 | pages = 75–77 | doi=10.3758/bf03337127| doi-access = free }}</ref> In addition, in the “familiarity” system of recognizing memory two functional subsystems are distinguished: the first one is responsible for recognition of previously presented [[Stimulus (physiology)|stimuli]] and the second one supports recognition of objects as new.<ref>{{cite journal |last1=Kozlovskiy |first1=SA |last2=Neklyudova |first2=AK |last3=Vartanov |first3=AV |last4=Kiselnikov |first4=AA |last5=Marakshina |first5=JA |title=Two systems of recognition memory in human brain |journal=Psychophysiology |date=September 2016 |volume=53 |page=93 |doi=10.1111/psyp.12719}}</ref>
+  
+At present, neuroscientific research has not provided a definitive answer to this controversy, although it heavily favors dual-process models. While many studies provide evidence that recollection and familiarity are represented in separate regions of the brain, other studies show that this is not always the case; there may be a great deal of neuroanatomical overlap between the two processes.<ref name="Medina, J. J. (2008)."/> Despite the fact that familiarity and recollection sometimes activate the same brain regions, they are typically quite distinct functionally.<ref name="Medina, J. J. (2008)."/>
+
+The question of whether recollection and familiarity exist as two independent categories or along a continuum may ultimately be irrelevant; the bottom line is that the recollection-familiarity distinction has been extremely useful in understanding how recognition memory works.
+
+==Measurement and methods==
+
+===Old-new recognition===
+This method is used to assess recognition memory based on the pattern of yes-no responses.<ref name="Radvansky">Radvansky, G. (2006) Human Memory. Boston, MA: Pearson Education Group, Inc.</ref> This is one of the simplest forms of testing for recognition, and is done by giving a participant an item and having them indicate either 'yes' if it is an old item, or 'no' if it is a new item. This method of recognition testing makes the retrieval process easy to record and analyze.<ref>{{cite journal | last1 = Finnigan | first1 = S. | year = 2002 | title = Erp | journal = Neuropsychologia | volume = 40 | issue = 13| pages = 2288–2304 | pmid = 12417459 | last2 = Humphreys | first2 = MS | last3 = Dennis | first3 = S | last4 = Geffen | first4 = G | doi=10.1016/S0028-3932(02)00113-6| s2cid = 5914792 }}</ref>
+
+===Forced choice recognition===
+In this method, participants are asked to identify which of several items (two to four) is correct.<ref name="Radvansky"/> One of the presented items is the target—a previously presented item. The other items are similar, and act as distractors. This allows the experimenter a degree of manipulation and control in item similarity or item resemblance. This helps provide a better understanding of retrieval, and what kinds of existing knowledge people use to decide based on memory.<ref name="Radvansky"/>
+
+===Use of mental chronometry===
+
+When [[Mental chronometry|response time]] is recorded (in milliseconds or seconds), a faster speed is thought to reflect a simpler process, whereas slower times reflect more complex physiological processes.<ref name="Radvansky"/>
+
+[[Hermann von Helmholtz]] was the first psychologist to inquire whether the [[velocity]] of a [[nerve impulse]] could be a speed that is measurable.<ref name="Benschop">{{Cite journal 
+| last1 = Benschop | first1 = R. 
+| last2 = Draaisma | first2 = D. 
+| s2cid = 37504910 
+| doi = 10.1080/000337900296281 
+| title = In Pursuit of Precision: The Calibration of Minds and Machines in Late Nineteenth-century Psychology 
+| journal = Annals of Science 
+| volume = 57 
+| issue = 1 
+| pages = 1–25 
+| year = 2000 
+| pmid = 11624166 
+}}</ref> He devised an experimental set-up for measuring psychological processes with a very precise and critical time-scale. The birth of mental chronometry is attributed to an experiment by Helmholtz's colleague, [[Franciscus Donders]]. In the experiment, he attached electrodes to both feet of the subject. He then administered a mild shock to either the left or right foot, and told the subject to move the hand on the same side—which turned the stimulus (the shock) off. In a different condition, the subject was not told which foot the stimulus would act on. The time difference between these conditions was measured as one-fifteenth of a second. This was a significant finding in early experimental psychology, because researchers previously thought that psychological processes were too fast to measure.<ref name="Benschop"/>
+
+===Dual process models===
+
+An early model of dual process theories was suggested by Atkinson and Juola's (1973) model.<ref name = "Atkinson">{{cite journal | last1 = Atkinson | first1 = R.C. | last2 = Juola | first2 = J.F. | year = 1973 | title = Factors influencing speed and accuracy of word recognition | journal = Attention and Performance | volume = 6 | pages = 583–612 }}</ref> In this theory, the familiarity process would be the first activated as a fast search for recognition. If that is unsuccessful in retrieving the memory trace, then there is a more forced search into the [[long-term memory]] store.<ref name = "Atkinson" />  
+     
+The "horse-race" model is a more recent view of dual process theories. This view suggests that the two processes of familiarity and recollection occur simultaneously, but that familiarity, being the faster process, completes the search before recollection.<ref name = "Mandler">{{Cite journal | last1 = Mandler | first1 = G. | title = Recognizing: The judgment of previous occurrence | doi = 10.1037/0033-295X.87.3.252 | journal = Psychological Review | volume = 87 | issue = 3 | pages = 252–271 | year = 1980 | s2cid = 2166238 | url = https://escholarship.org/uc/item/58b2c2fc }}</ref> This view holds true the idea that familiarity is an unconscious process, whereas recollection is more conscious and thoughtful.
+
+==Factors in recognition accuracy==
+
+===Decision-making===
+
+In circumstances of uncertainty, identification of a prior occurrence depends on [[Decision making|decision-making processes]]. The available information must be compared with some internal criteria that provide guidance on which decision is more advantageous.<ref name="Bernbach, 1967">{{Cite journal 
+| doi = 10.1037/h0025132 
+| last1 = Bernbach | first1 = H. A. 
+| title = Decision processes in memory 
+| journal = Psychological Review 
+| volume = 74 
+| issue = 6 
+| pages = 462–480 
+| year = 1967 
+| pmid = 4867888
+}}</ref>
+
+[[Detection theory|Signal detection theory]] has been applied to recognition memory as a method of estimating the effect of the application of these internal criteria, referred to as bias. Critical to the [[Recognition memory#Dual-process versus single-process theories|dual process model]] is the assumption that recognition memory reflects a signal detection process in which old and new items each have a distinct distribution along a dimension, such as familiarity.<ref name="Yonelinas, 2001">Yonelinas, A.  (2001). "Components of episodic memory: the contribution of recollection and familiarity", pp. 31–52 in A. Baddeley, J. Aggleton, & M. Conway (Eds.), ''Episodic memory''. New York: Oxford University Press.</ref> The application of Signal Detection Theory (SDT) to memory depends on conceiving of a memory trace as a signal that the subject must detect in order to perform in a retention task. Given this conception of memory performance, it is reasonable to assume that percentage correct scores may be biased indicators of retention—just as thresholds may be biased indicators of sensory performance—and, in addition, that SDT techniques should be used where possible to separate the truly retention-based aspects of memory performance from the decision aspects.<ref name="Signal Detection Theory and Human Memory">{{cite journal|last=Banks|first=William P.|title=Signal Detection Theory and Human Memory|journal=Psychological Bulletin|year=1970|volume=74|issue=2|doi=10.1037/h0029531|pages=81–99}}</ref> In particular, we assume that the subject compares the trace strength of the test item with a criterion, responding "yes" if the strength exceeds the criterion and "no"otherwise. There are two types of test items, "old" (a test item that appeared in the list for that trial) and new" (one that did not appear in the list). Strength theory assumes that there may be noise in the value of the trace strength, the location of the criterion, or both. We assume that this noise is normally distributed.<ref name="Strength Theory of Decision Rules and Latency">{{cite journal|last=Norman|first=Donald A.|author2=Wayne A. Wckelgren |title=Strength Theory of Decision Rules and Latency in Retrieval from Short-Tem Memory|journal=Mathematical Psychology|year=1969|volume=6|pages=192–208|url=http://www.columbia.edu/~nvg1/Wickelgren/papers/1969_NormaWAW.pdf|access-date=May 8, 2011|doi=10.1016/0022-2496(69)90002-9|issue=2}}</ref> The reporting criterion can shift along the continuum in the direction of more false hits, or more misses. The momentary memory strength of a test item is compared with the decision criteria and if the strength of the item falls within the judgment category, Jt, defined by the placement of the criteria, S makes judgment. The strength of an item is assumed to decline monotonically (with some error variance) as a continuous function of time or number of intervening items.<ref>{{Cite journal | last1 = Hinrichs | first1 = J. V. | title = A two-process memory-strength theory for judgment of recency | doi = 10.1037/h0029101 | journal = Psychological Review | volume = 77 | issue = 3 | pages = 223–233 | year = 1970 }}</ref> False hits are 'new' words incorrectly recognized as old, and a greater proportion of these represents a liberal bias.<ref name="Bernbach, 1967" /> Misses are 'old' words mistakenly not recognized as old, and a greater proportion of these represents a conservative bias.<ref name="Bernbach, 1967" /> The relative distributions of false hits and misses can be used to interpret recognition task performance and correct for guessing.<ref name="Park, 1966">{{Cite journal 
+| doi = 10.1037/h0022662 
+| last1 = Parks | first1 = T. E. 
+| title = Signal-detectability theory of recognition-memory performance 
+| journal = Psychological Review 
+| volume = 73 
+| issue = 1 
+| pages = 44–58 
+| year = 1966 
+| pmid = 5324567
+}}</ref> Only target items can generate an above-threshold recognition response because only they appeared on the list. The lures, along with any targets that are forgotten, fall below threshold, which means that they generate no memory signal whatsoever. False alarms in this model reflect memory-free guesses that are made to some of the lures.<ref name=Dual-Process>{{cite journal|last=Wixted|first=John T.|s2cid=1685052|title=Dual-Process theory and Signal Detection Theory of Recognition Memory|journal=Psychological Review|year=2007|volume=114|pages=152–176|doi=10.1037/0033-295X.114.1.152|pmid=17227185|issue=1}}</ref>
+
+===Level of processing===
+
+The level of [[Cognition#Psychology|cognitive processing]] performed on a given stimuli has an effect on recognition memory performance, with more elaborate, associative processing resulting in better memory performance.<ref name="(Adams,1967)">Adams, J.  (1967). Human memory. New York: McGraw Hill.</ref>  For example, recognition performance is improved through the use of [[Semantic#Psychology|semantic associations]] over [[Distinctive feature|feature associations]].<ref name="(Craik & Lockhart, 1977)">{{Cite journal | last1 = Craik | first1 = F. I. M. | last2 = Lockhart | first2 = R. S. | doi = 10.1016/S0022-5371(72)80001-X | title = Levels of processing: A framework for memory research | journal = Journal of Verbal Learning and Verbal Behavior | volume = 11 | issue = 6 | pages = 671–684 | year = 1972 | s2cid = 14153362 }}</ref>  However, this process is mediated by other features of the stimuli, for example, the relatedness of the items to one another. If the items are highly interrelated, lower-depth item-specific processing (such as rating the pleasantness of each item) helps to distinguish them from one another, and improves recognition memory performance over relational processing.<ref name="Hunt & Einstein, 1981">{{Cite journal | last1 = Hunt | first1 = R. R. | last2 = Einstein | first2 = G. O. | doi = 10.1016/S0022-5371(81)90138-9 | title = Relational and item-specific information in memory | journal = Journal of Verbal Learning and Verbal Behavior | volume = 20 | issue = 5 | pages = 497–514 | year = 1981 }}</ref> This unusual phenomenon is explained by the automatic tendency to perform relational processing on highly interrelated items. Recognition performance is improved by additional processing, even of a lower level of associativeness, but not by a task that duplicates the automated processing already performed on the list of items.<ref name="Roediger & Guynn, 1996">Roediger, H., & Guynn, M.  (1996). "Retrieval Processes". pp. 197–236 in E. Bjork & R. Bjork (Eds.), ''Memory''. California: Academic Press.</ref>
+
+===Context===
+
+There are a variety of ways that context can influence memory. [[Encoding specificity principle|Encoding specificity]] describes how memory performance is enhanced if testing conditions match learning (encoding) conditions.<ref name="(Thompson, 1970)">{{Cite journal | last1 = Thomson | first1 = D. M. | last2 = Tulving | first2 = E. | doi = 10.1037/h0029997 | title = Associative encoding and retrieval: Weak and strong cues | journal = Journal of Experimental Psychology | volume = 86 | issue = 2 | pages = 255–262 | year = 1970 }}</ref> Certain aspects during the learning period, whether it be the environment, your current physical state, or even your [[Mood (psychology)|mood]], become [[Neural coding|encoded]] in the memory trace. Later during retrieval, any of these aspects can serve as cues to aid in recognition. For example, research by Godden and Baddeley<ref name="(Godden, 1975)">{{Cite journal | last1 = Godden | first1 = D. R. | last2 = Baddeley | first2 = A. D. | s2cid = 10699186 | doi = 10.1111/j.2044-8295.1975.tb01468.x | title = Context-Dependent Memory in Two Natural Environments: On Land and Underwater | journal = British Journal of Psychology | volume = 66 | issue = 3 | pages = 325–331 | year = 1975 }}</ref> tested this concept on scuba divers. One group of divers learned lists of words on land, and another group learned underwater. Not surprisingly, test results were highest when the retrieval conditions matched the encoding conditions (those who learned the word lists on land performed best on land, and those who learned underwater performed best underwater). There have also been studies that show similar effects regarding an individual's physical state. This is known as [[state-dependent learning]].<ref name="(Goodwin, 1969)">{{Cite journal 
+| last1 = Goodwin | first1 = D. W. 
+| last2 = Powell | first2 = B. 
+| last3 = Bremer | first3 = D. 
+| last4 = Hoine | first4 = H. 
+| last5 = Stern | first5 = J. 
+| title = Alcohol and Recall: State-Dependent Effects in Man 
+| doi = 10.1126/science.163.3873.1358 
+| journal = Science 
+| volume = 163 
+| issue = 3873 
+| pages = 1358–1360 
+| year = 1969 
+| pmid =  5774177
+| bibcode = 1969Sci...163.1358G 
+| s2cid = 38794062 
+}}</ref> Another type of encoding specificity is [[mood congruent memory]], where individuals are more likely to remember material if the emotional content of the material and the prevailing mood at recall matched.<ref name="(Bower, 1981)">{{Cite journal 
+| doi = 10.1037/0003-066X.36.2.129 
+| last1 = Bower | first1 = G. H. 
+| s2cid = 2215809 | title = Mood and memory 
+| journal = The American Psychologist 
+| volume = 36 
+| issue = 2 
+| pages = 129–148 
+| year = 1981 
+| pmid = 7224324
+}}</ref>
+
+The presence of other individuals can also have an effect on recognition. Two opposing effects, collaborative inhibition and collaborative facilitation, impact memory performance in groups. Specifically, collaborative facilitation refers to the increased performance on recognition tasks in groups. The opposite, collaborative inhibition, refers to a decreased memory performance on recall tasks in groups.<ref name="(Weldon, 1997)">{{Cite journal | last1 = Weldon | first1 = M. S. | last2 = Bellinger | first2 = K. D. | s2cid = 7373565 | doi = 10.1037/0278-7393.23.5.1160 | title = Collective memory: Collaborative and individual processes in remembering | journal = Journal of Experimental Psychology: Learning, Memory, and Cognition | volume = 23 | issue = 5 | pages = 1160–1175 | year = 1997 | pmid =  9293627}}</ref> This is because in a [[Recollection|recall]] task, a specific memory trace must be activated, and outside ideas could produce a kind of interference. Recognition, on the other hand does not utilize the same manner of retrieval plan as recall and is therefore not affected.<ref name="(Hinsz, 1990)">{{Cite journal | last1 = Hinsz | first1 = V. B. | title = Cognitive and consensus processes in group recognition memory performance | doi = 10.1037/0022-3514.59.4.705 | journal = Journal of Personality and Social Psychology | volume = 59 | issue = 4 | pages = 705–718 | year = 1990 }}</ref>
+
+===Recognition errors===
+
+The two basic categories of recognition memory errors are false hits (or false alarms) and misses.<ref name="Park, 1966" /> A false hit is the identification of an occurrence as old when it is in fact new. A miss is the failure to identify a previous occurrence as old.
+
+Two specific types of false hits emerge when elicited through the use of a recognition lure. The first is a feature error, in which a part of an old stimulus is presented in combination with a new element.<ref name="Jones, 2001">{{Cite journal | last1 = Jones | first1 = T. C. | last2 = Jacoby | first2 = L. L. | s2cid = 218476893 | doi = 10.1006/jmla.2000.2761 | title = Feature and Conjunction Errors in Recognition Memory: Evidence for Dual-Process Theory | journal = Journal of Memory and Language | volume = 45 | pages = 82–102 | year = 2001 }}</ref> For example, if the original list contained "blackbird, jailbait, buckwheat", a feature error may be elicited through the presentation of "buckshot" or "blackmail" at test, as each of these lures has an old and a new component.<ref name="Jones et al, 2007">{{Cite journal | last1 = Jones | first1 = T. C. | last2 = Brown | first2 = A. S. | last3 = Atchley | first3 = P. | doi = 10.3758/BF03193471 | title = Feature and conjunction effects in recognition memory: Toward specifying familiarity for compound words | journal = Memory & Cognition | volume = 35 | issue = 5 | pages = 984–998 | year = 2007 | pmid =  17910182| s2cid = 19398704 }}</ref> The second type of error is a conjunction error, in which parts of multiple old stimuli are combined.<ref name="Jones, 2001" />  Using the same example, "jailbird" could elicit a conjunction error, as it is a conjunction of two old stimuli.<ref name="Jones et al, 2007" /> Both types of errors can be elicited through both [[Sound|auditory]] and [[Visual system|visual]] modalities, suggesting that the processes that produce these errors are not modality-specific.<ref name="Jones et al, 2001">{{Cite journal | last1 = Jones | first1 = T. C. | last2 = Jacoby | first2 = L. L. | last3 = Gellis | first3 = L. A. | s2cid = 53416282 | title = Cross-Modal Feature and Conjunction Errors in Recognition Memory | doi = 10.1006/jmla.2001.2713 | journal = Journal of Memory and Language | volume = 44 | pages = 131–152 | year = 2001 }}</ref>
+
+A third false hit error can be induced through the use of the [[Deese–Roediger–McDermott paradigm|Deese–Roediger–McDermott]]<ref name="Roediger et al, 1995">{{Cite journal | last1 = Roediger | first1 = H. L. | last2 = McDermott | first2 = K. B. | doi = 10.1037/0278-7393.21.4.803 | title = Creating false memories: Remembering words not presented in lists | journal = Journal of Experimental Psychology: Learning, Memory, and Cognition | volume = 21 | issue = 4 | pages = 803–814 | year = 1995 }}</ref> paradigm. If all items studied are highly related to one word that does not appear on the list, the subject is highly likely to recognize that word as old in the test.<ref name="Nadel et al, 2002">{{Cite journal 
+| last1 = Nadel | first1 = L. 
+| last2 = Payne | first2 = J. D. 
+| title = The relationship between episodic memory and context: Clues from memory errors made while under stress 
+| journal = Physiological Research 
+| volume = 51 
+| pages = S3–11 
+| year = 2002 
+| issue = Suppl 1 
+| doi = 10.33549/physiolres.930000.51.S3 
+| pmid = 12479781
+| doi-access = free 
+}}</ref> An example of this would be a list containing the following words: nap, drowsy, bed, duvet, night, relax. The lure in this case is the word 'sleep'. It is highly likely that 'sleep' would be falsely recognized as appearing on that list due to the level of activation received from the list words. This phenomenon is so pervasive that the rate of false generated in this manner can even surpass the rate of correct responses.<ref name="Roediger, 1998">Roediger, H., McDermott, K., & Robinson, K.  (1998). "The role of associative processes in creating false memories", pp. 187–245 in M. Conway, S. Gathercole, & C. Cornoldi (Eds.),  ''Theories of memory II''. Sussex: Psychological Press.</ref>
+
+===Mirror effect===
+
+According to Robert L. Green (1996), the mirror effect occurs when stimuli that are easy to recognize as old when old are also easy to recognize as new when new in recognition. The mirror effect refers to the consistency of the recognition of the stimuli in memory.{{clarify|date=October 2012}} In other words, they are easier to remember when you have previously studied the stimuli i.e., old, and easier to reject when you have not seen them before, i.e. new. Murray Glanzer and John K. Adams first described the mirror effect in 1985. The mirror effect has been effective in tests of associative recognition, measures of latency responses, discriminations of order, and others (Glanzer & Adams, 1985).
+
+==Neural underpinnings==
+
+On the whole, research concerning the neural substrates of familiarity and recollection demonstrates that these processes typically involve different brain regions, thereby supporting a dual-process theory of recognition memory. However, due to the complexity and inherent interconnectivity of the [[Neural network (biology)|neural networks]] of the brain, and given the close proximity of regions involved in familiarity to regions involved in recollection, it is difficult to pinpoint the structures that are specifically related to recollection or to familiarity. What is known at present is that most of a number of neuroanatomical regions involved in recognition memory are primarily associated with one subcomponent over the other.
+
+[[Image:Gray727.svg|thumb|Medial sagittal view of human brain]]
+
+===Normal brains===
+
+Recognition memory is critically dependent on a hierarchically organized network of brain areas, including the visual [[ventral stream]], medial [[temporal lobe]] structures, [[frontal lobe]] and [[Parietal lobe|parietal]] cortices,<ref>{{Cite journal 
+| doi = 10.1177/155005940603700407 
+| last1 = Neufang | first1 = M. 
+| last2 = Heinze | first2 = H. J. 
+| last3 = Duzel | first3 = E. 
+| title = Electromagnetic correlates of recognition memory processes 
+| journal = Clinical EEG and Neuroscience 
+| volume = 37 
+| issue = 4 
+| pages = 300–308 
+| year = 2006 
+| pmid = 17073168
+| s2cid = 22137108 }}</ref> along with the [[hippocampus]].<ref name="Yonelinas, A. P. et al. (2005).">{{Cite journal 
+| last1 = Yonelinas | first1 = A. P. 
+| last2 = Otten | first2 = L. J. 
+| last3 = Shaw | first3 = K. N. 
+| last4 = Rugg | first4 = M. D. 
+| title = Separating the Brain Regions Involved in Recollection and Familiarity in Recognition Memory 
+| doi = 10.1523/JNEUROSCI.5295-04.2005 
+| journal = Journal of Neuroscience 
+| volume = 25 
+| issue = 11 
+| pages = 3002–3008 
+| year = 2005 
+| pmid = 15772360 
+| pmc = 6725129
+}}</ref> As mentioned previously, the processes of recollection and familiarity are represented differently in the brain. As such, each of the regions listed above can be further subdivided according to which part is primarily involved in recollection or in familiarity. In the temporal cortex, for instance, the medial region is related to recollection whereas the anterior region is related to familiarity. Similarly, in the parietal cortex, the lateral region is related to recollection whereas the superior region is related to familiarity.<ref name="Yonelinas, A. P. et al. (2005)."/> An even more specific account divides the medial parietal region, relating the [[Posterior cingulate cortex|posterior cingulate]] to recollection and the [[precuneus]] to familiarity.<ref name="Yonelinas, A. P. et al. (2005)."/> The hippocampus plays a prominent role in recollection whereas familiarity depends heavily on the surrounding medial-temporal regions, especially the perirhinal cortex.<ref>{{Cite journal | last1 = Yonelinas | first1 = A. P. | s2cid = 145694875 | title = The Nature of Recollection and Familiarity: A Review of 30 Years of Research | doi = 10.1006/jmla.2002.2864 | journal = Journal of Memory and Language | volume = 46 | issue = 3 | pages = 441–517 | year = 2002 }}</ref> Finally, it is not yet clear what specific regions of the prefrontal lobes are associated with recollection versus familiarity, although there is evidence that the left [[prefrontal cortex]] is correlated more strongly with recollection whereas the right prefrontal cortex is involved more in familiarity.<ref>{{Cite journal 
+| last1 = Henson | first1 = R. N. 
+| last2 = Rugg | first2 = M. D. 
+| last3 = Shallice | first3 = T. 
+| last4 = Josephs | first4 = O. 
+| last5 = Dolan | first5 = R. J. 
+| title = Recollection and familiarity in recognition memory: An event-related functional magnetic resonance imaging study 
+| journal = The Journal of Neuroscience 
+| volume = 19 
+| issue = 10 
+| pages = 3962–3972 
+| year = 1999 
+| pmid = 10234026
+| pmc = 6782715 
+| doi = 10.1523/JNEUROSCI.19-10-03962.1999 
+}}</ref><ref name="Kesinger, E. A. (2003).">{{Cite journal 
+| last1 = Kensinger | first1 = E. A. 
+| last2 = Clarke | first2 = R. J. 
+| last3 = Corkin | first3 = S. 
+| title = What neural correlates underlie successful encoding and retrieval? A functional magnetic resonance imaging study using a divided attention paradigm 
+| journal = The Journal of Neuroscience 
+| volume = 23 
+| issue = 6 
+| pages = 2407–2415 
+| year = 2003 
+| pmid = 12657700
+| pmc = 6742028 
+| doi = 10.1523/JNEUROSCI.23-06-02407.2003 
+}}</ref> Though left-side activation involved in recollection was originally hypothesized to result from semantic processing of words (many of these earlier studies used written words for stimuli), subsequent studies using nonverbal stimuli produced the same finding—suggesting that prefrontal activation in the left hemisphere results from any kind of detailed remembering.<ref>{{Cite journal 
+| last1 = Ranganath | first1 = C. 
+| last2 = Johnson | first2 = M. K. 
+| last3 = d'Esposito | first3 = M. 
+| title = Left anterior prefrontal activation increases with demands to recall specific perceptual information 
+| journal = The Journal of Neuroscience 
+| volume = 20 
+| issue = 22 
+| pages = RC108 
+| year = 2000 
+| pmid = 11069977
+| pmc = 6773176 
+| doi = 10.1523/JNEUROSCI.20-22-j0005.2000 
+}}</ref> 
+ 
+As previously mentioned, recognition memory is not a stand-alone concept; rather, it is a highly interconnected and integrated sub-system of memory. Perhaps misleadingly, the regions of the brain listed above correspond to an abstract and highly generalized understanding of recognition memory, in which the stimuli or items-to-be-recognized are not specified. In reality, however, the location of brain activation involved in recognition is highly dependent on the nature of the stimulus itself. Consider the conceptual differences in recognizing written words compared to recognizing human faces. These are two qualitatively different tasks and as such it is not surprising that they involve additional, distinct regions of the brain. Recognizing words, for example, involves the [[visual word form area]], a region in the left [[fusiform gyrus]], which is believed to specialized in recognizing written words.<ref>{{Cite journal 
+| last1 = Cohen | first1 = L. 
+| last2 = Dehaene | first2 = S. 
+| doi = 10.1016/j.neuroimage.2003.12.049 
+| title = Specialization within the ventral stream: The case for the visual word form area 
+| journal = NeuroImage 
+| volume = 22 
+| issue = 1 
+| pages = 466–476 
+| year = 2004 
+| pmid = 15110040 
+| s2cid = 10459157 
+| citeseerx = 10.1.1.2.4988 
+}}</ref> Similarly, the [[fusiform face area]], located in the right hemisphere, is linked specifically to the recognition of faces.<ref>{{Cite journal 
+| last1 = Kanwisher | first1 = N. 
+| last2 = Wojciulik | first2 = E. 
+| title = Visual attention: Insights from brain imaging 
+| journal = Nature Reviews Neuroscience 
+| volume = 1 
+| issue = 2 
+| pages = 91–100 
+| doi = 10.1038/35039043 
+| year = 2000 
+| pmid = 11252779 
+| s2cid = 20304513 
+}}</ref>
+
+====Encoding====
+
+Strictly speaking, recognition is a process of memory ''retrieval'', but how a memory is formed in the first place affects how it is retrieved. An area of study related to recognition memory deals with how memories are initially learned or encoded in the brain. This encoding process is an important aspect of recognition memory because it determines not only whether or not a previously introduced item is recognized, but ''how'' that item is retrieved through memory. Depending on the strength of the memory, the item may either be 'remembered' (i.e. a recollection judgment) or simply 'known' (i.e. a familiarity judgment). Of course, the strength of the memory depends on many factors, including whether or not the person was giving their full attention to [[Memorization|memorizing]] the information or whether they were distracted, whether they are actively attempting to learn (intentional learning) or only learning passively, whether they were allowed to rehearse the information or not, etc., although these contextual details are beyond the scope of this entry.
+ 
+Several studies have shown that when an individual is devoting his/her full attention to the memorization process, the strength of the successful memory is related to the magnitude of bilateral activation in the prefrontal cortex, hippocampus, and parahippocampal gyrus.<ref>{{Cite journal
+ |doi     = 10.1097/00001756-199703240-00051
+ |last1   = Johnson
+ |first1  = M. K.
+ |last2   = Kounios
+ |first2  = J.
+ |last3   = Nolde
+ |first3  = S. F.
+ |title   = Electrophysiological brain activity and memory source monitoring
+ |journal = NeuroReport
+ |volume  = 8
+ |issue   = 5
+ |pages   = 1317–1320
+ |year    = 1997
+ |pmid    = 9175136
+ |url     = http://memlab0.eng.yale.edu/PDFs/1997_Johnson_Kounios_Nolde_NeuroReport.pdf
+|archive-url = https://web.archive.org/web/20100714174412/http://memlab0.eng.yale.edu/PDFs/1997_Johnson_Kounios_Nolde_NeuroReport.pdf
+|url-status = dead
+|archive-date = 2010-07-14
+}}</ref><ref>{{Cite journal 
+| last1 = Wagner | first1 = A. D. 
+| last2 = Koutstaal | first2 = W. 
+| last3 = Schacter | first3 = D. L. 
+| doi = 10.1098/rstb.1999.0481 
+| title = When encodong yields remembering: Insights from event-related neuroimaging 
+| journal = Philosophical Transactions of the Royal Society B: Biological Sciences 
+| volume = 354 
+| issue = 1387 
+| pages = 1307–1324 
+| year = 1999 
+| pmid = 10466153 
+| pmc =1692641 
+}}</ref><ref>{{Cite journal 
+| doi = 10.1126/science.281.5380.1185 
+| last1 = Brewer | first1 = J. B. 
+| last2 = Zhao | first2 = Z. 
+| last3 = Desmond | first3 = J. E. 
+| last4 = Glover | first4 = G. H. |author4-link=Gary H. Glover
+| last5 = Gabrieli | first5 = J. D. |author5-link=John Gabrieli
+| title = Making memories: Brain activity that predicts how well visual experience will be remembered 
+| journal = Science 
+| volume = 281 
+| issue = 5380 
+| pages = 1185–1187 
+| year = 1998 
+| pmid = 9712581|url=https://www.researchgate.net/publication/13571973
+| bibcode = 1998Sci...281.1185B }}</ref> The greater the activation in these areas during learning, the better the memory. Thus, these areas are involved in the formation of detailed, recollective memories.<ref name="Davachi">{{Cite journal 
+| last1 = Davachi | first1 = L. 
+| last2 = Maril | first2 = A. 
+| last3 = Wagner | first3 = A. D. 
+| doi = 10.1162/089892901753294356 
+| title = When Keeping in Mind Supports Later Bringing to Mind: Neural Markers of Phonological Rehearsal Predict Subsequent Remembering 
+| journal = Journal of Cognitive Neuroscience 
+| volume = 13 
+| issue = 8 
+| pages = 1059–1070 
+| year = 2001 
+| pmid = 11784444 
+| s2cid = 6071005 
+| url=http://www.stanford.edu/group/memorylab/Publications/papers/DAV_JOCN01.pdf
+}}</ref> In contrast, when subjects are distracted during the memory-encoding process, only the right prefrontal cortex and left parahippocampal gyrus are activated.<ref name="Kesinger, E. A. (2003)."/> These regions are associated with "a sense of knowing" or familiarity.<ref name="Davachi"/> Given that the areas involved in familiarity are also involved in recollection, this conforms to a single-process theory of recognition, at least insofar as the encoding of memories is concerned.
+
+====In other senses====
+Recognition memory is not confined to the visual domain; we can recognize things in each of the [[Sense|five traditional sensory modalities]] (sight, hearing, touch, smell, and taste). Although most neuroscientific research has focused on visual recognition, there have also been studies related to [[Hearing (sense)|audition]] (hearing), [[olfaction]] (smell), [[gustation]] (taste), and [[tactition]] (touch).
+
+===== Audition =====
+
+Auditory recognition memory is primarily dependent on the medial temporal lobe as displayed by studies on [[Lesion|lesioned]] patients and amnesics.<ref name="scquire">{{Cite journal 
+| last1 = Squire | first1 = L. R. 
+| last2 = Schmolck | first2 = H. 
+| last3 = Stark | first3 = S. M. 
+| doi = 10.1101/lm.42001 
+| title = Impaired Auditory Recognition Memory in Amnesic Patients with Medial Temporal Lobe Lesions 
+| journal = Learning & Memory 
+| volume = 8 
+| issue = 5 
+| pages = 252–256 
+| year = 2001 
+| pmid = 11584071 
+| pmc =311381 
+}}</ref> Moreover, studies conducted on monkeys<ref>{{cite journal | last1 = Saunders | first1 = R. | last2 = Fritz | first2 = J. | last3 = Mishkin | first3 = M. | year = 1998 | title = The Effects of Rhinal Cortical Lesions on Auditory Short-Term Memory in the Rhesus Monkey | journal = Society for Neuroscience Abstracts | volume = 28 | page = 757 }}</ref> and dogs<ref name="kowalska">{{Cite journal 
+| doi = 10.1016/S0306-4522(01)00140-3 
+| last1 = Kowalska | first1 = D. M. 
+| last2 = Kuśmierek | first2 = P. 
+| last3 = Kosmal | first3 = A. 
+| last4 = Mishkin | first4 = M. 
+| title = Neither perirhinal/entorhinal nor hippocampal lesions impair short-term auditory recognition memory in dogs 
+| journal = Neuroscience 
+| volume = 104 
+| issue = 4 
+| pages = 965–978 
+| year = 2001 
+| pmid = 11457584
+| s2cid = 1916998 }}</ref> have confirmed that perinhinal and [[entorhinal]] cortex lesions fail to affect auditory recognition memory as they do in vision. Further research is needed to investigate the role of the hippocampus in auditory recognition memory, as studies in lesioned patients suggest that the hippocampus does play a small role in auditory recognition memory<ref name="scquire"/> while studies with lesioned dogs<ref name="kowalska"/> directly conflict this finding. It has also been proposed that area TH is vital for auditory recognition memory,<ref name="scquire"/> but further research must be done in this area as well. Studies comparing visual and auditory recognition memory conclude the auditory modality is inferior.<ref>{{Cite journal 
+| last1 = Cohen | first1 = M. A. 
+| last2 = Horowitz | first2 = T. S. 
+| last3 = Wolfe | first3 = J. M. 
+| doi = 10.1073/pnas.0811884106 
+| title = Auditory recognition memory is inferior to visual recognition memory 
+| journal = Proceedings of the National Academy of Sciences 
+| volume = 106 
+| issue = 14 
+| pages = 6008–6010 
+| year = 2009 
+| pmid = 19307569 
+| pmc =2667065 
+| bibcode = 2009PNAS..106.6008C 
+| doi-access = free 
+}}</ref>
+
+==== Olfaction ====
+Research on human [[Sense of smell|olfaction]] (sense of smell) is scant in comparison to other senses such as vision and hearing, and studies specifically devoted to olfactory recognition are even rarer. Thus, what little information there is on this subject is gleaned through animal studies. Rodents such as mice or rats are suitable subjects for odor recognition research given that smell is their primary sense.<ref>The Humane Society of the United States. (2007). [http://www.hsus.org/animals_in_research/species_used_in_research/mouse.html ''Mouse''] {{Webarchive|url=https://web.archive.org/web/20100122092346/http://www.hsus.org/animals_in_research/species_used_in_research/mouse.html |date=2010-01-22 }}.</ref> "[For these species], recognition of individual body odors is analogous to human face recognition in that it provides information about identity."<ref name="Schaefer">{{Cite journal 
+| last1 = Schaefer | first1 = M. L. 
+| last2 = Yamazaki | first2 = K. 
+| last3 = Osada | first3 = K. 
+| last4 = Restrepo | first4 = D. 
+| last5 = Beauchamp | first5 = G. K. 
+| title = Olfactory fingerprints for major histocompatibility complex-determined body odors II: Relationship among odor maps, genetics, odor composition, and behavior 
+| journal = The Journal of Neuroscience 
+| volume = 22 
+| issue = 21 
+| pages = 9513–9521 
+| year = 2002 
+| pmid = 12417675
+| pmc = 6758037 
+| doi = 10.1523/JNEUROSCI.22-21-09513.2002 
+}}</ref> In mice, individual body odors are represented at the [[major histocompatibility complex]] (MHC).<ref name="Schaefer" />  
+In a study performed with rats,<ref name="Ramus">{{Cite journal 
+| last1 = Ramus | first1 = S. J. 
+| last2 = Eichenbaum | first2 = H. 
+| title = Neural correlates of olfactory recognition memory in the rat orbitofrontal cortex 
+| journal = The Journal of Neuroscience 
+| volume = 20 
+| issue = 21 
+| pages = 8199–8208 
+| year = 2000 
+| pmid = 11050143
+| pmc = 6772715 
+| doi = 10.1523/JNEUROSCI.20-21-08199.2000 
+}}</ref> the [[orbitofrontal cortex]] (OF) was found to play an important role in odor recognition. The OF is reciprocally connected with the perirhinal and entorhinal areas of the medial temporal lobe,<ref name="Ramus" /> which have also been implicated in recognition memory.
+
+==== Gustation ====
+[[Taste|Gustatory]] recognition memory, or the recognition of taste, is correlated with activity in the anterior temporal lobe (ATL).<ref>{{Cite journal 
+| last1 = Small | first1 = D. M. 
+| last2 = Jones-Gotman | first2 = M. 
+| last3 = Zatorre | first3 = R. J. 
+| last4 = Petrides | first4 = M. 
+| last5 = Evans | first5 = A. C. 
+| title = A role for the right anterior temporal lobe in taste quality recognition 
+| journal = The Journal of Neuroscience 
+| volume = 17 
+| issue = 13 
+| pages = 5136–5142 
+| year = 1997 
+| pmid = 9185551
+| pmc = 6573307 
+| doi = 10.1523/JNEUROSCI.17-13-05136.1997 
+}}</ref> In addition to brain imaging techniques, the role of the ATL in gustatory recognition is evidenced by the fact that lesions to this area result in an increased threshold for taste recognition for humans.<ref>{{Cite journal 
+| last1 = Henkin | first1 = R. I. 
+| last2 = Comiter | first2 = H. 
+| last3 = Fedio | first3 = P. 
+| last4 = O'Doherty | first4 = D. 
+| title = Defects in taste and smell recognition following temporal lobectomy 
+| journal = Transactions of the American Neurological Association 
+| volume = 102 
+| pages = 146–150 
+| year = 1977 
+| pmid = 616096
+}}</ref> [[Cholinergic]] [[neurotransmission]] in the [[perirhinal cortex]] is essential for the acquisition of taste recognition memory and [[conditioned taste aversion]] in humans.<ref>{{Cite journal | last1 = Gutierrez | first1 = R. | doi = 10.1101/lm.69704 | title = Perirhinal Cortex Muscarinic Receptor Blockade Impairs Taste Recognition Memory Formation | journal = Learning & Memory | volume = 11 | issue = 1 | pages = 95–101 | year = 2004 | pmid =  14747522| pmc = 321319}}</ref>
+
+==== Tactition ====
+Monkeys with lesions in the perirhinal and parahippocampal cortices also show impairment on [[Somatosensory system|tactual]] (touch) recognition.<ref>{{Cite journal 
+| last1 = Suzuki | first1 = W. A. 
+| last2 = Zola-Morgan | first2 = S. 
+| last3 = Squire | first3 = L. R. 
+| last4 = Amaral | first4 = D. G. 
+| title = Lesions of the perirhinal and parahippocampal cortices in the monkey produce long-lasting memory impairment in the visual and tactual modalities 
+| journal = The Journal of Neuroscience 
+| volume = 13 
+| issue = 6 
+| pages = 2430–2451 
+| year = 1993 
+| pmid = 8501516
+| pmc = 6576496 
+| doi = 10.1523/JNEUROSCI.13-06-02430.1993 
+}}</ref>
+
+===Lesioned brains===
+
+The concept of [[domain specificity]] is one that has helped researchers probe deeper into the neural substrates of recognition memory. Domain specificity is the notion that some areas of the brain are responsible almost exclusively for the processing of particular categories. For example, it is well documented that the [[fusiform gyrus]] (FFA) in the inferior temporal lobe is heavily involved in face recognition. A specific region in this gyrus is even named the [[Fusiform Face Area|fusiform face area]] due to its heightened neurological activity during [[face perception]].<ref name="(Kanwisher, 2000)">{{Cite journal 
+| last1 = Kanwisher | first1 = N. 
+| title = Domain specificity in face perception 
+| journal = Nature Neuroscience 
+| volume = 3 
+| issue = 8 
+| pages = 759–763 
+| year = 2000 
+| doi = 10.1038/77664 
+| pmid = 10903567 
+| s2cid = 1485649 
+}}</ref>  Similarly there is also a region of the brain known as the [[parahippocampal place area]] on the [[parahippocampal gyrus]]. As the name implies, this area is sensitive to environmental context, places.<ref name="(Epstein, 1998)">{{Cite journal 
+| last1 = Epstein | first1 = R. 
+| last2 = Kanwisher | first2 = N. 
+| title = A cortical representation of the local visual environment 
+| journal = Nature 
+| volume = 392 
+| issue = 6676 
+| pages = 598–601 
+| doi = 10.1038/33402 
+| year = 1998 
+| pmid = 9560155 
+| bibcode = 1998Natur.392..598E 
+| s2cid = 920141 
+}}</ref> Damage to these areas of the brain can lead to very specific deficits. For example, damage to the FFA often leads to [[Agnosia|prosopagnosia]], an inability to recognize faces.<ref name="(DeRenzi, 1986)">{{Cite journal 
+| doi = 10.1016/0028-3932(86)90023-0 
+| last1 = De Renzi | first1 = E. 
+| title = Prosopagnosia in two patients with CT scan evidence of damage confined to the right hemisphere 
+| journal = Neuropsychologia 
+| volume = 24 
+| issue = 3 
+| pages = 385–389 
+| year = 1986 
+| pmid = 3736820
+| s2cid = 53181659 }}</ref> Lesions to various brain regions such as these serve as case study data that help researchers understand the neural correlates of recognition.
+
+[[Image:Gray728.svg|thumb|The Four Basic Lobes of the Human Brain]]
+
+====Medial temporal lobe====
+
+The medial [[temporal lobe]]s and their surrounding structures are of immense importance to memory in general. The [[hippocampus]] is of particular interest. It has been well documented that damage here can result in severe [[Retrograde amnesia|retrograde]] or [[Anterograde amnesia|anterograde]] amnesia, where the patient is unable to recollect certain events from their past or create new memories respectively.<ref name="(Zola-Morgan, 1993)">{{Cite journal | last1 = Zola-Morgan | first1 = S. | last2 = Squire | first2 = L. R. | doi = 10.1146/annurev.ne.16.030193.002555 | title = Neuroanatomy of Memory | journal = Annual Review of Neuroscience | volume = 16 | pages = 547–563 | year = 1993 | pmid = 8460903 | url = http://www.neuro.iastate.edu/uploads/squirelr_annrevns93.pdf | archive-url = https://web.archive.org/web/20130627054841/http://www.neuro.iastate.edu/Uploads/SquireLR_AnnRevNS93.pdf | url-status = dead | archive-date = 2013-06-27 }}</ref>  However, the hippocampus does not seem to be the "storehouse" of memory. Rather, it may function more as a relay station. Research suggests that it is through the hippocampus that [[short-term memory]] engages in the process of [[memory consolidation]] (the transfer to long-term storage). The memories are transferred from the hippocampus to the broader lateral [[neocortex]] via the entorhinal cortex.<ref name="(Nestor, 2002)">{{Cite journal 
+| doi = 10.1016/S0028-3932(01)00155-5 
+| last1 = Nestor | first1 = P. J. 
+| last2 = Graham | first2 = K. S. 
+| last3 = Bozeat | first3 = S. 
+| last4 = Simons | first4 = J. S. 
+| last5 = Hodges | first5 = J. R. 
+| title = Memory consolidation and the hippocampus: Further evidence from studies of autobiographical memory in semantic dementia and frontal variant frontotemporal dementia 
+| journal = Neuropsychologia 
+| volume = 40 
+| issue = 6 
+| pages = 633–654 
+| year = 2002 
+| pmid = 11792404
+| s2cid = 3100970 }}</ref>  This helps explain why many amnesics have spared cognitive abilities. They may have a normal short-term memory, but are unable to consolidate that memory and it is lost rapidly. Lesions in the medial temporal lobe often leave the subject with the capacity to learn new skills, also known as [[procedural memory]]. If experiencing anterograde amnesia, the subject cannot recall any of the learning trials, yet consistently improves with each trial.<ref name="(Knowlton, 2004)">{{cite journal | last1 = Knowlton | first1 = B. J. | last2 = Squire | first2 = L. R. | last3 = Gluck | first3 = M. A. | year = 2004 | title = Probabilistic category learning in amnesia | journal = Learning and Memory | volume = 1 | pages = 106–120| doi = 10.1101/lm.1.2.106 | s2cid = 439626 |url=http://www.gluck.edu/pdf/Probabilistic%20Classification%20Learning%20in%20Amnesia.pdf }}</ref>  This highlights the distinctiveness of recognition as a particular and separate type of memory, falling into the domain of [[declarative memory]].
+
+The hippocampus is also useful in the familiarity vs. recollection distinction in recognition as mentioned above. A familiar memory is a context-free memory in which the person has a feeling of "know", as in, "I know I put my car keys here somewhere". It can sometimes be likened to a [[tip of the tongue]] feeling. Recollection, on the other hand, is a much more specific, deliberate, and conscious process.<ref name="Mandler" />  The hippocampus is believed heavily involved in recollection, whereas familiarity is attributed to the perirhinal cortex and broader temporal cortex in general; however, there is debate over the validity of these neural substrates and even the familiarity/recollection separation itself.<ref name="(Ranganath, 2004)">{{cite journal | last1 = Ranganath | first1 = C. | last2 = Yonelinas | first2 = A. P. | last3 = Cohen | first3 = M. X. | last4 = Dy | first4 = C. J. | last5 = Tom | first5 = S. M. | last6 = d'Esposito | first6 = M. | year = 2004 | title = Dissociable correlates of recollection and familiarity within the medial temporal lobes| journal = Neuropsychologia | volume = 42 | issue = 1| pages = 2–13 | doi = 10.1016/j.neuropsychologia.2003.07.006 | pmid = 14615072 | s2cid = 14415860 }}</ref>
+
+Damage to the temporal lobes can also result in [[visual agnosia]], a deficit in which patients are unable to properly recognize objects, either due to a perceptive deficit, or a deficit in [[semantic memory]].<ref name="(Humphreys, 1987)">Humphreys, G. W., & Riddoch, M. J. (1987). ''To see but not to see: A case of visual agnosia''. Hove, Uk: Lawrence Erlbaum Associates, {{ISBN|0863770657}}.</ref> In the process of object recognition, visual information from the [[Occipital Lobe|occipital lobes]] (such as lines, movement, and colour) must at some point be actively interpreted by the brain and attributed meaning. This is commonly referred to in terms of the ventral, or "what" pathway, which leads to the temporal lobes.<ref>{{cite book|author1=Werner, J.  |author2=Chalupa, L |name-list-style=amp |title=The Visual Neurosciences|url=https://books.google.com/books?id=AN-sdYjcyvAC&pg=PA544|year=2004|publisher=MIT Press|isbn=978-0-262-03308-4|pages=544–}}</ref>  People with visual [[agnosia]] are often able to identify features of an object (it is small, cylindrical, has a handle etc.), but are unable to recognize the object as a whole (a tea cup).<ref>Ellis, R., & Humphreys, G. (1999). Connectionist Psychology. ''Psychology Press''. p. 548–549, {{ISBN|0863777872}}.</ref>  This has been termed specifically as [[integrative agnosia]].<ref name="(Humphreys, 1987)"/>
+
+====Parietal lobe====
+
+Recognition memory was long thought to involve only the structures of the [[Temporal lobe|medial temporal lobe]]. More recent [[Neuroimaging|neuroimaging research]] has begun to demonstrate that the [[parietal lobe]] plays an important, though often subtle<ref name="Cabeza et al, 2008">{{Cite journal 
+| last1 = Cabeza | first1 = R. 
+| last2 = Ciaramelli | first2 = E. 
+| last3 = Olson | first3 = I. R. 
+| last4 = Moscovitch | first4 = M. 
+| title = The parietal cortex and episodic memory: An attentional account 
+| doi = 10.1038/nrn2459 
+| journal = Nature Reviews Neuroscience 
+| volume = 9 
+| issue = 8 
+| pages = 613–625 
+| year = 2008 
+| pmid = 18641668 
+| pmc =2692883 
+}}</ref> role in recognition memory as well. Early [[Positron emission tomography|PET]] and [[Functional magnetic resonance imaging|fMRI]] studies demonstrated activation of the [[posterior parietal cortex]] during recognition tasks,<ref name="Wagner et al, 2005">{{Cite journal 
+| last1 = Wagner | first1 = A. D. 
+| last2 = Shannon | first2 = B. J. 
+| last3 = Kahn | first3 = I. 
+| last4 = Buckner | first4 = R. L. 
+| title = Parietal lobe contributions to episodic memory retrieval 
+| doi = 10.1016/j.tics.2005.07.001 
+| journal = Trends in Cognitive Sciences 
+| volume = 9 
+| issue = 9 
+| pages = 445–453 
+| year = 2005 
+| pmid = 16054861 
+| s2cid = 8394695 
+}}</ref> however, this was initially attributed to retrieval activation of [[precuneus]], which was thought involved in reinstating visual content in memory.<ref name="Fletcher et al, 1995">{{Cite journal 
+| last1 = Fletcher | first1 = P. C. 
+| last2 = Frith | first2 = C. D. 
+| last3 = Baker | first3 = S. C. 
+| last4 = Shallice | first4 = T. 
+| last5 = Frackowiak | first5 = R. S. J. 
+| last6 = Dolan | first6 = R. J. 
+| doi = 10.1006/nimg.1995.1025 
+| title = The Mind's Eye—Precuneus Activation in Memory-Related Imagery 
+| journal = NeuroImage 
+| volume = 2 
+| issue = 3 
+| pages = 195–200 
+| year = 1995 
+| pmid = 9343602 
+| hdl = 21.11116/0000-0001-A200-7 
+| s2cid = 20334615 
+| hdl-access = free 
+}}</ref>
+
+New evidence from studies of patients with right [[Anatomical terms of location#Anterior and posterior|posterior]] parietal lobe damage indicates very specific recognition deficits.<ref name="Berryhill & Olson, 2008">{{Cite journal 
+| last1 = Berryhill | first1 = M. E. 
+| last2 = Olson | first2 = I. R. 
+| doi = 10.1016/j.neuropsychologia.2008.03.005 
+| title = Is the posterior parietal lobe involved in working memory retrieval? 
+| journal = Neuropsychologia 
+| volume = 46 
+| issue = 7 
+| pages = 1775–1786 
+| year = 2008 
+| pmid = 18439630 
+| pmc =2494709 
+}}</ref>  This damage causes impaired performance on object recognition tasks with a variety of visual stimuli, including colours, familiar objects, and new shapes. This performance deficit is not a result of [[Source-monitoring error|source monitoring errors]], and accurate performance on [[Recollection|recall]] tasks indicates that the information has been encoded. Damage to the posterior parietal lobe therefore does not cause global memory retrieval errors, only errors on recognition tasks.
+
+Lateral parietal cortex damage (either [[Anatomical terms of location#Left and right (lateral), and medial|dextral or sinistral]]) impairs performance on recognition memory tasks, but does not affect source memories.<ref name="Davidson et al, 2008">{{Cite journal |vauthors=Davidson PS, Anaki D, Ciaramelli E, Cohn M, Kim AS, Murphy KJ, Troyer AK, Moscovitch M, Levine B | doi = 10.1016/j.neuropsychologia.2008.01.011 | title = Does lateral parietal cortex support episodic memory? | journal = Neuropsychologia | volume = 46 | issue = 7 | pages = 1743–1755 | year = 2008 | pmid =  18313699| pmc =2806230}}</ref>  What is remembered is more likely to be of the 'familiar', or 'know' type, rather than 'recollect' or 'remember',<ref name="Cabeza et al, 2008" /> indicating that damage to the parietal cortex impairs the conscious experience of memory.
+
+There are several hypotheses that seek to explain the involvement of the posterior parietal lobe in recognition memory. The attention to memory model (AtoM) posits that the posterior parietal lobe could play the same role in memory as it does in attention: mediating [[Top-down and bottom-up design|top-down versus bottom-up processes]].<ref name="Cabeza et al, 2008" />  Memory goals can either be deliberate (top-down) or in response to an external memory cue (bottom-up). The superior parietal lobe sustains top-down goals, those provided by explicit directions. The inferior parietal lobe can cause the superior parietal lobe to redirect attention to bottom-up driven memory in the presence of an environmental cue. This is the spontaneous, non-deliberate memory process involved in recognition. This hypothesis explains many findings related to [[episodic memory]], but fails to explain the finding that diminishing the top-down memory cues given to patients with bilateral posterior parietal lobe damage had little effect on memory performance.<ref name="Simon et al">{{Cite journal | last1 = Simons | first1 = J. S. | last2 = Peers | first2 = P. V. | last3 = Mazuz | first3 = Y. S. | last4 = Berryhill | first4 = M. E. | last5 = Olson | first5 = I. R. | title = Dissociation Between Memory Accuracy and Memory Confidence Following Bilateral Parietal Lesions | doi = 10.1093/cercor/bhp116 | journal = Cerebral Cortex | volume = 20 | issue = 2 | pages = 479–485 | year = 2009 | pmid =  19542474| pmc =2803741 }}</ref>
+
+A new hypothesis explains a greater range of parietal lobe lesion findings by proposing that the role of the parietal lobe is in the subjective experience of vividness and confidence in memories.<ref name="Cabeza et al, 2008" />  This hypothesis is supported by findings that lesions on the parietal lobe cause the perception that memories lack vividness, and give patients the feeling that their confidence in their memories is compromised.<ref name="Ally et al, 2008">{{Cite journal | last1 = Ally | first1 = B. A. | last2 = Simons | first2 = J. S. | last3 = McKeever | first3 = J. D. | last4 = Peers | first4 = P. V. | last5 = Budson | first5 = A. E. | title = Parietal contributions to recollection: Electrophysiological evidence from aging and patients with parietal lesions | doi = 10.1016/j.neuropsychologia.2008.02.026 | journal = Neuropsychologia | volume = 46 | issue = 7 | pages = 1800–1812 | year = 2008 | pmid =  18402990| pmc =2519009 }}</ref>
+
+The output-buffer hypothesis of the parietal cortex postulates that parietal regions help hold the [[Qualitative data|qualitative]] content of memories for retrieval, and make them accessible to [[Decision making|decision-making]] processes.<ref name="Cabeza et al, 2008" />  Qualitative content in memories helps to distinguish those recollected, so impairment of this function reduces confidence in recognition judgments, as in parietal lobe lesion patients.
+
+Several other hypotheses attempt to explain the role of the parietal lobe in recognition memory. The mnemonic-accumulator hypothesis postulates that the parietal lobe holds a memory strength signal, which is compared with internal criteria to make old/new recognition judgments.<ref name="Cabeza et al, 2008" />  This relates to [[Detection theory|signal-detection theory]], and accounts for recollected items being perceived as 'older' than familiar items. The attention to internal representation hypothesis posits that parietal regions shift and maintain attention to memory representations.<ref name="Cabeza et al, 2008" />  This hypothesis relates to the AtoM model, and suggests that parietal regions are involved in deliberate, top-down intention to remember.
+
+A possible mechanism of the parietal lobe's involvement in recognition memory may be differential activation for recollected versus familiar memories, and old versus new stimuli. This region of the brain shows greater activation during segments of recognition tasks containing primarily old stimuli, versus primarily new stimuli.<ref name="Wagner et al, 2005" />  A dissociation between the [[Anatomical terms of location#Dorsal and ventral|dorsal and ventral]] parietal regions has been demonstrated, with the ventral region experiencing more activation for recollected items, and the dorsal region experiencing more activation for familiar items.<ref name="Cabeza et al, 2008" />
+
+Anatomy provides further clues to the role of the parietal lobe in recognition memory. The lateral parietal cortex shares connections with several regions of the medial [[temporal lobe]], including its [[Hippocampus|hippocampal]], [[Parahippocampal gyrus|parahippocampal]], and [[Entorhinal cortex|entorhinal]] regions.<ref name="Cabeza et al, 2008" />  These connections may facilitate the influence of the medial temporal lobe in cortical information processing.<ref name="Wagner et al, 2005" />
+
+====Frontal lobe====
+
+Evidence from amnesic patients have shown that lesions in the right [[frontal lobe]] are a direct cause of false recognition errors. Some suggest this is due to a variety of factors including defective monitoring, retrieval and decision processes.<ref>{{Cite journal 
+| last1 = Schacter | first1 = D. L. 
+| last2 = Dodson | first2 = C. S. 
+| doi = 10.1098/rstb.2001.0938 
+| title = Misattribution, false recognition and the sins of memory 
+| journal = Philosophical Transactions of the Royal Society B: Biological Sciences 
+| volume = 356 
+| issue = 1413 
+| pages = 1385–1393 
+| year = 2001 
+| pmid = 11571030 
+| pmc =1088522 
+}}</ref>  Patients with frontal lobe lesions also showed evidence of marked anterograde and relatively mild retrograde face memory impairment.<ref>{{Cite journal 
+| doi = 10.1212/WNL.57.7.1168 
+| last1 = Rapcsak | first1 = S. Z. 
+| last2 = Nielsen | first2 = L. 
+| last3 = Littrell | first3 = L. D. 
+| last4 = Glisky | first4 = E. L. 
+| last5 = Kaszniak | first5 = A. W. 
+| last6 = Laguna | first6 = J. F. 
+| title = Face memory impairments in patients with frontal lobe damage 
+| journal = Neurology 
+| volume = 57 
+| issue = 7 
+| pages = 1168–1175 
+| year = 2001 
+| pmid = 11591831
+| s2cid = 35086681 }}</ref>
+
+===Evolutionary basis===
+
+The ability to recognize stimuli as old or new has significant [[evolution]]ary advantages for humans. Discerning between familiar and unfamiliar stimuli allows for rapid threat appraisals in often hostile environments. The speed and accuracy of an old/new recognition judgment are two components in a series of cognitive processes that allow humans to identify and respond to potential dangers in their environments.<ref name="Klein et al, 2002">{{Cite journal 
+| last1 = Klein | first1 = S. B. 
+| last2 = Cosmides | first2 = L. 
+| last3 = Tooby | first3 = J. 
+| last4 = Chance | first4 = S. 
+| title = Decisions and the evolution of memory: Multiple systems, multiple functions 
+| journal = Psychological Review 
+| volume = 109 
+| issue = 2 
+| pages = 306–329 
+| year = 2002 
+| pmid = 11990320 | doi=10.1037/0033-295x.109.2.306
+| url = https://philpapers.org/rec/KLEP-8 
+}}</ref>  Recognition of a prior occurrence is one adaptation that provides a cue of the utility of information to [[Decision making|decision-making]] processes.<ref name="Klein et al, 2002" />
+
+The [[perirhinal cortex]] is notably involved in both the [[Fear#Neurobiology|fear response]] and recognition memory.<ref name="Herzog & Otto, 1997">{{Cite journal | last1 = Herzog | first1 = C. | last2 = Otto | first2 = T. | doi = 10.1037/0735-7044.111.6.1265 | title = Odor-guided fear conditioning in rats: 2. Lesions of the anterior perirhinal cortex disrupt fear conditioned to the explicit conditioned stimulus but not to the training context | journal = Behavioral Neuroscience | volume = 111 | issue = 6 | pages = 1265–1272 | year = 1997 | pmid =  9438795}}</ref>  [[Neuron]]s in this region activate strongly in response to new stimuli, and activate less frequently as familiarity with the stimulus increases.<ref name="Squire et al, 2007">{{Cite journal 
+| last1 = Squire | first1 = L. R. 
+| last2 = Wixted | first2 = J. T. 
+| last3 = Clark | first3 = R. E. 
+| doi = 10.1038/nrn2154 
+| title = Recognition memory and the medial temporal lobe: A new perspective 
+| journal = Nature Reviews Neuroscience 
+| volume = 8 
+| issue = 11 
+| pages = 872–883 
+| year = 2007 
+| pmid = 17948032 
+| pmc =2323975 
+}}</ref>  Information regarding stimulus identity arrives at the [[hippocampus]] via the [[perirhinal cortex]],<ref name="Manns & Eichenbaum, 2006">{{Cite journal 
+| last1 = Manns | first1 = J. R. 
+| last2 = Eichenbaum | first2 = H. 
+| doi = 10.1002/hipo.20205 
+| title = Evolution of declarative memory 
+| journal = Hippocampus 
+| volume = 16 
+| issue = 9 
+| pages = 795–808 
+| year = 2006 
+| pmid = 16881079 
+| s2cid = 39081299 
+}}</ref> with the perirhinal system contributing a rapid, automatic appraisal of the familiarity of the stimuli and the recency of its presentation.<ref name="Brown & Aggleton, 2001">{{cite journal | last1 = Brown | first1 = M. | last2 = Aggleton | first2 = J. | year = 2001 | title = Recognition memory: What are the roles of the perirhinal cortex and hippocampus? | journal = Nature Reviews Neuroscience | volume = 2 | issue = 1| pages = 51–61 | doi = 10.1038/35049064 | pmid = 11253359 | s2cid = 205012302 }}</ref>  This recognition response has the distinct evolutionary advantage of providing information for decision-making processes in an automated, expedient, and non-effortful manner, allowing for faster responses to threats.
+
+==Applications==
+A practical application of recognition memory is in relation to developing multiple choice tests in an academic setting. A ''good'' test does not tap recognition memory, it wants to discern how well a person encoded and can recall a concept. If people rely on recognition for use on a memory test (such as multiple choice) they may recognize one of the options but this does not necessarily mean it is the correct answer.<ref>University of Waterloo. [http://www.sdc.uwo.ca/learning/mcwrit.html Writing Multiple Choice Tests] {{Webarchive|url=https://web.archive.org/web/20080620104227/http://www.sdc.uwo.ca/learning/mcwrit.html |date=2008-06-20 }}.</ref>
+
+== References==
+{{reflist|35em}}
+
+{{DEFAULTSORT:Recognition Memory}}
+[[Category:Memory]]
+[[Category:Perception]]

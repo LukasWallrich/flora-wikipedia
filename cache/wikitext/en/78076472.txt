@@ -1,0 +1,58 @@
+{{Short description|Donation platform}}
+{{Infobox organization
+| name              = Giving Multiplier
+| founded           = {{start date|2020|11}}
+| logo              = File:Giving Multiplier logo.jpg
+| founders          = Lucius Caviola, PhD & [[Joshua Greene (psychologist)|Joshua Greene]], PhD
+| founding_location = [[Harvard University]]
+| purpose           = Promoting effective giving
+| membership        = 5,000
+| num_members_year  = 2025
+| website           = [https://givingmultiplier.org givingmultiplier.org]
+}}
+
+'''Giving Multiplier''' is a donation platform promoting [[effective giving]]. It was founded at [[Harvard University]] in 2020 by psychologists [[Joshua Greene (psychologist)|Joshua Greene]] and Lucius Caviola.
+
+==History==
+Giving Multiplier was created as a research project in 2020 by [[Joshua Greene (psychologist)|Joshua Greene]], a psychology professor at [[Harvard University|Harvard]] and Lucius Caviola, professor at [[University of Cambridge]], who was a postdoctoral researcher at Harvard at the time. The goal of creating Giving Multiplier was to introduce people to effective charities<ref>{{Cite web |title=Effective giving |url=https://givingmultiplier.org/effectiveness |access-date=2025-07-20 |website=givingmultiplier.org}}</ref><ref>{{cite podcast |url=https://podcasts.apple.com/us/podcast/joshua-greene-uniting-moral-tribes/id1743702376?i=1000713534974 |title=JOSHUA GREENE: uniting moral tribes |host1=Kasia De Lazari Radek |host2=Peter Singer |series=Lives Well Lived |publisher=Apple Podcasts |date=2025-06-18 |access-date=2025-11-17}}</ref><ref>{{cite podcast |url=https://podcasts.apple.com/us/podcast/how-trivia-games-could-bridge-americas-political-divide/id1795894038?i=1000715261463 |title=How trivia games could bridge America's political divide (with Josh Greene) |host1=Thom |host2=Aidan |series=Changed My Mind |publisher=Apple Podcasts |date=2025-07-01 |access-date=2025-11-17 |time=17:00}}</ref> in a way that overcomes some of the [[psychological barriers to effective altruism|psychological barriers to effective giving]].<ref>{{Cite web |last1=Caviola |first1=Lucius |last2=Greene |first2=Joshua |date=2020-12-17 |title=Op-Ed: How to be an effective altruist when giving to charities |url=https://www.latimes.com/opinion/story/2020-12-17/effective-altruism-charity-psychology-morality-donation |access-date=2024-10-08 |website=Los Angeles Times |language=en-US}}</ref><ref>{{Cite news |date=2020-12-11 |title=Opinion: Giving with the heart – and the head |url=https://www.theglobeandmail.com/opinion/article-giving-with-the-heart-and-the-head/ |access-date=2024-10-08 |work=The Globe and Mail |language=en-CA}}</ref> As of July 2025, Giving Multiplier has facilitated over 12,000 donations totaling more than $5.1 million from more than 5,000 donors.<ref>{{Cite web |title=Multiply the impact of your charitable giving {{!}} Giving Multiplier |url=https://givingmultiplier.org |access-date=2024-10-17 |website=givingmultiplier.org}}</ref>
+
+==Research==
+Giving Multiplier uses research from charity evaluators<ref>{{Cite web |last=Samuel |first=Sigal |date=2020-12-17 |title=How to give a meaningful holiday gift this year |url=https://www.vox.com/future-perfect/22177289/best-meaningful-holiday-gift-charity-donations |access-date=2024-10-08 |website=Vox |language=en-US}}</ref> such as [[GiveWell]], [[Animal Charity Evaluators]], and [[Founders Pledge]], to select a list of ten "super-effective" charities addressing three cause areas: [[extreme poverty]], [[animal welfare]], and [[Global catastrophic risk|global catastrophic risks]].<ref>{{cite podcast |url=https://podcasts.apple.com/us/podcast/trolleyology-moral-dilemmas-the-trolley-problem/id1278815517?i=1000722764883 |title=Trolleyology (MORAL DILEMMAS + THE TROLLEY PROBLEM) with Joshua Greene |host=Allie Ward |series=Ologies |publisher=Apple Podcasts |date=2025-08-20 |access-date=2025-11-17 |time=35:10}}</ref><ref>{{cite podcast |url=https://podcasts.apple.com/us/podcast/how-to-give-more-effectively/id1474245040?i=1000543357349 |title=How to Give More Effectively |host=Dr Laurie Santos |series=The Happiness Lab |publisher=Apple Podcasts |date=2021-11-29 |access-date=2025-11-17}}</ref> 
+
+Giving Multiplier lets donors select their favorite charity and one of their super-effective charities (i.e., "with the heart and the head") to implement a donation bundling technique.<ref name=":0">{{Cite book |title=Effective altruism and the human mind: the clash between impact and intuition |date=2024 |publisher=Oxford University Press |isbn=978-0-19-775739-0 |editor-last=Schubert |editor-first=Stefan |location=New York, NY |editor-last2=Caviola |editor-first2=Lucius}}</ref> This innovation combines donors' seemingly conflicting preferences, namely, that they have their own favorite charities,<ref>{{Cite journal |last1=Berman |first1=Jonathan Z. |last2=Barasch |first2=Alixandra |last3=Levine |first3=Emma E. |last4=Small |first4=Deborah A. |date=2018 |title=Impediments to Effective Altruism: The Role of Subjective Preferences in Charitable Giving |url=https://journals.sagepub.com/doi/10.1177/0956797617747648 |journal=Psychological Science |language=en |volume=29 |issue=5 |pages=834–844 |doi=10.1177/0956797617747648 |pmid=29659341 |issn=0956-7976|url-access=subscription }}</ref> and they simultaneously care about effectiveness.<ref>{{Cite journal |last1=Caviola |first1=Lucius |last2=Faulmüller |first2=Nadira |last3=Everett |first3=Jim. A. C. |last4=Savulescu |first4=Julian |last5=Kahane |first5=Guy |date=2014 |title=The evaluability bias in charitable giving: Saving administration costs or saving lives? |url=https://www.cambridge.org/core/product/identifier/S1930297500006185/type/journal_article |journal=Judgment and Decision Making |language=en |volume=9 |issue=4 |pages=303–315 |doi=10.1017/S1930297500006185 |pmid=25279024 |issn=1930-2975|doi-access=free }}</ref> Moreover, Giving Multiplier uses donation matching to further incentivize donors to donate more effectively.<ref name=":0" /><ref>{{Cite journal |last1=Gneezy |first1=Uri |last2=Keenan |first2=Elizabeth A. |last3=Gneezy |first3=Ayelet |date=2014-10-31 |title=Avoiding overhead aversion in charity |url=https://www.science.org/doi/10.1126/science.1253932 |journal=Science |language=en |volume=346 |issue=6209 |pages=632–635 |doi=10.1126/science.1253932 |pmid=25359974 |bibcode=2014Sci...346..632G |issn=0036-8075|url-access=subscription }}</ref> The original design by Caviola and Greene integrated donation bundling with a new technique called micro-matching.<ref name=":1" /><ref name=":0" /> Micro-matching works by adding matching funds on top of each donation, with a greater matching rate for a greater proportion allocated to the super-effective charity. Individual donors support the matching system to encourage others to donate, creating a "supply and demand" cycle of charitable giving.<ref>{{Cite web |title=Multiply the impact of your charitable giving {{!}} Giving Multiplier |url=https://givingmultiplier.org/transparency |access-date=2024-10-08 |website=givingmultiplier.org}}</ref>
+
+The proof of concept for Giving Multiplier was published as part of Greene and Caviola's academic research on splitting donations between favorite charities and effective charities. Their research found that including an option to split donations between a favorite charity and effective charity increased effective giving by 76%. The authors suggested that favorite-effective donation splits satisfies donors' dual motivations of supporting causes meaningful to them and effective organizations that have a big impact.<ref name=":1">{{Cite journal |last1=Caviola |first1=Lucius |last2=Greene |first2=Joshua D. |date=2023-01-20 |title=Boosting the impact of charitable giving with donation bundling and micromatching |journal=Science Advances |language=en |volume=9 |issue=3 |article-number=eade7987 |doi=10.1126/sciadv.ade7987 |issn=2375-2548 |pmc=9848424 |pmid=36652510|bibcode=2023SciA....9E7987C }}</ref>
+
+==Current list of super-effective charities==
+As of April 2025, Giving Multiplier's list of super-effective charities (based on charity evaluators' recommendations) include:
+
+* [[Against Malaria Foundation]]
+* Clean Air Task Force
+* [[Evidence Action]] (Deworm the World Initiative)
+* [[GiveDirectly]]
+* [[The Good Food Institute|Good Food Institute]]
+* [[Helen Keller International]] (Vitamin A supplementation program)
+* [[Johns Hopkins Center for Health Security]]
+* [[Malaria Consortium]] (Seasonal malaria chemoprevention program)
+* [[New Incentives]]
+* [[The Humane League]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite news|url =https://www.bostonglobe.com/2024/12/18/opinion/charitable-giving-head-versus-heart/|title = This giving season, give with your heart and your head|date = December 18, 2024|access-date = July 28, 2025|newspaper = [[Boston Globe]]|last1 = Coleman|first1 = Matthew|last2 = Greene|first2=Joshua}}
+* {{cite news|url =https://www.marketwatch.com/story/for-giving-tuesday-a-tool-helps-you-give-to-the-most-effective-charities-without-criticizing-your-values-11638282037|title = Torn between donating to a charity you care about vs. one that will do the most good? Try this "Giving Multiplier."|date = December 23, 2021|access-date = October 16, 2024|newspaper = [[MarketWatch]]|last = Albrecht|first = L}}
+
+==External links==
+* {{official website|https://www.givingmultiplier.org/}}
+
+{{Effective altruism}}
+{{Charity}}
+
+[[Category:2020 establishments in the United States]]
+[[Category:501(c)(3) organizations]]
+[[Category:American review websites]]
+[[Category:Charity review websites]]
+[[Category:Organizations associated with effective altruism]]
+[[Category:Organizations established in 2020]]

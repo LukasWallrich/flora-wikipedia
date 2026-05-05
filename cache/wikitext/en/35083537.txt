@@ -1,0 +1,501 @@
+{{Short description|none}}
+Some cases have been remarkable for starting broad discussion and for setting precedent in [[medical ethics]].
+
+==Research==
+
+{| class="wikitable"
+|-
+! colspan="6" style="background-color: #CCEEEE;" | Research
+|-
+! case
+! country
+! location
+! year
+! summary
+|-
+| [[Psychosurgery]]
+|
+|
+| 1880s
+|Psychosurgery (also called neurosurgery for [[mental disorder]]) has a long history. During the 1960s and 1970s, it became the subject of increasing public concern and debate, culminating in the US with congressional hearings. Particularly controversial was the work of Harvard neurosurgeon [[Vernon Mark]] and psychiatrist [[Frank Ervin]], who wrote a book, ''Violence and the Brain'', in 1970.<ref name="Mashour">{{Cite journal | doi = 10.1016/j.brainresrev.2004.09.002 | last1 = Mashour | first1 = G.A. | last2 = Walker | first2 = E.E. | last3 = Martuza | first3 = R.L. | year = 2005 | title = Psychosurgery: past, present and future | journal = Brain Research Reviews | volume = 48 | issue = 3| pages = 409–18 | pmid=15914249| s2cid = 10303872 }}</ref> The National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research in 1977 endorsed the continued limited use of psychosurgical procedures.<ref name="Mashour"/><ref>{{Cite journal | doi = 10.1017/S0269889714000349 | last1 = Casey | first1 = B.P. | title =  The surgical elimination of violence? Conflicting attitudes towards technology and science during the psychosurgery controversy of the 1970s | journal = Science in Context | volume = 28 | issue = 1| pages = 99–129 | pmid = 25832572 | date=Mar 2015| s2cid = 25379245 }}</ref> Since then, a few facilities in some countries have continued to use psychosurgery on small numbers of patients. In the US and other Western countries, the number of operations has further declined over the past 30 years, a period during which there have been no major advances in ablative psychosurgery.<ref name="Sachdev">{{Cite journal | doi = 10.1097/YCO.0b013e32831c8475 | last1 = Sachdev | first1 = P. | last2 = Chen | first2 = X. | year = 2009 | title = Neurosurgical treatment of mood disorders: traditional psychosurgery and the advent of deep brain stimulation | journal = Current Opinion in Psychiatry | volume = 22 | issue = 1| pages = 25–31 | pmid = 19122531 | s2cid = 30892980 }}</ref>
+|-
+| [[Madhouse: A Tragic Tale of Megalomania and Modern Medicine|Surgical removal of body parts to try to improve mental health]]
+| United States
+| [[New Jersey]]
+| 1920s
+| Controversial [[psychiatrist]] [[Henry Cotton (doctor)|Henry Cotton]] at [[Trenton Psychiatric Hospital|Trenton State Hospital]] in New Jersey became convinced that [[insanity]] was fundamentally a toxic disorder and he surgically removed body parts to try to improve [[mental health]].<ref>{{cite journal|author1=Wessely, Simon|title=Surgery for the treatment of psychiatric illness: the need to test untested theories|journal=[[Journal of the Royal Society of Medicine]]|date=October 2009|volume=102|issue=10|pages=445–451|doi=10.1258/jrsm.2009.09k038|pmid=19797603|pmc=2755332|author1-link=Simon Wessely}}</ref>
+|-
+|[[The Monster Study]]
+| United States
+| Iowa
+| 1939
+| The Monster Study is the name given to a [[stuttering]] experiment performed on orphan children in [[Davenport, Iowa]] in 1939. It was conducted by [[Wendell Johnson]] at the [[University of Iowa]]. The research began with the selection of 22 subjects from a veterans' orphanage in Iowa. None were told the intent of the research, and they believed that they were to receive speech therapy. The study was trying to induce stuttering in healthy children. The experiment became national news in the ''[[San Jose Mercury News]]'' in 2001, and a book was written. On 17 August 2007, six of the orphan children were awarded $925,000 by the State of Iowa for lifelong psychological and emotional scars caused by six months of torment during the Iowa University experiment. Although none of the children became stutterers, some became self-conscious and reluctant to speak.<ref>[https://news.bbc.co.uk/1/hi/world/americas/6952446.stm Huge payout in US stuttering case] – BBC News</ref> A spokesman for the University of Iowa called the experiment "regrettable". 
+|-
+| Medical Experimentation on Black Americans<ref name=sochistmed>{{cite journal | year = 2007 | title = Medical Apartheid: The Dark History of Medical Experimentation on Black Americans from Colonial Times to the Present | journal = Social History of Medicine | volume = 20 | issue = 3| pages = 620–621 | doi=10.1093/shm/hkm086 | last1 = Turda | first1 = M.}}</ref>
+| United States
+| Various
+| Occurred over many decades
+| There has been a long history of [[Human experimentation in the United States|medical experimentation]] on [[African American]]s.  From the era of slavery, when atrocities were committed on black women by [[J. Marion Sims#Medical experimentation on slaves|J. Marion Sims]], to the present day, Black Americans have been unwitting subjects of medical experimentation.<ref>{{cite book|author1=Washington, Harriet A.|title=Medical Apartheid: The Dark History of Medical Experimentation on Black Americans from Colonial Times to the Present|date=2008|publisher=Knopf Doubleday Publishing Group|isbn=978-0767929394|url=https://books.google.com/books?id=apGhwRt6A7QC|pages=61, 235, 256, 349}}</ref><ref>{{cite news|author1=Nelson, Alondra|author-link=Alondra Nelson|title=Unequal Treatment. Medical Apartheid|url=https://www.washingtonpost.com/wp-dyn/content/article/2007/01/05/AR2007010500180.html|newspaper=[[The Washington Post]]|date=7 January 2007|archive-url=https://web.archive.org/web/20121107055104/http://www.washingtonpost.com/wp-dyn/content/article/2007/01/05/AR2007010500180.html|archive-date=7 November 2012|url-status=live|access-date=3 March 2021}}</ref> Author Harriet Washington argues that "diverse forms of [[racial discrimination]] have shaped both the relationship between white physicians and black patients and the attitude of the latter towards modern medicine in general."<ref name=sochist>{{cite journal|title=Medical Apartheid: The Dark History of Medical Experimentation on Black Americans from Colonial Times to the Present|journal=[[Social History of Medicine]]|date=2007|volume=20|issue=3|pages=620–621|doi=10.1093/shm/hkm086|pmc=2575876|last1=Turda|first1=M.}}</ref>
+
+In the 1960s, [[Michigan State Asylum|Ionia State Hospital]], located in [[Ionia, Michigan]], was one of America's largest and most notorious state [[psychiatric hospital]]s in the era before deinstitutionalization. Doctors at this hospital diagnosed [[African American]]s with [[schizophrenia]] because of their [[civil rights]] ideas. See ''[[The Protest Psychosis]]''.
+|-
+| Plutonium injections
+| United States
+|
+| 1945–1947
+| Eighteen people were injected with [[plutonium]] by [[Manhattan Project]] doctors; the most notorious of them, [[Albert Stevens]], received more radiation than any other living person. None of the patients were told about the experiment, nor did the doctors ask for their consent. See [[Eileen Welsome]]'s book ''[[The Plutonium Files]]''.<ref name=rc>R.C. Longworth. [http://intl-bos.sagepub.com/content/55/6/58.full.pdf+html Injected! Book review:The Plutonium Files: America's Secret Medical Experiments in the Cold War] {{Webarchive|url=https://archive.today/20130105021134/http://intl-bos.sagepub.com/content/55/6/58.full.pdf+html |date=2013-01-05 }}, ''[[The Bulletin of the Atomic Scientists]]'', Nov/Dec 1999, 55(6): 58–61.</ref>
+|-
+| [[Doctors' Trial]]
+| United States
+|
+| 1946
+| German medical doctors went on criminal trial for [[Nazi human experimentation]]. See ''[[The Years of Extermination]]''.
+|-
+|[[Guatemala syphilis experiment]]s 
+|U.S./<br/>Guatemala
+|
+|1946–48
+|The syphilis experiments in Guatemala were [[United States]] [[human subject research|human experiments]] conducted in [[Guatemala]] from 1946 to 1948. The experiments were led by physician [[John Charles Cutler]]. They were done during the administration of American President [[Harry S. Truman]] and Guatemalan President [[Juan José Arévalo]].<ref name=CDCFactScheet>{{cite web | url = https://www.hhs.gov/1946inoculationstudy/factsheet.html | title = Fact Sheet on the 1946–1948 U.S. Public Health Service Sexually Transmitted Diseases (STD) Inoculation Study | publisher = [[United States Department of Health and Human Services]] | access-date = 2013-04-15 | date = nd | archive-date = 2013-04-25 | archive-url = https://web.archive.org/web/20130425164618/http://www.hhs.gov/1946inoculationstudy/factsheet.html | url-status = dead }}</ref>
+
+Doctors infected soldiers, prostitutes, prisoners, and [[mental patient]]s with [[syphilis]] and other [[sexually transmitted diseases]] without the [[informed consent]] of the subjects, and treated most subjects with [[antibiotic]]s. This resulted in at least 83 deaths.<ref name="BBC20110829">{{cite web |url=https://www.bbc.co.uk/news/world-latin-america-14712089 |title=Guatemalans 'died' in 1940s US syphilis study |date=29 August 2011 |publisher=[[BBC News]] |access-date=29 August 2011 |archive-date=1 December 2019 |archive-url=https://web.archive.org/web/20191201011231/https://www.bbc.co.uk/news/world-latin-america-14712089 |url-status=live }}</ref> In October 2010, the US formally apologized to Guatemala for conducting these experiments.
+|-
+| [[Skid Row Cancer Study]]
+| United States
+| New York State
+| 1950s
+| More than 1200 homeless men from Lower Manhattan were convinced with promises of food and shelter to have their prostates biopsied by a Dr. Perry Hudson. They were not informed of possible side effects, i.e., rectal tearing and impotence. The homeless were targeted for these biopsies because the biopsies were painful and untested, and less vulnerable populations would not volunteer.
+|-
+|Radioactive iodine experiments
+|United States
+|
+|1950s
+|The [[U.S. Atomic Energy Commission]] has a history of involvement in experiments involving [[radioactive iodine]]. In a 1949 operation called the "[[Green Run]]", the AEC released [[iodine-131]] and [[xenon-133]] to the atmosphere, which contaminated a {{convert|500000|acre|km2|adj=on}} area containing three small towns near the [[Hanford site]] in Washington.<ref name="goliszek-130-131">{{Cite book|last=Goliszek|first=Andrew|title=In The Name of Science|url=https://archive.org/details/innameofscienceh0000goli|url-access=registration|publisher=St. Martin's Press|location=New York|year=2003|isbn=978-0-312-30356-3|pages=[https://archive.org/details/innameofscienceh0000goli/page/130 130]–131 }}</ref> In 1953, the AEC ran several studies on the health effects of radioactive iodine in newborns and pregnant women at the [[University of Iowa]]. Also in 1953, the AEC sponsored a study to discover if radioactive iodine affected [[premature birth|premature]] babies differently from full-term babies.<ref name="goliszek-132-134" /> In another AEC study, researchers at the [[University of Nebraska College of Medicine]] fed iodine-131 to 28 healthy infants through a gastric tube to test the concentration of iodine in the infants' thyroid glands.<ref name="goliszek-132-134">{{Cite book|last=Goliszek|first=Andrew|title=In The Name of Science|url=https://archive.org/details/innameofscienceh0000goli|url-access=registration|publisher=St. Martin's Press|location=New York|year=2003|isbn=978-0-312-30356-3|pages=[https://archive.org/details/innameofscienceh0000goli/page/132 132]–134}}</ref>
+|-
+| [[Henrietta Lacks]]
+| United States
+| [[Baltimore]]
+| 1951
+| A product derived from a cancer patient's specimen, [[HeLa]] is the cornerstone of an industry. Cancerous tissue was taken from her without her consent.
+|-
+| [[Acres of Skin|Albert Kligman's dermatology experiments]]
+| United States
+| Philadelphia
+| 1951–1974
+| Clinical non-therapeutic [[Research Involving Prisoners|medical experiments on prison inmates]] was conducted at [[Holmesburg, Philadelphia, Pennsylvania#Prisons|Holmesburg Prison]] in Philadelphia from 1951 to 1974 under the direction of [[dermatologist]] [[Albert Kligman]].<ref>{{cite journal|author1=Richardson, Theresa|title=Acres of skin: human experiments at Holmesburg Prison. A true story of abuse and exploitation in the name of medical science|journal=Canadian Journal of History|date=2001|volume=36|issue=1|pages=184–186|url=http://utpjournalsreview.com/index.php/CJOH/article/view/11038/9913|doi=10.3138/cjh.36.1.184|url-access=subscription}}</ref>
+|-
+| [[Allan Memorial Institute]]
+| Canada
+| [[Montreal]], [[Quebec]]
+| 1957–1964
+| The [[Allan Memorial Institute]] is known for its role in the [[Project MKULTRA]] run by the CIA. The Agency's initiative to develop drug-induced "mind control" techniques was implemented in the institute by its then-Director [[Donald Ewen Cameron]]. 
+|-
+| UK mental institutions
+| UK
+|
+| 1960s
+|In the 1960s, there was abuse and inhumane treatment of psychiatric patients who were hidden away in institutions in the UK. [[Barbara Robb]] documented her difficult personal experience of being treated at [[Ely Hospital]]. She wrote the book ''Sans Everything'' and she used this to launch a campaign to improve or close long stay facilities. Shortly after, a long stay hospital for mentally disabled people in Cardiff was exposed by a nurse writing to the ''News of the World''. This exposure prompted an official inquiry, which was highly critical of conditions, staff morale, and management. At the same time [[Michael Ignatieff]] and [[Peter Townsend (sociologist)|Peter Townsend]] both published books which exposed the poor quality of institutional care.<ref>{{cite web|title=Report on Ely Hospital. Report of the Committee of Inquiry into Allegations of Ill – Treatment of Patients and other irregularities at the Ely Hospital, Cardiff|url=http://www.sochealth.co.uk/resources/national-health-service/democracy-involvement-and-accountability-in-health/complaints-regulation-and-enquries/report-of-the-committee-of-inquiry-into-allegations-of-ill-treatment-of-patients-and-other-irregularities-at-the-ely-hospital-cardiff-1969/|publisher=[[Socialist Health Association]]|date=11 March 1969}}</ref>
+|-
+| [[Thalidomide scandal]]
+| International: Mostly US and Europe
+|
+| 1950s-60s
+|[[Thalidomide]] was given to people, including pregnant women, resulting in severe birth deformities and miscarriages. Despite not receiving FDA approval in the US, thalidomide was given to many women as part of clinical trials without their consent or awareness.<ref>{{Cite web |title=The Devil in the Details: Chapter Four |url=https://www.lostwomenofscience.org/podcast-episodes/the-devil-in-the-details-chapter-four |access-date=2024-12-29 |website=www.lostwomenofscience.org |language=en |archive-date=2024-12-29 |archive-url=https://web.archive.org/web/20241229161029/https://www.lostwomenofscience.org/podcast-episodes/the-devil-in-the-details-chapter-four |url-status=live }}</ref> This led to [[Thalidomide scandal#Change in drug regulations|substantive changes to clinical trial regulations in US and Europe]].
+|-
+| [[Milgram experiment]] 
+| United States
+|
+| 1961
+|The Milgram experiment on obedience to authority figures was a series of notable [[social psychology]] [[experiment]]s conducted by [[Yale University]] [[psychologist]] [[Stanley Milgram]], which measured the willingness of study participants to [[Obedience (human behavior)|obey]] an [[authority|authority figure]] who instructed them to perform acts that conflicted with their personal [[conscience]].<ref name=ObedStudy>{{cite journal |last=Milgram |first=Stanley |year=1963 |title=Behavioral Study of Obedience |journal=Journal of Abnormal and Social Psychology |volume=67 |issue=4 |pages=371–78 |pmid=14049516 |url=http://content.apa.org/journals/abn/67/4/371 |doi=10.1037/h0040525 |citeseerx=10.1.1.599.92 |s2cid=18309531 |archive-date=2012-07-17 |access-date=2012-09-22 |archive-url=https://archive.today/20120717013242/http://content.apa.org/journals/abn/67/4/371 |url-status=live }} [http://www.garfield.library.upenn.edu/classics1981/A1981LC33300001.pdf as PDF.] {{webarchive|url=https://web.archive.org/web/20110611105753/http://www.garfield.library.upenn.edu/classics1981/A1981LC33300001.pdf |date=2011-06-11 }}</ref> The detailed findings are discussed in his 1974 book, ''[[Obedience to Authority: An Experimental View]].''<ref>{{cite book |last=Milgram |first=Stanley |title=Obedience to Authority; An Experimental View |publisher=Harpercollins |year=1974 |isbn=978-0-06-131983-9 |url=https://archive.org/details/obedien_mil_1974_00_3145|url-access=registration }}</ref> The experiments were controversial, and considered by some scientists to be unethical and physically or psychologically abusive. Psychologist [[Diana Baumrind]] considered the experiment "harmful because it may cause permanent psychological damage and cause people to be less trusting in the future."<ref>{{cite journal|last=Baumrind|first=Diana|title=Some Thoughts on Ethics of Research: After Reading Milgram's "Behavioral Study of Obedience|journal=American Psychologist|year=1964|volume=19|issue=6|pages=421–423|doi=10.1037/h0040128|s2cid=144415590}}</ref> 
+|-
+| [[Harry Bailey]]'s [[deep sleep therapy]]
+| [[Australia]]
+| [[Sydney]]
+| 1962-1979
+| Controversial Australian [[psychiatrist]] [[Harry Bailey]] treated mental patients via [[deep sleep therapy]] and other methods at a Sydney mental hospital. He has been linked with the deaths of 85 patients.<ref>{{cite book|author1=Kaplan, Robert|title=Medical Murder: Disturbing Cases of Doctors Who Kill|date=2009|publisher=Allen & Unwin|isbn=978-1741765779}}</ref> He died by suicide before he could be punished.
+|-
+| [[Political abuse of psychiatry]] 
+| Soviet Union, Romania, <br/> Hungary, <br/> Czechoslovakia, Yugoslavia and China
+|
+| 1960s to 1980s
+|Psychiatrists have been involved in human rights abuses in states across the world when the definitions of mental disease were expanded to include political disobedience.<ref name=Semple>{{cite book|last1=Semple|first1=David|last2=Smyth|first2=Roger|last3=Burns|first3=Jonathan|title=Oxford handbook of psychiatry|year=2005|publisher=Oxford University Press|location=Oxford|isbn=978-0-19-852783-1|pages=6|url=https://books.google.com/books?id=1MeRuoTs0loC&pg=PA6}}</ref>{{rp|6}} In the period from the 1960s to 1986, abuse of psychiatry for political purposes was reported to be systematic in the Soviet Union and other Eastern European countries.<ref name="Medicine betrayed">{{cite book|title=Medicine betrayed: the participation of doctors in human rights abuses|year=1992|publisher=Zed Books|isbn=978-1-85649-104-4|pages=66|url=https://books.google.com/books?id=bMTu_oIfVsIC&pg=PA66}}</ref>{{rp|66}} Political abuse of psychiatry also takes place in the [[People's Republic of China]].<ref name="van Voren 2010">{{cite journal|last=van Voren|first=Robert|title=Political Abuse of Psychiatry—An Historical Overview|journal=[[Schizophrenia Bulletin]]|date=January 2010|volume=36|issue=1|pages=33–35|pmid=19892821|pmc=2800147|doi=10.1093/schbul/sbp119}}</ref> Psychiatric diagnoses such as the diagnosis of "[[sluggish schizophrenia]]" in political dissidents in the USSR were used for political purposes.<ref name="Katona">{{cite book|last1=Katona|first1=Cornelius|last2=Robertson|first2=Mary|title=Psychiatry at a glance|year=2005|publisher=Wiley-Blackwell|isbn=978-1-4051-2404-1|pages=77|url=https://books.google.com/books?id=OSJRHpAtqPUC&pg=PA77}}</ref>{{rp|77}}
+|-
+| [[Stanford prison experiment]] 
+| United States
+|
+| 1971
+|The Stanford prison experiment was a study of the [[psychology|psychological]] effects of becoming a [[prisoner]] or [[prison guard]]. The experiment was conducted in August 1971 by a team of researchers led by psychology professor [[Philip Zimbardo]].<ref>{{Cite web |url=http://www.prisonexp.org/psychology/41 |title=The Stanford Prison Experiment – A Simulation Study of the Psychology of Imprisonment Conducted at Stanford University |access-date=2013-03-09 |archive-date=2015-05-12 |archive-url=https://web.archive.org/web/20150512002613/http://www.prisonexp.org/psychology/41 |url-status=live }}</ref> Participants took on the roles of prisoners and guards in a mock [[prison]] situated in the basement of the Stanford psychology building. Some of the prisoners were subjected to [[psychological torture]]. Many of the prisoners passively accepted psychological abuse, and Zimbardo himself permitted the abuse to continue. Two of the prisoners quit the experiment early and the entire experiment was abruptly stopped after only six days. Certain portions of the experiment were filmed and excerpts of footage are publicly available.
+|-
+| [[Human radiation experiments]] 
+| United States
+|
+| 1970s
+| Human radiation experiments were directed by the [[United States Atomic Energy Commission]] and the Manhattan Project. In Nashville, pregnant women were given radioactive mixtures. In Cincinnati, some 200 patients were irradiated over a period of 15 years. In Chicago, 102 people received injections of strontium and cesium solutions. In Massachusetts, 74 schoolboys were fed oatmeal that contained radioactive substances. In all of these cases, the subjects did not know what was going on and did not give informed consent.<ref name=rc/> The government covered up most of these radiation mishaps until 1993, when President [[Bill Clinton]] ordered a change of policy. The resulting investigation was undertaken by the [[Advisory Committee on Human Radiation Experiments]]. See ''[[The Plutonium Files]]''.
+|-
+| [[Tuskegee syphilis experiment]]
+| United States
+| [[Tuskegee, Alabama]]
+| 1972
+| A 40-year experiment conducted by the U.S. Public Health Service withheld standard medical advice and treatment from a poor minority population with an easily treatable disease. The experiment targeted black male farmers who were told they needed to be treated for 'bad blood',<ref>"Tuskegee Study – Timeline". NCHHSTP. CDC. June 25, 2008. Retrieved December 4, 2008</ref> but who were, in fact, syphilitic. In addition to many fatalities, some children were born with congenital syphilis due to the study.
+|-
+| ''[[Moore v. Regents of the University of California]]''
+| United States
+| [[California]]
+| 1976
+| Researchers commercialized a patient's discarded body parts. The man did not authorize the use of his bodily tissues or fluids, and researchers did not obtain informed consent. He did not want his donation to generate commercial profit for private entities.
+
+|-
+| [[Eugene Landy]] 
+| [[United States]]
+| [[California]]
+| 1980s
+| Eugene Ellsworth Landy was an American psychologist and psychotherapist best known for his unconventional 24-hour therapy as well as ethical violations concerning his treatment of [[Beach Boys]] co-founder [[Brian Wilson]] in the 1980s. In 2015, Landy's relationship with Wilson was dramatized in the [[biographical film]] ''[[Love & Mercy (film)|Love & Mercy]]''.
+|-
+| [[Willowbrook State School]]
+| United States
+| [[Staten Island]]
+| 1987
+| A school had been infecting disabled children in experiments for years.
+|-
+| [[Study 329]]
+| Canada, United States
+| 12 psychiatric centers
+| 1994–2001
+| [[Beecham Group|SmithKlineBeecham]], known since 2000 as [[GlaxoSmithKline]], conducted a clinical trial from 1994 to 1997 in 12 psychiatric centers in North America to study the efficacy of [[paroxetine]] (Paxil, Seroxat), an anti-depressant, on teenagers. The trial data suggested that the drug was not efficacious and that the paroxetine group were more likely to think about suicide. The paper that wrote up the study was published in 2001, ostensibly authored by a group of academics, but actually ghostwritten by the drug company. The article downplayed the negative findings and concluded that paroxetine helped with teenage depression. The company used this paper to promote paroxetine for teenagers. The ensuing controversy led to several lawsuits, including from the parents of teenagers who killed themselves while taking the drug, and intensified the debate about [[medical ghostwriting]] and [[conflict of interest]] in clinical trials. In 2012 the US Justice Department fined GlaxoSmithKline $3 billion for several violations, including withholding data on paroxetine, unlawfully promoting it for adolescents, and preparing a misleading article about [[Study 329|study 329]]. ''New Scientist'' wrote in 2015: "You may never have heard of it, but Study 329 changed medicine."<ref>[https://www.newscientist.com/article/mg22730394-500-new-look-at-antidepressant-suicide-risks-from-infamous-trial "New look at antidepressant suicide risks from infamous trial"], ''New Scientist'', 16 September 2015.</ref>
+|-
+| Death associated with psychotropic drugs
+| United States
+| [[Cheyenne, Wyoming|Cheyenne]], [[Wyoming]] 
+| 1998
+| In 1998, 60-year-old Donald Schell went to see his doctor, complaining of difficulty sleeping.  He was diagnosed with an anxiety state and placed on [[Paxil]] (paroxetine - see "Study 329" above), an [[SSRI]] anti-depressant.  Within 48 hours of being put on Paxil Schell killed his wife, daughter, infant granddaughter, and himself. Tim Tobin, Schell's son-in-law, took legal action against SmithKline (now [[GlaxoSmithKline]]). The Tobin case was heard in [[Wyoming]] from May 21 to June 6, 2001. The jury returned a guilty verdict against SmithKline and awarded Tobin $6.4 million.<ref name=baum/><ref>[http://www.fitzgeraldlaw.com/file_viewer.php?id=155 Tobin v. SmithKline Verdict, June 6, 2001]{{Dead link|date=June 2025 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>[http://www.fitzgeraldlaw.com/file_viewer.php?id=153 Tobin v. SmithKline Judgment, June 6, 2001]{{Dead link|date=June 2025 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite web |url=http://www.fitzgeraldlaw.com/file_viewer.php?id=214 |title=Jury Awards $6.4 Million in Killings Tied to Drug |author=Philip J. Hilts |date=June 8, 2001 |work=The New York Times |access-date=August 16, 2013 |archive-date=March 2, 2012 |archive-url=https://web.archive.org/web/20120302011245/http://www.fitzgeraldlaw.com/file_viewer.php?id=214 |url-status=live }}</ref> This was the first guilty verdict returned against a [[pharmaceutical]] company regarding adverse behavioral effects of a [[psychotropic]] drug.<ref name=baum>{{cite web |url=http://www.baumhedlundlaw.com/media/ssri/Paxil_murder.htm |title=Paxil Maker Held Liable in Murder/Suicide |author=Anne Thompson |date=July 9, 2001 |work=Lawyers Weekly USA |access-date=August 16, 2013 |archive-date=July 16, 2013 |archive-url=https://web.archive.org/web/20130716100434/http://www.baumhedlundlaw.com/media/ssri/Paxil_murder.htm |url-status=live }}</ref>
+|-
+| [[Robert Courtney (fraudster)|Robert Courtney]]
+| United States
+| [[Kansas City, Missouri]]
+| 2002
+| Courtney is a former [[pharmacist]] who owned and operated Research Medical Tower Pharmacy in Missouri.<ref name="nytimes.com"/> In 2002, he was convicted of pharmaceutical fraud and sentenced to federal prison.<ref name="nytimes.com">{{cite news | url=https://archive.nytimes.com/www.nytimes.com/2003/06/08/magazine/08PHARM.html| title=The Toxic Pharmacist | date=8 June 2003| access-date=2 March 2021 | last= Draper| first=    Robert| work=[[The New York Times Magazine]]}}</ref>
+|-
+| ''[[Greenberg v. Miami Children's Hospital Research Institute]]''
+| United States
+| [[Florida]]
+| 2003
+| Patients donated tissue samples, which researchers subsequently used in a plan to generate profit.
+|-
+| [[GlaxoSmithKline]] human experiments
+| Various
+|
+| 2004–2012
+|
+In 2004 [[GlaxoSmithKline]] (GSK) sponsored at least four medical trials using Hispanic and black children at [[New York (state)|New York]]'s [[Incarnation Children's Center]]. Normally trials on children require parental consent but, as the infants were in care, New York's authorities held that role. Experiments were designed to test the "safety and tolerance" of [[AIDS]] medications, some of which have potentially dangerous side effects.<ref>{{cite web|last=Barnett|first=Antony|url=https://www.theguardian.com/world/2004/apr/04/usa.highereducation|title=UK firm tried HIV drug on orphans|work=The Observer|date=4 April 2004|archive-url=https://web.archive.org/web/20040411080246/http://observer.guardian.co.uk/international/story/0,6903,1185305,00.html|archive-date=11 April 2004|access-date=2 March 2021|url-status=dead}}</ref>
+
+In 2006, GSK and the US Army were criticized for [[Hepatitis E]] [[vaccine]] experiments conducted in 2003 on 2,000 soldiers of the [[Nepali Army]]. It was said that using soldiers as volunteers is unethical because they "could easily be coerced into taking part."<ref>{{cite journal | last1 = Andrews | first1 = J.R. | year = 2006 | title = Research in the Ranks: Vulnerable Subjects, Coercible Collaboration, and the Hepatitis E Vaccine Trial in Nepal | journal = Perspectives in Biology and Medicine | volume = 49 | issue = 1| pages = 35–51 | doi=10.1353/pbm.2006.0001| pmid = 16489275 | s2cid = 25881830 }}</ref>
+
+In January 2012, GSK and two scientists who led the trials were fined approximately $240,000 in Argentina for "experimenting with human beings" and "falsifying parental authorization" during vaccine trials on 15,000 children under the age of one. Babies were recruited from poor families that visited public hospitals for medical treatment. Fourteen babies allegedly died as a result of the trials.<ref>[http://www.buenosairesherald.com/article/88922/gsk-fined-over-vaccine-trials-14--babies-reported-dead GSK fined over vaccine trials; 14 babies reported dead] Buenos Aires Herald 1 Aug 2012.</ref>
+|-
+| Death from prescription drugs
+| United States
+| [[Hull, Massachusetts]] 
+|2006
+| [[Rebecca Riley]], the daughter of Michael and Carolyn Riley of Massachusetts, was found dead in her home at age four, her lungs filled with fluid, after prolonged exposure to various medications. The medical examiner's office determined the girl died from "intoxication due to the combined effects" of prescription drugs. Police reports state she was taking 750 milligrams a day of [[Depakote]], 200 milligrams a day of [[Seroquel]], and .35 milligrams a day of Clonidine. Riley had been taking the drugs since the age of two for [[bipolar disorder]] and [[attention-deficit hyperactivity disorder|ADHD]], diagnosed by child psychiatrist Kayoko Kifuji of the [[Tufts-New England Medical Center]].<ref name=stuarta>{{cite book |author= Kirk, S. A., Gomory, T., & Cohen, D. |title=Mad Science: Psychiatric Coercion, Diagnosis, and Drugs |year=2013 |publisher=Transaction Publishers |pages= 218–219}}</ref>
+|-
+| [[University of Minnesota]] Research Participant Dan Markingson
+| United States
+| Minnesota
+|2004
+|[[University of Minnesota]] research participant [[Dan Markingson]] committed suicide in May 2004 while enrolled in an industry-sponsored pharmaceutical trial comparing three FDA-approved atypical antipsychotics: [[Quetiapine|Seroquel (quetiapine)]], [[Olanzapine|Zyprexa (olanzapine)]], and [[Risperidone|Risperdal (risperidone)]]. Writing on the circumstances surrounding Markingson's death in the study, which was designed and funded by Seroquel manufacturer [[AstraZeneca]], University of Minnesota Professor of Bioethics [[Carl Elliott (philosopher)|Carl Elliott]] noted that Markingson was enrolled in the study against the wishes of his mother, Mary Weiss, and that he was forced to choose between enrolling in the study or being involuntarily committed to a state mental institution.<ref>{{cite news|last1=Elliott|first1=Carl|title=The deadly corruption of clinical trials. One patient's tragic, and telling, story.|url=https://www.motherjones.com/environment/2010/09/dan-markingson-drug-trial-astrazeneca/|access-date=4 August 2017|work=Mother Jones|date=September–October 2010|archive-date=2 April 2019|archive-url=https://web.archive.org/web/20190402204708/https://www.motherjones.com/environment/2010/09/dan-markingson-drug-trial-astrazeneca/|url-status=live}}</ref> Further investigation revealed financial ties to AstraZeneca by Markingson's psychiatrist, Dr. Stephen C. Olson, oversights and biases in AstraZeneca's trial design, and the inadequacy of university [[Institutional review board|Institutional Review Board (IRB)]] protections for research subjects.<ref>{{Cite web|url = http://markingson.blogspot.com/|title = A referenced summary of the Dan Markingson case|date = 2012-11-23|access-date = 2014-12-30|archive-date = 2019-04-10|archive-url = https://web.archive.org/web/20190410163601/http://markingson.blogspot.com/|url-status = live}}</ref> Although a 2005 FDA investigation appeared to clear the university, greater awareness of the case stemming from Elliott's 2010 article in the magazine [[Mother Jones (magazine)|''Mother Jones'']] resulted in a group of university faculty members sending a public letter to the Board of Regents urging an external investigation into Markingson's death.<ref>{{cite news|title=Markingson letter|url=https://www.scribd.com/document/49659724/U-of-M-Board-of-Regents-Markingson-Letter|access-date=4 August 2017|publisher=U of M Board of Regents|date=November 29, 2010|language=en|archive-date=6 March 2016|archive-url=https://web.archive.org/web/20160306112344/https://www.scribd.com/doc/49659724/U-of-M-Board-of-Regents-Markingson-Letter|url-status=live}}</ref>
+|}
+
+==Termination of mechanical ventilation and life support==
+
+{| class="wikitable"
+|-
+! colspan="6" style="background-color: #CCEEEE;" | Termination of life support
+|-
+! case
+! country
+! location
+! year
+! summary
+|-
+|[[Alta Fixsler case]]
+|United Kingdom
+|[[Manchester]]
+|2021
+|Parents wish to keep a child on life support.
+|-
+| ''[[Betancourt v. Trinitas Hospital]]''
+| United States
+| [[New Jersey]]
+| 2008
+| A hospital wishes to withhold treatment from someone whom it judges to have no chance of living.
+|-
+| Mordechai Dov Brody
+| United States
+| [[Brooklyn]]
+| 2008
+| The parents of a brain-dead boy want to keep him on life support.
+|-
+| ''[[Cuthbertson v Rasouli]]''
+| Canada
+| [[Toronto]]
+| 2013
+| The wife of a brain-damaged man wants to keep him on life support.
+|-
+| ''[[Lantz v. Coleman]]''
+| United States
+| [[Connecticut]]
+| 2007
+| Prison officials question whether to force-feed inmates who are on hunger strike.
+|-
+| [[Charlie Gard case]]
+| United Kingdom
+| [[Great Ormond Street Hospital]], [[London]], [[England]]
+| 2017
+| After losing a UK Supreme Court case, the parents of Gard, 10 months, petitioned the EU Court in France, and lost the final appeal. They wanted the hospital to allow them to travel to the U.S. for an experimental therapy that may have provided some temporary benefit but likely would not have improved his neurological condition, due to a [[mitochondrial DNA]] depletion disease (the treatment is [[nucleoside bypass therapy]]). At the least, they wanted for the hospital to continue to provide [[advanced life support]] [[palliative care]] for their son—respiration, nutrition, hydration—or to send him home on life support to eventually die, but those requests were also denied and support was turned off on July 27, 2017. Gard died the next day.
+|- 
+| [[Tirhas Habtegiris]]
+| United States
+| [[Texas]]
+| 2005
+| The hospital removes life support from an unconscious immigrant from [[Eritrea]] against her family's wishes. The family are in a foreign country and unable to travel.
+|-
+| [[Rom Houben]]
+| [[Belgium]]
+| 
+| 2010
+| A man seems to be in a persistent vegetative state, and after 23 years a communication test is conducted.
+|-
+| [[Sun Hudson case]]
+| United States
+| Texas
+| 2004
+| An infant is removed from life support against his mother's wishes.
+|-
+| [[Baby K]]
+| United States
+| [[Virginia]]
+| 1992
+| The mother of an [[Anencephaly|anencephalic]] baby wishes to keep the child on life support perpetually.
+|-
+| [[Jesse Koochin]]
+| United States
+| [[Salt Lake City]]
+| 2004
+| Parents wish to keep a child on life support.
+|-
+| [[Spiro Nikolouzos case]]
+| United States
+| [[Texas]]
+| 2005
+| A family wishes to keep life support for a man in a persistent vegetative state.
+|-
+| [[David Vetter]]
+| United States
+| [[Texas]]
+| 1984
+| A boy dies at age 12 after living a lifetime with highly unusual medical care in a sterile environment.
+|-
+| [[Jahi McMath case]]
+| United States
+| [[California]]
+| 2013
+| A teenage girl is declared [[brain-dead]] and her family wishes to keep her body on mechanical ventilation perpetually.
+|}
+
+==Withholding life-prolonging medical treatment==
+{| class="wikitable"
+|-
+! colspan="6" style="background-color: #CCEEEE;" | Withholding life-prolonging treatment
+|-
+! case
+! country
+! location
+! year
+! summary
+|-
+| [[Baby Doe Law]]
+| United States
+| [[New York (state)|New York]]
+| 1983
+| The parents of a child born with severe birth defects request the right to refuse treatment and keep the child off life support.
+|-
+| [[Baby M (Australia)|Baby M]]
+| Australia
+| [[Melbourne]]
+| 1989
+| Parents and doctors agree to withhold life-prolonging measures from a severely disabled newborn baby, including surgeries and medication, while Right to Life activists claim the baby is murdered.<ref>{{cite news|last1=Hagan|first1=Kate|title=Doctors tread ethical minefield, 21 years on|url=http://www.theage.com.au/victoria/doctors-tread-ethical-minefield-21-years-on-20100813-1239b.html|access-date=4 August 2017|work=The Age|date=14 August 2010}}</ref>
+|}
+
+==Informed consent to medical treatment==
+
+{| class="wikitable"
+|-
+! colspan="6" style="background-color: #CCEEEE;" | Informed consent to medical treatment
+|-
+! case
+! country
+! location
+! year
+! summary
+|-
+| [[Christiane Völling]]
+| Germany
+| 
+| 2011
+| Informed consent and involuntary sex reassignment in the case of an adult intersex woman.
+|-
+| [[Gillick competence]]
+| England
+| 
+| 1985
+| The right of minors to request contraception from their doctor without parental consent.
+|}
+
+==Person wishes for assisted suicide==
+{| class="wikitable"
+|-
+! colspan="6" style="background-color: #CCEEEE;" | Assisted suicide
+|-
+! case
+! country
+! location
+! year
+! summary
+|-
+| [[Betty and George Coumbias]]
+| [[Canada]]
+| [[Vancouver, British Columbia]]
+| 2007
+| A couple request to have the legal right to commit suicide together, although only the husband is ill.
+|-
+| [[Dax Cowart]]
+| United States
+|
+| 1973
+| A man who suffered severe burns requests the right to die.
+|-
+| [[Giovanni Nuvoli]]
+| Italy
+| [[Alghero]], [[Sardinia]]
+| 2007
+| A man in pain requests to have a legal right to die.
+|-
+| [[Sue Rodriguez]]
+| Canada
+| [[Victoria, British Columbia]]
+| 1991
+| A woman requests a right to assisted suicide.
+|-
+| [[Ramón Sampedro]]
+| Spain
+| [[Galicia, Spain|Galicia]]
+| 1998
+| For 29 years, a man requests his right to assisted suicide.
+|-
+| [[Noelia Castillo]]
+| Spain
+| [[Barcelona, Spain|Barcelona]]
+| 2026
+| A woman requests to have a legal right to euthanasia.
+|-
+| [[Aruna Shanbaug case]]
+| India
+| [[King Edward Memorial Hospital and Seth Gordhandas Sunderdas Medical College|Karnataka]]
+| 2011
+| A writ petition under Article 32 of the Constitution is filed on behalf of the petitioner Aruna Ramachandra Shanbaug by activist, author and journalist [[Pinki Virani]], claiming to be a next friend.
+|-
+| [[Piergiorgio Welby]]
+| Italy
+| [[Rome]]
+| 2006
+| A patient requests to have a legal right to die.
+|-
+|}
+
+==Person wishes for euthanasia for another==
+
+{| class="wikitable"
+|-
+! colspan="6" style="background-color: #CCEEEE;" | Euthanasia of another
+|-
+! case
+! country
+! location
+! year
+! summary
+|-
+| [[Andrew Bedner]]
+| United States
+| [[White River Junction, Vermont]]
+| 2008
+| A man is charged with critically harming his child, who is on life support. If the child dies, the man may be charged with murder. 
+|-
+| [[Tony Bland]]
+| England
+| [[Sheffield]]
+| 1993
+| Bland was the first patient in English legal history to be allowed to die by the courts through the withdrawal of life-prolonging treatment.
+|-
+| [[Carol Carr]]
+| United States
+| [[Georgia (U.S. state)|Georgia]]
+| 2002
+| A mother shoots and kills her adult sons to relieve their suffering from [[Huntington's disease]].
+|-
+| ''[[Cruzan v. Director, Missouri Department of Health]]''
+| United States
+| [[Missouri]]
+| 1990
+| The parents of a woman in a persistent vegetative state request the right to remove her life support equipment.
+|-
+| [[Eluana Englaro]]
+| [[Italy]]
+| [[Lecco]]
+| 1992
+| Parents receive permission to remove the life support from a woman in a persistent vegetative state for 17 years.
+|-
+| [[June Hartley]]
+| United States
+| [[California]]
+| 2009
+| A woman euthanizes her brother after he has medical problems.
+|-
+| [[Jack Kevorkian]]
+| United States
+| Michigan
+| 1994
+| A medical doctor advocates for [[assisted suicide]] and the [[right to die]].
+|-
+| [[Robert Latimer]]
+| Canada
+| [[Saskatchewan]]
+| 1993
+| A man euthanizes his child who has lived in pain for years.
+|-
+| [[Karen Ann Quinlan case]]
+| United States
+| New Jersey
+| 1976
+| A 21-year-old girl is in a persistent vegetative state. Her parents wish to remove her from artificial respiration. 
+|-
+|[[Terri Schiavo case]]
+| United States
+| [[Florida]]
+| 2005
+| A woman is in a persistent vegetative state. Her husband wishes to remove her life support. Her parents wish her to remain on life support.
+|-
+| [[Death of Marlise Muñoz|Marlise Muñoz]]
+| United States
+| [[Texas]]
+| 2013
+| A woman is declared brain-dead by her physician. Her husband and family wish to remove life support. The hospital persists in keeping her on life support because it claims it cannot legally withdraw life support from a pregnant patient.
+|}
+
+==References==
+{{reflist}}
+
+{{Medical ethics cases}}
+{{Research participant rights}}
+
+[[Category:Medical ethics]]
+[[Category:Lists of lawsuits|Medical ethics cases]]
+[[Category:Medical controversies| ]]

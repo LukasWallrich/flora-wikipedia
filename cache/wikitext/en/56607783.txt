@@ -1,0 +1,41 @@
+{{short description|Canadian economist and the Frederic E (born 1974)}}
+'''Nathan Nunn''' (born July 9, 1974) is a Canadian economist and professor of the [[Vancouver School of Economics]] at the [[University of British Columbia]].<ref>{{cite web | url=https://www.instagram.com/p/CXiSThPLRAu/ | title=Santa J. Ono on Instagram: "We are thrilled that Nathan Nunn, the Frederic e. Abbe Professor of Economics at Harvard University will be leaving Harvard to join the University of British Columbia faculty in our Vancouver School of Economics." }}</ref> He is best known for his research on the long-term effects of slave trade on Africa. His research interests include [[economic development]], [[cultural economics]], [[political economy]] and [[international trade]].<ref>[https://scholar.harvard.edu/nunn/home Webpage of Nathan Nunn at Harvard University. Retrieved February 16th, 2018.]</ref>
+
+== Biography ==
+
+A native of Canada, Nathan Nunn earned first a [[Bachelor of Arts|B.A.]] in economics from [[Simon Fraser University]] in 1998 and then a [[Master of Arts|M.A.]] and Ph.D. in economics from the [[University of Toronto]] in 2000 and 2005, respectively. After his graduation, Nunn worked as an assistant professor at the [[University of British Columbia]] before moving to [[Harvard University]] in 2007. There, he was promoted to the Paul Sack Associate Professorship in Political Economy in 2011, became full professor in 2012, and held the position of Frederic E. Abbe Professor of Economics from 2016 to 2022, prior to returning to the [[University of British Columbia]]. Nunn maintains affiliations with [[National Bureau of Economic Research|NBER]], [[Bureau for Research and Economic Analysis of Development|BREAD]], and the [[Center for Effective Global Action|CEGA]]. He is currently a Fellow of the Boundaries, Membership & Belonging of the [[Canadian Institute for Advanced Research]]. Moreover, Nunn currently serves as an Editor of the ''[[Quarterly Journal of Economics]]'' and was an Editor of the ''[[Journal of Development Economics]]'' from 2013 to 2019. He has also been an associate editor at the ''[[Journal of Comparative Economics]]'', ''[[Review of Economics and Statistics]]'', ''[[Journal of International Economics]]'', and the ''[[Canadian Journal of Economics]]'' in the past.<ref>{{Cite web |url=https://scholar.harvard.edu/files/nunn/files/cv_nathan_nunn_jan2018.pdf |title=Curriculum vitae of Nathan Nunn. Retrieved February 16th, 2018. |access-date=2018-02-16 |archive-date=2018-02-17 |archive-url=https://web.archive.org/web/20180217083041/https://scholar.harvard.edu/files/nunn/files/cv_nathan_nunn_jan2018.pdf |url-status=dead }}</ref>
+
+== Research ==
+
+Nathan Nunn's research focuses on [[economic history]], [[economic development]], [[cultural economics]], [[political economy]] and [[international trade]]. A recurrent theme in Nunn's research is the long-term impact of historical processes on economic development, often mediated through institutions, culture, knowledge and technology.<ref>{{Cite journal|url=https://ideas.repec.org/a/anr/reveco/v1y2009p65-92.html|title=The Importance of History for Economic Development|first=Nathan|last=Nunn|date=September 21, 2009|journal=Annual Review of Economics|volume=1|issue=1|pages=65–92|doi=10.1146/annurev.economics.050708.143336 |s2cid=39442091 |via=ideas.repec.org}}</ref> According to [[IDEAS/RePEc]], Nathan Nunn belongs to the 2% of most cited economists.<ref>[https://ideas.repec.org/top/top.person.all.html#pnu17 Ranking of economists at IDEAS/RePEc. Retrieved February 16th, 2018.]</ref> Key findings of his research include the following:
+* Countries' ability to enforce contracts is possibly a more important determinant of their [[comparative advantage]] than skilled labour and physical capital ''combined''.<ref>{{cite journal |last=Nunn |first=N. |year=2007 |title=Relationship-Specificity, Incomplete Contracts, and the Pattern of Trade |journal=[[Quarterly Journal of Economics]] |volume=122 |issue=2 |pages=569–600 |doi=10.1162/qjec.122.2.569 |s2cid=4788472 |url=http://nrs.harvard.edu/urn-3:HUL.InstRepos:4686801 }}</ref>
+* A substantial part of Africa's current underdevelopment appears to be caused by the long-term effects of the [[Atlantic slave trade|Atlantic]], [[Indian Ocean slave trade|Indian Ocean]], [[Trans-Saharan slave trade|Trans-Saharan]] and Red sea slave trades.<ref>{{cite journal |last=Nunn |first=N. |year=2008 |title=The Long-term Effects of Africa's Slave Trades |journal=Quarterly Journal of Economics |volume=123 |issue=1 |pages=139–176 |doi=10.1162/qjec.2008.123.1.139 |s2cid=324199 |url=http://www.nber.org/papers/w13367.pdf }}</ref>
+* Current differences in trust levels within Africa are attributable to the impact of the slave trades, which have caused the emergence of low-trust cultural norms, beliefs, and values in ethnic groups heavily affected by slavery (with [[Leonard Wantchekon]]).<ref>{{cite journal |last1=Nunn |first1=N. |last2=Wantchekon |first2=L. |year=2011 |title=The Slave Trade and the Origins of Mistrust in Africa |journal=[[American Economic Review]] |volume=101 |issue=7 |pages=3221–3252 |doi=10.1257/aer.101.7.3221 |s2cid=219336147 |url=https://dash.harvard.edu/bitstream/1/11986331/1/nunn-slave-trade.pdf }}</ref>
+* By impeding not only trade and technological diffusion but also the depredations of slave traders, the ruggedness of certain African regions' terrain had a significant positive impact on these regions' development (with Diego Puga).<ref>{{cite journal |last1=Nunn |first1=N. |last2=Puga |first2=D. |year=2012 |title=Ruggedness: The Blessing of Bad Geography in Africa |journal=[[Review of Economics and Statistics]] |volume=94 |issue=1 |pages=20–36 |doi=10.1162/REST_a_00161 |s2cid=16512034 |url=http://nrs.harvard.edu/urn-3:HUL.InstRepos:29412035 }}</ref>
+* The introduction of the potato within the Columbian exchange may have been responsible for at least a quarter of the population and urbanisation growth observed in the Old World between 1700 and 1900 (with [[Nancy Qian]]).<ref>{{cite journal |last1=Nunn |first1=N. |last2=Qian |first2=N. |year=2011 |title=The Potato's Contribution to Population and Urbanization: Evidence from a Historical Experiment |journal=Quarterly Journal of Economics |volume=126 |issue=2 |pages=593–650 |doi=10.1093/qje/qjr009 |pmid=22073408 |doi-access=free |hdl=10.1093/qje/qjr009 |hdl-access=free }}</ref>
+* In line with [[Ester Boserup|Ester Boserup's hypothesis]], the introduction and historical use of [[plough agriculture]] gave men a comparative advantage in work outside of the home and made gender norms less equal. Historical differences in the plough use of immigrants' ancestral communities predict contemporary attitudes regarding [[gender equality]] (with [[Alberto Alesina]] and [[Paola Giuliano]]).<ref>{{cite journal |last1=Alesina |first1=A. |last2=Giuliano |first2=P. |last3=Nunn |first3=N. |year=2013 |title=On the Origins of Gender Roles: Women and the Plough |journal=Quarterly Journal of Economics |volume=128 |issue=2 |pages=469–530 |doi=10.1093/qje/qjt005 |hdl=10419/51568 |hdl-access=free }}</ref>
+* U.S. Food Aid is driven by U.S. objectives and can lead to increased conflict in recipient countries (with [[Nancy Qian]]).
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+*[https://scholar.harvard.edu/nunn/home Webpage of Nathan Nunn at Harvard University]
+*{{Google scholar id}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nunn, Nathan}}
+[[Category:1974 births]]
+[[Category:Living people]]
+[[Category:Harvard University faculty]]
+[[Category:Economic historians]]
+[[Category:Canadian development economists]]
+[[Category:Simon Fraser University alumni]]
+[[Category:Alfred P. Sloan Prize winners]]
+[[Category:University of Toronto alumni]]
+[[Category:21st-century  Canadian  economists]]
+[[Category:21st-century Canadian historians]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:21st-century Canadian statisticians]]

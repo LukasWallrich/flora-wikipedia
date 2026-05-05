@@ -1,0 +1,50 @@
+{{Infobox diagnostic
+| name            = OQ-45
+| image           = 
+| alt             = 
+| caption         = 
+| pronounce       =  
+| purpose         = Psychotherapy Outcome Measure
+| test of         =
+| based on        =
+| synonyms        = 
+| reference_range =
+| calculator      = 
+| DiseasesDB      = <!--{{DiseasesDB2|numeric_id}}-->
+| ICD10           = <!--{{ICD10|Group|Major|minor|LinkGroup|LinkMajor}} or {{ICD10PCS|code|char1/char2/char3/char4}}-->
+| ICD9            = 
+}}
+{{Psychology sidebar}}
+The '''Outcome Questionnaire 45''' ('''OQ-45'''), created by Gary M Burlingame and [[Michael J. Lambert]] at [[Brigham Young University]], is a 45-item multiple-choice [[self-report inventory]] used to measure psychotherapy progress in adult patients. The OQ-45 is currently in its second version (OQ-45.2), which was released in October 2013 by [http://www.oqmeasures.com/ OQ Measures], the company founded by Burlingame and Lambert.  
+
+==Clinical use==
+The instrument was designed as a brief scale to measure the subjective experience of a person, as well as the way they function in the world. Authors intended it to be a low cost instrument with a quick administration time that is sensitive to change across time. The inventory is not intended to be used for diagnostic purposes. 
+
+==Format==
+The OQ-45 contains 45 items. Individuals are asked to describe their experiences in the last week, using a multiple choice format. This response format is consistent across questions: Never, Rarely, Sometimes, Frequently, and Almost Always. The questionnaire was originally developed as a paper version, and was later made available in mobile and web-based formats.
+
+==Domains of measurement==
+The OQ-45 measures progress across three different domains of experience: 
+# ''Symptom Distress (SD)'': Measures an individual's degree of subjective discomfort
+# ''Interpersonal Relations (IR)'': Measures impairment in interpersonal functioning
+# ''Social Role (SR)'': Measures impairment in functioning at work and in other social roles
+
+==Scoring==
+Points are assigned for each response using the following scoring rubric: Never (0), Rarely (1), Sometimes (2), Frequently (3), and Almost Always (4). Individual subscales are totaled using addition, after reverse-coding procedures are performed. Higher scores indicate more severe distress and functional impairment. The Symptom Distress subscale contains 25 items, and scores range from 0 to 100. The Interpersonal Relations subscale contains 11 items, and scores range from 0 to 44. The Social Role subscale contains 9 items, and scores range from 0 to 36. A total score (TOT) is calculated by summing the subscales, and scores range from 0 to 180. The instrument's administration and scoring manual provides thresholds for clinically significant distress and impairment, and for reliable change. 
+
+==Use in research==
+The OQ-45 has been used in research on enhancing [[psychotherapy]] and [[Counseling psychology|counseling]] treatment effects,<ref>{{Cite journal |last=Lambert |first=Michael J. |last2=Hansen |first2=Nathan B. |last3=Finch |first3=Arthur E. |date=2001 |title=Patient-focused research: Using patient outcome data to enhance treatment effects. |url=https://doi.apa.org/doi/10.1037/0022-006X.69.2.159 |journal=Journal of Consulting and Clinical Psychology |language=en |volume=69 |issue=2 |pages=159–172 |doi=10.1037/0022-006X.69.2.159 |issn=1939-2117|url-access=subscription }}</ref><ref>{{Cite journal |last=Whipple |first=Jason L. |last2=Lambert |first2=Michael J. |last3=Vermeersch |first3=David A. |last4=Smart |first4=David W. |last5=Nielsen |first5=Stevan L. |last6=Hawkins |first6=Eric J. |date=2003 |title=Improving the effects of psychotherapy: The use of early identification of treatment and problem-solving strategies in routine practice. |url=https://doi.apa.org/doi/10.1037/0022-0167.50.1.59 |journal=Journal of Counseling Psychology |language=en |volume=50 |issue=1 |pages=59–68 |doi=10.1037/0022-0167.50.1.59 |issn=1939-2168|url-access=subscription }}</ref><ref>{{Cite journal |last=Gondek |first=Dawid |last2=Edbrooke-Childs |first2=Julian |last3=Fink |first3=Elian |last4=Deighton |first4=Jessica |last5=Wolpert |first5=Miranda |date=2016 |title=Feedback from Outcome Measures and Treatment Effectiveness, Treatment Efficiency, and Collaborative Practice: A Systematic Review |url=http://link.springer.com/10.1007/s10488-015-0710-5 |journal=Administration and Policy in Mental Health and Mental Health Services Research |language=en |volume=43 |issue=3 |pages=325–343 |doi=10.1007/s10488-015-0710-5 |issn=0894-587X |pmc=4831994 |pmid=26744316}}</ref> evaluating the effectiveness of therapists over time,<ref>{{Cite journal |last=Goldberg |first=Simon B. |last2=Rousmaniere |first2=Tony |last3=Miller |first3=Scott D. |last4=Whipple |first4=Jason |last5=Nielsen |first5=Stevan Lars |last6=Hoyt |first6=William T. |last7=Wampold |first7=Bruce E. |date=2016 |title=Do psychotherapists improve with time and experience? A longitudinal analysis of outcomes in a clinical setting. |url=https://doi.apa.org/doi/10.1037/cou0000131 |journal=Journal of Counseling Psychology |language=en |volume=63 |issue=1 |pages=1–11 |doi=10.1037/cou0000131 |issn=1939-2168|url-access=subscription }}</ref> and assessing the effectiveness of mental health agencies.<ref>{{Cite journal |last=Goldberg |first=Simon B. |last2=Babins-Wagner |first2=Robbie |last3=Rousmaniere |first3=Tony |last4=Berzins |first4=Sandy |last5=Hoyt |first5=William T. |last6=Whipple |first6=Jason L. |last7=Miller |first7=Scott D. |last8=Wampold |first8=Bruce E. |date=2016 |title=Creating a climate for therapist improvement: A case study of an agency focused on outcomes and deliberate practice. |url=https://doi.apa.org/doi/10.1037/pst0000060 |journal=Psychotherapy |language=en |volume=53 |issue=3 |pages=367–375 |doi=10.1037/pst0000060 |issn=1939-1536|url-access=subscription }}</ref> A [https://psycnet.apa.org/record/2025-73823-001 study] published in 2025 analyzed data from 456 clients who took 5,917 sessions of low-fee [[online counseling]] at the Sentio Counseling Center and found "sessions where the therapist reviewed the client’s OQ score beforehand (rather than after hand) showed significantly larger symptom improvement by the next session than sessions without such a review" and therapists "who reviewed client OQ scores more frequently before (rather than after) therapy sessions achieved faster client symptom recovery across all clients."<ref>{{Cite journal |last=Li |first=Xu |last2=Carney |first2=Jalen J. |last3=Rousmaniere |first3=Tony |last4=Fineman |first4=Ben |last5=Vaz |first5=Alexandre |date=2025-01-27 |title=The “magic” of looking at that score: A multilevel investigation of therapist review of client symptom measures and client clinical outcome. |url=https://doi.apa.org/doi/10.1037/cou0000781 |journal=Journal of Counseling Psychology |language=en |doi=10.1037/cou0000781 |issn=1939-2168|url-access=subscription }}</ref> 
+
+==See also==
+* [[Gary M. Burlingame]]
+*[[Michael J. Lambert]] 
+* [[Outcome measure]]
+* [[Psychological evaluation]]
+
+==References==
+<references />
+==External links==
+* [http://www.oqmeasures.com/oq-45-2/ OQ-45.2 Website]
+
+[[Category:Mental disorders screening and assessment tools]]
+[[Category:Mental disorders self-report inventories]]

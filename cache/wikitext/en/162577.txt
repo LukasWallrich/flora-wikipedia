@@ -1,0 +1,496 @@
+{{Short description|Family of perching birds}}{{distinguish|Cervidae}}{{Use dmy dates|date=December 2022}}
+{{Automatic taxobox
+| name              = Corvids
+| fossil_range      = {{fossil range|16|0|[[Middle Miocene]] to present}}
+| image             = Carrion crow (Corvus corone) head.jpg
+| image_caption     = [[Carrion crow]]<br />''Corvus corone''
+| taxon             = Corvidae
+| authority         = [[William Elford Leach|Leach]], 1820
+| subdivision_ranks = Subfamilies
+| subdivision       = *[[Pyrrhocoracinae]]
+*[[Crypsirininae]]
+*[[Cissinae]]
+*[[Perisoreinae]]
+*[[Cyanocoracinae]]
+*[[Corvinae]]
+| range_map         = Corvidae range.png
+| range_map_caption = Distribution map of the Corvidae.
+<div style="text-align:left;"><big>{{Legend2|#00BE30|Native|border=1px solid #aaa}} {{Legend2|#F3F300|(Re)Introduced|border=1px solid #aaa}}</big></div> <div style="text-align:left;"><big>{{Legend2|#15A3EB|Extinct (post-1500)|border=1px solid #aaa}} {{Legend2|#FF0000|Extinct (pre-1500)|border=1px solid #aaa}}</big></div>
+}}
+
+'''Corvidae''' is a [[Cosmopolitan distribution|cosmopolitan]] [[Family (biology)|family]] of [[Songbird|oscine]] [[passerine]] [[bird]]s that contains the [[crow]]s, [[raven]]s, [[Rook (bird)|rooks]], [[magpie]]s, [[jackdaw]]s, [[jay]]s, [[treepie]]s, [[chough]]s, and [[Nutcracker (bird)|nutcrackers]].<ref name=madge/><ref name = robertson2000/><ref name = claytonemery2005/> In [[Colloquialism|colloquial]] terms, the '''crow family''' is made up of '''corvids'''; currently 135 species are included. The genus ''[[Corvus]]'' containing 47 species makes up over a third of the entire family.<ref name=avilist>{{ cite web | author=AviList Core Team | date=2025 | title=AviList: The Global Avian Checklist, v2025 | doi=10.2173/avilist.v2025 | doi-access=free | url=http://www.avilist.org/checklist/v2025/ | access-date=5 January 2026 }}</ref> The raven is the largest passerine bird.
+
+Corvids display remarkable [[Animal cognition|intelligence]] for animals of their size, and are among the most [[Bird intelligence|intelligent birds]] thus far studied.<ref>{{Cite journal|last1=Emery|first1=N. J.|last2=Clayton|first2=Nicola S.|date=2004|title=The mentality of crows: Convergent evolution of Intelligence in corvids and apes|url=https://www.science.org/doi/10.1126/science.1098410|journal=Science|language=en|volume=306|issue=5703|pages=1903–1907|doi=10.1126/science.1098410|pmid=15591194 |bibcode=2004Sci...306.1903E |s2cid=9828891 |issn=0036-8075|url-access=subscription}}</ref> Specifically, members of the family have demonstrated [[self-awareness]] in [[mirror test]]s ([[Eurasian magpie]]s) and [[Tool use by animals|tool-making ability]] (e.g. crows and rooks<ref>{{Cite news| url=https://news.bbc.co.uk/2/hi/science/nature/8059688.stm | work=BBC News | title=Rooks reveal remarkable tool-use | date=26 May 2009 | access-date=2 April 2010}}</ref>), skills which until recently were thought to be possessed only by humans and a few other [[mammal]]s. Their total [[Brain–body mass ratio|brain-to-body mass ratio]] is equal to that of non-human [[Hominidae|great apes]] and [[cetacea]]ns, and only slightly lower than that of humans.<ref name="birding">Birding in India and South Asia: [http://www.birding.in/birds/Passeriformes/corvidae.htm Corvidae]. Retrieved 2007-Nov-10</ref>
+
+They are medium to large in size, with strong feet and bills, [[Beak#Rictal bristles|rictal bristles]], and a single [[Moulting|moult]] each year. Corvids are found worldwide, except for the southern tip of [[South America]] and the polar [[ice cap]]s.<ref name = claytonemery2005/> The majority of the species are<!-- species is the subject --> found in tropical South and [[Central America]] and in southern Asia, with fewer than ten species each in Africa and [[Australasia]]. The genus ''[[Corvus]]'' has re-entered Australia in relatively recent geological prehistory, with five species and one subspecies there. Several species of raven have reached oceanic islands, and some of these species are now highly threatened with [[extinction]], or have already become extinct.
+
+==Systematics, taxonomy, and evolution==
+The name Corvidae for the [[family (biology)|family]] was introduced by the English zoologist [[William Elford Leach]] in a guide to the contents of the [[British Museum]] published in 1820.<ref>{{ cite book | last=Leach | first=William Elford | author-link=William Elford Leach  | year=1820 | chapter=Eleventh Room | title= Synopsis of the Contents of the British Museum | volume=17 | place=London | publisher=British Museum | edition=17th| pages=67–68 | url=https://www.biodiversitylibrary.org/page/55257928 }} The name of the author is not specified in the document.</ref><ref>{{cite book | last=Bock | first=Walter J. | year=1994 | title=History and Nomenclature of Avian Family-Group Names | series=Bulletin of the American Museum of Natural History | volume= 222 | publisher=American Museum of Natural History | place=New York | pages=118, 222 | hdl=2246/830 }}<!--Linked page allows download of the 48MB pdf--></ref> Over the years, much disagreement has arisen on the exact evolutionary relationships of the corvid family and their relatives. What eventually seemed clear was that corvids are derived from [[Australasia]]n ancestors,<ref>{{Cite journal|last1=Jønsson|first1=Knud A.|last2=Fabre|first2=Pierre-Henri|last3=Ricklefs|first3=Robert E.|last4=Fjeldså|first4=Jon|date=8 February 2011|title=Major global radiation of corvoid birds originated in the proto-Papuan archipelago|journal=Proceedings of the National Academy of Sciences|language=en|volume=108|issue=6|pages=2328–2333|doi=10.1073/pnas.1018956108|issn=0027-8424|pmid=21262814|pmc=3038755|bibcode=2011PNAS..108.2328J|doi-access=free}}</ref> and spread throughout the world from there. Other lineages derived from these ancestors evolved into ecologically diverse, but often Australasian, groups. In the late 1970s and throughout the 1980s, [[Sibley-Ahlquist taxonomy|Sibley and Ahlquist]] united the corvids with other taxa in the [[Corvida]], based on [[DNA–DNA hybridisation]]. The presumed corvid relatives included [[currawong]]s, [[birds of paradise]], [[whipbird]]s, [[quail-thrush]]es, [[Pachycephalidae|whistlers]], [[monarch flycatcher]]s and [[drongo]]s, [[shrike]]s, [[vireo]]s, and [[vanga]]s,<ref name = robertson2000/> but current research favours the theory that this grouping is partly artificial. The corvids are now treated as constituting the core group of the [[Corvoidea]], together with their closest relatives (the birds of paradise, [[Australian mud-nesters]], and shrikes). They are also the core group of the Corvida, which includes the related groups, such as [[Old World oriole]]s and vireos.<ref name = j&f2006/>
+
+Clarification of the interrelationships of the corvids has been achieved based on [[cladistic]] analysis of several [[DNA sequence]]s.<ref name = j&f2006/><ref name=Ericson/> The jays and magpies do not constitute [[monophyletic]] lineages, but rather seem to split up into an [[Americas|American]] and [[Old World]] lineage, and a [[Holarctic]] and Oriental lineage, respectively. These are not closely related among each other. The position of the [[azure-winged magpie]], which has always been of uncertain lineage, is little clearer than previously thought.
+
+The [[crested jayshrike]] (''Platylophus galericulatus'') is traditionally included in the Corvidae, but is not a true member of this family, being closer to the [[Prionops|helmetshrikes]] ([[Malaconotidae]]) or [[shrike]]s ([[Laniidae]]).<ref name=madge/><ref name=goodwin/> Likewise, the [[Hume's ground tit|Hume's ground "jay"]] (''Pseudopodoces humilis'') is, in fact, a member of the tit family, [[tit (bird)|Paridae]].<ref name=James/> The following tree showing the [[phylogeny]] of the crow family is based on a molecular study by Jenna McCullough and collaborators published in 2023.<ref>{{Cite journal | last1=McCullough | first1=J.M. | last2=Hruska | first2=J.P. | last3=Oliveros | first3=C.H. | last4=Moyle | first4=R.G. | last5=Andersen | first5=M.J. | date=2023 | title=Ultraconserved elements support the elevation of a new avian family, Eurocephalidae, the white-crowned shrikes | journal=Ornithology | volume=140 | issue=3 | article-number=ukad025 | doi=10.1093/ornithology/ukad025 | doi-access=free }}</ref>
+{{clade | style=font-size:100%;line-height:100%
+|label1='''Corvidae'''
+|1={{Clade
+   |1=''[[Pyrrhocorax]]'' – choughs (2 species)
+   |2={{clade
+   |label1=[[Crypsirininae]] – treepies
+      |1={{clade
+         |1={{clade
+            |1=''[[Crypsirina]]'' (2 species)
+            |2=''[[Dendrocitta]]'' (7 species)
+            }}
+         |2={{clade
+            |1=''[[Temnurus]]'' (1 species)
+            |2=''[[Platysmurus]]'' (2 species)
+            }}
+         }}
+      |2={{clade
+         |label1=[[Cissinae]]
+         |1={{clade
+            |1=''[[Cissa (bird)|Cissa]]'' – green magpies (4 species)
+            |2=''[[Urocissa]]'' – blue magpies (5 species)
+            }}
+         |2={{clade
+            |label1=[[Perisoreinae]]
+            |1={{clade
+               |1=''[[Cyanopica]]'' (2 species)
+               |2=''[[Perisoreus]]'' – boreal jays (3 species)
+               }}
+            |2={{clade
+               |label1=[[Cyanocoracinae]] – New World jays
+               |1={{clade
+                  |1=''[[Cyanolyca]]'' (9 species)
+                  |2={{clade
+                     |1=''[[Cyanocorax]]'' (20 species)
+                     |2={{clade
+                        |1=''[[Aphelocoma]]'' (7 species)
+                        |2={{clade
+                           |1=''[[Gymnorhinus]]'' (1 species)
+                           |2=''[[Cyanocitta]]'' (2 species)
+                           }}
+                        }}
+                     }}
+                  }}
+               |label2=[[Corvinae]]
+               |2={{clade
+                  |1={{clade
+                     |1=''[[Garrulus]]'' – true jays (3 species)
+                     |2={{clade
+                        |1=''[[Ptilostomus]]'' – piapiac
+                        |2={{clade
+                           |1=''[[Zavattariornis]]'' – Ethiopian bushcrow
+                           |2=''[[Podoces]]'' – ground jays (4 species)
+                           }}
+                        }}
+                     }}
+                  |2={{clade
+                     |1=''[[Pica (bird)|Pica]]'' – true magpies (7 species)
+                     |2={{clade
+                        |1=''[[Nucifraga]]'' – nutcrackers (4 species)
+                        |label2=''[[Corvus]]'' sensu lato
+                        |2={{clade
+                           |1=''[[Coloeus]]'' – jackdaws (2 species) <span style="{{MirrorH}}">[[File:Eurasian jackdaw.png|50 px]]</span>
+                           |2=''[[Corvus]]'' – crows, ravens, rook (47 species) <span style="{{MirrorH}}">[[File:Carrion crow.png|50 px]]</span>
+                           }}
+                        }}
+                     }}
+                  }}
+               }}
+            }}
+         }}
+      }}
+   }}
+}}
+
+=== Fossil record ===
+The earliest corvid [[fossil]]s date to mid-[[Miocene]] Europe,<ref>{{Cite journal | last1 = Mourer-Chauviré | first1 = C. C. | title = Cenozoic Birds of the World, Part 1: Europe | journal = The Auk | volume = 121 | issue = 2 | page = 623 | year = 2004 | doi = 10.1642/0004-8038(2004)121[0623:CBOTWP]2.0.CO;2 | s2cid = 86482094 | doi-access = free }}</ref> about 17&nbsp;million years ago; ''[[Miocorvus]]'' and ''[[Miopica]]'' may be ancestral to crows and some of the magpie lineage, respectively, or similar to the living forms, due to [[convergent evolution]]. The known prehistoric corvid genera appear to be mainly of the New World and Old World jay and Holarctic magpie lineages:
+
+* ''[[Miocorvus]]'' ([[Middle Miocene]] of [[Sansan, Gers]] in southwestern [[France]])<!-- Auk54:174;121:1155. Condor54:174. -->
+* ''[[Miopica]]'' (Middle Miocene of SW Ukraine)
+* ''[[Miocitta]]'' (Pawnee Creek Late Miocene of Logan County, US)
+* Corvidae gen. et sp. indet. (Edson [[Early Pliocene]] of [[Sherman County, Kansas]], US)<ref>[[Anatomical terms of location#Proximal and distal|Proximal]] right [[coracoid]] of a jay-sized bird, perhaps a Holarctic magpie distinct from ''Pica'': {{cite journal |last=Wetmore |first=Alexander |title=The Eared Grebe and other Birds from the Pliocene of Kansas |journal=[[Condor (journal)|Condor]] |volume=39 |issue=1 |pages=36–44 |url=http://sora.unm.edu/sites/default/files/journals/condor/v039n01/p0040-p0040.pdf | doi = 10.2307/1363487|jstor=1363487 |year=1937 }}</ref>
+* ''[[Protocitta]]'' (Early Pleistocene of Reddick, US)
+* Corvidae gen. et sp. indet. (Early/Middle Pleistocene of Sicily) – probably belongs in an extant genus<!-- IntGeolCongr32FieldTripGuideBookB07. -->
+* ''[[Henocitta]]'' (Arredondo Clay Middle Pleistocene of Williston, US)
+
+In addition, there are numerous fossil species of extant genera since the [[Miocene|Mio]]–[[Pliocene]], mainly European ''Corvus''.{{efn|See the genus accounts for more.}}
+
+==Morphology==
+
+[[File:American Crow skeleton.jpg|thumb|upright|Skeleton of (''[[American crow|Corvus brachyrhynchos]]'') at the [[Museum of Osteology]] ]]
+
+Corvids are large to very large [[passerine]]s with a robust build and strong legs; all species, except the [[pinyon jay]], have [[nostril]]s covered by bristle-like feathers.<ref name = Perrins/> Many corvids of temperate zones have mainly black or blue coloured [[plumage]]; however, some are pied black and white, some have a blue-purple iridescence, and many tropical species are brightly coloured. The sexes are very similar in colour and size. Corvids have strong, stout bills and large wingspans. The family includes the largest members of the [[passerine]] order. The smallest corvid is the [[dwarf jay]] (''Cyanolyca nanus''), at {{convert|41|g|oz|abbr=on}} and {{convert|21.5|cm|in|abbr=on}}. The largest corvids are the [[common raven]] (''Corvus corax'') and the [[thick-billed raven]] (''Corvus crassirostris''), both of which regularly exceed {{convert|1400|g|lb|abbr=off}} and {{convert|65|cm|in|abbr=on}}. Species can be identified based on size, shape, and geography.<ref name=robertson2000/>
+
+==Ecology==
+Corvids occur in most climatic zones. Most are sedentary, and do not [[bird migration|migrate]] significantly. However, during a shortage of food, irruptive migration can occur.<ref name = robertson2000 /> When species are migratory, they will form large flocks in the fall (around August in the Northern Hemisphere) and travel south.<ref name = shadesfonight />
+
+One reason for the success of crows, compared to ravens, is their ability to overlap breeding territory. During breeding season, crows were shown to overlap breeding territory six times as much as ravens. This invasion of breeding ranges allowed a related increase in local population density.<ref name = m&n2006 />
+
+Since crows and magpies have benefited and even increased in numbers due to human development, it was suggested that this might cause increased rates of nest predation of smaller bird species, leading to declines. Several studies have shown this concern to be unfounded. One study examined [[American crow]]s, which had increased in numbers, were a suspect in nest predation of threatened [[marbled murrelet]]s. However, [[Steller's jay]]s, which are successful independently of human development, are more efficient in plundering small birds' nests than [[American crow]]s and [[common raven]]s. Therefore, the human relationship with crows and ravens did not significantly increase nest predation when compared to other factors, such as [[habitat destruction]].<ref name = m&n2006 /> Similarly, a study examining the decline of British songbirds found no link between [[Eurasian magpie]] numbers and population changes of 23 songbird species.<ref>{{cite journal|last1=Thompson|first1=D. L.|last2=Green|first2=R. E.|last3=Gregory|first3=R. D.|last4=Baillie|first4=S. R.|title=The widespread declines of songbirds in rural Britain do not correlate with the spread of their avian predators|journal=Proceedings of the Royal Society B|date=1998|volume=265|issue=1410|pages=2057–2062|doi=10.1098/rspb.1998.0540|pmc=1689492}}</ref>
+
+==Behaviour==
+Some corvids have strong organisation and community groups. Jackdaws, for example, have a strong social hierarchy, and are facultatively colonial during breeding.<ref name = v&s2004/> Providing mutual aid has also been recorded within many of the corvid species.
+
+Young corvids have been known to [[Play (activity)|play]] and take part in elaborate social [[game]]s. Documented group games follow "king of the mountain" or "follow the leader" patterns. Other play involves the manipulation, passing, and balancing of sticks. Corvids also take part in other activities, such as sliding down smooth surfaces. These games are understood to play a large role in the adaptive and survival ability of the birds.<ref name=Gill/>
+
+Mate selection is quite complex, and accompanied with much social play in the Corvidae. Youngsters of social corvid species undergo a series of tests, including aerobatic feats, before being accepted as a mate by the opposite sex.<ref name = shadesfonight />
+
+Some corvids can be aggressive. [[Blue jay]]s, for example, are well known to attack anything that threatens their nest. Crows have been known to attack dogs, cats, ravens, and birds of prey. Most of the time, these assaults take place as a distraction long enough to allow an opportunity for stealing food.<ref name = shadesfonight />
+
+===Food and feeding===
+[[File:Corvus tasmanicus - Collinsvale.jpg|thumb|right|Corvids are highly opportunistic foragers. Here, a [[forest raven]] feeds on a [[Tasmanian nativehen]] hit by a car.]]
+The natural diet of many corvid species is omnivorous, consisting of [[invertebrate]]s, nestlings, small mammals, berries, fruits, seeds, and [[carrion]]. However, some corvids, especially the crows, have adapted well to human conditions, and have come to rely on human food sources. In a US study of [[American crow]]s, [[common raven]]s, and [[Steller's jay]]s around campgrounds and human settlements, the crows appeared to have the most diverse diet of all, taking [[human impact on the environment|anthropogenic]] foods, such as: bread, spaghetti, fried potatoes, dog food, sandwiches, and livestock feed. The increase in available human food sources is contributing to population rises in some corvid species.<ref name = m&n2006/>
+
+Some corvids are predators of other birds. During the wintering months, corvids typically form foraging flocks.<ref name = robertson2000 /> However, some crows also eat many agricultural pests, including [[cutworm]]s, [[Click beetle|wireworms]], [[grasshopper]]s, and harmful weeds.<ref name = shadesfonight>Shades of Night: [http://www.shades-of-night.com/aviary/ The Aviary] {{Webarchive|url=https://web.archive.org/web/20060415190544/http://www.shades-of-night.com/aviary/ |date=15 April 2006 }}. Version of 2004-JUL-21. Retrieved 2007-NOV-10.</ref> Some corvids will eat [[carrion]], and since they lack a specialised beak for tearing through tough skin, they must wait until animals are opened, whether by other predators or as roadkill.
+
+===Reproduction===
+[[File:Perisoreus canadensis feeding at nest.jpg|thumb|left|A [[Canada jay]] pair feeding their chicks. ]]
+Many species of corvid are [[Territory (animal)|territorial]], protecting territories throughout the year, or simply during the breeding season. In some cases, territories may only be guarded during the day, with the pair joining off-territory roosts at night. Some corvids are well-known communal roosters. Some groups of roosting corvids can be very large, with a roost of 65,000 [[Rook (bird)|rooks]] counted in [[Scotland]].<ref name=Patterson/> Some, including the rook and the [[jackdaw]], are also communal nesters.
+
+The partner bond in corvids is extremely strong, and even lifelong in some species. This monogamous lifestyle, however, can still contain extra-pair copulations.<ref name=Li/> Males and females build large nests together in trees or on ledges; jackdaws are known to breed in buildings and in rabbit [[Warren (burrow)|warrens]].<ref name="v&s2004" /> The male will also feed the female during incubation.<ref>[[Encyclopædia Britannica Online]]: [https://www.britannica.com/eb/article-9026450 Corvidae]. Free subscription required.</ref> The nests are constructed of a mass of bulky twigs lined with grass and bark. Corvids can lay between 3 and 10 eggs, typically ranging between 4 and 7. The eggs are usually greenish in colour with brown blotches. Once hatched, the young remain in the nests for up to 6–10 weeks depending on the species.
+
+Corvids use several different forms of parental care, including [[bi-parental care]] and [[cooperative breeding]].<ref>{{Cite journal|last=Cockburn|first=Andrew|date=7 June 2006|title=Prevalence of different modes of parental care in birds|journal=Proceedings of the Royal Society B: Biological Sciences|volume=273|issue=1592|pages=1375–1383|doi=10.1098/rspb.2005.3458|pmc=1560291|pmid=16777726}}</ref> [[Cooperative breeding]] takes place when parents are helped in raising their offspring, usually by relatives, but also sometimes by non-related adults.<ref>{{Cite journal|last=Bourke|first=Andrew F. G.|date=19 May 2014|title=Hamilton's rule and the causes of social evolution|journal=Philosophical Transactions of the Royal Society B: Biological Sciences|volume=369|issue=1642|article-number=20130362|doi=10.1098/rstb.2013.0362|issn=0962-8436|pmc=3982664|pmid=24686934}}</ref><ref>{{Cite journal|last=Riehl|first=Christina|date=7 December 2013|title=Evolutionary routes to non-kin cooperative breeding in birds|journal=Proceedings of the Royal Society B: Biological Sciences|volume=280|issue=1772|article-number=20132245|doi=10.1098/rspb.2013.2245|pmc=3813341|pmid=24132311 |bibcode=2013PBioS.28032245R }}</ref> Such [[helpers at the nest]] in most cooperatively-breeding birds are males, while females join other groups. [[White-throated magpie-jay]]s are cooperatively-breeding corvids where the helpers are mostly female.
+
+===Intelligence===
+{{See also|Bird intelligence}}
+Jerison (1973) has suggested that the degree of brain [[Encephalization quotient|encephalisation]] (the ratio of brain size to body size, EQ) may correlate with an [[animal intelligence|animal's intelligence]] and [[cognitive skills]].<ref>{{Citation|last=Jerison|first=Harry J.|title=Evolution of the Brain in Birds|date=1973|url=https://linkinghub.elsevier.com/retrieve/pii/B9780123852502500183|work=Evolution of the Brain and Intelligence|pages=177–199|publisher=Elsevier|doi=10.1016/b978-0-12-385250-2.50018-3|isbn=978-0-12-385250-2|access-date=11 March 2021|url-access=subscription}}</ref> Corvids and [[Psittacidae|psittacid]]s have higher EQ than other bird families, similar to that of the apes. Among the Corvidae, ravens possess the largest brain to body size ratio.<ref>{{Citation|last1=Emery|first1=Nathan J.|title=Comparing the Complex Cognition of Birds and Primates|date=2004|url=http://link.springer.com/10.1007/978-1-4419-8913-0_1|work=Comparative Vertebrate Cognition|pages=3–55|editor-last=Rogers|editor-first=Lesley J.|place=Boston, MA|publisher=Springer US|doi=10.1007/978-1-4419-8913-0_1|isbn=978-1-4613-4717-0|access-date=11 March 2021|last2=Clayton|first2=Nicola S.|editor2-last=Kaplan|editor2-first=Gisela|url-access=subscription}}</ref> In addition to the high EQ, the Corvid's intelligence is boosted by their living environment. Firstly, Corvids are found in some of the harshest environments on Earth, where surviving requires higher intelligence and better adaptations. Secondly, most of the Corvids are omnivorous, suggesting that they are exposed to a wider variety of different stimuli and environments. Furthermore, many corvid species live in a large family group, and demonstrate high social complexities.<ref>{{Cite journal|last=Emery|first=Nathan J|date=29 January 2006|title=Cognitive ornithology: the evolution of avian intelligence|journal=Philosophical Transactions of the Royal Society B: Biological Sciences|volume=361|issue=1465|pages=23–43|doi=10.1098/rstb.2005.1736|issn=0962-8436|pmc=1626540|pmid=16553307}}</ref>
+
+Their intelligence is boosted by the long growing period of the young.<ref>{{cite news|title=Long childhoods and extended parenting help young crows grow smarter |url=https://phys.org/news/2020-06-childhoods-parenting-young-crows-smarter.html |access-date=2 July 2020 |work=phys.org}}</ref><ref>{{cite journal|last1=Heidt |first1=Amanda |title=Like humans, these big-brained birds may owe their smarts to long childhoods |journal=Science |date=8 June 2020 |doi=10.1126/science.abd2209|s2cid=225766325 }}</ref><ref>{{cite journal |last1=Uomini |first1=Natalie |last2=Fairlie |first2=Joanna |last3=Gray |first3=Russell D. |last4=Griesser |first4=Michael |title=Extended parenting and the evolution of cognition |journal=Philosophical Transactions of the Royal Society B: Biological Sciences |date=20 July 2020 |volume=375 |issue=1803 |article-number=20190495 |doi=10.1098/rstb.2019.0495 |pmid=32475334 |pmc=7293161 |doi-access=free }}</ref> By remaining with the parents, the young have more opportunities to learn necessary skills.
+
+When compared to dogs and cats in an experiment testing the ability to seek out food according to three-dimensional clues, corvids out-performed the mammals.<ref name=Krushinskii/> A [[meta-analysis]] testing how often birds invented new ways to acquire food in the wild found corvids to be the most innovative birds.<ref>Rincon, Paul (22 February 2005) [https://news.bbc.co.uk/2/hi/science/nature/4286965.stm Crows and jays top bird IQ scale]. BBC.</ref> A 2004 review suggested that their cognitive abilities are on par with those of non-human [[great apes]].<ref name=Emery/> Despite structural differences, the brains of corvids and great apes both evolved the ability to make geometrical measurements.
+
+==== Empathy-consolation ====
+Ravens are found to show bystander affiliation, and solicited bystander affiliation after aggressive conflicts.<ref>{{Cite journal|last1=Fraser|first1=Orlaith N.|last2=Bugnyar|first2=Thomas|date=12 May 2010|editor-last=Brosnan|editor-first=Sarah Frances|title=Do Ravens Show Consolation? Responses to Distressed Others|journal=PLOS ONE|volume=5|issue=5|article-number=e10605|doi=10.1371/journal.pone.0010605|issn=1932-6203|pmc=2868892|pmid=20485685|bibcode=2010PLoSO...510605F|doi-access=free}}</ref> Most of the time, bystanders already sharing a valuable relationship with the victim are more likely to affiliate with the victim to alleviate the victim's distress ("consolation") as a representation of [[empathy]]. Ravens are believed to be able to be sensitive to other's emotions.
+
+==== Empathy-emotional contagion ====
+[[Emotion]] contagion refers to the [[emotional state]] matching between individuals. Adriaense et al. (2018) used a [[cognitive bias|bias]] paradigm to quantify [[emotional valence]], which along with [[emotional arousal]], define emotions.<ref>{{Cite journal|last1=Edgar|first1=Joanne L.|last2=Nicol|first2=Christine J.|date=December 2018|title=Socially-mediated arousal and contagion within domestic chick broods|journal=Scientific Reports|volume=8|issue=1|page=10509|doi=10.1038/s41598-018-28923-8|issn=2045-2322|pmc=6043517|pmid=30002482|bibcode=2018NatSR...810509E}}</ref> They manipulated the positive and negative affective states in the demonstrator ravens, which showed significantly different responses to the two states: behaving pessimism to the negative states, and optimism to the positive states. Then, the researchers trained another observer raven to first observe the demonstrator's responses. The observer raven was then presented with ambiguous stimuli. The experiment results confirmed the existence of negative emotional contagions in ravens, while the positive emotional contagion remained unclear. Therefore, ravens are capable of both discerning the negative emotions in their conspecifics and showing signs of empathy.<ref>{{Cite journal|last1=Adriaense|first1=Jessie E. C.|last2=Martin|first2=Jordan S.|last3=Schiestl|first3=Martina|last4=Lamm|first4=Claus|last5=Bugnyar|first5=Thomas|date=4 June 2019|title=Negative emotional contagion and cognitive bias in common ravens (''Corvus corax'')|journal=Proceedings of the National Academy of Sciences|volume=116|issue=23|pages=11547–11552|doi=10.1073/pnas.1817066116|issn=0027-8424|pmc=6561263|pmid=31110007|bibcode=2019PNAS..11611547A |doi-access=free}}</ref>
+
+==== Interspecific communications ====
+[[Interspecific communication]]s are evolutionarily beneficial for species living in the same environment. Facial expressions are the most widely used method to express emotions by humans. Tate et al. (2006) explored the issue of non-human mammals processing the visual cues from faces to achieve interspecific communication with humans.<ref>{{Cite journal|last1=Tate|first1=Andrew J|last2=Fischer|first2=Hanno|last3=Leigh|first3=Andrea E|last4=Kendrick|first4=Keith M|date=29 December 2006|title=Behavioural and neurophysiological evidence for face identity and face emotion processing in animals|journal=Philosophical Transactions of the Royal Society B: Biological Sciences|volume=361|issue=1476|pages=2155–2172|doi=10.1098/rstb.2006.1937|issn=0962-8436|pmc=1764842|pmid=17118930}}</ref> Researchers also examined the avian species' capabilities to interpret this non-verbal communication, and their extent of sensitivity to human emotions. Based on the experimental subject of American Crows' behavioural changes to varying human gazes and facial expressions, Clucas et al. (2013) identified that crows are able to change their behaviour to the presence of direct human gaze, but did not respond differentially to human emotional facial expressions. They further suggested that the high intelligence of the crows enables them to adapt well to human-dominated environments.<ref>{{Cite journal|last1=Clucas|first1=Barbara|last2=Marzluff|first2=John M.|last3=Mackovjak|first3=David|last4=Palmquist|first4=Ila|date=April 2013|editor-last=Ebensperger|editor-first=L.|title=Do American Crows Pay Attention to Human Gaze and Facial Expressions?|url=http://doi.wiley.com/10.1111/eth.12064|journal=Ethology|volume=119|issue=4|pages=296–302|doi=10.1111/eth.12064|bibcode=2013Ethol.119..296C |url-access=subscription}}</ref>
+
+==== Personality conformity ====
+It is considered difficult to study emotions in animals when humans could not communicate with them. One way to identify animal [[personality]] traits is to observe the consistency of the individual's behaviour over time and circumstances.<ref>{{Cite journal|last1=Both|first1=Christiaan|last2=Dingemanse|first2=Niels J.|last3=Drent|first3=Piet J.|last4=Tinbergen|first4=Joost M.|date=July 2005|title=Pairs of extreme avian personalities have highest reproductive success|journal=Journal of Animal Ecology|volume=74|issue=4|pages=667–674|doi=10.1111/j.1365-2656.2005.00962.x|issn=0021-8790|doi-access=free|bibcode=2005JAnEc..74..667B }}</ref><ref>{{Cite journal|last=Gosling|first=Samuel D.|date=2001|title=From mice to men: What can we learn about personality from animal research?|url=http://doi.apa.org/getdoi.cfm?doi=10.1037/0033-2909.127.1.45|journal=Psychological Bulletin|volume=127|issue=1|pages=45–86|doi=10.1037/0033-2909.127.1.45|pmid=11271756|issn=1939-1455|url-access=subscription}}</ref> For group-living species, there are two opposing hypotheses regarding the assortment of personalities within a group; the social niche specialisation hypothesis, and the conformity hypothesis. To test these two hypotheses, McCune et al. (2018) performed an experiment on the boldness of two species in Corvidae, the [[Mexican jay]] and [[California scrub-jay]]. Their results confirmed the conformity hypothesis, supported by the significant differences in the group effects.<ref>{{Cite journal|last1=Bergmüller|first1=Ralph|last2=Taborsky|first2=Michael|date=September 2010|title=Animal personality due to social niche specialisation|url=https://linkinghub.elsevier.com/retrieve/pii/S0169534710001515|journal=Trends in Ecology & Evolution|volume=25|issue=9|pages=504–511|doi=10.1016/j.tree.2010.06.012|pmid=20638151|bibcode=2010TEcoE..25..504B |url-access=subscription}}</ref>
+
+==== Social construction ====
+The individual personality is both determined by genetics and shaped by [[social context]]s.<ref>{{Cite book|last=Judith|first=University of Helsinki, Department of Finnish, Finno-Ugrian and Scandinavian Studies Koski, Sonja Burkart|title=Common marmosets show social plasticity and group-level similarity in personality|date=6 March 2015|publisher=Nature Publishing Group|oclc=951545397}}</ref> Miller et al. (2016) examined the role of the developmental and social environment in personality formation in common ravens and carrion crows, which are highly social corvids. The researchers highlighted the correlation between social contexts and an individual's consistent behaviour over time (personality), by showing that conspecific presence promoted the behavioural similarities between individuals. Therefore, the researchers demonstrated that social contexts had a significant impact on the development of the raven's and crow's personalities.<ref>{{Cite journal|last1=Miller|first1=Rachael|last2=Laskowski|first2=Kate L.|last3=Schiestl|first3=Martina|last4=Bugnyar|first4=Thomas|last5=Schwab|first5=Christine|date=5 February 2016|editor-last=Hemelrijk|editor-first=Charlotte K|title=Socially Driven Consistent Behavioural Differences during Development in Common Ravens and Carrion Crows|journal=PLOS ONE|volume=11|issue=2|article-number=e0148822|doi=10.1371/journal.pone.0148822|issn=1932-6203|pmc=4746062|pmid=26848954|bibcode=2016PLoSO..1148822M|doi-access=free}}</ref>
+
+==== Social complexity ====
+The [[social complexity]] hypothesis suggests that living in a social group enhances the cognitive abilities of animals. Corvid ingenuity is represented through their feeding skills, [[memorisation]] abilities, use of tools, and group behaviour. Living in large social groups has long been connected with high cognitive ability. To live in a large group, a member must be able to recognise individuals, and track the social position and foraging of other members over time. Members must also be able to distinguish between sex, age, reproductive status, and dominance, and to update this information constantly. It might be that social complexity corresponds to their high cognition, as well as contributing to the spread of information between members of the group.<ref name="Bond" />
+
+==== Consciousness, culture-rudiments, and neurology ====
+A study published in 2008 suggested that the [[Eurasian magpie]] is the only non-mammal species known to be able to recognise itself in a [[mirror test]],<ref name="prior2008">{{cite journal|last1=Prior|first1=Helmut|last2=Schwarz|first2=Ariane|last3=Güntürkün|first3=Onur|date=2008|editor1-last=De Waal|editor1-first=Frans|title=Mirror-Induced Behavior in the Magpie (''Pica pica''): Evidence of Self-Recognition|journal=PLOS Biology|volume=6|issue=8|article-number=e202|doi=10.1371/journal.pbio.0060202|pmc=2517622|pmid=18715117 |doi-access=free }}</ref> but later research could not replicate this finding.<ref>{{Cite journal|last1=Soler|first1=M.|last2=Colmero|first2=J. M.|last3=Pérez-Contreras|first3=T.|last4=Peralta-Sánchez|first4=J. M.|title=Replication of the mirror mark test experiment in the magpie (Pica pica) does not provide evidence of self-recognition.|journal=Journal of Comparative Psychology|year=2020 |volume=134|issue=4 |pages=363–371|doi=10.1037/com0000223 |pmid=32406720 |s2cid=218636079 }}</ref> Studies using very similar setups could not find such behaviour in other corvids (e.g., Carrion crows<ref>{{Cite journal|last1=Brecht|first1=Katharina F.|last2=Müller|first2=Jan|last3=Nieder|first3=Andreas|date=November 2020|title=Carrion crows (Corvus corone corone) fail the mirror mark test yet again.|url=http://doi.apa.org/getdoi.cfm?doi=10.1037/com0000231|journal=Journal of Comparative Psychology|language=en|volume=134|issue=4|pages=372–378|doi=10.1037/com0000231|pmid=32463251 |s2cid=218976227 |issn=1939-2087|url-access=subscription}}</ref><ref>{{Cite journal|last1=Vanhooland|first1=Lisa-Claire|last2=Bugnyar|first2=Thomas|last3=Massen|first3=Jorg J. M.|date=May 2020|title=Crows (Corvus corone ssp.) check contingency in a mirror yet fail the mirror-mark test.|url=http://doi.apa.org/getdoi.cfm?doi=10.1037/com0000195|journal=Journal of Comparative Psychology|language=en|volume=134|issue=2|pages=158–169|doi=10.1037/com0000195|pmid=31589059 |s2cid=203850271 |issn=1939-2087|url-access=subscription}}</ref>). Magpies have been observed taking part in elaborate grieving rituals, which have been likened to human [[funeral]]s, including laying grass wreaths.<ref name="74.220.204.222">[http://74.220.204.222/Puplando/wp-content/uploads/2013/12/EMOSPA47.pdf Animal emotions, wild justice and why they matter: Grieving magpies, a pissy baboon, and empathic elephants] {{Webarchive|url=https://web.archive.org/web/20150610202118/http://74.220.204.222/Puplando/wp-content/uploads/2013/12/EMOSPA47.pdf |date=10 June 2015 }} Emotion, Space and Society xxx (2009) 1–4, Marc Bekoff</ref> Marc Bekoff, at the [[University of Colorado]], argues that it shows that they are capable of feeling complex emotions, including [[grief]].<ref name="74.220.204.222"/> Furthermore, [[carrion crow]]s show a neuronal response that correlates with their [[perception]] of a stimulus, which some scientists have argued to be an empirical marker of ([[Animal consciousness#Corvids|avian/corvid]]) [[Primary consciousness|sensory consciousness]]—the conscious perception of sensory input—in the crows which do not have a [[cerebral cortex]].<ref>{{cite news |title=Researchers show conscious processes in birds' brains for the first time |url=https://phys.org/news/2020-09-conscious-birds-brains.html |access-date=9 October 2020 |work=phys.org}}</ref><ref>{{cite journal |last1=Nieder |first1=Andreas |last2=Wagener |first2=Lysann |last3=Rinnert |first3=Paul |title=A neural correlate of sensory consciousness in a corvid bird |journal=Science |date=25 September 2020 |volume=369 |issue=6511 |pages=1626–1629 |doi=10.1126/science.abb1447 |pmid=32973028 |bibcode=2020Sci...369.1626N |s2cid=221881862 |url=https://www.science.org/doi/10.1126/science.abb1447 |access-date=9 October 2020 |issn=0036-8075|url-access=subscription }}</ref> A related study shows that the [[Avian pallium|birds' pallium's]] neuroarchitecture is reminiscent of the mammalian cortex.<ref>{{cite news |last1=Stetka |first1=Bret |title=Bird Brains Are Far More Humanlike Than Once Thought |url=https://www.scientificamerican.com/article/bird-brains-are-far-more-humanlike-than-once-thought/ |access-date=23 October 2020 |work=Scientific American}}</ref><ref>{{cite journal |last1=Stacho |first1=Martin |last2=Herold |first2=Christina |last3=Rook |first3=Noemi |last4=Wagner |first4=Hermann |last5=Axer |first5=Markus |last6=Amunts |first6=Katrin |last7=Güntürkün |first7=Onur |title=A cortex-like canonical circuit in the avian forebrain |journal=Science |date=25 September 2020 |volume=369 |issue=6511 |article-number=eabc5534 |doi=10.1126/science.abc5534 |pmid=32973004 |s2cid=221882087 |url=https://www.science.org/doi/10.1126/science.abc5534 |access-date=16 October 2020 |issn=0036-8075|url-access=subscription }}</ref>
+
+====Tool use, memory, and complex rational thought====
+
+{{See also|Tool use by animals#Corvids}}
+
+[[File:Cognitive-Processes-Associated-with-Sequential-Tool-Use-in-New-Caledonian-Crows-pone.0006471.s002.ogv|thumb|A [[New Caledonian crow]] uses a tool to retrieve the correct tool to obtain food.]]
+
+There are also specific examples of corvid intelligence. One [[carrion crow]] was documented cracking nuts by placing them on a crosswalk, letting the passing cars crack the shell, waiting for the light to turn red, and then safely retrieving the contents.<ref>{{cite web|url=https://www.youtube.com/watch?v=BGPGknpq3e0 | archive-url=https://ghostarchive.org/varchive/youtube/20211107/BGPGknpq3e0| archive-date=7 November 2021 | url-status=live|title=Attenborough – Crows in the City |publisher=YouTube.com |date=12 February 2007 |access-date=9 March 2013}}{{cbignore}}</ref> A group of crows in England took turns lifting garbage bin lids while their companions collected food.{{citation needed|date=February 2025}}
+
+Members of the corvid family have been known to watch other birds, remember where they hide their food, then return once the owner leaves.<ref>{{cite journal|author1=Burnell, Kristi L. |author2=Tomback, Diane F. |author2-link=Diana Tomback|year=1985|jstor=4086793 |title=Steller's jays steal Grey Jay caches: field and laboratory observation|journal=Auk|volume= 102|issue=2|pages=417–419|doi=10.2307/4086793|bibcode=1985Auk...102..417T |url=http://sora.unm.edu/node/24119|url-access=subscription}}</ref><ref>{{cite journal|author=Waite, Thomas A. |year=1992|jstor=1369297 |title=Social hoarding and a load size-distance relationship in Gray Jays|journal=The Condor|url=http://sora.unm.edu/node/104654|volume=94|issue=4|pages=995–998|doi=10.2307/1369297|s2cid=86971311 |url-access=subscription}}</ref> Corvids also move their food around between hiding places to avoid thievery, but only if they have previously been thieves themselves; they remember previous relevant social contexts, use their own experience of having been a thief to predict the behaviour of a pilferer, and can determine the safest course to protect their caches from being pilfered. Studies to assess similar cognitive abilities in apes have been inconclusive.<ref>Owen, James (9 December 2004) [https://web.archive.org/web/20041212040209/http://news.nationalgeographic.com/news/2004/12/1209_041209_crows_apes.html Crows as Clever as Great Apes, Study Says]. ''[[National Geographic News]]'', Retrieved 2007-NOV-10.</ref>
+
+The ability to hide food requires highly accurate [[spatial memories]]. Corvids have been recorded to recall their food's hiding places up to nine months later. It is suggested that vertical landmarks (like trees) are used to remember locations. There has also been evidence that [[California scrub jay]]s, which store perishable foods, not only remember where they stored their food, but for how long. This has been compared to [[episodic memory]], previously thought unique to humans.<ref name = claytonemery2005 />
+
+[[New Caledonian crow]]s (''Corvus moneduloides'') are notable for their highly developed tool fabrication. They make angling tools of twigs and leaves trimmed into hooks, and then subsequently use the hooks to pull insect larvae from tree holes. Tools are engineered according to task, and apparently, also to learned preferences. Recent studies revealed abilities to solve complicated problems, which suggested high levels of innovation of a complex nature.<ref>{{cite news|last=Morelle |first=Rebecca |author-link=Rebecca Morelle |url=https://news.bbc.co.uk/2/hi/science/nature/8631486.stm |title=BBC On-line: Clever New Caledonian crows can use three tools |work=BBC News |date=20 April 2010 |access-date=9 March 2013}}</ref><ref>{{Cite web|last=Baraniuk|first=Chris|date=12 December 2020|title=Crows could be the smartest animal other than primates|url=https://www.bbc.com/future/article/20191211-crows-could-be-the-smartest-animal-other-than-primates|access-date=31 August 2020|website=BBC}}</ref> Other corvids that have been observed using tools include: the [[American crow]], [[blue jay]], and [[green jay]]. Researchers have discovered that [[New Caledonian crow]]s do not just use single objects as tools—they can also construct novel compound tools through assemblage of otherwise non-functional elements.<ref>{{Cite journal|last1=Bayern|first1=A. M. P. von|last2=Danel|first2=S.|last3=Auersperg|first3=A. M. I.|last4=Mioduszewska|first4=B.|last5=Kacelnik|first5=A.|date=24 October 2018|title=Compound tool construction by New Caledonian crows|journal=Scientific Reports|volume=8|issue=1|page=15676|doi=10.1038/s41598-018-33458-z|pmid=30356096|issn=2045-2322|doi-access=free|pmc=6200727|bibcode=2018NatSR...815676B}}</ref><ref>{{Cite web|url=https://www.sciencealert.com/crows-are-so-smart-they-can-make-compound-tools-out-of-multiple-parts|title=Crows Can Build Compound Tools Out of Multiple Parts, And Are You Even Surprised|last=Starr|first=Michelle|date=25 October 2018|website=ScienceAlert|access-date=4 April 2020}}</ref> Diversity in tool design among corvids suggests cultural variation. Again, great apes are the only other animals known to use tools in such a fashion.<ref name = claytonemery2005 />
+
+[[Clark's nutcracker]]s and [[jackdaw]]s were compared in a 2002 study based on geometric rule learning. The corvids, along with a [[domestic pigeon]], had to locate a target between two landmarks, while distances and landmarks were altered. The nutcrackers were more accurate in their searches than the jackdaws and pigeons.<ref name=Jones/>
+
+==== Implications and specific comparisons with other animals ====
+[[File:Proportions of correct responses as a function of species.webp|thumb|Proportions of correct responses as a function of species (R: ravens; C: chimpanzees; O: orang-utans)<ref name="10.1038/s41598-020-77060-8"/>]]
+
+The [[scarecrow]] is an archetypal scare tactic in the agricultural business. However, due to corvids' quick wit, scarecrows are soon ignored, and used as perches. Despite farmers' efforts to rid themselves of corvid pests, their attempts have only expanded corvid territories, and strengthened their numbers.<ref name = shadesfonight />
+
+Contrary to earlier [[teleological]] classifications, in which they were seen as "highest" songbirds due to their intelligence, current [[systematics]] might place corvids—based on their total number of physical characteristics, instead of just their brains (which are the most developed of birds)—in the lower middle of the passerine evolutionary tree, dependent on which subgroup is chosen as the most derived.<ref name = j&f2006 /> As per one observer:
+
+{{blockquote|During the 19th century, there arose the belief that these were the "most advanced" birds, based upon the belief that Darwinian evolution brings "progress." In such a classification, the "most intelligent" of birds were listed last, reflecting their position "atop the pyramid." Modern biologists reject the concept of hierarchical "progress" in evolution [...].<ref name = robertson2000 />}}
+
+The other major group of highly intelligent birds of the order [[Psittaciformes]] (which includes [[Psittacidae|'true' parrots]], [[cockatoo]]s, and [[New Zealand parrot]]s) is not closely related to corvids.
+
+A study found that four-month-old ravens can have physical and social cognitive skills similar to that of adult great apes, and concluded that the "dynamic of the different influences that, during [[ontogeny]], contributes to adult cognition" is required for the study of cognition.<ref>{{cite news |title=Cognitive performance of four-month-old ravens may parallel adult apes |url=https://phys.org/news/2020-12-cognitive-four-months-old-ravens-parallel-adult.html |access-date=17 January 2021 |work=phys.org}}</ref><ref name="10.1038/s41598-020-77060-8">{{cite journal |last1=Pika |first1=Simone |last2=Sima |first2=Miriam Jennifer |last3=Blum |first3=Christian R. |last4=Herrmann |first4=Esther |last5=Mundry |first5=Roger |title=Ravens parallel great apes in physical and social cognitive skills |journal=Scientific Reports |date=10 December 2020 |volume=10 |issue=1 |page=20617 |doi=10.1038/s41598-020-77060-8 |pmid=33303790 |pmc=7728792 |bibcode=2020NatSR..1020617P |issn=2045-2322}} [[File:CC-BY icon.svg|50px]] Available under [https://creativecommons.org/licenses/by/4.0/ CC BY 4.0].</ref>
+
+==Disease==
+Corvids are reservoirs (carriers) for the [[West Nile virus]] in the United States. They are infected by mosquitoes (the [[Disease vector|vectors]]), primarily of the ''[[Culex]]'' species. [[Crow]]s and [[raven]]s are quickly killed by this disease, so their deaths are an early-warning system when West Nile virus arrives in an area (as are horses and other bird-species deaths). One of the first signs that West Nile virus first arrived in the US in 1999 was the death of crows in [[New York (state)|New York]].<ref name = Eidsonetal>{{cite journal |pmid=11585521 |year=2001 |last1=Eidson |first1=M |last2=Komar |first2=N |last3=Sorhage |first3=F |last4=Nelson |first4=R |last5=Talbot |first5=T |last6=Mostashari |first6=F |last7=McLean |first7=R |author8=West Nile Virus Avian Mortality Surveillance Group |title=Crow deaths as a sentinel surveillance system for West Nile virus in the northeastern United States, 1999 |volume=7 |issue=4 |pages=615–620 |pmc=2631775 |doi=10.3201/eid0704.010402 |journal=Emerging Infectious Diseases |doi-broken-date=23 December 2025 }}</ref>
+
+==Relationship with humans==
+Several different corvids, particularly [[raven]]s, have occasionally served as [[pets]], although they are not able to speak as readily as [[parrot]]s, and are not suited to a caged environment.
+
+It is illegal to own corvids, or any other [[migratory bird]], without a permit in the United States, due to the [[Migratory Bird Act]].
+
+Humans have been able to coexist with many members of the Corvidae family throughout history, most notably [[crows]] and [[raven]]s (see: "Role in myth and culture" section below). These positive interactions have extended into modern times.
+
+===Role in myth and culture===
+{{See also|Cultural depictions of ravens}}
+Folklore often represents corvids as clever, and even mystical, animals. Some [[Native Americans in the United States|Native Americans]], such as the [[Haida people|Haida]], believed that a raven created the earth, and despite being a trickster spirit, ravens were popular on [[totem]]s, credited with creating man, and considered responsible for placing the Sun in the sky.<ref>{{cite web |title=Raven Releasing the Sun |url=https://www.nativeonline.com/raven.html |website=Native Online |access-date=30 July 2020}}</ref>
+
+Due to their [[carrion]] diet, the [[Celts|Celtic]] peoples strongly associated corvids with war, death, and the battlefield; their great intelligence meant that they were often considered messengers, or manifestations of the gods, such as [[Bendigeidfran]] (Welsh for "Blessed Crow") or the Irish [[The Morrígan|Morrigan]] (Middle Irish for "Great Queen"),<ref>{{Cite journal |last=Clark |first=Rosalind |date=Autumn 1987 |title=Aspects of the Morrígan in Early Irish Literature |journal=Irish University Review |publisher=Edinburgh University Press |volume=17 |issue=2 |pages=223–236 |jstor=25477680 }}</ref> both who were [[otherworld|underworld deities]] that may be related to the later Arthurian [[Fisher King]]. The Welsh ''[[Dream of Rhonabwy]]'' illustrates well the association of ravens with war. In many parts of Britain, gatherings of crows, or more often magpies, are counted using the [[augury|divination rhyme]]: "''one for sorrow, two for joy, three for a girl, four for a boy, five for silver, six for gold, seven for a secret never to be told."'' Another rhyme is: "''one for sorrow, two for mirth, three for a funeral, four for a birth, five for heaven, six for hell, and seven for the Devil, his own sel."'' [[Cornish mythology|Cornish superstition]] holds that when a lone magpie is encountered, it must be loudly greeted with respect.
+
+Various [[Germanic peoples]] highly revered the raven, and the raven was often depicted as a motif on shields or other war implements in [[Anglo-Saxon art]], such as the [[Sutton Hoo]] burial, and [[Vendel period]] art. The major deity, [[Odin]], was so commonly associated with ravens throughout history that he gained the [[kenning]] "Raven God",{{efn|E.g. [[Icelandic (language)|Icelandic]]: ''hrafnaguð'', as per the ''[[Gylfaginning]]''.}} and the [[raven banner]] was the flag of various [[Viking Age]] [[Scandinavia]]n chieftains. Odin was also attended by [[Hugin and Munin]], two [[Common raven|ravens]] who flew all over the world, and whispered information they acquired into his ears.<ref name=Chappell/> The [[Valravn]] sometimes appeared in modern Scandinavian folklore. On a shield and purse lid excavated among the [[Sutton Hoo]] treasures, imagery of stylised corvids with scrolled beaks are meticulously detailed in the decorative enamel work. The corvid symbolism reflected their common [[totemic]] status to the Anglo-Saxons, whose pre-Christian [[Woden|indigenous beliefs]] were of the same origin as that of the aforementioned Vikings.
+
+The sixth century BCE [[Ancient Greece|Greek]] scribe [[Aesop]] featured corvids as intelligent antagonists in many fables. Later, in western literature, popularised by American poet [[Edgar Allan Poe]]'s work "[[The Raven]]", the [[common raven]] becomes a symbol of the main character's descent into madness.
+
+The children's book ''[[Mrs. Frisby and the Rats of NIMH]]'' and its [[The Secret of NIMH|animated film adaptation]] features a protagonist crow named Jeremy.
+
+[[File:Corvus hawaiiensis FWS.jpg|thumb|The [[Hawaiian crow]] is [[extinct in the wild]] as a result of [[habitat loss]] and other factors.]]
+
+===Status and conservation===
+Unlike many other bird [[family (biology)|families]], corvid [[fitness (biology)|fitness]] and reproduction, especially with many crows, has increased due to human development. The survival and reproductive success of certain crows and ravens is assisted by their close relationship with humans.<ref name = m&n2006 />
+
+Human development provides additional resources by clearing land, creating shrublands rich in berries and insects. When the cleared land naturally replenishes, jays and crows use the young dense trees for nesting sites. Ravens typically use larger trees in denser forest.<ref name = m&n2006 />
+
+Most corvids are not threatened, and many species are even increasing in population due to human activity. However, a few species are in danger. For example, the destruction of the Southeast Asian rainforest is endangering [[mixed-species feeding flock]]s with members from the family Corvidae.<ref name=Lee/> Also, because its [[semiarid]] scrubland [[habitat]] is an endangered [[ecosystem]], the [[Florida scrub jay]] has a small and declining population.<ref name=BLI/><ref name=Breininger/> A number of island species, which are more vulnerable to [[introduced species]] and habitat loss, have been driven to extinction, such as the [[New Zealand raven]], or are threatened, like the [[Mariana crow]]. The [[Ethiopian bushcrow]] and the [[Asir magpie]] are endangered by [[global warming]], both species being restricted to small, cool, high altitude refuges in hot climate areas.<ref name="Bladon">{{Cite journal|last1=Bladon|first1=Andrew J.|last2=Donald|first2=Paul F.|last3=Collar|first3=Nigel J.|last4=Denge|first4=Jarso|last5=Dadacha|first5=Galgalo|last6=Wondafrash|first6=Mengistu|last7=Green|first7=Rhys E.|date=2021-05-19|title=Climatic change and extinction risk of two globally threatened Ethiopian endemic bird species|journal=PLOS ONE|language=en|volume=16|issue=5|article-number=e0249633|doi=10.1371/journal.pone.0249633|pmid=34010302|pmc=8133463|bibcode=2021PLoSO..1649633B |issn=1932-6203|doi-access=free}}</ref><ref>Babbington, J. (2016). Update on the status and occurrence of Arabian magpie ''Pica pica asirensis'' in Saudi Arabia. Sandgrouse 38: 146–151.</ref>
+
+The [[American crow]] population of the United States has grown over the years. It is possible that the American crow, due to humans increasing suitable habitat, will cause [[fish crow]]s to decline.<ref name=Marzluff/>
+
+==Species==
+
+'''FAMILY CORVIDAE'''
+[[File:Rufous Treepie I IMG 9850.jpg|thumb|right|[[Rufous treepie]], ''Dendrocitta vagabunda'']]
+[[File:Yellow-billed Blue Magpie I IMG 7393.jpg|thumb|right|[[Yellow-billed blue magpie]], ''Urocissa flavirostris'']]
+[[File:Orvani (1).JPG|thumb|right|[[Eurasian jay]] (''Garrulus glandarius'')]]
+[[File:Elster wikipedia2.jpg|thumb|right|[[Eurasian magpie]], ''Pica pica'']]
+[[File:Plush-crested Jay.jpg|thumb|right|[[Plush-crested jay]], ''Cyanocorax chrysops'']]
+[[File:Corvus_corax_ad_berlin_090516.jpg|thumb|right|[[Common raven]], ''Corvus corax'']]
+[[File:Wrona_Siwa.jpg|thumb|right|[[Hooded crow]], ''Corvus cornix'']]
+[[File:Flickr_-_don_macauley_-_Corvus_crassirostris.jpg|thumb|right|[[Thick-billed raven]], ''Corvus crassirostris'']]
+[[File:Corvus coronoides.jpg|thumb|upright|[[Australian raven]], ''Corvus coronoides'']]
+*'''[[Chough]]s'''
+**Genus ''[[Pyrrhocorax]]''
+***[[Alpine chough]], ''Pyrrhocorax graculus''
+***[[Red-billed chough]], ''Pyrrhocorax pyrrhocorax''
+*'''[[Treepie]]s'''
+**Genus ''[[Crypsirina]]''
+***[[Hooded treepie]], ''Crypsirina cucullata''
+***[[Racket-tailed treepie]], ''Crypsirina temia''
+**Genus ''[[Dendrocitta]]''
+***[[Andaman treepie]], ''Dendrocitta bayleii''
+***[[Bornean treepie]], ''Dendrocitta cinerascens''
+***[[Grey treepie]], ''Dendrocitta formosae''
+***[[Collared treepie]], ''Dendrocitta frontalis''
+***[[White-bellied treepie]], ''Dendrocitta leucogastra''
+***[[Sumatran treepie]], ''Dendrocitta occipitalis''
+***[[Rufous treepie]], ''Dendrocitta vagabunda''
+**Genus ''[[Platysmurus]]''
+***[[Malayan black magpie]], ''Platysmurus leucopterus''
+***[[Bornean black magpie]], ''Platysmurus aterrimus''
+**Genus ''[[Temnurus]]''
+***[[Ratchet-tailed treepie]], ''Temnurus temnurus''
+*'''Oriental [[magpie]]s'''
+**Genus ''[[Cissa (bird)|Cissa]]''
+***[[Common green magpie]], ''Cissa chinensis''
+***[[Indochinese green magpie]], ''Cissa hypoleuca''
+***[[Javan green magpie]], ''Cissa thalassina''
+***[[Bornean green magpie]], ''Cissa jefferyi''
+**Genus ''[[Urocissa]]''
+***[[Taiwan blue magpie]], ''Urocissa caerulea''
+***[[Red-billed blue magpie]], ''Urocissa erythroryncha''
+***[[Yellow-billed blue magpie]], ''Urocissa flavirostris''
+***[[Sri Lanka blue magpie]], ''Urocissa ornata''
+***[[White-winged magpie]], ''Urocissa whiteheadi''
+*'''Old World [[jay]]s''' and close relatives
+**Genus ''[[Garrulus]]''
+***[[Eurasian jay]], ''Garrulus glandarius''
+***[[Black-headed jay]], ''Garrulus lanceolatus''
+***[[Lidth's jay]], ''Garrulus lidthi''
+**Genus ''[[Podoces]]'' – ground jays
+***[[Xinjiang ground jay]], ''Podoces biddulphi''
+***[[Mongolian ground jay]], ''Podoces hendersoni''
+***[[Turkestan ground jay]], ''Podoces panderi''
+***[[Iranian ground jay]], ''Podoces pleskei''
+**Genus ''[[Ptilostomus]]''
+***[[Piapiac]], ''Ptilostomus afer''
+**Genus ''[[Zavattariornis]]''
+***[[Stresemann's bushcrow]], ''Zavattariornis stresemanni''
+*'''[[Nutcracker (bird)|Nutcrackers]]'''
+**Genus ''[[Nucifraga]]''
+***[[Northern nutcracker]], ''Nucifraga caryocatactes''
+***[[Southern nutcracker]], ''Nucifraga hemispila''
+***[[Kashmir nutcracker]], ''Nucifraga multipunctata''
+***[[Clark's nutcracker]], ''Nucifraga columbiana''
+*'''Holarctic [[magpie]]s'''
+**Genus ''[[Pica (bird)|Pica]]''
+***[[Maghreb magpie]], ''Pica mauritanica''
+***[[Oriental magpie]], ''Pica serica''
+***[[Black-rumped magpie]], ''Pica bottanensis''
+***[[Asir magpie]], ''Pica asirensis''
+***[[Eurasian magpie]], ''Pica pica''
+***[[Black-billed magpie]], ''Pica hudsonia''
+***[[Yellow-billed magpie]], ''Pica nuttalli''
+**Genus ''[[Cyanopica]]''
+***[[Azure-winged magpie]], ''Cyanopica cyanus''
+***[[Iberian magpie]], ''Cyanopica cooki''
+*'''True crows''' ([[crow]]s, [[raven]]s, [[jackdaw]]s and [[Rook (bird)|rooks]])
+**Genus ''[[Corvus]]''
+***''Australian and Melanesian'' species
+****[[Little crow (bird)|Little crow]], ''Corvus bennetti''
+****[[Australian raven]], ''Corvus coronoides''
+****[[Bismarck crow]], ''Corvus insularis''
+****[[Brown-headed crow]], ''Corvus fuscicapillus''
+****[[Bougainville crow]], ''Corvus meeki''
+****[[Little raven]], ''Corvus mellori''
+****[[New Caledonian crow]], ''Corvus moneduloides''
+****[[Torresian crow]], ''Corvus orru''
+****[[Forest raven]], ''Corvus tasmanicus''
+*****[[Relict raven]], ''Corvus (tasmanicus) boreus''
+****[[Grey crow]], ''Corvus tristis''
+****[[Long-billed crow]], ''Corvus validus''
+****[[White-billed crow]], ''Corvus woodfordi''
+***''Pacific island'' species
+****[[ʻAlala|{{okina}}Alalā (Hawaiian crow)]], ''Corvus hawaiiensis'' (formerly ''Corvus tropicus'') ([[extinct in the wild]])
+****[[Mariana crow]], ''Corvus kubaryi''
+***''Tropical Asian'' species
+****[[Sunda crow]], ''Corvus enca''
+****[[Sulawesi crow]], ''Corvus celebensis''
+****[[Samar crow]], ''Corvus samarensis''
+****[[Sierra Madre crow]], ''Corvus sierramadrensis''
+****[[Palawan crow]], ''Corvus pusillus''
+****[[Flores crow]], ''Corvus florensis''
+****[[Large-billed crow]], ''Corvus macrorhynchos''
+****[[Eastern jungle crow]], ''Corvus levaillantii''
+****[[Indian jungle crow]], ''Corvus culminatus''
+****[[House crow]], ''Corvus splendens''
+****[[Collared crow]], ''Corvus torquatus''
+****[[Piping crow]], ''Corvus typicus''
+****[[Banggai crow]], ''Corvus unicolor''
+****[[Violet crow]], ''Corvus violaceus''
+***''Eurasian and North African'' species
+****[[Carrion crow|Carrion crow (western carrion crow)]], ''Corvus corone''
+*****[[Hooded crow]], ''Corvus (corone) cornix''
+*****[[Mesopotamian crow]], ''Corvus (corone) capellanus''
+*****[[Eastern carrion crow]], ''Corvus (corone) orientalis''
+****[[Rook (bird)|Rook]], ''Corvus frugilegus''
+****[[Fan-tailed raven]], ''Corvus rhipidurus''
+****[[Brown-necked raven]], ''Corvus ruficollis''
+***''Holarctic'' species
+****[[Common raven]], ''Corvus corax'' (see also next section)
+*****[[Western raven]], ''Corvus (corax) sinuatus''
+***''North and Central American'' species
+****[[American crow]], ''Corvus brachyrhynchos''
+*****[[Northwestern crow]], ''Corvus brachyrhynchos caurinus''
+****[[Chihuahuan raven]], ''Corvus cryptoleucus''
+****[[Tamaulipas crow]], ''Corvus imparatus''
+****[[Jamaican crow]], ''Corvus jamaicensis''
+****[[White-necked crow]], ''Corvus leucognaphalus''
+****[[Cuban crow]], ''Corvus nasicus''
+****[[Fish crow]], ''Corvus ossifragus''
+****[[Hispaniolan palm crow]], ''Corvus palmarum''
+****[[Cuban palm crow]] ''Corvus minutus''
+****[[Sinaloa crow]], ''Corvus sinaloae''
+***''Tropical African'' species
+****[[White-necked raven]], ''Corvus albicollis''
+****[[Pied crow]], ''Corvus albus''
+****[[Cape crow]], ''Corvus capensis''
+****[[Thick-billed raven]], ''Corvus crassirostris''
+****[[Somali crow|Somali crow (dwarf raven)]], ''Corvus edithae''
+**Genus ''[[Coloeus]]''
+***[[Western jackdaw]], ''Coloeus monedula''
+***[[Daurian jackdaw]], ''Coloeus dauuricus'' 
+
+*'''Boreal [[jay]]s'''
+**Genus ''[[Perisoreus]]''
+***[[Canada jay]], ''Perisoreus canadensis''
+***[[Siberian jay]], ''Perisoreus infaustus''
+***[[Sichuan jay]], ''Perisoreus internigrans''
+*'''New World [[jay]]s'''
+**Genus ''[[Aphelocoma]]'' – scrub-jays
+***[[California scrub jay]], ''Aphelocoma californica''
+***[[Island scrub jay]], ''Aphelocoma insularis''
+***[[Woodhouse's scrub jay]], ''Aphelocoma woodhouseii''
+***[[Florida scrub jay]], ''Aphelocoma coerulescens''
+***[[Mexican jay]], ''Aphelocoma wollweberi''
+***[[Transvolcanic jay]], ''Aphelocoma ultramarina''
+***[[Unicolored jay]], ''Aphelocoma unicolor''
+**Genus ''[[Cyanocitta]]''
+***[[Blue jay]], ''Cyanocitta cristata''
+***[[Steller's jay]], ''Cyanocitta stelleri''
+**Genus ''[[Cyanocorax]]''
+***[[Black-throated magpie-jay]], ''Cyanocorax colliei''
+***[[White-throated magpie-jay]], ''Cyanocorax formosa''
+***[[Black-chested jay]], ''Cyanocorax affinis''
+***[[Purplish-backed jay]], ''Cyanocorax beecheii''
+***[[Azure jay]], ''Cyanocorax coeruleus''
+***[[Cayenne jay]], ''Cyanocorax cayanus''
+***[[Plush-crested jay]], ''Cyanocorax chrysops''
+***[[Curl-crested jay]], ''Cyanocorax cristatellus''
+***[[Purplish jay]], ''Cyanocorax cyanomelas''
+***[[White-naped jay]], ''Cyanocorax cyanopogon''
+***[[Tufted jay]], ''Cyanocorax dickeyi''
+***[[Azure-naped jay]], ''Cyanocorax heilprini''
+***[[Bushy-crested jay]], ''Cyanocorax melanocyaneus''
+***[[White-tailed jay]], ''Cyanocorax mystacalis''
+***[[San Blas jay]], ''Cyanocorax sanblasianus''
+***[[Violaceous jay]], ''Cyanocorax violaceus''
+***[[Green jay]], ''Cyanocorax luxuosus''
+***[[Inca jay]], ''Cyanocorax yncas''
+***[[Yucatan jay]], ''Cyanocorax yucatanicus''
+***[[Brown jay]], ''Cyanocorax morio''
+**Genus ''[[Cyanolyca]]''
+***[[Silvery-throated jay]], ''Cyanolyca argentigula''
+***[[Black-collared jay]], ''Cyanolyca armillata''
+***[[Azure-hooded jay]], ''Cyanolyca cucullata''
+***[[White-throated jay]], ''Cyanolyca mirabilis''
+***[[Dwarf jay]], ''Cyanolyca nanus''
+***[[Beautiful jay]], ''Cyanolyca pulchra''
+***[[Black-throated jay]], ''Cyanolyca pumilo''
+***[[Turquoise jay]], ''Cyanolyca turcosa''
+***[[White-collared jay]], ''Cyanolyca viridicyanus''
+**Genus ''[[Gymnorhinus]]''
+***[[Pinyon jay]], ''Gymnorhinus cyanocephalus''
+
+== Notes ==
+
+{{notelist}}
+
+==References==
+
+{{Reflist|refs=
+<ref name=BLI>BirdLife International. (2016). ''Aphelocoma coerulescens''. The IUCN Red List of Threatened Species. {{doi|10.2305/IUCN.UK.2016-3.RLTS.T22705629A94028132.en}}</ref>
+<ref name=Breininger>{{cite journal |last1=Breininger |first1=D. R. |last2=Toland |first2=B. |last3=Oddy |first3=D. M. |last4=Legare |first4=M. L. |title=Landcover characterizations and Florida scrub-jay (''Aphelocoma coerulescens'') population dynamics |doi=10.1016/j.biocon.2005.09.026 |url=http://www.nbbd.com/godo/minwr/research/scrubjay-landcover.pdf |year=2006 |journal=Biological Conservation |volume=128 |issue=2 |pages=169–181|bibcode=2006BCons.128..169B }}</ref>
+<ref name=Bond>{{cite journal |last1=Bond |first1=Alan B. |last2=Kamil |first2=Alan C. |last3=Balda |first3=Russell P. |doi=10.1006/anbe.2003.2101 |title=Social complexity and transitive inference in corvids |year=2003 |journal=Animal Behaviour |volume=65 |issue=3 |pages=479–487 |bibcode=2003AnBeh..65..479B |s2cid=9836564 |url=http://www.biosci.unl.edu/avcog/research/articles/AnBeh03.pdf |access-date=10 November 2007 |archive-url=https://web.archive.org/web/20080216084527/http://www.biosci.unl.edu/avcog/research/articles/AnBeh03.pdf |archive-date=16 February 2008 }}</ref>
+<ref name=Chappell>{{cite journal |last=Chappell |first=J. |pmc=1326277 |title=Living with the Trickster: Crows, Ravens, and Human Culture |year=2006 |journal=PLOS Biology |volume=4 |issue=1 |article-number=e14 |doi=10.1371/journal.pbio.0040014 |doi-access=free }}</ref>
+<ref name = claytonemery2005>{{cite journal |last1=Clayton |first1=Nicola |last2=Emery |first2=Nathan |year=2005 |title=Corvid cognition |journal=Current Biology |volume=15 |issue=3 |pages=R80–R81 |doi=10.1016/j.cub.2005.01.020 |pmid=15694292|doi-access=free |bibcode=2005CBio...15..R80C }}</ref>
+<ref name=Emery>{{cite journal |last1=Emery |first1=Nathan |last2=Clayton |first2=Nicola |title=The Mentality of Crows: Convergent Evolution of Intelligence in Corvids and Apes |year=2004 |journal=Science |volume=306 |issue=5703 |pages=1903–1907 |doi=10.1126/science.1098410 |pmid=15591194|bibcode=2004Sci...306.1903E |citeseerx=10.1.1.299.6596 |s2cid=9828891 }}</ref>
+<ref name=Ericson>{{cite journal |last1=Ericson |first1=Per G. P. |last2=Jansén |first2=Anna-Lee |last3=Johansson |first3=Ulf S. |last4=Ekman |first4=Jan |doi=10.1111/j.0908-8857.2001.03409.x |url=http://www.nrm.se/download/18.4e32c81078a8d9249800021299/Corvidae%5B1%5D.pdf |title=Inter-generic relationships of the crows, jays, magpies and allied groups (Aves: Corvidae) based on nucleotide sequence data |date=2005 |journal=Journal of Avian Biology |volume=36 |issue=3 |pages=222–234|bibcode=2005JAvBi..36..222E |citeseerx=10.1.1.493.5531 }}</ref>
+<ref name=Gill>Gill, F.B. (2003) ''Ornithology'' (2nd edition). W.H. Freeman and Company, New York. {{ISBN|0-7167-2415-4}}</ref>
+<ref name=goodwin>Goodwin, D. (1986) ''Crows of the world''. (2nd ed.). British Museum of Natural History. {{ISBN|0-565-00979-6}}</ref>
+<ref name=James>{{cite journal |last1=James |first1=Helen F. |last2=Ericson |first2=Per G.P. |last3=Slikas |first3=Beth |last4=Lei |first4=Fu-min |last5=Olson |first5=Storrs L. |title=''Pseudopodoces humilis'', a misclassified terrestrial tit (Aves: Paridae) of the Tibetan Plateau: evolutionary consequences of shifting adaptive zones |doi=10.1046/j.1474-919X.2003.00170.x |date=2003 |journal=Ibis |volume=145 |issue=2 |pages=185–202 |url=http://si-pddr.si.edu/dspace/bitstream/10088/1758/1/Pseudopodoces.pdf |access-date=10 November 2007 |archive-date=17 December 2008 |archive-url=https://web.archive.org/web/20081217154831/http://si-pddr.si.edu/dspace/bitstream/10088/1758/1/Pseudopodoces.pdf }}</ref>
+<ref name=Jones>{{cite journal |last1=Jones |first1=Juli E. |last2=Antoniadis |first2=Elena |last3=Shettleworth |first3=Sara J. |last4=Kamil |first4=Alan C. |date=2002| title=A Comparative Study of Geometric Rule Learning by Nutcrackers (''Nucifraga columbiana''), Pigeons (''Columba livia''), and Jackdaws (''Corvus monedula'') |journal=Journal of Comparative Psychology |doi=10.1037/0735-7036.116.4.350 |pmid=12539930 |volume=116 |issue=4 |pages=350–356 |url=http://www08.homepage.villanova.edu/michael.brown/Psych%208175/JonesAntoniadisShettleworthKamil2002.pdf}}</ref>
+<ref name = j&f2006>{{cite journal |last1=Jønsson |first1=Knud A. |last2=Fjeldså |first2=Jon |doi=10.1111/j.1463-6409.2006.00221.x |title=A phylogenetic supertree of oscine passerine birds (Aves: Passeri) |year=2006 |journal=Zoologica Scripta |volume=35 |issue=2 |pages=149–186|s2cid=85317440 }}</ref>
+<ref name=Krushinskii>{{cite journal |last1=Krushinskii |first1=L. V. |last2=Zorina |first2=Z. A. |last3=Dashevskiy |first3=B. A. |pmid=112801 |date=1979 |title=Ability of birds of the Corvidae family to operate by the empirical dimensions of figures |volume=29 |issue=3 |pages=590–597 |journal=Zhurnal Vysshei Nervnoi Deiatelnosti imeni I P Pavlova}}</ref>
+<ref name=Li>{{cite journal |last1=Li |first1=Shou-Hsien |last2=Brown |first2=Jerram L. |s2cid=34041075 |title=High frequency of extrapair fertilization in a plural breeding bird, the Mexican jay, revealed by DNA microsatellites |date=2000 |journal=Animal Behaviour |doi=10.1006/anbe.2000.1554 |pmid=11124886 |volume=60 |issue=6 |pages=867–877 |bibcode=2000AnBeh..60..867L }}</ref>
+<ref name=Lee>{{cite journal |last1=Lee |first1=T. M. |last2=Soh |first2=M. C. K. |last3=Sodhi |first3=N. |last4=Koh |first4=L. P. |last5=Lim |first5=S. L. H. |title=Effects of habitat disturbance on mixed species bird flocks in a tropical sub-montane rainforest |date=2005 |journal=Biological Conservation |doi=10.1016/j.biocon.2004.07.005 |volume=122 |issue=2 |pages=193–204|bibcode=2005BCons.122..193L |url=http://scholarbank.nus.edu.sg/handle/10635/114322 }}</ref>
+<ref name=madge>{{cite book |last1=Madge |first1=S. |last2=Burn |first2=H. |date=1993 |title=Crows and Jays |publisher=Helm |isbn=978-1-873403-18-1}}</ref>
+<ref name=Marzluff>{{cite book |last1=Marzluff |first1=John M. |last2=Angell |first2=T. |date=2005 |title=In the Company of Crows and Ravens |publisher=Yale University Press |location=New Haven, Connecticut |isbn=978-0-300-10076-1}}</ref>
+<ref name=m&n2006>{{cite journal |last1=Marzluff |first1=John M. |last2=Neatherlin |first2=Eric |date=2006 |title=Corvid response to human settlements and campgrounds: Causes, consequences, and challenges for conservation |journal=Biological Conservation |volume=130 |issue=2 |pages=301–314 |doi=10.1016/j.biocon.2005.12.026|bibcode=2006BCons.130..301M }}</ref>
+<ref name=Patterson>{{cite journal |last1=Patterson |first1=I. J. |last2=Dunnet |first2=G. M. |last3=Fordham |first3=R. A. |date=1971 |title=Ecological studies of the Rook ''Corvus frugilegus'' L. in northeast Scotland. Dispersion |journal=J. Appl. Ecol. |jstor=2402685 |doi=10.2307/2402685|volume=8 |issue=3 |pages=815–833|bibcode=1971JApEc...8..815P }}</ref>
+<ref name=Perrins>Perrins, Christopher (2003): ''The New Encyclopedia of Birds'' Oxford University Press: Oxford {{ISBN|0-19-852506-0}}</ref>
+<ref name = robertson2000>{{cite web |last=Robertson |first=Don |date=30 January 2000 |website=Bird Families of the World |url=http://www.montereybay.com/creagrus/corvids.html |title=Corvidae |archive-url=https://web.archive.org/web/20060428150428/http://www.montereybay.com/creagrus/corvids.html |archive-date=28 April 2006 |url-status=dead |access-date=30 March 2026}}</ref>
+<ref name=v&s2004>{{cite journal |last1=Verhulst |first1=Sion |last2=Salomons |first2=H. Martijn |title=Why fight? Socially dominant jackdaws, ''Corvus monedula'', have low fitness |doi=10.1016/j.anbehav.2003.12.020 |year=2004 |journal=Animal Behaviour |volume=68 |issue=4 |pages=777–783 |bibcode=2004AnBeh..68..777V |s2cid=53199764 |url=https://www.researchgate.net/publication/222704711|hdl=11370/c1816821-aa56-410e-a222-03b19875501f |hdl-access=free }}</ref>
+}}
+
+==Further reading==
+* [[Charles Sibley]] & [[Jon Edward Ahlquist]] (1991<!-- date of release -->): ''Phylogeny and Classification of Birds: A Study in Molecular Evolution''. New Haven, Conn.: Yale University Press. {{ISBN|0-300-04085-7}}.
+
+==External links==
+{{Commons category}}
+{{Wikispecies}}
+* [http://ibc.lynxeds.com/family/crows-corvidae Corvidae videos] on the Internet Bird Collection
+* [https://web.archive.org/web/20110718215153/http://www.corvids.de/ corvids.de – Corvids-Literature-Database]
+* [http://www.corvidcorner.com Corvid Corner] A site about the Corvidae
+* [https://web.archive.org/web/20100811221509/http://www.avesnoir.com/ AvesNoir] A site about corvids in art, culture, and literature.
+* [http://www.nature.com/nature/journal/v537/n7620/full/nature19103.html Discovery of species-wide tool use in the Hawaiian crow]
+* [https://news.bbc.co.uk/2/hi/science/nature/8059688.stm Rooks reveal remarkable tool use]
+* [https://news.bbc.co.uk/2/hi/science/nature/8631486.stm Clever New Caledonian crows can use three tools]
+* [https://www.youtube.com/watch?v=N5YbWHrnjrg Talking Eurasian magpie ''Pica pica'']
+* [https://www.youtube.com/watch?v=ZOUyrtWeW4Q Rare crow shows a talent for tool use]
+
+{{Corvidae}}
+{{Portal bar|Birds}}
+{{Taxonbar|from=Q25565}}
+{{authority control}}
+
+[[Category:Corvidae| ]]
+[[Category:Bird families]]
+[[Category:Extant Miocene first appearances]]

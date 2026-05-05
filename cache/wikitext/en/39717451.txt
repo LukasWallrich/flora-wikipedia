@@ -1,0 +1,34 @@
+{{Short description|Data collection techniques}}{{Other uses|Elicitation (disambiguation)}}
+{{one source|date=October 2018}}
+An '''elicitation technique''' is any of a number of [[data collection]] techniques used in [[anthropology]], [[cognitive science]], counseling, [[education]], [[knowledge engineering]], [[linguistics]], [[management]], [[philosophy]], [[psychology]], or other fields to gather knowledge or information from people. Recent work in behavioral economics has purported that elicitation techniques can be used to control subject misconceptions and mitigate errors from generally accepted experimental design practices.<ref>{{Cite journal|last=[[Kathryn Zeiler|Zeiler]]|first=Kathryn|date=2005-01-01|title=The Willingness to Pay-Willingness to Accept Gap, the 'Endowment Effect,' Subject Misconceptions, and Experimental Procedures for Eliciting Valuations|url=https://scholarship.law.bu.edu/faculty_scholarship/781|journal=American Economic Review|volume=95|issue=3|pages=530–545|doi=10.1257/0002828054201387}}</ref>  Elicitation, in which knowledge is sought directly from human beings, is usually distinguished from indirect methods such as gathering information from written sources.<ref name="Cooke">{{Cite journal|last=Cooke |first=Nancy J. |title=Varieties of knowledge elicitation techniques |journal=International Journal of Human-Computer Studies |volume=41 |year=1994 |issue=6 |pages=801–849 |doi=10.1006/ijhc.1994.1083}}</ref>
+
+A person who interacts with [[Human subject research|human subjects]] in order to elicit information from them may be called an ''elicitor'', an ''analyst'', ''experimenter'', or ''knowledge engineer'', depending on the field of study.<ref name="Cooke" />
+
+Elicitation techniques include [[interview]]s, observation of either naturally occurring  behavior (including as part of [[participant observation]]) or behavior in a laboratory setting, or the analysis of assigned tasks.<ref name="Cooke" />
+
+==List of elicitation techniques==
+*Interviews
+*Existing System
+*Project Scope 
+*Brain Storming
+*Focus Groups
+*Exploratory Prototypes
+*User Task Analysis
+*Observation
+*Surveys
+*Questionnaire
+*Story Board
+
+==References==
+{{Reflist}}
+[https://www.informatika.web.id/2013/07/elisitasi-proses-dan-metode-untuk.html Elisitasi: Proses dan Metode untuk Merancang Sistem Baru yang Efektif]
+{{Authority control}}
+
+[[Category:Psychological methodology]]
+[[Category:Cognitive science]]
+[[Category:Ethnography]]
+[[Category:Linguistic research]]
+[[Category:Methods in sociology]]
+
+
+{{sci-stub}}

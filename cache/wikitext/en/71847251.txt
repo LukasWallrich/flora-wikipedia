@@ -1,0 +1,59 @@
+{{Short description|American psychologist}}
+{{Use mdy dates|date=November 2022}}
+{{Infobox academic
+| name               = David A. Pizarro
+| image              = 
+| birth_date         = 
+| birth_place        = 
+| occupation         = [[Psychologist]], [[podcast]]er
+| title              = 
+| awards             = 
+| website            = {{url|http://www.peezer.net}}
+| education          = 
+| alma_mater         = [[Pacific Union College]] (B.S.)<br>[[Yale University]] (Ph.D.)
+| thesis_title       = 
+| thesis_url         = 
+| thesis_year        = 
+| workplaces         = Cornell University
+}}
+'''David A. Pizarro''' is an American [[psychologist]] and [[podcast]]er. He is a Professor of [[Psychology]] at [[Cornell University]].<ref name=home>{{Cite web|url=https://philosophy.cornell.edu/david-pizarro|title=David A. Pizarro &#124; Sage School of Philosophy|website=Sage School of Philosophy - Cornell University|access-date=7 May 2025}}</ref> His research focuses on the psychological underpinnings of [[Morality|human morality]], as well as on the influence of emotions on [[decision-making]], particularly on the emotion of [[disgust]].
+
+Pizarro is a Fellow of the [[Association for Psychological Science]].<ref name=APS/>
+
+==Early life and education==
+Pizarro graduated with a Bachelor's degree from [[Pacific Union College]] in 1997 and received his Ph.D. in social psychology from [[Yale University]] in 2002 (under the supervision of [[Peter Salovey]] and [[Paul Bloom (psychologist)|Paul Bloom]]).<ref name=ooh>{{cite web|url=https://static1.squarespace.com/static/4ff4905c84aee104c1f4f2c2/t/6029c8e6fdf5dc081fb2094a/1613351142746/Pizarro+CV+2-24-21.pdf|title=David A. Pizarro CV|access-date=7 May 2025}}</ref>
+
+==Career==
+After receiving his PhD, Pizarro became a [[post-doctoral fellow]] at the [[University of California, Irvine]]. Since 2006, Pizarro has been a professor in the department of psychology at Cornell University.<ref name=ooh/>
+
+Pizarro's research is focused on the nature of human morality—especially on how humans arrive at moral judgments about people and actions (such as judgments of character, responsibility, blame, and praise), and in how emotions (especially disgust) influence moral judgments.<ref>{{Cite web|url=https://nymag.com/news/features/liberals-conservatives-2012-4/|title=Born This Way|last1=Issenberg|first1=Sasha|authorlink=Sasha Issenberg|date=April 6, 2012|website=[[New York Magazine]]|access-date=7 May 2025}}</ref><ref>{{Cite web|url=https://www.newscientist.com/article/mg21528731-800-the-yuck-factor-the-surprising-power-of-disgust/|title=The yuck factor: The surprising power of disgust|website=[[New Scientist]]|access-date=7 May 2025}}</ref><ref name=home/> In his 2012 [[TED (conference)|TED talk]], The ''Strange Politics of Disgust'', he provided an overview of his work linking individual differences in the degree to which people are easily disgusted to differences in political orientation.<ref>{{cite web |last1=Pizarro |first1=David |title=The strange politics of disgust |url=https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust?language=en |language=en |date=23 October 2012|access-date=7 May 2025}}</ref>
+
+Pizarro also co-hosts the [[podcast]] ''Very Bad Wizards'' along with the philosopher [[Tamler Sommers]], from the [[University of Houston]].<ref name="10pods-yahoo">{{Cite web |last=Passell |first=Lauren |date=2025-04-22 |title=10 Very Good Podcasts About Very Bad People |url=https://www.yahoo.com/entertainment/articles/10-very-good-podcasts-very-120000451.html |archive-url=https://web.archive.org/web/20260428171634/https://www.yahoo.com/entertainment/articles/10-very-good-podcasts-very-120000451.html |archive-date=2026-04-28 |access-date=2026-04-28 |website=Yahoo Entertainment |language=en-US}}</ref><ref name="100pods-times">{{Cite web |title=100 of the best podcasts to listen to in 2019 |date=2019-08-25 |last1=Armstrong |first1=Stephen |last2=Gregory |first2=Elizabeth |last3=Nicol |first3=Patricia |last4=Reynolds |first4=Gillian |publisher=The Times |url=https://www.thetimes.com/culture/tv-radio/article/100-podcasts-to-love-nvwx7t9vn |archive-url=https://web.archive.org/web/20251117190026/https://www.thetimes.com/culture/tv-radio/article/100-podcasts-to-love-nvwx7t9vn |archive-date=2025-11-17 |access-date=2026-04-28 |language=en-UK}}</ref>
+
+==Awards and honors==
+Pizarro was the Nannerl Keohane Distinguished Visiting Professor at [[University of North Carolina at Chapel Hill]] and [[Duke University]] in 2014.<ref>{{cite web|url=https://today.duke.edu/2014/01/pizarro|title=Studying Disgust|website=Duke Today|date=January 6, 2014 |access-date=7 May 2025}}</ref> He was the recipient of the Stephen and Margery Russell Distinguished Teaching Award from [[Cornell University]] in 2021.<ref>{{cite web|url=https://psychology.cornell.edu/news/advising-teaching-awards-honor-arts-and-sciences-faculty|title=Advising, teaching awards honor Arts and Sciences faculty|website=Sage School of Psychology - Cornell University|date=May 11, 2021 }}</ref> He is a Fellow of the [[Association for Psychological Science]].<ref name=APS>{{cite web|url=https://www.psychologicalscience.org/redesign/wp-content/uploads/2018/12/January_OBS_2019-Online.pdf|title=New APS Fellows|website=Psychological Science|access-date=7 May 2025}}</ref>
+
+==Bibliography==
+*{{cite journal|last1=Pizarro|first1=D. A.|last2=Bloom|first2=P.|year=2003|title=The intelligence of the moral intuitions: A comment on Haidt (2001)|journal=Psychological Review|volume=110|number=1|pages=193–196|doi=10.1037/0033-295X.110.1.193|pmid=12529062 }}
+*{{cite journal|last1=Fernandez-Berrocal|first1=P.|last2=Alcaide|first2=R.|last3=Extremera|first3=N.|last4=Pizarro|first4= D.|year=2006|title= The role of emotional intelligence in anxiety and depression among adolescents|journal=Individual Differences Research|volume=4|number=1}}
+*{{cite journal|last1=Inbar|first1=Y.|last2=Pizarro|first2=D. A.|last3=Bloom|first3=P.|year=2009|title=Conservatives are more easily disgusted than liberals|journal= Cognition and Emotion|volume=23|number=4|pages=714–725|doi=10.1080/02699930802110007|s2cid=7411404 |citeseerx=10.1.1.372.3053}}
+*{{cite journal|last1=Inbar|first1=Y.|last2=Pizarro|first2=D. A.|last3=Knobe|first3=J.|last4=Bloom|first4=P|year=2009|title=Disgust sensitivity predicts intuitive disapproval of gays|journal=Emotion|volume=9|number=3|pages=435–439 |doi=10.1037/a0015960|pmid=19485621 |url=https://philpapers.org/rec/KNODSP-2 }}
+*{{cite journal|last1=Bartels|first1=D. M.|last2=Pizarro|first2=D. A.|year=2011|title=The mismeasure of morals: Antisocial personality traits predict utilitarian responses to moral dilemmas|journal=Cognition|volume=121|number=1|pages=154–161|doi=10.1016/j.cognition.2011.05.010|pmid=21757191 |s2cid=6942897 }}
+
+==References ==
+{{reflist}}
+
+==External links==
+*[https://www.verybadwizards.com/hosts/peez Very Bad Wizards] {{Webarchive|url=https://web.archive.org/web/20220926062955/https://www.verybadwizards.com/hosts/peez |date=September 26, 2022 }}
+*[https://soundcloud.com/peezismyname Peez Is My Name]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pizzaro, David A.}}
+
+[[Category:Living people]]
+[[Category:21st-century American psychologists]]
+[[Category:Cornell University faculty]]
+[[Category:Year of birth missing (living people)]]
+[[Category:American podcasters]]
+[[Category:Yale University alumni]]

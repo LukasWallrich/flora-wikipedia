@@ -1,0 +1,104 @@
+{{Short description|Thought experiment posed by Robert Nozick}}
+
+The '''experience machine''' or '''pleasure machine''' is a [[thought experiment]] put forward by  philosopher [[Robert Nozick]] in his 1974 book  ''[[Anarchy, State, and Utopia]]''.<ref name="nozick1">{{cite book | last = Nozick | first = Robert | title = Anarchy, state, and utopia | publisher = Basic Books | location = New York | year = 1974 | isbn = 0-465-09720-0 | pages = [https://archive.org/details/anarchystateutop00nozi/page/42 42–45] | url-access = registration | url = https://archive.org/details/anarchystateutop00nozi/page/42 }}</ref> It is an attempt to refute ethical [[hedonism]] by imagining a choice between everyday reality and an apparently preferable [[simulated reality]].
+
+A primary thesis of hedonism is that "pleasure is the good", which leads to the argument that any component of life that is not pleasurable does nothing directly to increase one's [[well-being]].<ref name="Crisp">{{cite web |last1=Crisp |first1=Roger |title=Well-Being: 4.1 Hedonism |url=https://plato.stanford.edu/entries/well-being/#Hed |website=The Stanford Encyclopedia of Philosophy |publisher=Metaphysics Research Lab, Stanford University |date=2017}}</ref>  This is a view held by many value theorists, but most famously by some classical [[Utilitarianism|utilitarians]].<ref>[[Jeremy Bentham|Bentham, Jeremy]]. 1780. "[http://www.koeblergerhard.de/Fontes/BenthamJeremyMoralsandLegislation1789.pdf#page=43 Of The Principle of Utility]." Pp. 1–6 in ''[[An Introduction to the Principles of Morals and Legislation]]''. London: T. Payne and Sons. (Also available as [https://www.utilitarianism.com/jeremy-bentham/#one eText], [[wikisource:An Introduction to the Principles of Morals and Legislation/Chapter I|Wikisoure]]). p. 1.</ref> Nozick attacks the thesis by means of a thought experiment. If he can show that there is something other than pleasure that has value and thereby increases well-being, then hedonism is refuted.
+
+==The thought experiment==
+Nozick describes a machine that could provide whatever desirable or pleasurable experiences a subject could want. In this thought experiment, psychologists have figured out a way to stimulate a person's brain to induce pleasurable experiences that the subject could not distinguish from those they would have apart from the machine. He then asks, if given the choice, would the subject prefer the machine to real life?
+
+Nozick also believes that if pleasure were the only intrinsic value, people would have an overriding reason to be hooked up to an "experience machine", which would produce favorable sensations.
+
+===The argument===
+The argument is along these lines:
+
+*Premise 1: If experiencing as much pleasure as we can is all that matters to us, then if we will experience more pleasure by doing x than by doing y, we have no reason to do y rather than x.
+*Premise 2: We will experience more pleasure if we plug into the experience machine than if we do not plug into the experience machine.
+*Conclusion 1: If experiencing as much pleasure as we can is all that matters to us, then we have no reason not to plug into the experience machine. (P1&P2)
+*Premise 3: We have reason not to plug into the experience machine.
+*Conclusion 2: Experiencing as much pleasure as we can is not all that matters to us. (C1&P3, by [[Modus tollens]])
+
+===Reasons not to plug in===
+Nozick provides three reasons not to plug into the machine.
+
+# ''We want to'' do ''certain things, and not just have the experience of doing them.''
+#* "In the case of certain experiences, it is only because first we want to do the actions that we want the experiences of doing them or thinking we’ve done them."  {{r|nozick1|p=43}}{{ref|Nozick|[a]}}
+# ''We want to'' be ''a certain sort of person.''
+#* "Someone floating in a tank is an indeterminate blob...Is he courageous, kind, intelligent, witty, loving? It’s not merely that it’s difficult to tell; there’s no way he is. Plugging into the machine is a form of suicide." {{r|nozick1|p=43}}
+# ''Plugging into an experience machine limits us to a man-made reality (it limits us to what we can make).''
+#* "There is no ''actual'' contact with any deeper reality, though the experience of it can be simulated." {{r|nozick1|p=43}}
+
+=== Additionally ===
+These are not quoted by Nozick himself, but rather other philosophers who have come up with or shared additional reasons.
+* ''Status Quo Bias, humans tend to dislike change, especially when considering the thought of having to be prodded with wires.''{{r|bramble1|p=139 }}
+* ''We would never see our real family and friends again, although unbeknownst to us.''<ref>{{Cite journal|last=Kawall|first=Jason|date=1999|title=The Experience Machine and Mental State Theories of Well-being|url=http://dx.doi.org/10.1023/a:1004557501837|journal=The Journal of Value Inquiry|volume=33|issue=3|pages=381–387|doi=10.1023/a:1004557501837|s2cid=170727959 |issn=0022-5363|url-access=subscription}}</ref>{{rp|383}}
+* ''The concept of free will becomes murky.''<ref name="bramble1">{{Cite journal|last=Bramble|first=Ben|date=March 2016|title=The Experience Machine|url=http://dx.doi.org/10.1111/phc3.12303|journal=Philosophy Compass|volume=11|issue=3|pages=136–145|doi=10.1111/phc3.12303|issn=1747-9991|url-access=subscription}}</ref>{{rp|142}}
+* ''Previous experiences with technological failure; people don't trust machines.''<ref>{{cite journal |doi=10.1080/09515089.2012.757889 |title=Nozick's experience machine is dead, long live the experience machine! |first1=Dan |last1=Weijers |pages=513–535 |journal=Philosophical Psychology  |volume=27 |year=2014 |number= 4|s2cid=144391860 }}</ref>
+
+=== Argument against hedonism ===
+Hedonism states that the things in life worth pursuing are the highest good, or the things that will make one happiest both long term and short term. Happiness is the highest value in human life. The Experience Machine is hedonistic, and yet people still refuse to be plugged in for the reasons listed above. Therefore, a conclusion is made that being personally happy is not the greatest value everyone carries.<ref>{{Cite journal|last=LIN|first=EDEN|date=2015-09-28|title=How to Use the Experience Machine|url=http://dx.doi.org/10.1017/s0953820815000424|journal=Utilitas|volume=28|issue=3|pages=314–332|doi=10.1017/s0953820815000424|s2cid=147915347 |issn=0953-8208|url-access=subscription}}</ref>
+
+==Counterarguments==
+Psychologist and philosopher [[Joshua Greene (psychologist)|Joshua Greene]] says that intuitions about the experience machine may be affected by [[status quo bias]], and suggests reformulating the thought experiment in a form which counters this.<ref name="Lazari-RadekSinger2014">{{cite book|author1=Katarzyna de Lazari-Radek|author2=Peter Singer|author2-link=Peter Singer|title=The Point of View of the Universe: Sidgwick and Contemporary Ethics|url=https://books.google.com/books?id=x2NeAwAAQBAJ&pg=PA257|date=22 May 2014|publisher=OUP Oxford|isbn=978-0-19-102242-5|pages=257}}</ref> According to his version:
+<blockquote> 
+You wake up in a plain white room. You are seated in a reclining chair with a steel contraption on your head. A woman in a white coat is standing over you. 'The year is 2659,' she explains, 'The life with which you are familiar is an experience machine program selected by you some forty years ago. We at IEM interrupt our client's programs at ten-year intervals to ensure client satisfaction. Our records indicate that at your three previous interruptions you deemed your program satisfactory and chose to continue. As before, if you choose to continue with your program you will return to your life as you know it with no recollection of this interruption. Your friends, loved ones, and projects will all be there. Of course, you may choose to terminate your program at this point if you are unsatisfied for any reason. Do you intend to continue with your program?
+</blockquote>
+If a reader feels differently about this version of the story compared to the form that Nozick offers, according to Greene, this is due to [[status quo bias]].<ref name="Lazari-RadekSinger2014"/>
+
+A similar counterargument was raised in a paper titled ''If You Like It, Does It Matter If It's Real?''<ref>{{cite journal |last1=De Brigard |first1=Felipe |date=2010 |title=If you like it, does it matter if it's real? |url=https://doi.org/10.1080/09515080903532290 |journal=Philosophical Psychology |volume=23 |issue=1 |pages=43–57 |doi=10.1080/09515080903532290 |s2cid=220327405 |access-date=26 February 2021|url-access=subscription }}</ref> by philosopher Felipe de Brigard. In contrast to the main experiment, De Brigard asked 72 US university undergraduates whether they would like to disconnect from the machine given that they were already in it. About their "real" life, they were told one of three stories: (a) nothing; (b) that they were prisoners in a maximum security prison; or (c) that they were multimillionaire artists living in [[Monaco]]. Of those who were told nothing of their "real" lives, 54% wished to disconnect from the machine. Of those who were told they were prisoners, only 13% wished to disconnect. This implies that one's real-life quality impacts whether it is preferred to the machine. Of those told they were rich inhabitants of Monaco, half chose to disconnect, comparable to the proportion given no information about their "real" life. De Brigard attributes his findings to status quo bias. He argues that someone's decision not to step into the machine has more to do with wanting the status quo than with preference of the current life over the simulated one.<ref name="today">[https://www.psychologytoday.com/us/blog/finding-meaning-in-imperfect-world/201903/pleasure-or-reality-the-experience-machine-debate Pleasure or Reality? The Experience Machine Debate], ''Psychology Today''</ref>
+
+De Brigard points out that Nozick never empirically verified his third premise. Nozick never tested his claims, arguing instead that it must naturally be the case. Later philosophers and psychologists then matched this with their own beliefs.<ref name="today"/>
+
+==Alterations==
+
+Researchers [[Igor Douven]] and Frank Hindriks posed a change to the scenario, wherein the "Experience Machine" was replaced with an "Experience Pill"  and a "Functioning Pill" (which enhances capabilities, rather than manipulating experiences), aiming to find empirical results in a scenario that wouldn't invoke worries such as technological failure. The results were mixed with a 29% minority choosing toward the classic machine, but 53% willing to choose the Experience pill, and a further 89% willing to take the Functioning pill across two experiments.<ref>Hindriks, F., & Douven, I. (2017). "Nozick’s experience machine: An empirical study." ''Philosophical Psychology'', '''31'''(2), 292. [https://doi.org/10.1080/09515089.2017.1406600 https://doi.org/10.1080/09515089.2017.1406600]</ref>
+While more favourable than previous studies, it still concludes that people have intrinsic values aside from pleasure, supporting Nozick's original conclusion against hedonism.
+
+Another example of a change to the thought experiment was Kelly Inglis's proposal of a "Universal Pure Pleasure Machine" – a machine that provides pure pleasure, without a simulated virtual reality, which all people are plugged into. Only 5.3% of those who responded believed that this would be a good future to achieve, and from these results Inglis concluded that this again disproved Hedonism.<ref> Inglis, K. (2021). The universal pure pleasure machine: Suicide or nirvana? Philosophical Psychology, 34(8), 1077–1096.</ref>
+
+==In fiction==
+Before it became a philosophical thought experiment in the mid-seventies, the pleasurable but simulated experience versus reality dilemma had been a staple of science fiction; for example in the short story "The Chamber of Life" by {{ill|Green Peyton Wertenbaker|fr}}, published in the magazine ''[[Amazing Stories]]'' in October 1929. The 1996 novel ''[[Infinite Jest]]'' by [[David Foster Wallace]] involves a similar formulation of the experience machine. The novel revolves around a film titled ''Infinite Jest'' that is lethally pleasurable: the film is so entertaining that, once watched, the viewer will desire nothing else but to watch the film over and over.<ref>{{cite journal |last=Sloane |first=Peter |year=2014 |title=The Divided Selves of David Foster Wallace |journal=Tropos |volume=1 |issue=1 |pages=67–73 |doi=10.14324/111.2057-2212.011 |url=http://discovery.ucl.ac.uk/1420208/|doi-access=free }}</ref> Examples of movies centering on machines capable of replaying experiences previously recorded include the 1983 film ''[[Brainstorm (1983 film)|Brainstorm]]'' and the 1995 film ''[[Strange Days (film)|Strange Days]]''.<ref name="Baggott2005">{{cite book|author=Jim Baggott|author-link=Jim Baggott|title=A Beginner's Guide to Reality|url=https://books.google.com/books?id=9yAa7kRYiUkC&pg=PT137|date=1 September 2005|publisher=Penguin Books Limited|isbn=978-0-14-104232-9|pages=137}}</ref>
+
+The choice between standard human life and transforming into creatures that can experience a much more intense pleasure life is also one of the main twists of the classic novel ''[[City (novel)|City]]'', by Clifford Simak. In that story, as opposed to Nozick's argument, most people opt for the pleasure life, mostly because they can fully appreciate what they can gain in the process thanks to a sophisticated language method, suggesting that the terms of the choice have to be well chosen and fully understood for the experience to be significant.
+
+It also is a running theme of the 1999 film ''[[The Matrix]]''.<ref name="Grau2005">{{cite book|author=Christopher Grau|title=Philosophers Explore The Matrix|url=https://books.google.com/books?id=4Pmld5FXZ0YC&pg=PA18|year=2005|publisher=Oxford University Press|isbn=978-0-19-518107-4|pages=18–}}</ref> [[Agent Smith]]'s account of the early history of the Matrix includes the idea that humans reject a virtual reality that offers them paradise; however, later his informant  [[List of minor characters in the Matrix series#Mr. Reagan.2FCypher|Cypher]] is willing to betray his colleagues because he would prefer to be reinserted into an (admittedly less perfect) Matrix as a wealthy and successful man than continue to live in the harsh realities outside the simulation. While this later version of the Matrix is not a paradise-like reality in the literal sense, it may be argued that it is a lot like a pleasure-inducing experience machine, since Cypher is given the opportunity to have a prominent position of power and wealth in this new simulation. As he says while dining at a simulated restaurant: <blockquote>"You know, I know this steak doesn't exist. I know that when I put it in my mouth, the Matrix is telling my brain that it is juicy, and delicious. After nine years, you know what I realize? Ignorance is bliss."<ref>{{cite web
+ |url          = http://thematrixtruth.remoteviewinglight.com/html/transcript-of-the-matrix-5.html
+ |title        = The Matrix Transcript Part 05
+ |work         = The Matrix
+ |publisher    = The Matrix Truth
+ |access-date   = June 22, 2011
+ |archive-url  = https://web.archive.org/web/20110716044256/http://thematrixtruth.remoteviewinglight.com/html/transcript-of-the-matrix-5.html
+ |archive-date = July 16, 2011
+ |url-status     = dead
+}}</ref></blockquote>Another example of Nozick's experience machine would be the PASIV Device presented within [[Christopher Nolan]]'s ''[[Inception]]''.<ref>{{Cite book |last=Dunn |first=George |url=https://www.academia.edu/36826886 |title=The Philosophy of Christopher Nolan, ed. Jason T. Eberl and George A. Dunn}}</ref>
+
+A film that directly confronts the protagonist with the choice of an experience machine is ''[[Virtual Revolution]]''.  The majority of the film's future population are the hedonists of the experiment: 'Connected', that is having chosen a virtual existence over their real one.  The experiences are customized into 'verses with themes much like modern video games (fantasy questing, first person shooting), but upgraded via a brain–computer interface to send data to all five senses and to block out true reality.
+
+==See also==
+
+* [[Biohappiness]]
+* [[Brain in a vat]]
+* [[Hedonism]]
+* [[Metaverse]]
+* [[Simulation hypothesis]]
+* [[Wirehead (science fiction)]], a fictional user of pleasure-inducing devices
+
+==Notes==
+:a.{{note|Nozick}}{{note|NozickFinal}}Nozick immediately casts doubt on this claim, proceeding to raise an unanswered question in brackets: ''"(But why do we want to do the activities rather than merely to experience them?)"''
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.iep.utm.edu/experience-machine/ Experience Machine], ''[[Internet Encyclopedia of Philosophy]]''.
+
+{{DEFAULTSORT:Experience Machine, The}}
+[[Category:Consequentialism]]
+[[Category:Consciousness]]
+[[Category:Hedonism]]
+[[Category:Hyperreality]]
+[[Category:Internalism and externalism]]
+[[Category:Philosophical arguments]]
+[[Category:Thought experiments in ethics]]
+[[Category:Utilitarianism]]
+[[Category:1974 neologisms]]

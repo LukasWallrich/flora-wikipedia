@@ -1,0 +1,247 @@
+{{Short description|Species of fish}}
+{{Speciesbox
+| name = Australian sprat
+| image = FMIB 45564 Clupea bassensis.jpeg
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name="iucn status 18 November 2021">{{cite iucn |author=Gaughan, D. |author2=Munroe, T.A. |author3=Mohd Arshaad, W. |date=2017 |title=''Sprattus novaehollandiae'' |volume=2017 |article-number=e.T98840585A98887024 |doi=10.2305/IUCN.UK.2017-3.RLTS.T98840585A98887024.en |access-date=18 November 2021}}</ref>
+| taxon = Sprattus novaehollandiae 
+| authority = ([[Achille Valenciennes|Valenciennes]] in Cuvier and Valenciennes, 1847)
+}}
+
+The '''Australian sprat''' ('''''Sprattus novaehollandiae''''') is a [[sprat]] fish whose habitat ranges in the waters surrounding [[Australia]] including [[Tasmania]]. It is a [[pelagic]] fish which is found in anti-tropical, temperate water.<ref name="auto2">{{cite journal |last1=Canales-Aguirre |first1=Cristian |last2=Ritchie |first2=Peter |last3=Hernandez |first3=Sebastian |last4=Herrara-Yanez |first4=Victoria |last5=Ferrada Fuentes |first5=Sandra |last6=Oyarzun |first6=Fenanda |last7=Hernandez |first7=Cristian |last8=Galleguillos |first8=Ricardo |last9=Arratia |first9=Gloria |title=Phylogenetic relationships, origin and historical biogeography of the genus Sprattus (Clupeiformes: Clupeidae) |journal=PeerJ |date=2021 |volume=9 |article-number=e11737 |doi=10.7717/peerj.11737 |doi-access=free |pmid=34466280 |pmc=8380030 }}</ref> It is a part of the [[Clupeidae]] family. Other members of the Cluepeidae family also include [[herring]], [[menhaden]], [[sardines]] as well as shads.{{citation needed|date=January 2026}} It is currently a relative unknown species of Sprat compared to the other members of the family. In total, there are five different types of True [[Sprats]]. What makes Australian Sprats different from the rest is their location and appearance. Sprattus Novaehollandiae have a dark blue back and a protruding lower jaw. They are found in the Southern regions of Australian such as lower [[Victoria (Australia)|Victoria]] and [[Tasmania]] were there are colder [[climates]]. On average, Australian Sprat grown up to 14&nbsp;cm and live in the range of 0–50 meters deep in the ocean. They will lay between 10,000 and 40,000 eggs per year and live for approximately 5–7 years.<ref name=gdk>{{cite book |last1=Khedkar |first1=G.D. |last2=Chavan |first2=N.V. |title=Encyclopedia of Food Sciences and Nutrition |date=2003 |edition=Second |publisher=Elsevier Science}}</ref> Other names for the Australian Sprat include [[Clupea]] Bassensis and Meletta Novaehollandiae.<ref>{{cite web |title=Species Sprattus novaehollandiae (Valenciennes, 1847) |url=https://biodiversity.org.au/afd/taxa/Sprattus_novaehollandiae |website=Australian Government: Department of Agriculture, Water and the Environment |access-date=12 April 2022}}</ref>
+
+== Biology==
+In terms of appearance, Australian [[Sprats]] resemble [[herrings]] with their elongated body and silver colouration. Interestingly, [[Sprats]] vary in size depending on the specific [[species]], with the Australian [[Sprat]] being 14&nbsp;cm long.{{citation needed|date=January 2026}} Specifically, the Australian Sprat has the following fin configuration. 15-18 Anal fin 18-21: [[Caudal fin]] 19: [[Pectoral fin]] 17-18: [[Pelvic fin]] 8; Oblique scale rows on side 44. The Australian [[Sprat]] has a relatively shallow body giving it an elongated and compressed look with a narrow [[caudal peduncle]]. They also have a smaller head (25-29% SL) with medium-sized eyes (27-33% HL). Along its anterior and posterior edges of the eye, it has strips of transparent [[adipose tissue]]. Finally, Australian [[Sprat]] have a slightly projecting lower jaw with miniature or no teeth. The scales on the Australian [[Sprat]] are large, [[cycloid]] and minimally attached. They cover most of the body except the head.<ref name="auto">{{cite web |last1=Bray |first1=D.J |title=Novaehollandiae |url=https://fishesofaustralia.net.au/home/species/2070 |website=Fishes of Australia |access-date=1 May 2022}}</ref>
+
+== Etymology==
+The name Novaehollandiae means New Holland which is the old name used for [[Australia]]. The further breakdown of the [[etymology]] of the Australian [[Sprat]] will be broken down in table form.<ref>{{cite web |title=Sprattus novaehollandiae |url=https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=551218#null |website=Integrated Taxonomic Information System |access-date=5 May 2022}}</ref>
+
+== Habitat==
+Overall, this specific [[Sprat]] is found in a wide range of [[ecosystems]].<ref name="auto1">{{cite journal |last1=Meskendahl |first1=L |last2=Hermann |first2=J.P |last3=Temming |first3=A |title=Effects of Temperature and Body Mass on Metabolic Rates of Sprats, Sprattus sprattus L. |journal=Marine Biology |date=2010 |volume=157 |issue=9 |pages=1917–1927 |doi=10.1007/s00227-010-1461-1 |bibcode=2010MarBi.157.1917M }}</ref> The Australian [[Sprat]] is commonly found during the seasonal period of August–November in [[Tasmania]]. The Australian Sprat is considered a coastal, marine, [[estuarine]] and [[pelagic]] species. In coastal regions, they form schools located mostly in deep [[bays]] and [[estuaries]]. An [[estuary]] is a body of water where the river and the ocean meet. It is where freshwater is drained from the land into the seawater. Estuaries are considered one of the most productive [[ecosystems]] in the world being a reason why Australian [[Sprat]] are found in this location.<ref>{{cite web |title=What is an Estuary? |url=https://oceanservice.noaa.gov/facts/estuary.html |website=National Ocean Service |access-date=4 April 2022}}</ref> On the other hand, an abundant level of Australian Sprat are found in bays during the season of August to November. A bay is a body of water surrounded partially by land.<ref>{{cite web |title=Bay |url=https://www.nationalgeographic.org/encyclopedia/bay/ |website=National Geographic |date=21 August 2012 }}</ref> Specifically, during the day, sprats will move into deeper water and migrate to shallow regions to source food.{{citation needed|date=January 2026}}
+
+Unlike the other [[Sprats]], Australian sprats are found around the colder regions of Australia. They are in both the Indian and [[Pacific Ocean]]. More specifically, this ranges from [[Port Jackson]] in [[New South Wales]] and down to [[Tasmania]]. Although less common, Australian Sprat have been spotted as far as the [[Spencer Gulf]] in [[South Australia]] as well as in [[New Zealand]] Waters. Overall, there is minimal data on the species. Not much is known abouts the total population size, history, and biology.<ref name="auto"/>
+
+[[File:Australian Sprat Region Map.png|thumb|Showing extent of where Australian Sprats are located]]
+
+The Australian Sprat is a [[pelagic]] fish which is found in [[antitropical]], [[temperate]] water. An [[antitropical distribution]] occurs when similar species of the same animal are distributed on both the North and South of the tropics yet not within. Interestingly, this [[antitropical distribution]] pattern is found for all five species of Sprat. These tropical zones act as a barrier to entry of the Sprattus which limits the dispersion of the Sprattus around the world. Note that only the Sprattus Sprattus is found in the [[Northern Hemisphere]] around the coast of Europe while three out of the five species of Sprats are found within the oceania region. For the Sprattus to spread from the Northern to the [[Southern Hemisphere]] of vice versa, it is considered a possibility that it occurred during the [[Miocene]] and [[Pliocene]] period, as it allowed for a window of opportunity for the [[Sprattus]] to [[migration (ecology)|migrate]] to the other hemisphere. It is important to note that there are currently no studies done which examine the origins of the Sprattus, yet species with similar [[antitropical distribution]] have been examined extensively. These include [[Sardinops]].<ref name="auto2"/>
+
+== Conservation==
+From a conservation perspective, the Australian [[Sprat]] is not a targeted species from fisheries which means there are no major threats and potential impacts to the species. However, more research as well as consistent monitoring is required to ensure this risk evaluation is correct. However, currently the Australian [[Sprat]] is of least concern.<ref>{{cite journal |last1=Gaughan |first1=D |last2=Munroe |first2=T.A |last3=Mohd Arshaad |first3=W |title=IUCN- Australian Sprat |website=International Union for Conservation of Nature |date=2017 |doi=10.2305/IUCN.UK.2017-3.RLTS.T98840585A98887024.en }}</ref> It is important to note that the [[International Union for Conservation of Nature]] cannot identify whether the population is increasing or decreasing.{{citation needed|date=January 2026}}
+
+== Predatory and prey==
+Although Australian Sprat are of least concern in terms of [[Conservation biology|conservation]]. They are still prey of some animals. They are the known prey of [[little penguins]] (Eudyptula minor) as well the [[Australian Pied Cormorant]] (Phalacrocorax varius).<ref name=gdk/> Also, the Australian Sprat is a part of the seabird food chain.
+
+Further, all Sprattus types are prey of the New Zealand fur seal (''[[Arctocephalus forsteri]]''). In terms of being a predator, the Australian Sprat is not a predator of any animal.<ref>{{cite book |last1=Furlani |first1=Dianne |last2=Gales |first2=Rosemary |last3=Pemberton |first3=David |title=Otolliths of Common Australian Temperate Fish - A Photographic Guide |date=2007 |publisher=CSIRO Publishing}}</ref> However, it feeds on copepods and plankton.<ref name=gdk/>
+
+Finally, the Australian Sprats diet remains unchanged throughout their lifetime. Both when they are young as well as adults, Sprats feed on [[zooplankton]]. Other animals that they prey include fish eggs, [[fish larvae]], [[copepods]] as well as [[plankton]].{{citation needed|date=January 2026}}
+
+== Taxonomy==
+{| class="wikitable collapsible"
+|+ Taxonomy
+|-
+! Class
+! Scientific name
+|-
+| Kingdom
+| Animalia
+|-
+| Subkingdom
+| Bilateria
+|-
+| Infrakingdom
+| Deuterostomnia
+|-
+| Phylum
+| Chordata
+|-
+| Subphylum
+| Vertebrata
+|-
+| Infraphylum
+| Gnathostomata
+|-
+| Superclass
+| Actinopterygii
+|-
+| Class
+| Teleostei
+|-
+| Superorder
+| Clupeomorpha
+|-
+| Order
+| Clupeiformes
+|-
+| Suborder
+| Clupeoidei
+|-
+| Family
+| Clupeidae
+|-
+| Subfamily
+| Clupeinae
+|-
+| Genus
+| Sprattus
+|-
+| Species
+| Sprattus Novaehollandiae
+|}
+
+Note that Australian Sprat samples have been impossible to obtain regarding taxon sampling.<ref name="auto2"/>
+
+== Cooking and food==
+Note there is minimal human interaction and Sprats for a variety of reason. However, humans use Sprats to create fishmeal or for their own personal consumption.{{citation needed|date=January 2026}} The Australian Sprat is a small oily fish which possesses an abundance of [[nutrients]]. In terms of [[seafood]], it is considered one of the most nutritious varieties. To be preserved, it is smoked and then placed into a can of either oil or brine. Many people enjoy the smoky flavour and will use the sprat is a variety of different dishes and [[cuisines]].<ref name="auto3">{{cite web |last1=Joseph |first1=Michael |title=7 Benefits of Sprats (and Full Nutrition Facts) |url=https://www.nutritionadvance.com/sprats-nutrition-benefits/ |website=Nutrition Advance |date=14 July 2020 |access-date=28 April 2022}}</ref>
+
+There are many ways which sprats can be cooked and consumed. Sprats can be cooked in the pan with salt, pepper, and lemon juice on toast. Another option is having a whole sprat on toast with egg is also a good meal. Finally, Sprats can also be placed into a [[stew]] depending upon the season.<ref name="auto3"/> Overall, the sprat can be eaten either fresh, fry, broil, grill, bake, smoke or salted.
+
+The following are a list of nutrition facts for sprats per 100 grams.<ref name="auto3"/>
+
+{| class="wikitable collapsible"
+|+ Nutrition
+|-
+! Name
+! Amount
+! % of daily intake
+|-
+| Calories
+| 157 kcal
+| 7.9%
+|-
+| Carbohydrates
+| 0g
+| 0.0%
+|-
+| Fibre
+| 0g
+| 0.0%
+|-
+| Sugar
+| 0g
+| 0.0%
+|-
+| Fat
+| 6.53g
+| 10.0%
+|-
+| Saturated Fat
+| 1.47g
+| 7.4%
+|-
+| Monounsaturated
+| 2.7g
+| n/a
+|-
+| Polyunsaturated
+| 1.54g
+| n/a
+|-
+| Omega-3
+| 1.38g
+| n/a
+|-
+| Omega-6
+| 0.14g
+| n/a
+|-
+| Protein
+| 23.03g
+| 46.1%
+|}
+
+{| class="wikitable collapsible"
+|+ Vitamins and minerals
+|-
+! Name
+! % of daily intake
+|-
+| Vitamin B12
+| 548
+|-
+| Niacin (B3) 
+| 26
+|-
+| Riboflavin (B2) 
+| 23
+|-
+| Vitamin B6
+| 21
+|-
+| Vitamin D
+| 15
+|-
+| Pantothenic acid (B5)
+| 15
+|-
+| Choline
+| 15
+|-
+| Thiamin (B1)
+| 9
+|-
+| Vitamin E
+| 5
+|-
+| Folate
+| 3
+|-
+| Vitamin A
+| 2
+|-
+| Vitamin C
+| 1
+|-
+| Selenium
+| 85
+|-
+| Phosphorus
+| 24
+|-
+| Zinc
+| 12
+|-
+| Magnesium
+| 10
+|-
+| Potassium
+| 9
+|-
+| Copper
+| 13
+|-
+| Iron
+| 8
+|-
+| Calcium
+| 6
+|-
+| Sodium
+| 5
+|-
+| Manganese
+| 2
+|}
+
+One of the major benefits of adding Australian Sprats to your diet is the large amounts of [[Omega-3]] it has. The Omega-3 comes in two forms, EPA ([[Eicosapentaenoic acid]]) and DHA ([[Docosahexaenoic acid]]) which are both the most bio-available form of [[Omega-3]]. [[Omega-3]] is considered an essential fatty acid for a healthy diet and has many added health benefits.<ref name="auto3"/>
+
+[[Omega-3]] positively impacts the body through its [[anti-inflammatory]] benefits. It also helps the [[cardiovascular system]], whilst lowering [[blood pressure]] and [[triglyceride]] levels. Australian Sprat are also a great source of Vitamin D with 100g of Sprat being 15% of recommended daily intake. Vitamin D benefits the body by protecting the immune, nervous and [[skeletal system]]. It is also a source of Vitamin B12 which plays in energy production as well as DNA and red bloody cell production.<ref name="auto3"/>
+
+One of the main problems with consuming too many large fish is the high mercury content which they have. The Australian Sprat is low in the food chain compared to larger animals which means that they don't accumulate much mercury through their diet. Other larger fish in the food chain eat a collection of smaller fish which contain small amount of [[Mercury in fish|mercury]] individually which can collectively become an issue. Studies have shown that mercury content in sprats are low. The issue of adding sprats to your diet is the purine content. The purine content is sprats is high. Too much purine can affect the body due to the breakdown of [[purine]] in uric acid in the body.<ref name="auto3"/>
+
+== Reproduction and threats to reproduction==
+The Australian Sprat takes approximately 15 days from fertilisation to hatching.<ref name="auto1"/> The process of reproduction and breeding for a sprat is via spawning. This is the process where eggs are fertilised outside of the body. The female sprats release their eggs into the warm water and the male releases sperm to fertilise them. Some of the long terms threats to reproduction include climate change, over-fishing and pollution.{{citation needed|date=January 2026}}
+
+==References==
+{{Reflist}}
+* {{ITIS |id=551218 |taxon=Sprattus novaehollandiae |access-date=30 January 2006}}
+* {{FishBase|genus=Sprattus|species=novaehollandiae|year=2005|month=10}}
+
+{{Taxonbar|from=Q2321399}}
+
+[[Category:Sprattus]]
+[[Category:Marine fish of Eastern Australia]]
+[[Category:Marine fish of Southern Australia]]
+[[Category:Marine fish of Tasmania]]
+[[Category:Fish of Victoria (state)]]
+[[Category:Fish described in 1847]]

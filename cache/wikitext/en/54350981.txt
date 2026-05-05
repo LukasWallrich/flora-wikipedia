@@ -1,0 +1,155 @@
+{{Short description|Research interview technique}}
+'''Clean language interviewing''' ('''CLI'''), sometimes shortened to '''clean interviewing''', aims to maximise the [[Unreliable narrator|reliability]] that information collected during an [[interview]] derives from the interviewee. CLI seeks to address some of the "threats to validity and reliability"<ref name=":2">Seidman, 2006</ref> that can occur ''during'' an interview and to increase the "[[trustworthiness]]" of the data collected.<ref>Lincoln & Guba, 1985</ref> It does this by employing a technique that minimises the ''unintended''  introduction of ''interviewer'' content, assumption, [[leading question]] structure, presupposition, framing, priming, tacit metaphor and nonverbal aspects such as paralanguage and gesture that may compromise the authenticity of the data collected.<ref name="Tosey, 2015">Tosey, 2015</ref>
+
+At the same time clean language interviewing seeks to minimise common ''interviewee'' biases, such as the ''consistency effect'', ''acquiescence bias'' and the ''friendliness effect'' which may mean an interviewee (unconsciously) looks for cues from the interviewer about how to answer.<ref>Podsakoff et al., 2003</ref>
+
+Furthermore, a systematic application of a 'cleanness rating' protocol provides a quantitive measure of adherence to interview guidelines and by extension the "confirmability" of the data collected.<ref name=":9">Nehyba & Lawley, 2020</ref><ref>Jensen, 2008</ref>
+
+CLI can be considered a [[phenomenology (psychology)|phenomenologically]]-based interview method, similar in intent to neuro- and micro-phenomenology,<ref>Petitmengin, 2017</ref> psycho-phenomenology,<ref>Mathison & Tosey, 2010</ref> phenomenography,<ref>Reid & Solomonides, 2007</ref> and Interpersonal Process Recall.<ref>Larson et al., 2008</ref> Clean interviewing can be seen as a method of operationalising the phenomenological aim of [[Bracketing (phenomenology)|bracketing (epoché)]].<ref name="Tosey, 2015" />
+
+CLI has the flexibility to be applied at four progressive levels of practice and principles:<ref name="Tosey, Cairns-Lee & Lawley, 2022">Tosey, Cairns-Lee & Lawley, 2022</ref>{{rp|10}}
+{{indent|10}}A questioning technique 
+{{indent|10}}A method of eliciting interviewee-generated metaphors 
+{{indent|10}}A method of studying how people do things 
+{{indent|10}}A coherent research strategy based on 'clean' principles.
+
+CLI is also an integral part of a new action research methodology, Modelling Shared Reality which suggests that by paying careful attention to the language they use, qualitative researchers can reduce undesired influence and unintended bias during all stages of research—design, data gathering, analysis and reporting.<ref name=":3">van Helsdingen & Lawley, 2012</ref>
+
+== History == 
+Clean interviewing derived from [[clean language]], the [[language model]] of therapeutic processes devised by David Grove<ref>Grove & Panzer, 1989</ref> which has since found application in education, business, organisational change, health and academic research.<ref name="Lawley & Tompkins, 2000">Lawley & Tompkins, 2000</ref>
+
+Grove devised the principles of clean language in the 1980s and continued to develop a specific question set until his death in 2008. Although Owen first suggested applying clean language to phenomenological research in 1996,<ref>Owen, 1996</ref> it was not until 2010 that the first systematic research into the veracity of the method was conducted and published in the ''British Journal of Management''.<ref name=":4">Tosey, Lawley & Meese, 2014</ref>
+
+Another milestone is the publication of ''Clean Language Interviewing: Principles and Applications for Researchers and Practitioners''.<ref name="Cairns-Lee, Lawley & Tosey, 2022">Cairns-Lee, Lawley & Tosey, 2022</ref> It consists of four chapters introducing the method and eleven chapters detailing the application of CLI to fields such as: journalism in Malaysia; the experience of autistic job applicants in the UK; parents of children diagnosed with encephalopathy in France; modelling an excellent case manager of autistic offenders in the UK; conflict resolution with gang leaders in Haiti; management systems auditing in Japan; serious injury or fatality investigations in the US, among others.{{citation needed|date=October 2025}}
+
+== Features == 
+The features of clean interviewing include: the specificity of the technique; minimising ''unintended'' influence; data collection from the perspective of the interviewee; its applicability to in-depth interviews; elicitation of autogenic metaphors; investigating [[tacit knowledge]]; modelling mental models; and the verifiability of the adherence to the method.<ref name=":4" /><ref name=":0">Lawley, 2017</ref><ref name=":8">Linder-Pelz & Lawley, 2015</ref><ref name="Nehyba & Svojanovsky, 2017">Nehyba & Svojanovsky, 2017</ref>
+
+CLI seeks to address the issues raised by research that demonstrates responses can materially be affected by: question construction;<ref>Loftus & Palmer, 1974</ref><ref>Harris, 1973</ref> framing;<ref>Tversky & Kahneman, 1981</ref> changing a single word;<ref>Loftus & Zanni, 1975</ref><ref>Heritage et al., 2007</ref> introduced metaphors;<ref>Thibodeau & Boroditsky, 2011</ref><ref>Thibideau & Boroditsky, 2013</ref> presupposition;<ref>Loftus, 1975</ref> and the nonverbal behaviour of the interviewer such as paralanguage<ref>Duncan et al., 1969</ref> and gesture.<ref>Gurney et al., 2013</ref> Furthermore, in these studies, not only did the subjects show little or no awareness of being subtly and systematically influenced, many reported their answers with a high degree of confidence.<ref>Loftus & Hoffman, 1989</ref>
+
+The amount of training required to become a proficient interviewer is commonly underestimated<ref>Cho, 2014</ref><ref>Kvale & Brinkmann, 2014</ref> and because of the rigour of the CLI technique, training and practice are required to become a competent clean language interviewer.<ref name="Nehyba & Svojanovsky, 2017" /><ref name=":4" />
+
+== Cleanness rating ==
+Roulston maintains "researchers must demonstrate the quality of their work in ways that are commensurate with their assumptions about their use of interviews"<ref name="Roulston, 2010">Roulston, 2010</ref>{{rp|193}} yet systematic methods for assessing the reliability and validity of the data collected during an interview are noticeably absent from published research.<ref>Mann, 2010</ref>
+
+A "cleanness rating" can be used to measure the proportion of 'clean' to 'leading' interviewer interventions and hence the authenticity or trustworthiness of the data collected (i.e. how much is sourced in the interviewee's lexicon and logic). "The principal benefit of the rating is to enhance reflexivity" and contribute to "methodological transparency by enabling researchers to report on confirmability".<ref name="Cairns-Lee, Lawley & Tosey, 2021">Cairns-Lee, Lawley & Tosey, 2021</ref>{{rp|19}}
+
+The rating was created in 2011<ref name=":4"/> and subsequently extended and formalised. An independent examination of interview transcripts allocates one of six categories (Classically clean; Clean repeat; Contextually clean; Mildly leading; Strongly leading; Other) to every question or statement made by the interviewer. The tabulated results are used to arrive at a summary assessment for each interview.<ref name="Cairns-Lee, Lawley & Tosey, 2021" />
+
+Interviewers experienced in CLI can consistently achieve over 85% of 'clean' interventions.<ref name=":0" /><ref name=":9" /> Whereas as many as two-thirds of the questions asked by an untrained interviewer may be 'leading'.<ref name="Nehyba & Svojanovsky, 2017" /> An [[inter-rater reliability]] analysis of 19 interviews from five research studies demonstrated substantial agreement among raters with an average intraclass correlation coefficient of 0.72 (95% CI).<ref name=":9" />
+
+== Critique == 
+The assumption that interviewers can minimise their influence on the collection of data has been questioned for several decades<ref>Mishler, 1986</ref> and the social constructivist school claims all knowledge is co-constructed.<ref>Silverman, 2006</ref> Practitioners of CLI do not claim it does not influence nor that it is "non-directive".<ref>Rogers, 1945</ref> They acknowledge that the interviewer's role is to set the overall purpose and direct the general flow of the interview<ref name=":2" /> and they emphasise that ''all'' questions, including clean questions, set frames, contain presuppositions and invite the interviewee to attend to certain aspects of his or her experience.<ref name="Lawley & Tompkins, 2000" /> Clean questions aim to stay within the lexicon and inherent logic expressed by the interviewee and leave them maximally free to answer from within his or her frames of reference. Tosey maintains that, "accounts are co-constructed through the ''process'' of selecting and asking questions. At the same time, Clean Language [Interviewing] aims to minimise the co-construction of the ''content''."<ref name="Tosey, 2015" />{{rp|205}}
+
+In ''inexperienced'' hands the questions may "feel scripted, mechanical and inappropriately therapeutic"<ref>Buetow, 2013, p.53</ref> and the "guidelines may be quite hard to follow, and rub up against a tension between sustaining neutrality and developing rapport" yet still "invite interviewees to talk about their inner world in their own way which could ideally create openness".<ref>Langley & Meziani, 2020, p.11</ref>
+
+As yet there has been no comprehensive test of the premise that interviews with a high cleanness rating result in higher quality data. Rather, an interview with a low cleanness rating may raise questions about compliance with research protocols and doubts about the authorship of the data collected.
+
+Other forms of interviewing would be more appropriate where the researcher intentionally aims for the 'co-construction of meaning' or to challenge and change the understandings of participants, as in 'transformative interviews'.<ref name="Roulston, 2010" />
+
+Some critics have maintained that the metaphor 'clean' is pejorative to other methods. Grove settled on the metaphor after discovering how others – including [[Carl Rogers]] the originator of "non-directive therapy"<ref>Tompkins & Lawley, 1996</ref> – (unwittingly) 'contaminate' another person's perceptions with introduced content and presupposition
+
+== Applications ==
+{{Prose|section|date=August 2022}}
+While clean interviewing is ideally suited to research, it has also been used by police interviewers, critical incident investigators and in commercial projects such as requirements gathering, [[market research]] and [[organisational change]]. There is scope for it to be applied in fields such as cognitive task analysis<ref>Clark et al., 2007</ref> and [[Naturalistic decision-making]].
+
+Examples of published research include:
+
+* Tacit and explicit [[knowledge acquisition]] among student teachers in Czech Republic.<ref name="Nehyba & Svojanovsky, 2017" /><ref>Cáscová, 2015</ref>
+* Comparison of the evidence of coach competency from three perspectives.<ref>Lawley & Linder-Pelz, 2016</ref> 
+* Elicitation of 30 European business leaders' metaphors and mental models of leadership and its development.<ref>Cairns-Lee, 2015</ref>
+* Coachees' experience and outcomes from a single coaching session.<ref name=":8" /> 
+* [[management metaphor|Managers' metaphors]] of [[work-life balance]].<ref name=":4" /> 
+* A Dutch case study into the role of knowledge in greening flood protection.<ref>Janssen et al., 2014</ref>
+* Iranian students' metaphors for their teachers.<ref>Akbari, 2013</ref>
+* A mid-term review of the Dutch ''Living with Water'' project.<ref name=":3" />  
+* Professional development planning at a UK university.<ref>Nixon & Walker, 2009</ref>
+* Legacy of war experiences of members of the [[Ulster Defence Regiment]].<ref>Snoddon, 2005</ref>
+* An investigation into how midwifery students approach sensitive decisions of pregnant women in The Netherlands.<ref>Sanders et al., 2018</ref>
+* A linguistic study of the [[intersubjectivity|(inter)subjectivity]] in people with a schizophrenia diagnosis.<ref>van Schuppen, 2021</ref>
+* An [[Interpretative phenomenological analysis|Interpretative Phenomenological Analysis]] of looking up at the sky.<ref>Conway, 2019</ref>
+* An exploration of the sea's positive effect on wellbeing.<ref>Sinclair, 2019</ref>
+
+In addition clean interviewing has been used in a range of PhD research topics:
+
+* Modelling curriculum design in higher education.<ref>Walker, 2021</ref>
+* A phenomenological multi-case study exploring the transformative potential of coaching conversations.<ref>Philmon, 2019</ref>
+* Ways in which [[pervasive media]] can contribute to a multimodal holistic user experience of the ambulant landscape.<ref>Calderwood, 2017</ref>
+* Factors that influence employment choices amongst older employees in Denmark.<ref>Hanley, 2018</ref>
+* An exploration of leadership and its development through the inner worlds of leaders using metaphor.<ref>Cairns-Lee, 2017</ref>
+* A model of spiritual leadership and self-development in a Spiritual Order in Malaysia.<ref>Munsoor, 2018</ref>
+* How older workers in the fire and rescue service deal with work-life balance issues as they approach retirement.<ref>Pickerden, 2013</ref>
+* Whether senior partners in legal services firms possess the core characteristics of identity to work in alignment within the firm.<ref>Vanson, 2011</ref>
+
+==See also==
+*[[Eyewitness memory]]
+*[[Misinformation effect]]{{sfn|Gurney|2013}}
+
+==Notes==
+{{reflist|colwidth=20em}}
+
+== References ==
+* {{cite journal | author = Akbari M | year = 2013 | title = Metaphors about EFL Teachers' Roles: A Case of Iranian Non-English-Major Students | url = | journal = International Journal of English Language & Translation Studies | volume = 1 | issue = 2| pages = 73–82 }}
+* {{cite journal | author = Buetow S | year = 2013 | title = The traveller, miner, cleaner and conductor: Idealized roles of the qualitative interviewer | url = | journal = Journal of Health Services Research & Policy | volume = 18 | issue = 1| pages = 51–54 | doi = 10.1258/jhsrp.2012.012085 | pmid = 23393043 }}
+* {{cite journal | author = Cairns-Lee H | year = 2015 | title = Images of Leadership Development From the Inside Out | url = | journal = [[Advances in Developing Human Resources]] | volume = 17 | issue = 3| pages = 321–336 | doi = 10.1177/1523422315587897 }}
+* Cairns-Lee, H. (2017) ''An Exploration of Leadership And Its Development Through The Inner Worlds of Leaders Using Metaphor''. (Doctoral dissertation) Surrey Business School, University of Surrey. http://epubs.surrey.ac.uk/845188/
+* {{cite journal | author = Cairns-Lee H., Lawley J., Tosey P. | year = 2021 | title = Enhancing researcher reflexivity about the influence of leading questions in interviews | url = | journal = The Journal of Applied Behavioral Science | volume =  58| issue = | pages =  164–188| doi = 10.1177/00218863211037446 }}
+* Cairns-Lee, H., Lawley, J. & Tosey, P. (2022), ''Clean Language Interviewing: Principles and Applications for Researchers and Practitioners'', Emerald Publishing Limited. {{doi|10.1108/9781801173308}}
+* Calderwood, J. (2017) ''Pervasive Media and Eudaimonia: Transdisciplinary Research by Practice''. (Doctoral dissertation) Leicester: De Montfort University.
+* Cásková, K. (2015). Sharing tacit knowledge of students with their training teacher. ''Pragmatism and Education 2015''. https://muni.cz/research/publications/1301031
+* {{cite journal | author = Cho Y | year = 2014 | title = Critiquing Research Interviews from a CA Perspective: Treating Interview as Social Practice | url = | journal = ARECLS | volume = 11 | issue = | pages = 35–54 }}
+* Clark, R.E., Feldon, D.F., van Merriënboer, J.J.G., Yates, K,A. & Early, S. (2007). Cognitive task analysis. In ''Handbook of Research on Educational Communications and Technology''. (Eds: J. Michael Spector et al.). 577-593. 
+* Conway, P. (2019). The Extraordinary in the Ordinary: SKYchology – An Interpretative Phenomenological Analysis of Looking Up at the Sky. Chapter 5, ''Proceedings of Presented Papers 5th Annual Applied Positive Psychology Symposium'' (Ed. G. M. Cseh). https://bucks.repository.guildhe.ac.uk/id/eprint/17819/
+* {{cite journal | author = Duncan S., Rosenberg M., Finkelstein J. | year = 1969 | title = The Paralanguage of Experimenter Bias | url = | journal = Sociometry | volume = 32 | issue = 2| pages = 207–219 | doi = 10.2307/2786264 | jstor = 2786264 }}
+* Grove, D.J. & Panzer, B.I. (1989) ''Resolving Traumatic Memories: Metaphors and Symbols in Psychotherapy''. Irvington, New York {{ISBN|0829024077}}
+* {{cite journal|author1=Gurney, D.|author2=Pine, K.|author3=Wiseman, R.|year=2013|title=The gestural misinformation effect: skewing eyewitness testimony through gesture|journal=American Journal of Psychology|volume=126|issue=3|pages=301–14|doi=10.5406/amerjpsyc.126.3.0301|pmid=24027944 |ref={{sfnref|Gurney|2013}}|hdl=2299/12767|hdl-access=free}}. {{JSTOR|10.5406/amerjpsyc.126.3.0301}}
+* Hanley, K. G. (2018) ''To work or not to work? That is the dilemma for older workers in Denmark, age 60+''. (Doctoral dissertation) University of Brighton.
+* {{cite journal | author = Harris R. J. | year = 1973 | title = Answering questions containing marked and unmarked adjectives and adverbs | url = | journal = Journal of Experimental Psychology | volume = 97 | issue = 3| pages = 399–401 | doi = 10.1037/h0034165 }}
+* {{cite journal | pmid = 17674111 | doi=10.1007/s11606-007-0279-0 | volume=22 | title=Reducing patients' unmet concerns in primary care: the difference one word can make | pmc=2305862 | year=2007 | journal=J Gen Intern Med | pages=1429–33 | author=Heritage J, Robinson JD, Elliott MN, Beckett M, Wilkes M | issue=10 }}
+* {{cite journal | author = Janssen S.K.H., Mol A.P.J., van Tatenhove J.P.M., Otter H.S. | year = 2014 | title = The role of knowledge in greening flood protection. Lessons from the Dutch case study future Afsluitdijk | url = | journal = Ocean & Coastal Management | volume = 95 | issue = | pages = 219–232 | doi = 10.1016/j.ocecoaman.2014.04.015 }}
+* Jensen, D. (2008). Confirmability. In L. Given (Ed.), ''The SAGE encyclopedia of qualitative research methods''. (p.&nbsp;112) Sage Publications.
+* Kvale, S., & Brinkmann, S. (2014). ''InterViews: Learning the craft of qualitative research interviewing'' (3rd ed.). Los Angeles: Sage Publications. {{ISBN|978-1452275727}}
+* {{cite journal | author = Langley A., Meziani N. | year = 2020 | title = Making interviews meaningful | url = | journal = Journal of Applied Behavioral Science | volume =  56| issue = 3| pages =  370–391| doi = 10.1177/0021886320937818 }}
+* {{cite journal | author = Larsen D. Flesaker, Rachel Stege R. | year = 2008 | title = Qualitative Interviewing Using Interpersonal Process Recall: Investigating Internal Experiences during Professional-Client Conversations | url = | journal = International Journal of Qualitative Methods | volume = 7 | issue = 1| pages = 18–37 | doi = 10.1177/160940690800700102 | doi-access = free }}
+* Lawley, J (2017). Clean Language Interviewing: Making qualitative research interviews verifiable. Chapter 3 in V. Švec, et al., ''Becoming a Teacher: The dance between tacit and explicit knowledge''. Brno: Masaryk University, pp.&nbsp;115–122. https://www.researchgate.net/publication/318598187
+* {{cite journal | author = Lawley J., Linder-Pelz S. | year = 2016 | title = Evidence of competency: exploring coach, coachee and expert evaluations of coaching | url = | journal = Coaching: An International Journal of Theory, Research and Practice | volume =  9| issue = 2| pages =  110–128| doi = 10.1080/17521882.2016.1186706 }}
+* Lawley, J., & Tompkins, P. (2000). ''Metaphors in Mind: Transformation through symbolic modelling''. London: The Developing Company Press. {{ISBN|9780953875108}}
+* Lincoln, Y.S. & Guba, E.G. (1985). ''Naturalistic Inquiry''. Newbury Park, CA: Sage Publications.
+* {{cite journal | author = Linder-Pelz S., Lawley J. | year = 2015 | title = Using Clean Language to explore the subjectivity of coachees' experience and outcomes | url = | journal = International Coaching Psychology Review | volume = 10 | issue = 2| pages = 161–174 | doi = 10.53841/bpsicpr.2015.10.2.161 }}
+* {{cite journal | author = Loftus E.F. | year = 1975 | title = Leading questions and the eyewitness report | url = | journal = Cognitive Psychology | volume = 7 | issue = 4| pages = 560–572 | doi = 10.1016/0010-0285(75)90023-7 }}
+* {{cite journal | author = Loftus E. F., Hoffman H. G. | year = 1989 | title = Misinformation and memory: The creation of new memories | url = | journal = Journal of Experimental Psychology: General | volume = 118 | issue = 1| pages = 100–104 | doi = 10.1037/0096-3445.118.1.100 | pmid = 2522502 }}
+* {{cite journal | author = Loftus E. F., Palmer J. C. | year = 1974 | title = Reconstruction of automobile destruction: An example of the interaction between language and memory | url = | journal = Journal of Verbal Learning and Verbal Behavior | volume = 13 | issue = 5| pages = 585–589 | doi = 10.1016/S0022-5371(74)80011-3 }}
+* {{cite journal | author = Loftus E. F., Zanni G. | year = 1975 | title = Eyewitness testimony: The influence of the wording of a question | url = | journal = Bulletin of the Psychonomic Society | volume = 5 | issue = 1| pages = 86–88 | doi = 10.3758/BF03336715 }}
+* {{cite journal | author = Mann  | year = 2010 | title = A Critical Review of Qualitative Interviews in Applied Linguistics | url = | journal = Applied Linguistics | volume = 32 | issue = 1| pages = 6–24 | doi = 10.1093/applin/amq043 }}
+* {{cite journal | author = Mathison J., Tosey P. | year = 2010 | title = Exploring Inner Landscapes: NLP and Psycho-phenomenology as innovations in researching first-person experience | url = | journal = Qualitative Research in Organizations and Management | volume = 5 | issue = 1| pages = 63–82 | doi = 10.1108/17465641011042035 }}
+* Mishler, E. G. (1986) ''Research Interviewing – Context and Narrative'', Cambridge MA: Harvard University Press. {{ISBN|9780674764613}}
+* Munsoor, M.S. (2018) ''Knowing Thyself: A Causal Model of Spiritual Leadership and Self-Development: A Case Study of the Naqshbandiyah Khalidiyah Spiritual Order in Malaysia''. (Doctoral thesis) Dept. of Aqida and Islamic Thought, Academy of Islamic Studies, University of Malaysia.
+* {{cite journal | author = Nehyba J., Lawley J. | year = 2020 | title = Clean Language Interviewing as a second-person method in the Science of Consciousness | url = https://www.ingentaconnect.com/contentone/imp/jcs/2020/00000027/f0020001/art00005 | journal = Journal of Consciousness Studies | volume = 27 | issue = 1–2| pages = 94–119 }}
+* Nehyba, J., & Svojanovský, P. (2017). Clean language as a data collection tool. Chapter 5 in ''Becoming a teacher: The dance between tacit and explicit knowledge'', Švec, V. et al., pp.&nbsp;130–147. https://www.researchgate.net/publication/318724048
+* Nixon, S., & Walker, C. (2009). Personal Development Planning – Inspiring Capability, chapter 11 in ''Enhancing Student Centred Learning in Business and Management, Hospitality, Leisure, Sport and Tourism'', Buswell, J. & Becket, N. (eds), HLST, Oxford Brookes University, Threshold Press.
+* Owen, R. I. (1996) Clean language: A linguistic-experiential phenomenology. ''Life in the glory of its radiating manifestations, 25th anniversary publication, Book I, Analecta Husserliana'', A.-T. Tymieniecka (Ed.) Vol. 48. pp.&nbsp;271–297. Dordrecht: Kluwer Academic.
+* {{cite journal | author = Petitmengin C | year = 2017 | title = Enaction as a lived experience: Towards a radical neurophenomenology | url = https://constructivist.info/12/2/139 | journal = Constructivist Foundations | volume = 12 | issue = 2| pages = 139–147 }}
+* Philmon, J. N. (2019) ''Pushing toward pushback: A phenomenological multi-case study exploring the transformative potential of coaching conversations''. Doctoral dissertation, Mercer University, Atlanta, GA. https://ursa.mercer.edu/handle/10898/12322
+* Pickerden, A. M. (2013) ''How do older workers in the fire & Rescue service deal with work life balance issues as they plan for, approach and transition through retirement?'' (Doctoral dissertation) University of Leicester.
+* {{cite journal | author = Podsakoff P.M., MacKenzie S. B., Lee J. Y., Podsakoff N. P. | year = 2003 | title = Common Method Biases in Behavioral Research: A Critical Review of the Literature and Recommended Remedies | url = | journal = Journal of Applied Psychology | volume = 88 | issue = 5| pages = 879–903 | doi = 10.1037/0021-9010.88.5.879 | pmid = 14516251 }}
+* {{cite journal | author = Reid A., Solomonides I. | year = 2007 | title = Design students' experience of engagement and creativity Art, Design & Communication | url = | journal = Higher Education | volume = 6 | issue = 1| pages = 27–39 | doi = 10.1386/adch.6.1.27_1 }}
+* {{cite journal | author = Rogers C. R. | year = 1945 | title = The nondirective method as a technique for social research | url = | journal = American Journal of Sociology | volume = 50 | issue = 4| pages = 279–283 | doi = 10.1086/219619 }}
+* {{cite journal | author = Roulston K | year = 2010 | title = Considering quality in qualitative interviewing | url = | journal = Qualitative Research | volume = 10 | issue = 2| pages = 193–207 | doi = 10.1177/1468794109356739 | doi-access = free }}
+* {{cite journal | author = Sanders J., de Vries R., Besseling S., Nieuwenhuijze M. | year = 2018 | title = 'Such a waste'–Conflicting communicative roles of Dutch midwifery students in childbirth decision making - | url = | journal = Midwifery | volume = 64 | issue = | pages = 115–121 | doi = 10.1016/j.midw.2018.06.007 | pmid = 30056933 }}
+* Seidman, I. (2006) ''Interviewing as qualitative research: A guide for researchers in education and the social sciences''. New York, NY: Teachers College Press.
+* Silverman, D. (2006) ''Interpreting Qualitative Data: Methods for Analysing Talk, Text, and Interaction'' (3rd Edition). London: Sage. {{ISBN|9781446295434}}
+* Sinclair, J. (2019). The Wave Model: A Holistic Exploration of the sea's positive effect on wellbeing. Chapter 6, ''Proceedings of Presented Papers 5th Annual Applied Positive Psychology Symposium'' (Ed. G. M. Cseh). https://bucks.repository.guildhe.ac.uk/id/eprint/17819/
+* Snoddon, M. (2005). Legacy of War: Experiences of members of the Ulster Defence Regiment, Conflict Trauma Resource Centre, Belfast.
+* {{cite journal | author = Thibodeau P.H., Boroditsky L. | year = 2011 | title = Metaphors We Think With: The Role of Metaphor in Reasoning | url = | journal = PLOS ONE | volume = 6 | issue = 2| article-number = e16782 | doi = 10.1371/journal.pone.0016782 | pmid = 21373643 | pmc = 3044156 | doi-access = free }}
+* {{cite journal | author = Thibodeau P.H., Boroditsky L. | year = 2013 | title = Natural Language Metaphors Covertly Influence Reasoning | url = | journal = PLOS ONE | volume = 8 | issue = 1| article-number = e52961 | doi = 10.1371/journal.pone.0052961 | pmid = 23301009 | pmc = 3534638 | doi-access = free }}
+* Tompkins, P., & Lawley, J. (1996) Interview: And, what kind of a man is David Grove? ''Rapport'', Issue 33, August. https://cleanlanguage.co.uk/articles/articles/37/
+* Tosey, P. (2015). And what kind of question is that? Thinking about the function of questions in qualitative interviewing. Chapter 14 in ''Handbook of Research Methods on Human Resource Development'', Saunders, M. N.K. & Tosey, P. (eds), Cheltenham: Edward Elgar. pp.&nbsp;200–216. {{ISBN|9781785367946}}
+* Tosey, P., Cairns-Lee, H. & Lawley, J. (2022), "An Introduction to Clean Language Interviewing for Research", In Cairns-Lee, H., Lawley, J. and Tosey, P. (Ed.) ''Clean Language Interviewing: Principles and Applications for Researchers and Practitioners,'' Emerald Publishing Limited, pp.&nbsp;3–16. {{doi|10.1108/978-1-80117-330-820221001}}
+* {{cite journal | author = Tosey P., Lawley J., Meese R. | year = 2014 | title = Eliciting Metaphor through Clean Language: An Innovation in Qualitative Research | url = | journal = British Journal of Management | volume = 25 | issue = 3| pages = 629–646 | doi = 10.1111/1467-8551.12042 }}
+* Tversky, A., & Kahneman, D. (1981). Framing of Decisions. ''Science'', 211(4481): 453–458. {{JSTOR|1685855}}
+* {{cite journal | author = van Helsdingen A., Lawley J. | year = 2012 | title = Modelling Shared Reality: avoiding unintended influence in qualitative research | url = http://academia.edu/attachments/30371322/download_file | journal = Kwalon: Journal of the Netherlands Association for Qualitative Research | volume =  17| issue = | page =  | doi = 10.5117/2012.017.003.043 }}
+* van Schuppen, L., Sanders, J. & van Krieken, K. (2021) Navigating Narrative Subjectivity in Schizophrenia: A Deictic Network Analysis of Narrative Viewpoints of Self and Other Inquiries. In Macagno, Fabrizio, Capone, Alessandro (Eds.) ''Inquiries in Philosophical Pragmatics: Issues in Linguistics''. Springer. {{doi|10.1007/978-3-030-56696-8_10}}
+* Vanson, S. (2011). ''Aligning identity in legal services firms: Do senior partners in legal services firms possess the core characteristics of identity to work in alignment within the firm?'' (Doctoral dissertation) University of Portsmouth.
+* Walker, C. (2021). ''Using clean language interviewing to model curriculum design in higher education: Curriculum design is like what?'' Doctoral thesis, Liverpool John Moores University, UK. https://researchonline.ljmu.ac.uk/id/eprint/15690/
+
+[[Category:Interviews]]

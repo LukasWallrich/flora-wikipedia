@@ -1,0 +1,111 @@
+{{Short description|Protein-coding gene in the species Homo sapiens}}
+{{cs1 config|name-list-style=vanc}}
+{{Infobox_gene}}
+'''TAS2R16''' ('''[[taste receptor]], type 2, member 16''') is a bitter taste receptor and one of the 25 TAS2Rs. TAS2Rs are receptors that belong to the G-protein-coupled receptors [[G protein-coupled receptor|(GPCRs]]) family. These receptors detect various bitter substances found in nature as [[agonist]]s, and get stimulated. TAS2R16 receptor is mainly expressed within taste buds present on the surface of the tongue and palate epithelium.<ref name="A natural point mutation in the bit">{{cite journal | vauthors = Itoigawa A, Hayakawa T, Suzuki-Hashido N, Imai H | title = A natural point mutation in the bitter taste receptor TAS2R16 causes inverse agonism of arbutin in lemur gustation | journal = Proceedings. Biological Sciences | volume = 286 | issue = 1904 | article-number = 20190884 | date = June 2019 | pmid = 31161904 | pmc = 6571456 | doi = 10.1098/rspb.2019.0884 }}</ref> TAS2R16 is activated by bitter β-glucopyranosides (such as salicin)<ref>{{cite journal | vauthors = Bufe B, Hofmann T, Krautwurst D, Raguse JD, Meyerhof W | title = The human TAS2R16 receptor mediates bitter taste in response to beta-glucopyranosides | journal = Nature Genetics | volume = 32 | issue = 3 | pages = 397–401 | date = November 2002 | pmid = 12379855 | doi = 10.1038/ng1014 | s2cid = 20426192 }}</ref>
+
+== Other names ==
+T2R16, Taste receptor 2 member 16, BGLPT.
+
+== Gene ==
+
+The receptor is encoded by the TAS2R16 human gene which located on the long (q) arm of [[chromosome 7]] at position 31.1-31.3, 997 bases.<ref>{{Cite web |last=GeneCards |title=TAS2R16 Gene: Taste 2 Receptor Member 16 |url=https://www.genecards.org/cgi-bin/carddisp.pl?gene=TAS2R16}}</ref><ref>{{Cite web |last=BitterDB |title=hTAS2R16 - Taste receptor type 2 member 16 |url=https://bitterdb.agri.huji.ac.il/Receptor.php?id=16}}</ref> This gene is specifically expressed by taste receptor cells of the tongue and palate epithelia. Different individuals may have variations in the TAS2R16 gene, which can influence their sensitivity or preference for certain bitter compounds.
+[[File:TAS2R16_receptor-_structure.png|alt= A convenient representation of the receptor sequence and its TM regions, shown here for hTAS2R16. The seven TM helices are displayed as predicted by Topcons. The most conserved residue in each helix X (BW number X.50) has black background. Residues for which mutation data are available are marked with red.|thumb|284x284px|2D transmembrane protein diagram]]
+
+== Structure ==
+TAS2R16 consists of 291 amino acids. Molecular weight: 33,986 (Da). The receptor has 7 transmembrane [[Alpha helix|helices]], 3 intracellular loops and 3 extracellular loops. there are some conserved residues (black) and residues for which mutagenesis data is available.<ref>{{cite journal | vauthors = Wiener A, Shudler M, Levit A, Niv MY | title = BitterDB: a database of bitter compounds | journal = Nucleic Acids Research | volume = 40 | issue = Database issue | pages = D413–D419 | date = January 2012 | pmid = 21940398 | doi = 10.1093/nar/gkr755 | pmc = 3245057 }}</ref>
+
+== Function ==
+The function of TAS2R16 is to bind to specific bitter-tasting molecules present in various foods, plants, and potentially harmful substances. When binding to these molecules, TAS2R16 initiates a signaling cascade that leads to the transmission of signals to the brain, which results in the perception of bitterness. TAS2R16 specifically is believed to play a central role in determining human preference to eat or avoid such vegetables with bitter β-glucosides, important dietary choices that ultimately influence human health.<ref name=":0">{{cite journal | vauthors = Thomas A, Sulli C, Davidson E, Berdougo E, Phillips M, Puffer BA, Paes C, Doranz BJ, Rucker JB | display-authors = 6 | title = The Bitter Taste Receptor TAS2R16 Achieves High Specificity and Accommodates Diverse Glycoside Ligands by using a Two-faced Binding Pocket | journal = Scientific Reports | volume = 7 | issue = 1 | page = 7753 | date = August 2017 | pmid = 28798468 | pmc = 5552880 | doi = 10.1038/s41598-017-07256-y | bibcode = 2017NatSR...7.7753T }}</ref>
+
+The signaling pathway includes two essential components of the well-established taste signal transduction cascade: phospholipase C isoform β2 ([[PLCB2|PLCβ2]]) and the ion channel known as transient receptor potential cation channel subfamily M member 5 ([[TRPM5]]).<ref>{{cite journal | vauthors = Jeruzal-Świątecka J, Fendler W, Pietruszewska W | title = Clinical Role of Extraoral Bitter Taste Receptors | journal = International Journal of Molecular Sciences | volume = 21 | issue = 14 | page = 5156 | date = July 2020 | pmid = 32708215 | doi = 10.3390/ijms21145156 | pmc = 7404188 | doi-access = free }}</ref> Ca2+-flux signaling assays are commonly used to measure the function of TAS2R16 and other GPCRs, so this measurement represents the key function of the receptor.<ref name=":0" />
+
+== Ligands (from BitterDB) ==
+There are 13 known ligands for TAS2R16.<ref>{{Cite web |title=hTAS2R16 - Taste receptor type 2 member 16 |url=https://bitterdb.agri.huji.ac.il/Receptor.php?id=16}}</ref>
+{| class="wikitable"
+|Diphenidol (synthetic)
+|D-salicin, Salicin
+|-
+|Sodium Benzoate (synthetic)
+|Phenyl beta -D-glucopyranoside
+|-
+|Amygdalin, D
+|Esculine Aesculin
+|-
+|Arbutin
+|2-Naphthyl beta-D-glucopyranoside
+|-
+|Helicin
+|Methyl beta-D-glucoside
+|-
+|sinigrin
+|2-nitro phenyl beta -D-glucopyranoside
+|}
+The most well-studied natural ligand of TAS2R16 is [[salicin]]. In previous researches which analyzed how this receptor binds and signals, 38 residues that may be involved in [[signal transduction]] and 13 residues that contribute to ligand-specific interactions, were found to be involved.<ref name=":0" />
+
+β-glucoside analogues are specific agonists of TAS2R16 in humans. These analogues, such as natural toxins, are molecular scafold consists of a D-glucose monosaccharide linked by an oxygen atom to a phenyl group. [[Arbutin]] was the first known natural inverse agonist for TAS2Rs.<ref name="A natural point mutation in the bit"/>
+
+Many plants, including cruciferous vegetables such as broccoli and brussels sprouts, contain bitter β-glucosides such as salicin, sinigrin, arbutin, and amygdalin.<ref name=":0" />
+
+== Single nucleotide polymorphisms ==
+Taste receptors harbor many polymorphisms, and several [[Single-nucleotide polymorphism|SNPs]] have a profound impact on the gene function and expression.<ref name=":1">{{cite journal | vauthors = Kurshed AA, Ádány R, Diószegi J | title = The Impact of Taste Preference-Related Gene Polymorphisms on Alcohol Consumption Behavior: A Systematic Review | journal = International Journal of Molecular Sciences | volume = 23 | issue = 24 | article-number = 15989 | date = December 2022 | pmid = 36555636 | doi = 10.3390/ijms232415989 | pmc = 9783388 | doi-access = free }}</ref>
+{| class="wikitable"
+! Alleles
+! SNP ID
+|-
+|A >  C, G
+|rs846664
+|-
+|C >  T
+|rs860170
+|-
+|C >  G, T
+|rs1204014
+|-
+|T >  C, G
+|rs978739
+|-
+|A > C, T
+|rs846672
+|-
+|G > A, C, T
+|rs1308724
+|}
+Recently studies have shown that mutation of the ''TAS2R16'' gene could affect the intake of vegetables and anti-inflammatory food, which would influence age-related inflammatory diseases and increase the human lifespan. In addition, polymorphism of the ''TAS2R16'' gene seems to affect body mass index, alcohol intake, smoking and drug compliance. Many bitter natural foods have the function of heat-clearing, detoxifying, anti-inflammatory, and antibacterial effects.<ref>{{cite journal | vauthors = Yuan G, Yan H, Liu Y, Ding X, Qi X, Qu K, Li F, Zhang J, Quji S, Lei C, Huang B, Zeng L | display-authors = 6 | title = ''TAS2R16'' introgression from banteng into indigenous Chinese cattle | journal = Animal Biotechnology | pages = 1681–1685 | date = January 2022 | volume = 34 | issue = 4 | pmid = 34974802 | doi = 10.1080/10495398.2021.2018334 | s2cid = 245645868 }}</ref>
+
+== Alcohol dependence ==
+[[Alcohol (drug)|Alcohol]] intake habits may be affected by the genetic diversity of taste preferences.<ref name=":1" /> Alcohol dependence is significantly associated with the coding single-nucleotide polymorphism (cSNP) K172N in the gene hTAS2R16, which codes for a taste receptor for bitter b-glucopyranosides. This gene is found on chromosome 7q in a region that has been linked to alcoholism in some studies. The risk of alcohol use is higher in people with the ancestral [[gene]] K172. Individuals with this allele are at increased risk of alcohol dependence, regardless of ethnicity. However, this risk allele is rare in European Americans, but 45% of African Americans carry the allele, makes it a much more significant risk factor in the African American population.<ref>{{cite journal | vauthors = Hinrichs AL, Wang JC, Bufe B, Kwon JM, Budde J, Allen R, Bertelsen S, Evans W, Dick D, Rice J, Foroud T, Nurnberger J, Tischfield JA, Kuperman S, Crowe R, Hesselbrock V, Schuckit M, Almasy L, Porjesz B, Edenberg HJ, Begleiter H, Meyerhof W, Bierut LJ, Goate AM | display-authors = 6 | title = Functional variant in a bitter-taste receptor (hTAS2R16) influences risk of alcohol dependence | journal = American Journal of Human Genetics | volume = 78 | issue = 1 | pages = 103–111 | date = January 2006 | pmid = 16385453 | pmc = 1380207 | doi = 10.1086/499253 }}</ref>
+
+== Longevity ==
+In a population of 941 individuals ranging from 60 to 106 years of age from the South of Italy, five significant associations between the SNPs in the chromosome 7 cluster and [[longevity]] was found, Three of them – observed in TAS2R16. SNP rs978739 showed a statistically significant association with longevity. The frequency of homozygotes A/A increases gradually from 35% in the subjects aged 20 to 70 up to 55% in centenarians.<ref>{{cite journal | vauthors = Campa D, De Rango F, Carrai M, Crocco P, Montesanto A, Canzian F, Rose G, Rizzato C, Passarino G, Barale R | display-authors = 6 | title = Bitter taste receptor polymorphisms and human aging | journal = PLOS ONE | volume = 7 | issue = 11 | article-number = e45232 | date = 2012-11-02 | pmid = 23133589 | pmc = 3487725 | doi = 10.1371/journal.pone.0045232 | bibcode = 2012PLoSO...745232C | veditors = Glendinning JI | doi-access = free }}</ref>
+
+== See also ==
+* [[Taste receptor]]
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+{{refbegin|30em}}
+* {{cite journal | vauthors = Kinnamon SC | title = A plethora of taste receptors | journal = Neuron | volume = 25 | issue = 3 | pages = 507–510 | date = March 2000 | pmid = 10774719 | doi = 10.1016/S0896-6273(00)81054-5 | doi-access = free }}
+* {{cite journal | vauthors = Margolskee RF | title = Molecular mechanisms of bitter and sweet taste transduction | journal = The Journal of Biological Chemistry | volume = 277 | issue = 1 | pages = 1–4 | date = January 2002 | pmid = 11696554 | doi = 10.1074/jbc.R100054200 | doi-access = free }}
+* {{cite journal | vauthors = Montmayeur JP, Matsunami H | title = Receptors for bitter and sweet taste | journal = Current Opinion in Neurobiology | volume = 12 | issue = 4 | pages = 366–371 | date = August 2002 | pmid = 12139982 | doi = 10.1016/S0959-4388(02)00345-8 | s2cid = 37807140 }}
+* {{cite journal | vauthors = Adler E, Hoon MA, Mueller KL, Chandrashekar J, Ryba NJ, Zuker CS | title = A novel family of mammalian taste receptors | journal = Cell | volume = 100 | issue = 6 | pages = 693–702 | date = March 2000 | pmid = 10761934 | doi = 10.1016/S0092-8674(00)80705-9 | s2cid = 14604586 | doi-access = free }}
+* {{cite journal | vauthors = Chandrashekar J, Mueller KL, Hoon MA, Adler E, Feng L, Guo W, Zuker CS, Ryba NJ | display-authors = 6 | title = T2Rs function as bitter taste receptors | journal = Cell | volume = 100 | issue = 6 | pages = 703–711 | date = March 2000 | pmid = 10761935 | doi = 10.1016/S0092-8674(00)80706-0 | s2cid = 7293493 | doi-access = free }}
+* {{cite journal | vauthors = Firestein S | title = The good taste of genomics | journal = Nature | volume = 404 | issue = 6778 | pages = 552–553 | date = April 2000 | pmid = 10766221 | doi = 10.1038/35007167 | s2cid = 35741332 | doi-access = free }}
+* {{cite journal | vauthors = Matsunami H, Montmayeur JP, Buck LB | title = A family of candidate taste receptors in human and mouse | journal = Nature | volume = 404 | issue = 6778 | pages = 601–604 | date = April 2000 | pmid = 10766242 | doi = 10.1038/35007072 | s2cid = 4336913 | bibcode = 2000Natur.404..601M }}
+* {{cite journal | vauthors = Bufe B, Hofmann T, Krautwurst D, Raguse JD, Meyerhof W | title = The human TAS2R16 receptor mediates bitter taste in response to beta-glucopyranosides | journal = Nature Genetics | volume = 32 | issue = 3 | pages = 397–401 | date = November 2002 | pmid = 12379855 | doi = 10.1038/ng1014 | s2cid = 20426192 }}
+* {{cite journal | vauthors = Zhang Y, Hoon MA, Chandrashekar J, Mueller KL, Cook B, Wu D, Zuker CS, Ryba NJ | display-authors = 6 | title = Coding of sweet, bitter, and umami tastes: different receptor cells sharing similar signaling pathways | journal = Cell | volume = 112 | issue = 3 | pages = 293–301 | date = February 2003 | pmid = 12581520 | doi = 10.1016/S0092-8674(03)00071-0 | s2cid = 718601 | doi-access = free }}
+* {{cite journal | vauthors = Fischer A, Gilad Y, Man O, Pääbo S | title = Evolution of bitter taste receptors in humans and apes | journal = Molecular Biology and Evolution | volume = 22 | issue = 3 | pages = 432–436 | date = March 2005 | pmid = 15496549 | doi = 10.1093/molbev/msi027 | doi-access = free }}
+* {{cite journal | vauthors = Go Y, Satta Y, Takenaka O, Takahata N | title = Lineage-specific loss of function of bitter taste receptor genes in humans and nonhuman primates | journal = Genetics | volume = 170 | issue = 1 | pages = 313–326 | date = May 2005 | pmid = 15744053 | pmc = 1449719 | doi = 10.1534/genetics.104.037523 }}
+* {{cite journal | vauthors = Mueller KL, Hoon MA, Erlenbach I, Chandrashekar J, Zuker CS, Ryba NJ | title = The receptors and coding logic for bitter taste | journal = Nature | volume = 434 | issue = 7030 | pages = 225–229 | date = March 2005 | pmid = 15759003 | doi = 10.1038/nature03352 | s2cid = 4383273 | bibcode = 2005Natur.434..225M }}
+* {{cite journal | vauthors = Hinrichs AL, Wang JC, Bufe B, Kwon JM, Budde J, Allen R, Bertelsen S, Evans W, Dick D, Rice J, Foroud T, Nurnberger J, Tischfield JA, Kuperman S, Crowe R, Hesselbrock V, Schuckit M, Almasy L, Porjesz B, Edenberg HJ, Begleiter H, Meyerhof W, Bierut LJ, Goate AM | display-authors = 6 | title = Functional variant in a bitter-taste receptor (hTAS2R16) influences risk of alcohol dependence | journal = American Journal of Human Genetics | volume = 78 | issue = 1 | pages = 103–111 | date = January 2006 | pmid = 16385453 | pmc = 1380207 | doi = 10.1086/499253 }}
+* {{cite journal | vauthors = Behrens M, Bartelt J, Reichling C, Winnig M, Kuhn C, Meyerhof W | title = Members of RTP and REEP gene families influence functional bitter taste receptor expression | journal = The Journal of Biological Chemistry | volume = 281 | issue = 29 | pages = 20650–20659 | date = July 2006 | pmid = 16720576 | doi = 10.1074/jbc.M513637200 | doi-access = free }}
+{{refend}}
+
+== External links ==
+* {{GeneCard|TAS2R16}}
+* {{MeshName|TAS2R16+protein,+human}}
+
+{{G protein-coupled receptors|g3}}
+
+[[Category:Human taste receptors]]

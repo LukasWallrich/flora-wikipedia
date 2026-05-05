@@ -1,0 +1,81 @@
+{{short description|American academic}}
+{{Infobox scientist
+| name              = Bernd Herbert Schmitt
+| birth_date        = {{birth date and age|1957|10|22}}<ref>{{cite web |title=Bernd Schmitt |url=https://entities.oclc.org/worldcat/entity/E39PBJpDTdMCJpdFYTqqcVvrbd.html |publisher=[[WorldCat]] |access-date=26 December 2025}}</ref>
+| birth_place       = [[Heidelberg]], [[Germany]]
+| field             = [[Marketing]]
+| workplaces        = [[Columbia Business School]], New York City
+| alma_mater        = {{unbulleted list|[[University of Heidelberg]]|[[Cornell University]]}}
+| thesis_title      = Functional orientations toward advertisements and consumer products
+| thesis_url        = https://catalog.library.cornell.edu/catalog/1602383
+| thesis_year       = 1988
+| doctoral_advisor  = [[Daryl Bem]]<ref>{{cite web |title=Cornell Alumni News |url=https://ecommons.cornell.edu/server/api/core/bitstreams/da6b0a7e-e45c-44cc-9e9b-2d8fb1298890/content |archive-url=https://web.archive.org/web/20240623012754/https://ecommons.cornell.edu/server/api/core/bitstreams/da6b0a7e-e45c-44cc-9e9b-2d8fb1298890/content |archive-date=23 June 2024 |page=29 |date=July 1983}}</ref>
+| website           = {{URL|http://www.meetschmitt.com}}
+}}
+'''Bernd Herbert Schmitt''' is an American marketing researcher. He is the Robert D. Calkins Professor of International Business at [[Columbia Business School]] in New York City. Schmitt works in the fields of [[brand management]] and [[customer experience]].
+
+== Biography ==
+Schmitt was born in [[Heidelberg]], Germany,<ref>{{cite news |last1=Boller |first1=Andreas |title=So funktioniert Marketing morgen |url=https://www.wz.de/nrw/wuppertal/marketingexperte-aus-new-york-doziert-an-der-bergischen-universitaet_aid-37878001 |access-date=24 December 2025 |work=[[Westdeutsche Zeitung]] |date=4 April 2019 |language=de}}</ref> and attended the [[University of Heidelberg]], from which he earned a Master’s degree in psychology in 1984. Four years later, he received a PhD in psychology from [[Cornell University]]. Schmitt joined [[Columbia University]] in 1988 and became professor in 1998. A year later, he founded the Center on Global Brand Leadership, serving as its first director. In 2003, he was named the Robert D. Calkins Professor of International Business.<ref name="cv">{{cite web |title=Schmitt, Bernd Vitae June 2024 |url=https://business.columbia.edu/sites/default/files-efs/person/cv/Schmitt%2C%20Bernd%20Vitae%20June%202024%20.pdf |publisher=[[Columbia Business School]] |access-date=24 December 2025 |date=June 2024}}</ref>
+
+Schmitt has been researching and teaching in Asia since the early 1990s.<ref name="st"/> In 1996, he was appointed head of Marketing at the [[China Europe International Business School]], the first marketing chair in Asia, a position he held until 2000.<ref name="cv"/><ref>{{cite book |last1=Croll |first1=Elisabeth |title=China's New Consumers: Social Development and Domestic Demand |date=2006 |publisher=[[Taylor & Francis]] |isbn=978-1134220533 |quote=The article quotes Bernd Schmitt, an expert in consumer behaviour from Columbia Business School in New York and China's first professor of marketing}}</ref> Later, in 2011, he began a two-year term in Singapore to lead the newly created Institute on Asian Consumer Insight at [[Nanyang Technological University]].<ref name="st">{{cite news |last1=Lim |first1=Jessica |title=Buying into branding: Asian firms focus on products and neglect customer experience: Marketing guru |work=[[The Straits Times]] |date=14 December 2011}}</ref>
+
+Schmitt studies marketing, brand management, and customer experience. He has authored nine books translated into more than 30 languages,<ref>{{cite web |last1=Blass |first1=Uwe |title=Wuppertal... and the untapped innovation potential of an exciting city |url=https://www.uni-wuppertal.de/en/transfer/science-communication/transfer-stories/transfer-stories-2019/prof-dr-bernd-schmitt/ |publisher=[[University of Wuppertal]] |access-date=24 December 2025 |date=10 July 2019}}</ref> in one of these, he became the first to introduce the term "[[experiential marketing]]".<ref>{{cite journal |last1=Srivastava |first1=Rajesh Kumar |title=How experiential marketing can be used to build brands - a case study of two specialty stores |journal=[[Innovative Marketing]] |date=2008 |volume=4 |issue=2 |page=70 |url=https://www.businessperspectives.org/images/pdf/applications/publishing/templates/article/assets/2234/IM_en_2008_2_Srivastava.pdf}}</ref> He has served on the marketing boards of [[Volkswagen]] and [[Samsung]] and was the CEO of a small consulting firm. From 2021 to 2024, Schmitt served as the editor-in-chief of the ''[[Journal of Consumer Research]]''.<ref name="cv"/>
+
+== Publications ==
+=== Books ===
+{{refbegin}}
+*{{cite book |last1=Schmitt |first1=Bernd H. |author1-mask=1|title=The changing face of the Asian consumer: insights and strategies for Asian markets |publisher=[[McGraw-Hill Education]] |isbn= 978-1259071010|date=2014}}
+*{{cite book |last1=Schmitt |first1=Bernd H. |author1-mask=1|last2=Van Zutphen|first2=Glenn|title=Happy Customers Everywhere: How Your Business Can Profit from the Insights of Positive Psychology |publisher=[[Palgrave Macmillan]] |isbn=978-0230116450|date=2012}}<ref>Review of ''Happy Customers Everywhere'':
+* Aron, D. (2012).  ''Choice''. ''50'' (3): 534. {{ProQuest|1173408086}}
+</ref>
+*{{cite book |last1=Schmitt |first1=Bernd H. |author1-mask=1|title=Big Think Strategy: How to Leverage Bold Ideas and Leave Small Thinking Behind |publisher=[[Harvard Business School Press]] |isbn=978-1422103210|date=2007}}<ref>Review of ''Big Think Strategy'':
+* (2008). ''Reference and Research Book News''. ''23'' (2). {{ProQuest|199768967}}
+* Vogl, A. J. (2008).  ''The Conference Board Review''. ''45'' (1): 94. {{ProQuest|205278561}}
+</ref>
+*{{cite book |last1=Schmitt |first1=Bernd H. |author1-mask=1|last2=Mangold|first2=Marc|title= Kundenerlebnis als Wettbewerbsvorteil: Mit Customer Experience Management Marken und Märkte Gewinn bringend gestalten | trans-title=Customer Experience as a Competitive Advantage:Designing Brands and Markets Profitably with Customer Experience Management|language=de|publisher=[[Springer Gabler]] |isbn= 978-3409127295|date=2004}}
+*{{cite book |last1=Schmitt |first1=Bernd H. |author1-mask=1|title=Customer Experience Management: A Revolutionary Approach to Connecting with Your Customers |publisher=[[Wiley (publisher)|Wiley]] |isbn= 978-0471237747|date=2003}}<ref>Review of ''Customer Experience Management'':
+*Dussart, Christian (2004).  ''Décisions Marketing'' (34): 99. {{ProQuest|220538924}}
+</ref>
+*{{cite book |last1=Schmitt |first1=Bernd H. |last2=Rogers|first2=David L. |author1-mask=1|last3=Vrotsos|first3=Karen|title=There's No Business That's Not Show Business: Marketing in an Experience Culture |publisher=[[FT Press]] |isbn=978-0130471192|date=2003}}<ref>Review of ''There's No Business That's Not Show Business'':
+*Eroglu, Sevgin; Mostellerm, Jill (2005). ''Journal of Marketing Research''. ''15'' (1): 81–82. {{doi|10.1509/jmkr.42.1.116.56892}}
+*Beckwith, Deanne (2004). ''Design Management Review''. ''15'' (1): 89. {{ProQuest|202961527}}
+</ref>
+*{{cite book |last1=Schmitt |first1=Bernd H. |last2=Brown|first2=Laura |author1-mask=1|title=Build Your Own Garage: Blueprints and Tools to Unleash Your Company's Hidden Creativity |publisher=Free Press |isbn=978-0743202602|date=2001}}<ref>Review of ''Build Your Own Garage'':
+*Saia, Rick (2001).  ''Computerworld''. ''35'' (43): 38. {{ProQuest|216085800}}
+*Rotella, Mark; Gold, Sarah F.; Andriani, Lynn (2001).  ''Publishers Weekly'' ''248'' (35): 72. {{ProQuest|197035879}}
+</ref>
+*{{cite book |last1=Schmitt |first1=Bernd H. | author1-mask=1 |title=Experiential Marketing: How to Get Customers to Sense, Feel, Think, Act, Relate  |publisher=Free Press |isbn=978-0684854236|date=1999}}
+*{{cite book |last1=Schmitt |first1=Bernd H. |last2=Simonson | author1-mask=1|first2=Alex |title=Marketing Aesthetics: The Strategic Management of Brands, Identity and Image |publisher=[[Free Press (publisher)|Free Press]] |isbn=978-0684826554|date=1997}}<ref>Review of ''Marketing Aesthetics'':
+*Hardy, Tom (1999). ''Design Issues''. ''15'' (1): 81–82. {{doi|10.2307/1511791}}
+*Rivett, David (1998). ''Journal of Brand Management''. ''6'' (1): 136–137. {{doi|10.1057/bm.1998.55}}
+*G.R.P. (1998). ''The Trademark Reporter''. ''88'' (1): 89. 
+</ref>
+{{refend}}
+
+=== Selected papers and book chapters ===
+{{refbegin}}
+*{{cite journal|last1=D. Hoyer |first1=Wayne | last2=Kroschke|first2=Mirja|last3=Schmitt |first3=Bernd H.|author3-mask=1| last4=Kraume|first4=Karsten|last5=Shankar|first5=Venkatesh|date=2020|title=Transforming the Customer Experience through New Technologies|journal=Journal of Interactive Marketing|volume=51|issue=1|pages=57–71|doi=10.1016/j.intmar.2020.04.001}}
+*{{cite journal|last1=Schmitt |first1=Bernd H. | author1-mask=1 | date=2015|title=The consumer psychology of brands|journal=Handbuch Sozialtechniken der Kommunikation|pages=1–13|doi=10.1007/978-3-658-05262-1_21-1}}
+*{{cite journal|last1=Schmitt |first1=Bernd H. | author1-mask=1 | date=2011|title=The consumer psychology of brands|journal=Journal of Marketing Management|volume=22|issue=1|pages=7–17|doi=10.1016/j.jcps.2011.09.005}}
+*{{cite journal|last1=Zarantonello |first1=Lia |last2=Schmitt |first2=Bernd H.| author2-mask=1 | date=2010|title=Using the brand experience scale to profile consumers and predict consumer behaviour|journal=Journal of Brand Management |volume=17|issue=7|pages=532–540|doi=10.1057/bm.2010.4}}
+*{{cite journal|last2=Schmitt |first2=Bernd H. | last1=Brakus|first1=J. Josko|last3=Zarantonello|first3=Lia |author2-mask=1 | date=2009 |title=Brand Experience: What is It? How is it Measured? Does it Affect Loyalty?|journal=Journal of Marketing|volume=73|issue=3|pages=52–68|doi=10.1509/jmkg.73.3.052}}
+*{{cite journal|last1=Esch |first1=Franz-Rudolf | last2=Langner|first2=Tobias|last3=Schmitt |first3=Bernd H.|author3-mask=1 | last4=Geus|first4=Patrick|date=2006|title=Are brands forever? How brand knowledge and relationships affect current and future purchases|journal=Journal of Product & Brand Management|volume=15|issue=2|pages=98–105|doi=10.1108/10610420610658938}}
+*{{cite journal|last1=Schmitt |first1=Bernd H. | author1-mask=1 | date=1999|title=Experiential Marketing|journal=Journal of Marketing Management|volume=15|issue=1–3|pages=53–67|doi=10.1362/026725799784870496}}
+*{{cite journal|last1=Leclerc |first1=France | last2=Schmitt |first2=Bernd H. |author2-mask=1 | last3=Dube|first3=Laurette|date=1994|title=Foreign Branding and Its Effects on Product Perceptions and Attitudes|journal=Journal of Marketing Management|volume=31|issue=2|pages=263–270|doi=10.1177/002224379403100209}}
+{{refend}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://business.columbia.edu/faculty/people/bernd-schmitt Bernd Schmitt] at [[Columbia University]]
+* [https://web.archive.org/web/20120630185133/http://www.aci-institute.com/index.php/web/about_aci/acis-executive-director/1/77 Bernd Schmitt], Executive Director of Institute on Asian Consumer Insight (ACI)
+
+{{Authority control}}
+
+{{DEFAULTSORT:Schmitt, Bernd}}
+[[Category:Columbia University faculty]]
+[[Category:Columbia Business School faculty]]
+[[Category:Living people]]
+[[Category:1957 births]]
+[[Category:Writers from Heidelberg]]

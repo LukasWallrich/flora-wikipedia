@@ -1,0 +1,39 @@
+{{Short description|Paper product's mass per unit volume}}
+[[File:Waage.Filter.jpg|thumb|Weighing scale to determine paper weight]]
+'''Paper density''' measures a [[paper]] product's [[mass]] per [[unit of volume|unit]] [[volume]].
+
+== Measurement ==
+The [[density]] can be calculated by [[division (mathematics)|dividing]] the [[grammage]] of paper (in [[grams per square metre]] or "gsm") by its [[Grammage#Caliper|caliper]] (usually in [[micrometre]]s, occasionally in [[thousandth of an inch|mil]]s).<ref>{{cite web |title=Structural Characteristics of Paper |url=http://ipst.gatech.edu/faculty/ragauskas_art/technical_reviews/paper%20characteristics.pdf |url-status=dead |archive-url=https://web.archive.org/web/20160629120200/http://ipst.gatech.edu/faculty/ragauskas_art/technical_reviews/paper%20characteristics.pdf |archive-date=2016-06-29 |access-date=2015-08-15 |work=Georgia Tech}}</ref>
+
+In countries that did not adopt the metric system, paper density is often measured in ''basis weight''. This measuring system expresses the density of paper by weighing a set number of so-called ''basis sheets''. These are the sheets produced when the continuous paper product made by a paper mill is first cut into pieces. Basis sheets are usually 17.5 inches by 22.5 inches. Sheets of this size are then cut and trimmed into four sheets of standard 8.5" x 11" office paper or two sheets of 8.5" x 14" legal paper.
+
+The weight in pounds of a ream of basis paper (500 sheets) is used to express the density of any paper produced from it. The term ''basis'' is sometimes abbreviated by the Latin term ''sub''. Paper of 20 lbs basis weight will then be called "sub 20" on any subsequent packaging. More recent Imperial paper densities are most often indicated by a simple weight of one ream of basis paper, e.g., as "20 lbs", "24 pound" or "32#" paper.
+
+The "[[ISO]] 534:2011, Paper and board — Determination of thickness, density and specific volume" indicates that the paper density is expressed in [[gram per cubic centimeter|grams per cubic centimeter]] (g/cm<sup>3</sup>).<ref>{{cite web |url=https://www.iso.org/obp/ui/#iso:std:53060:en |title=ISO 534:2011(en) Paper and board — Determination of thickness, density and specific volume}}</ref>
+
+== Perception and use ==
+Some research in consumer and social psychology suggests that the weight of materials can act as a haptic cue that influences judgments (for example, impressions of "importance" or "seriousness"). In print contexts, heavier card stock is sometimes used for items such as business cards to convey a more "substantial" feel, although reported effects are context-dependent and not consistently replicated.<ref name="Ackerman2010">{{cite journal |last1=Ackerman |first1=Joshua M. |last2=Nocera |first2=Christopher C. |last3=Bargh |first3=John A. |year=2010 |title=Incidental Haptic Sensations Influence Social Judgments and Decisions |journal=Science |volume=328 |issue=5986 |pages=1712–1715 |doi=10.1126/science.1189993 |pmid=20576894 |pmc=3005631 }}</ref><ref name="Jha2020">{{cite journal |last=Jha |first=Sƒhweta |year=2020 |title=The Effects of Environmental Haptic Cues on Consumer Responses |journal=Journal of Consumer Research |volume=47 |issue=6 |pages=917–942 |doi=10.1093/jcr/ucz064 |doi-broken-date=14 January 2026 }}</ref><ref name="Krishna2024">{{cite journal |last=Krishna |first=Aradhna |year=2024 |title=Touch in consumer behavior: A review |journal=Journal of Consumer Psychology |doi=10.1002/jcpy.1413}}</ref>
+
+==See also==
+* [[Grammage]]
+* [[Density]]
+** [[Area density]]
+** [[Linear density]]
+* {{interlanguage link|Paper bulk|fr|Main (papeterie)|de|Main (Einheit)}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.paper-papers.com/paper-weights.html Understanding Paper Weights]
+* [http://www.staples.com/sbd/cre/products/perm/merch020622_paper_buying/index.html Understanding paper weight] ([[Staples, Inc.]])
+* [https://web.archive.org/web/20120208153634/http://www.casepaper.com/calc_mweight.htm M-weight Calculator]
+* [http://calculatas.com/ Paper Weight Calculator]
+
+{{Paper}}
+
+[[Category:Paper]]
+[[Category:Printing]]
+
+
+{{material-stub}}

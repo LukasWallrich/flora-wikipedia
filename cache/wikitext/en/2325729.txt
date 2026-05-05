@@ -1,0 +1,61 @@
+{{Short description|Pleasurable emotional reaction of happiness}}
+[[Image:Kevin Durant gold medal 2010.jpg|thumb|American basketball player [[Kevin Durant]], after receiving the gold medal at the 2010 [[FIBA World Championship]]]]
+{{Emotion}}
+
+'''Gratification''' is the [[pleasurable]] [[Emotion|emotional]] reaction of [[happiness]] in response to a fulfillment of a [[desire (emotion)|desire]] or goal. It is also identified as a response stemming from the fulfillment of social needs such as affiliation, socializing, social approval, and mutual recognition.<ref>{{Cite book|title=Third International Conference on System Science in Health Care: Troisième Conférence Internationale sur la Science des Systèmes dans le Domaine de la Santé|last1=van Eimeren|first1=W.|last2=Engelbrecht|first2=R.|last3=Flagle|first3=Ch.D.|publisher=Springer Verlag|year=2012|isbn=9783642699412|location=Berlin|pages=888}}</ref> 
+
+Gratification, like all emotions, is a motivator of behavior and plays a role in the entire range of [[Social sciences|human social systems]].
+
+== Causes ==
+The emotion of gratification is the result of accomplishing a certain goal or achieving a reward. Gratification is an outcome of specific situations and is induced through the completion of and as a consequence of these situations. Specifically, gratification may be experienced after achieving a long-term goal, such as graduating from college, buying one's first house, or getting one's dream job.{{citation needed|date=August 2015}} 
+
+== Immediate and delayed gratification ==
+{{main|Delayed gratification}} 
+The term '''immediate gratification''' is often used to label the satisfactions gained by more impulsive behaviors: choosing now over tomorrow.<ref>R. F. Baumeister/B. J. Bushman, ''Social Psychology and Human Nature'' (2010) p. 49</ref>  The skill of giving preference to long-term goals over more immediate ones is known as [[deferred gratification]] or [[patience]], and it is usually considered a [[virtue]], producing rewards in the long term.<ref>Baumeister, p. 120</ref> There are sources who claim that the [[prefrontal cortex]] plays a part in the incidence of these two types of gratification, particularly in the case of delayed gratification since one of its functions involve predicting future events.<ref>{{Cite book|title=The Prefrontal Cortex|url=https://archive.org/details/prefrontalcortex00fust_846|url-access=limited|last=Fuster|first=Joaquin|publisher=Academic Press|year=2008|isbn=9780123736444|location=London|pages=[https://archive.org/details/prefrontalcortex00fust_846/page/n277 263]}}</ref><ref>{{Cite book|title=The Psyche in Chinese Medicine: Treatment of Emotional and Mental Disharmonies with Acupuncture and Chinese Herbs|last=Maciocia|first=Giovanni|publisher=Elsevier Health Sciences|year=2009|isbn=9780702029882|location=Edinburgh|pages=303}}</ref>
+
+[[Walter Mischel]] developed the well-known [[marshmallow experiment]] to test gratification patterns in four-year-olds, offering one marshmallow now or two after a delay.<ref>Daniel Goleman, ''Emotional Intelligence'' (1996) p. 79-80</ref> He discovered in long-term follow-up that the ability to resist eating the marshmallow immediately was a good predictor of success in later life.  However, [[Tyler W. Watts]], [[Greg J. Duncan]], and [[Haonan Quan]], published ''Revisiting the Marshmallow Test: A Conceptual Replication Investigating Links Between Early Delay of Gratification and Later Outcomes''<ref>{{Cite journal | doi=10.1177/0956797618761661 | pmid=29799765| pmc=6050075| title=Revisiting the Marshmallow Test: A Conceptual Replication Investigating Links Between Early Delay of Gratification and Later Outcomes| journal=Psychological Science| volume=29| issue=7| pages=1159–1177| year=2018| last1=Watts| first1=Tyler W.| last2=Duncan| first2=Greg J.| last3=Quan| first3=Haonan}}</ref> debunking the original [[marshmallow experiment]]. Concluding that "This bivariate correlation was only half the size of those reported in the original studies and was reduced by two thirds in the presence of controls for family background, early cognitive ability, and the home environment. Most of the variation in adolescent achievement came from being able to wait at least 20 s. Associations between delay time and measures of behavioral outcomes at age 15 were much smaller and rarely statistically significant."
+
+===Criticism===
+While one might say that those who lack the skill to delay are [[maturity (psychological)|immature]], an excess of this skill can create problems as well; i.e. an individual becomes inflexible, or unable to take pleasure in life ([[anhedonia]]) and seize opportunities for fear of adverse consequences.<ref>Eric Berne, ''Sex in Human Loving'' (1970) p. 151</ref> 
+
+There are also circumstances, in an uncertain/negative environment, when seizing gratification is the rational approach,<ref>Frank Munger, ''Labouring Below the Line'' (2007) p. 274</ref> as in wartime.<ref>James Holland, ''The Battle of Britain'' (2010) p. 735-9</ref>
+
+== Emotional gratification ==
+Emotional gratification is a motivating force that results from the gratifying effects of emotions. The emotional reaction of emotional gratification is itself caused by emotions, resulting in a circular model of this complex interaction. Emotions themselves can instigate different varieties of gratification, ranging from hedonic outcomes to more psychologically beneficial outcomes.<ref>{{Cite journal|last1=Bartsch|first1=Anne|last2=Viehoff|first2=Reinhold|date=2010-01-01|title=The Use of Media Entertainment and Emotional Gratification|journal=Procedia - Social and Behavioral Sciences|series=WCPCG 2010|language=en|volume=5|pages=2247–2255|doi=10.1016/j.sbspro.2010.07.444|issn=1877-0428|doi-access=free}}</ref>
+
+==Bipolar disorder==
+
+Gratification is a major issue in [[bipolar disorder]]. One sign of the onset of [[depression (mood)|depression]] is a spreading loss of the sense of gratification in such immediate things as [[friendship]], jokes, conversation, food and [[Sexual intercourse|sex]].<ref>[[Aaron T. Beck]]/Brad A. Alford, ''Depression'' (2009) p. 19</ref> Long-term gratification seems even more meaningless.<ref>Beck, p. 28</ref> 
+
+By contrast, the [[Mania|manic]] can find gratification in almost anything, even a leaf falling, or seeing their crush for example.<ref>Beck, p. 96</ref> There is also the case of the so-called manic illusion of gratification, which is analogous to an infant's illusion of obtaining food. Here, if the food is not given right away, he fantasizes about it and this eventually give way to stronger emotions such as anger and depression.<ref>{{Cite book|title=The Treatment of Bipolar Disorder in Pastoral Counseling: Community and Silence|last1=Welton|first1=Welton|last2=David|first2=Koenig|last3=Harold|publisher=Routledge|year=2014|isbn=9780789030429|location=New York}}</ref>
+
+==See also==
+{{columns-list|colwidth=30em|
+*[[Contentment]]
+*[[Cost-benefit analysis]]
+*[[Pleasure]]
+*[[Social sciences]]
+*[[Uses and gratifications theory]]
+*[[Utilitarianism]]
+}}
+
+==References==
+{{Reflist|2|}}
+
+==Further reading==
+{{Wiktionary}}
+{{Wikiquote}}
+* {{Cite journal | doi=10.1002/(SICI)1099-0771(200004/06)13:2<233::AID-BDM325>3.0.CO;2-U |title = The economics of immediate gratification|journal = Journal of Behavioral Decision Making|volume = 13|issue = 2|pages = 233–250|year = 2000|last1 = O'Donoghue|first1 = Ted|last2 = Rabin|first2 = Matthew|url=https://eva.fcs.edu.uy/pluginfile.php/120434/mod_resource/content/1/3_5.pdf <!-- https://web.archive.org/web/20140630055149/http://eml.berkeley.edu/~rabin/jbdmfinal.pdf -->|url-access = subscription}} - An academic paper treating gratification and self-control problems
+
+{{Emotion-footer}}
+
+[[Category:Happiness]]
+[[Category:Motivation]]
+[[Category:Positive mental attitude]]
+
+[[bg:Удовлетворение]]
+[[ca:Satisfacció]]
+[[es:Satisfacción]]
+[[fr:Satisfaction]]
+[[it:Soddisfazione]]
+[[scn:Sudisfazzioni]]

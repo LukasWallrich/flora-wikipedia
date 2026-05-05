@@ -1,0 +1,195 @@
+{{Short description|none}}
+The desire to learn is often related to the concept of '''motivation'''. Motivation is the most-used concept for explaining the failure or success of a language learner.<ref name=":0" /> '''[[Second language]]''' (L2) refers to a language an individual learns that is not his/her [[mother tongue]], but is of use in the area of the individual.  (It is not the same as a foreign language, which is a language learned that is not generally spoken in the individual's area.) Research on [[motivation]] can treat the concept of motivation as an internal process that gives behavior energy, direction and persistence<ref>
+{{cite book
+ |last1                = Reeve
+ |first1               = Johnmarshall
+ |author-link1         = Johnmarshall Reeve
+ |date                 = 18 January 2018
+ |orig-date            = 2009
+ |title                = Understanding Motivation and Emotion
+ |url                  = https://books.google.com/books?id=CvhcDwAAQBAJ
+ |edition              = 7
+ |publication-place    = Hoboken, New Jersey
+ |publisher            = John Wiley & Sons
+ |pages                = 2, 8
+ |isbn                 = 9781119367604
+ |access-date          = 14 January 2025
+ |quote                = Motivation is a condition inside us that desires a change - a change in the self or a change in the environment. [...] ''The study of motivation concerns those internal processes that give the behavior its energy, direction, and persistence.''
+}} 
+</ref>
+(in other words, motivation gives behavior strength, purpose, and sustainability).{{citation needed|date=January 2025}}
+Learning a new language takes time and dedication. Once achieved, fluency in a second language offers numerous benefits and opportunities. Learning a second language is exciting and beneficial at all ages. It offers practical, intellectual and many aspirational benefits.
+In learning a language, there can be one or more goals – such as mastery of the language or communicative competence – that vary from person to person. There are a number of '''language learner motivation''' models that were{{citation needed|date=January 2025}} developed and postulated in fields such as [[linguistics]] and [[sociolinguistics]], with relations to [[second-language acquisition]] in a classroom setting. The different perspectives on L2 motivation can be divided into three distinct phases: the social psychological period, the cognitive-situated period and the process-oriented period.<ref name="Dornyei">{{cite book |last1=Dörnyei |first1=Zoltán |title=The psychology of the language learner: Individual differences in second language acquisition |date=2005 |isbn=9780805847291 |publisher=Lawrence Erlbaum |location=Mahwah, NJ | url = https://books.google.com/books?id=aTxsAAAAIAAJ}}</ref>{{page needed|date=January 2025}}
+
+==The social psychological period==
+[[Social psychological]] perspectives on L2 learning motivation emphasize the role of the individuals’ social context and social interactions. The social psychological period in L2 motivation research flourished in the bilingual context of Canada from 1959 through 1990 ([[Zoltán Dörnyei|Dörnyei]], 2005; Ushioda, 2012).<ref name=Dornyei /><ref name="Ushioda">Ushioda, E. (2012) [https://www.chubut.edu.ar/descargas/recursos/ingles/Plenary1_EUshioda.pdf Motivation: L2 learning as a special case?] In S. Mercer, S. Ryan, & M. Williams (Eds.), Psychology for language learning (pp. 58-73). Basingstoke, HA: Palgrave Macmillan.</ref> During this period, Gardner developed the socio-educational model while Clément and colleagues explored the theory of linguistic self-confidence.
+
+===The socio-educational model===
+
+R.C. Gardner formulated the socio-educational model suggesting that learning an L2 cannot be solely explained by people's [[aptitude]] or their competency to acquire as many languages.<ref name="Gardner1985">{{cite book|last1=Gardner|first1=R. C.|title=Social psychology and second language learning: The role of attitudes and motivation|date=1985|publisher=Edward Arnold|location=London}}</ref> He asserted that individual differences were key factors affecting L2 acquisition such that in understanding how the L2 learning process and outcomes work, it is important to consider the cultural contexts, which influence people's attitude and motivation in learning another culturally distinct language.<ref name=Gardner1959>{{cite journal|last1=Gardner|first1=R. C.|last2=Lambert|first2=W. E.|title=Motivational variables in second-language acquisition|journal=Canadian Journal of Psychology|date=1959|volume=13|issue=4|pages=266–272|doi=10.1037/h0083787|pmid=13855818}}</ref> By simply regarding aptitude as the only factor, researchers dismiss the social, contextual and pragmatic reasons that drive people to learn other languages.<ref name=Gardner1985 />
+
+The original socio-educational model (1979) proposed that there are two main factors that influence L2 performance: aptitude, and motivation in learning.<ref name=Gardner1985 /> The model, however, placed more emphasis on the motivation factor because Gardner was interested in how people succeeded in acquiring L2 even when it seemed that their competency/aptitude is below average. This meant that motivation played a bigger role in driving those people to learn an L2.<ref name=Gardner1985 /> The model then attempted to explain that these motivational factors took place in the sites where
+L2 learning occurs: the formal site (i.e. the educational context), and the informal site (i.e. the cultural context). Gardner argued that these two contexts play distinct roles in boosting the learner's L2 performance in that the educational context became a place where explicit instruction and correction occurs, whereas the cultural context was an area allowing the learners to become immersed in the other culture without placing any specific rules or instructions.<ref name="Gardner2011">{{cite journal|last1=Gardner|first1=R. C.|title=The socio-educational model of second language acquisition|journal=Canadian Issues|date=2011|pages=24–27}}</ref> Both ways, the learners become increasingly knowledgeable and more confident with the social and cultural settings behind the L2, and these motivate them to learn L2 even more. Upon this transition, linguistic and non-linguistic outcomes emerge. In the linguistic component, learners tend to develop L2 proficiency and fluency, whereas in the non-linguistic outcomes, they undergo changes in attitudes towards the culture where the L2 came from.<ref>{{cite web|author=Sajid-us-Salam, M. |year=2008|title= Gardner's Early Socio-Educational Model (Powerpoint Slides)|url=http://www.slideshare.net/cupidlucid/gardners-early-soci-educational-model-presentation?next_slideshow=1}}</ref>
+
+The process of L2 acquisition starts from the social milieu where learners have initial attitudes towards the culture behind the L2; these preset beliefs were acquired from their own cultures.<ref name=Gardner1959 />
+The social milieu, in turn, influences the strategies, which individuals use in acquiring the L2. After knowing the individual differences in L2 acquisition, it is important to consider the context of learning (i.e. educational or cultural) because they improve L2 performance through direct (i.e. explicit instruction) and indirect (i.e. cultural immersion) means.<ref name=Gardner2011 /> Finally, when the learners have already acquired experience and knowledge of the L2, they gain varying positive outcomes such as fluency and appreciation of the other culture.<ref name=Gardner1985 />
+
+===Revisions of the socio-cultural educational model===
+
+The model has undergone numerous revisions to capture the sub-processes underlying in each of the individual factors. In 1985, Gardner introduced three sub-measures namely the intensity, the desire to learn and the attitude towards learning to explain the motivation factor.<ref name="Dornyei1998">Dörnyei, Z.  (1998). Motivation in second and foreign language learning. Language Teaching, 31 (3), 117-135.</ref> Gardner argued that if these three criteria work together, the learner could effectively use motivation as a tool for L2 acquisition.<ref name=Dornyei1998 /> Dornyei and other researchers, however, assert that this is not the case; they contend that one can have a ‘strong’ desire to learn, but have a different attitude towards the learning process itself.<ref name=Dornyei1998 /> Nevertheless, some researches still claim the attitude towards learning has a high predictive capacity because attitude has a strong association with direct behavior (i.e. learning).<ref name=Dornyei1998 /> From 1993 to 2010, the model's schema was rigorously changed to encompass the variability in the external factors affecting L2 learning; the term “social milieu” became “the external factors”.<ref>Gardner, R. C. & Macintyre, P. D. (1993). [http://faculty.cbu.ca/pmacintyre/research_pages/journals/affect_l2learn1993.pdf On the measurement of affective variables in second language learning]. Language Learning, 43,157-94.</ref> More characteristics were added to describe the variables affecting each of the individual factors; these were compiled in the Attitude Motivation Test Battery developed by Gardner.
+
+In response to this theoretical model, Al-Hoorie and Hiver (2023) conduct a critical review of measurement scales in the L2 motivational self system (L2MSS), unveiling major problems of discriminant validity that compromise the conceptual underpinnings of the model. They observe that some of the L2MSS constructs, including the ideal L2 self, ought-to L2 self, and learning experience, do not have sufficient distinctiveness compared to similar scales, reflecting a daunting overlap and empirical redundancy in the literature. Their findings, derived from a large-scale investigation of 18 widely utilized scales with Korean English learners, demonstrate that responses to items intended to measure constructs like the ideal L2 self can in fact reflect [[self-efficacy]] beliefs and not genuine–ideal disparities, thereby questioning the very nature of the scales employed in L2 motivation research. Al-Hoorie and Hiver advocate for a systematic approach to psychometric validation in the field of language motivation research, arguing that the field must address these validity problems before it can proceed with substantive investigations.<ref>{{cite journal |last1=Al-Hoorie |first1=Ali |last2=Hiver |first2=Phil |title=The validation crisis in the L2 motivational self system tradition |journal=Studies in Second Language Acquisition |date=2023 |volume=2 |issue=46 |page=307 |doi=10.1017/S0272263123000487 |url=https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/validation-crisis-in-the-l2-motivational-self-system-tradition/B3C44AE6CCAB93C1C68605A5BFBBF34C|doi-access=free }}</ref>
+
+====Attitude Motivation Test Battery ====
+Gardner also created the Attitude Motivation Test Battery (AMTB) to quantitatively measure the four main factors and their sub-units, and to predict L2 performance/outcome of the learning.<ref name=Gardner2011 /> The test generally instructs participants to rate a set of statements on a scale of 1 to 7 (i.e. least likely to most likely), and on a 6-level Likert Scale (i.e. strongly disagree to strongly agree).<ref name="Garnder2004">Gardner, R. C. (2004). Attitude/motivation test battery: International AMTB research project. Canada: The University of Western Ontario.</ref> Different statements correspond to a certain variable (or main factor), and scores from those sets are added up to determine how much of that variable is influencing the language learning of the participants.<ref name=Garnder2004 /> Like the model, however, the test has also been revised over the years. In Gardner's review of the Socio-educational Model, he named the four overarching variables which are measured in the AMTB: (1) integrativeness, (2) attitude toward learning situation, (3) motivation and (4) language anxiety.<ref name=Gardner2011 /> Other variables such as the instrumental orientation and parental encouragement in the AMTB are used in different settings or as needed.
+
+=====''Integrativeness''=====
+The integrativeness variable (also known as the integrative motive) reflect the cultural context of L2 learning as it attempts to measure how open a learner is to the other culture that primarily uses L2. The AMTB assesses this variable by accounting for the extent to which the learner is generally interested in foreign languages, as well as his/her preset attitudes towards the community where the L2 comes from. It also accounts for the integrative orientation of the individual or the social and cultural reasons why the individual learns the L2.<ref name=Gardner2011 />
+
+=====''Attitude toward learning situation''=====
+Contrary to integrativeness, the attitude towards learning situation accounts for the education context of L2 acquisition and the affective facts that correspond with it. The AMTB measures this variable by asking the individual to evaluate the teacher and the course in the educational context. This determines how much the educational context aids in improving L2 performance.<ref name=Gardner2011 />
+
+=====''Motivation''=====
+Motivation, in the AMTB, is assessed through the combination of  the desire to learn, attitude towards learning, and motivational intensity. While integrativeness and attitude toward the learning situation target each site of learning, motivation accounts for both contexts as well as the affective variables (i.e. individual differences) that influence the two contexts.<ref name=Gardner2011 />
+
+=====''Language anxiety''=====
+In the AMTB, language anxiety is an affective variable, which corresponds to what the individuals feel when ‘performing’ the L2. In the AMTB, it is measured by determining how anxious the learner feels when in the classroom or when using the language in general.<ref name=Gardner2011 />
+
+===Linguistic self-confidence===
+Clément and his associates investigated the importance of social contextual factors on L2 acquisition.<ref name=Dornyei /> Of these social contextual factors, Dörnyei (2005)<ref name=Dornyei /> argues linguistic self-confidence plays the most important role in motivation in learning a second language. Linguistic self-confidence refers to a person's perceptions of their own competence and ability to accomplish tasks successfully.<ref name="Clement">Clement, R. (1980). [https://www.sciencedirect.com/science/article/pii/B9780080246963500272 Ethnicity, contact and communicative competence in a second language]. In H. Giles, W. P. Robinson & P. M Smith (Eds.), Language: Social psychological perspectives (pp. 147-154). Oxford: Pergamon</ref> This linguistic self-confidence is established through the interaction between the language learner and members of the language community, and strengthened based on the quality and quantity of these interactions.<ref name=Clement /> In multi-linguistic communities, self-confidence fosters language learners’ identification with the language community and increases their willingness to pursue learning that language.<ref name=Clement />
+
+===Identity and Motivation===
+Although the social psychological era highlighted integrative and instrumental motivations<ref name="Gardner1985" /> and linguistic self-confidence,<ref name="Clement" /> researchers later argued that motivations are also based on learners’ identities and (national or social) power relations. Bonny Norton's<ref name="auto">{{cite book |last1=Norton |first1=Bonny |title=Identity and language learning: Gender, ethnicity, and educational change |date=2000 |publisher=Pearson Education}}</ref> notion of investment counters the idea that motivations are psychological or individual, instead locating investment as sociocultural, that is, motivated by the learners’ identities and access to symbolic resources like social status and education.<ref name="auto"/> For example, as Norton illustrates, research with immigrant women in Canada showed that even highly motivated learners resisted speaking English in some contexts based on their potential marginalization—something that Gardner's integrativeness could not fully explain.<ref name="auto"/> This issue also acknowledges Clément's focus on social relationships, but offers a different and critical perspective: motivations are subject to the following conditions learners sometimes experience when utilizing the target language in social networks—that is, feelings of affirming or threatening identity in a target language community.<ref>{{cite journal |last1=Norton |first1=Bonny |last2=Toohey |first2=K |title=Changing perspectives on good language learners. |journal=TESOL Quarterly |date=2001 |volume=2 |issue=35 |page=307 |doi=10.2307/3587650}}</ref> As a result, Norton's findings blend the social psychological era and its emphasis on attitudes (for example, integrative motivations) with modern conceptions of motivation as both identity and politically based understandings of motivation.<ref>{{cite journal |last1=Darvin |first1=R |last2=Norton |first2=Bonny |title=Identity and a model of investment in applied linguistics |journal=Annual Review of Applied Linguistics |date=2015 |issue=35 |page=36}}</ref>
+
+==The cognitive-situated period==
+
+[[Cognitive]] perspectives focus on how the learners’ mental processes influence their motivation. During the late 1980s and 1990s, emphasis in the language learning motivation field shifted towards cognitive models, reflecting the “cognitive revolution” taking place in psychology at the time.<ref name=Dornyei /> Cognitive psychologists argued that how one thinks about one's abilities, possibilities, potentials, limitations, and past performances has major influences on motivation.<ref name=Dornyei /> Thus, L2 motivation models shifted away from the broad social psychological perspectives, while more narrow-viewed microperspectives emerged.<ref name=Dornyei /> During this time, note-worthy contributions were made by Noels and colleagues through a [[self-determination]] theory-based model of language learning motivation, Ushioda through attribution theory, as well as Williams and Burden with their social constructivist model.<ref name=Dornyei />
+
+===Self-determination theory===
+
+The [[self-determination theory]] focuses on the intrinsic and extrinsic aspects of motivation.<ref name=Dornyei /> Noels and colleagues explored this theory in the language learning context and developed the Language Learning Orientations Scale which categorizes a person's motivational orientation as either intrinsic, extrinsic, or amotivated based on a continuum of self-determination.<ref name=Dornyei /> In this line of research it was found that in the language learning classroom, teachers that were autonomy supportive and non-controlling promoted intrinsic and self-determined orientations of motivation in students.<ref name=Dornyei />
+
+===Attribution theory===
+
+Attribution theory contends that the causal reasons we attribute to our past successes or failures plays a critical role in our motivation in future endeavors in that area.<ref name=Dornyei /> Consistent with this theory, Ushioda identified two attributional patterns associated with positive motivational outcomes in language learning.<ref name=Dornyei />
+
+===Social constructivist model===
+
+This cognitive perspective arose from a supposed “constructivist movement” that stemmed mostly from the work of [[Jean Piaget]] and that also encompassed personal construct psychology (developed by [[George Kelly (psychologist)]]).<ref name="WilliamsBurden">Williams, M., & Burden, R. L. (1997). Psychology for teachers. Cambridge University Press.</ref> This model suggests a constructive nature of the learning process as emphasized by Piaget, this assumes that people are actively involved in constructing personal meaning right from birth.<ref name=WilliamsBurden /> This brings the learner into central focus in learning theory as everyone is  constructing their own sense of the world, which is key to the constructivist perspective.<ref name=WilliamsBurden />
+
+The learner is in control of his/her learning as a result of his/her cognitive processing and organizing, and the context in which he/she is learning.<ref name=WilliamsBurden /> This means that the individual who is learning is in control of what he/she learns based on the way he/she think, and the immediate environment he/she is in as well as any internal factors (mood, preoccupation, motivation, etc.). Four key elements (the learner(s), the teacher, the task, and the context) are outlined by this model as affecting the teaching-learning process as they interact with and act on each other.<ref name=WilliamsBurden />
+
+====''Framework of motivation in L2 learning''====
+
+Using the social constructivist model, Marion Williams and Robert L. Burden developed a framework of motivation in language learning as an attempt to summarize motivational factors relevant to L2 learning in the classroom setting. This framework placed an emphasis on contextual influences, and it categorized motivational factors in terms of learner-internal and external factors.<ref>Dörnyei, Z., & Ushioda, E. (2013). Teaching and researching: Motivation. (2nd ed.). Routledge.</ref> The framework is shown below:
+
+{| class="wikitable"
+|-
+! Internal Factors !! External Factors
+|-
+| Intrinsic interest of activity:
+* arousal of curiosity
+* optimal degree of challenge
+ || Significant others:
+* parents
+* teachers
+* peers
+|-
+| Perceived value of activity:
+* personal relevance
+* anticipated value of outcomes
+* intrinsic value attributed to the activity
+ || The nature of interaction with significant others:
+* mediated learning experiences
+* the nature and amount of feedback
+* rewards
+* the nature and amount of appropriate praise
+* punishments, sanctions
+|-
+| Sense of agency:
+* locus of causality
+* locus of control RE process and outcomes
+* ability to set appropriate goals 
+|| The learning environment:
+* comfort
+* resources
+* time of day, week, year
+* size of class and school
+* class and school ethos
+|-
+| Mastery
+* feelings of competence
+* awareness of developing skills and mastery in a chosen area
+* self-efficacy 
+|| The broader context
+* wider family networks
+* the local education system 
+* conflicting interest
+* cultural norms
+* societal expectations and attitudes
+|-
+| Self-concept
+* realistic awareness of personal strengths and weaknesses in skills required
+* personal definitions and judgments of success and failure
+* self-worth concern
+* learned helplessness 
+||  
+|-
+| Attitudes
+* to language learning in general
+* to the target language
+* to the target language community and culture 
+||  
+|-
+| Other affective states
+* confidence
+* anxiety, fear
+||  
+|-
+| Developmental age and stage ||  
+|-
+| Gender ||  
+|}
+
+==The process-oriented period==
+
+With the rise of cognitive approaches to L2 learning motivation, researchers began to focus on the dynamic character of motivation. The models of the process-oriented period explore the short-term and long-term changes in the individuals’ motivation as they learn L2. This approach views motivation as a dynamic factor which fluctuates within a class period, a year, and a lifetime.<ref name=Dornyei /> Models from this period include the process model and the motivational self-system.
+ 
+===Process model===
+
+[[Zoltán Dörnyei|Dörnyei]] and Ottό developed a process model of L2 learning marked by three distinct, chronological stages: the preactional stage, the actional stage, and the postactional stage.<ref name=Dornyei /> The preactional stage involves the initial choice to begin learning a second language and creating goals for oneself. This stage is associated with setting goals, forming intentions, and launching action. During the preactional phase, the major motivational influences are the values associated with L2 learning, attitudes towards the L2-speaking community, learners’ expectations and beliefs, and environmental support. The actional stage includes sustaining one's level of motivation throughout the language-learning process. This stage involves generating and carrying out subtasks, appraising one's achievement, and self-regulation. During the actional stage the major motivational influences are the quality of the L2 learning experience, sense of autonomy as an L2 learner, teachers’ and parents’ influence, and usage of self-regulatory strategies. Lastly, the postactional stage involves retrospection and self-reflection on the language learning experience and outcomes. This stage entails forming causal attributions, elaborating standards and strategies, and dismissing the intention and further planning. During the postactional stage the major motivational influences are the learners’ attributional styles and biases, self-concept beliefs, and received feedback during the L2 learning process.
+
+===Motivational self system===
+After developing the process model, [[Zoltán Dörnyei|Dörnyei]] (2005) designed the motivational self system of L2 learning. The L2 motivational self system forms links with conceptualizations of L2 motivation by Noels (2003)<ref>Noels, K. A. (2003). Learning Spanish as a second language: Learners' orientations and perceptions of their teachers' communication style. In Z. Dörnyei (Ed.), Attitudes, orientations, and motivations in language learning (pp. 97-136). Oxford: Blackwell.</ref> and Ushioda (2001).<ref>Ushioda, E. (2001). Language learning at university: Exploring the role of motivational thinking. In Z. Dörnyei & R. Schmidt (Eds.), Motivation and second language acquisition (pp. 91-124). Honolulu, HI: University of Hawaii Press.</ref> This motivational self system has three components: the ideal L2 self, ought-to L2 self, and L2 learning experience.<ref name="Dornyei2009">Dörnyei, Z. (2009) The psychology of second language acquisition. Oxford: Oxford University Press.</ref> The ideal L2 self is a person's imagined ideal future self as a second language speaker.<ref name=Ushioda /> This ideal L2 self promotes motivation by inspiring the present self to strive to become the ideal self, which promotes integrative and internalized instrumental motivation in language learning.<ref name=Dornyei2009 /> The ought-to L2 self includes the attributions a person believes they should have in order to meet expectations or avoid negative outcomes, which is associated with extrinsic motivational orientations.<ref name=Dornyei2009 /> The L2 learning experience component includes the situational and environmental aspects of the language learning process as well as one's subjective learning experience.<ref name=Dornyei2009 /> A [[meta-analysis]] by Al-Hoorie (2018)<ref>{{Cite journal|last=Al-Hoorie|first=Ali H.|date=2018|title=The L2 motivational self system: A meta-analysis|journal=Studies in Second Language Learning and Teaching|volume=8|issue=4|pages=721–754|doi=10.14746/ssllt.2018.8.4.2|issn=2084-1965|doi-access=free}}</ref> examined the predictive validity of this model, showing poorer predictive validity of objective measures compared with subjective measures of language learning. Recently, this model has received criticism based on its reliance on scales with questionable validity<ref>{{cite journal |last1=Hiver |first1=Phil |last2=Al-Hoorie |first2=Ali H. |title=Reexamining the Role of Vision in Second Language Motivation: A Preregistered Conceptual Replication of You, Dörnyei, and Csizér (2016) |journal=Language Learning |date=March 2020 |volume=70 |issue=1 |pages=48–102 |doi=10.1111/lang.12371|s2cid=201374315 }}</ref> and on constructs that are not clearly distinct from existing constructs in psychology.<ref>{{cite journal |last1=Al-Hoorie |first1=Ali H. |last2=Al Shlowiy |first2=Ahmed S. |title=Vision Theory vs. Goal-Setting Theory: A Critical Analysis |journal=Porta Linguarum |date=2020 |volume=33 |pages=217–229 |url=https://digibug.ugr.es/bitstream/handle/10481/62826/13_Ali%20H%20Al-Horue.pdf}}</ref>
+
+;Motivation and L2 speaking classroom
+
+The link between humor and motivation in the L2 speaking classroom is very interesting. L2 speaking teachers are often encouraged to find effective teaching strategies for making speaking environment more successful and enjoyable (Riyadi & Purwati, 2017). Therefore, humor can be a powerful stimulus to motivate L2 learners to engage in L2 speaking tasks (Salehi & Hesabi, 2014).
+According to some studies, humor has a positive impact on classroom engagement and can strengthen the relationship between teachers and L2 learners, improve problem-solving, and make classwork more personal, enjoyable, and comfortable (Wandersee, J. 1982; Rareshide, S. 1993; Millard, E. 1999). Also, Farahani and Abdollahi (2018) found that utilizing humor as a technique in L2 speaking class has cognitive benefits for L2 students’ learning development. The authors reported that the difference between the scores in the experimental group and the scores in the control group was significant in speaking ability and willingness to communicate. Furthermore, Schmitz (2002) illustrates that L2 students who have the opportunity to learn language through humorous material will be better speakers and they progress in L2 learning more than learners who do not have that opportunity. The author also states that utilizing humorous material in the L2 classroom enables L2 learners to tell jokes and participate in different conversational exchanges. Finally, Syafiq and Saleh (2012) conclude that humor can successfully improve EFL learners’ speaking skills because learners feel that utilizing humor in speaking class contributes to creating a positive atmosphere and better achievement in L2 speaking competence. The authors investigate the effect of using humor as teaching material in the EFL speaking classroom. The focus of their treatment was on using some verbal humor. Their findings suggest that using humor as teaching material in EFL speaking class has a significant influence on the learners’ speaking ability more than normal conventional material.
+
+;Motivation and Context
+
+Motivation and its constructs are context dependent and therefore, any language learning context has its own unique motivational model.<ref name=":0">{{Cite journal|last1=Jodai|first1=Hojat|last2=Zafarghandi|first2=Amir Mahda Vi|last3=Tous|first3=Maryam Danaye|date=2013-01-01|title=Motivation, Integrativeness, Organizational Influence, Anxiety, and English Achievement|journal=Glottotheory|language=en|volume=4|issue=2|doi=10.1524/glot.2013.0012|s2cid=147421279|issn=2196-6907}}</ref>
+
+==Digital Contexts and Motivation==
+An increasing presence of technology in language learning has opened up new facets to motivation in second language acquisition. Digital contexts, including language learning apps (e.g.,[[Duolingo]], [[Babbel]]), social media (e.g., Twitter, [[Reddit]], language exchange Discord servers), and virtual classrooms, transform motivation through gamification, social engagement, and identity construction.
+
+===Gamification and Self-Determination===
+Many language apps build on game mechanics (e.g., points, leaderboards, daily streaks), and this taps into intrinsic motivation by fulfilling learners' autonomy, competence and relatedness needs.<ref>{{cite journal |last1=Ryan |first1=R |last2=Deci |first2=E |title=Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. |journal=American Psychologist |date=2000 |volume=1 |issue=55 |page=68}}</ref> For example, Duolingo's reward systems prompted daily engagement in the practice, while Memrise solidified this by incorporating humorous mnemonics, which reduced anxiety.<ref>{{cite journal |last1=Loewen |first1=S |last2=Crowther |first2=D |last3=Ibell |first3=D |last4=Kim |first4=K |last5=Maloney |first5=J |last6=Miller |first6=Z |last7=Rawal |first7=H |title=Mobile-assisted language learning: A Duolingo case study. |journal=ReCALL |date=2019 |volume=3 |issue=31 |page=293}}</ref> These elements exist in relation to self-determination theory and demonstrate directly how the use of technology can sustain motivation by providing learners immediate feedback while creating challenging yet attainable challenges.
+
+==Notable researchers==
+*[[Kata Csizér]]
+*[[Zoltán Dörnyei]]
+*[[Judit Kormos]]
+*[[Sarah Mercer]]
+
+==See also==
+*[[Language exchange]]
+*[[Language learning]]
+
+==References==
+{{Reflist}}
+{{Psycholinguistics}}
+
+[[Category:Second-language acquisition]]
+[[Category:Motivation]]

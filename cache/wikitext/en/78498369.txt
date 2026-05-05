@@ -1,0 +1,36 @@
+{{Short description|Psychological effect}}
+{{Orphan|date=January 2025}}
+
+The '''exceptionality effect''' is a [[Cognitive bias|psychological bias]] describing the tendency for individuals to experience stronger negative emotional responses, such as regret, self-blame, or perceived injustice, when negative outcomes result from exceptional (abnormal) behavior compared to routine (normal) behavior. This effect has been studied in the context of [[decision-making]], [[regret]], [[counterfactual thinking]], and normative behavior.
+
+== Origin and theoretical background ==
+The exceptionality effect was first introduced in Norm Theory by [[Daniel Kahneman]] and Dale T. Miller in 1986. Norm Theory suggests that people compare reality to its alternatives, and exceptional events more readily evoke counterfactual thinking (imagining "what could have been") than routine events. Consequently, outcomes resulting from exceptional behavior are perceived as more avoidable, leading to stronger emotional responses such as regret or blame.
+For example, a person who deviates from their usual route home and gets into an accident is often judged to experience more regret than someone who follows their regular route and experiences the same outcome.<ref name=":0">{{cite journal |last1=Kahneman |first1=Daniel |last2=Miller |first2=Dale |title=Norm theory: Comparing reality to its alternatives |journal=Psychological Review |date=1986 |volume=93 |issue=2 |pages=136–153 |doi=10.1037/0033-295X.93.2.136}}</ref>
+
+== Empirical evidence ==
+
+=== Initial studies ===
+
+[[Daniel Kahneman|Kahneman]] and Miller (1986) originally explored the exceptionality effect using two experimental scenarios: the hitchhiker scenario and the car accident scenario. In the hitchhiker scenario, participants evaluated two individuals: Mr. Jones, who rarely picks up hitchhikers but does so and gets robbed, and Mr. Smith, who regularly picks up hitchhikers and also gets robbed. Participants consistently judged that Mr. Jones, who deviated from his routine, would feel greater regret.
+
+In the car accident scenario, participants compared Mr. Adams, who had an accident on his regular route, to Mr. White, who had an accident while taking an unfamiliar route for a change of scenery. Again, the individual deviating from their routine (Mr. White) was perceived to experience greater regret. These foundational studies demonstrated how deviations from normal behavior amplify emotional responses to negative outcomes.<ref name=":0" />
+
+=== Replication studies ===
+Lucas Kutscher and Gilad Feldman (2019) conducted a pre-registered replication of the original studies, confirming the exceptionality effect in scenarios involving car accidents and hitchhikers.<ref>{{cite journal |last1=Kutscher |first1=Lucas |last2=Feldman |first2=Gilad |title=The impact of past behaviour normality on regret: replication and extension of three experiments of the exceptionality effect |journal=Cognition and Emotion |date=2019 |volume=33 |issue=5 |pages=901–914 |doi=10.1080/02699931.2018.1504747|pmid=30096994 |url=https://philpapers.org/archive/KUTTIO-2.pdf }}</ref>
+
+=== Meta-analysis ===
+A [[meta-analysis]] by Adrien Fillon, Lucas Kutscher, and Gilad Feldman (2020) synthesized findings from 48 studies (N=4212). The analysis confirmed a medium to strong exceptionality effect (effect size g=0.60) across measures such as regret, counterfactual thought, and self-blame.<ref name=":1">{{cite journal |last1=Fillon |first1=Adrien |last2=Kutscher |first2=Lucas |last3=Feldman |first3=Gilad |title=Impact of past behaviour normality: meta-analysis of exceptionality effect |journal=Cognition and Emotion |date=2020 |volume=35 |issue=1 |pages=129–149 |doi=10.1080/02699931.2020.1816910|pmid=32924775 }}</ref>
+
+== Implications ==
+
+=== Theoretical implications ===
+The exceptionality effect underscores the psychological importance of norm adherence in decision-making and judgment. It aligns with theories of counterfactual thinking, which suggest that individuals evaluate outcomes relative to alternative possibilities. Exceptional actions are perceived as more avoidable, which amplifies regret and emotional responses. This insight is relevant for understanding human behavior in contexts such as risk-taking, blame attribution, and policy design.{{Citation needed|date=December 2024}}
+
+=== Practical implications ===
+The exceptionality effect can have significant implications across various contexts, including law, business, and politics, where critical decisions can have long-lasting consequences. Research shows that people are more likely to recommend higher compensation for victims in exceptional circumstances compared to routine ones.<ref>{{cite journal |last1=Miller |first1=Dale T. |last2=McFarland |first2=Cathy |title=Counterfactual Thinking and Victim Compensation: A Test of Norm Theory |journal=Personality and Social Psychology Bulletin |date=1986 |volume=12 |issue=4 |doi=10.1177/0146167286124014}}</ref> This suggests that the perceived severity of harm can be influenced by deviations from normative behavior, rather than being solely based on objective assessments. While the bias is slightly weaker in judicial contexts, likely due to people's motivation to assess harm more objectively, the exceptionality effect persists. Decision-makers should be mindful of this cognitive bias to avoid errors in key judgments.<ref name=":1" />
+
+== References ==
+
+{{reflist}}
+
+[[Category:Psychological effects]]

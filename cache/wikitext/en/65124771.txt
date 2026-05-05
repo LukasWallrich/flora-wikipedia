@@ -1,0 +1,49 @@
+{{short description|Social psychologist}}
+{{Infobox academic
+| name              = Tanya Chartrand
+| occupation        = Professor of Psychology
+| citizenship       = 
+| workplaces        = Duke University
+| alma_mater        = Santa Clara University:      
+New York University
+| awards            = 
+| spouse            = 
+}}
+
+'''Tanya L. Chartrand''' is a social psychologist known for her research on [[Consumer behaviour|consumer behavior]] and on [[Unconscious mind|non-conscious processes]] influencing emotions, cognition, and behavior.<ref>{{Cite web|title=Tanya L. Chartrand {{!}} Duke Psychology & Neuroscience|url=https://psychandneuro.duke.edu/people/tanya-l-chartrand|access-date=2020-12-03|website=psychandneuro.duke.edu|language=en}}</ref> Chartrand is the Roy J. Bostock Marketing Professor and Professor of Psychology and Neuroscience at [[Duke University]].<ref name=":0">{{Cite web|title=Tanya L. Chartrand {{!}} Duke's Fuqua School of Business|url=https://www.fuqua.duke.edu/faculty/tanya-chartrand|access-date=2020-10-22|website=www.fuqua.duke.edu}}</ref>
+
+She and her doctoral advisor, [[John Bargh]], are widely cited for their groundbreaking research on social [[mimicry]],<ref name=":1">{{Cite web|title=We're All Copycats {{!}} Psychology Today|url=https://www.psychologytoday.com/us/articles/199911/were-all-copycats|access-date=2020-11-24|website=www.psychologytoday.com|language=en-US}}</ref> which they referred to as the chameleon effect.<ref>{{Cite journal|last1=Chartrand|first1=Tanya L.|last2=Bargh|first2=John A.|date=1999|title=The chameleon effect: The perception–behavior link and social interaction.|url=http://doi.apa.org/getdoi.cfm?doi=10.1037/0022-3514.76.6.893|journal=Journal of Personality and Social Psychology|language=en|volume=76|issue=6|pages=893–910|doi=10.1037/0022-3514.76.6.893|pmid=10402679|s2cid=11818459 |issn=1939-1315|url-access=subscription}}</ref>
+
+== Biography ==
+Chartrand completed her B.S. degree in Psychology and Spanish at [[Santa Clara University]] in 1994. She attended graduate school at [[New York University Tandon School of Engineering|New York University]] where she obtained a M.A. in 1996 and a Ph.D. in [[Social psychology|Social Psychology]] with a concentration in [[Quantitative psychology|Quantitative Psychology]] in 1999. Her dissertation was titled "Consequences of success and failure at automatic goal pursuit for mood, self-efficacy, and subsequent performance."<ref>{{Cite journal|last=Chartrand|first=T. L.|date=2000|title=Consequences of success and failure at automatic goal pursuit for mood, self-efficacy, and subsequent performance.|url=https://www.elibrary.ru/item.asp?id=5352904|journal=Doctoral Dissertation, New York University.|language=en}}</ref>
+
+Chartrand was assistant professor of psychology at [[Ohio State University|The Ohio State University]] from 1999 to 2003 before joining the Faculty of the Department of Psychology and Neuroscience and the Department of Business Administration at Duke University in 2003.  She became a professor of Business Administration from 2008 to 2011.  Chartrand's research has been funded by [[National Institute of Mental Health|National Institute for Mental Health]].<ref>{{Cite web|title=Grantome: Search|url=https://grantome.com/search|access-date=2020-11-24|website=Grantome|language=en}}</ref><ref>{{Cite journal|last1=Chartrand|first1=Tanya L.|last2=van Baaren|first2=Rick B.|last3=Bargh|first3=John A.|date=2006|title=Linking automatic evaluation to mood and information processing style: Consequences for experienced affect, impression formation, and stereotyping.|url= |journal=Journal of Experimental Psychology: General|language=en|volume=135|issue=1|pages=70–77|doi=10.1037/0096-3445.135.1.70|issn=1939-2222|pmc=2791521|pmid=16478316}}</ref>
+
+== Research ==
+
+One of the major topics that Chartrand and her colleagues has researched is [[Consumer behaviour|consumer behavior]]. This may include studies of how individuals pay for good and services and how it impacts their thoughts, feelings, and emotional attachment to the product as well as their future purchasing behavior.<ref>{{Cite journal|last1=Shah|first1=Avni M.|last2=Eisenkraft|first2=Noah|last3=Bettman|first3=James R.|last4=Chartrand|first4=Tanya L.|date=2016|title=" Paper or Plastic?": How We Pay Influences Post-Transaction Connection|url=https://academic.oup.com/jcr/article-lookup/doi/10.1093/jcr/ucv056|journal=Journal of Consumer Research|language=en|volume=42|issue=5|pages=688–708|doi=10.1093/jcr/ucv056|issn=0093-5301|url-access=subscription}}</ref><ref>{{Cite news|last=Korkki|first=Phyllis|date=2016-07-16|title=Paying With Cash Hurts. That's Also Why It Feels So Good. (Published 2016)|language=en-US|work=The New York Times|url=https://www.nytimes.com/2016/07/17/business/paying-with-cash-hurts-thats-also-why-it-feels-so-good.html|access-date=2020-12-03|issn=0362-4331}}</ref> Chartrand has also studied nonverbal behavior and how we communicate with others through [[body language]]. This ties into her work on non-conscious processing because we act without thinking, which can give off a message to others that can be either intended or unintentional depending on our emotions.<ref>{{Cite news|last=Paul|first=Pamela|date=2011-06-17|title=With Botox, Looking Good and Feeling Less (Published 2011)|language=en-US|work=The New York Times|url=https://www.nytimes.com/2011/06/19/fashion/botox-reduces-the-ability-to-empathize-study-says.html|access-date=2020-12-03|issn=0362-4331}}</ref><ref name=":1" />
+
+Chartrand's field of study revolves heavily around the idea of automatic, non-conscious thinking. One of her most cited articles focused on automatic processing with three main ideas: automatic effects on perception, automatic goal pursuit, and automatic evaluation of one's experiences.<ref>{{Cite journal|last1=Bargh|first1=John A.|last2=Chartrand|first2=Tanya L.|date=1999|title=The unbearable automaticity of being.|url=http://doi.apa.org/getdoi.cfm?doi=10.1037/0003-066X.54.7.462|journal=American Psychologist|language=en|volume=54|issue=7|pages=462–479|doi=10.1037/0003-066X.54.7.462|issn=0003-066X|url-access=subscription}}</ref> Chartrand and her colleagues concluded that non-conscious mental systems play a critical role in human mental functioning and well-being.<ref>{{Cite news|last=Carey|first=Benedict|date=2008-02-12|title=You Remind Me of Me (Published 2008)|language=en-US|work=The New York Times|url=https://www.nytimes.com/2008/02/12/health/12mimic.html|access-date=2020-12-03|issn=0362-4331}}</ref> If these systems were not playing in our heads, we would fail to keep our feet on the ground, and lose track of our current environment.
+
+==References==
+{{Reflist}}
+
+== External links ==
+
+* [https://www.fuqua.duke.edu/faculty/tanya-chartrand Faculty Homepage]
+* {{google scholar id|zzDXHXcAAAAJ}}
+* [[:sr:Tanja Čartrand|Serbian Wikipedia biography]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Chartrand, Tanya}}
+[[Category:American women psychologists]]
+[[Category:21st-century American psychologists]]
+[[Category:Social psychologists]]
+[[Category:Living people]]
+[[Category:New York University alumni]]
+[[Category:Duke University faculty]]
+[[Category:Santa Clara University alumni]]
+[[Category:Year of birth missing (living people)]]
+[[Category:American women academics]]
+[[Category:21st-century American women]]

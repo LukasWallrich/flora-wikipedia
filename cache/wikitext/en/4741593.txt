@@ -1,0 +1,178 @@
+{{Short description|Tendency for people's perception to be affected by their recurring thoughts at the time}}
+'''Attentional bias''' is the tendency for a person's perception to be affected by selective factors in their attention.<ref name="Bar-Haim2007" /> Attentional biases may explain an individual's failure to consider alternative possibilities when occupied with an existing train of thought.<ref name="Baron2013"/> For example, cigarette smokers have been shown to possess an attentional bias for smoking-related cues around them, due to their brain's altered reward sensitivity.<ref name="Begh2013" /> Attentional bias has also been associated with clinically relevant symptoms such as [[anxiety]] and [[Depression (mood)|depression]].<ref name="Tran2015" />
+
+==In decision making==
+A commonly studied experiment to test for attentional bias is one in which there are two variables, a factor (A) and a result (B). Both can be either present (P) or not present (N). This results in four possible combinations:
+
+#Both the factor and result are present (AP/BP)
+#Both the factor and result are not present (AN/BN)
+#While the factor is present, the result is not (AP/BN)
+#While the result is present, the factor is not (AN/BP)
+
+The four combinations can be shown in table form as follows:
+
+{| class="wikitable"
+!
+! scope="col" | A present (A)
+! scope="col" | A not present (A')
+|-
+! scope="row" | B present (B)
+|AP/BP
+|AN/BP
+|-
+! scope="row" | B not present (B')
+|AP/BN
+|AN/BN
+|}
+
+A common question which follows the structure of the above experiment is: "Does God answer prayers?"<ref name="Nisbett1980"/> Due to attentional bias, theists tend to say "yes". They focus on the present/present (A/B) cell, as their religious beliefs in a deity cause them to fixate on the occasions when they were given what they asked for, thus they use the justification: "Many times I've asked God for something, and he's given it to me." Similarly, due to attentional bias, atheists equally tunnel on data from the present/absent (A/B', A'/B) cells: "Has God ever given me something that I didn't ask for?" or "Have I asked God for something and didn't receive it?" This experiment too supports Smedslund's general conclusion that subjects tend to ignore part of the table depending on their specific attentional biases.<ref name="Baron2013"/>
+
+The scenarios can be illustrated below in a similar table to above:
+
+{| class="wikitable"
+!
+! scope="col" | Asked God for A (A)
+! scope="col" | Did not ask God for A (A')
+|-
+! scope="row" | A was fulfilled (B)
+|A/B
+|A'/B
+|-
+! scope="row" | A was not fulfilled (B')
+|A/B'
+|A'/B'
+|}
+
+When making decisions, attentional biases toward positive [[Stimulus (physiology)|stimuli]] have been associated with numerous positive outcomes, such as increased [[social engagement]], increased [[prosocial behaviour]], decreased [[externalizing disorders]], and decreased [[Emotional detachment|emotionally withdrawn behavior]].<ref name="Troller-Renfree2015" /><ref>{{Cite journal|last1=Troller-Renfree|first1=Sonya|last2=McLaughlin|first2=Katie A.|last3=Sheridan|first3=Margaret A.|last4=Nelson|first4=Charles A.|last5=Zeanah|first5=Charles H.|last6=Fox|first6=Nathan A.|date=January 2017|title=The beneficial effects of a positive attention bias among children with a history of psychosocial deprivation|journal=Biological Psychology|volume=122|pages=110–120|doi=10.1016/j.biopsycho.2016.04.008|pmc=5074922|pmid=27109625}}</ref> In contrast, individuals with clinically relevant symptoms, such as [[anxiety disorder]]<ref name="Bar-Haim2007" /> and [[chronic pain]]<ref name="Schoth2010" /> are shown to prioritize threat cues over reward cues.<ref name="Mogg2000" /><ref name="Mathews1994" /><ref name="Tran2015" /><ref name="MacLeod2002" /> In one experiment, faces with varying valences were presented (neutral, threatening, and happy) with a forced-choice reaction time at two exposure durations, 500 and 1250msec. For individuals with high trait anxiety, there was strong evidence for an attentional bias favoring threatening facial expressions. Additionally, increased [[dysphoria]] correlated with the tendency to avoid happy faces.<ref name="Bradley1998" /><ref name="Fox2010" /> This tendency leads to a spiraling effect, as one will only see negative faces, which induces greater anxiety, which exacerbates the aforementioned tendency to avoid positive stimuli – a form of the vigilance-avoidance pattern.<ref name="Mogg1996" />
+
+Notably, there is also a difference in attention biases between anxious and depressed individuals. Word pairs were shown to the subjects, with a dot probe following a word of each pair (dot probe paradigm). One-half of the word pairs were presented on the subliminal level, and the other half were presented on the supraliminal level, and then the response time was measured. As expected, the anxious and depressed groups showed an attentional bias towards negative words compared to the normal control group. On a supraliminal level, the depressed group showed greater vigilance for threat stimuli than the anxious group. However, for subliminal threat stimuli, the anxious group showed a greater vigilance, which implies an anxiety-related bias on the subconscious level.<ref name="Mogg1995" />
+
+==In addictive behaviour==
+Research from the past two decades has established that [[Addiction|addictive behaviour]] is strongly correlated to the attentional bias for substance-related cues, in how the latter characterizes the former.<ref name="Fielda2008" /> An example of this is smoking and smoking-related cues.<ref name="Begh2013" />
+
+Research (using the Stroop paradigm) tested the effect of mixing smoking related words (cigarette, puff, and smoke) with: negative connoting words (sick, pain and guilty), positive connoting words, (safe, glad, and hopeful) and neutral connoting words (tool, shovel, and hammer). Results showed a strong correlation between a slower reaction time and the degree of negative language employed when discussing smoking. The results indicate attentional bias, suggesting the influence negative language has had on the individual attitude towards smoking.<ref name="DrobesElibero2006"/> When asked to think of the negative consequences of smoking, as the negative language evoked underlying negative feelings toward smoking, they displayed fewer cravings than the smoker subjects who were encouraged to smoke.<ref name="Szasz2012" /> The experiment illustrates the influence of attentional bias on environmental smoking cues and how these could contribute to a smokers' inability to quit. As stated earlier individuals' attentional biases are influenced by [[subliminal stimuli]], so in the smoker's case, they are more subject to substance-related stimuli such as observing other smokers or noticing ads for cigarettes.<ref name="YanJiang2009" /> The stimuli evoke expectancy of substance availability, which creates a further attentional bias for substance-related stimuli and induces craving for the substance.<ref name="Fielda2008" />
+
+Similar Stroop paradigm studies have concluded that attentional bias is not dependent on smoking itself, but rather the person who is the smoker displays attentional bias. A recent study required one group of smokers to refrain from smoking the night before and another less than an hour before. Abstinence from smoking created a slower reaction time, but a smoke break between study sessions showed increased reaction time. Researchers say this shows that [[nicotine]] dependence intensifies attention, but does not directly depend on smoking itself due to lack of evidence.<ref name="CanamarLondon2012" /> The longer reaction time suggests smokers craving a cigarette linger on smoking-related words.<ref name="Field2009" /> Smokers and smokers attempting to quit displayed the same slower reaction time for smoking-related words,<ref name="Cane2008" /> which supports research that implies attentional bias is a behavioral mechanism versus a dependency mechanism, due to the fact that the smokers were slowed down by smoking-related words and negative words, but not slowed down by positive and neutral words.
+
+Drug addiction is also an example of attentional bias in that certain memories or objects can prompt intense cravings for one's drug of choice. It is easier for individuals who experience this to relapse and begin their drug use again, because the urges given off by that initial stimuli can prove to be too strong to curb.<ref>{{Cite book|title=Motivation|last=Deckers|first=Lambert|publisher=Routledge|year=2018|isbn=978-1-351-71388-7|edition=5th|location=New York|pages=110–111}}</ref> There are some ways that individuals could overcome attentional bias, and a solution is stimuli-related therapy. This type of therapy would give those struggling with addiction and relapse an opportunity to overcome the initial fear associated with a particular object. A study conducted by a group of researchers in the Netherlands found that by giving participants an opportunity to attend therapy sessions during their treatment for drug addiction, more participants remained drug-free compared to those who relapsed.<ref name=":0">Marissen, M. A. E., Franken, I. H. A., Waters, A. J., Blanken, P., van den Brink, W., & Hendriks, V. M. (2006). Attentional bias predicts heroin relapse following treatment. ''Addiction'', ''101''(9), 1306–1312.</ref> Therefore, the conclusion can be drawn that with exposure therapy, the number of patients who will leave a treatment facility and relapse decreases. The Stroop Test also showed in this study that between the control group and the treatment group the only major component of the test was time; researchers made the claim that those who received treatment reacted a lot faster to certain drug-related stimuli versus those in the control group who did not.<ref name=":0" /> This means that when experiencing attentional bias, treated addicts seemed to brush off the memories a little easier compared to those who had not received proper treatment. In other words, certain steps need to be taken in treatment facilities across the country to ensure that drug addiction no longer rises, or continues to ruin people's lives. Also, a therapy of this kind should be closely monitored and mandatory to ensure the smallest number of relapses occur after treatment.
+
+== In body image disturbance ==
+There is evidence that people with [[body image disturbance]] show attentional biases related to body size and food. For example, people with anorexia nervosa tend to direct their attention disproportionately towards thin bodies.<ref>{{Cite journal |last1=Pinhas |first1=Leora |last2=Fok |first2=Kai-Ho |last3=Chen |first3=Anna |last4=Lam |first4=Eileen |last5=Schachter |first5=Reva |last6=Eizenman |first6=Oren |last7=Grupp |first7=Larry |last8=Eizenman |first8=Moshe |date=2014-12-15 |title=Attentional biases to body shape images in adolescents with anorexia nervosa: An exploratory eye-tracking study |url=https://www.sciencedirect.com/science/article/pii/S0165178114007021 |journal=Psychiatry Research |volume=220 |issue=1 |pages=519–526 |doi=10.1016/j.psychres.2014.08.006 |pmid=25216561 |issn=0165-1781|url-access=subscription }}</ref> Attentional bias towards thin bodies has also been reported in non-clinical samples, with individuals with higher levels of body dissatisfaction disproportionately attending to thin bodies.<ref>{{Cite journal |last1=Stephen |first1=Ian D. |last2=Sturman |first2=Daniel |last3=Stevenson |first3=Richard J. |last4=Mond |first4=Jonathan |last5=Brooks |first5=Kevin R. |date=2018-01-31 |title=Visual attention mediates the relationship between body satisfaction and susceptibility to the body size adaptation effect |journal=PLOS ONE |language=en |volume=13 |issue=1 |article-number=e0189855 |doi=10.1371/journal.pone.0189855 |doi-access=free |issn=1932-6203 |pmc=5791942 |pmid=29385137 |bibcode=2018PLoSO..1389855S }}</ref><ref>{{Cite journal |last1=House |first1=T. |last2=Graham |first2=K. |last3=Ellis |first3=B. |last4=Bould |first4=H. |last5=Attwood |first5=A. S. |last6=Stephen |first6=I. D. |last7=Brooks |first7=K. R. |last8=Penton-Voak |first8=I. S. |date=2023-03-01 |title=Is body dissatisfaction related to an attentional bias towards low weight bodies in non-clinical samples of women? A systematic review and meta-analysis |url=https://www.sciencedirect.com/science/article/pii/S1740144522002066 |journal=Body Image |volume=44 |pages=103–119 |doi=10.1016/j.bodyim.2022.12.003 |pmid=36563472 |issn=1740-1445|doi-access=free }}</ref>
+
+==Measurements==
+There are two different forms of attentional bias that can be measured:
+
+; Within-subject bias
+: When there is a significant difference between an anxious individuals' attention bias towards threat-related stimuli and attention bias towards [[Neutral stimulus|neutral stimuli]] (which usually favors threat-related stimuli)<ref name="Bar-Haim2007" />
+
+; Between-subject bias
+: When there is a significant difference between non-anxious and anxious individuals' attention bias towards and neutral stimuli and threat-related stimuli<ref name="Bar-Haim2007" />
+
+===Measurement paradigms===
+There are four main paradigms used to measure attentional bias:<ref name="Tran2015" />
+
+; [[Stroop effect|Stroop]] paradigm
+: The Stroop paradigm was the first measure of attentional bias.<ref name="Tran2015" /> It also uses reaction time, only in this case utilizing [[color]]s. The subject would have to read the color of the word (e.g. brown), however, the name of the word would be a different color (e.g. red). Variations involve the opposite, where one would have to read the name of the word, but the color of the word would differ.
+
+; [[Dot-probe paradigm]]
+: The dot-probe paradigm/task is the gold standard in attentional bias research, considered an upgraded version of the dot-probe paradigm.<ref name="Tran2015" /> Two stimuli of difference valences are presented simultaneously for a fixed time. Then, a probe replaces one of the two stimuli, which the participants have to respond to – by classifying the probe or responding to the location.<ref name="Mogg1996" />
+
+; Posner paradigm
+: The Posner paradigm or Posner cueing task is similar to the [[dot-probe paradigm]].<ref name="Tran2015" /> It is a sight test, which assesses the individual's ability to switch and focus on different stimuli presented. The subject focuses on a specific point, then attempts to react as quickly as possible to target stimuli presented to the sides of the specified point.
+
+; [[Visual search]] paradigm
+: The visual search is a less used method of assessing attentional bias.<ref name="Mogg1996" /> It involves measuring one's ability to spot and discern particular objects among other objects.
+
+While the other options are valid methods, they all tap into different aspects of attention bias.<ref name="Bar-Haim2007" /> Because of this, some methods are less used when looking into specific aspects of attentional bias. For example, in a posner cueing task, the cues were either a ''neutral'', ''angry'' or ''happy'', facial expression. There were both valid (targets appearing in the same location as the cue/face) and invalid trials (The target appearing in a different location to the cue/face). Surprisingly enough, in the invalid tests, individuals' response times increased to the same degree of attentional bias for both negative stimuli and positive stimuli, contrary to hundreds of other studies.<ref name="Fox2010" />
+
+==Mechanisms==
+On a scientific level, attentional bias often seen in eye-tracking movements is thought to be an underlying issue of addiction. Smokers linger on smoking cues compared with neutral cues. Researchers found higher activation in the [[insular cortex]], the [[orbitofrontal cortex]] and the [[amygdala]] when presented with smoking cues. The [[orbitofrontal cortex]] is known to be coordinated with drug-seeking behavior and the insular cortex and amygdala are involved in the autonomic and emotional state of an individual.<ref name="Janes2010" /><ref name="KangChang2012" />
+
+Neural activity is also known to decrease upon the beginning of smoking, focusing the smokers' attention on their upcoming cigarette. Therefore, when smoking cues are nearby it is harder for a smoker to concentrate on other tasks. This is seen in the activation of the dorsal [[anterior cingulate cortex]], known for focusing attention on relevant stimuli.<ref name="Luijten2011" /><ref name="Stippekohl2012" />
+
+However, beyond this, the mechanisms of attentional bias is an uncertain area, as there are many conflicting theories on how attentional biases operate.<ref name="Bar-Haim2007" /> An initial theory was [[Schema (psychology)|schema theory]], in which it was believed schema was biased towards threats, thus threat-related material is always favored in cognitive thinking.<ref name="Beck1997" /> Conversely, other individuals have argued that humans are prone to attentional biases at certain points of information processing, which is now a more common topic of controversy.<ref name="Mogg1996" />
+
+Psychologist [[J. Mark G. Williams]] and colleagues have argued that anxious individuals tend to prioritize threat stimuli during early information processing, and direct their attention away from threats in more strategic stages of processing.<ref name="Williams1997" /> This correlates with the vigilance-avoidance pattern, which is when one initially directs attention to threat, however then proceeds to avoid processing details and information in order to avoid an anxious state of mind.<ref name="Mogg1996" /> Conversely, others theorize that anxiety has little impact on initial detection of threats but has is more significant in modulating the maintenance of attention on the source of the threat.<ref name="Bar-Haim2007" /> This can be explained by the alternative theory to the vigilance-avoidance pattern, which is that anxious individuals, once processing the threat, struggle to disengage attention from the threat stimuli due to reasons such as fear.<ref name="Mogg1996" />
+
+Regardless of the opinions, there have been numerous studies which attempt to find the ultimate explanation. However, there have been results which support both theories, thus making the mechanisms of attention bias an uncertain topic.
+
+==Variables==
+
+===Time===
+In one study, stimulus exposure duration was tested against attentional bias for threat stimuli (for non-clinical anxiety). Individuals were given exposure durations of 100, 500, and 1500 millisecond intervals. However, there seemed to be no significant change in the bias towards threat stimuli.<ref name="Mogg1996" /> The experiment has yet to be tested for clinical anxiety.
+
+===Neurocognitive function===
+A study also explored the negative relationship between [[neurocognitive function]] and attentional bias. Individuals with a lower capacity in the attentional domain, particularly in [[Digit symbol substitution test|digit symbol coding]], exhibited more attentional bias toward threats.<ref name="Mogg1996" />
+
+==Clinical applications==
+The link between attentional biases and addictions illustrate how controlling attentional processes may be essential in assisting smokers who are trying to quit. However, this is not dealt with, as in the case of the United Kingdom (UK), the Stop Smoking Services (SSS) and [[National Health Service]] (NHS) both have yet to target attentional biases in their [[smoking cessation]] programs.<ref name="Begh2013" />
+
+Individuals with clinically relevant symptoms, such as anxiety disorders<ref name="Bar-Haim2007" /> and chronic pain<ref name="Schoth2010" /> are shown to initially focus on threatening information.<ref name="Mogg2000" /><ref name="Mathews1994" /><ref name="Tran2015" /><ref name="MacLeod2002" /> However, there is still uncertainty regarding the causes of this relationship. Two studies explored the causes by using a modified dot-probe paradigm and experimentally inducing differential attentional responses to emotional stimuli and then noting the effect on the consequential emotional vulnerability. The results confirmed how inducing attentional bias can alter emotional vulnerability, thus introducing the possibility that cognitive-experimental procedures designed around these results have potential therapeutic value in the future.<ref name="MacLeod2002" />
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name="Bar-Haim2007">{{cite journal|last1=Bar-Haim|first1=Yair|last2=Lamy|first2=Dominique|last3=Pergamin|first3=Lee|last4=Bakermans-Kranenburg|first4=Marian J.|last5=van IJzendoorn|first5=Marinus H.|title=Threat-related attentional bias in anxious and nonanxious individuals: A meta-analytic study.|journal=Psychological Bulletin|date=2007|volume=133|issue=1|pages=1–24|doi=10.1037/0033-2909.133.1.1|pmid=17201568|citeseerx=10.1.1.324.4312|s2cid=2861872 }}</ref>
+
+<ref name="Schoth2010">{{cite journal|last1=Schoth|first1=Daniel E.|last2=Liossi|first2=Christina|title=Attentional Bias Toward Pictorial Representations of Pain in Individuals With Chronic Headache|journal=The Clinical Journal of Pain|date=2010|volume=26|issue=3|pages=244–250|doi=10.1097/AJP.0b013e3181bed0f9|pmid=20173439|s2cid=205454744 }}</ref>
+
+<ref name="Troller-Renfree2015">{{cite journal|last1=Troller-Renfree|first1=Sonya|last2=McDermott|first2=Jennifer Martin|last3=Nelson|first3=Charles A.|last4=Zeanah|first4=Charles H.|last5=Fox|first5=Nathan A.|title=The effects of early foster care intervention on attention biases in previously institutionalized children in Romania|journal=Developmental Science|date=2015|volume=18|issue=5|pages=713–722|doi=10.1111/desc.12261|pmid=25439678|pmc=4447605}}</ref>
+
+<ref name="Janes2010">{{cite journal|last1=Janes|first1=Amy C|last2=Pizzagalli|first2=Diego A|last3=Richardt|first3=Sarah|last4=Frederick|first4=Blaise de B|last5=Holmes|first5=Avram J|last6=Sousa|first6=Jessica|last7=Fava|first7=Maurizio|last8=Evins|first8=A Eden|last9=Kaufman|first9=Marc J|title=Neural Substrates of Attentional Bias for Smoking-Related Cues: An fMRI Study|journal=Neuropsychopharmacology|date=2010|volume=35|issue=12|pages=2339–2345|doi=10.1038/npp.2010.103|pmid=20703221|pmc=2955848}}</ref>
+
+<ref name="KangChang2012">{{cite journal|last1=Kang|first1=O-Seok|last2=Chang|first2=Dong-Seon|last3=Jahng|first3=Geon-Ho|last4=Kim|first4=Song-Yi|last5=Kim|first5=Hackjin|last6=Kim|first6=Jong-Woo|last7=Chung|first7=Sun-Yong|last8=Yang|first8=Seung-In|last9=Park|first9=Hi-Joon|last10=Lee|first10=Hyejung|last11=Chae|first11=Younbyoung|title=Individual differences in smoking-related cue reactivity in smokers: An eye-tracking and fMRI study|journal=Progress in Neuro-Psychopharmacology and Biological Psychiatry|volume=38|issue=2|year=2012|pages=285–293|doi=10.1016/j.pnpbp.2012.04.013|pmid=22542509|s2cid=207410111 }}</ref>
+
+<ref name="Luijten2011">{{cite journal|last1=Luijten|first1=Maartje|last2=Veltman|first2=Dick J.|last3=den Brink|first3=Wim van|last4=Hester|first4=Rob|last5=Field|first5=Matt|last6=Smits|first6=Marion|last7=Franken|first7=Ingmar. H.A.|title=Neurobiological substrate of smoking-related attentional bias|journal=NeuroImage|date=2011|volume=54|issue=3|pages=2374–2381|doi=10.1016/j.neuroimage.2010.09.064|pmid=20932921|s2cid=18057638 }}</ref>
+
+<ref name="Stippekohl2012">{{cite journal|last1=Stippekohl|first1=Bastian|last2=Walter|first2=Bertram|last3=Winkler|first3=Markus H.|last4=Mucha|first4=Ronald F.|last5=Pauli|first5=Paul|last6=Vaitl|first6=Dieter|last7=Stark|first7=Rudolf|title=An early attentional bias to BEGIN-stimuli of the smoking ritual is accompanied with mesocorticolimbic deactivations in smokers|journal=Psychopharmacology|date=2012|volume=222|issue=4|pages=593–607|doi=10.1007/s00213-012-2670-8|pmid=22476609|s2cid=253751616 }}</ref>
+
+<ref name="DrobesElibero2006">{{cite journal|last1=Drobes|first1=David J.|last2=Elibero|first2=Andrea|last3=Evans|first3=David E.|title=Attentional bias for smoking and affective stimuli: A Stroop task study.|journal=Psychology of Addictive Behaviors|volume=20|issue=4|date=2006|pages=490–495|doi=10.1037/0893-164X.20.4.490|pmid=17176185}}</ref>
+
+<ref name="YanJiang2009">{{cite journal|last1=Yan|first1=Xiaodan|last2=Jiang|first2=Yi|last3=Wang|first3=Jin|last4=Deng|first4=Yuan|last5=He|first5=Sheng|last6=Weng|first6=Xuchu|title=Preconscious attentional bias in cigarette smokers: a probe into awareness modulation on attentional bias|journal=Addiction Biology|volume=14|issue=4|year=2009|pages=478–488|doi=10.1111/j.1369-1600.2009.00172.x|pmid=19740368|s2cid=8704240 }}</ref>
+
+<ref name="Szasz2012">{{cite journal|last1=Szasz|first1=Paul Lucian|last2=Szentagotai|first2=Aurora|last3=Hofmann|first3=Stefan G.|title=Effects of emotion regulation strategies on smoking craving, attentional bias, and task persistence|journal=Behaviour Research and Therapy|date=2012|volume=50|issue=5|pages=333–340|doi=10.1016/j.brat.2012.02.010|pmid=22459732}}</ref>
+
+<ref name="CanamarLondon2012">{{cite journal|last1=Canamar|first1=Catherine P.|last2=London|first2=Edythe|title=Acute cigarette smoking reduces latencies on a Smoking Stroop test|journal=Addictive Behaviors|volume=37|issue=5|date=2012|pages=627–631|doi=10.1016/j.addbeh.2012.01.017|pmid=22325952|pmc=3425374}}</ref>
+
+<ref name="Field2009">{{cite journal|last1=Field|first1=Matt|last2=Munafò|first2=Marcus R.|last3=Franken|first3=Ingmar H. A.|title=A meta-analytic investigation of the relationship between attentional bias and subjective craving in substance abuse.|journal=Psychological Bulletin|date=2009|volume=135|issue=4|pages=589–607|doi=10.1037/a0015843|pmid=19586163|pmc=2999821}}</ref>
+
+<ref name="Cane2008">{{cite journal|last1=Cane|first1=J.|last2=Sharma|first2=D|last3=Albery|first3=I.|title=The addiction Stroop task: examining the fast and slow effects of smoking and marijuana-related cues|journal=Journal of Psychopharmacology|date=2008|volume=23|issue=5|pages=510–519|doi=10.1177/0269881108091253|pmid=18562413|s2cid=33501853 }}</ref>
+
+<ref name="Tran2015">{{cite book|first1= Daniela M. |last1=Pfabigan|first2= Ulrich S. |last2=Tran |title= Behavioral and Physiological Bases of Attentional Biases: Paradigms, Participants, and Stimuli|year=2015|publisher= Frontiers Media SA| isbn=978-2-88919-640-1|pages=5–10}}</ref>
+
+<ref name="Mogg1996">{{cite journal |last1=Mogg |first1=Karin |last2=Bradley |first2=Brendan|last3=Bono |first3=Jo | last4=Painter |first4=Michelle |date= April 1997 |title= Time course of attentional bias for threat information in non-clinical anxiety |journal= Behaviour Research and Therapy |volume= 35|issue= 4|pages= 297–303| pmid=9134784|doi=10.1016/s0005-7967(96)00109-x}}</ref>
+
+<ref name="MacLeod2002">{{cite journal|last1= MacLeod|first1=Colin |last2= Rutherford|first2= Elizabth|last3= Campbell|first3=Lyn |last4= Ebsworthy|first4=Greg |last5=Holker|first5=Lin |date=February 2002 |title= Selective attention and emotional vulnerability: Assessing the causal basis of their association through the experimental manipulation of attentional bias |journal= J Abnorm Psychol|volume=111|issue=1 |pages=107–123| doi=10.1037/0021-843X.111.1.107|pmid=11866165 }}</ref>
+
+<ref name="Fox2010">{{cite journal |last1=Fox |first1=Elaine |last2= Russo|first2=Ricardo |last3= Dutton|first3=Kevin |date= May 2002 |title= Attentional bias for threat: Evidence for delayed disengagement from emotional faces |journal=Cognition and Emotion |volume=16 |issue=3 |pages= 355–379 |doi= 10.1080/02699930143000527|pmid=18273395 |pmc=2241753 }}</ref>
+
+<ref name = "Bradley1998">{{cite journal |last1=Bradley |first1=Brendan|last2=Mogg |first2= Karin|last3=Falla |first3= Sara|last4=Hamilton |first4= Lucy|date= 1998|title= Attentional Bias for Threatening Facial Expressions in Anxiety: Manipulation of Stimulus Duration |journal=Cognition and Emotion| volume=12 |issue= 6|pages=737–751|doi=10.1080/026999398379411}}</ref>
+
+<ref name= "Mogg1995">{{cite journal |last1=Mogg |first1=Karin |last2=Bradley |first2=Brendan |last3=Williams |first3=Rachel |date=February 1995|title= Attentional bias in anxiety and depression: The role of awareness |journal=British Journal of Clinical Psychology |volume=34 |issue= 1|pages= 17–36 |doi=10.1111/j.2044-8260.1995.tb01434.x|pmid=7757037 }}</ref>
+
+<ref name="Fielda2008">{{cite journal |last1=Field |first1=Matt |last2=Cox |first2=W. Miles |date=September 2008 |title=Attentional bias in addictive behaviors: a review of its development, causes, and consequences |journal=Drug and Alcohol Dependence |volume=97 |issue=1–2 |pages=1–20 |doi=10.1016/j.drugalcdep.2008.03.030 |pmid=18479844}}</ref>
+
+<ref name="Mogg2000">{{cite journal |last1= Mogg| first1= Karin|last2= Bradley|first2= Brendan|last3= Dixon|first3= Claire|last4=Fisher|first4=Susan |last5=Twelftree|first5=Helen |date= June 2000 |title= Trait anxiety, defensiveness and selective processing of threat: an investigation using two measures of attentional bias |journal= Personality and Individual Differences |volume=28 |issue= 6|pages=1063, 1064, 1073 |doi= 10.1016/S0191-8869(99)00157-9}}</ref>
+
+<ref name="Williams1997">{{cite book |last1= Williams|first1= J. M. G.|last2= Watts|first2= F. N.|last3= MacLeod|first3= C.|last4= Mathews|first4= A. |title= Cognitive psychology and emotional disorders |year=1997| isbn=978-0-471-94430-0|pages=595–603|publisher= Wiley}}</ref>
+
+<ref name="Beck1997">{{cite journal |last1= Beck|first1=Aaron |last2= Clark|first2= David|date= January 2007|title= An information processing model of anxiety: automatic and strategic processes|journal= Behaviour Research and Therapy|volume= 35|issue= 1|pages=49–58 | doi=10.1016/S0005-7967(96)00069-1 |pmid=9009043 |doi-access= free}}</ref>
+
+<ref name="Begh2013">{{cite journal|last1=Begh|first1=Rachna|last2=Munafo|first2=Marcus|last3=Shiffman|first3=Saul|last4=Ferguson|first4=Stuart|last5=Nicols|first5=Linda|last6=Mohammed|first6=Mohammed|last7=Holder|first7=Roger|last8=Sutton|first8=Stephen|last9=Aveyard|first9=Paul|date=December 2013 |title= Attentional bias retraining in cigarette smokers attempting smoking cessation (ARTS): Study protocol for a double blind randomised controlled trial |journal= BMC Public Health|volume= 13 |issue= 1|page=1176|doi= 10.1186/1471-2458-13-1176|pmid=24330656|pmc=3890623 |doi-access=free }}</ref>
+
+<ref name="Mathews1994">{{cite journal |last1=Mathews |first1=A. |last2=MacLeod |first2=Colin |date= February 1994|title= Cognitive approaches to emotion and emotional disorders |journal= Annual Review of Psychology|volume=45 |issue=1 |pages=25–30, 41–50 |doi=10.1146/annurev.ps.45.020194.000325|pmid=8135504 }}</ref>
+
+<ref name="Nisbett1980">{{cite book|first=Richard |last=Nisbett | title=Human inference: Strategies and shortcomings of social judgment|url=https://books.google.com/books?id=J0F11Q5H7doC&pg=PA187|access-date=18 April 2017|year=1980|publisher=Pretice Hall|pages=92–93|isbn= 978-0-13-445130-5}}</ref>
+
+<ref name="Baron2013">{{cite book|first=Jonathan|last= Baron|title=Thinking and Deciding|url=https://books.google.com/books?id=J0F11Q5H7doC&pg=PA187|access-date=27 August 2013|year=2008|publisher=Cambridge University Press|isbn=978-1-139-46602-8|page=187}}</ref>
+
+}}
+
+==Further reading==
+* Baron, Jonathan. (2000). ''Thinking and Deciding'' (3d edition). Cambridge University Press.
+* {{cite journal |doi=10.1037/0022-3514.90.2.210 |last1=Smith |first1=N.K. |last2=Chartrand |first2=T.L. |last3=Larsen |first3=J.T. |last4=Cacioppo |first4=J.T. |last5=Katafiasz |year=2006 |first5=HA |last6=Moran |first6=KE |title=Being bad isn't always good: Affective context moderates the attention bias towards negative information |journal=Journal of Personality and Social Psychology |volume=90 |issue=2 |pages=210–220 |url=http://psychology.uchicago.edu/people/faculty/cacioppo/jtcreprints/beingbadisnt.pdf |pmid=16536647 |access-date=2009-07-16 |archive-url=https://web.archive.org/web/20090920050525/http://psychology.uchicago.edu/people/faculty/cacioppo/jtcreprints/beingbadisnt.pdf |archive-date=2009-09-20 }}
+
+{{Biases}}
+{{Authority control}}
+
+[[Category:Cognitive biases]]

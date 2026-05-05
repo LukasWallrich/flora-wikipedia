@@ -1,0 +1,176 @@
+{{short description|Parasitic roundworm}}
+{{about|the parasite|the British rock band|Hookworms (band)}}
+
+'''Hookworms''' are [[Gastrointestinal tract|intestinal]], [[Hematophagy|blood-feeding]], parasitic [[Nematode|roundworms]] that cause types of infection known as [[helminthiases]]. [[Hookworm infection]] is found in many parts of the world,<ref name=IowaState-factsheet>{{cite web |title=Zoonotic Hookworms |url=https://www.cfsph.iastate.edu/Factsheets/pdfs/hookworms.pdf |url-status=live |author=<!--Not stated--> |website=cfsph.iastate.edu |publisher=[[Iowa State University]] |date=November 2013 |access-date=January 23, 2021 |archive-url=https://web.archive.org/web/20200229090303/http://www.cfsph.iastate.edu/Factsheets/pdfs/hookworms.pdf |archive-date=February 29, 2020}}</ref> and is common in areas with poor access to adequate water, sanitation, and hygiene. In humans, infections are caused by two main species of roundworm, belonging to the genera ''[[Ancylostoma]]'' and ''[[Necator (nematode)|Necator]]''. In other animals the main parasites are species of ''Ancylostoma''. Hookworm is closely associated with poverty because it is most often found in impoverished areas, and its symptoms promote poverty through the educational and health effects it has on children.<ref name=":1">{{cite journal |last1=Hotez |first1=Peter |title=Hookworm and Poverty |journal=Annals of the New York Academy of Sciences |date=2008 |volume=1136 |issue=1 |pages=38–44 |doi=10.1196/annals.1425.000 |pmid=17954674 |bibcode=2008NYASA1136...38H |url=https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1196/annals.1425.000|url-access=subscription }}</ref> It is the leading cause of [[anemia]] and undernutrition in developing countries, while being one of the most commonly occurring diseases among poor people. Hookworm thrives in areas where rainfall is sufficient and keeps the soil from drying out, and where temperatures are higher, making rural, coastal areas prime conditions for the parasite to breed.
+
+==Species==
+[[File:Necator Americanus L3 x1000 12-2007.jpg|thumb|Infective ''N. americanus'' larva]]
+The two most common types of hookworm that infect humans are ''[[Ancylostoma duodenale]]'' and ''[[Necator americanus]]''.<ref name="Hotez2004">{{cite journal
+ |last1=Hotez
+ |first1=Peter J.
+ |last2=Bethony
+ |first2=Jeff
+ |last3=Bottazzi
+ |first3=Maria Elena
+ |last4=Brooker
+ |first4=Simon
+ |last5=Buss
+ |first5=Paulo
+ |title=Hookworm infection
+ |journal=The New England Journal of Medicine
+ |year=2004
+ |volume=351
+ |issue=8
+ |pages=799–807
+ |doi=10.1056/NEJMra032492
+|pmid=15317893
+ }}</ref><ref name="WHO_hookworm">{{cite web
+ |title=Soil-transmitted helminth infections
+ |url=https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections
+ |website=World Health Organization
+ |year=2023
+ |access-date=10 April 2026
+}}</ref>
+
+Hookworm species that are known to infect domestic cats are ''[[Ancylostoma braziliense]]'' and ''[[Ancylostoma tubaeforme]]''. [[Wildcat|Wild cats]] are infected by ''[[Ancylostoma pluridentatum]]''.<ref>{{cite web |last1=Timmins |first1=Lawrence |date=May 28, 2023 |title=Hookworm In Domestic Cats |url=https://pet-ploy.com/cat/hookworm-in-domestic-cats/ |website=Pet Ploy |access-date=June 9, 2023 |archive-date=June 10, 2023 |archive-url=https://web.archive.org/web/20230610003436/https://pet-ploy.com/cat/hookworm-in-domestic-cats/ |url-status=dead }}</ref>
+
+Dogs are commonly infected by ''[[Ancylostoma caninum]]'', but may also be infected by ''[[Uncinaria stenocephala]]'' and ''Ancylostoma braziliense''.<ref name="Little2009">{{cite journal
+ |last1=Little
+ |first1=S. E.
+ |last2=Johnson
+ |first2=E. M.
+ |last3=Lewis
+ |first3=D.
+ |last4=Jaklitsch
+ |first4=R. P.
+ |last5=Payton
+ |first5=M. E.
+ |title=Prevalence of intestinal parasites in pet dogs in the United States
+ |journal=Veterinary Parasitology
+ |year=2009
+ |volume=166
+ |issue=1–2
+ |pages=144–152
+ |doi=10.1016/j.vetpar.2009.07.044
+|pmid=19716659
+ }}</ref><ref name="Ngui2012">{{cite journal
+ |last1=Ngui
+ |first1=R.
+ |last2=Lim
+ |first2=Y. A. L.
+ |last3=Traub
+ |first3=R.
+ |last4=Mahmud
+ |first4=R.
+ |last5=Mistam
+ |first5=M. S.
+ |title=Molecular characterization of hookworm infections in humans and animals in Malaysia
+ |journal=Parasites & Vectors
+ |year=2012
+ |volume=5
+ |issue=5
+ |pages=837–842
+ |doi=10.1186/1756-3305-5-184
+ |doi-access=free
+ |pmid=22556084
+ |pmc=3335690
+}}</ref>
+
+In Asia, ''[[Ancylostoma ceylanicum]]'' is endemic among dogs and cats and infects humans.<ref>{{cite journal |last=Traub |first=Rebecca J. |title=''Ancylostoma ceylanicum'', a re-emerging but neglected parasitic zoonosis |journal=Int J Parasitol |volume=43 |issue=12–13 |pages=1009–1015 |year=2013 |pmid=23968813 |doi=10.1016/j.ijpara.2013.07.006}}</ref>
+
+Cattle are infected by ''[[Bunostomum]] phlebotomum''.<ref name=IowaState-factsheet />
+
+At least 68 species have been described in wild mammals.<ref>{{cite journal |last1=Seguel |first1=M. |last2=Gottdenker |first2=N. |title=The diversity and impact of hookworm infections in wildlife |journal=Int J Parasitol Parasites Wildl |volume=6 |issue=3 |pages=177–194 |year=2017 |doi=10.1016/j.ijppaw.2017.03.007 |pmid=28765810 |pmc=5526439|bibcode=2017IJPPW...6..177S }}</ref>
+
+==Characteristics==
+The two species that commonly infect humans have a similar morphology. ''A. duodenale'' worms are pale grey or slightly pink. The head is bent a little in relation to the rest of the body, forming a hook shape – hence the name. The hook is at the front end of the body. They have well-developed mouths with two pairs of teeth. Males measure approximately 10 by 0.5&nbsp;mm, and females are often longer and stouter. Males also have a prominent copulatory bursa posteriorly.<ref name=MedParis9th>{{cite book |last1=Markell |first1=Edward K. |last2=John |first2=David C. |last3=Petri |first3=William H. |title=Markell and Voge's medical parasitology |publisher=Elsevier Saunders |location=St. Louis, MO |edition=9th |year=2006 |isbn=978-0-7216-4793-7}}</ref>
+
+''N. americanus'' is generally smaller than ''A. duodenale'', with males usually being 5 to 9&nbsp;mm long and females about 10&nbsp;mm long. Instead of the two pairs of teeth in ''A. duodenale'', ''N. americanus'' has a pair of cutting plates in the buccal capsule. Also, the hook is much more defined in ''Necator americanus''.<ref name=MedParis9th/>
+
+===Life cycle===
+[[File:Hookworm LifeCycle.gif|thumb|upright=1.6|Hookworm [[biological life cycle|life cycle]]]]
+The host is infected by the larvae, not by the eggs, and the usual route is through the skin. Hookworm larvae need warm, moist soil, above 18&nbsp;°C, in order to hatch. They will die if exposed to direct sunlight or if they become dried out. ''Necator'' larvae can survive at higher temperatures than ''Ancylostoma'' larvae.<ref name="Hotez2004"/>
+
+First-stage larvae (L1) are non-infective. Once they are hatched in the deposited feces, they feed on it, and then feed on soil microorganisms until they moult into second stage larvae (L2).<ref name="ADW">{{cite web |title=Ancylostoma duodenale |url=https://animaldiversity.org/accounts/Ancylostoma_duodenale/ |website=Animal Diversity Web}}</ref> First- and second-stage larvae are in the [[wikt:rhabditiform|rhabditiform]] stage. After feeding for seven days or so, they will [[moult]] into third-stage larvae (L3) known as the [[wikt:filariform|filariform]] stage, which is the non-feeding, infective stage. Filariform larvae can survive for up to two weeks. They are extremely motile and will move onto higher ground to improve their chances of finding a host.<ref name="Hotez2004"/>
+
+''Necator americanus'' larvae can only infect through penetrating skin, but ''A. duodenale'' can also infect orally. A common route of passage for the larvae is the skin of [[barefoot]] walkers. Once the larvae have entered the host, they travel in the [[circulatory system]] to the lungs, where they leave the [[venule]]s and enter the [[Pulmonary alveolus|alveoli]]. They then travel up the [[trachea]], are coughed up, swallowed and end up in the small intestine. In the small intestine, the larvae moult into stage four (L4) and subsequently into the adult worm.<ref name="Hotez">{{cite journal |last1=Hotez |first1=PJ |last2=Bethony |first2=J |last3=Bottazzi |first3=ME |last4=Brooker |first4=S |last5=Buss |first5=P |title=Hookworm: "the great infection of mankind". |journal=PLOS Medicine |date=March 2005 |volume=2 |issue=3 |pages=e67 |doi=10.1371/journal.pmed.0020067 |pmid=15783256 |pmc=1069663 |doi-access=free }}</ref>  It takes about a week for the larvae to reach the gastrointestinal tract<ref>{{cite web|url=https://www.cdc.gov/ncidod/dpd/parasites/hookworm/factsht_hookworm.htm |title=CDC Factsheet: Hookworm |archiveurl=https://web.archive.org/web/20100904141151/http://www.cdc.gov/NCIDOD/dpd/parasites/hookworm/factsht_hookworm.htm |archivedate=September 4, 2010}}</ref> and a total of five to nine weeks from larval skin penetration for eggs to be passed in stool, indicating that the parasite has reached maturity in the intestine and mated.<ref>{{cite web|url=https://www.merckmanuals.com/professional/infectious-diseases/nematodes-roundworms/hookworm-infection#Diagnosis_v1014276|title=Hookworm Infection|last1=Marie|first1=Chelsea|last2=Petri|first2=William A. Jr.|website=Merck Manual Professional Edition|access-date=30 September 2025|date=July 2025|editor-last=Muzny|editor-first=Christina A.}}</ref>
+
+''Necator americanus'' can cause a prolonged infection lasting from one to five years, with many worms dying in the first year or two. Some worms, though, have been recorded as living for fifteen years or more. In comparison, ''Ancylostoma duodenale'' worms are short-lived, lasting for around six months. However, larvae can remain dormant in tissue stores and be recruited over many years to replace the worms that die.<ref name="Loukas2016">{{cite journal
+ |last1=Loukas
+ |first1=A.
+ |last2=Hotez
+ |first2=P. J.
+ |last3=Diemert
+ |first3=D.
+ |last4=Yazdanbakhsh
+ |first4=M.
+ |last5=McCarthy
+ |first5=J. S.
+ |title=Hookworm infection
+ |journal=Nature Reviews Disease Primers
+ |year=2016
+ |volume=2
+ |article-number=16088
+ |doi=10.1038/nrdp.2016.88
+|pmid=27929101
+ }}</ref>
+
+The worms mate inside the host, in which the females also lay their eggs, to be passed out in the host's feces into the environment to start the cycle again. ''N. americanus'' can lay between nine and ten thousand eggs per day, and ''A. duodenale'' between twenty-five and thirty thousand per day.<ref name="Loukas2016"/>  The eggs of the two species are indistinguishable.<ref name="Bethony2006">{{cite journal
+ |last1=Bethony
+ |first1=J.
+ |last2=Brooker
+ |first2=S.
+ |last3=Albonico
+ |first3=M.
+ |last4=Geiger
+ |first4=S. M.
+ |last5=Loukas
+ |first5=A.
+ |last6=Diemert
+ |first6=D.
+ |last7=Hotez
+ |first7=P. J.
+ |title=Soil-transmitted helminth infections: ascariasis, trichuriasis, and hookworm
+ |journal=The Lancet
+ |year=2006
+ |volume=367
+ |issue=9521
+ |pages=1521–1532
+ |doi=10.1016/S0140-6736(06)68653-4
+|pmid=16679166
+ }}</ref>
+
+Worms need five to seven weeks to reach maturity, and symptoms of infection can therefore appear before eggs are found in the feces, making the diagnosis of hookworm infection difficult.<ref name="Loukas2016"/><ref name="Hotez2004"/>
+
+==Diagnosis==
+Signs and symptoms of hookworm infection vary by [[#Species|host and hookworm species]]. In humans, the first sign of infection is itching and skin rash. Humans with light infections may show no symptoms, but humans with heavy infections may have abdominal pain, diarrhea, loss of appetite, weight loss, fatigue and anemia. Children's physical and cognitive growth may be affected.<ref name=CDC-hookworm-FAQ>{{cite web |url=https://www.cdc.gov/parasites/hookworm/gen_info/faqs.html |title=CDC - Hookworm - Frequently Asked Questions (FAQs) |author=<!--Not stated--> |website=cdc.gov |date=17 September 2020 |publisher=[[Centers for Disease Control and Prevention]] |access-date=January 23, 2021 |url-status=live |archive-url=https://web.archive.org/web/20201221015554/https://www.cdc.gov/parasites/hookworm/gen_info/faqs.html |archive-date=December 21, 2020}}</ref><ref name=":0" /><ref>{{cite journal |last1=Dickson |first1=Rumona |last2=Awasthi |first2=Shally |last3=Williamson |first3=Paula |last4=Demellweek |first4=Colin |last5=Garner |first5=Paul |date=June 24, 2000 |title=Effects of treatment for intestinal helminth infection on growth and cognitive performance in children: systematic review of randomised trials |journal=BMJ: British Medical Journal |volume=320 |issue=7251 |pages=1697–1701 |issn=0959-8138 |pmid=10864543 |pmc=27412 |doi=10.1136/bmj.320.7251.1697}}</ref>
+
+Dogs and cats may experience dermatitis, enteritis, and intestinal blood loss. Dogs may additionally experience anemia, hemorrhagic diarrhea, anorexia and dehydration.<ref name=IowaState-factsheet />
+
+Cattle may experience skin lesions, anemia, and rapid weight loss.<ref name=IowaState-factsheet />
+
+Diagnosis for many forms of hookworm infections is confirmed through fecal analysis to identify hookworm eggs.<ref name=CDC-hookworm-FAQ /> In animals, fecal floatation is used to detect hookworm eggs.<ref name=IowaState-factsheet />
+
+==Treatment==
+Treatment for hookworm infections depends on the species of hookworm and the species of the infected host. In humans, treatment is by [[anthelminthic]] medications, such as [[albendazole]] and [[mebendazole]].<ref name=CDC-hookworm-treatment>{{cite web |title=CDC - Hookworm - Treatment |url=https://www.cdc.gov/parasites/hookworm/treatment.html |author=<!--Not stated--> |website=cdc.gov |date=17 April 2019 |publisher=[[Centers for Disease Control and Prevention]] |access-date=January 23, 2021 |url-status=live |archive-url=https://web.archive.org/web/20201126014433/https://www.cdc.gov/parasites/hookworm/treatment.html |archive-date=November 26, 2020}}</ref> Treatment in animals can be done with a variety of anthelminthics.<ref name=IowaState-factsheet /> A high-protein diet, supplemental iron, or a blood transfusion may also be necessary.<ref name=IowaState-factsheet /> Levamisole and pyrantel pamoate are also used to treat hookworm anemia and hookworm disease.
+
+==Prevention==
+Hookworm infection is treatable and has been locally eradicated in many areas. Successful eradication programs first killed the parasites in victims, then stressed the importance of not walking barefoot in areas where people often defecate.  It was important to build outhouses near schools.  Large training efforts funded by the [[Rockefeller Foundation]] showed state health departments how to eradicate the disease in the American South during the 1910s.<ref name=":0">{{cite journal |last=Bleakley |first=Hoyt |date=2007 |title=Disease and Development: Evidence from Hookworm Eradication in the American South |journal=The Quarterly Journal of Economics |volume=122 |issue=1 |pages=73–117 |issn=0033-5533 |pmc=3800113 |pmid=24146438 |doi=10.1162/qjec.121.1.73}}</ref><ref>{{cite book|first=John|last=Ettling|title=The Germ of Laziness: Rockefeller Philanthropy and Public Health in the New South|publisher=Harvard University Press|year=1981|isbn=0674349903}}</ref>{{page needed|date=December 2024}}
+
+== Hookworm in the United States ==
+While thought to be eradicated around the 1960s, it is possible that hookworm persists in certain areas in the United States. [[Lowndes County, Alabama]] was the subject of various studies on the prevalence and transmission of hookworm as it relates to sanitation issues that the county experienced. [[Catherine Coleman Flowers]] is the figure most closely associated with these studies and efforts to raise awareness of the sanitation problems that face Lowndes. Being one of the poorest counties in the United States with 31.4% of people living below the poverty line,<ref name=McKenna17>{{cite journal |last1=McKenna |first1=Megan L. |last2=McAtee |first2=Shannon |last3=Bryan |first3=Patricia E. |last4=Jeun |first4=Rebecca |last5=Ward |first5=Tabitha |last6=Kraus |first6=Jacob |last7=Bottazzi |first7=Maria E. |last8=Hotez |first8=Peter J. |last9=Flowers |first9=Catherine C. |title=Human Intestinal Parasite Burden and Poor Sanitation in Rural Alabama |last10=Mejia |first10=Rojelio|journal=The American Journal of Tropical Medicine and Hygiene |date=2017 |volume=97 |issue=5 |pages=1623–8 |doi=10.4269/ajtmh.17-0396 |pmid=29016326 |pmc=5817782 |bibcode=2017AJTMH..97.1623M }}</ref> one of the major sanitation issues facing the county is that many residents do not have an adequate sewage system. The study led by the [[Baylor College of Medicine]] noted that roughly three-fourths of the study participants had reported raw sewage flowing back into their homes, increasing the likelihood of their home becoming contaminated.<ref>{{cite web |last1=Whitehead |first1=Nadia |title=The U.S. Thought It Was Rid Of Hookworm. Wrong |website=[[NPR]]|url=https://www.npr.org/sections/goatsandsoda/2017/09/12/550387650/the-u-s-thought-it-was-rid-of-hookworm-wrong|date=12 September 2017|access-date=12 December 2024}}</ref>  
+
+The study in Lowndes had a small sample size of 55 subjects, from 24 households. The results from the screening of hookworm found that over one-third, 19 out of 55, people testing positive by qPCR, demonstrating a stronger correlation to poverty than to the tropics.<ref>{{cite journal|last1=Sanders|first1=John W.|last2=Goraleski |first2=Karen A. |title=The Hookworm Blues: We Still Got 'em |pmc=5817787|journal=The American Journal of Tropical Medicine and Hygiene|year=2017|doi=10.4269/ajtmh.17-0683|pmid=29140235|volume=97|issue=5|pages=1277–9}}</ref>  An important organization involved is the Alabama Center for Rural Enterprise (ACRE), which works to address poverty and economic development, and has stated that there continues to be a lack of adequate [[sewage system]]s, and this increases exposure to open sewage.<ref name=McKenna17 />  Surveys conducted before the testing identified subjects that had traveled abroad to exclude them from the study, making the infection site more likely to be Alabama.<ref name=McKenna17/> A subsequent larger study of 777 children in Alabama's Black Belt (132 from Lowndes) by the [[University of Alabama at Birmingham]] and the [[University of North Carolina at Chapel Hill]] with blinded, independent sample analyses by the [[CDC]] using both standard diagnostic measures as well as qPCR and dPCR identified no cases of hookworm <ref>{{cite journal |vauthors=Poole C, Barker T, Bradbury R, Capone D, Chatham A, Handali S, et al |title=Cross-Sectional Study of Soil-Transmitted Helminthiases in Black Belt Region of Alabama, USA |journal=Emerg Infect Dis |volume=29 |issue=12 |pages=2461–70 |date=2023 |pmid=37987581 |pmc=10683802 |doi=10.3201/eid2912.230751 |url=https://wwwnc.cdc.gov/eid/article/29/12/23-0751_article}}</ref> but did identify some other potential sanitation-related pathogens.<ref>{{cite journal |vauthors=Capone D, Bakare T, Barker T, Chatham A, Clark R, Copperthwaite L, et al |title=Risk Factors for Enteric Pathogen Exposure among Children in Black Belt Region of Alabama, USA |journal=Emerg Infect Dis |volume=29 |issue=12 |pages=2434–42 |date=2023 |doi=10.3201/eid2912.230780 |url=https://wwwnc.cdc.gov/eid/article/29/12/23-0780_article |pmid=37987604 |pmc=10683812 }}</ref> To date, no cases of hookworm have been identified in Alabama in the modern era via the standard diagnostic measure of identifying hookworm eggs in feces.
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{cite journal |first=Anne-Emanuelle |last=Birn |title=Public health or public menace? The Rockefeller Foundation and public health in Mexico, 1920–1950 |journal=Voluntas: International Journal of Voluntary and Nonprofit Organizations |volume=7 |issue=1 |pages=35–56 |date=March 1996 |jstor=27927498 |url=  |doi=10.1007/BF02354067}}
+*{{cite book |first=John |last=Ettling |title=The Germ of Laziness: Rockefeller Philanthropy and Public Health in the New South |publisher=Harvard University Press |date=2013 |orig-date=1980 |isbn=978-0-674-33334-5 |oclc=1154178001 |doi=10.4159/harvard.9780674333345}}
+
+* Haden, Rebecca. "Hookworm Eradication" '' Encyclopedia of Arkansas''  (2023) [https://encyclopediaofarkansas.net/entries/hookworm-eradication-2233/ online]
+
+[[Category:Parasitic nematodes of mammals]]
+[[Category:Ancylostomatidae]]
+[[Category:Invertebrate common names]]

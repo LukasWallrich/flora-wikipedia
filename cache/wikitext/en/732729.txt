@@ -1,0 +1,116 @@
+{{Short description|Formal fallacy, aka Linda Problem}}{{Distinguish|False conjunction}}
+A '''conjunction effect''' or '''Linda problem''' is a [[Cognitive bias|bias]] or [[Logical fallacy|mistake in reasoning]] where adding extra details (an "and" statement or [[logical conjunction]]; [[Mathematical notation|mathematical shorthand]]: <math>\land</math>) to a sentence makes it appear more [[Probability|likely]].<ref name="tk83" /> Logically, this is not possible, because adding more claims can make a true statement false, but cannot make false statements true: If ''A'' is true, then ''<math>A \land B</math>'' might be false (if ''B'' is false). However, if ''A'' is false, then ''<math>A \land B</math>'' will always be false, regardless of what ''B'' is. Therefore, ''<math>A \land B</math>'' cannot be more likely than ''A''.
+
+==Definition and basic example== 
+{{quote box|I am particularly fond of this example [the Linda problem] because I know that the [conjoint] statement is least probable, yet a little [[homunculus]] in my head continues to jump up and down, shouting at me—"but she can't just be a bank teller; read the description."|[[Stephen J. Gould]]<ref name="Gould (1988)">{{cite news|last=Gould|first=Stephen J.|title=The Streak of Streaks|url=http://www.nybooks.com/articles/archives/1988/aug/18/the-streak-of-streaks/?pagination=false|newspaper=The New York Review of Books|year=1988}}</ref>|width=25%|align=right}}
+
+The most often-cited example of this fallacy originated with [[Amos Tversky]] and [[Daniel Kahneman]]:<ref name="tk83" /><ref name="tk81">{{cite report |last1=Tversky |first1=Amos |last2=Kahneman |first2=Daniel |year=1981 |title=Judgments of and by representativeness |  publisher  = Stanford University }}</ref><ref name="Tversky & Kahneman 1982">{{cite book |last1=Tversky |first1=A. |last2=Kahneman |first2=D. |year=1982 |chapter=Judgments of and by representativeness |editor-first=D. |editor-last=Kahneman |editor2-first=P. |editor2-last=Slovic |editor3-first=A. |editor3-last=Tversky |title=Judgment under uncertainty: Heuristics and biases |location=Cambridge, UK |publisher=Cambridge University Press |isbn=0-521-28414-7 }}</ref>
+
+<blockquote>''Linda is 31 years old, single, outspoken, and very bright. She majored in philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.''
+
+Which is more probable?
+# Linda is a bank teller.
+# Linda is a bank teller and is active in the feminist movement.</blockquote>
+
+The majority of those asked chose option 2. However, this is logically impossible: if Linda is a bank teller active in the feminist movement, then she is a bank teller. Therefore, it is impossible for 2 to be true while 1 is false, so the probabilities are at most equal.
+
+More generally, the [[probability]] of two events occurring together (that is, in conjunction) is always less than or equal to the probability of either one occurring itself. For two events ''A'' and ''B'' this inequality can be written as <math>\Pr(A \land B) \leq \Pr(A)</math>.
+
+For example, even choosing a very low probability of Linda's being a bank teller, say Pr(Linda is a bank teller) = 0.05 and a high probability that she would be a feminist, say Pr(Linda is a feminist) = 0.95, then, assuming [[statistical independence|these two facts are independent of each other]], Pr(Linda is a bank teller ''and'' Linda is a feminist)&nbsp;= 0.05&nbsp;×&nbsp;0.95 or&nbsp;0.0475, lower than Pr(Linda is a bank teller).
+
+Tversky and Kahneman argue that most people get this problem wrong because they use a [[heuristics in judgment and decision making|heuristic]] (an easily calculated) procedure called [[representativeness heuristic|representativeness]] to make this kind of judgment: Option 2 seems more "representative" of Linda from the description of her, even though it is clearly mathematically less likely.<ref name="tk83">{{Cite journal |last1=Tversky |first1=Amos |last2=Kahneman |first2=Daniel |date=October 1983 |title=Extension versus intuitive reasoning: The conjunction fallacy in probability judgment |journal=[[Psychological Review]] |volume=90 |issue=4 |pages=293–315 |url=http://content2.apa.org/journals/rev/90/4/293 |archive-url=https://archive.today/20130223193247/http://content2.apa.org/journals/rev/90/4/293 |url-status=dead |archive-date=2013-02-23 |doi=10.1037/0033-295X.90.4.293 |url-access=subscription }}</ref>
+
+In other demonstrations, they argued that a specific scenario seemed more likely because of representativeness, but each added detail would actually make the scenario less and less likely. In this way it could be similar to the [[misleading vividness]] fallacy. More recently, Kahneman has argued that the conjunction fallacy is a type of [[extension neglect]].<ref>{{cite book |last=Kahneman |first=Daniel |year=2000 |chapter=Evaluation by moments, past and future |editor-first=Daniel |editor-last=Kahneman |editor2-first=Amos |editor2-last=Tversky |title=Choices, Values and Frames |publisher=Cambridge University Press |isbn=0-521-62749-4 }}</ref>
+
+==Joint versus separate evaluation==
+
+In some experimental demonstrations, the conjoint option is evaluated separately from its basic option. In other words, one group of participants is asked to rank-order the likelihood that Linda is a bank teller, a high school teacher, and several other options, and another group is asked to rank-order whether Linda is a bank teller and active in the feminist movement versus the same set of options (without "Linda is a bank teller" as an option). In this type of demonstration, different groups of subjects still rank-order Linda as a bank teller and active in the feminist movement more highly than Linda as a bank teller.<ref name="tk83"/>
+
+Separate evaluation experiments preceded the earliest joint evaluation experiments, and Kahneman and Tversky were surprised when the effect was observed even under joint evaluation.<ref name="tk2011-15">{{cite book |last=Kahneman |first=Daniel |title=Thinking, Fast and Slow |url=https://archive.org/details/thinkingfastslow0000kahn |url-access=registration |chapter=Linda: Less is More |year=2011 |publisher=Farrar, Straus and Giroux |location=New York |pages=[https://archive.org/details/thinkingfastslow0000kahn/page/156 156]–165 }}</ref>
+
+==Other examples==
+
+While the Linda problem is the best-known example, researchers have developed dozens of problems that reliably elicit the conjunction fallacy. 
+
+=== Tversky & Kahneman (1981)  ===
+
+The original report by Tversky & Kahneman<ref name="tk81"/> (later republished as a book chapter<ref name="Tversky & Kahneman 1982"/>) described four problems that elicited the conjunction fallacy, including the Linda problem. There was also a similar problem about a man named Bill (a good fit for the stereotype of an accountant — "intelligent, but unimaginative, compulsive, and generally lifeless" — but not a good fit for the stereotype of a jazz player), and two problems where participants were asked to make predictions for events that could occur in 1981.
+
+Policy experts were asked to rate the probability that the [[Soviet Union]] would invade [[Poland]], and the [[United States]] would break off [[diplomatic relations]], all in the following year. They rated it on average as having a 4% probability of occurring. Another group of experts was asked to rate the probability simply that the United States would break off relations with the Soviet Union in the following year. They gave it an average probability of only 1%.
+
+In an experiment conducted in 1980, respondents were asked the following:
+
+<blockquote>Suppose [[Björn Borg]] reaches the [[The Championships, Wimbledon|Wimbledon]] finals in 1981. Please rank order the following outcomes from most to least likely.
+* Borg will win the match
+* Borg will lose the first set
+* Borg will lose the first set but win the match
+* Borg will win the first set but lose the match</blockquote>
+
+On average, participants rated "Borg will lose the first set but win the match" more likely than "Borg will lose the first set". However, winning the match is only one of several potential eventual outcomes after having lost the first set. The first and the second outcome are thus more likely (as they only contain one condition) than the third and fourth outcome (which depend on two conditions).
+
+===  Tversky & Kahneman (1983) ===
+
+Tversky and Kahneman followed up their original findings with a 1983 paper<ref name="tk83"/> that looked at dozens of new problems, most of these with multiple variations. The following are a couple of examples.
+
+<blockquote>Consider a regular six-sided die with four green faces and two red faces. The die will be rolled 20 times and the sequence of greens (G) and reds (R) will be recorded. You are asked to select one sequence, from a set of three, and you will win $25 if the sequence you choose appears on successive rolls of the die.
+
+# RGRRR
+# GRGRRR
+# GRRRRR</blockquote>
+
+65% of participants chose the second sequence, though option 1 is contained within it and is shorter than the other options. In a version where the $25 bet was only hypothetical the results did not significantly differ. Tversky and Kahneman argued that sequence 2 appears "representative" of a chance sequence<ref name="tk83"/> (compare to the ''[[clustering illusion]]'').
+
+<blockquote> 
+A health survey was conducted in a representative sample of adult males in British Columbia of all ages and occupations.
+    
+Mr. F. was included in the sample. He was selected by chance from the list of participants.
+
+Which of the following statements is more probable? (check one)
+
+# Mr. F. has had one or more heart attacks.
+# Mr. F. has had one or more heart attacks and he is over 55 years old.</blockquote>
+
+The probability of the conjunctions is never greater than that of its conjuncts. Therefore, the first choice is more probable.
+
+== Criticism ==
+
+Critics such as [[Gerd Gigerenzer]] and [[Ralph Hertwig]] criticized the Linda problem on grounds such as the [[diction|wording]] and [[framing effect|framing]]. The question of the Linda problem may violate [[conversational maxim]]s in that people assume that the question obeys the maxim of relevance. Gigerenzer argues that some of the terminology used have [[polysemy|polysemous]] meanings, the alternatives of which he claimed were more "natural". He argues that one meaning of ''probable'' ("what happens frequently") corresponds to the mathematical probability people are supposed to be tested on, but other meanings ("what is plausible" and "whether there is evidence") do not.<ref name="Gigerenzer (1996)">{{cite journal|last1=Gigerenzer|first1=Gerd|date=1996|title=On narrow norms and vague heuristics: A reply to Kahneman and Tversky|journal=Psychological Review|volume=103|issue=3|pages=592–596|citeseerx=10.1.1.314.996|doi=10.1037/0033-295X.103.3.592}}</ref><ref name="Hertwig & Gigerenzer (1999)">{{cite journal|last1=Hertwig|first1=Ralph|last2=Gigerenzer|first2=Gerd|year=1999|title=The 'Conjunction Fallacy' Revisited: How Intelligent Inferences Look Like Reasoning Errors|journal=Journal of Behavioral Decision Making|volume=12|issue=4|pages=275–305|citeseerx=10.1.1.157.8726|doi=10.1002/(sici)1099-0771(199912)12:4<275::aid-bdm323>3.3.co;2-d|s2cid=15453720 }}</ref> The term "and" has even been argued to have relevant polysemous meanings.<ref name="Mellers, Hertwig & Kahneman (2001)">{{cite journal|last1=Mellers|first1=B.|last2=Hertwig|first2=R.|last3=Kahneman|first3=D.|year=2001|title=Do frequency representations eliminate conjunction effects? An exercise in adversarial collaboration|url=http://cds.unibas.ch/~hertwig/pdfs/2001/Mellersetal2001_frequency_eliminate_conjunction.pdf|journal=Psychological Science|volume=12|issue=4|pages=269–275|doi=10.1111/1467-9280.00350|pmid=11476091|hdl=11858/00-001M-0000-0025-957F-D|s2cid=38522595 |hdl-access=free}}</ref> Many techniques have been developed to control for this possible misinterpretation, but none of them has dissipated the effect.<ref name="Moro, 2009">{{cite journal|last1=Moro|first1=Rodrigo|date=2009|title=On the nature of the conjunction fallacy|journal=Synthese|volume=171|issue=1|pages=1–24|doi=10.1007/s11229-008-9377-8|hdl=11336/69232 |s2cid=207244869 |hdl-access=free}}</ref><ref name="Tentori & Crupi, 2012">{{cite journal|last1=Tentori|first1=Katya|last2=Crupi|first2=Vincenzo|date=2012|title=On the conjunction fallacy and the meaning of ''and'', yet again: A reply to Hertwig, Benz, and Krauss|url=http://www.vincenzocrupi.com/website/wp-content/uploads/2013/02/TentoriCrupi2012_Cognition.pdf|url-status=live|journal=Cognition|volume=122|issue=2|pages=123–134|doi=10.1016/j.cognition.2011.09.002|pmid=22079517|s2cid=6192639 |archive-url=https://web.archive.org/web/20160510225145/http://www.vincenzocrupi.com/website/wp-content/uploads/2013/02/TentoriCrupi2012_Cognition.pdf|archive-date=2016-05-10}}</ref>
+
+Many variations in wording of the Linda problem were studied by Tversky and Kahneman.<ref name="tk83" /> If the first option is changed to obey conversational relevance, i.e., "Linda is a bank teller whether or not she is active in the feminist movement" the effect is decreased, but the majority (57%) of the respondents still commit the conjunction error.  If the probability is changed to frequency format (''see debiasing section below'') the effect is reduced or eliminated. However, studies exist in which indistinguishable conjunction fallacy rates have been observed with stimuli framed in terms of probabilities versus frequencies.<ref>See, for example: {{cite journal|last1=Tentori|first1=Katya|last2=Bonini|first2=Nicolao|last3=Osherson|first3=Daniel|date=2004|title=The conjunction fallacy: a misunderstanding about conjunction?|journal=Cognitive Science|volume=28|issue=3|pages=467–477|doi=10.1207/s15516709cog2803_8|doi-access=free}} Or: {{cite journal|last1=Wedell|first1=Douglas H.|last2=Moro|first2=Rodrigo|date=2008|title=Testing boundary conditions for the conjunction fallacy: Effects of response mode, conceptual focus, and problem type|journal=Cognition|volume=107|issue=1|pages=105–136|doi=10.1016/j.cognition.2007.08.003|pmid=17927971|s2cid=17197695 }}</ref>
+
+The wording criticisms may be less applicable to the conjunction effect in separate evaluation.{{vague|date=February 2013}}<ref name="Gigerenzer (1996)" /> The "Linda problem" has been studied and criticized more than other types of demonstration of the effect (some described below).<ref name="tk2011-15" /><ref name="Mellers, Hertwig & Kahneman (2001)" /><ref name="Kahneman & Tversky (1996)">{{cite journal|last1=Kahneman|first1=Daniel|last2=Tversky|first2=Amos|date=1996|title=On the reality of cognitive illusions.|journal=Psychological Review|volume=103|issue=3|pages=582–591|citeseerx=10.1.1.174.5117|doi=10.1037/0033-295X.103.3.582|pmid=8759048}}</ref>
+
+In an incentivized experimental study, it has been shown that the conjunction fallacy decreased in those with greater cognitive ability, though it did not disappear.<ref>{{Cite journal|last1=Oechssler|first1=Jörg|last2=Roider|first2=Andreas|last3=Schmitz|first3=Patrick W.|date=2009|title=Cognitive abilities and behavioral biases|url=https://epub.uni-regensburg.de/21701/2/roder2.pdf|journal=Journal of Economic Behavior & Organization|volume=72|issue=1|pages=147–152|doi=10.1016/j.jebo.2009.04.018}}</ref> It has also been shown that the conjunction fallacy becomes less prevalent when subjects are allowed to consult with other subjects.<ref>{{Cite journal|last1=Charness|first1=Gary|last2=Karni|first2=Edi|last3=Levin|first3=Dan|date=2010|title=On the conjunction fallacy in probability judgment: New experimental evidence regarding Linda|journal=Games and Economic Behavior|volume=68|issue=2|pages=551–556|citeseerx=10.1.1.153.3553|doi=10.1016/j.geb.2009.09.003|hdl=10419/49905}}</ref>
+
+Still, the conjunction fallacy occurs even when people are asked to make bets with real money,<ref name="SOBV_2002">{{Cite journal|last1=Sides|first1=Ashley|last2=Osherson|first2=Daniel|last3=Bonini|first3=Nicolao|last4=Viale|first4=Riccardo|date=2002|title=On the reality of the conjunction fallacy|journal=Memory & Cognition|volume=30 |issue=2 |pages=191–198 |doi=10.3758/BF03195280 |pmid=12035881 |s2cid=1650529 |doi-access=free}}</ref> and when they solve intuitive physics problems of various designs.<ref name="LPBDG_2020">{{Cite journal|last1=Ludwin-Peery|first1=Ethan|last2=Bramley|first2=Neil|last3=Davis|first3=Ernest|last4=Gureckis|first4=Todd|date=2020|title=Broken Physics: A Conjunction-Fallacy Effect in Intuitive Physical Reasoning|url=https://journals.sagepub.com/doi/full/10.1177/0956797620957610|journal=Psychological Science|volume=31|issue=12|pages=1602–1611|doi=10.1177/0956797620957610 |pmid=33137265 |hdl=20.500.11820/ffe59a49-8a8b-4def-9281-baa4c7653fba |s2cid=220479849 |hdl-access=free|url-access=subscription}}</ref>
+
+== Debiasing ==
+
+Drawing attention to set relationships, using [[frequentism|frequencies]] instead of probabilities, or thinking [[venn diagram|diagrammatically]] are all methods that sharply reduce the error in some forms of the conjunction fallacy.<ref name="tk83" /><ref name="Hertwig & Gigerenzer (1999)" /><ref name="Mellers, Hertwig & Kahneman (2001)" /><ref name="Gigerenzer (1991)" />
+
+In one experiment the question of the Linda problem was reformulated as follows:
+
+<blockquote><p>There are 100 persons who fit the description above (that is, Linda's). How many of them are:</p>
+* Bank tellers?  __ of 100
+* Bank tellers and active in the feminist movement?  __ of 100</blockquote>
+
+Whereas previously 85% of participants gave the wrong answer (bank teller and active in the feminist movement), in experiments done with this questioning the proportion of incorrect answers is dramatically reduced (to ~20%).<ref name="Gigerenzer (1991)">{{cite journal |last=Gigerenzer |first=G. |year=1991 |title=How to make cognitive illusions disappear: Beyond 'heuristics and biases.' |journal=European Review of Social Psychology |volume=2 |issue=1 |pages=83–115 |doi=10.1080/14792779143000033 |citeseerx=10.1.1.336.9826 }}</ref> Participants were forced to use a mathematical approach and thus recognized the difference more easily.
+
+However, in some tasks only based on frequencies, not on stories, that used clear logical formulations, conjunction fallacies continued to occur dominantly, with only few exceptions, when the observed pattern of frequencies resembled a conjunction.<ref name="von Sydow (2011)">{{cite journal |last=von Sydow|first=M. |year=2011 |title=The Bayesian Logic of Frequency-Based Conjunction Fallacies. |journal=Journal of Mathematical Psychology|volume=55 |issue=2 |pages=119–139 |doi=10.1016/j.jmp.2010.12.001}}</ref>
+
+== In popular culture ==
+
+* In [[Criminal Minds season 13#Episodes|Episode 3 of Season 13]] of [[Criminal Minds]], [[List of Criminal Minds characters|SSA Dr. Spencer Reid]] exposes [[List of Criminal Minds characters|SSA Luke Alvez]] and [[List of Criminal Minds characters|SA Penelope Garcia]] to the Linda problem, saying that he is planning to discuss it in a seminar addressed to FBI agents.
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [http://www.fallacyfiles.org/conjunct.html Fallacy files: Conjunction fallacy]
+
+{{Biases}}
+{{Fallacies}}
+
+[[Category:Informal fallacies]]
+[[Category:Cognitive biases]]
+[[Category:Probability fallacies]]

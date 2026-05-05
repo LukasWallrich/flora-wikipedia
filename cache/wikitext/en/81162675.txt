@@ -1,0 +1,19 @@
+{{Short description|Expression of opinions in a survey that do not fit actual beliefs}}
+
+'''Expressive responding''' is the expression of opinions in a [[Survey (human research)|survey]] that opposes or exaggerates actual beliefs in such a way as to provide psychological comfort for the responder. Expressive responding can be found in groups across the political spectrum.<ref>{{Cite journal |last=Garrett |first=R. Kelly |last2=Bond |first2=Robert M. |last3=Nisbet |first3=Erik C. |title=Self-Reported Exposure and Beliefs About Misinformation Across a U.S. Presidential Election Cycle: Expressive Responding and Motivated Reasoning |url=https://doi.org/10.1080/10584609.2025.2532584 |journal=Political Communication |volume=0 |issue=0 |pages=1–17 |doi=10.1080/10584609.2025.2532584 |issn=1058-4609}}</ref>
+
+There is evidence that expressive responding is done more for internal psychological gain than as a response to true belief in [[misinformation]].<ref>{{Cite journal |last=Schaffner |first=Brian F |last2=Luks |first2=Samantha |date=2018 |title=Misinformation or Expressive Responding? |url=https://academic.oup.com/poq/article-abstract/82/1/135/4868126?redirectedFrom=PDF |journal=Public Opinion Quarterly |language=en |volume=82 |issue=1 |pages=135–147 |doi=10.1093/poq/nfx042 |issn=0033-362X |archive-url=https://web.archive.org/web/20250505211526/https://academic.oup.com/poq/article-abstract/82/1/135/4868126?redirectedFrom=PDF |archive-date=2025-05-05}}</ref>
+
+Expressive responding is more common in those who respond to questions about rumours.<ref>{{Cite journal |last=H. |first=Graham, Matthew |last2=A. |first2=Huber, Gregory |date=2022-01-27 |title=The Expressive Value of Answering Survey Questions |url=https://academic.oup.com/book/43784/chapter-abstract/371082019?redirectedFrom=fulltext |journal=OUP Academic |language=en |doi=10.1093/o |archive-url=https://web.archive.org/web/20240914133528/https://academic.oup.com/book/43784/chapter-abstract/371082019?redirectedFrom=fulltext |archive-date=2024-09-14}}</ref>
+
+== References ==
+{{reflist}}
+
+== See also ==
+* [[Motivated reasoning]]
+
+[[Category:Surveys (human research)]]
+[[Category:Bias]]
+
+{{poli-stub}}
+{{psych-stub}}

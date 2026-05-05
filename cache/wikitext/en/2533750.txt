@@ -1,0 +1,114 @@
+{{Short description|Sociological notions}}
+{{Redirect2|Us and them|Us vs. them|other uses|Us and Them (disambiguation)|and|Us vs. Them (disambiguation)}}
+{{For|use in cladistics|Outgroup (cladistics){{!}}Ingroup and outgroup (cladistics)}}
+{{Use American English|date=December 2018}}
+
+[[File:091507-USCNeb-MemorialStadium.jpg|thumb|Multiple layers of in-groups and out-groups in an [[American football]] stadium:<ul>
+<li>People in this stadium form an in-group of American football fans and professionals vs. those who are not fans of the sport.</li>
+<li>Fans in attendance at the stadium vs. people spectating the match via external means, e.g. television/radio coverage.</li>
+<li>Fans and professionals affiliated with one team vs. those affiliated with the opposing team.</li>
+<li>Professionals on the field (players, officials, coaches, mascots and cheerleaders) vs. the paying customers in the stands who are denied access to the facility's secure nucleus except by invitation from a high-status individual.</li>
+<li>Ranks of the wealthy ownership and their senior executive staff, with access to private box suites vs. high-priced talent.</li>
+<li>Technical staff involved in facilities maintenance and operations vs. sporting staff (referees, timekeepers, statisticians and in-game adjudicators).</li>
+<li>Media with organizational endorsement and affiliation who enjoy special player access to one team vs. non-affiliated media.</li>
+</ul>|306x306px]]
+
+In [[social psychology]] and [[sociology]], an '''in-group''' is a [[social group]] to which a person [[self-categorization theory|psychologically identifies]] as being a member. By contrast, an '''out-group''' is a social group with which an individual does not identify. People may for example identify with their [[peer group]], [[family]], [[community]], [[sports team]], [[political party]], [[gender]], [[sexual orientation]], [[religion]], or [[nation]]. It has been found that the psychological membership of social groups and categories is associated with a wide variety of phenomena.
+
+The terminology was made popular by [[Henri Tajfel]] and colleagues beginning in the 1970s during his work in formulating [[social identity theory]]. The significance of in-group and out-group categorization was identified using a method called the [[minimal group paradigm]]. Tajfel and colleagues found that people can form self-preferencing in-groups within a matter of minutes and that such groups can form even on the basis of completely arbitrary and invented discriminatory characteristics, such as preferences for certain paintings.<ref>See "Kandinsky versus Klee experiment", [[Henri Tajfel|Tajfel]] ''[[et al.]]'' (1971) in [http://www.holah.karoo.net/tajfestudy.htm Tajfel, H. (1970). Experiments in Intergroup Discrimination].</ref><ref>{{Cite journal |pmid = 5482577|year = 1970|last1 = Taijfel|first1 = H.|title = Experiments in intergroup discrimination|journal = Scientific American|volume = 223|issue = 5|pages = 96–102|doi = 10.1038/scientificamerican1170-96|bibcode = 1970SciAm.223e..96T|url=https://asfranthompson.files.wordpress.com/2011/11/tajfel-1970-experiments-in-intergroup-discrimination.pdf|jstor=24927662|archive-url = https://web.archive.org/web/20191206013420/https://asfranthompson.files.wordpress.com/2011/11/tajfel-1970-experiments-in-intergroup-discrimination.pdf|archive-date = 2019-12-06}}</ref><ref>{{Cite journal | doi=10.1002/ejsp.2420010202 | title=Social categorization and intergroup behaviour| journal=European Journal of Social Psychology| volume=1| issue=2| pages=149–178| year=1971| last1=Tajfel| first1=Henri| last2=Billig| first2=M. G.| last3=Bundy| first3=R. P.| last4=Flament| first4=Claude}}</ref><ref>{{Cite journal | doi=10.1177/053901847401300204 |title = Social identity and intergroup behaviour|journal = Social Science Information|volume = 13|issue = 2|pages = 65–93|year = 1974|last1 = Tajfel|first1 = H.|s2cid = 143666442}}</ref>
+
+In [[neurology]], there is an established literature<ref name=Sapolsky2107>{{cite book 
+   |last=Sapolsky
+   |first=Robert
+   |author-link=Robert Sapolsky 
+   |date=2017 
+   |title=Behave: The Biology of Humans at Our Best and Worst 
+|url=https://books.google.com/books?id=tPTGDgAAQBAJ&pg=PA38
+   |publisher= Penguin
+   |pages=38–39, 84–93, 116–117, 387–493, 570–632 <!-- bibliography runs to 50 pages of fine print, set wide --> 
+   |isbn=978-1-59420-507-1
+}}</ref> about the innate propensity of the human brain to divide the world into '''us and them''' valence categories, where the exact membership of the in-group and out-group are socially contingent (hence vulnerable to the instruments of [[propaganda]]), and the intensity exists along a spectrum from mild to complete [[dehumanization]] of the "[[Other (philosophy)|othered]]" group (such as through [[pseudospeciation]]).
+
+==Associated phenomena==
+The psychological categorization of people into in-group and out-group members is associated with a variety of phenomena. The following examples have all received a great deal of academic attention.
+
+===In-group favoritism===
+{{See also|In-group favoritism|Closure (sociology)|You are either with us, or against us}}
+This refers to the fact that under certain conditions, people will prefer and have affinity for one's in-group over the out-group, or anyone viewed as outside the in-group. This can be expressed in one's evaluation of others, linking, allocation of resources, and many other ways.<ref name=aronson>{{cite book |title=Social psychology |author-link1=Elliot Aronson |last1=Aronson |first1=E. |author-link2=Timothy Wilson |last2=Wilson |first2=T. D. |last3=Akert |first3=R. D. |last4=Sommers |first4=S. R.|year=2015|publisher=[[Pearson Education]] |location=London |url=https://books.google.com/books?id=nIVHrgEACAAJ| edition=9th, illustrated, revised| isbn=978-0-13393654-4}}</ref> How we perceive the actions of others is also affected by in-group favoritism. People may perceive the same action very differently depending on whether the action was executed by a member of the same group or a member of a different group.<ref name=":0">{{Cite journal |last1=Molenberghs |first1=Pascal |last2=Halász |first2=Veronika |last3=Mattingley |first3=Jason B. |last4=Vanman |first4=Eric J. |author-link4=Eric Vanman |last5=Cunnington |first5=Ross |date=2013 |title=Seeing is believing: Neural mechanisms of action–perception are biased by team membership |url= |journal=Human Brain Mapping |language=en |volume=34 |issue=9 |pages=2055–2068 |doi=10.1002/hbm.22044 |issn=1097-0193 |pmc=6870530 |pmid=22290781 |doi-access=free}}</ref>  In fact, people tend to evaluate actions of their own group or team members much more favorably than those of outgroup members.<ref name=":0" /> An illustrative example of the way this phenomenon takes place can be demonstrated just by arbitrarily assigning a person to a distinct and objectively meaningless novel group; this alone is sufficient to create intergroup biases in which members of the perceiver's own group are preferentially favored.<ref>{{Cite journal|last1=Tajfel|first1=Henri|last2=Billig|first2=M. G.|last3=Bundy|first3=R. P.|last4=Flament|first4=Claude|date=1971|title=Social categorization and intergroup behaviour|url=https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2420010202|journal=European Journal of Social Psychology|language=en|volume=1|issue=2|pages=149–178|doi=10.1002/ejsp.2420010202|issn=1099-0992|url-access=subscription}}</ref> This phenomenon was demonstrated in an empirical study conducted by Molenberghs and colleagues in 2013.<ref name=":0" /> In the study, participants were arbitrarily divided into two teams where they watched videos of individuals of competing teams and individuals from their own team perform hand actions. Participants were then asked to judge the speed of the hand movements.<ref name=":0" /> On average participants judged members of their own teams to be faster, although the hand movements were the exact same speed across the board. Similarly, Hastorf and Cantril conducted a pioneering study in 1954, where students of both Princeton and Dartmouth viewed a contentious football game between their two teams.<ref name=":1">{{Cite journal|last1=Hastorf|first1=Albert H.|last2=Cantril|first2=Hadley|date=1954|title=They saw a game; a case study.|url=http://doi.apa.org/getdoi.cfm?doi=10.1037/h0057880|journal=The Journal of Abnormal and Social Psychology|language=en|volume=49|issue=1|pages=129–134|doi=10.1037/h0057880|pmid=13128974|issn=0096-851X|url-access=subscription}}</ref> Although they had watched the same motion picture of the game, their versions of what transpired were so starkly different it appeared as though they had watched two totally different games.<ref name=":1" />
+
+=== Neural mechanisms of in-group favoritism and out-group bias ===
+Some may wonder why in-group favoritism takes place, even in arbitrarily assigned groups where group members have nothing in common other than the group to which they were assigned. Research points to unconscious decision-making processes that take place at the [[neurological]] level, where in-group favoritism and out-group bias occurs very early in perception. This process can begin by simply viewing a person's face.<ref>{{Citation|last1=Senholzi|first1=Keith B.|title=The Neural Mechanisms of Prejudice Intervention|date=2016|url=http://dx.doi.org/10.1016/b978-0-12-800935-2.00018-x|work=Neuroimaging Personality, Social Cognition, and Character|pages=337–354|publisher=Elsevier|isbn=978-0-12-800935-2|access-date=2020-12-07|last2=Kubota|first2=Jennifer T.|doi=10.1016/b978-0-12-800935-2.00018-x|url-access=subscription}}</ref> Research indicates that individuals are faster and more accurate at recognizing faces of ingroup vs. outgroup members.<ref>{{Cite journal|last1=Corenblum|first1=B.|last2=Meissner|first2=Christian A.|date=March 2006|title=Recognition of faces of ingroup and outgroup children and adults|url=https://linkinghub.elsevier.com/retrieve/pii/S0022096505001256|journal=Journal of Experimental Child Psychology|language=en|volume=93|issue=3|pages=187–206|doi=10.1016/j.jecp.2005.09.001|pmid=16243349|url-access=subscription}}</ref> For example, researchers in a cross-race recognition study recorded blood oxygenation level-dependent signal (BOLD) activity from black and white participants while they viewed and attempted to remember pictures of unfamiliar black faces, white faces and objects.<ref name=":2">{{Cite journal|last1=Golby|first1=Alexandra J.|last2=Gabrieli|first2=John D. E.|last3=Chiao|first3=Joan Y.|last4=Eberhardt|first4=Jennifer L.|date=August 2001|title=Differential responses in the fusiform region to same-race and other-race faces|url=http://dx.doi.org/10.1038/90565|journal=Nature Neuroscience|volume=4|issue=8|pages=845–850|doi=10.1038/90565|pmid=11477432|s2cid=16699355|issn=1097-6256|url-access=subscription}}</ref> They found that participants in this study exhibited greater activity in the [[fusiform face area]] (FFA), an area of the [[fusiform gyrus]] located in the inferior temporal cortex of the brain linked to object and face recognition, when viewing same race faces compared to other race faces.<ref name=":2" /> Lower activity in the FFA reflects a failure to encode outgroup members at the individual level rather than the categorical level, which comes at the expense of encoding individuating information.<ref>{{Cite journal|last1=Young|first1=Steven G.|last2=Hugenberg|first2=Kurt|date=2011-05-31|title=Individuation Motivation and Face Experience Can Operate Jointly to Produce the Own-Race Bias|url=http://dx.doi.org/10.1177/1948550611409759|journal=Social Psychological and Personality Science|volume=3|issue=1|pages=80–87|doi=10.1177/1948550611409759|s2cid=145427030|issn=1948-5506|url-access=subscription}}</ref><ref>{{Cite journal|last1=Sangrigoli|first1=Sandy|last2=de Schonen|first2=Scania|date=October 2004|title=Recognition of own-race and other-race faces by three-month-old infants|url=http://dx.doi.org/10.1111/j.1469-7610.2004.00319.x|journal=Journal of Child Psychology and Psychiatry|volume=45|issue=7|pages=1219–1227|doi=10.1111/j.1469-7610.2004.00319.x|pmid=15335342|issn=0021-9630|url-access=subscription}}</ref><ref>{{Cite journal|last1=Ostrom|first1=Thomas M.|last2=Carpenter|first2=Sandra L.|last3=Sedikides|first3=Constantine|last4=Li|first4=Fan|date=1993|title=Differential processing of in-group and out-group information.|url=http://dx.doi.org/10.1037/0022-3514.64.1.21|journal=Journal of Personality and Social Psychology|volume=64|issue=1|pages=21–34|doi=10.1037/0022-3514.64.1.21|issn=1939-1315|url-access=subscription}}</ref> This suggests out-group or unfamiliar faces may not be "faces" with the same intensity as in-group faces.<ref>{{Cite journal|last1=Brosch|first1=Tobias|last2=Bar-David|first2=Eyal|last3=Phelps|first3=Elizabeth A.|date=2013-01-08|title=Implicit Race Bias Decreases the Similarity of Neural Representations of Black and White Faces|url= |journal=Psychological Science|volume=24|issue=2|pages=160–166|doi=10.1177/0956797612451465|pmid=23300228|issn=0956-7976|pmc=3864653}}</ref> Prior research has also shown that the devaluation and dehumanization of outgroup members is exacerbated when the initial encoding and configural processing of an outgroup face is impeded.<ref>{{Cite journal|last1=Krosch|first1=Amy R.|last2=Amodio|first2=David M.|date=November 2019|title=Scarcity disrupts the neural encoding of Black faces: A socioperceptual pathway to discrimination.|journal=Journal of Personality and Social Psychology|language=en|volume=117|issue=5|pages=859–875|doi=10.1037/pspa0000168|pmid=31233317|issn=1939-1315|doi-access=free}}</ref> So not only does this initial encoding process dehumanize outgroup members, it also contributes to a homogeneity effect, whereby outgroup members are perceived as more similar to each other than ingroup members.<ref>{{Cite journal|last1=Kubota|first1=Jennifer T|last2=Banaji|first2=Mahzarin R|last3=Phelps|first3=Elizabeth A|date=July 2012|title=The neuroscience of race|url= |journal=Nature Neuroscience|language=en|volume=15|issue=7|pages=940–948|doi=10.1038/nn.3136|issn=1097-6256|pmc=3864590|pmid=22735516}}</ref>
+
+===Group homogeneity===
+{{Main article|Outgroup homogeneity}}
+Categorization of people into social groups increases the perception that group members are similar to one another. An outcome of this is the out-group homogeneity effect. This refers to the perception of members of an out-group as being homogenous, while members of one's in-group are perceived as being diverse, e.g. "they are alike; we are diverse".<ref>{{cite book|last1=Leyens|first1=Jacques-Philippe|url=https://books.google.com/books?id=_SO3AAAAIAAJ|title=Stereotypes and Social Cognition|last2=Yzerbyt|first2=Vincent|last3=Schadron|first3=Georges|publisher=[[SAGE Publications]]|year=1994|isbn=978-0-80398583-4|location=[[Thousand Oaks, California]]|pages=104–107}}</ref><ref name="Quattrone & Jones (1980)">{{cite journal|last1=Quattrone|first1=George A.|last2=Jones|first2=Edward E.|year=1980|title=The perception of variability within in-groups and out-groups: Implications for the law of small numbers.|journal=[[Journal of Personality and Social Psychology]]|volume=38|issue=1|pages=141–152|doi=10.1037/0022-3514.38.1.141|issn=0022-3514}}</ref> This is especially likely to occur in regard to negative characteristics.  Under certain conditions, in-group members can be perceived as being similar to one another in regard to positive characteristics.  This effect is called in-group homogeneity.<ref>{{cite book|last=Jackson|first=Lynne M.|url=https://books.google.com/books?id=Q8MkAQAAMAAJ|title=The Psychology of Prejudice: From Attitudes to Social Action|publisher=[[American Psychological Association]]|year=2011|isbn=978-1-43380920-0|location=Washington, DC|pages=110–112}}</ref>
+
+In-group and out-group may heavily dictate how one may think. It may rewrite threat detection to out-group members. And people filter reality through lenses that may interpret the same threats as opposite based on the group. This concept may be extrapolated to many different real-life scenarios and even wars. These radically changing thoughts between groups can be seen similarly in groupism. In-group and out-group may be differentiated very minimally, such as choosing groups by coin flip. However, although these traits may seem unintuitive, they were superior for evolution.<ref>Van Bavel, Jay J., and Dominic J. Packer. The Power of Us: How We Connect, Act, and Lead Together. Little, Brown Spark, 2021.</ref>
+
+===Out-group derogation===
+Discrimination between in-groups and out-groups is a matter of favoritism towards an in-group and the absence of equivalent favoritism towards an out-group.<ref>{{cite journal|last=Brewer|first=Marilynn B.|author-link=Marilynn Brewer|title=The Psychology of Prejudice: In-group Love and Out-group Hate?|journal=[[Journal of Social Issues]]|date=Fall 1999|volume=55|issue=3|pages=429–444|doi=10.1111/0022-4537.00126}}</ref> Out-group derogation is the phenomenon in which an out-group is perceived as being threatening to the members of an in-group.<ref>{{cite journal|last1=Hewstone|first1=Miles|author-link1=Miles Hewstone |last2=Rubin|first2=Mark|last3=Willis|first3=Hazel|title=Intergroup Bias|date=February 2002|journal=[[Annual Review of Psychology]] | pages=575–604 |volume=53|doi=10.1146/annurev.psych.53.100901.135109|pmid=11752497|s2cid=11830211 }}</ref> This phenomenon often accompanies in-group favoritism, as it requires one to have an affinity towards their in-group. Some research suggests that out-group derogation occurs when an out-group is perceived as blocking or hindering the goals of an in-group. It has also been argued that out-group derogation is a natural consequence of the categorization process.<ref>{{cite journal|last1=Zhong|first1=Chen-Bo|last2=Phillips|first2=Katherine W.|last3=Leonardelli|first3=Geoffrey J.|last4=Galinsky|first4=Adam D.|title=Negational categorization and intergroup behavior|journal=[[Personality and Social Psychology Bulletin]]|year=2008|volume=34|issue=6|pages=793–806|pmid=18391025|doi=10.1177/0146167208315457|s2cid=14610644}}</ref>
+
+===Social influence===
+{{Main article|Social influence}}
+People have been shown to be differentially influenced by in-group members. That is, under conditions where group categorization is psychologically salient, people will shift their beliefs in line with in-group [[Norm (social)|social norms]].
+
+===Group polarization===
+{{Main article|Group polarization}}
+This generally refers to the tendency of groups to make decisions that are more extreme than the initial inclination of its members, although polarization toward the most central beliefs has also been observed. It has been shown that this effect is related to a psychologically salient in-group and outgroup categorization.
+
+==Postulated role in human evolution==
+In [[evolutionary psychology]], in-group favoritism is seen as an evolved mechanism selected for the advantages of [[coalition]] affiliation.<ref>{{cite journal |author1=L. Cosmides |author2=J. Tooby |author3=R. Kurzban |title=Perceptions of race |journal=Trends in Cognitive Sciences |volume=7 |issue=4 |pages=173–179 | date=April 1, 2003 |doi=10.1016/S1364-6613(03)00057-3 |pmid= 12691766|s2cid=11343153 }}</ref> It has been argued that characteristics such as gender and [[ethnicity]] are inflexible or even [[Essentialism|essential]] features of such systems.<ref>{{cite book |title=Race in the Making: Cognition, Culture, and the Child's Construction of Human Kinds |author=L. A. Hirschfeld |year=1996 |publisher=Mit Press |location=Cambridge, Massachusetts |url=https://books.google.com/books?id=rXubQgAACAAJ | isbn=978-0-26208247-1}}</ref><ref>{{cite journal |author=F. J. Gil-White |title=Are Ethnic Groups Biological "Species" to the Human Brain? Essentialism in Our Cognition of Some Social Categories |journal=[[Current Anthropology]] |volume=42 |issue=4 |pages=515–553 |date=August–October 2001 |publisher=[[University of Chicago Press]] |jstor=10.1086/321802 |doi=10.1086/321802|s2cid=53592867 }}</ref> However, there is evidence that elements of favoritism are flexible in that they can be erased by changes in social categorization.<ref>{{cite journal |author1=R. Kurzban |author2=J. Tooby |author3=L. Cosmides |title=Can race be erased? Coalitional computation and social categorization |journal=[[Proceedings of the National Academy of Sciences of the United States of America]]|volume=98 |issue=26 |pages=15387–15392 |date=December 18, 2001 |doi=10.1073/pnas.251541498 |pmid=11742078 |pmc=65039|bibcode=2001PNAS...9815387K |doi-access=free }}</ref> This change is known as [[recategorization]].<ref>{{Cite journal |last1=Gaertner |first1=Samuel |last2=Mann |first2=Jeffrey |last3=Murrell |first3=Audrey |last4=Dovidio |first4=John |title=Reducing intergroup bias: The benefits of recategorization |url=https://psycnet.apa.org/doi/10.1037/0022-3514.57.2.239 |journal=Journal of Personality and Social Psychology |date=1989 |volume=57 |issue=2 |pages=239–249 |doi=10.1037/0022-3514.57.2.239 |via=APA PsycNet|url-access=subscription }}</ref> One study in the field of [[behavioural genetics]] suggests that biological mechanisms may exist which favor a coexistence of both flexible and [[essentialist]] systems.<ref>{{cite journal |author1=G. J. Lewis |author2=T. C. Bates |title=Genetic Evidence for Multiple Biological Mechanisms Underlying In-Group Favoritism|journal=[[Psychological Science]] |volume=21 |issue=11 |pages=1623–1628 |date=November 2010 |doi=10.1177/0956797610387439  |pmid=20974715 |s2cid=27351021 }}</ref>
+
+== See also ==
+{{columns-list|colwidth=20em|
+* [[Allosemitism]]
+* [[Amity-enmity complex]]
+* [[Antilocution]]
+* [[Ambivalent prejudice]]
+* [[Autarky]]
+* [[Bandwagon effect]]
+* [[Basking in reflected glory]]
+* [[Belongingness]]
+* [[Benevolent prejudice]]
+* [[Cultural identity]]
+* [[Cronyism]]
+* [[Collective narcissism]]
+* [[Common ingroup identity]]
+* [[Double standard]]
+* [[Endogamy]]
+* [[Elitism]]
+* [[Echo chamber (media)]]
+* [[False consensus effect]]
+* [[Groupthink]]
+* [[Homophobia]]
+* [[Hostile prejudice]]
+* [[List of terms for ethnic out-groups]]
+* [[Microculture]]
+* [[Nationalism]]
+* [[Nepotism]]
+* [[Other (philosophy)]]
+* [[Paradox of tolerance]]
+* [[Persecution]]
+* [[Positional good]]
+* [[Prejudice]]
+* [[Racism]]
+* [[Scapegoating]]
+* [[Sexism]]
+* [[Shibboleth]]
+* [[Social class]]
+* [[Social dominance orientation]]
+* [[Subculture]]
+* [[Tribalism]]
+* ''[[Uchi-soto]]''
+}}
+
+== References ==
+{{reflist|2}}
+
+{{DEFAULTSORT:Ingroups And Outgroups}}
+[[Category:Sociological terminology]]
+[[Category:Group processes]]
+[[Category:Dichotomies]]
+[[Category:Prejudice and discrimination]]
+[[Category:Authoritarianism]]
+[[Category:Collective identity]]

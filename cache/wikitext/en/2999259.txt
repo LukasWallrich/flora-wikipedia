@@ -1,0 +1,196 @@
+{{Short description|Tendency to remember one's choices as better than they actually were}}
+'''Choice-supportive bias''' or '''post-purchase rationalization''' is the tendency to retroactively ascribe positive attributes to an option one has selected and/or to demote the forgone options.<ref name=":0">{{Cite journal|last1=Lind|first1=Martina|last2=Visentini|first2=Mimì|last3=Mäntylä|first3=Timo|last4=Del Missier|first4=Fabio|date=2017-12-04|title=Choice-Supportive Misremembering: A New Taxonomy and Review|journal=Frontiers in Psychology|volume=8|page=2062|doi=10.3389/fpsyg.2017.02062|issn=1664-1078|pmc=5723021|pmid=29255436|doi-access=free}}</ref> It is part of [[cognitive science]], and is a distinct [[cognitive bias]] that occurs once a decision is made. For example, if a person chooses option A instead of option B, they are likely to ignore or downplay the faults of option A while amplifying or ascribing new negative faults to option B. Conversely, they are also likely to notice and amplify the advantages of option A and not notice or de-emphasize those of option B.
+
+What is remembered about a decision can be as important as the decision itself, especially in determining how much regret or satisfaction one experiences.<ref name="Mather" /> Research indicates that the process of making and remembering choices yields [[Memory|memories]] that tend to be distorted in predictable ways.<ref name="Mather" />
+
+In cognitive science, one predictable way that memories of choice options are distorted is that positive aspects tend to be remembered as part of the chosen option, whether or not they originally were part of that option, and negative aspects tend to be remembered as part of rejected options.<ref name="Mather" /> Once an action has been taken, the ways in which we evaluate the effectiveness of what we did may be biased.<ref name="Duncan" /> It is believed this may influence our future decision-making. These biases may be stored as memories, which are attributions that we make about our mental experiences based on their subjective qualities, our prior knowledge and beliefs, our motives and goals, and the social context. True and [[false memories]] arise by the same mechanism because when the brain processes and stores information, it cannot tell the difference where they came from.<ref name="Johnson" />
+
+==General definition==
+The tendency to remember one's choices as better than they actually were. In this respect, people tend to over attribute positive features to options they chose and negative features to options not chosen.<ref name= "Mather" />
+
+==Theory==
+Experiments in cognitive science and [[social psychology]] have revealed a wide variety of biases in areas such as statistical reasoning, [[social attribution]], and [[memory]].<ref name="Duncan" />
+
+Choice-supportive memory distortion is thought to occur during the time of memory retrieval and was the result of the belief that, "I chose this option, therefore it must have been the better option."<ref name="Memory" />  Essentially,  after a choice is made people tend to adjust their attitudes to be consistent with, the decision they have already made.<ref name="Hornsby" /><ref name="Mather" /><ref>{{Cite book|title=A theory of cognitive dissonance|last=Festinger, Leon, 1919-1989|isbn=0-8047-0911-4|location=Stanford, California|oclc=921356|year = 1962}}</ref> It is also possible that choice-supportive memories arise because an individual is only paying attention to certain pieces of information when making a decision or to post-choice [[cognitive dissonance]].<ref name="Memory" /> In addition, biases can also arise because they are closely related to the high level [[cognitive operations]] and complex [[social interactions]].<ref name="Daniel" />
+
+Memory distortions may sometimes serve a purpose because it may be in our interest to not remember some details of an event or to forget others altogether.<ref name="Gordon" />
+
+==Making a selection==
+The objective of a choice is generally to pick the best option. Thus, after making a choice, a person is likely to maintain the belief that the chosen option was better than the options rejected. Every choice has an upside and a downside. The process of making a decision mostly relies upon previous experiences. Therefore, a person will remember not only the decision made but also the reasoning behind making that decision.
+
+===Motivation===
+Motivation may also play a role in this process because when a person remembers the option that they chose as being the best option, it should help reduce regret about their choice. This may represent a positive illusion that promotes well-being.
+
+===Cases when the individual is not in control===
+There are cases where an individual is not always in control of which options are received. People often end up with options that were not chosen but, instead were assigned by others, such as job assignments made by bosses, course instructors assigned by a registrar, or vacation spots selected by other family members.<ref name="Mather3" /> However, being assigned (random or not) to an option leads to a different set of cognitions and memory attributions that tend to favor the alternative (non-received) option and may emphasize regret and disappointment.<ref name="Stoll" />
+*'''Assigned options''': Making a choice or having a choice made for you by other people in your best interest can prompt memory attributions that support that choice.  Current experiments show no choice-supportive memory bias for assigned options.<ref name="Mather3" /> However, choices which are made on a person's behalf in their best interest do show a tendency for choice-supportive memory bias.
+*'''Random selection''': People do not show choice-supportive biases when choices are made randomly for them.<ref name="Henkel" />  This is because choice-supportive memory bias tends to arise during the act of making the decision.
+
+== How different forms of misremembering create different types of choice-supportive biases ==
+
+=== Misattribution ===
+Misattribution is a well-known [http://methods.sagepub.com/reference/encyclopedia-of-survey-research-methods/n164.xml commission error] supported by researchers.<ref name=":0" /><ref>{{Cite journal|last=Schacter|first=Daniel L.|s2cid=14882268|date=1999|title=The seven sins of memory: Insights from psychology and cognitive neuroscience.|journal=American Psychologist|language=en|volume=54|issue=3|pages=182–203|doi=10.1037/0003-066X.54.3.182|pmid=10199218|issn=1935-990X}}</ref> It results in a type of choice-supportive bias when information is attributed to the wrong source.<ref name=":0" /> Consequently, the positive attributes of the forgone option are remembered as the positive attributes of the chosen option, or the negative attributes of the chosen option are remembered as the negative attributes of the foregone option. For example, if one had to choose between two pairs of trainers and the chosen pair fitted slightly tighter and the forgone option fitted perfectly, the chosen pair would be remembered as fitting perfectly whereas the forgone pair would be remembered as being slightly tighter (although this was not the case in reality)
+
+While misattribution presupposes correct encoding and recall of the information in relation to a person's decision, the source of the information remains unclear or incorrect. Therefore, it is not to be mistaken with completely false information.<ref name=":0" />
+
+=== Fact distortion ===
+Fact distortion results in a type of choice-supportive bias when the facts belonging to the chosen option are remembered in a distorted manner.<ref name=":0" /> The distortion refers to the objective values and/or features of the chosen option being misremembered in a more preferential way to their actual values. Alternatively, the forgone option can be misremembered as being significantly less preferential then their actual values.<ref>{{Cite journal|last=DeKay|first=Michael L.|date=2015|title=Predecisional Information Distortion and the Self-Fulfilling Prophecy of Early Preferences in Choice|journal=Current Directions in Psychological Science|volume=24|issue=5|pages=405–411|doi=10.1177/0963721415587876|s2cid=146237009|issn=0963-7214|hdl=21.11116/0000-0006-AF43-A|hdl-access=free}}</ref> An example of fact distortion would be if you have to choose between buying one out of two cars which can both drive at a maximum speed of 130&nbsp;mph, the foregone car would be remembered with a maximum speed of 100&nbsp;mph, whereas the chosen car will be remembered with a maximum speed of 160&nbsp;mph. Consequently, the facts concerning both cars have been distorted.
+
+There are varieties of fact distortion that remain contested throughout the literature; as a result, there is no consensus on how it works. Some authors argue that the distortion mainly occurs when the favoured option is misremembered more preferentially, whereas other researchers argue that memory distortion does not occur or is only likely to take place during the post-decision stage.<ref>{{Cite journal|url=http://journal.sjdm.org/9130/jdm9130.html|title=Post-decision consolidation and distortion of facts|last=Svenson|first=Ola|date=2009|journal=Judgment and Decision Making|volume=4 |issue=5 |pages=397–407 |doi=10.1017/S1930297500001224 |s2cid=18889316 |hdl=1794/22047|hdl-access=free}}</ref> Overall, some studies have argued that holding the belief that distortion cannot take place (as soon as the decision is made) means that facts cannot be distorted.<ref name=":0" />
+
+=== Selective forgetting ===
+Selective forgetting results in a form of choice-supportive bias when information is selectively forgotten.<ref name=":0" /> In this respect, the positive attributes of the chosen option and the negative attributes of the forgone option are retained in memory at a higher rate and the alternatives are displaced from memory at a faster rate. An example of selective forgetting would be correctly remembering that your chosen pair of trainers were aesthetically pleasing, but forgetting that they were slightly tight. This omission error may be related to the limited capacity of memory over time, otherwise known as transience.<ref name="Daniel" />
+
+=== False memory ===
+False memory in the context of choice-supportive biases is when items that were not part of the original decision are remembered as being presented. If these entirely new items are positive, they will be remembered as belonging to the chosen option and if they are negative, they will be remembered as belonging to the forgone option.<ref name=":0" /> For example, a chosen pair of shoes might be remembered as good for running, although there was no information presented in respect to the shoes running capabilities.
+
+This type of error is fundamentally different to the other types of misremembering in choice-supportive bias because it is not due to correct encoding and later confusion, but it is due to a completely false memory. This type of bias means that falsely remembered events can affect future attitudes and possibly decision-making.<ref>{{Cite journal|last1=Laney|first1=Cara|last2=Morris|first2=Erin K.|last3=Bernstein|first3=Daniel M.|last4=Wakefield|first4=Briana M.|last5=Loftus|first5=Elizabeth F.|date=2008|title=Asparagus, a Love Story: Healthier Eating Could Be Just a False Memory Away|journal=Experimental Psychology|language=en|volume=55|issue=5|pages=291–300|doi=10.1027/1618-3169.55.5.291|pmid=25116296|issn=1618-3169|url=https://arcabc.ca/islandora/object/kora%3A357|url-access=subscription}}</ref>
+
+== Potential influential factors ==
+
+=== Alignability ===
+Alignability in the context of choice-supportive bias refers to whether both options have directly comparable features. For example, an alignable characteristic could be whether both options can be measured in centimetres. In the context of decision making, alignability can influence choices or the ability to make a similarity judgement of a potential option.<ref name=":1">{{Cite journal|last1=Mather|first1=Mara|last2=Knight|first2=Marisa|last3=McCaffrey|first3=Michael|date=2005|title=The Allure of the Alignable: Younger and Older Adults' False Memories of Choice Features.|journal=Journal of Experimental Psychology: General|language=en|volume=134|issue=1|pages=38–51|doi=10.1037/0096-3445.134.1.38|pmid=15702962|url=http://www.usc.edu/projects/matherlab/pdfs/MatherKnightMcCaffrey2005.pdf|archive-url=https://web.archive.org/web/20140226134218/http://www.usc.edu/projects/matherlab/pdfs/MatherKnightMcCaffrey2005.pdf|archive-date=2014-02-26}}</ref> The alignment process enables a person to draw similarities and difference which impact their choice-supportive biases. Research to support this can be displayed by the following example: when given a choice between two brands of popcorn, participants were more likely to choose the one with the superior alignable differences, such as "pops in its own bag" compared with "requires a microwaveable bowl" than the one with superior non-alignable differences, such as "not likely to burn" compared with those containing "some citric acid"<ref name=":1" /><ref>{{Cite journal|last1=Zhang|first1=Shi|last2=Markman|first2=Arthur B.|date=2001-07-01|title=Processing Product Unique Features: Alignability and Involvement in Preference Construction|journal=Journal of Consumer Psychology|volume=11|issue=1|pages=13–27|doi=10.1207/15327660152054012|issn=1532-7663|doi-access=free}}</ref>
+
+=== Delay ===
+The extent of the delay between encoding is a potential factor that could affect choice-supportive bias. If there is a larger delay between encoding (i.e. viewing the information about the options) and retrieval (i.e. memory tests) it is likely to result in more biased choices rather than the impact of the actual choice on choice-supportive bias.<ref name=":0" /> Some studies have found that the extent of false memories increases over time. Whereas other researchers have shown that a 2-day delay between making choices and assessment of memory resulted in reasonably high (86%) recognition accuracy.<ref name="Mather" /><ref name="Henkel" /> Therefore, these findings indicate that the influence of delays on choice-supportive bias remain varied, and the influence of delays could affect different types of memory distortions differently.<ref name=":0" />
+
+=== Beliefs about the choices one has made ===
+This factor refers to a person's perceived decisions concerning the choices they made, more specifically this includes memories that have been falsified to reflect a selected choice that the person did not actually make. Research illustrates that people favour the options they think they have chosen and remember the attributes of their "chosen choice" more vividly and favourably.<ref name="Henkel" /> Essentially, this influences assesses how one believes the choices they made affects their subsequent memories.<ref name="Henkel" /> As a result, people's memories are biased in favour of the option they thought they had selected rather than their actual choices.<ref name="Henkel" />
+
+=== Individual differences ===
+Individual differences in choice-supportive bias affect the way a person remembers their options and the way they make decisions and therefore it may influence the degree to which a person engages in choice-supportive bias. Factors such as age and individual characteristics can influence an individual's cognitive abilities, personality and thus their overall choice-supportive biases.<ref name=":0" /> For example, it has been observed by correlations that people with better performance in tests of frontal or executive functioning were less prone to choice-supportive memory.<ref name="Mather" />
+
+==Relation to self==
+People's conception of who they are, can be shaped by the memories of the choices they make; the college favored over the one renounced, the job chosen over the one rejected, the candidate elected instead of another one not selected.<ref name="Mather2" /> Memories of chosen as well as forgone alternatives can affect one's sense of well-being. Regret for options not taken can cast a shadow, whereas satisfaction at having made the right choice can make a good outcome seem even better.<ref name="Mather2" />
+
+===Positive illusions===
+Choice-supportive bias often results in memories that depict the self in an overly favorable light. In general, cognitive biases loosen our grasp on reality because the line between reality and fantasy can become fuzzy if one's brain has failed to remember a particular event.<ref name="Daniel" />
+Positive illusions are generally mild and are important contributors to our sense of well-being. However, we all need to be aware that they do exist as part of human nature.<ref name="Daniel" />
+
+==Memory storage==
+Human beings are blessed with having an intelligent and complex mind, which allows us to remember our past, be able to optimize the present, and plan for the future. Remembering involves a complex interaction between the current environment, what one expects to remember, and what is retained from the past.<ref name="Daniel" /> The mechanisms of the brain that allow memory storage and retrieval serves us well most of the time, but occasionally gets us into trouble.
+
+===Memories change over time===
+There is now abundant evidence that memory content can undergo systematic changes. After some period of time and if the memory is not used often, it may become forgotten.
+*'''Memory retention''': It is recognized that retention is best for experiences that are pleasant, intermediate for experiences that are unpleasant, and worst for experiences that are neutral. Generic memories provide the basis for inferences that can bring about distortions. These distortions in memory do not displace an individual's specific memories, but they supplement and fill in the gaps when the memories are lost.<ref name="Bahrick" /> It has been shown that a wide variety of strategic and systematic processes are used to activate different areas of the brain in order to retrieve information.
+*'''Credibility of a memory''': People have a way to self-check memories, in which a person may consider the plausibility of the retrieved memory by asking themselves is this event even possible.<ref name="Johnson" /> For example, if a person remembers seeing a pig fly, they must conclude that it was from a dream because pigs cannot fly in the real world. Memory does not provide people with perfect reproductions of what happened, it only consists of constructions and reconstructions of what happened.<ref name="Johnson" />
+
+==Brain areas of interest==
+There is extensive evidence that the [[amygdala]] is involved in effectively influencing memory.<ref name="McGaugh" />  Emotional arousal, usually fear based, activates the amygdala and results in the modulation of memory storage occurring in other brain regions.
+The [[forebrain]] is one of the targets of the [[amygdala]]. The forebrain receives input from amygdala and calculates the emotional significance of the stimulus, generates an emotional response, and transmits it to [[cerebral cortex]]. This can alter the way neurons respond to future input, and therefore cognitive biases, such as choice-supportive bias can influence future decisions.
+
+===Stress hormones affect memory===
+Effects of stress-related [[hormones]], such as [[epinephrine]] and [[glucocorticoids]] are mediated by influences involving the amygdala.<ref name="McGaugh" /> It has been shown in experiments with rats that when they are given systemic injections of epinephrine while being trained to perform a task, they show an enhanced memory of performing the task. In effect the stronger the emotion that is tied to the memory, the more likely the individual is to remember. Therefore, if the memory is stored and retrieved properly it is less likely to be distorted.
+
+==Brain mapping==
+
+A [[Positron emission tomography|PET]] scan or [[fMRI]] can be used to identify different regions of the brain that are activated during specific memory retrieval.
+
+===fMRI study===
+*'''True versus false memories''': One study asked subjects to remember a series of events while being monitored by an [[fMRI]] to see which areas "light up". When an individual remembered a greater number of true memories than false memories, it showed a cluster spanning the right [[superior temporal gyrus]] and lateral [[occipital cortex]]. However, when the reverse occurred (when an individual remembered a greater number of false memories than true) the brain area that showed activation was the left [[Insular cortex|insula]].<ref name="Baym" />  These findings may provide some insight as to which areas of the brain are involved with storing memories and later retrieving them.
+
+==Influence of age==
+Studies now show that as people age, their process of memory retrieval changes. Although general memory problems are common to everyone because no memory is perfectly accurate, older adults are more likely than younger adults to show choice-supportive biases.
+
+===Aging of the brain===
+Normal aging may be accompanied by [[neuropathy]] in the frontal brain regions. Frontal regions help people encode or use specific memorial attributes to make source judgments, controls personality and the ability to plan for events. These areas can attribute to memory distortions and regulating emotion.
+
+===Regulation of emotion===
+In general, older adults are more likely to remember [[emotional]] aspects of situations than are younger adults. For example, on a memory characteristic [[questionnaire]], older adults rated remembered events as having more associated thoughts and feelings than did younger adults. As a person ages, regulating personal emotion becomes a higher priority, whereas knowledge acquisition becomes less of a powerful motive. Therefore, choice-supportive bias would arise because their focus was on how they felt about the choice rather than on the factual details of the options. Studies have shown that when younger adults are encouraged to remember the emotional aspect of a choice, they are more likely to show choice-supportive bias.  This may be related to older adults' greater tendency to show a [[positivity effect]] in memory.
+
+===Rely on familiarity===
+Older adults rely more than younger adults on categorical or general knowledge about an event to recognize particular elements from the event.<ref name="Mather" /> Older adults are also less likely to correctly remember contextual features of events, such as their color or location. This may be because older adults remember (or rely on) fewer source identifying characteristics than the young. Consequently, older adults must more often guess or base a response on less specific information, such as [[wikt:familiar|familiarity]].<ref name="Dodson" /> As a result, if they can't remember something, they are more likely to fill in the missing gaps with things that are familiar to them.<ref name="Daniel" />
+
+===Getting the 'gist'===
+Older adults are more reliant on gist-based retrieval. A number of studies suggest that using [[stereotypes]] or general knowledge to help remember an event is less cognitively demanding than relying on other types of memorial information and thus might require less reflective activity. This shift towards gist-based processes might occur as a compensation for age decrements in [[wikt:verbatim|verbatim]] memory.<ref name="Lovden" />
+
+===Inhibition===
+The [[episodic memory]] and inhibition accounts of age-related increases in [[false memories]].  Inhibition of a memory may be related to an individual's hearing capacity and attention span. If the person cannot hear what is going on around them or is not paying much attention, the memory cannot be properly stored and therefore cannot be accurately retrieved.
+
+==Examples==
+
+===Deciding between two used cars===
+Henkel and Mather tested the role of beliefs at the time of retrieval about which option was chosen by giving participants several hypothetical choices like deciding between two used cars.<ref name="Memory" />
+After making several choices, participants left and were asked to return a week later. At that point, Henkel and Mather reminded them which option they had chosen for each choice and gave them a list of the features of the two options; some new positive and negative features were mixed in with the old features. Next, participants were asked to indicate whether each option was new, had been associated with the option they chose, or had been associated with the option they rejected. Participants favored whichever option Henkel and Mather had told them they had chosen in their memories.<ref name="Memory" /> These findings show that beliefs at the time of retrieval about which option was chosen shape both which features are attributed to the options and how vividly they are remembered.
+
+===Remembering high school grades===
+One study looked at the accuracy and distortion in memory for high school grades. The relation between accuracy and distortion of [[autobiographical memory]] content was examined by verifying 3,220 high school grades recalled by 99 freshman college students.<ref name="Bahrick" />  It was shown that most errors inflated the actual high school grade, meaning that these distortions are attributed to memory reconstructions in a positive and emotionally gratifying direction. In addition, their findings indicate that the process of distortion does not cause the actual unpleasant memory loss of getting the bad grade.<ref name="Bahrick" /> This is because there was no correlation found between the percentage of accuracy recall and the degree of asymmetry, or distortion. This shows that the distortion in memories of high school grades arises after the content has been forgotten by another mechanism.
+
+===A 50 year study of college grades===
+Many similar studies have been performed, such as a fifty-year study of remembering college grades. In this study one to 54 years after graduating, 276 alumni correctly recalled 3,025 of 3,967 college grades. The number of omission errors increased with the retention interval and better students made fewer errors.<ref name="Bahrick2" /> The accuracy of recall increased with confidence in recall. Eighty-one percent of [[errors of commission]] inflated the actual grade. These data suggested that distortions occur soon after graduation, remain constant during the retention interval, and are greater for better students and for courses students enjoyed most. Therefore, sometime in between when the memory is stored and when it is retrieved some time later, the distortion may arise.<ref name="Bahrick2" />
+
+==Methods for testing==
+
+===Written scenario memory tests===
+Researchers have used written scenarios in which participants are asked to make a choice between two options. Later, on a memory test, participants are given a list of positive and negative features, some of which were in the scenario and some of which are new. A choice-supportive bias is seen when both correct and incorrect attributions tend to favor the chosen option, with positive features more likely to be attributed to the chosen option and negative features to the rejected option.
+*'''Deception''': Henkel and Mather (2007) found that giving people false reminders about which option they chose in a previous experiment session led people to remember the option they were told they had chosen as being better than the other option. This reveals that choice-supportive biases arise in large part when remembering past choices, rather than being the result of biased processing at the time of the choice.
+
+===Deese/Roediger–McDermott paradigm===
+The [[Deese–Roediger–McDermott paradigm]] (DRM) consists of a participant listening to an experimenter read lists of thematically related words (e.g. table, couch, lamp, desk); then after some period of time the experimenter will ask if a word was presented in the list.  Participants often report that related but non-presented words (e.g. chair) were included in the encoding series, essentially suggesting that they 'heard' the experimenter say these non-presented words (or critical lures). Incorrect 'yes' responses to critical lures, often referred to as false memories, are remarkably high under standard DRM conditions.<ref name="Foley" />
+
+==Relation to cognitive dissonance==
+The theory of cognitive dissonance proposes that people have a motivational drive to reduce [[Cognitive dissonance|dissonance]]. Choice-supportive bias is potentially related to the aspect of [[cognitive dissonance]] explored by Jack Brehm (1956) as postdecisional dissonance. Within the context of cognitive dissonance, choice-supportive bias would be seen as reducing the conflict between "I prefer X" and "I have committed to Y".
+
+==Debiasing==
+
+A study of the [[Lady Macbeth effect|''Lady Macbeth'' effect]] showed reduced choice-supportive bias by having participants engage in [[washing]].<ref name="lee"/> However, the underlying general effect has not replicated in larger studies<ref>{{cite journal|last=Fayard|first=Jennifer|title=Is cleanliness next to godliness? Dispelling old wives' tales: Failure to replicate Zhong and Liljenquist (2006)|journal=Journal of Articles in Support of the Null Hypothesis|year=2009|volume=6|pages=21–30|url=http://www.jasnh.com/pdf/Vol6-No2.pdf|display-authors=etal|citeseerx=10.1.1.214.2427}}</ref><ref>{{Cite journal | doi=10.1080/01973533.2013.856792 |title = Out, Damned Spot: Can the "Macbeth Effect" be Replicated?|journal = Basic and Applied Social Psychology|volume = 36|pages = 91–98|year = 2014|last1 = Earp|first1 = Brian D.|last2 = Everett|first2 = Jim A. C.|last3 = Madva|first3 = Elizabeth N.|last4 = Hamlin|first4 = J. Kiley|s2cid = 51472032|url=https://www.academia.edu/4336726}}</ref>
+
+==See also==
+{{Portal|Psychology}}
+* [[Attribution (psychology)]]
+* [[Buyer's remorse]]
+* [[Choice]]
+* [[Cognitive dissonance]]
+* [[Confabulation]]
+* [[Confirmation bias]]
+* [[Decision making]]
+* [[Escalation of commitment]]
+* [[List of cognitive biases]]
+* [[List of memory biases]]
+* [[Wishful thinking]]
+
+==References==
+<references>
+<ref name="Mather">{{cite journal | last1 = Mather | first1 = M. | last2 = Johnson | first2 = M.K. | year = 2000 | title = Choice-supportive source monitoring: Do our decisions seem better to us as we age? | journal = Psychology and Aging | volume = 15 | issue = 4| pages = 596–606 | doi = 10.1037/0882-7974.15.4.596 | pmid = 11144319|url=http://www.usc.edu/projects/matherlab/pdfs/MatherJohnson2000.pdf | archive-url = https://web.archive.org/web/20160706005712/http://www.usc.edu/projects/matherlab/pdfs/MatherJohnson2000.pdf | archive-date = 2016-07-06 }}</ref>
+
+<ref name="Hornsby">{{cite journal | last1 = Hornsby | first1 = A.N. | last2 = Love | first2 = B.C. | year = 2020 | title = How decisions and the desire for coherency shape subjective preferences over time | journal = Cognition | volume = 200 | issue = 1| article-number = 104244 | doi = 10.1016/j.cognition.2020.104244 | pmid = 32222615 | pmc = 7315129 }}</ref>
+
+<ref name="Duncan">"But That's Crazy! Cognitive Bias in Decision-making {{pipe}} Duncan Pierce." Duncan Pierce {{pipe}} Duncanpierce.org. Web. 18 Sept. 2010.  <http://duncanpierce.org/cognitive_bias_workshop {{Webarchive|url=https://web.archive.org/web/20140222212155/http://duncanpierce.org/cognitive_bias_workshop |date=2014-02-22 }}>.</ref>
+
+<ref name="Johnson">{{cite journal|last1=Johnson|first1=Marcia K.|title=Memory and reality|journal=American Psychologist|date=2006|volume=61|issue=8|pages=760–771|doi=10.1037/0003-066X.61.8.760|pmid=17115808|url=http://www.erin.utoronto.ca/~jnagel/2111/Johnson2006.pdf|url-status=bot: unknown|archive-url=https://web.archive.org/web/20100820201827/http://www.erin.utoronto.ca/~jnagel/2111/Johnson2006.pdf|archive-date=2010-08-20}}</ref>
+
+<ref name="Henkel">{{cite journal | last1 = Henkel | first1 = L.A. | last2 = Mather | first2 = M. | year = 2007 | title = Memory attributions for choices: How beliefs shape our memories | journal = Journal of Memory and Language | volume = 57 | issue = 2| pages = 163–176 |doi=10.1016/j.jml.2006.08.012|url=http://www.usc.edu/projects/matherlab/pdfs/HenkelMather2007.pdf | archive-url = https://web.archive.org/web/20160304090433/http://www.usc.edu/projects/matherlab/pdfs/HenkelMather2007.pdf | archive-date = 2016-03-04 }}</ref>
+
+<ref name="Memory">{{cite web|title=Memory Distortion in Decision Making|website=University of Southern California|url=http://www.usc.edu/projects/matherlab/s/memorydistortionchoices.html|archive-url=https://web.archive.org/web/20150311091003/http://www.usc.edu/projects/matherlab/s/memorydistortionchoices.html|archive-date= 2015-03-11}}</ref>
+
+<ref name="Daniel">{{cite book|last1=Schacter|first1=Daniel L.|title=The Seven Sins of Memory: How the Mind Forgets and Remembers|date=2002|publisher=Houghton Mifflin Harcourt|location=Boston|isbn=978-0-547-34745-5|url=https://archive.org/details/sevensinsofmemor0000scha|url-access=registration|language=en}}</ref>
+
+<ref name="Mather2">{{cite journal | last1 = Mather | first1 = M. | last2 = Shafir | first2 = E. | last3 = Johnson | first3 = M.K. | year = 2000 | title = Misrememberance of options past: Source monitoring and choice | journal = Psychological Science | volume = 11 | issue = 2 | pages = 132–138 | doi = 10.1111/1467-9280.00228 | pmid = 11273420 | s2cid = 2468289 | url = http://usc.edu:80/projects/matherlab/pdfs/Matheretal2000.pdf | archive-url = https://web.archive.org/web/20121003235032/http://usc.edu/projects/matherlab/pdfs/Matheretal2000.pdf | archive-date = 2012-10-03 | access-date = 2020-07-20 | url-status = live }}</ref>
+
+<ref name="Mather3">{{cite journal | last1 = Mather | first1 = M. | last2 = Shafir | first2 = E. | last3 = Johnson | first3 = M.K. | year = 2003 | title = Remembering chosen and assigned options | journal = Memory & Cognition | volume = 31| issue = 3| pages = 422–433 | doi = 10.3758/BF03194400 | pmid = 12795484|url=http://www.usc.edu/projects/matherlab/pdfs/MatherShafirJohnson2003.pdf | archive-url = https://web.archive.org/web/20120713232442/http://www.usc.edu/projects/matherlab/pdfs/MatherShafirJohnson2003.pdf | archive-date = 2012-07-13 | doi-access = free }}</ref>
+
+<ref name="Gordon">{{cite journal | last1 = Gordon | first1 = Ruthanna | last2 = Franklin | first2 = Nancy | last3 = Beck | first3 = Jennifer | year = 2005 | title = Wishful Thinking and Source Monitoring | journal = Memory & Cognition | volume = 33 | issue = 3| pages = 418–29 | doi = 10.3758/BF03193060 | pmid = 16156178 | doi-access = free }}</ref>
+
+<ref name="Bahrick">{{cite journal | last1 = Bahrick | first1 = Harry P. | last2 = Hall | first2 = Lynda K. | last3 = Berger | first3 = Stephanie A. | year = 1996 | title = Accuracy and Distortion in Memory for High School Grades | journal = Psychological Science | volume = 7 | issue = 5| pages = 265–71 | doi = 10.1111/j.1467-9280.1996.tb00372.x | s2cid = 143801485 }}</ref>
+
+<ref name="McGaugh">{{cite journal | last1 = McGaugh | first1 = James L. | last2 = Cahill | first2 = Larry | last3 = Roozendaal | first3 = Benno | year = 1996 | title = Involvement of the Amygdala in Memory Storage: Interaction with Other Brain Systems | journal = Proceedings of the National Academy of Sciences | volume = 93 | issue = 24| pages = 13508–3514 | doi = 10.1073/pnas.93.24.13508 | pmid = 8942964 | pmc = 33638 | bibcode = 1996PNAS...9313508M | doi-access = free }}</ref>
+
+<ref name="Baym">{{cite journal | last1 = Baym | first1 = C. L. | last2 = Gonsalves | first2 = B. D. | year = 2010 | title = Comparison of neural activity that leads to true memories, false memories, and forgetting: An fMRI study of the misinformation effect | journal = Cogn Affect Behav Neurosci | volume = 10 | issue = 3| pages = 339–348 | doi = 10.3758/CABN.10.3.339 | pmid = 20805535 | doi-access = free }}</ref>
+
+<ref name="Dodson">{{cite journal | last1 = Dodson | first1 = C. | last2 = Bawa | first2 = S. | last3 = Slotnick | first3 = S. | s2cid = 16475820 | year = 2007 | title = Aging, source memory, and misrecollections | journal = Journal of Experimental Psychology: Learning, Memory, and Cognition | volume = 33| issue = 1| pages = 169–181 | doi = 10.1037/0278-7393.33.1.169 | pmid = 17201560 }}</ref>
+
+<ref name="lee">{{cite journal|last1=Lee|first1=Spike W. S.|first2=Norbert |last2=Schwarz|s2cid=18611420|title=Washing away postdecisional dissonance|journal=Science|year=2010|volume=328|issue=5979|page=709|doi=10.1126/science.1186799|pmid=20448177|bibcode=2010Sci...328..709L}}</ref>
+
+<ref name="Lovden">{{cite journal | last1 = Lovden | first1 = M. | year = 2003 | title = The episodic memory and inhibition accounts of age-related increases in false memories: A consistency check | journal = Journal of Memory and Language | volume = 49| issue = 2| pages = 268–283 | doi = 10.1016/S0749-596X(03)00069-X }}</ref>
+
+<ref name="Bahrick2">{{cite journal | last1 = Bahrick | first1 = H. P. | last2 = Hall | first2 = L. K. | last3 = Da Costa | first3 = L. A. | year = 2008 | title = Fifty years of memory of college grades: Accuracy and distortions | journal = Emotion | volume = 8 | issue = 1| pages = 13–22 | doi = 10.1037/1528-3542.8.1.13 | pmid = 18266512 }}</ref>
+
+<ref name="Foley">{{cite journal | last1 = Foley | first1 = M. | last2 = Hughes | first2 = K. | last3 = Librot | first3 = H. | last4 = Paysnick | first4 = A. | year = 2009 | title = Imagery Encoding Effects on Memory in the DRM Paradigm: A Test of Competing Predictions | journal = Applied Cognitive Psychology | volume = 23| issue = 6| pages = 828–848 | doi = 10.1002/acp.1516 }}</ref>
+
+<ref name="Stoll">{{cite journal | last1 = Stoll Benney | first1 = Kristen | last2 = Henkel | first2 = Linda | year = 2006 | title = The Role of Free Choice in Memory for past Decisions | journal = Memory | volume = 14 | issue = 8| pages = 1001–011 | doi = 10.1080/09658210601046163 | pmid = 17077034 | citeseerx = 10.1.1.1027.9662 | s2cid = 6021663 }}</ref>
+</references>
+
+{{biases}}
+
+[[Category:Cognitive biases]]
+[[Category:Memory biases]]

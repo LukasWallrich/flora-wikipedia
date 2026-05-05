@@ -1,0 +1,148 @@
+{{Short description|American academic (1942–2021)}}
+{{About|the psychologist|the actor|Lee Ross (actor)|the criminologist|Lee E. Ross}}
+{{Infobox scientist
+| name              = Lee Ross
+| image             = Lee Ross, 2014.jpg
+| caption           = Ross in 2014
+| birth_date        = {{birth date|1942|8|25}}
+| birth_place       = [[Toronto]], [[Ontario]], Canada
+| death_date        = {{death date and age|2021|5|14|1942|8|25|mf=y}}
+| death_place       = [[Palo Alto, California]], U.S.
+| field             = [[Psychology]]
+| thesis_title      = Cue- and cognition-controlled eating among obese and normal subjects
+| thesis_year       = 1969
+| thesis_url        = http://www.worldcat.org/oclc/2432455
+| doctoral_advisor  = [[Stanley Schachter]]
+| doctoral_students = [[Teresa Amabile]]<br />[[David Dunning]]<br />[[Thomas Gilovich]]<br />[[Dacher Keltner]]<br />[[Sonja Lyubomirsky]]<br />[[Sean Young (psychologist)|Sean Young]]
+| work_institutions = [[Stanford University]]
+| alma_mater        = [[University of Toronto]] ([[Bachelor of Arts|BA]])<br />[[Columbia University]] ([[PhD]])
+| known_for         = [[false consensus effect]]<br />[[fundamental attribution error]]<br />[[reactive devaluation]]<br />[[psychological barriers to conflict resolution]]<br />[[attitude polarization]]<br />[[false polarization effect]]<br />[[hostile media effect]]<br />[[belief perseverance]]<br />[[naïve realism (psychology)]]
+| spouse            = Judith Spinks
+| children          = 4
+}}
+'''Lee David Ross''' (August 25, 1942 – May 14, 2021) was a Canadian-American professor. He held the title of the Stanford Federal Credit Union Professor of Humanities and Sciences at [[Stanford University]]<ref>{{Cite web| title=Book of Members - R | url=https://www.amacad.org/multimedia/pdfs/publications/bookofmembers/ChapterR.pdf | archive-url=https://web.archive.org/web/20140529170722/https://www.amacad.org/multimedia/pdfs/publications/bookofmembers/ChapterR.pdf | archive-date=2014-05-29}}</ref><ref>{{Cite journal 
+| last1 = Ravindran | first1 = S. 
+| doi = 10.1073/pnas.1205295109 
+| title = Profile of Lee D. Ross 
+| journal = Proceedings of the National Academy of Sciences 
+| year = 2012 
+| pmid = 22517739 
+| pmc =3358840
+ | volume=109
+ | issue=19
+ | pages=7132–3
+| bibcode = 2012PNAS..109.7132R 
+| doi-access = free 
+}}</ref> and was an influential [[social psychology|social psychologist]] who studied [[attributional bias]]es, shortcomings in judgment and [[decision making]], and barriers to [[conflict resolution]], often with longtime collaborator [[Mark Lepper]]. Ross was known for his identification and explication of the [[fundamental attribution error]] and for the demonstration and analysis of other  phenomena and shortcomings that have become standard topics in textbooks and in some cases, even popular media.<ref>{{cite web|url=http://www.psychologicalscience.org/awards/james/citations/ross.cfm|title=Association for Psychological Science: William James Fellow Award - Lee D. Ross|access-date=2011-11-27|archive-date=2016-03-03|archive-url=https://web.archive.org/web/20160303214746/http://www.psychologicalscience.org/awards/james/citations/ross.cfm|url-status=dead}}</ref> His interests included ongoing societal problems, in particular protracted inter-group conflicts, the individual and collective rationalization of evil, and the psychological processes that make it difficult to confront societal challenges. Ross went beyond the laboratory to involve himself in conflict resolution and public peace processes in the Middle East, Northern Ireland, and other areas of the world.<ref>{{cite journal|last=Ravindran|first=Sandeep|date=8 May 2012|title=Profile of Lee D. Ross|journal=Proceedings of the National Academy of Sciences of the United States of America|volume=109|issue=19|pages=7132–7133|doi=10.1073/pnas.1205295109|pmc=3358840|pmid=22517739|bibcode=2012PNAS..109.7132R |doi-access=free}}</ref>
+
+==Life==
+Ross was born in Toronto on August 25, 1942.<ref name="nyt" /> He earned his B.A. degree in psychology at the [[University of Toronto]] in 1965 and his [[Doctor of Philosophy|Ph.D.]] in social psychology at [[Columbia University]] in 1969<ref>{{Cite web|url=http://www.foundationpsp.org/ross.php|title = Sitemap}}</ref><ref name="socialpsychology.org">{{cite web|url=http://lee.ross.socialpsychology.org/|title=Lee D. Ross}}</ref> under the supervision of [[Stanley Schachter]]. His primary interests include biases in human inference, judgment, and decision-making; intergroup relations and dispute resolution; political psychology; and points of contact between psychology, law, and ethics.
+
+Ross first came into prominence in 1977 when he coined the term "[[fundamental attribution error]]" to describe the finding that people are predisposed towards attributing another person's behavior to individual characteristics and attitudes, even when it is relatively clear that the person's behavior was a result of situational demands (Ross, 1977;  This effect is closely linked to, but somewhat broader than, "[[correspondence bias]]" identified by Jones & Davis, 1965). With [[Robert Vallone]] and [[Mark Lepper]] he authored the first study to describe the [[hostile media effect]]. He has also collaborated with [[Richard Nisbett]] in books on human judgment (Nisbett & Ross, 1980) and the relation between social situations and personality (i.e. "the person and the situation"; Ross & Nisbett, 1991). His 1977 chapter, on "The Intuitive Psychologist and his Shortcomings" has been one of the most cited articles in social psychology over the past four decades.
+
+Author of over 100 journal articles and book chapters,<ref name="socialpsychology.org" /> Ross, co-authored two influential books with [[Richard Nisbett]]: ''Human Inference'' (1980), which deals with the tasks, strategies, and shortcomings of the intuitive psychologist  and ''The Person and the Situation''<ref>The Person and the Situation: Perspectives of Social Psychology. by Lee Ross; Richard E. Nisbett
+Review by: Judith A. Howard</ref> (Ross & Nisbett, 1991; reissued in 2011 with a foreword by [[Malcolm Gladwell]], who commented that "all of my books have been, in some sense, intellectual godchildren of the ''Person and the Situation''"). Most recently, Ross has co-authored, with Tom Gilovich, ''The Wisest One in the Room'', which explores what the authors consider to be the most important and the most personally and societally useful ideas to have emerged from social psychology and related disciplines.
+
+Ross died on May 14, 2021, at the age of 78 from heart and kidney failure at his home in Palo Alto.<ref>{{cite web |last1=Marian |first1=Veronica |title=Psychology Professor Lee D. Ross dead at 78 |url=https://news.stanford.edu/2021/05/24/psychology-professor-lee-ross-dead-78/ |website=Stanford News |publisher=Stanford University |access-date=May 26, 2021 |language=en |date=May 24, 2021}}</ref><ref name="nyt">{{cite web|title=Lee Ross, Expert in Why We Misunderstand Each Other, Dies at 78|last=Traub|first=Alex|url=https://www.nytimes.com/2021/06/16/science/lee-ross-dead.html|work=The New York Times|date=June 17, 2021|accessdate=June 17, 2021}}</ref> He was survived by his wife Judith ([[Birth name|née]] Spinks) Ross, and their four adult children.<ref name="nyt" />
+
+==Awards==
+
+* 1994: Elected to American Academy of Arts
+* 2003: American Psychological Society William James Fellow
+* 2004: Elected to American Academy of Sciences
+* 2008: Distinguished Scientist Award from [[Society of Experimental Social Psychology]]<ref>{{cite web|url=http://lee.ross.socialpsychology.org/|title=Lee D. Ross|last=Plous|first=Scott|publisher=Social Psychology Network|access-date=7 April 2012}}</ref>
+* 2010: Elected to the National Academy of Science
+
+==Research==
+Lee Ross was interested in – and has influenced – many fields of psychology, including attitude formation and change, social cognition, judgment and decision, influence, [[intergroup relations]] and political psychology. His research generally focused on sources of bias and error and strategies to ameliorate them. With an interdisciplinary group of researchers, Ross was a co-founder of the Stanford Center on International Conflict and Negotiation (SCICN).<ref>{{cite journal|last=Ravindran|first=Sandeep|date=May 2012|title=Profile of Lee D. Ross|journal=Proceedings of the National Academy of Sciences of the United States of America|volume=109|issue=19|pages=7132–7133|doi=10.1073/pnas.1205295109|pmc=3358840|pmid=22517739|bibcode=2012PNAS..109.7132R |doi-access=free}}</ref> The motivational, cognitive, and perceptual barriers that thwart efforts to ease conflict and achieve mutually beneficial agreements has been a major focus both of his research and applied work over the past two decades.
+
+His earliest work involved the under-appreciation of situational influences on actions and outcomes, and on the role of "construal" or subjective interpretation of the situations and choices one faces. For example, one study on the "fundamental attribution error" demonstrated that observers are relatively insensitive to role-conferred advantages and disadvantages in evaluating actions and outcomes. A study on the role of situational construal and the impact of situational labeling showed that the decision of research participants to cooperate vs defect when playing the classic Prisoner's Dilemma game could be heavily influenced by the "name of the game" (i.e. the Wall Street Game versus the Community Game).  Much of his subsequent work focused on these influences, and related ones, that govern a wide range of interferential and judgmental tasks, and the interactions between individuals and between groups.
+
+Ross and his colleagues subsequently conducted ground-breaking work on other errors and biases in judgment and decision-making and in the attribution process, including biased assimilation of information and resulting [[belief perseverance]], the [[false consensus effect]], the [[hostile media effect]], [[reactive devaluation]], and most recently "[[naïve realism (psychology)|naive realism]]" or the illusion of personal objectivity.
+
+==Selected publications==
+
+===Books and chapters===
+
+* Ross, L. (1977). The intuitive psychologist and his shortcomings: Distortions in the attribution process. In L. Berkowitz (Ed.), ''Advances in experimental social psychology'' (vol. 10). New York: Academic Press.
+* Nisbett, R. E., & Ross, L. (1980). ''Human inference: Strategies and shortcomings of social judgment.'' Englewood Cliffs, NJ: [[Prentice Hall|Prentice-Hall]].
+* ''Human inference: Strategies and shortcomings of social judgment''. Prentice-Hall, Century Series, 1980 (with R.E. Nisbett).
+* Flavell, J. & Ross, L. (eds.) 1981 ''Cognitive social development: Frontiers and possible futures''. 1981 Cambridge Press.
+* Ross, L & Nisbett, R.E. (1991) The Personal and the Situation: McGraw-Hill (re-issued, 2011, with a new introduction by Malcolm Gladwell, Pinter and Martin).
+* Griffin, D.W. & Ross, L. Subjective construal, social inference, and human misunderstanding. In M. Zanna (Ed.), ''Advances in experimental social psychology'', (Vol. 24). New York: Academic Press, 1991.
+* Ross, L and Nisbett, R.E. ''The person and the situation''. McGraw Hill, 1991 (with R.E. Nisbett). Reissued with new foreword by Malcolm Gladwell and afterword by the authors, 2011.
+* Arrow, K., Mnookin, R., Ross, L., Tversky, A. & Wilson, R. (Eds.) ''Barriers to conflict resolution'', Norton, 1995.
+* Mnookin, R.H. & Ross, L. Strategic, psychological, and institutional barriers: An introduction. In K. Arrow, R. Mnookin, L. Ross, A. Tversky, & R. Wilson (Eds.), ''Barriers to conflict resolution''. New York: Norton, 1995.
+*Ross, L. The reactive devaluation barrier to dispute resolution. In K. Arrow, R. Mnookin, L. Ross, A. Tversky, & R. Wilson (Eds.), ''Barriers to conflict resolution''. New York: Norton, 1995.
+* Ross, L & Ward, A. Psychological barriers to dispute resolution. In M. Zanna (Ed.), ''Advances in experimental social psychology'', (Vol. 27). New York: Academic Press, 1995.
+* Ross, L. & Ward, A. Naive realism in everyday life: Implications for social conflict and misunderstanding. In T. Brown, E. Reed, & E. Turiel (Eds.), ''Values and knowledge''. Hillsdale, NJ: Erlbaum, 1996.
+* Ross, L., Lepper, M. & Ward, A. a history of social psychology: Insights, contributions, and challenges. In S. Fiske & D. Gilbert (Eds.) ''Handbook of social psychology'' (4th ed., Vol. 1) New York: Random House, 2010.
+* Ross, L. Perspectives on disagreement and dispute resolution: Lessons from the lab and the real world. In E. Shafir (Ed.) ''The behavioral foundations of public policy.'' 2014 Princeton University & [[Russell Sage Foundation]] Press, Princeton, NJ: 2012. 
+* Gilovich, T. & Ross, L. ''The wisest one in the room – How you can benefit from social psychology's most powerful insights,'' Free Press, 2015.
+
+===Journal articles===
+
+* Ross. L., Rodin, J., Zimbardo, P. Toward an attribution therapy: The reduction of fear through induced cognitive-emotional misattribution. ''Journal of Personality and Social Psychology'', 1969, ''12'', 279–288.
+* Ross, L., Lepper, M. & Hubbard, M. Perseverance in self-perception and social perception: Biased attributional processes in the debriefing paradigm. ''Journal of Personality and Social Psychology'', 1975, ''32'', 880–892.
+* {{cite journal | last1 = Ross | first1 = L. | last2 = Greene | first2 = D. | last3 = House | first3 = P. | year = 1977 | title = The false consensus effect: An egocentric bias in social perception and attribution processes | journal = Journal of Experimental Social Psychology | volume = 13 | issue = 3| pages = 279–301 | doi=10.1016/0022-1031(77)90049-x| s2cid = 9032175 }}
+* Ross, L., Amabile, T. & Steinmetz, J. Social roles, social control, and biases in social perception processes. ''Journal of Personality and Social Psychology'', 1977, ''35'', 485–494.
+* Ross, L. The intuitive psychologist and his shortcomings: Distortions in the attribution process. In L. Berkowitz (Ed.), ''Advances in experimental social psychology'', (Vol. 10). New York: Academic Press, 1977.
+* {{cite journal | last1 = Lord | first1 = C. G. | last2 = Ross | first2 = L. | last3 = Lepper | first3 = M. R. | year = 1979 | title = Biased assimilation and attitude polarization: The effects of prior theories on subsequently considered evidence | journal = Journal of Personality and Social Psychology | volume = 37 | issue = 11| pages = 2098–2109 | doi=10.1037/0022-3514.37.11.2098| s2cid = 7465318 }}
+* {{cite journal | last1 = Vallone | first1 = R. P. | last2 = Ross | first2 = L. | last3 = Lepper | first3 = M. R. | year = 1985 | title = The hostile media phenomenon: Biased perception and perceptions of media bias in coverage of the Beirut massacre | journal = Journal of Personality and Social Psychology | volume = 49 | issue = 3| pages = 577–585 | doi=10.1037/0022-3514.49.3.577| pmid = 4045697 | s2cid = 16311781 }}
+* Ross, L. & Stillinger, C. Barriers to conflict resolution. ''Negotiation Journal'', 1991, ''7'', 389–404.
+* Cohen, G., Steele, C., Ross L. The mentor's dilemma: Providing critical feedback across the racial divide. ''Personality and Social Psychology Bulletin'', 1999, ''25''(10), 1302–1318.
+* Pronin, E., Kruger, J., Savitsky, K. & Ross, L. You don't know me, but I know you: The [[illusion of asymmetric insight]]. ''Journal of Personality and Social Psychology,'' 2001, ''81'', 639–656.
+* Pronin, E., Lin, D. & Ross, L. The bias blindspot: Perceptions of bias in self and others'''.''' ''Personality and Social Psychology Bulletin'' 2002, ''28'', 369–381.
+* Maoz, I., Ward, A., Katz, M., Ross, L. Reactive devaluation of an "Israeli" vs a "Palestinian" peace proposal. ''Journal of Conflict Resolution,'' 2002, ''46,'' 515–546.
+* {{cite journal | last1 = Ross | first1 = L. | last2 = Curhan | first2 = J. R. | last3 = Neale | first3 = M. A. | year = 2004 | title = Dynamic valuation: Preference changes in the context of face-to-face negotiation | doi = 10.1016/j.jesp.2003.12.002 | journal = Journal of Experimental Social Psychology | volume = 40 | issue = 2| pages = 142–151 | url = https://dspace.mit.edu/bitstream/1721.1/1601/1/Dynamic%20Valuation%204253-02.pdf | hdl = 1721.1/1601 }}
+* {{cite journal | last1 = Kay | first1 = A. C. | last2 = Wheeler | first2 = S. C. | last3 = Bargh | first3 = J. A. | last4 = Ross | first4 = L. | year = 2004 | title = Material priming: The influence of mundane physical objects on situational construal and competitive behavioral choice | journal = Organizational Behavior and Human Decision Processes | volume = 95 | issue = 1| pages = 83–96 | doi=10.1016/j.obhdp.2004.06.003}}
+* {{cite journal | last1 = Liberman | first1 = V. | last2 = Samuels | first2 = S. M. | last3 = Ross | first3 = L. | year = 2004 | title = The name of the game: Predictive power of reputations versus situational labels in determining prisoner's dilemma game moves | journal = Personality and Social Psychology Bulletin | volume = 30 | issue = 9| pages = 1175–1185 | doi=10.1177/0146167204264004| pmid = 15359020 | s2cid = 19094952 }}
+* {{cite journal | last1 = Pronin | first1 = E. | last2 = Gilovich | first2 = T. | last3 = Ross | first3 = L. | year = 2004 | title = Objectivity in the eye of the beholder: Divergent perceptions of bias in self versus others | journal = Psychological Review | volume = 111 | issue = 3| pages = 781–799 | doi=10.1037/0033-295x.111.3.781| pmid = 15250784 }}
+* {{cite journal | last1 = Pronin | first1 = E. | last2 = Steele | first2 = C. M. | last3 = Ross | first3 = L. | year = 2004 | title = Identity bifurcation in response to stereotype threat: Women and mathematics | journal = Journal of Experimental Social Psychology | volume = 40 | issue = 2| pages = 152–168 | doi=10.1016/s0022-1031(03)00088-x}}
+* Liberman, V., Samuels, S. & Ross, L. The name of the game: Predictive of reputations vs. situational labels in determining Prisoner’s Dilemma game moves power. ''Personality and Social Psychology Bulletin,'' 2004, ''30'', 1175–1185. 
+* {{cite journal | last1 = Ehrlinger | first1 = J. | last2 = Gilovich | first2 = T. | last3 = Ross | first3 = L. | year = 2005 | title = Peering into the bias blind spot: People's assessments of bias in themselves and others | journal = Personality and Social Psychology Bulletin | volume = 31 | issue = 5| pages = 680–692 | doi=10.1177/0146167204271570| pmid = 15802662 | s2cid = 1210432 }}
+* {{cite journal | last1 = Hackley | first1 = S. | last2 = Bazerman | first2 = M. | last3 = Ross | first3 = L. | last4 = Shapiro | first4 = D. L. | year = 2005 | title = Psychological dimensions of the Israeli settlements issue: Endowments and identities | journal = Negotiation Journal | volume = 21 | issue = 2| pages = 209–219 | doi=10.1111/j.1571-9979.2005.00058.x| doi-access = free }}
+* {{cite journal | last1 = Pronin | first1 = E. | last2 = Ross | first2 = L. | year = 2006 | title = Temporal differences in trait self-ascription: When the self is seen as an other | journal = Journal of Personality and Social Psychology | volume = 90 | issue = 2| pages = 197–209 | doi=10.1037/0022-3514.90.2.197| pmid = 16536646 }}
+* Bryan, C., Dweck, C., Ross, L. Kay, A. & Mislavsky, N. Political mindset: Effects of schema priming on liberal–conservative political positions. ''Journal of Experimental Social Psychology,'' 2009'', 45,'' 890–895.
+* Liberman. V., Anderson, N.R. & Ross, L. Achieving difficult agreements: Effects of positive expectations on negotiation processes and outcomes. ''Journal of Experimental Social Psychology,'' 2010, ''46,'' 494–504.
+* Liberman, V., Minson, JA, Bryan, CJ, Ross, L. Naïve realism and capturing the "wisdom of dyads." ''Journal of Experimental Social Psychology,'' 2011, ''48'', 507–512.
+* Ross, L. & Shestowski, D. Two psychologists’ reflections on situationism and the criminal justice system. In ''Ideology, Psychology, and Law.'' J. Hanson (ed). [[Oxford University Press]], 2012.
+* Ross, L., Lelkes, Y. & Russell A. How Christians reconcile their personal political views and the teachings of their faith: Projection as a means of dissonance reduction. ''Proceeding of the National Academy of Science,'' 2012, ''109'' (10), 3616–3622.
+* Ross, L, Arrow, K., Cialdini, R., Diamond, J Diamond-Smith, N., Dunne, J; Ehrlich, P., Feldman, M., Horn, R., Murphy, C.N., Pirages, P., Smith, K.R. & York, R. The Climate Change Challenge and Barriers to the Exercise of Foresight Intelligence. ''BioScience,'' (2016) DOI: 10.1093/biosci/biw025.
+* Ross, L. From the fundamental attribution error to the truly fundamental attribution error and beyond: My research journey. (In Press ''Perspectives in Psychology'')''.''
+* Bland, B. & Ross, L Pursuing a shared future in the face of globalization: Four essential questions. (In press ''International Journal of Law and Public Administration'').
+* Ross, L., Kahn, D, & Liberman V. The objectivity illusion in responses to perceived dissimilarity in political views and sentiments: An extension of naïve realism. (Manuscript under revision. ''Journal of Conflict Resolution).''
+
+==Notable contributions==
+
+* [[Attitude polarization]]
+* [[Attribution theory]]
+* [[naïve realism (psychology)|Naive realism]]
+* [[False consensus effect]]
+* [[Fundamental attribution error]]
+* [[Hostile media effect]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*http://lee.ross.socialpsychology.org/research
+*Jones, E. E., & Davis, K. E. (1965). From acts to dispositions: The attribution process in person perception. In L. Berkowitz (Ed.), "Advances in experimental social psychology," (Vol. 2, pp.&nbsp;220–266). New York: Academic Press.
+* Nisbett, R. E., & Ross, L. (1980). "Human inference: Strategies and shortcomings of social judgment." Englewood Cliffs, NJ: Prentice-Hall.
+* Ross, L. (1977). The intuitive psychologist and his shortcomings: Distortions in the attribution process. In L. Berkowitz (Ed.), ''Advances in experimental social psychology'' (vol. 10). New York: Academic Press.
+* Ross, L., & Nisbett, R. E. (1991). "The person and the situation: Perspectives of social psychology." New York: McGraw-Hill.
+*Ross, Lee. [https://historicalsociety.stanford.edu/publications/ross-lee Oral History], conducted by Alicia Torre, 2019. Stanford Historical Society Oral History Program.
+
+==External links==
+* [https://web.archive.org/web/20110516034807/https://www.stanford.edu/dept/psychology/lross Home page at Stanford University]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ross, Lee}}
+[[Category:1942 births]]
+[[Category:2021 deaths]]
+[[Category:Teachers College, Columbia University alumni]]
+[[Category:Academics from Toronto]]
+[[Category:American social psychologists]]
+[[Category:Stanford University Department of Psychology faculty]]
+[[Category:Canadian Jews]]

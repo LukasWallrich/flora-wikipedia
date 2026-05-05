@@ -1,0 +1,45 @@
+{{Short description|Behavioral economist}}
+{{Infobox person
+| name               = Lise Vesterlund
+| image              = 
+| caption            = 
+| othername          = 
+| birth_name         = 
+| birth_date         = 
+| birth_place        = 
+| death_date         = 
+| death_place        = 
+| burial_place       = 
+| nationality        = 
+| alma_mater         = [[University of Copenhagen]]<br>[[University of Wisconsin–Madison]]
+| occupation         = Behavioral and experimental economist
+}}
+'''Lise Vesterlund''' is a [[Behavioral economics|behavioral]] and [[Experimental economics|experimental economist]], and the Andrew W. Mellon Professor of Economics at the [[University of Pittsburgh]].<ref>{{Cite web|url=https://www.lisevesterlund.com/|title=Lise Vesterlund Home|website=www.lisevesterlund.com/|access-date=2023-01-23}}</ref> She is a research associate at the [[National Bureau of Economic Research]].<ref>{{Cite web|url=https://www.nber.org/people/lise_vesterlund|title=Lise Vesterlund|website=www.nber.org|access-date=2020-03-28}}</ref> From 1997 to 2001, she was assistant professor at the [[Iowa State University]].<ref>{{Cite web|url=https://www2.econ.iastate.edu/faculty/vesterlund/|title=Lise Vesterlund's website on Iowa State University|last=|first=|date=26 June 2025|website=|archive-url=|archive-date=|access-date=}}</ref> She is on the board of editors of the [[American Economic Journal: Economic Policy]]<ref>{{Cite web|url=https://www.aeaweb.org/journals/pol/about-pol/editors|title=American Economic Association|website=www.aeaweb.org|access-date=2020-03-28}}</ref> and of the [[Experimental economics|Experimental Economics]] journal.<ref>{{Cite web|url=https://www.springer.com/journal/10683/editors|title=Experimental Economics|website=Springer|language=en|access-date=2020-03-28|archive-date=2021-11-05|archive-url=https://web.archive.org/web/20211105204811/http://www.springer.com/journal/10683/editors|url-status=dead}}</ref> Since 2018, she is a visiting professor at the [[Norwegian School of Economics]].<ref>{{Cite web|url=https://www.nhh.no/en/employees/faculty/lise-vesterlund-brodkey/|title=Lise Vesterlund Brodkey|website=NHH|language=en|access-date=2020-03-28}}</ref>
+
+== Education ==
+Vesterlund earned a B.A. in economics from the [[University of Copenhagen]] in 1990, and a Ph.D. in economics from the [[University of Wisconsin–Madison]] in 1997.<ref>{{cite web |title=Curriculum Vitae: Lise Vesterlund |url=https://www.pitt.edu/~vester/CV_February2020.pdf |accessdate=5 April 2020}}</ref>
+
+== Research ==
+Her research mainly focuses on charitable giving and gender differences in the labor market. She has published in leading journals such as the [[Quarterly Journal of Economics]]<ref name=":1" /><ref name=":0" /> and the [[The American Economic Review|American Economic Review]]<ref name=":2" /> and her work has been quoted over 10000 times.<ref name="scholar.google.com">{{Cite web|url=https://scholar.google.com/citations?user=lZSBcSwAAAAJ&hl=en&oi=ao|title=Lise Vesterlund - Google Scholar Citations|website=scholar.google.com|access-date=2020-03-28}}</ref> In her most quoted paper<ref name="scholar.google.com"/> (with [[Muriel Niederle]]), "Do Women Shy Away From Competition? Do Men Compete Too Much?", they examine in a laboratory environment how men and women react differently to competition. They find that men prefer competition as they tend to be overconfident.<ref name=":0">{{Cite journal|last1=Niederle|first1=Muriel|last2=Vesterlund|first2=Lise|date=2007-08-01|title=Do Women Shy Away From Competition? Do Men Compete Too Much?|url=https://academic.oup.com/qje/article/122/3/1067/1879500|journal=The Quarterly Journal of Economics|language=en|volume=122|issue=3|pages=1067–1101|doi=10.1162/qjec.122.3.1067|issn=0033-5533|url-access=subscription}}</ref> Her research has been featured in news outlets including the [[The New York Times|New York Times]],<ref>{{Cite news|last=Lockman|first=Darcy|url=https://www.nytimes.com/2019/05/04/opinion/sunday/men-parenting.html|title=Opinion {{!}} What 'Good' Dads Get Away With|date=2019-05-04|work=The New York Times|access-date=2020-03-28|language=en-US|issn=0362-4331}}</ref> the [[The Washington Post|Washington Post]],<ref>{{Cite news|url=https://www.washingtonpost.com/news/storyline/wp/2015/01/02/why-do-some-studies-show-that-women-are-less-competitive-then-men/|title=Why do some studies show that women are less competitive than men?|last=GuoBioBio|first=Jeff Guo closeJeff|newspaper=Washington Post|language=en|access-date=2020-03-28}}</ref> [[The Atlantic]],<ref>{{Cite web|url=https://www.theatlantic.com/business/archive/2017/01/women-negotiating/512174/|title=When It's Not Worth It to Negotiate|last=Khazan|first=Olga|date=2017-01-06|website=The Atlantic|language=en-US|access-date=2020-03-28}}</ref> [[Bloomberg News|Bloomberg]],<ref>{{Cite web|last=|first=|date=2019-10-12|title=Can 10 Million Women Negotiate the Pay Gap Away?|url=https://www.bloomberg.com/news/articles/2019-10-12/can-free-salary-negotiation-workshops-close-the-gender-pay-gap|archive-url=|archive-date=|access-date=2020-03-28|website=Bloomberg.com}}</ref> [[Time (magazine)|Time magazine]],<ref>{{Cite magazine|last=Gandel|first=Stephen|url=https://business.time.com/2010/11/30/are-women-less-competitive-than-men-explaining-the-gender-gap/|title=Are Women Less Competitive than Men? Explaining the Gender Gap|date=2010-11-30|magazine=Time|access-date=2020-03-28|language=en-US|issn=0040-781X}}</ref> and [[CNBC]].<ref>{{Cite web|url=https://www.cnbc.com/2018/08/27/why-women-should-stop-volunteering-for-non-promotable-tasks-at-work.html|title=Report: Women should stop volunteering for 'non-promotable' tasks at work|last=Connley|first=Courtney|date=2018-08-27|website=CNBC|language=en|access-date=2020-03-28}}</ref>
+
+== Selected works==
+* Andreoni, James; Harbaugh, William; Vesterlund, Lise (2003/06). "The Carrot or the Stick: Rewards, Punishments, and Cooperation". American Economic Review. 93 (3): 893–902.<ref name=":2">{{Cite journal|last1=Andreoni|first1=James|last2=Harbaugh|first2=William|last3=Vesterlund|first3=Lise|date=June 2003|title=The Carrot or the Stick: Rewards, Punishments, and Cooperation|url=https://www.aeaweb.org/articles?id=10.1257/000282803322157142|journal=American Economic Review|language=en|volume=93|issue=3|pages=893–902|doi=10.1257/000282803322157142|issn=0002-8282|url-access=subscription}}</ref>
+* Andreoni, James; Vesterlund, Lise (2001-02-01). "Which is the Fair Sex? Gender Differences in Altruism". The Quarterly Journal of Economics. 116 (1): 293–312.<ref name=":1">{{Cite journal|last1=Andreoni|first1=James|last2=Vesterlund|first2=Lise|date=2001-02-01|title=Which is the Fair Sex? Gender Differences in Altruism|url=https://academic.oup.com/qje/article/116/1/293/1939030|journal=The Quarterly Journal of Economics|language=en|volume=116|issue=1|pages=293–312|doi=10.1162/003355301556419|issn=0033-5533|url-access=subscription}}</ref>
+* Niederle, Muriel; Vesterlund, Lise (2007-08-01). "Do Women Shy Away From Competition? Do Men Compete Too Much?". The Quarterly Journal of Economics. 122 (3): 1067–1101.<ref name=":0" />
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Vesterlund, Lindsay}}
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Behavioral economists]]
+[[Category:University of Pittsburgh faculty]]
+[[Category:American women economists]]
+[[Category:21st-century American economists]]
+[[Category:Iowa State University faculty]]
+[[Category:University of Copenhagen alumni]]
+[[Category:University of Wisconsin–Madison College of Letters and Science alumni]]
+[[Category:21st-century American women]]

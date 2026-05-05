@@ -1,0 +1,31 @@
+{{Short description|Intercultural diversity in social practices}}
+'''Cultural variation''' refers to the rich diversity in social practices that different cultures exhibit around the world. Cuisine and art all change from one culture to the next, but so do gender roles{{fact|date=July 2024}}, [[Economic system|economic systems]], and social hierarchy among any number of other humanly organised behaviours. Cultural variation can be studied across cultures (for example, a cross-cultural study of ritual in Indonesia and Brazil)<ref>{{cite journal |last1=Mason |first1=P.H. |year=2016 |title=Fight-dancing and the Festival: Tabuik in Pariaman, Indonesia, and Iemanjá in Salvador da Bahia, Brazil |journal=Martial Arts Studies |volume=2 |issue=2 |pages=71–90 |doi=10.18573/j.2016.10065 |doi-access=free}}</ref> or across generations (for example, a comparison of [[Generation X]] and [[Millennials|Generation Y]])<ref>{{cite journal |last1=Bristow |first1=D. |last2=Amyx |first2=D. |last3=Castleberry |first3=S. B. |last4=Cochran |first4=J. J. |year=2011 |title=A cross-generational comparison of motivational factors in a sales career among Gen-X and Gen-Y college students |journal=Journal of Personal Selling & Sales Management |volume=31 |issue=1 |pages=77–85 |doi=10.2753/pss0885-3134310105 |s2cid=147373273}}</ref> and is often a subject studied by anthropologists, sociologists and cultural theorists with subspecialties in the fields of economic anthropology, ethnomusicology, health sociology etc. In recent years, cultural variation has become a rich source of study in [[neuroanthropology]], [[cultural neuroscience]], and [[social neuroscience]].<ref>{{cite journal |last1=Domínguez D |first1=JF |last2=Turner |first2=R |last3=Lewis |first3=ED |last4=Egan |first4=GF |date=2010 |title=Neuroanthropology: A Humanistic Science for the Study of the Culture–Brain Nexus |journal=Social Cognitive and Affective Neuroscience |volume=5 |issue=2–3 |pages=138–47 |doi=10.1093/scan/nsp024 |pmc=2894669 |pmid=19654141}}</ref><ref>{{cite journal |last1=Domínguez D |first1=JF |date=2012 |title=Neuroanthropology and the Dialectical Imperative |journal=Anthropological Theory |volume=12 |issue=1 |pages=5–27 |doi=10.1177/1463499612436459 |s2cid=220475065}}</ref>
+
+==See also==
+* [[Cultural diversity]]
+* [[Cultural anthropology]]
+* [[Cultural studies]]
+* [[Culture theory]]
+* [[Neuroanthropology]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+
+* {{cite journal | last1 = Brodbeck | first1 = F. C. |authorlink1=Felix Brodbeck| last2 = Frese | first2 = M. | last3 = Akerblom | first3 = S. | last4 = Audia | first4 = G. | last5 = Bakacsi | first5 = G. | last6 = Bendova | first6 = H. | last7 = Castel | first7 = P. | year = 2000 | title = Cultural variation of leadership prototypes across 22 European countries | url = https://research.vu.nl/ws/files/1678781/Brodbeck%20Journal%20of%20Occupational%20and%20Organizational%20Psychology%2073%202000%20u.pdf| journal = Journal of Occupational and Organizational Psychology | volume = 73 | issue = 1| pages = 1–29 | doi = 10.1348/096317900166859 }}
+* {{cite journal | last1 = Guglielmino | first1 = C. R. | last2 = Viganotti | first2 = C. | last3 = Hewlett | first3 = B. | last4 = Cavalli-Sforza | first4 = L. L. | year = 1995 | title = Cultural variation in Africa: Role of mechanisms of transmission and adaptation | journal = Proceedings of the National Academy of Sciences | volume = 92 | issue = 16| pages = 7585–7589 | doi=10.1073/pnas.92.16.7585| pmid = 11607569 | pmc = 41384 | bibcode = 1995PNAS...92.7585G | doi-access = free }}
+* Lende, D. H., & Downey, G. (2012). The encultured brain: an introduction to neuroanthropology. MIT press.
+* {{cite journal | last1 = Leung | first1 = A. K. Y. | last2 = Cohen | first2 = D. | year = 2011 | title = Within-and between-culture variation: individual differences and the cultural logics of honor, face, and dignity cultures | url = https://ink.library.smu.edu.sg/soss_research/1026| journal = Journal of Personality and Social Psychology | volume = 100 | issue = 3| pages = 507–26 | doi=10.1037/a0022151| pmid = 21244179 | s2cid = 207631257 }}
+
+==External links==
+*[https://web.archive.org/web/20160914024559/https://globalsociology.pbworks.com/w/page/14711170/Cultural%20Variation Global Sociology]
+
+{{Culture}}
+
+[[Category:Cultural geography]]
+[[Category:Cultural economics]]
+[[Category:Cultural politics]]
+[[Category:Multiculturalism]]
+[[Category:Majority–minority relations]]
+{{culture-stub}}

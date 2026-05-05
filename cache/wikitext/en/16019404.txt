@@ -1,0 +1,159 @@
+{{Short description|Chemical compound}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 401667456
+| IUPAC_name = ''N''-[2-[4-(2-Methoxyphenyl)-1-piperazinyl]ethyl]-''N''-(2-pyridyl)cyclohexanecarboxamide
+| synonyms =  
+| image = WAY-100,635.png
+| image_class = skin-invert-image
+| width = 200
+<!--Clinical data-->
+| tradename =  
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 146714-97-8
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 8S48P899NE
+| PubChem = 5684
+| IUPHAR_ligand = 80
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 31354
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 5482
+<!--Chemical data-->
+| C=25 | H=34 | N=4 | O=2
+| smiles = COC1=CC=CC=C1N2CCN(CC2)CCN(C3=CC=CC=N3)C(=O)C4CCCCC4
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C25H34N4O2/c1-31-23-12-6-5-11-22(23)28-18-15-27(16-19-28)17-20-29(24-13-7-8-14-26-24)25(30)21-9-3-2-4-10-21/h5-8,11-14,21H,2-4,9-10,15-20H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = SBPRIAGPYFYCRT-UHFFFAOYSA-N
+}}
+
+'''WAY-100635''' is a [[piperazine]] [[drug]] and [[research chemical]] widely used in scientific studies. It was originally believed to act as a selective [[5-HT1A|5-HT<sub>1A</sub>]] [[receptor antagonist]], but subsequent research showed that it also acts as [[Efficacy#Pharmacology|potent]] [[full agonist]] at the [[D4 receptor|D<sub>4</sub>]] receptor.<ref>{{cite journal | vauthors = Fornal CA, Metzler CW, Gallegos RA, Veasey SC, McCreary AC, Jacobs BL | title = WAY-100635, a potent and selective 5-hydroxytryptamine1A antagonist, increases serotonergic neuronal activity in behaving cats: comparison with (S)-WAY-100135 | journal = The Journal of Pharmacology and Experimental Therapeutics | volume = 278 | issue = 2 | pages = 752–762 | date = August 1996 | doi = 10.1016/S0022-3565(25)20660-7 | pmid = 8768728 | url = http://jpet.aspetjournals.org/cgi/content/abstract/278/2/752 | archive-date = 2009-02-18 | access-date = 2008-02-29 | archive-url = https://web.archive.org/web/20090218135753/http://jpet.aspetjournals.org/cgi/content/abstract/278/2/752 | url-status = dead | url-access = subscription }}</ref><ref>{{cite journal | vauthors = Chemel BR, Roth BL, Armbruster B, Watts VJ, Nichols DE | title = WAY-100635 is a potent dopamine D4 receptor agonist | journal = Psychopharmacology | volume = 188 | issue = 2 | pages = 244–251 | date = October 2006 | pmid = 16915381 | doi = 10.1007/s00213-006-0490-4 | author2-link = Bryan Roth | s2cid = 24194034 | author5-link = David E. Nichols }}</ref><ref name="pmid19179855">{{cite journal | vauthors = Marona-Lewicka D, Nichols DE | title = WAY 100635 produces discriminative stimulus effects in rats mediated by dopamine D(4) receptor activation | journal = Behavioural Pharmacology | volume = 20 | issue = 1 | pages = 114–118 | date = February 2009 | pmid = 19179855 | doi = 10.1097/FBP.0b013e3283242f1a | s2cid = 43332577 }}</ref> It is sometimes referred to as a [[silent antagonist]] at the former receptor.<ref>{{cite journal | vauthors = Fletcher A, Forster EA, Bill DJ, Brown G, Cliffe IA, Hartley JE, Jones DE, McLenachan A, Stanhope KJ, Critchley DJ, Childs KJ, Middlefell VC, Lanfumey L, Corradetti R, Laporte AM, Gozlan H, Hamon M, Dourish CT | display-authors = 6 | title = Electrophysiological, biochemical, neurohormonal and behavioural studies with WAY-100635, a potent, selective and silent 5-HT1A receptor antagonist | journal = Behavioural Brain Research | volume = 73 | issue = 1–2 | pages = 337–353 | year = 1996 | pmid = 8788530 | doi = 10.1016/0166-4328(96)00118-0 | s2cid = 18229202 }}</ref> It is closely related to [[WAY-100135]].
+
+In light of its [[dopaminergic]] activity, conclusions drawn from studies that employ WAY-100635 as a selective 5-HT<sub>1A</sub> antagonist may need to be re-evaluated.<ref>{{cite journal | vauthors = Chemel BR, Roth BL, Armbruster B, Watts VJ, Nichols DE | title = WAY-100635 is a potent dopamine D4 receptor agonist | journal = Psychopharmacology | volume = 188 | issue = 2 | pages = 244–251 | date = October 2006 | pmid = 16915381 | doi = 10.1007/s00213-006-0490-4 | s2cid = 24194034 }}</ref>
+
+== Human PET studies ==
+In human PET studies WAY-100635 shows high binding in the [[cerebral cortex]], [[hippocampus]], [[raphe nucleus]] and [[amygdaloid nucleus]], while lower in [[thalamus]] and [[basal ganglia]].<ref>{{cite journal | vauthors = Ito H, Halldin C, Farde L | title = Localization of 5-HT1A receptors in the living human brain using [carbonyl-11C]WAY-100635: PET with anatomic standardization technique | journal = Journal of Nuclear Medicine | volume = 40 | issue = 1 | pages = 102–109 | date = January 1999 | pmid = 9935065 | url = http://jnm.snmjournals.org/cgi/content/abstract/40/1/102 | name-list-style = amp }}</ref>
+One study described a single case with relatively high binding in the cerebellum.<ref>{{cite journal | vauthors = Hirvonen J, Kajander J, Allonen T, Oikonen V, Någren K, Hietala J | title = Measurement of serotonin 5-HT1A receptor binding using positron emission tomography and [carbonyl-(11)C]WAY-100635-considerations on the validity of cerebellum as a reference region | journal = Journal of Cerebral Blood Flow and Metabolism | volume = 27 | issue = 1 | pages = 185–195 | date = January 2007 | pmid = 16685258 | doi = 10.1038/sj.jcbfm.9600326 | doi-access = free }}</ref>
+
+In relating its binding to subject variables one Swedish study found WAY-100635 binding in [[raphe]] brain region correlating with [[self-transcendence]] and spiritual acceptance [[personality trait]]s.<ref name="BorgJ2003Serotonin">{{cite journal | vauthors = Borg J, Andrée B, Soderstrom H, Farde L | title = The serotonin system and spiritual experiences | journal = The American Journal of Psychiatry | volume = 160 | issue = 11 | pages = 1965–1969 | date = November 2003 | pmid = 14594742 | doi = 10.1176/appi.ajp.160.11.1965 | s2cid = 5911066 }}</ref>
+WAY-100635 binding has also been assessed in connection with [[clinical depression]], where there has been disagreement about the presence and direction of the 5-HT<sub>1A</sub> receptor binding.<ref>{{cite journal | vauthors = Drevets WC, Thase ME, Moses-Kolko EL, Price J, Frank E, Kupfer DJ, Mathis C | title = Serotonin-1A receptor imaging in recurrent depression: replication and literature review | journal = Nuclear Medicine and Biology | volume = 34 | issue = 7 | pages = 865–877 | date = October 2007 | pmid = 17921037 | pmc = 2702715 | doi = 10.1016/j.nucmedbio.2007.06.008 }}</ref>
+In healthy subjects WAY-100635 binding has been found to decline with [[aging|age]],<ref name="TauscherJ2001Serotonin">{{cite journal | vauthors = Tauscher J, Verhoeff NP, Christensen BK, Hussey D, Meyer JH, Kecojevic A, Javanmard M, Kasper S, Kapur S | display-authors = 6 | title = Serotonin 5-HT1A receptor binding potential declines with age as measured by [11C]WAY-100635 and PET | journal = Neuropsychopharmacology | volume = 24 | issue = 5 | pages = 522–530 | date = May 2001 | pmid = 11282252 | doi = 10.1016/S0893-133X(00)00227-X | doi-access = free }}</ref>
+&mdash; though not all studies have found this relationship.<ref name="RabinerE2002Database">{{cite journal | vauthors = Rabiner EA, Messa C, Sargent PA, Husted-Kjaer K, Montgomery A, Lawrence AD, Bench CJ, Gunn RN, Cowen P, Grasby PM | display-authors = 6 | title = A database of [(11)C]WAY-100635 binding to 5-HT(1A) receptors in normal male volunteers: normative data and relationship to methodological, demographic, physiological, and behavioral variables | journal = NeuroImage | volume = 15 | issue = 3 | pages = 620–632 | date = March 2002 | pmid = 11848705 | doi = 10.1006/nimg.2001.0984 | s2cid = 42080193 }}</ref><ref  name="ParseyR2002Effects">{{cite journal | vauthors = Parsey RV, Oquendo MA, Simpson NR, Ogden RT, Van Heertum R, Arango V, Mann JJ | title = Effects of sex, age, and aggressive traits in man on brain serotonin 5-HT1A receptor binding potential measured by PET using [C-11]WAY-100635 | journal = Brain Research | volume = 954 | issue = 2 | pages = 173–182 | date = November 2002 | pmid = 12414100 | doi = 10.1016/S0006-8993(02)03243-2 | s2cid = 20650203 }}</ref>
+
+{| class="wikitable" 
+|+ Human WAY-100635 binding neuroimaging studies (patients compared to healthy control subjects).
+|-
+! What !! Result !! Subjects !! Ref.
+|-
+| [[Aging|Age]]
+| Global decrease and particularly in [[parietal cortex]] and [[dorsolateral prefrontal cortex]]
+| 19
+| <ref name="TauscherJ2001Serotonin"/>
+|-
+| [[Aging|Age]]
+| No correlation found
+| 61
+| <ref name="RabinerE2002Database"/>
+|-
+| [[Aging|Age]]
+| No correlation detected
+| 25
+| <ref name="ParseyR2002Effects"/>
+|-
+| [[Sex]]
+| Higher binding in females
+| 25
+| <ref name="ParseyR2002Effects"/>
+|-
+| [[Temperament and Character Inventory|TCI]] [[self-transcendence]] and [[spiritual acceptance]] [[personality trait]]s
+| Positive correlation in [[raphe nucleus|raphe]] region
+| 15 males
+| <ref name="BorgJ2003Serotonin"/>
+|-
+| Lifetime [[aggression]]
+| Negative correlation
+| 25
+| <ref name="ParseyR2002Effects"/>
+|-
+| [[MADAM]] [[binding potential]] ([[serotonin transporter]] binding)
+| Positive correlation in the [[raphe nuclei]] and [[hippocampus]]
+| 12 males
+| <ref>{{cite journal | vauthors = Lundberg J, Borg J, Halldin C, Farde L | title = A PET study on regional coexpression of 5-HT1A receptors and 5-HTT in the human brain | journal = Psychopharmacology | volume = 195 | issue = 3 | pages = 425–433 | date = December 2007 | pmid = 17874074 | doi = 10.1007/s00213-007-0928-3 | s2cid = 22272672 }}</ref>
+|-
+! Genetic variation !! Result !! Subjects !! Ref.
+|-
+| [[HTR1A]].[[rs6295|(-1018)C>G]] [[Polymorphism (biology)|polymorphism]]
+| No difference found
+| 35
+| <ref name="DavidS2005Functional">{{cite journal | vauthors = David SP, Murthy NV, Rabiner EA, Munafó MR, Johnstone EC, Jacob R, Walton RT, Grasby PM | display-authors = 6 | title = A functional genetic variation of the serotonin (5-HT) transporter affects 5-HT1A receptor binding in humans | journal = The Journal of Neuroscience | volume = 25 | issue = 10 | pages = 2586–2590 | date = March 2005 | pmid = 15758168 | pmc = 1942077 | doi = 10.1523/JNEUROSCI.3769-04.2005 }}</ref>
+|-
+| [[serotonin transporter|SERT]].[[5-HTTLPR]] polymorphism
+| Lower binding in "all brain regions" for SS or SL genotypes compared to LL
+| 35
+| <ref name="DavidS2005Functional"/>
+|-
+! Disease !! Result !! Subjects !! Ref.
+|-
+| Depressive (with primary, recurrent, familial mood disorders)
+| Reduction in [[raphe nucleus]] and [[mesiotemporal cortex]]
+| 12+8 
+| <ref>{{cite journal | vauthors = Drevets WC, Frank E, Price JC, Kupfer DJ, Holt D, Greer PJ, Huang Y, Gautier C, Mathis C | display-authors = 6 | title = PET imaging of serotonin 1A receptor binding in depression | journal = Biological Psychiatry | volume = 46 | issue = 10 | pages = 1375–1387 | date = November 1999 | pmid = 10578452 | doi = 10.1016/S0006-3223(99)00189-4 | s2cid = 719822 }}</ref>
+|-
+| [[Major depressive disorder]] (medicated and unmedicated)
+| Reduction in "many of the regions examined"
+| 25+18
+| <ref>{{cite journal | vauthors = Sargent PA, Kjaer KH, Bench CJ, Rabiner EA, Messa C, Meyer J, Gunn RN, Grasby PM, Cowen PJ | display-authors = 6 | title = Brain serotonin1A receptor binding measured by positron emission tomography with [11C]WAY-100635: effects of depression and antidepressant treatment | journal = Archives of General Psychiatry | volume = 57 | issue = 2 | pages = 174–180 | date = February 2000 | pmid = 10665620 | doi = 10.1001/archpsyc.57.2.174 | doi-access =  }}</ref>
+|-
+| [[Panic disorder]] in treated and untreated patients
+| Reducing in binding in [[raphe]] in both treated and untreated. Reduced binding in global postsynaptic regions for untreated, while no or little reduction for treated.
+| 9+7+19
+| <ref>{{cite journal | vauthors = Nash JR, Sargent PA, Rabiner EA, Hood SD, Argyropoulos SV, Potokar JP, Grasby PM, Nutt DJ | display-authors = 6 | title = Serotonin 5-HT1A receptor binding in people with panic disorder: positron emission tomography study | journal = The British Journal of Psychiatry | volume = 193 | issue = 3 | pages = 229–234 | date = September 2008 | pmid = 18757983 | doi = 10.1192/bjp.bp.107.041186 | doi-access = free }}</ref>
+|-
+| [[Alzheimer's disease]]
+| Decrease in right [[medial temporal cortex]]
+| 10+10
+| <ref>{{cite journal | vauthors = Lanctôt KL, Hussey DF, Herrmann N, Black SE, Rusjan PM, Wilson AA, Houle S, Kozloff N, Verhoeff NP, Kapur S | display-authors = 6 | title = A positron emission tomography study of 5-hydroxytryptamine-1A receptors in Alzheimer disease | journal = The American Journal of Geriatric Psychiatry | volume = 15 | issue = 10 | pages = 888–898 | date = October 2007 | pmid = 17567932 | doi = 10.1097/JGP.0b013e3180488325 }}</ref>
+|}
+
+===Radioligands===
+Labeled with the [[radioisotope]] [[carbon-11]] it is used as a [[radioligand]] in [[positron emission tomography]] (PET) studies to determine [[neuroreceptor]] binding in the [[brain]].<ref>{{cite journal | vauthors = Pike VW, McCarron JA, Lammerstma AA, Hume SP, Poole K, Grasby PM, Malizia A, Cliffe IA, Fletcher A, Bench CJ | display-authors = 6 | title = First delineation of 5-HT1A receptors in human brain with PET and [11C]WAY-100635 | journal = European Journal of Pharmacology | volume = 283 | issue = 1–3 | pages = R1–R3 | date = September 1995 | pmid = 7498295 | doi = 10.1016/0014-2999(95)00438-Q }}</ref>
+WAY-100635 may be labeled in different ways with carbon-11: 
+As [carbonyl-<sup>11</sup>C]WAY-100635 or [O-methyl-<sup>11</sup>C]WAY-100635, with [carbonyl-<sup>11</sup>C]WAY-100635 regarded as "far superior".<ref>{{cite journal | vauthors = Pike VW, McCarron JA, Lammertsma AA, Osman S, Hume SP, Sargent PA, Bench CJ, Cliffe IA, Fletcher A, Grasby PM | display-authors = 6 | title = Exquisite delineation of 5-HT1A receptors in human brain with PET and [carbonyl-11 C]WAY-100635 | journal = European Journal of Pharmacology | volume = 301 | issue = 1–3 | pages = R5–R7 | date = April 1996 | pmid = 8773468 | doi = 10.1016/0014-2999(96)00079-9 }}</ref>
+Labeled with [[tritium]] WAY-100635 may also be used in [[autoradiography]].<ref>{{cite journal | vauthors = Hume SP, Ashworth S, Opacka-Juffry J, Ahier RG, Lammertsma AA, Pike VW, Cliffe IA, Fletcher A, White AC | display-authors = 6 | title = Evaluation of [O-methyl-3H]WAY-100635 as an in vivo radioligand for 5-HT1A receptors in rat brain | journal = European Journal of Pharmacology | volume = 271 | issue = 2–3 | pages = 515–523 | date = December 1994 | pmid = 7705452 | doi = 10.1016/0014-2999(94)90813-3 }}</ref>
+WAY-100635 has higher 5-HT<sub>1A</sub> affinity than [[8-OH-DPAT]].<ref>{{cite journal | vauthors = Burnet PW, Eastwood SL, Harrison PJ | title = [3H]WAY-100635 for 5-HT1A receptor autoradiography in human brain: a comparison with [3H]8-OH-DPAT and demonstration of increased binding in the frontal cortex in schizophrenia | journal = Neurochemistry International | volume = 30 | issue = 6 | pages = 565–574 | date = June 1997 | pmid = 9152998 | doi = 10.1016/S0197-0186(96)00124-6 | s2cid = 21135585 }}</ref>
+
+==Other actions==
+WAY-100635 has also been found to increase the analgesic effects of [[opioid]] drugs in a dose-dependent manner, in contrast to 5-HT<sub>1A</sub> agonists such as [[8-OH-DPAT]] which were found to reduce opioid analgesia.<ref name="pmid15109976">{{cite journal | vauthors = Bardin L, Colpaert FC | title = Role of spinal 5-HT(1A) receptors in morphine analgesia and tolerance in rats | journal = European Journal of Pain | volume = 8 | issue = 3 | pages = 253–261 | date = June 2004 | pmid = 15109976 | doi = 10.1016/j.ejpain.2003.09.002 | s2cid = 25580572 }}</ref><ref name="pmid17393145">{{cite journal | vauthors = Berrocoso E, De Benito MD, Mico JA | title = Role of serotonin 5-HT1A and opioid receptors in the antiallodynic effect of tramadol in the chronic constriction injury model of neuropathic pain in rats | journal = Psychopharmacology | volume = 193 | issue = 1 | pages = 97–105 | date = July 2007 | pmid = 17393145 | doi = 10.1007/s00213-007-0761-8 | s2cid = 21898521 }}</ref> However, since 5-HT<sub>1A</sub> agonists were also found to reduce opioid-induced [[respiratory depression]] and WAY-100635 was found to block this effect,<ref name="pmid10640309">{{cite journal | vauthors = Sahibzada N, Ferreira M, Wasserman AM, Taveira-DaSilva AM, Gillis RA | title = Reversal of morphine-induced apnea in the anesthetized rat by drugs that activate 5-hydroxytryptamine(1A) receptors | journal = The Journal of Pharmacology and Experimental Therapeutics | volume = 292 | issue = 2 | pages = 704–713 | date = February 2000 | doi = 10.1016/S0022-3565(24)35342-X | pmid = 10640309 }}</ref> it is likely that 5-HT<sub>1A</sub> antagonists might worsen this side effect of opioids. Paradoxically, chronic administration of the very high efficacy 5-HT<sub>1A</sub> agonist [[befiradol]] results in potent analgesia following an initial period of [[hyperalgesia]], an effect most likely linked to desensitisation and/or downregulation of 5-HT<sub>1A</sub> receptors (i.e. analogous to a 5-HT<sub>1A</sub> antagonist-like effect).<ref name="pmid15528450">{{cite journal | vauthors = Bardin L, Assié MB, Pélissou M, Royer-Urios I, Newman-Tancredi A, Ribet JP, Sautel F, Koek W, Colpaert FC | display-authors = 6 | title = <nowiki>Dual, hyperalgesic, and analgesic effects of the high-efficacy 5-hydroxytryptamine 1A (5-HT1A) agonist F 13640 [(3-chloro-4-fluoro-phenyl)-[4-fluoro-4-{[(5-methyl-pyridin-2-ylmethyl)-amino]-methyl}piperidin-1-yl]methanone, fumaric acid salt]: relationship with 5-HT1A receptor occupancy and kinetic parameters</nowiki> | journal = The Journal of Pharmacology and Experimental Therapeutics | volume = 312 | issue = 3 | pages = 1034–1042 | date = March 2005 | pmid = 15528450 | doi = 10.1124/jpet.104.077669 | s2cid = 42446435 }}</ref><ref name="pmid16921393">{{cite journal | vauthors = Assié MB, Lomenech H, Ravailhe V, Faucillon V, Newman-Tancredi A | title = Rapid desensitization of somatodendritic 5-HT1A receptors by chronic administration of the high-efficacy 5-HT1A agonist, F13714: a microdialysis study in the rat | journal = British Journal of Pharmacology | volume = 149 | issue = 2 | pages = 170–178 | date = September 2006 | pmid = 16921393 | pmc = 2013794 | doi = 10.1038/sj.bjp.0706859 }}</ref><ref name="pmid18809418">{{cite journal | vauthors = Buritova J, Berrichon G, Cathala C, Colpaert F, Cussac D | title = Region-specific changes in 5-HT1A agonist-induced Extracellular signal-Regulated Kinases 1/2 phosphorylation in rat brain: a quantitative ELISA study | journal = Neuropharmacology | volume = 56 | issue = 2 | pages = 350–361 | date = February 2009 | pmid = 18809418 | doi = 10.1016/j.neuropharm.2008.09.004 | s2cid = 45068116 }}</ref> As with other 5-HT<sub>1A</sub> silent antagonists such as [[UH-301]], WAY-100635 can also induce a [[head-twitch response]] in rodents.<ref>Fox MA, Stein AR, French HT, Murphy DL. Functional interactions between 5-HT2A and presynaptic 5-HT1A receptor-based responses in mice genetically deficient in the serotonin 5-HT transporter (SERT). ''Br J Pharmacol''. 2010 Feb;159(4):879-87. {{cite journal | vauthors = Fox MA, Stein AR, French HT, Murphy DL | title = Functional interactions between 5-HT2A and presynaptic 5-HT1A receptor-based responses in mice genetically deficient in the serotonin 5-HT transporter (SERT) | journal = British Journal of Pharmacology | volume = 159 | issue = 4 | pages = 879–887 | date = February 2010 | pmid = 20128812 | pmc = 2829213 | doi = 10.1111/j.1476-5381.2009.00578.x }}</ref>
+
+== See also ==
+* [[Binding potential]]
+* Other radioligands for the serotonin system:
+** [[Altanserin]]
+** [[DASB]]
+** [[Mefway]]
+
+== References ==
+{{Reflist|2}}
+
+== External links ==
+* {{Cite web
+| url = http://www.turkupetcentre.net/analysis/doc/tracer/way100635.html
+| title  = Quantification of (carbonyl-<sup>11</sup>C)WAY-100635 PET studies
+| author = Vesa Oikonen
+| publisher = Turku PET center
+| year = 2007
+}}
+
+{{Serotonergics}}
+{{Dopaminergics}}
+{{Piperazines}}
+
+[[Category:Dopamine agonists]]
+[[Category:Piperazines]]
+[[Category:Carboxamides]]
+[[Category:2-Pyridyl compounds]]
+[[Category:Serotonin receptor antagonists]]
+[[Category:2-Methoxyphenyl compounds]]

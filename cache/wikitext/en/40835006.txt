@@ -1,0 +1,142 @@
+{{distinguish |pseudoscience|reason=claims with no empirical data}}
+[[File:Ptolomaeus.jpg|thumb|The Solar System according to the geocentric model of Claudius Ptolemaeus]]
+'''Invalid science''' consists of scientific claims based on experiments that cannot be reproduced or that are contradicted by experiments that can be reproduced. Recent analyses indicate that the proportion of retracted claims in the [[scientific literature]] is steadily increasing.<ref name=econ1013>{{cite news|url=https://www.economist.com/news/leaders/21588069-scientific-research-has-changed-world-now-it-needs-change-itself-how-science-goes-wrong |title=Problems with scientific research: How science goes wrong |publisher=The Economist |date=2013-10-19|access-date=2013-10-19}}</ref> The number of retractions has grown tenfold over the past decade, but they still make up approximately 0.2% of the 1.4{{nbsp}}million papers published annually in scholarly journals.<ref name=alarming>{{cite news|url=https://www.economist.com/news/briefing/21588057-scientists-think-science-self-correcting-alarming-degree-it-not-trouble |title=Unreliable research: Trouble at the lab |publisher=The Economist |date= 2013-10-19|access-date=2013-10-22}}</ref>
+
+The U.S. [[Office of Research Integrity]] (ORI) investigates [[scientific misconduct]].<ref name=sci1012/>
+
+{{toclimit|3}}
+
+== Incidence ==
+
+[[Science (journal)|''Science'' magazine]] ranked first for the number of articles retracted at 70, just edging out ''[[PNAS]]'', which retracted 69. 32 of Science's retractions were due to fraud or suspected fraud, and 37 to error. A subsequent "retraction index" indicated that journals with relatively high impact factors, such as ''Science'', ''[[Nature magazine|Nature]]'' and ''[[Cell (journal)|Cell]]'', had a higher rate of retractions. Under 0.1% of papers in [[PubMed]] had were retracted of more than 25 million papers going back to the 1940s.<ref name=sci1012>{{cite web|url=https://www.science.org/content/article/misconduct-not-mistakes-causes-most-retractions-scientific-papers |title=Misconduct, Not Mistakes, Causes Most Retractions of Scientific Papers &#124; Science/AAAS &#124; News |publisher=News.sciencemag.org |date=2012-10-01 |access-date=2013-10-19}}</ref><ref>{{Cite journal | last1 = Fang | first1 = F. C. | last2 = Steen | first2 = R. G. | last3 = Casadevall | first3 = A. | doi = 10.1073/pnas.1212247109 | title = Misconduct accounts for the majority of retracted scientific publications | journal = Proceedings of the National Academy of Sciences | volume = 109 | issue = 42 | pages = 17028–33 | year = 2012 | pmid =  23027971| pmc = 3479492| bibcode = 2012PNAS..10917028F | doi-access = free }}</ref>
+
+The fraction of retracted papers due to scientific misconduct was estimated at two-thirds, according to studies of 2,047 papers published since 1977. Misconduct included fraud and plagiarism. Another one-fifth were retracted because of mistakes, and the rest were pulled for unknown or other reasons.<ref name=sci1012/>
+
+A separate study analyzed 432 claims of genetic links for various health risks that vary between men and women. Only one of these claims proved to be consistently reproducible. Another meta review, found that of the 49 most-cited clinical research studies published between 1990 and 2003, more than 40% of them were later shown to be either totally wrong or significantly incorrect.<ref name=wired1112>{{cite news|url=https://www.wired.com/magazine/2011/12/ff_causation/all/ |title=Trials and Errors: Why Science Is Failing Us|first= Jonah |last=Lehrer |publisher=[[Wired (magazine)|Wired]] |date=December 16, 2011 |access-date=22 October 2013}}</ref><ref>{{cite web|url=http://www.medscape.com/viewarticle/538729 |title=Highly cited studies often refuted |publisher=Medscape.com|date= |access-date=2013-10-22}}</ref>
+
+=== Biological sciences ===
+
+In 2012, biotech firm [[Amgen]] was able to reproduce just six of 53 important studies in [[cancer research]]. Earlier, a group at [[Bayer]], a drug company, successfully repeated only one fourth of 67 important papers. From 2000 to 2010, roughly 80,000 patients took part in clinical trials based on research that was later retracted because of mistakes or improprieties.<ref name=econ1013/>
+
+=== Paleontology ===
+[[Nathan Myhrvold]] failed repeatedly to replicate the findings of several papers on dinosaur growth. Dinosaurs added a layer to their bones each year. ''[[Tyrannosaurus rex]]'' was thought to have increased in size by more than 700{{nbsp}}kg a year, until Mhyrvold showed that this was a factor of 2 too large. In 4 of 12 papers he examined, the original data had been lost. In three, the statistics were correct, while three had serious errors that invalidated their conclusions. Two papers mistakenly relied on data from these three. He discovered that some of the paper's graphs did not reflect the data. In one case, he found that only four of nine points on the graph came from data cited in the paper.<ref>{{cite news|author=Anonymous |url=https://www.economist.com/news/science-and-technology/21591837-enthusiastic-amateur-suggests-work-how-dinosaurs-grew-wrong-bone |title=Palaeontology: A bone to pick |publisher=The Economist |date=2013-12-21 |access-date=2014-04-17}}</ref>
+
+=== Major retractions ===
+
+[[Torcetrapib]] was originally hyped as a drug that could block a protein that converts [[HDL cholesterol]] into LDL with the potential to "redefine cardiovascular treatment". One [[clinical trial]] showed that the drug could increase HDL and decrease LDL. Two days after [[Pfizer]] announced its plans for the drug, it ended the Phase III clinical trial due to higher rates of chest pain and [[heart failure]] and a 60% increase in overall mortality. Pfizer had invested more than $1 billion in developing the drug.<ref name=wired1112/>
+
+An in-depth review of the most highly cited biomarkers (whose presence are used to infer illness and measure treatment effects) claimed that 83% of supposed correlations became significantly weaker in subsequent studies. [[Homocysteine]] is an amino acid whose levels correlated with heart disease. However, a 2010 study showed that lowering homocysteine by nearly 30% had no effect on heart attack or stroke.<ref name=wired1112/>
+
+=== Priming ===
+
+[[Priming (psychology)|Priming]] studies claim that decisions can be influenced by apparently irrelevant events that a subject witnesses just before making a choice. Nobel Prize-winner [[Daniel Kahneman]] alleges that much of it is poorly founded. Researchers have been unable to replicate some of the more widely cited examples. A paper in ''[[PLoS ONE]]''<ref>{{Cite journal|last1=Shanks|first1=David R.|last2=Newell|first2=Ben R.|last3=Lee|first3=Eun Hee|last4=Balakrishnan|first4=Divya|last5=Ekelund|first5=Lisa|last6=Cenac|first6=Zarus|last7=Kavvadia|first7=Fragkiski|last8=Moore|first8=Christopher|date=2013-04-24|title=Priming Intelligent Behavior: An Elusive Phenomenon|journal=PLOS ONE|language=en|volume=8|issue=4|article-number=e56515|doi=10.1371/journal.pone.0056515|issn=1932-6203|pmc=3634790|pmid=23637732|bibcode=2013PLoSO...856515S |doi-access=free}}</ref> reported that nine separate experiments could not reproduce a study purporting to show that thinking about a professor before taking an intelligence test leads to a higher score than imagining a football hooligan.<ref name=alarming/>  A further systematic replication involving 40 different labs around the world did not replicate the main finding.<ref>{{Cite journal|last1=O'Donnell|first1=Michael|last2=Nelson|first2=Leif D.|last3=Ackermann|first3=Evi|last4=Aczel|first4=Balazs|last5=Akhtar|first5=Athfah|last6=Aldrovandi|first6=Silvio|last7=Alshaif|first7=Nasseem|last8=Andringa|first8=Ronald|last9=Aveyard|first9=Mark|last10=Babincak|first10=Peter|last11=Balatekin|first11=Nursena|date=2018-02-21|title=Registered Replication Report: Dijksterhuis and van Knippenberg (1998)|journal=Perspectives on Psychological Science|language=en-US|volume=13|issue=2|pages=268–294|doi=10.1177/1745691618755704|pmid=29463182|s2cid=3423830|issn=1745-6916|url=https://dipot.ulb.ac.be/dspace/bitstream/2013/265009/3/ODonnellReg.pdf}}</ref> However, this latter systematic replication showed that participants who did not think there was a relation between thinking about a hooligan or a professor were significantly more susceptible to the priming manipulation.
+
+== Potential causes ==
+
+=== Competition ===
+
+In the 1950s, when academic research accelerated during the [[Cold War]], the total number of scientists was a few hundred thousand.<ref name=econ1013/> As of 2023, there are now a total estimated 8 million researchers worldwide.<ref>{{Cite journal |last=Ayan |first=Davut Emrah |last2=Haak |first2=Laurel L. |last3=Ginther |first3=Donna K. |date=May 2023 |title=How many people in the world do research and development? |url=https://onlinelibrary.wiley.com/doi/10.1111/1758-5899.13182 |journal=Global Policy |language=en |volume=14 |issue=2 |pages=270–287 |doi=10.1111/1758-5899.13182 |issn=1758-5880 |pmc=10946615 |pmid=38504669}}</ref> The number of research jobs has not matched this increase. Every year six new PhDs compete for every academic post. Replicating other researcher's results is not perceived to be valuable. The struggle to compete encourages exaggeration of findings and biased data selection. A recent survey found that one in three researchers knows of a colleague who has at least somewhat distorted their results.<ref name=econ1013/>
+
+=== Publication bias ===
+
+Major journals reject in excess of 90% of submitted manuscripts and tend to favor the most dramatic claims. The statistical measures that researchers use to test their claims allow a fraction of false claims to appear valid. Invalid claims are more likely to be dramatic (because they are false.) Without replication, such errors are less likely to be caught.<ref name=econ1013/>
+
+Conversely, failures to prove a hypothesis are rarely even offered for publication. "Negative results" now account for only 14% of published papers, down from 30% in 1990. Knowledge of what is not true is as important as of what is true.<ref name=econ1013/>
+
+=== Peer review ===
+
+[[Peer review]] is the primary validation technique employed by scientific publications. However, a prominent medical journal tested the system and found major failings. It supplied research with induced errors and found that most reviewers failed to spot the mistakes, even after being told of the tests.<ref name=econ1013/>
+
+A pseudonymous fabricated paper on the effects of a chemical derived from lichen on cancer cells was submitted to 304 journals for peer review. The paper was filled with errors of study design, analysis and interpretation. 157 lower-rated journals accepted it. Another study sent an article containing eight deliberate mistakes in study design, analysis and interpretation to more than 200 of the ''[[British Medical Journal]]''{{'}}s regular reviewers. On average, they reported fewer than two of the problems.<ref name=alarming/>
+
+Peer reviewers typically do not re-analyze data from scratch, checking only that the authors' analysis is properly conceived.<ref name=alarming/>
+
+=== Statistics ===
+
+==== Type I and type II errors ====
+
+Scientists divide errors into type I, incorrectly asserting the truth of a hypothesis (false positive) and type II, rejecting a correct hypothesis (false negative). Statistical checks assess the probability that data which seem to support a hypothesis come about simply by chance. If the probability is less than 5%, the evidence is rated "statistically significant". One definitional consequence is a type one error rate of one in 20.<ref name=alarming/>
+
+==== Statistical power ====
+
+In 2005 Stanford [[epidemiologist]] [[John Ioannidis]] showed that the idea that only one paper in 20 gives a false-positive result was incorrect. He claimed, "most published research findings are probably false." He found three categories of problems: insufficient "[[statistical power]]" (avoiding type II errors); the unlikeliness of the hypothesis; and [[publication bias]] favoring novel claims.<ref name=alarming/>
+
+A statistically powerful study identifies factors with only small effects on data. In general studies with more repetitions that run the experiment more times on more subjects have greater power. A power of 0.8 means that of ten true hypotheses tested, the effects of two are missed. Ioannidis found that in neuroscience the typical statistical power is 0.21; another study found that psychology studies average 0.35.<ref name=alarming/>
+
+Unlikeliness is a measure of the degree of surprise in a result. Scientists prefer surprising results, leading them to test hypotheses that are unlikely to very unlikely. Ioannidis claimed that in epidemiology, some one in ten hypotheses should be true. In exploratory disciplines like genomics, which rely on examining voluminous data about genes and proteins, only one in a thousand should prove correct.<ref name=alarming/>
+
+In a discipline in which 100 out of 1,000 hypotheses are true, studies with a power of 0.8 will find 80 and miss 20. Of the 900 incorrect hypotheses, 5% or 45 will be accepted because of type I errors. Adding the 45 false positives to the 80 true positives gives 125 positive results, or 36% specious. Dropping statistical power to 0.4, optimistic for many fields, would still produce 45 false positives but only 40 true positives, less than half.<ref name=alarming/>
+
+Negative results are more reliable. Statistical power of 0.8 produces 875 negative results of which only 20 are false, giving an accuracy of over 97%. Negative results however account for a minority of published results, varying by discipline. A study of 4,600 papers found that the proportion of published negative results dropped from 30% to 14% between 1990 and 2007.<ref name=alarming/>
+
+Subatomic physics sets an acceptable false-positive rate of one in 3.5m (known as the [[Standard deviation#Particle physics|five-sigma standard]]). However, even this does not provide perfect protection. The problem invalidates some 3/4s of [[machine learning]] studies according to one review.<ref name=alarming/>
+
+==== Statistical significance ====
+
+[[Statistical significance]] is a measure for testing [[statistical correlation]]. It was invented by English mathematician [[Ronald Fisher]] in the 1920s. It defines a "significant" result as any data point that would be produced by chance less than 5% (or more stringently, 1%) of the time. A significant result is widely seen as an important indicator that the correlation is not random.<ref name=wired1112/>
+
+While correlations track the relationship between truly independent measurements, such as smoking and cancer, they are much less effective when variables cannot be isolated, a common circumstance in biological systems. For example, statistics found a high correlation between lower back pain and abnormalities in spinal discs, although it was later discovered that serious abnormalities were present in two-thirds of pain-free patients.<ref name=wired1112/>
+
+=== Minimum threshold publishers ===
+
+Journals such as PLoS One use a "minimal-threshold" standard, seeking to publish as much science as possible, rather than to pick out the best work. Their peer reviewers assess only whether a paper is methodologically sound. Almost half of their submissions are still rejected on that basis.<ref name=alarming/>
+
+=== Unpublished research ===
+
+Only 22% of the [[clinical trial]]s financed by the [[National Institutes of Health]] (NIH) released summary results within one year of completion, even though the NIH requires it. Fewer than half published within 30 months; a third remained unpublished after 51 months.<ref name=alarming/> When other scientists rely on invalid research, they may waste time on lines of research that are themselves invalid. The failure to report failures means that researchers waste money and effort exploring blind alleys already investigated by other scientists.<ref name=econ1013/>
+
+=== Fraud ===
+
+In 21 surveys of academics (mostly in the biomedical sciences but also in civil engineering, chemistry and economics) carried out between 1987 and 2008, 2% admitted fabricating data, but 28% claimed to know of colleagues who engaged in questionable research practices.<ref name=alarming/>
+
+=== Lack of access to data and software ===
+
+Clinical trials are generally too costly to rerun. Access to trial data is the only practical approach to reassessment. A campaign to persuade pharmaceutical firms to make all trial data available won its first convert in February 2013 when [[GlaxoSmithKline]] became the first to agree.<ref name=alarming/>
+
+Software used in a trial is generally considered to be proprietary intellectual property and is not available to replicators, further complicating matters. Journals that insist on data-sharing tend not to do the same for software.<ref name=alarming/>
+
+Even well-written papers may not include sufficient detail and/or tacit knowledge (subtle skills and extemporisations not considered notable) for the replication to succeed. One cause of replication failure is insufficient control of the protocol, which can cause disputes between the original and replicating researchers.<ref name=alarming/>
+
+== Reform ==
+
+=== Statistics training ===
+
+Geneticists have begun more careful reviews, particularly of the use of statistical techniques. The effect was to stop a flood of specious results from [[genome sequencing]].<ref name=econ1013/>
+
+=== Protocol registration ===
+
+Registering research protocols in advance and monitoring them over the course of a study can prevent researchers from modifying the protocol midstream to highlight preferred results. Providing raw data for other researchers to inspect and test can also better hold researchers to account.<ref name=econ1013/>
+
+=== Post-publication review ===
+
+Replacing peer review with post-publication evaluations can encourage researchers to think more about the long-term consequences of excessive or unsubstantiated claims. That system was adopted in physics and mathematics with good results.<ref name=econ1013/>
+
+=== Replication ===
+
+Few researchers, especially junior workers, seek opportunities to replicate others' work, partly to protect relationships with senior researchers.<ref name=alarming/>
+
+Reproduction benefits from access to the original study's methods and data. More than half of 238 biomedical papers published in 84 journals failed to identify all the resources (such as chemical reagents) necessary to reproduce the results. In 2008 some 60% of researchers said they would share raw data; in 2013 just 45% do. Journals have begun to demand that at least some raw data be made available, although only 143 of 351 randomly selected papers covered by some data-sharing policy actually complied.<ref name=alarming/>
+
+The Reproducibility Initiative is a service allowing life scientists to pay to have their work validated by an independent lab. In October 2013 the initiative received funding to review 50 of the highest-impact cancer findings published between 2010 and 2012. ''Blog Syn'' is a website run by graduate students that is dedicated to reproducing chemical reactions reported in papers.<ref name=alarming/>
+
+In 2013 replication efforts received greater attention. ''Nature'' and related publications introduced an 18-point checklist for life science authors in May,<ref>[http://www.nature.com/authors/policies/checklist.pdf Reporting Checklist For Life Sciences Articles]</ref> in its effort to ensure that its published research can be reproduced. Expanded "methods" sections and all data were to be available online. The Centre for Open Science opened as an independent laboratory focused on replication. The journal Perspectives on Psychological Science announced a section devoted to replications. Another project announced plans to replicate 100 studies published in the first three months of 2008 in three leading psychology journals.<ref name=alarming/>
+
+Major funders, including the [[European Research Council]], the US [[National Science Foundation]] and [[Research Councils UK]] have not changed their preference for new work over replications.<ref name=alarming/>
+
+== See also ==
+* [[Metascience (research)]]
+* [[Replication crisis]]
+* [[Reproducibility Project]]
+* [[Retraction Watch]]
+* [[Séralini affair]]
+* [[Statistical correlation]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+
+* {{cite news|url=http://www.economist.com/economist-asks/has-science-gone-wrong |title=Has science gone wrong?|publisher=The Economist |date= 2013-10-19|access-date=2013-10-22}}
+* {{Cite web|last1=O'Grady|first1=Cathleen|date=2020-12-09|title=Psychology's replication crisis inspires ecologists to push for more reliable research|url=https://www.science.org/content/article/psychology-s-replication-crisis-inspires-ecologists-push-more-reliable-research|access-date=2020-12-16|website=Science {{!}} AAAS|language=en}}
+
+[[Category:Scientific misconduct]]

@@ -1,0 +1,160 @@
+{{Infobox gene}}
+'''CRACD-like protein'''. previously known as '''KIAA1211L''' is a protein that in humans is encoded by the ''CRACDL'' gene. It is highly expressed in the [[cerebral cortex]] of the brain.<ref name=":7">{{Cite web|url=https://www.ncbi.nlm.nih.gov/gene/343990#gene-expression|title=KIAA1211L KIAA1211 like [Homo sapiens (human)] - Gene - NCBI|website=www.ncbi.nlm.nih.gov|access-date=2017-04-23}}</ref> Furthermore, it is localized to the [[microtubule]]s and the [[centrosome]]s and is subcellularly located in the [[Cell nucleus|nucleus]].<ref name=":8" /><ref name=":5" /> Finally, CRACDL is associated with certain mental disorders and various cancers.<ref name=":10" /><ref name=":11" />
+
+== Gene ==
+
+{| class="wikitable"
+|Chromosome 
+|2 (2q.11.2)<ref name=":1" />
+|-
+|Location
+|98,793,846 bp from pter to 98,936,259 bp from pter<ref name=":1" />  
+|-
+|Size
+|142,414 bases<ref name=":1" />
+|-
+|Accession Number
+|NM_207362<ref name=":3" />
+|-
+|Also Known As  
+|KIAA1211 Like
+
+C2orf55
+
+Chromosome 2 Open Reading Frame 55<ref name=":1" />
+|}
+''CRACDL'' is a protein-coding gene.<ref name=":1">{{Cite web|url=https://www.genecards.org/cgi-bin/carddisp.pl?gene=KIAA1211L|title=KIAA1211L Gene - GeneCards {{!}} K121L Protein {{!}} K121L Antibody|last=Database|first=GeneCards Human Gene|website=www.genecards.org|access-date=2017-02-24}}</ref> The table above presents the gene's alias, location, size and accession number.
+
+== mRNA ==
+There are 11 splice isoforms of the ''CRACDL''.<ref name=":7" /> The validated isoform has 10 exons.<ref name=":7" />
+
+== Protein ==
+[[File:Conceptual Translation KIAA1211L Part 1.jpg|thumb|Conceptual Translation CRACDL Part 1. The upstream stop codon is orange, the exon boundaries are highlighted blue, the start codon is green, the predicted nuclear location signal is denoted by a purple box, the conserved regions are highlighted orange, the phosphorylation sites are highlighted yellow, the predicted SUMOylation sites are denoted by green boxes, the DUF4592 Motif is highlighted red.]]
+[[File:Conceptual Translation KIAA1211L Part 2.0.jpg|thumb|Conceptual Translation CRACDL Part 2. The exon boundaries are highlighted blue, the conserved regions are highlighted orange, the predicted SUMOylation sites are denoted by green boxes, the stop codon is red, the predicted miRNA 132 target is underlined in purple, and the polyadenylation signal is highlighted magenta.]]
+{| class="wikitable"
+|Amino Acid Length
+|962 <ref name=":1" />
+|-
+|Molecular Weight 
+|102 kda<ref name=":2">{{Cite web|url=http://workbench.sdsc.edu|title=SDSC Biology Workbench|last=Workbench|first=NCSA Biology|website=workbench.sdsc.edu|access-date=2017-04-23}}</ref>
+|-
+|Isoelectric Point
+|8<ref name=":2" />
+|-
+|Accession Number
+|NP_997245.2<ref name=":3">{{Cite web|url=https://www.ncbi.nlm.nih.gov/nuccore/NM_207362.2|title=Homo sapiens KIAA1211 like (KIAA1211L), mRNA - Nucleotide - NCBI|website=www.ncbi.nlm.nih.gov|access-date=2017-04-23}}</ref>
+|-
+|Also Known As
+|Uncharacterized Protein KIAA1211-like<ref name=":1" />
+Uncharacterized Protein C2orf55<ref name=":1" />
+
+Hypothetical Protein LOC343990<ref>{{Cite web|url=http://genatlas.medecine.univ-paris5.fr/fiche.php?n=34553|title=Genatlas sheet|website=genatlas.medecine.univ-paris5.fr|access-date=2017-04-23}}</ref>
+|}
+The table above presents the protein's alias, size, and accession number. The CRACD-L protein is proline rich and asparagine, isoleucine, phenylalanine, and tyrosine poor.<ref name=":2" />
+
+=== Domains and motifs ===
+[[File:MyDomain.png|thumb|''CRACDL'' Schematic. This figure is a schematic illustration of CRACDL. The nuclear location signal is blue, the phosphorylation sites are red, the SUMOylation sites are grey, and the DUF4592 motif is orange.]]
+
+The CRACD-L protein has one domain called the DUF4592 motif and spans amino acids 131–239.<ref>{{Cite web|url=http://pfam.xfam.org/family/PF15262|title=Pfam: Family: DUF4592 (PF15262)|website=pfam.xfam.org|access-date=2017-04-23}}</ref> This domain is highly conserved among the CRACDL [[Homology (biology)|orthologs]]. The DUF4592 motif is depicted in both the conceptual translation and schematic figures.
+
+=== Post translational modifications ===
+
+CRACDL is [[Phosphorylation|phosphorylated]] at the Ser92 and Ser490 amino acids.<ref>{{Cite web|url=https://www.ncbi.nlm.nih.gov/nuccore/NM_207362.2|title=Homo sapiens KIAA1211 like (KIAA1211L), mRNA - Nucleotide - NCBI|website=www.ncbi.nlm.nih.gov|access-date=2017-04-23}}</ref> The KIAA1211L protein is also predicted to have five different [[SUMO protein|SUMOylation]] sites located at Lys134, Lys375, Lys866, Lys874, and Lys914.<ref name=":6">{{Cite web|url=http://www.abgent.com/sumoplot|title=SUMOplot™ Analysis Program {{!}} Abgent|website=www.abgent.com|language=en|access-date=2017-04-23}}</ref> Both the phosphorylated sites and the SUMOylation sites are depicted in the conceptual translation and schematic figures.
+
+=== Secondary structure ===
+
+The CRACD-L protein predicted [[Biomolecular structure|secondary structure]] is composed of 50% [[alpha helix]]es, 8.9% [[beta sheet]]s, and 17.9% turns.<ref>{{Cite web|url=http://www.biogem.org|title=BioGem.Org - Ashok Kumar's Bioinformatics Portal... {{!}} Home|last=Kumar|first=Prof. T. Ashok|website=www.biogem.org|access-date=2017-04-23}}</ref> The high number of turns is consistent with the fact that CRACD-L is [[proline]] rich.<ref name=":2" />
+
+=== Subcellular location ===
+
+The CRACD-L protein is predicted to be located in the [[Cell nucleus|nucleus]].<ref name=":5">{{Cite web|url=https://psort.hgc.jp/cgi-bin/runpsort.pl|title=GenScript Protein Subcellular Location Prediction Tool}}{{Dead link|date=February 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> The orthologs, including the elephant shark, horse, rock dove, and chimp, are also predicted to be located in the nucleus.<ref name=":5" /> The [[Nuclear localization sequence|nuclear location signal]] is located on amino acids 25-43 which is depicted in both the conceptual translation and schematic figures. .<ref name=":5" /> This signal is conserved throughout the orthologs. Additionally, this location (amino acids 24-43) is positively charged, probably due to the high amount of [[lysine]] at this location.<ref name=":2" /> Finally, it is predicted that CRACD-L is mainly localized to the [[microtubule]]s and [[centrosome]] and sometimes localized to the [[cytokinesis|cytokinetic bridge]].<ref name=":8">{{Cite web|url=http://www.proteinatlas.org/ENSG00000196872-KIAA1211L/cell|title=Cell atlas - KIAA1211L - The Human Protein Atlas|website=www.proteinatlas.org|access-date=2017-04-23|archive-date=2017-04-26|archive-url=https://web.archive.org/web/20170426062457/http://www.proteinatlas.org/ENSG00000196872-KIAA1211L/cell}}</ref>
+
+== Expression ==
+The gene is highly expressed in the [[cerebral cortex]] of the [[brain]].<ref name=":7" /> The CRACD-L protein is located in many different tissue types, including the brain, the hippocampus, the lung, breast carcinoma, the islets of Langerhans, the pancreas, the kidney, and 38 other tissues.<ref>{{Cite web|url=http://www.proteinatlas.org/ENSG00000196872-KIAA1211L/tissue|title=Tissue expression of KIAA1211L - Summary - The Human Protein Atlas|website=www.proteinatlas.org|access-date=2017-04-23}}</ref> Additionally, it is expressed an average amount compared to other human proteins.<ref>{{Cite web|url=http://pax-db.org/protein/1858538|title=KIAA1211L protein abundance in PaxDb|website=pax-db.org|language=en|access-date=2017-04-23}}</ref>
+
+=== Regulation of transcription ===
+The [[Promoter (genetics)|promoter]] region of CRACDL is approximately 1340 base pairs with various predicted [[transcription factor]]s.<ref name=":12">{{Cite web|url=https://www.genomatix.de/|title=Genomatix - NGS Data Analysis & Personalized Medicine|website=www.genomatix.de|access-date=2017-05-07|archive-date=2001-02-24|archive-url=https://web.archive.org/web/20010224072831/http://www.genomatix.de/}}</ref> The [[Neuroglia|glial cells]] missing homolog 1 and the [[oligodendrocyte]] lineage transcription factors are notable because CRACDL is highly expressed in the brain.<ref name=":12" /><ref name=":7" /> Furthermore, the [[Estrogen-related receptor alpha]] is also a notable transcription factor due to CRACDL's low expression levels when estrogen receptors are knocked down.<ref name="pmid21713035">{{cite journal | vauthors = Al Saleh S, Al Mulla F, Luqmani YA | title = Estrogen receptor silencing induces epithelial to mesenchymal transition in human breast cancer cells | journal = PLOS ONE | volume = 6 | issue = 6 | article-number = e20610 | date = 2011 | pmid = 21713035 | pmc = 3119661 | doi = 10.1371/journal.pone.0020610 | bibcode = 2011PLoSO...620610A | doi-access = free }}</ref><ref name=":12" /> Furthermore, CRACDL is predicted to be SUMOylated.<ref name=":6" /> The 3' UTR of CRACDL is predicted to be a targeted by [[MiR-132|miRNA-132]], which is depicted in the conceptual translation figure.<ref>{{Cite journal|last=Alvarez-Saavedra|first=M|date=2010|title=MicroRNA-132-Dependent Post-Transcriptional Regulation of Clock Entrainment Physiology Via Modulation of Chromatin Remodeling and Translational Control Gene Targets|journal=University of Ottawa}}</ref>
+
+== Function ==
+=== Interacting proteins ===
+[[GSK3B|Glycogen Synthase Kinase 3 Beta]] (GSK3B)
+
+GSK3B is a protein kinase that regulates transcription factors and microtubules.<ref name=":4">{{Cite web|url=https://www.uniprot.org/uniprot/P49841|title=GSK3B - Glycogen synthase kinase-3 beta - Homo sapiens (Human) - GSK3B gene & protein|website=www.uniprot.org|language=en|access-date=2017-04-23}}</ref> As such, it phosphorylates proteins, decreasing their ability to bind and stabilize microtubules.<ref name=":4" /> The proteins it phosphorylates are the principle components of neurofibrillary tangles in Alzheimer disease.<ref name=":4" /> The protein is needed for the establishment of neuronal polarity and axon outgrowth and phosphorylates proteins in neuroblastoma cells.<ref name=":4" /> Furthermore, it is associated with bipolar disease and is active in breast cancer cells.<ref name=":4" /><ref>{{Cite web|url=https://www.genecards.org/cgi-bin/carddisp.pl?gene=GSK3B|title=GSK3B Gene - GeneCards {{!}} GSK3B Protein {{!}} GSK3B Antibody|last=Database|first=GeneCards Human Gene|website=www.genecards.org|access-date=2017-04-23}}</ref>
+
+As such, the predicted interaction between CRACDL and GSK3B is likely because CRACDL is highly expressed in the brain, associated with bipolar disorder and breast cancer, and is localized on the microtubules.<ref name=":7" /><ref name=":8" /><ref name=":10" /><ref name=":11" /> The interaction between GSK3B and CRACDL was predicted using anti bait coimmunoprecipitation, pull down, tandem affinity purification, fluorescence polarization spectroscopy, protein kinases assay, two hybrid, and confocal microscopy experiments.<ref name=":9">{{Cite web|url=http://www.ebi.ac.uk/intact/|title=IntAct|website=www.ebi.ac.uk|access-date=2017-04-23}}</ref>
+
+CRACD-L protein is also predicted to interact with [[Alpha-synuclein]] (SNCA), [[Mdm2|E3 Ubiquitin-Protein Ligase Mdm2 (MDM2)]], [[PAK1|Serine/Threonine-Protein Kinase PAK 1]] (PAK 1), and [[DNA replication factor CDT1|DNA Replication Factor Cdt1 (CDT1)]].<ref name=":9" />
+
+=== Clinical significance ===
+CRACDL is associated with depression, bipolar disorder, and schizophrenia.<ref name=":11">{{cite journal | vauthors = Iwamoto K, Kakiuchi C, Bundo M, Ikeda K, Kato T | title = Molecular characterization of bipolar disorder by comparing gene expression profiles of postmortem brains of major mental disorders | journal = Molecular Psychiatry | volume = 9 | issue = 4 | pages = 406–16 | date = April 2004 | pmid = 14743183 | doi = 10.1038/sj.mp.4001437 | doi-access =  }}</ref> Additionally, CRACDL is associated with various cancers including ovarian, breast, etc.<ref name=":10">{{cite thesis | vauthors = Spurrell CH | degree = Doctor of Philosophy | publisher = University of Washington |date=2013|title=Identifying New Genes for Inherited Breast Cancer by Exome Sequencing.|url=https://digital.lib.washington.edu/researchworks/handle/1773/25172 }}</ref>
+
+== Homology ==
+
+=== Paralogs ===
+KIAA1211 is the paralog to KIAA1211L. KIAA1211 is located on chromosome 4 and has 1233 amino acids.<ref>{{Cite web|url=https://www.genecards.org/cgi-bin/carddisp.pl?gene=KIAA1211|title=KIAA1211 Gene - GeneCards {{!}} K1211 Protein {{!}} K1211 Antibody|last=Database|first=GeneCards Human Gene|website=www.genecards.org|access-date=2017-04-23}}</ref> Its percent identity to KIAA1211L is 21%.<ref name="pmid3382986">{{cite journal | vauthors = Myers EW, Miller W | title = Optimal alignments in linear space | journal = Computer Applications in the Biosciences | volume = 4 | issue = 1 | pages = 11–7 | date = March 1988 | pmid = 3382986 | doi = 10.1093/bioinformatics/4.1.11}}</ref> The KIAA1211 has an ortholog in the bacteria ''Proteus vulgarism,'' indicating the paralog duplicated 4290 million years ago, before KIAA1211L.<ref>{{Cite web|url=https://www.ncbi.nlm.nih.gov/gene/?term=XP_007889338.1|title=kiaa1211l KIAA1211 like [Callorhinchus milii (elephant shark)] - Gene - NCBI|website=www.ncbi.nlm.nih.gov|access-date=2017-02-24}}</ref><ref>{{Cite web|url=http://www.timetree.org|title=TimeTree :: The Timescale of Life|website=www.timetree.org|access-date=2017-02-24}}</ref>
+
+=== Orthologs ===
+Below is the table of various KIAA1211L orthologs. It includes closely, intermediately, and distantly related orthologs. The most distant ortholog is the elephant shark, indicating KIAA1211L duplicated 473 MYA. The amino acids conserved among all the KIAA1211L orthologs are depicted in the conceptual translation.  
+{| class="wikitable"
+!Species<ref name=":0">{{Cite web|url=https://blast.ncbi.nlm.nih.gov/Blast.cgi|title=BLAST: Basic Local Alignment Search Tool|website=blast.ncbi.nlm.nih.gov|access-date=2017-04-23}}</ref>
+!NCBI Accession #<ref name=":0" />
+!Date of Divergence<ref>{{Cite web|url=http://www.timetree.org|title=TimeTree :: The Timescale of Life|website=www.timetree.org|access-date=2017-04-23}}</ref>
+!Sequence Identity<ref name=":2" />  
+!Sequence Similarity<ref>{{Cite web|url=http://www.ebi.ac.uk/Tools/psa/emboss_needle/|title=EMBOSS Needle < Pairwise Sequence Alignment < EMBL-EBI|last=EMBL-EBI|website=www.ebi.ac.uk|language=en|access-date=2017-04-23}}</ref>
+|-
+|''Pan troglodytes'' (Chimpanzee)
+|XP_515643.2 
+|6.65 MYA
+|99.1%
+|99.3%
+|-
+|''Octodon negus'' (Degu)
+|XP_004633240.1
+|90 MYA
+|65.9%
+|73.1%
+|-
+|''Panthera pardus'' (Leopard) 
+|XP_019312964.1 
+|96 MYA
+|67.8%
+|73.3%
+|-
+|''Anas platyrhynchos'' (Mallard Duck)
+|XP_012949224.1 
+|312 MYA 
+|41.2%
+|52.40%
+|-
+|''Pygoscelis adeliae'' (Adélie penguin)
+|XP_009321834.1 
+|312 MYA
+|38.5%
+|51.6%
+|-
+|''Python bivittatus'' (Burmese python)
+|XP_007428826
+|312 MYA
+|34.2%
+|46.3%
+|-
+|''Nanorana parker'' (High Himalaya frog)
+|XP_018418330.1
+|352 MYA
+|32.1%
+|43.7%
+|-
+|''Callorhinchus milii'' (Elephant Shark)
+|XP_007889338.1 
+|473 MYA 
+|30.5%
+|42.4%
+|}
+
+=== Phylogeny ===
+The CRACDL gene is similar and conserved in mammals, birds, reptiles, amphibians, and fish. It is not conserved in bacteria, archaea, protists, plants, fungus, trichoplax, and invertebrates.
+
+== Citations ==
+{{reflist|30em}}
+
+[[Category:Human proteins]]

@@ -1,0 +1,60 @@
+{{short description|Social psychologist}}
+{{Infobox academic
+| name = Yaacov Trope
+| occupation = Professor of Psychology
+| citizenship = 
+| workplaces = New York University
+| alma_mater = Tel Aviv University; University of Michigan
+| awards = *SPSP Career Contribution Award (2015)
+*APS Mentor Award (2016)
+| spouse = 
+| native_name = יעקב טרופ
+| native_name_lang = he
+}}
+
+'''Yaacov Trope''' ([[Hebrew language|Hebrew]]: יעקב טרופ; born June 17, 1945)<ref name=":0">{{Cite web |title=CURRICULUM VITAE Yaacov Trope New York University |url=https://dokumen.tips/documents/curriculum-vitae-yaacov-trope-new-york-university-cv-5-16-2012016-06-21curriculum.html |access-date=2022-11-28 |website=dokumen.tips |language=en}}</ref> is a social [[psychologist]] who studies cognitive, motivational, and social factors that enable perspective taking, and effects of emotions and desires on [[Social judgment theory|social judgment]] and [[Decision-making|decision making]]. He is a Professor of Psychology at [[New York University]].
+
+Trope won the 2016 Mentor Award from the [[Association for Psychological Science]] for his outstanding mentorship and support for psychology students.<ref>{{Cite web |title=2016 APS Mentor Award |url=https://www.psychologicalscience.org/members/awards-and-honors/aps-mentor-award/mentor-award-recipients/trope |access-date=2022-10-27 |website=Association for Psychological Science – APS |language=en-US}}</ref> In 2015, he won the Career Contribution Award from the [[Society for Personality and Social Psychology]]<ref>{{Cite web |title=Career Contribution Award {{!}} Society for Personality and Social Psychology |url=https://spsp.org/membership/awards/seniorcareer/career-contribution-award |access-date=2022-11-28 |website=spsp.org}}</ref> and the [[Tom Ostrom|Thomas M. Ostrom]] Award for Outstanding Contributions to Social Cognition.<ref>{{Cite web |title=Ostrom Award |url=https://pmigconference.com/undefined/ostrom-award |access-date=2022-11-28 |website=Home |language=en-US}}</ref> Trope is an elected member of the [[American Academy of Arts and Sciences]].<ref>{{Cite web |title=Yaacov Trope |url=https://www.amacad.org/person/yaacov-trope |access-date=2022-11-28 |website=American Academy of Arts & Sciences |language=en}}</ref>
+
+== Biography ==
+Trope received his B.A degree in Psychology from [[Tel Aviv University]] in 1970. He attended graduate school at the [[University of Michigan]] where he obtained a M.A in 1972 and a Ph.D in Social Psychology in 1974.<ref>{{Cite web |last1=Arts |first1=-Professor of Psychology – NYU Faculty of |last2=Appointment |first2=Science-Affiliated |last3=Marketing |first3=Department of |title=NYU Stern – Yaacov Trope – Professor of Psychology |url=https://www.stern.nyu.edu/faculty/bio/yaacov-trope |access-date=2022-10-20 |website=www.stern.nyu.edu |language=en}}</ref> As a scholar from Israel, Trope received a [[Fulbright Program|Fulbright fellowship]] to conduct research with [[Eugene Burnstein|Eugene Bernstein]] at the University of Michigan from 1979–1980.<ref>{{Cite web |title=Yaacov Trope {{!}} Fulbright Scholar Program |url=https://fulbrightscholars.org/grantee/yaacov-trope |access-date=2022-11-28 |website=fulbrightscholars.org}}</ref>
+
+Trope was a faculty member at the [[Hebrew University of Jerusalem]] from 1974 to 1989 before joining the faculty of New York University in 1990.  From 1990–1998, Trope had a joint appointment as a Professor of Psychology at Tel Aviv University.<ref name=":0" />
+
+== Research ==
+Trope's research examines social and emotional factors in decision-making.<ref>{{Cite web |title=Yaacov Trope: H-index & Awards – Academic Profile |url=https://research.com/u/yaacov-trope |access-date=2022-10-27 |website=Research.com |language=en}}</ref> He is especially interested in the process of [[construal]], or how people perceive, comprehend, and interpret the world and make connections. With his colleague Nira Liberman, Trope developed [[construal level theory]]<ref>{{Cite journal |last1=Trope |first1=Yaacov |last2=Liberman |first2=Nira |date=2010 |title=Construal-level theory of psychological distance. |journal=Psychological Review |language=en |volume=117 |issue=2 |pages=440–463 |doi=10.1037/a0018963 |issn=1939-1471 |pmc=3152826 |pmid=20438233}}</ref> to account for relations between perceived [[psychological distance]] and the extent to which one's thinking about a given topic or situation will tend to more concrete vs. more [[Abstract thinking|abstract]].<ref>{{Cite web |title=Theory {{!}} Construal Level Theory |url=https://u.osu.edu/construalleveltheory/theory/ |access-date=2022-12-13 |website=u.osu.edu}}</ref> That is, if a situation that has a direct effect on the person, they will tend to think about the situation in a concrete way and their responses will be more immediate. In contrast, if the situation has only a remote effect on the person, they will tend to think about it more abstractly and reason about it more slowly.
+
+Other work has focused specifically on temporal construal, or how distance in time affects one's perceptions of present and future events.<ref>{{Cite web |last=Templin |first=Neal |title=The Urge to Splurge: Don't Worry, It'll Pass |url=https://www.wsj.com/articles/SB123319605956027285 |access-date=2022-12-11 |website=WSJ |date=29 January 2009 |language=en-US}}</ref> Trope and Liberman draw a contrast between high-level construal of temporally distant events, which captures the bigger picture or the overall main point with a few abstract features, and low-level construal of temporally close events, which includes smaller details that do not play an essential role in the event or are of little importance.<ref>{{Cite journal |last1=Trope |first1=Yaacov |last2=Liberman |first2=Nira |date=2003 |title=Temporal construal. |url=http://doi.apa.org/getdoi.cfm?doi=10.1037/0033-295X.110.3.403 |journal=Psychological Review |language=en |volume=110 |issue=3 |pages=403–421 |doi=10.1037/0033-295X.110.3.403 |pmid=12885109 |issn=1939-1471|url-access=subscription }}</ref>
+
+Trope's research has examined how people reveal their [[emotions]] via [[facial expression]] and [[body language]], and how facial expressions in response to intensely joyful or painful events may be surprisingly similar.<ref>{{Cite web |title=Study: Facial expressions of intense joy and anguish are indistinguishable {{!}} American Association for the Advancement of Science (AAAS) |url=https://www.aaas.org/study-facial-expressions-intense-joy-and-anguish-are-indistinguishable |access-date=2022-12-11 |website=www.aaas.org |language=en}}</ref> Trope and his colleagues found that body language provides a more accurate indicator of how one is feeling as compared to facial expressions—a finding that runs counter to what people generally think.<ref>{{Cite journal |last1=Aviezer |first1=Hillel |last2=Trope |first2=Yaacov |last3=Todorov |first3=Alexander |date=2012-11-30 |title=Body Cues, Not Facial Expressions, Discriminate Between Intense Positive and Negative Emotions |url=https://www.science.org/doi/10.1126/science.1224313 |journal=Science |language=en |volume=338 |issue=6111 |pages=1225–1229 |doi=10.1126/science.1224313 |pmid=23197536 |bibcode=2012Sci...338.1225A |s2cid=5867506 |issn=0036-8075|url-access=subscription }}</ref> While it is sometimes difficult to read emotions from a person's face alone, it is much easier to deduce how the person is feeling when their bodies are visible.
+
+== Books ==
+* Chaiken, S., & Trope, Y. (Eds.) (1999). ''Dual-process theories in social psychology.'' The Guilford Press.
+* Trope, Y., & Higgins, E. T. (1993). ''Dispositional inferences from behavior.'' Sage Publications.
+
+== Representative publications ==
+* {{cite journal | last1 = Fujita | first1 = K. | last2 = Trope | first2 = Y. | last3 = Liberman | first3 = N. | last4 = Levin-Sagi | first4 = M. | year = 2006 | title = Construal levels and self-control | url = | journal = Journal of Personality and Social Psychology | volume = 90 | issue = 3| pages = 351–367 | doi = 10.1037/0022-3514.90.3.351 }}
+*{{cite journal | last1 = Liberman | first1 = N. | last2 = Trope | first2 = Y. | year = 1998 | title = The role of feasibility and desirability considerations in near and distant future decisions: A test of temporal construal theory | url = | journal = Journal of Personality and Social Psychology | volume = 75 | issue = 1| pages = 5–18 | doi = 10.1037/0022-3514.75.1.5 }}
+* Trope, Y. (1986). Self-enhancement and self-assessment in achievement behavior. In R. M. Sorrentino & E. T. Higgins (Eds.), ''Handbook of motivation and cognition: Foundations of social behavior'' (pp.&nbsp;350–378). Guilford Press.
+* {{cite journal | pmid = 20438233 | doi=10.1037/a0018963 | pmc=3152826 | volume=117 | title=Construal-level theory of psychological distance | year=2010 | journal=Psychol Rev | pages=440–63  | last1 = Trope | first1 = Y | last2 = Liberman | first2 = N | issue=2 }} Erratum in ''Psychological Review, 117''(3), 1024. 
+* {{cite journal | last1 = Trope | first1 = Y. | last2 = Liberman | first2 = N | last3 = Wakslak | first3 = C. | year = 2007 | title = Construal levels and psychological distance: Effects on representation, prediction, evaluation, and behavior | journal = Journal of Consumer Psychology | volume = 17 | issue = 2| pages = 83–95 | pmid = 21822366 | doi = 10.1016/S1057-7408(07)70013-X | pmc = 3150814 }}
+
+==References==
+<references />
+
+== External links ==
+*[https://as.nyu.edu/faculty/yaacov-trope.html Faculty profile] at [[New York University]]
+*[https://sites.google.com/nyu.edu/tropelab// Expansive and contractive social mind lab]
+*[https://scholar.google.com/citations?user=ClU_IREAAAAJ&hl=en&oi=ao Yaacov Trope] publications indexed by [[Google Scholar]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Trope, Yaacov}}
+[[Category:1945 births]]
+[[Category:Israeli psychologists]]
+[[Category:Social psychologists]]
+[[Category:Psychology theorists]]
+[[Category:Tel Aviv University alumni]]
+[[Category:University of Michigan alumni]]
+[[Category:New York University faculty]]
+[[Category:Living people]]

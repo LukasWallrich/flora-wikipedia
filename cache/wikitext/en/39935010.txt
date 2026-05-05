@@ -1,0 +1,66 @@
+{{Short description|American nonprofit organization}}
+{{Infobox website
+| name                 = Center for Open Science
+| logo                 = Center for Open Science.png
+| logocaption          =
+| screenshot           =
+| collapsible          =
+| collapsetext         =
+| caption              =
+| url                  = {{URL|https://cos.io/}}, {{URL|https://osf.io/}}
+| commercial           = No
+| type                 =
+| registration         =
+| language             =
+| num_users            =
+| content_license      =
+| content_licence      =
+| programming language =
+| owner                =
+| author               =
+| editor               =
+| launch_date          = {{start date and age|2013}}
+| revenue              =
+| alexa                =
+| ip                   =
+| current_status       = Active
+| footnotes            =
+}}
+
+The '''Center for Open Science''' is a [[non-profit]] technology organization based in [[Charlottesville, Virginia]] with a mission to "increase the openness, integrity, and [[reproducibility]] of scientific research."<ref>{{cite web|title=Center for Open Science|url=https://docs.google.com/document/d/1HWJxPkyuMo49uzhEsvK5HxhyrSFR3Ys625NqHY3zmsk|work=Business Plan|access-date=11 July 2013|date=January 2013}}</ref> [[Brian Nosek]] and  Jeffrey Spies founded the organization in January 2013, funded mainly by the [[Laura and John Arnold Foundation]] and others.<ref>{{Cite web|url=https://cos.io/about/our-sponsors/|title=Our Sponsors|website=cos.io|language=en|access-date=2017-03-16}}</ref>
+
+The organization began with work in reproducibility of [[psychology]] research, with the large-scale initiative [[Reproducibility Project: Psychology]].<ref>{{cite web|title=Center for Open Science|url=http://www.centerforopenscience.org/|access-date=11 July 2013}}</ref><ref>{{cite news|title=New Center for Open Science Designed to Increase Research Transparency, Provide Free Technologies for Scientists|url=http://news.virginia.edu/content/new-center-open-science-designed-increase-research-transparency-provide-free-technologies|access-date=11 July 2013|newspaper=UVA Today|date=4 March 2013|author=University of Virginia|archive-date=9 December 2022|archive-url=https://web.archive.org/web/20221209084833/https://news.virginia.edu/content/new-center-open-science-designed-increase-research-transparency-provide-free-technologies|url-status=dead}}</ref><ref>{{cite news|last=Bohannon|first=John|title=Psychologists Launch a Bare-All Research Initiative|url=http://news.sciencemag.org/scienceinsider/2013/03/psychologists-launch-a-bare-all-.html|access-date=11 July 2013|newspaper=Science Magazine|date=5 March 2013|archive-url=https://web.archive.org/web/20130511064814/http://news.sciencemag.org/scienceinsider/2013/03/psychologists-launch-a-bare-all-.html|archive-date=2013-05-11}}</ref> A second reproducibility project for [[cancer]] biology research has also been started through a partnership with [[Science Exchange (company)|Science Exchange]].<ref>{{cite web|title=Reproducibility Initiative Receives $1.3M Grant to Validate 50 Landmark Cancer Studies|url=http://centerforopenscience.org/pr/2013-10-16/?_ga=1.71166102.780082167.1413879011|access-date=29 January 2015|archive-date=2015-01-29|archive-url=https://archive.today/20150129183108/http://centerforopenscience.org/pr/2013-10-16/?_ga=1.71166102.780082167.1413879011}}</ref> In March 2017, the Center published a detailed strategic plan.<ref>{{Cite news|url=https://docs.google.com/document/d/1sqz3appQ73vqa6fP1Gy8KK8HZpotoSGaiJC1XQuvREI/edit|title=COS: Strategic Plan, v2.0|work=Google Docs|access-date=2017-03-16|language=en}}</ref> Brian Nosek posted a letter outlining the history of the Center and future directions.<ref>{{Cite web|url=https://cos.io/brief-history-cos-2013-2017/|title=A Brief History of COS 2013-2017|website=cos.io|language=en|access-date=2017-03-16}}</ref>
+
+In 2020, the Center received a grant from [[Fast Grants]] to promote the publication of [[COVID-19]] research on the platform.<ref>{{Cite web |title=Fast Grants |url=https://fastgrants.org/ |url-status=live |archive-url=https://archive.today/20211223005332/https://fastgrants.org/ |archive-date=2021-12-23 |access-date=2023-05-21 |website=Fast Grants |language=en}}</ref>
+
+In 2021, the Center for Open Science was honored with the {{ill|Einstein Foundation Award for Promoting Quality in Research|de|Einstein Foundation Award}} in the institutional category for their contribution to fostering research integrity and to improving transparency and accessibility.<ref>{{cite web |title=Einstein Foundation Award Recipients and Finalists: Center for Open Science |url=https://www.einsteinfoundation.de/en/award/recipients-and-finalists/recipients-2021/center-for-open-science/ |website=[[Einstein Foundation Berlin]] |access-date=May 10, 2023 |archive-date=May 10, 2023 |archive-url=https://web.archive.org/web/20230510190421/https://www.einsteinfoundation.de/en/award/recipients-and-finalists/recipients-2021/center-for-open-science/ |url-status=dead }}</ref>
+
+==Open Science Framework==
+
+=== Reproducibility project ===
+The Open Science Framework (OSF) is an [[Open-source software|open source]] software project that facilitates open collaboration in science research. The framework was initially used to work on a project in the reproducibility of psychology research,<ref>{{cite news|last=Estes|first=Sarah|title=The Myth of Self-Correcting Science|url=https://www.theatlantic.com/health/archive/2012/12/the-myth-of-self-correcting-science/266228/|access-date=11 July 2013|newspaper=The Atlantic|date=20 Dec 2012}}</ref><ref>{{cite journal|last=Yong|first=Ed|date=16 May 2012|title=Replication studies: Bad copy|journal=Nature|volume=485 |issue=7398 |pages=298–300 |doi=10.1038/485298a |pmid=22596136 |s2cid=4321991 |doi-access=free|bibcode=2012Natur.485..298Y }}</ref> but has subsequently become multidisciplinary.<ref>{{Cite web|title=OSF {{!}} Home|url=https://osf.io/|access-date=2017-04-01|website=osf.io|language=en}}</ref> The current reproducibility aspect of the project is a crowdsourced empirical investigation of the reproducibility of a variety of studies from psychological literature, sampling from three major journals: ''[[Journal of Personality and Social Psychology]]'', ''[[Psychological Science]]'', and ''[[Journal of Experimental Psychology: Learning, Memory, and Cognition]]''. Scientists volunteer to replicate a study of their choosing from these journals, and follow a structured protocol for designing and conducting a high-powered replication of the key effect. The results were published in 2015.<ref>{{Cite journal | last1 = Open Science Collaboration | title = Estimating the reproducibility of Psychological Science | doi = 10.1126/science.aac4716 | journal = Science | volume = 349 | issue = 6251 | article-number = aac4716 | year = 2015 | pmid=26315443| hdl = 10722/230596 | s2cid = 218065162 | url = http://eprints.keele.ac.uk/877/1/Open%20Science%20%28Science%20Pre-Print%29.pdf | hdl-access = free }}</ref>
+
+=== Preprints ===
+In 2016, OSF started three new [[preprint]] services: [[engrXiv]], [[SocArXiv]], and (with the Society for the Improvement of Psychological Science) [[PsyArXiv]].<ref>{{cite web|last1=Kelly|first1=Jane|date=8 December 2016|title=Psychology Professor Releases Free, Open-Source, Preprint Software|url=https://news.virginia.edu/content/psychology-professor-releases-free-open-source-preprint-software|access-date=16 July 2018|website=UVA Today|language=en}}</ref> It subsequently opened its own preprint server in 2017, OSF Preprints.<ref>{{Cite web|title=OSF Preprints|url=https://osf.io/preprints/|access-date=2018-03-27|website=cos.io|language=en}}</ref> Its unified search function includes preprints from OSF Preprints, alongside those from other servers such as [[Preprints.org]], [[Thesis Commons]], [[PeerJ]], and multiple [[ArXiv]] repositories.<ref>{{Cite web|title=Search preprints|url=https://osf.io/preprints/discover|url-status=live|access-date=2021-02-26|website=osf.io|archive-url=https://web.archive.org/web/20170214181541/https://osf.io/preprints/discover |archive-date=2017-02-14 }}</ref>
+
+==See also==
+* [[List of metascience research centers and organisations]]
+* [[List of preprint repositories]]
+* [[Metascience]]
+* [[Open science]]
+* [[Replication crisis]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{official website}}
+* [https://osf.io Open Science Framework] (OSF)
+{{Authority control}}
+
+[[Category:Scholarly communication]]
+[[Category:Open science]]
+[[Category:Collaborative software]]
+[[Category:Non-profit organizations based in Charlottesville, Virginia]]
+[[Category:2013 establishments in Virginia]]
+[[Category:Metascience-related organizations]]

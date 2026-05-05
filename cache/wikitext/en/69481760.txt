@@ -1,0 +1,34 @@
+{{Short description|Strain of bacterium}}
+{{italic title}}
+{{Infraspeciesbox special
+| name = ''Escherichia coli'' NC101
+| genus = Escherichia
+| species = coli
+| infraspecies_rank1_name = Strain
+| infraspecies_rank1 = NC101
+| infraspecies_rank1_abbrev = 
+| authority = Kim et al. 2005
+}}
+
+'''''Escherichia coli'' (AIEC) NC101''' is a mouse isolate, [[serotype]] O2:H6/41, that is [[Carcinogen|pro-carcinogenic]], adherent-invasive (AIEC), [[probiotic]] strain of [[Escherichia coli]], a species of [[bacteria]] that thrives in the [[Gastrointestinal tract|intestines]] of [[mammal]]s.<ref name=":0">{{Cite journal|last1=Sadecki|first1=Patric W.|last2=Balboa|first2=Samantha J.|last3=Lopez|first3=Lacey R.|last4=Kedziora|first4=Katarzyna M.|last5=Arthur|first5=Janelle C.|last6=Hicks|first6=Leslie M.|date=2021-07-16|title=Evolution of Polymyxin Resistance Regulates Colibactin Production in Escherichia coli|url=https://doi.org/10.1021/acschembio.1c00322|journal=ACS Chemical Biology|volume=16|issue=7|pages=1243–1254|doi=10.1021/acschembio.1c00322|issn=1554-8929|pmc=8601121|pmid=34232632}}</ref><ref name=":1">{{Cite journal|last1=García|first1=Alexis|last2=Mannion|first2=Anthony|last3=Feng|first3=Yan|last4=Madden|first4=Carolyn M.|last5=Bakthavatchalu|first5=Vasudevan|last6=Shen|first6=Zeli|last7=Ge|first7=Zhongming|last8=Fox|first8=James G.|date=December 2016|title=Cytotoxic Escherichia coli strains encoding colibactin colonize laboratory mice|url=http://dx.doi.org/10.1016/j.micinf.2016.07.005|journal=Microbes and Infection|volume=18|issue=12|pages=777–786|doi=10.1016/j.micinf.2016.07.005|pmid=27480057|pmc=5182106|hdl=1721.1/117656|issn=1286-4579}}</ref> NC101 has also been identified as a [[Nicotinic acid adenine dinucleotide phosphate|nicotinic acid]] (NA) [[Autotroph|auxotroph]], a [[pathobiont]], which is an organism that is harmful under certain circumstances,<ref>{{Cite journal|last1=Jochum|first1=Lara|last2=Stecher|first2=Bärbel|date=2020-10-01|title=Label or Concept – What Is a Pathobiont?|journal=Trends in Microbiology|language=en|volume=28|issue=10|pages=789–792|doi=10.1016/j.tim.2020.04.011|pmid=32376073|s2cid=218532205|issn=0966-842X|doi-access=free}}</ref> and is an important, relevant model organism that demonstrates how susceptible individuals may produce inappropriate immune responses to seemingly benign intestinal ''E. coli''.<ref name=":4">{{Cite journal|last1=Lopez|first1=Lacey R.|last2=Barlogio|first2=Cassandra J.|last3=Broberg|first3=Christopher A.|last4=Wang|first4=Jeremy|last5=Arthur|first5=Janelle C.|date=2021|title=A nadA Mutation Confers Nicotinic Acid Auxotrophy in Pro-carcinogenic Intestinal Escherichia coli NC101|journal=Frontiers in Microbiology|volume=12|pages=1081|article-number=670005 |doi=10.3389/fmicb.2021.670005|pmid=34149655|pmc=8207962|issn=1664-302X|doi-access=free}}</ref>
+
+== History ==
+NC101 was first isolated and found from a specific pathogen-free wild-type mouse at the North Carolina State University between 2004 and 2005.<ref name=":3">{{cite journal | doi=10.1053/j.gastro.2005.02.009 | title=Variable phenotypes of enterocolitis in interleukin 10-deficient mice monoassociated with two different commensal bacteria | year=2005 | last1=Kim | first1=Sandra C. | last2=Tonkonogy | first2=Susan L. | last3=Albright | first3=Carol A. | last4=Tsang | first4=Julia | last5=Balish | first5=Edward J. | last6=Braun | first6=Jonathon | last7=Huycke | first7=Mark M. | last8=Sartor | first8=R. Balfour | journal=Gastroenterology | volume=128 | issue=4 | pages=891–906 | pmid=15825073 | s2cid=45479430 | url=https://cdr.lib.unc.edu/downloads/pk02cm00r | doi-access=free }}</ref> Sequencing of NC101 showed it has a [[missense mutation]] in ''nadA'', a gene that encodes for [[Quinolinate synthase|quinolinate synthase A]], which is necessary for ''de novo'' [[nicotinamide adenine dinucleotide]] (NAD) [[biosynthesis]].<ref name=":4"/>
+
+== Effects ==
+''E. coli'' NC101 has been found to promote carcinoma specifically, [[mucinous adenocarcinoma]], in while performing experiments in [[azoxymethane]] treated mice. The findings of the study found "...[[tumorigenesis]] by altering microbial composition and inducing the expansion of microorganisms with [[Genotoxicity|genotoxic]] capabilities."<ref name=":5">{{Cite journal|last1=Arthur|first1=Janelle C.|last2=Perez-Chanona|first2=Ernesto|last3=Mühlbauer|first3=Marcus|last4=Tomkovich|first4=Sarah|last5=Uronis|first5=Joshua M.|last6=Fan|first6=Ting-Jia|last7=Campbell|first7=Barry J.|last8=Abujamel|first8=Turki|last9=Dogan|first9=Belgin|last10=Rogers|first10=Arlin B.|last11=Rhodes|first11=Jonathan M.|date=2012-10-05|title=Intestinal inflammation targets cancer-inducing activity of the microbiota|journal=Science|volume=338|issue=6103|pages=120–123|doi=10.1126/science.1224820|issn=0036-8075|pmc=3645302|pmid=22903521|bibcode=2012Sci...338..120A}}</ref> The frequency of specific E. coli strains like NC101 in laboratory mouse colonies is currently unknown.{{cn|date=December 2022}}
+
+== See also ==
+* ''[[Escherichia coli]]''
+* ''[[Escherichia]]''
+* ''[[Pseudomonadota]]''
+* ''[[Enterobacteriaceae|Enterobacteriacae]]''
+
+== References ==
+<!-- Inline citations added to your article will automatically display here. See en.wikipedia.org/wiki/WP:REFB for instructions on how to add citations. -->
+{{reflist}}
+
+{{Taxonbar|from=Q110231207}}
+
+[[Category:Carcinogenesis]]
+[[Category:Escherichia coli]]

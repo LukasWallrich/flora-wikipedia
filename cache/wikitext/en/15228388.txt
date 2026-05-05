@@ -1,0 +1,23 @@
+{{cs1 config|name-list-style=vanc}}
+{{Infobox_gene}}
+'''Phosphatase and tensin homolog (mutated in multiple advanced cancers 1), pseudogene 1''', also known as '''PTENP1''', is a human [[pseudogene]]<ref name="entrez">{{cite web | title = Entrez Gene: PTENP1 phosphatase and tensin homolog (mutated in multiple advanced cancers 1), pseudogene 1| url = https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=ShowDetailView&TermToSearch=11191| access-date = }}</ref> which has a partial reactivated function as a [[Competing endogenous RNA (CeRNA)|competing endogenous RNA]] regulating  the tumor suppressor gene [[PTEN (gene)|PTEN]].<ref>{{cite journal | vauthors = Poliseno L, Salmena L, Zhang J, Carver B, Haveman WJ, Pandolfi PP | title = A coding-independent function of gene and pseudogene mRNAs regulates tumour biology | journal = Nature | volume = 465 | issue = 7301 | pages = 1033–8 | date = June 2010 | pmid = 20577206 | doi = 10.1038/nature09144 | pmc = 3206313 | bibcode = 2010Natur.465.1033P }}*{{lay source |template = cite web|vauthors = Buehler J|url = https://www.quantamagazine.org/the-complex-truth-about-junk-dna-20210901/   |title = The Complex Truth About ‘Junk DNA’|date = September 1, 2021 |website = Quanta Magazine }}</ref>
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+{{refbegin | 2}}
+* {{cite journal | vauthors = Kong D, Suzuki A, Zou TT, Sakurada A, Kemp LW, Wakatsuki S, Yokoyama T, Yamakawa H, Furukawa T, Sato M, Ohuchi N, Sato S, Yin J, Wang S, Abraham JM, Souza RF, Smolinski KN, Meltzer SJ, Horii A | title = PTEN1 is frequently mutated in primary endometrial carcinomas | journal = Nature Genetics | volume = 17 | issue = 2 | pages = 143–4 | date = October 1997 | pmid = 9326929 | doi = 10.1038/ng1097-143 | s2cid = 29666790 }}
+* {{cite journal | vauthors = Teng DH, Hu R, Lin H, Davis T, Iliev D, Frye C, Swedlund B, Hansen KL, Vinson VL, Gumpper KL, Ellis L, El-Naggar A, Frazier M, Jasser S, Langford LA, Lee J, Mills GB, Pershouse MA, Pollack RE, Tornos C, Troncoso P, Yung WK, Fujii G, Berson A, Steck PA | title = MMAC1/PTEN mutations in primary tumor specimens and tumor cell lines | journal = Cancer Research | volume = 57 | issue = 23 | pages = 5221–5 | date = December 1997 | pmid = 9393738 }}
+* {{cite journal | vauthors = Sakurada A, Suzuki A, Sato M, Yamakawa H, Orikasa K, Uyeno S, Ono T, Ohuchi N, Fujimura S, Horii A | title = Infrequent genetic alterations of the PTEN/MMAC1 gene in Japanese patients with primary cancers of the breast, lung, pancreas, kidney, and ovary | journal = Japanese Journal of Cancer Research | volume = 88 | issue = 11 | pages = 1025–8 | date = November 1997 | pmid = 9439675 | pmc = 5921310 | doi = 10.1111/j.1349-7006.1997.tb00324.x }}
+* {{cite journal | vauthors = Kim SK, Su LK, Oh Y, Kemp BL, Hong WK, Mao L | title = Alterations of PTEN/MMAC1, a candidate tumor suppressor gene, and its homologue, PTH2, in small cell lung cancer cell lines | journal = Oncogene | volume = 16 | issue = 1 | pages = 89–93 | date = January 1998 | pmid = 9467947 | doi = 10.1038/sj.onc.1201512 | doi-access = free }}
+* {{cite journal | vauthors = Dahia PL, FitzGerald MG, Zhang X, Marsh DJ, Zheng Z, Pietsch T, von Deimling A, Haluska FG, Haber DA, Eng C | title = A highly conserved processed PTEN pseudogene is located on chromosome band 9p21 | journal = Oncogene | volume = 16 | issue = 18 | pages = 2403–6 | date = May 1998 | pmid = 9620558 | doi = 10.1038/sj.onc.1201762 | doi-access =  | s2cid = 33570502 }}
+* {{cite journal | vauthors = Forgacs E, Biesterveld EJ, Sekido Y, Fong K, Muneer S, Wistuba II, Milchgrub S, Brezinschek R, Virmani A, Gazdar AF, Minna JD | title = Mutation analysis of the PTEN/MMAC1 gene in lung cancer | journal = Oncogene | volume = 17 | issue = 12 | pages = 1557–65 | date = September 1998 | pmid = 9794233 | doi = 10.1038/sj.onc.1202070 | s2cid = 24423191 | doi-access = free }}
+* {{cite journal | vauthors = Fujii GH, Morimoto AM, Berson AE, Bolen JB | title = Transcriptional analysis of the PTEN/MMAC1 pseudogene, psiPTEN | journal = Oncogene | volume = 18 | issue = 9 | pages = 1765–9 | date = March 1999 | pmid = 10208437 | doi = 10.1038/sj.onc.1202492 | doi-access =  | s2cid = 5938219 }}
+* {{cite journal | vauthors = Trojan J, Plotz G, Brieger A, Raedle J, Meltzer SJ, Wolter M, Zeuzem S | title = Activation of a cryptic splice site of PTEN and loss of heterozygosity in benign skin lesions in Cowden disease | journal = The Journal of Investigative Dermatology | volume = 117 | issue = 6 | pages = 1650–3 | date = December 2001 | pmid = 11886535 | doi = 10.1046/j.0022-202x.2001.01954.x | doi-access = free }}
+{{refend}}
+
+
+{{protein-stub}}
+
+[[Category:Pseudogenes]]

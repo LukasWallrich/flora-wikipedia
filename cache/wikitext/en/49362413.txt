@@ -1,0 +1,94 @@
+{{Short description|British mathematician and computer scientist}}
+{{independent sources|date=October 2023}}
+{{Use dmy dates|date=July 2022}}
+{{EngvarB|date=February 2020}}
+{{Infobox scientist
+| name              = Norman Fenton
+| image             = norman_cc.jpg
+| alt               = 
+| caption           = Fenton in 2016
+| birth_date        = {{Birth date and age|df=yes|1956|05|18}}
+| birth_place       = 
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| fields            = {{Plainlist|
+* [[Combinatorics]]
+* [[Bayesian networks]]
+* [[Artificial intelligence]]
+* Legal reasoning
+* Software engineering
+* [[Software metrics]]}}
+| workplaces        = {{Plainlist|
+* [[Queen Mary University of London]]
+* [[City University London]]
+* [[South Bank University]]
+* [[University of Bonn]]
+* [[Oxford University]]
+* [[University College Dublin]] }}
+| education         = 
+| alma_mater        = {{Plainlist|
+* [[London School of Economics]]
+* [[University of Sheffield]] }}
+| thesis_title      = Representation of matroids
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = 1981
+| doctoral_advisor  = Peter Vámos
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| website           = {{URL|https://www.normanfenton.com/}}
+}}
+
+'''Norman Elliott Fenton''' (born 18 May 1956) is a British mathematician and computer scientist. He is the Professor of Risk Information Management in the School of Electronic Engineering and Computer Science at [[Queen Mary University of London]]. He is known for his work in [[software metric]]s and is the author of the textbook ''Software Metrics: A Rigorous Approach'', as of 2014 in its third edition.
+
+==Education==
+Fenton received his bachelor's degree in mathematics from the [[London School of Economics]] in 1978. He earned his Master of Science in 1978 and Doctor of Philosophy in 1981 at the [[University of Sheffield]].<ref name="CV">{{cite web |title=Norman Fenton CV |url=http://www.eecs.qmul.ac.uk/~norman/cv.htm  |publisher=Queen Mary University of London |access-date=21 December 2022}}</ref> At Sheffield he was the second research student of Peter Vámos.<ref name="Sharp2022">{{cite journal | last1 = Sharp | first1 = Rodney Y. | title = Peter Vámos, 1940–2020 | journal = Bulletin of the London Mathematical Society | date = June 2022 | volume = 54 | issue = 3 | pages = 1145–1166 | doi = 10.1112/blms.12689| s2cid = 250234702 | doi-access = free }}</ref> His doctoral thesis was "Representations of Matroids".<ref>{{cite web |title=Publications: Dr Norman Fenton |url=https://researchpublications.qmul.ac.uk/publications/staff/21513.html |publisher=Queen Mary University of London |access-date=21 December 2022}}</ref>
+
+==Career==
+Fenton was a postdoctoral fellow in the mathematics department at [[University College Dublin]] from 1981 to 1982 and the Mathematics Institute of the [[University of Oxford]] from 1982 to 1984.<ref name="CV" /><ref name="Sharp2022" /> At the end of that period he changed fields<ref name="Sharp2022" /> and began publishing papers on structured programming with Robin W. Whitty and Agnes A. Kaposi.<ref>{{cite journal | last1 = Whitty | first1 = R.W. | last2 = Fenton | first2 = N.E. | last3 = Kaposi | first3 = A.A. | title = Structured programming: a tutorial guide | journal = Software & Microsystems | date = 1984 | volume = 3 | issue = 3 | page = 54 | doi = 10.1049/sm.1984.0019 }}</ref><ref>{{cite journal | last1 = Fenton | first1 = N.E. | last2 = Whitty | first2 = R.W. | last3 = Kaposi | first3 = A.A. | title = A generalised mathematical theory of structured programming | journal = Theoretical Computer Science | date = 1985 | volume = 36 | pages = 145–171 | doi = 10.1016/0304-3975(85)90040-4 | doi-access = free }}</ref> In 1984, he joined the department of Electrical and Electronic Engineering at [[South Bank Polytechnic]] in London where he headed the Centre for Software and Systems Engineering research group.<ref name="CV" /><ref name="Sharp2022" /> He began to publish on software metrics as well as program structure.<ref>{{cite journal | last1 = Fenton | first1 = N. E. |last2=Whitty |first2= R. W. | title = Axiomatic approach to Software Metrication through Program Decomposition | journal = The Computer Journal | date = 1 April 1986 | volume = 29 | issue = 4 | pages = 330–339 | doi = 10.1093/comjnl/29.4.330 }}</ref><ref>{{cite journal | last1 = Fenton | first1 = Norman E | last2 = Kaposi | first2 = Agnes A | title = Metrics and software structure | journal = Information and Software Technology | date = July 1987 | volume = 29 | issue = 6 | pages = 301–320 | doi = 10.1016/0950-5849(87)90029-2 }}</ref><ref>{{cite book |last1=Fenton |first1=N. E. |last2=Kaposi |first2=A. A. |chapter=An Engineering Theory of Structure and Measurement | editor1 = B.A. Kitchenham|editor1-link=Barbara Kitchenham | editor2 = B. Littlewood | date = 28 February 1989 | title = Measurement for Software Control and Assurance | publisher = Springer Science & Business Media | pages = 289–320 | isbn = 978-1-85166-246-3 | oclc = 18105742 }}</ref>
+
+In 1989, Fenton moved to City University as a [[Reader (academic rank)|reader]] in software reliability, and became a professor of Computing Science in 1992.<ref name="CV" />
+
+In 1998, Fenton, along with Martin Neil and Ed Tranham, set up the company Agena Ltd in Cambridge. Fenton was CEO between 1998 and 2015 and remains a director. In 2000, Fenton joined [[Queen Mary University of London]] (School of Electronic Engineering and Computer Science) where he works part–time as a professor. He is the director of the Risk and Information Management Research Group.<ref>{{Cite web|title = Risk and Information Management (RIM) research group |url = http://www.eecs.qmul.ac.uk/research/risk-and-information-management|publisher = School of Electronic Engineering and Computer Science {{!}} Queen Mary, University of London|access-date = 9 February 2016|archive-url = https://web.archive.org/web/20171231141650/http://www.eecs.qmul.ac.uk/research/risk-and-information-management|archive-date = 31 December 2017|url-status = dead}}</ref>
+
+In August 2025, he joined the policy college of [[Advance UK]].<ref name="Holl-Allen-2025">{{Cite news |last=Holl-Allen |first=Genevieve |date=2025-08-27 |title=Revealed: Elon Musk urged Farage rival to set up new party |url=https://www.telegraph.co.uk/politics/2025/08/27/elon-musk-farage-ben-habib-new-party/ |archive-url=https://archive.today/20250827163856/https://www.telegraph.co.uk/politics/2025/08/27/elon-musk-farage-ben-habib-new-party/ |archive-date=2025-08-27 |access-date=2025-08-27 |work=The Telegraph |language=en-GB |issn=0307-1235}}</ref>
+
+==Selected publications==
+;Textbooks
+*{{cite book | first= Norman E. |last=Fenton | date = 1991 | title = Software Metrics: A Rigorous Approach | publisher = Chapman & Hall | isbn = 978-0-412-40440-5 | oclc = 1069086327}}
+:* {{cite book | first1= Norman E. |last1=Fenton | first2= Shari Lawrence |last2=Pfleeger | date = 1997 | title = Software Metrics: A Rigorous and Practical Approach | edition = 2 | publisher = International Thomson Computer Press | isbn = 978-0-534-95600-4 | oclc = 1055171425 }}
+:* {{cite book | first1= Norman |last1=Fenton | first2= James |last2=Bieman | date = 1 October 2014 | title = Software Metrics: A Rigorous and Practical Approach | edition = 3 | publisher = Taylor & Francis | isbn = 978-1-4398-3822-8 | oclc = 491888703 }}
+* {{cite book | first1= Norman |last1=Fenton | first2= Martin |last2=Neil | date = 3 September 2018 | title = Risk Assessment and Decision Analysis with Bayesian Networks | edition = 2 | publisher = CRC Press, Taylor & Francis Group | isbn = 978-1-138-03511-9 | oclc = 1031043793 }}
+* Fenton, N.E. and M. Neil, ''Fighting Goliath: Exposing the flawed science and statistics behind the COVID-19 event''.  2024   Sovereign Rights Publishing, ISBN:  1068749830,  2024
+
+;Articles
+* {{cite journal | last1 = Fenton | first1 = N. | title = Software measurement: a necessary scientific basis | journal = IEEE Transactions on Software Engineering | date = 1994 | volume = 20 | issue = 3 | pages = 199–206 | doi = 10.1109/32.268921 }}
+* {{cite journal | last1 = Fenton | first1 = N. | last2 = Pfleeger | first2 = S.L. | last3 = Glass | first3 = R.L. | title = Science and substance: a challenge to software engineers | journal = IEEE Software | date = 1994 | volume = 11 | issue = 4 | pages = 86–95 | doi = 10.1109/52.300094 | s2cid = 8528640 }}
+* {{cite journal | last1 = Kitchenham | first1 = B.|author1-link=Barbara Kitchenham | last2 = Pfleeger | first2 = S.L. | last3 = Fenton | first3 = N. | title = Towards a framework for software measurement validation | journal = IEEE Transactions on Software Engineering | date = 1995 | volume = 21 | issue = 12 | pages = 929–944 | doi = 10.1109/32.489070 }}
+* {{cite journal | last1 = Fenton | first1 = N.E. | last2 = Neil | first2 = M. | title = A critique of software defect prediction models | journal = IEEE Transactions on Software Engineering | date = 1999 | volume = 25 | issue = 5 | pages = 675–689 | doi = 10.1109/32.815326 }}
+* {{cite journal | last1 = Fenton | first1 = Norman E | last2 = Neil | first2 = Martin | title = Software metrics: successes, failures and new directions | journal = Journal of Systems and Software | date = 1999 | volume = 47 | issue = 2–3 | pages = 149–157 | doi = 10.1016/S0164-1212(99)00035-7 }}
+* {{cite journal | last1 = Fenton | first1 = N.E. | last2 = Ohlsson | first2 = N. | title = Quantitative analysis of faults and failures in a complex software system | journal = IEEE Transactions on Software Engineering | date = 2000 | volume = 26 | issue = 8 | pages = 797–814 | doi = 10.1109/32.879815 }}
+* {{cite conference | last1 = Fenton | first1 = Norman E. | last2 = Neil | first2 = Martin | title = Software metrics: Roadmap | date = 2000 | conference = ICSE '00: Proceedings of the Conference on The Future of Software Engineering May 2000 |pages=357–370 | doi = 10.1145/336512.336588 }}
+* {{cite journal | last1 = Neil | first1 = Martin | last2 = Fenton | first2 = Norman | last3 = Nielson | first3 = Lars | title = Building large-scale Bayesian networks | journal = The Knowledge Engineering Review | date = 2000 | volume = 15 | issue = 3 | pages = 257–284 | doi = 10.1017/S0269888900003039 | s2cid = 11309502 }}
+* {{cite journal | last1 = Fenton | first1 = Norman | last2 = Neil | first2 = Martin | last3 = Marsh | first3 = William | last4 = Hearty | first4 = Peter | last5 = Marquez | first5 = David | last6 = Krause | first6 = Paul | last7 = Mishra | first7 = Rajat | title = Predicting software defects in varying development lifecycles using Bayesian nets | journal = Information and Software Technology | date = 2007 | volume = 49 | issue = 1 | pages = 32–43 | doi = 10.1016/j.infsof.2006.09.001 }}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://eecs.qmul.ac.uk/people/profiles/fentonnorman.html Faculty website]
+* {{Google scholar id|0APV5ScAAAAJ}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fenton, Norman}}
+[[Category:1956 births]]
+[[Category:Living people]]
+[[Category:British mathematicians]]
+[[Category:Academics of City, University of London]]
+[[Category:Academics of London South Bank University]]
+[[Category:Academics of Queen Mary University of London]]
+[[Category:Academics of University College Dublin]]
+[[Category:Alumni of the London School of Economics]]
+[[Category:Alumni of the University of Sheffield]]
+[[Category:People educated at Ilford County High School]]

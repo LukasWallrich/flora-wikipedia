@@ -1,0 +1,176 @@
+{{Short description|Italian-born American systems biologist}}
+{{Infobox scientist
+| name = Andrea Califano
+| image =
+| birth_date = 
+| birth_place = 
+| nationality = 
+| fields = [[Systems biology]], [[Computational biology]], [[Cancer genetics]]
+| workplaces = [[Chan Zuckerberg Biohub]]<br>[[Columbia University Irving Medical Center]]
+| awards = [[Member of the National Academy of Sciences]] (since 2018)<br>[[Fellow of the AAAS]] (since 2015)<br>[[ISCB Fellow|Fellow of the ISCB]] (since 2017)<br>[[List of fellows of the AACR Academy|Fellow of the AACR]] (since 2024)<br>[[Fellow of the IEEE]] (since 1997)
+| education = [[University of Florence]]
+| doctoral_advisor =
+| website = {{URL|https://califano.c2b2.columbia.edu}}
+}}
+
+'''Andrea Califano''' is a systems biologist. He is the Clyde and Helen Wu Professor of Chemical and Systems Biology at [[Columbia University Irving Medical Center]], where he also holds appointments in the Departments of Biochemistry and Molecular Biophysics, Biomedical Informatics, and Medicine. Califano serves as the president of the [[Chan Zuckerberg Biohub]] New York.
+
+==Early life and education==
+Califano was born in Naples, Italy.{{citation needed|date=October 2025}} He earned a Ph.D. in physics from the [[University of Florence]] in 1986 and completed postdoctoral training in optics at the Istituto Nazionale di Ottica in Florence, information mechanics at the [[Massachusetts Institute of Technology]], and computational biology at the IBM T.J. Watson Research Center.<ref>{{cite web |title=Technology: Searching for DNA sequences in a flash |url=https://www.newscientist.com/article/mg13918854-200-technology-searching-for-dna-sequences-in-a-flash/|website=New Scientist}}</ref>
+
+==Career==
+Califano began his career at IBM, where he established the company’s first Computational Biology group in 1990 and later became program director of the IBM Computational Biology Center in 1997.<ref>{{cite web |title=Faculty Details {{!}} Columbia University Department of Systems Biology |url=https://systemsbiology.columbia.edu/faculty/andrea-califano/pmg-people|website=Columbia.edu}}</ref> In 2000, he co-founded First Genetic Trust, a pharmacogenomics company focused on human polymorphisms and drug response.<ref>{{cite web |title=Article 2: Andrea Califano |url=https://www.irvinginstitute.columbia.edu/news/article-2-andrea-califano |website=Irving Institute for Clinical and Translational Research |language=en |date=21 July 2021}}</ref>
+
+He joined Columbia University in 2003 as Professor of Biomedical Informatics and was later named the Clyde and Helen Wu Professor of Chemical and Systems Biology. He founded the Department of Systems Biology in 2013, serving as its first chair until 2023. Califano also held leadership positions at the Herbert Irving Comprehensive Cancer Center, including Associate Director for Bioinformatics from 2007 to 2019 and Co-Leader of the Cancer Regulatory Network and Precision Oncology and Systems Biology Programs.<ref>{{cite web |title=Targeting Cancer's Hidden Masters |url=https://www.cuimc.columbia.edu/news/targeting-cancers-hidden-masters|website=Columbia University Irving Medical Center |language=en |date=13 October 2023}}</ref>
+
+In 2010, Califano co-founded Therasis, a systems biology-based company focused on novel cancer treatments,<ref>{{cite web |title=Therasis Obtains $12 Million From Tilocor in Series A Round |url=https://www.biospace.com/b-therasis-b-obtains-12-million-from-b-tilocor-b-in-series-a-round |website=BioSpace |date=8 December 2009}}</ref> and in 2015 co-founded [[DarwinHealth]], a biotechnology company leveraging proprietary algorithms developed in his laboratory for precision oncology.<ref>{{cite web |title=Computing cancer's weak spots |url=https://www.science.org/content/article/computer-algorithms-find-tumors-molecular-weak-spots|website=Science.org}}</ref>
+
+Califano is a contributor to website EXPeditions.<ref>{{cite web |title=Andrea Califano |url=https://www.joinexpeditions.com/experts/3504-andrea-califano |website=EXPeditions}}</ref>
+
+In 2023, he became President of the [[Chan Zuckerberg Biohub]] New York, an initiative dedicated to re-engineering the human immune system to detect and prevent cancer and neurodegenerative diseases.<ref>{{cite web |title=Andrea Califano to Lead Chan Zuckerberg Biohub New York |url=https://magazine.columbia.edu/article/andrea-califano-lead-chan-zuckerberg-biohub-new-york|website=Columbia Magazine |access-date=12 February 2025 |language=en}}</ref>
+
+==Research==
+Califano is known for pioneering the use of mammalian regulatory networks in modeling cancer-related phenotypes and identifying master regulator proteins that control cellular states. He introduced the OncoTecture hypothesis and formulated the Information Canalization Theory, which explains how conserved regulatory modules maintain homeostasis in both normal and diseased cells.<ref>{{cite web |title=Cancer Oncotecture: A Universal Model of Tumor Survival |url=https://systemsbiology.columbia.edu/news/cancer-oncotecture-a-universal-model-of-tumor-survival |publisher=Columbia University Department of Systems Biology}}</ref>
+
+His laboratory developed several influential computational tools, including:
+
+ARACNe – an algorithm for reconstructing gene regulatory networks using information theory.<ref>{{cite web |title=ARACNe |url=https://califano.c2b2.columbia.edu/aracne |website=Andrea Califano}}</ref><ref>{{cite journal |last1=Margolin |first1=Adam A. |last2=Nemenman |first2=Ilya |last3=Basso |first3=Katia |last4=Wiggins |first4=Chris |last5=Stolovitzky |first5=Gustavo |last6=Favera |first6=Riccardo Dalla |last7=Califano |first7=Andrea |title=ARACNE: An Algorithm for the Reconstruction of Gene Regulatory Networks in a Mammalian Cellular Context |journal=BMC Bioinformatics |date=20 March 2006 |volume=7 |issue=1 |pages=S7 |doi=10.1186/1471-2105-7-S1-S7 |pmid=16723010 |pmc=1810318 |doi-access=free |issn=1471-2105}}</ref>
+
+VIPER – a framework for inferring protein activity from gene expression data to identify master regulators.<ref>{{Cite web |last=Alvarez |first=Mariano J. |last2=Giorgi |first2=Federico |last3=Califano |first3=Andrea |date=2013-07-22 |title=Using viper, a package for Virtual Inference of Protein-activity by Enriched Regulon analysis |url=https://static1.squarespace.com/static/5697c2e5e0327ca6778bc453/t/56f40934f8baf3727f8e7e78/1458833718573/Viper.pdf}}</ref>
+
+OncoTarget and OncoTreat – mRNA-based clinical decision tools for predicting optimal cancer therapies, both approved under CLIA by the New York and California Departments of Health.<ref>{{cite web |title=Ongoing Research in Early-Stage Invasive Breast Cancer Treatment - Advances for Medical Professionals |url=https://www.nyp.org/publications/professional-advances/cancer/ongoing-research-in-early-stage-invasive-breast-cancer|website=NewYork-Presbyterian |language=en}}</ref>
+
+These algorithms have been cited extensively and have been applied in more than ten clinical trials in precision oncology. Califano’s group has mentored over 120 graduate students and postdoctoral researchers.
+
+===OncoTecture and master regulators===
+Califano’s work has shown that cancer cell transcriptional states are maintained by small sets of autoregulated proteins known as master regulators, which form tumor checkpoint modules. These modules integrate the effects of numerous genetic alterations to produce stable cell phenotypes. Targeting these master regulators can reprogram or eliminate tumor cells, providing new therapeutic avenues beyond traditional mutation-driven approaches.<ref>{{cite web |title=Targeting Cancer's Hidden Masters |url=https://www.cuimc.columbia.edu/news/targeting-cancers-hidden-masters|website=Columbia University Irving Medical Center |language=en |date=13 October 2023}}</ref>
+
+==Editorial and advisory roles==
+Califano serves as a scientific editor for ''[[Cancer Discovery (journal)|Cancer Discovery]]'',<ref>{{cite web |title=Editors {{!}} Cancer Discovery |url=https://aacrjournals.org/cancerdiscovery/pages/editors |website=American Association for Cancer Research |language=en}}</ref> ''[[Cell Systems]]'', and ''[[Science Signaling]]''. He has served on advisory boards for the [[National Cancer Institute]],<ref>{{cite web |title=Andrea Califano Appointed to the NCI Board of Scientific Advisors {{!}} Columbia University Department of Systems Biology |url=https://systemsbiology.columbia.edu/news/andrea-califano-appointed-to-the-nci-board-of-scientific-advisors
+ |website=Columbia.edu}}</ref> [[St. Jude Children's Research Hospital]], [[Koch Institute for Integrative Cancer Research]],<ref>{{cite web |title=Scientific Advisory Board |url=https://ki.mit.edu/people/scientific-advisory-board|website=Koch Institute}}</ref> and [[Thermo Fisher Scientific]].<ref>{{cite web |title=Thermo Fisher Scientific Appoints New Members To Scientific Advisory Board |url=https://www.biospace.com/thermo-fisher-scientific-appoints-new-members-to-scientific-advisory-board|website=BioSpace |date=16 September 2014}}</ref>
+
+==Honors and awards==
+*NCI Outstanding Investigator Award (R35) in 2015<ref>{{cite web |title=Andrea Califano Named NCI Outstanding Investigator {{!}} Columbia University Department of Systems Biology |url=https://systemsbiology.columbia.edu/news/andrea-califano-named-nci-outstanding-investigator |website=Columbia.edu}}</ref> and 2022<ref>{{cite web |title=2022 NCI Outstanding Investigator Award Recipients - NCI |url=https://www.cancer.gov/grants-training/grants-funding/funding-opportunities/oia/award-recipients/2022 |website=Cancer.gov |language=en |date=2 November 2022}}</ref> 
+*[[AAAS Fellow]] (2015)<ref>{{cite web |title=2015 AAAS Fellows Recognized for Contributions to Advancing Science {{!}} American Association for the Advancement of Science (AAAS) |url=https://www.aaas.org/news/2015-aaas-fellows-recognized-contributions-advancing-science|website=AAAS.org |language=en}}</ref>
+*[[ISCB Fellow]] (2017)<ref>{{cite web |title=ISCB Fellows |url=https://www.iscb.org/fellows |website=ISCB}}</ref> 
+*Member of the [[National Academy of Medicine]] (2018)<ref>{{cite web |title=National Academy of Medicine Elects 85 New Members |url=https://nam.edu/national-academy-of-medicine-elects-85-new-members/ |website=Nam.edu|date=15 October 2018 }}</ref>
+*Ruth Leff prize in pancreatic cancer research(2019)<ref>{{cite web |title=Ruth Leff Siegel Award Winners {{!}} Columbia Surgery |url=https://columbiasurgery.org/news/ruth-leff-siegel-award |website=Columbia University}}</ref>
+*Alfred G. Knudson prize in Cancer Genetics (2023)<ref>{{cite web |title=Andrea Califano Receives Alfred G. Knudson Award from NCI |url=https://www.cancer.columbia.edu/news/andrea-califano-receives-alfred-g-knudson-award-nci |website=Columbia University |language=en |date=16 October 2023}}</ref>
+*Fellow of the [[List of fellows of the AACR Academy|AACR Academy]] (2024)<ref>{{cite web |title=Class of 2024 |url=https://www.aacr.org/professionals/membership/aacr-academy/fellows/andrea-califano-dr/ |website=American Association for Cancer Research (AACR) |language=en}}</ref>
+*Stanley P. Reimann Honor Award, [[Fox Chase Cancer Center]] (2025)<ref>{{cite web |title=Fox Chase Cancer Center Honors Renowned Biologist Andrea Califano With Stanley P. Reimann Honor Award {{!}} Fox Chase Cancer Center - Philadelphia PA |url=https://www.foxchase.org/news/fox-chase-cancer-center-honors-renowned-biologist-andrea-califano-stanley-p-reimann-honor |website=Fox Chase |language=en |date=20 June 2025}}</ref>
+
+==Selected publications==
+*{{cite journal |last1=Basso |first1=Katia |last2=Margolin |first2=Adam A |last3=Stolovitzky |first3=Gustavo |last4=Klein |first4=Ulf |last5=Dalla-Favera |first5=Riccardo |last6=Califano |first6=Andrea |title=Reverse engineering of regulatory networks in human B cells |journal=Nature Genetics |date=April 2005 |volume=37 |issue=4 |pages=382–390 |doi=10.1038/ng1532 |pmid=15778709 |issn=1061-4036}}
+*{{cite journal
+| last1=Sumazin | first1=P 
+| last2=Yang | first2=X
+| last3=Chiu | first3=H-S
+| last4=Chung | first4=W-J
+| last5=Iyer | first5=A
+| last6=Llobet‑Navas | first6=D
+| last7=Rajbhandari | first7=P
+| last8=Bansal | first8=M
+| last9=Guarnieri | first9=P
+| last10=Silva | first10=J
+| last11=Califano | first11=A
+| title=An extensive microRNA‑mediated network of RNA–RNA interactions regulates established oncogenic pathways in glioblastoma
+| journal=Cell
+| date=October 2011 
+| volume=147
+| issue=2
+| pages=370–381
+| doi=10.1016/j.cell.2011.09.029
+| pmid=22000015 
+| pmc=3214599 
+}}
+*{{cite journal
+| last1=Chen | first1=James C.
+| last2=Alvarez | first2=Mariano J.
+| last3=Talos | first3=Flaminia
+| last4=Dhruv | first4=Harshil
+| last5=Rieckhof | first5=Gabrielle E.
+| last6=Iyer | first6=Archana
+| last7=Diefes | first7=Kristin L.
+| last8=Aldape | first8=Kenneth
+| last9=Berens | first9=Michael
+| last10=Shen | first10=Michael M.
+| last11=Califano | first11=Andrea
+| title=Identification of causal genetic drivers of human disease through systems‑level analysis of regulatory networks
+| journal=Cell
+| date=October 2014
+| volume=159
+| issue=2
+| pages=402–414
+| doi=10.1016/j.cell.2014.09.021
+| pmid=25303533
+| pmc=4194029
+}}
+*{{cite journal
+| last1=Woo       | first1=Jung Hoon
+| last2=Shimoni   | first2=Yishai
+| last3=Yang      | first3=Wan Seok
+| last4=Subramaniam | first4=Prem S.
+| last5=Iyer      | first5=Archana
+| last6=Nicoletti | first6=Paola
+| last7=Rodríguez Martínez | first7=María
+| last8=López     | first8=Gonzalo
+| last9=Mattioli  | first9=Michela
+| last10=Realubit | first10=Ronald B.
+| last11=Karan    | first11=Charles
+| last12=Stockwell | first12=Brent R.
+| last13=Bansal   | first13=Mukesh
+| last14=Califano | first14=Andrea
+| title=Elucidating compound mechanism of action by network perturbation analysis
+| journal=Cell
+| date=July 2015
+| volume=162
+| issue=2
+| pages=441–451
+| doi=10.1016/j.cell.2015.05.056
+| pmid=26186195
+| pmc=4506491
+}}
+*{{cite journal |last1=Alvarez |first1=Mariano J |last2=Shen |first2=Yao |last3=Giorgi |first3=Federico M |last4=Lachmann |first4=Alexander |last5=Ding |first5=B Belinda |last6=Ye |first6=B Hilda |last7=Califano |first7=Andrea |title=Functional characterization of somatic mutations in cancer using network-based inference of protein activity |journal=Nature Genetics |date=August 2016 |volume=48 |issue=8 |pages=838–847 |doi=10.1038/ng.3593 |pmid=27322546 |pmc=5040167 |issn=1546-1718|hdl=11585/657580 |hdl-access=free }}
+*Alvarez MJ, Subramaniam PS, Tang LH, et al.{{cite journal|title=A precision oncology approach to the pharmacological targeting of mechanistic dependencies in neuroendocrine tumors |journal=Nature Genetics |date=July 2018 |volume=50 |issue=7 |pages=979–989 |doi=10.1038/s41588-018-0138-4 |pmid=29915428 |issn=1546-1718|hdl=10044/1/60492 |hdl-access=free |last1=Alvarez |first1=M. J. |last2=Subramaniam |first2=P. S. |last3=Tang |first3=L. H. |last4=Grunn |first4=A. |last5=Aburi |first5=M. |last6=Rieckhof |first6=G. |last7=Komissarova |first7=E. V. |last8=Hagan |first8=E. A. |last9=Bodei |first9=L. |last10=Clemons |first10=P. A. |last11=Dela Cruz |first11=F. S. |last12=Dhall |first12=D. |last13=Diolaiti |first13=D. |last14=Fraker |first14=D. A. |last15=Ghavami |first15=A. |last16=Kaemmerer |first16=D. |last17=Karan |first17=C. |last18=Kidd |first18=M. |last19=Kim |first19=K. M. |last20=Kim |first20=H. C. |last21=Kunju |first21=L. P. |last22=Li |first22=Z. |last23=Lee |first23=J. |last24=Li |first24=H. |last25=Livolsi |first25=V. |last26=Pfragner |first26=R. |last27=Rainey |first27=A. R. |last28=Realubit |first28=R. B. |last29=Remotti |first29=H. |last30=Regberg |first30=J. |pmc=6421579 |display-authors=1 }}
+*{{cite journal
+| last1=Paull | first1=Evan O.
+| last2=Aytes | first2=Alvaro
+| last3=Jones | first3=Sunny J.
+| last4=Subramaniam | first4=Prem S.
+| last5=Giorgi | first5=Federico M.
+| last6=Douglass | first6=Eugene F.
+| last7=Tagore | first7=Somnath
+| last8=Chu | first8=Brennan
+| last9=Vasciaveo | first9=Alessandro
+| last10=Zheng | first10=Siyuan
+| last11=Verhaak | first11=Roel
+| last12=Abate‑Shen | first12=Cory
+| last13=Alvarez | first13=Mariano J.
+| last14=Califano | first14=Andrea
+| title=A modular master regulator landscape controls cancer transcriptional identity
+| journal=Cell
+| date=January 2021
+| volume=184
+| issue=2
+| pages=334–351.e20
+| doi=10.1016/j.cell.2020.11.045
+| pmid=33434495
+| pmc=8103356
+}}
+*Mundi PS, Dela Cruz FS, Grunn A, et al. {{cite journal |title=A Transcriptome-Based Precision Oncology Platform for Patient-Therapy Alignment in a Diverse Set of Treatment-Resistant Malignancies |journal=Cancer Discovery |date=2 June 2023 |volume=13 |issue=6 |pages=1386–1407 |doi=10.1158/2159-8290.CD-22-1020 |pmid=37061969 |issn=2159-8290|pmc=10239356 |last1=Mundi |first1=P. S. |last2=Dela Cruz |first2=F. S. |last3=Grunn |first3=A. |last4=Diolaiti |first4=D. |last5=Mauguen |first5=A. |last6=Rainey |first6=A. R. |last7=Guillan |first7=K. |last8=Siddiquee |first8=A. |last9=You |first9=D. |last10=Realubit |first10=R. |last11=Karan |first11=C. |last12=Ortiz |first12=M. V. |last13=Douglass |first13=E. F. |last14=Accordino |first14=M. |last15=Mistretta |first15=S. |last16=Brogan |first16=F. |last17=Bruce |first17=J. N. |last18=Caescu |first18=C. I. |last19=Carvajal |first19=R. D. |last20=Crew |first20=K. D. |last21=Decastro |first21=G. |last22=Heaney |first22=M. |last23=Henick |first23=B. S. |last24=Hershman |first24=D. L. |last25=Hou |first25=J. Y. |last26=Iwamoto |first26=F. M. |last27=Jurcic |first27=J. G. |last28=Kiran |first28=R. P. |last29=Kluger |first29=M. D. |last30=Kreisl |first30=T. |display-authors=1 }}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{GoogleScholar|NxBuRgcAAAAJ}}
+{{authority control}}
+
+{{DEFAULTSORT:Califano, Andrea}}
+[[Category:21st-century American biologists]]
+[[Category:Columbia Medical School faculty]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:Fellows of the International Society for Computational Biology]]
+[[Category:Living people]]
+[[Category:Members of the National Academy of Medicine]]
+[[Category:Year of birth missing (living people)]]

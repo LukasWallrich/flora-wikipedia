@@ -1,0 +1,86 @@
+{{short description|Peak in electrical brain activity}}
+{{about|the event-related potential|the mobile phone|Sendo P600|the molecule|Interleukin 13|the British Isles mountain|P600 (hill)}}
+
+The '''P600''' is an [[event-related potential]] (ERP) component, or peak in electrical brain activity measured by [[electroencephalography]] (EEG).  It is a language-relevant ERP component and is thought to be elicited by hearing or reading [[Grammaticality|grammatical]] errors and other [[Syntax|syntactic]] anomalies.  Therefore, it is a common topic of study in [[neurolinguistic]] experiments investigating [[sentence processing]] in the human brain.
+
+The P600 can be elicited in both visual (reading) and auditory (listening) experiments,<ref>{{Harvnb|Hagoort|2007|p=251}}</ref> and is characterized as a positive-going deflection with an onset around 500 milliseconds after the stimulus that elicits it; it often reaches its peak around 600 milliseconds after presentation of the stimulus (hence its name), and lasts several hundred milliseconds.<ref name=Hagoort1999286>{{Harvnb|Hagoort|Brown|Osterhout|1999|p=286}}</ref><ref name=Gouvea7>{{Harvnb|Gouvea|Phillips|Kazanina|Poeppel|2009|p=7}}</ref><ref group=note>Different authors give slightly different time periods for the P600; for example, {{Harvtxt|Kaan|Swaab|2003|p=98}} claim it may start as early as 400 milliseconds, and {{Harvtxt|Friederici|2002|p=81}} describes it as occurring "between 600&ndash;1000 ms.</ref>  In other words, in the EEG waveform it is a large peak in the positive direction, which starts around 500 milliseconds after the subject sees or hears a stimulus.  It is typically thought of as appearing mostly on centro-[[Parietal lobe|parietal]] electrodes (i.e., over the posterior part of the center of the scalp), but frontal P600s have also been observed in several studies.<ref name=KaanSwaab98>{{Harvnb|Kaan|Swaab|2003|p=98}}</ref>  In EEG, however, this distribution at the scalp does not mean the P600 is coming from that part of the brain; a 2007 study using [[magnetoencephalography]] (MEG) speculates that the generators of the P600 are in the posterior [[temporal lobe]], behind [[Wernicke's area]].<ref name=Service>{{Harvnb|Service|Helenius|Maury|Salmelin|2007|pp=1200&ndash;1202}}</ref>
+
+The P600 was first reported by Lee Osterhout and Phillip Holcomb in 1992.<ref name=Coulson26/> It is also sometimes called the '''syntactic positive shift''' ('''SPS'''), since it has a positive polarity and is usually elicited by syntactic phenomena.<ref name=Hagoort1999286/><ref name=Gouvea4>{{Harvnb|Gouvea|Phillips|Kazanina|Poeppel|2009|p=4}}</ref><ref name=Coulson22>{{Harvnb|Coulson|King|Kutas|1998|p=22}}</ref>
+
+==Elicitation==
+The P600 was originally considered a "syntactic" ERP component,<ref name=Coulson26>{{Harvnb|Coulson|King|Kutas|1998|p=26}}</ref><ref name=mapping51>{{Harvnb|Friederici|Weissenborn|2007|p=51}}</ref><ref>{{Harvnb|Hagoort|Brown|Osterhout|1999|pp=283&ndash;84}}</ref><ref name=Gouvea6>{{Harvnb|Gouvea|Phillips|Kazanina|Poeppel|2009|p=6}}</ref> as it is elicited by several types of syntactic phenomena, including ungrammatical stimuli, [[garden-path sentence]]s that require reanalysis, complex sentences with a large number of [[Thematic relation|thematic role]]s, and the processing of [[filler-gap dependencies]] (such as [[wh-word]]s that appear at the beginning of a sentence in [[English language|English]] but [[Wh-movement|are actually interpreted somewhere else]]).
+
+;Grammatical errors
+A P600 may be elicited by several kinds of grammatical errors in sentences, such as problems in [[agreement (linguistics)|agreement]], such as "the child *''throw'' the toy".<ref name=KaanSwaab98/>  In addition to this sort of subject-verb disagreement, P600s have also been elicited by disagreements in [[Grammatical tense|tense]], [[Grammatical gender|gender]], [[Grammatical number|number]], and [[Grammatical case|case]], as well as [[phrase structure]] violations.<ref name=Gouvea7/>  A 2009 study has suggested that these errors elicit stronger P600s than the other syntactic stimuli that have been implicated.<ref name=Gouvea29>{{Harvnb|Gouvea|Phillips|Kazanina|Poeppel|2009|p=29}}</ref>
+
+;Garden paths
+P600s are also known to occur when a sentence contains no outright grammatical error, but must be parsed in a different way than the reader originally expects.<ref name=Gouvea8>{{Harvnb|Gouvea|Phillips|Kazanina|Poeppel|2009|p=8}}</ref>  These sentences are known as "garden path" sentences, because the reader follows one interpretation of the sentence only to realize later that this interpretation was wrong and they must backtrack to understand the sentence.  For example, {{Harvtxt|Osterhout|Holcomb|1992}} found P600s elicited by the word ''to'' in sentences such as <blockquote>The broker persuaded to sell the stock was tall.</blockquote> In sentences such as this, the preferred reading is to interpret "persuaded" as the main verb of the sentence (i.e., "the broker persuaded me"), and upon seeing the word ''to'' the reader has to re-analyze the sentence to mean something more like "the broker that was persuaded to sell the stock, he was tall".<ref name=Coulson26/>
+
+;Syntactic errors in music
+P600s are also elicited by errors in musical harmony, such as when a chord is played out of key with the rest of a musical phrase. This implies that P600s are not "language-specific," but "can be elicited in nonlinguistic (but rule-governed) sequences."<ref name="Patel et al, 1998">{{cite journal | last1 = Patel | first1 = A.D. | last2 = Gibson | first2 = E. | last3 = Ratner | first3 = J. | last4 = Besson | first4 = M. | last5 = Holcomb | first5 = P.J.|display-authors=etal| year = 1998 | title = Processing syntactic relations in language and music: An event-related potential study | journal = Journal of Cognitive Neuroscience | volume = 10 | issue = 6| pages = 717–33 | doi = 10.1162/089892998563121 | pmid = 9831740| s2cid = 972521 | citeseerx = 10.1.1.592.6210 }}</ref>
+
+;Dependencies and complexity
+Some studies have found a P600 elicited by words where there is no grammatical error and no "garden path" (i.e., where the word is exactly what the reader would expect), but when the sentence is complex because there are a number of [[noun phrase]]s active.  This has most often been the case when the reader has to "re-activate" a word that appeared earlier in the sentence.  For example, in a sentence like "Who did you imitate?", the word ''who'' appears in the beginning of the sentence but is actually the direct object of ''imitate'', and must be interpreted in that way (i.e., as "you imitated who?"); several studies have found that after the reader sees the word ''imitate'' he or she has a P600 response, possibly as a result of re-activating ''who''.<ref name=Gouvea11>{{Harvnb|Gouvea|Phillips|Kazanina|Poeppel|2009|p=11}}</ref>  These sorts of P600s get stronger as the number of noun phrases active in the sentences increases, suggesting that the P600 generator is sensitive to the level of complexity in a sentence.<ref name=KaanSwaab99>{{Harvnb|Kaan|Swaab|2003|p=99}}</ref><ref>{{Harvnb|beim Graben|Gerth|Vasishth|2008}}</ref>
+
+;Semantic attraction
+{{Harvtxt|Kim|Osterhout|2005}} demonstrated a so-called "semantic P600" in sentences that are grammatically correct but semantically anomalous, and in which syntactic reanalysis is more appealing than semantic reanalysis. For example, a P600 may be elicited in the following sentence: <blockquote>The hearty meal was devouring the kids.</blockquote>This suggests that the reader would rather interpret the sentence as containing a morphosyntactic error (saying "devour''ing''" instead of "devour''ed by''") rather than a semantic one (meals can't devour kids, but can be devoured by them). The interpretation of "semantic P600s" has attracted considerable attention and controversy in the literature.<ref>See, for example,
+*{{cite journal | last1=Bornkessel-Schlesewsky | first1=Ina | last2=Schlesewsky | year=2008 | title=An alternative perspective on 'semantic P600' effects in language comprehension | journal = Brain Research Reviews | volume=59 | issue=1| doi=10.1016/j.brainresrev.2008.05.003 | pmid=18617270 | pages=55–73| s2cid=206344890 }}
+and the numerous references therein.</ref>
+
+==Interpretations==
+There are several theories about what computational processes the P600 may be triggered by.  Because it often happens in response to grammatical violations or garden path sentences, one theory is that the P600 reflects processes of ''revision'' (i.e., trying to "rescue" the interpretation of a sentence that can't be processed normally because of structural errors) and ''reanalysis'' (i.e., trying to rearrange the structure of a sentence that has been interpreted incorrectly because of a garden path).<ref>{{Harvnb|Friederici|2002|p=79}}</ref><ref>{{Harvnb|Kaan|Swaab|2003}}</ref>  On the other hand, other models suggest that the P600 may not reflect these processes in particular, but just the amount of time and effort in general it takes to build up coherent structure in a sentence,<ref>{{Harvnb|Hagoort|2003}}</ref> or the general processes of creating or destroying syntactic structure (not specifically because of repair).<ref name=Gouvea45>{{Harvnb|Gouvea|Phillips|Kazanina|Poeppel|2009|p=45}}</ref>  Another proposal is that the P600 does not necessarily reflect any linguistic processes per se, but is similar to the [[P300 (neuroscience)|P300]] in that it is triggered when a subject encounters "improbable" stimuli&mdash;since ungrammatical sentences are relatively rare in natural speech, a P600 may not be a linguistic response but simply an effect of the subject's "surprise" upon encountering an unexpected stimulus.<ref>{{Harvnb|Coulson|King|Kutas|1998}}</ref>  Another account is that the P600 reflects error/surprisal propagation due to learning processes that take place during linguistic adaptation and this account has been implemented in a connectionist model that explains several P600/N400 results.<ref>{{Cite journal|last1=Fitz|first1=Hartmut|last2=Chang|first2=Franklin|date=2019|title=Language ERPs reflect learning through prediction error propagation|journal=Cognitive Psychology|language=en|volume=111|pages=15–52|doi=10.1016/j.cogpsych.2019.03.002|pmid=30921626|hdl=21.11116/0000-0003-474F-6|s2cid=85501792 |hdl-access=free}}</ref>
+
+==See also==
+{{div col|colwidth=22em}}
+* [[Bereitschaftspotential]]
+* [[C1 and P1 (neuroscience)|C1 and P1]]
+* [[Contingent negative variation]]
+* [[Difference due to memory]]
+* [[Early left anterior negativity]]
+* [[Error-related negativity]]
+* [[Late positive component]]
+* [[Lateralized readiness potential]]
+* [[Mismatch negativity]]
+* [[N2pc]]
+* [[N100 (neuroscience)|N100]]
+* [[N170]]
+* [[N200 (neuroscience)|N200]]
+* [[N400 (neuroscience)|N400]]
+* [[P3a]]
+* [[P3b]]
+* [[P200]]
+* [[P300 (neuroscience)]]
+* [[Somatosensory evoked potential]]
+* [[Visual N1]]
+{{div col end}}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|2}}
+
+==Bibliography==
+*{{Cite journal | title=Towards dynamical system models of language-related brain potentials  | last1=beim Graben | first1=Peter | last2=Gerth | first2=Sabrina | last3=Vasishth | first3=Shravan | year=2008 | doi=10.1007/s11571-008-9041-5 | journal=Cognitive Neurodynamics | pages=229–55 | volume=2 | issue=3| pmid=19003488 | pmc=2518748}}
+*{{Cite journal | last1=Coulson | first1=Seanna | last2=King | first2=Jonathan | last3=Kutas | first3=Marta | year=1998 | title=Expect the unexpected: event-related brain response to morphosyntactic violations | journal=Language and Cognitive Processes | volume=13 | issue=1 | pages=21&ndash;58 | doi=10.1080/016909698386582| citeseerx=10.1.1.359.7707 }}
+*{{Cite journal | last1=Fitz | first1=Hartmut | last2=Chang | first2=Franklin | year=2019 | title=Language ERPs reflect learning through prediction error propagation | journal=Cognitive Psychology | volume=111| pages=15&ndash;52 | doi=10.1016/j.cogpsych.2019.03.002| pmid=30921626| hdl=21.11116/0000-0003-474F-6 | s2cid=85501792 | hdl-access=free }}
+*{{cite journal | last=Friederici | first=Angela D | year=2002 | journal=Trends in Cognitive Sciences | pages=78–84 | volume=6 | issue=2 | title=Towards a neural basis of auditory sentence processing | doi=10.1016/S1364-6613(00)01839-8 | pmid=15866191| url=http://pubman.mpdl.mpg.de/pubman/item/escidoc:727589:6/component/escidoc:727588/18827.pdf | doi-access=free }}
+*{{cite journal | last1=Friederici | first1=Angela D | last2=Weissenborn | first2=Jurgen | journal=Brain Research | year=2007 | pages=50–8 | volume=1146 | title=Mapping sentence form onto meaning: the syntax-semantic interface | doi=10.1016/j.brainres.2006.08.038| pmid=16956590| s2cid=14664214 }}
+*{{Cite journal | last1=Gouvea | first1=Ana | last2=Phillips | first2=Colin | last3=Kazanina | first3=Nina | last4=Poeppel | first4=David  | title=The linguistic processes underlying the P600 | year=2009}} (manuscript)
+*{{cite journal | last=Hagoort | first=Peter |author-link=Peter Hagoort | title=How the brain solves the binding problem for language: a neurocomputational model of syntactic processing | year=2003 | pages=S18–29 | journal=NeuroImage | volume=20 | doi=10.1016/j.neuroimage.2003.09.013| pmid=14597293| hdl=11858/00-001M-0000-0013-1E0C-2 | s2cid=18845725 | hdl-access=free }}
+*{{cite book | last=Hagoort | first=Peter | chapter=The memory, unification, and control (MUC) model of language | year=2007 | title=Automaticity and Control in Language Processing |editor1=Antje S. Meyer |editor2=Linda R. Wheeldon |editor3=Andrea Krott | series=Advances in Behavioural Brain Science | isbn=978-1-84169-650-8}}
+*{{cite book | last1=Hagoort | first1=Peter | last2=Brown | first2=Colin | last3=Osterhout | first3=Lee | chapter=The neurocognition of syntactic processing | year=1999 | title=The Neurocognition of Language | location=New York | publisher=Oxford University Press | isbn=978-0-19-852448-9}}
+*{{cite journal | last=Kaan | first=Edith | author2=Swaab, Tamara | year=2003 | journal=Journal of Cognitive Neuroscience | volume=15 | issue=1 | pages=98&ndash;110 | title=Repair, revision, and complexity in syntactic analysis: an electrophysiological differentiation| doi=10.1162/089892903321107855| pmid=12590846 | s2cid=14934107 | url=http://www.biac.duke.edu/library/papers/2003_JoCN_Kaan_Swaab.pdf}}
+*{{cite journal | last1=Kim | first1=Albert | last2=Osterhout | first2=Lee | year=2005 | title=The independence of combinatory semantic processing: evidence from event-related potentials | pages=205–225 | journal=Journal of Memory and Language | volume=52 | doi=10.1016/j.jml.2004.10.002| issue=2| citeseerx=10.1.1.115.4927 }}
+*{{Cite journal | last1=Osterhout | first1=Lee | last2=Holcomb | first2=Phillip | year=1992 | title=Event-related brain potentials elicited by syntactic anomaly | journal=Language and Cognitive Processes | volume=8| url=http://faculty.washington.edu/losterho/Osterhout%26Holcomb1992.pdf }}
+*{{Cite journal | last1=Service | first1=Elisabet | last2=Helenius | first2=Paivi | last3=Maury | first3=Sini | last4=Salmelin | first4=Riitta | year=2007 | title=Localization of syntactic and semantic brain responses using magnetoencephalography | journal=Journal of Cognitive Neuroscience | pages=1193–205 | volume=19 | issue=7 | doi=10.1162/jocn.2007.19.7.1193| pmid=17583994| s2cid=24251261 | url=https://aaltodoc.aalto.fi/handle/123456789/16064 }}
+
+==External links==
+*[https://www.youtube.com/watch?v=xmf3YC8jzWc Video of the N400 and P600 visualized as animated scalp topographies]
+
+{{EEG}}
+{{Neuroscience}}
+
+[[Category:Electroencephalography]]
+[[Category:Evoked potentials]]
+[[Category:Neurolinguistics]]

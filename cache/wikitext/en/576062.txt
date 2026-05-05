@@ -1,0 +1,86 @@
+{{Short description|none}} <!-- "none" is preferred when the title is sufficiently descriptive; see [[WP:SDNONE]] -->
+{{Year nav topic5|1995|science}}
+{{Science year nav|1995}}
+
+The year '''1995 in [[science]]''' and [[technology]] involved many significant events, listed below.
+
+==Astronomy and space exploration==
+* February – [[Project Phoenix (SETI)|Project Phoenix]] begins looking for extraterrestrial transmissions using the [[Parkes Observatory]] [[radio telescope]] in [[New South Wales]], Australia, the largest telescope in the [[Southern Hemisphere]].
+* February 8 – [[Asteroid]] [[6349 Acapulco]] is discovered by [[Masahiro Koishikawa]].
+* March 22 – Cosmonaut [[Valeri Polyakov]] returns after setting a record for 438 days in [[Outer space|space]].
+* July 23 – [[Comet Hale–Bopp]] is discovered by [[Alan Hale (astronomer)|Alan Hale]] and [[Thomas Bopp]] independently.
+* October 6 – [[51 Pegasi b]]: [[Didier Queloz]] and [[Michel Mayor]] of the [[University of Geneva]] at the [[Observatoire de Haute-Provence]] announce the first definitive detection of an [[extrasolar planet]] orbiting an ordinary [[main sequence]] star ([[51 Pegasi]])<ref>{{cite journal|author1=Mayor, Michael |author2=Queloz, Didier |title=A Jupiter-mass companion to a solar-type star|journal=[[Nature (journal)|Nature]]|volume=378|issue=6555|year=1995|pages=355–359|doi=10.1038/378355a0|bibcode=1995Natur.378..355M|s2cid=4339201 }}</ref> and the first "[[hot Jupiter]]".
+* December 7 – NASA's ''[[Galileo (spacecraft)#Galileo entry probe|Galileo Probe]]'' enters [[Jupiter]]'s atmosphere.
+* December 18 - 28 Hubble observes its first deep field
+* The "Big Ear" at the [[Ohio State University Radio Observatory]] ends its full-time [[search for extraterrestrial intelligence]] radio survey, having run continuously for 22 years, beginning in [[1973 in science|1973]].
+* [[Richard P. Binzel]] devises the original of what will become the [[Torino Scale]] for categorizing the impact hazard associated with [[near-Earth object]]s.<ref>"A Near-Earth Object Hazard Index" presented at a [[United Nations]] conference and published in its proceedings, ''[[Annals of the New York Academy of Sciences]]'', '''822''' (1997).</ref>
+* The first [[brown dwarf]] – [[Teide 1]] – is discovered.<ref>{{Cite web|url=http://www.jpl.nasa.gov/news/news.php?release=2009-174|title=Spitzer Telescope Observes Baby Brown Dwarf|website=[[Jet Propulsion Laboratory]] }}</ref>
+
+==Biology==
+* March 24 – [[Patrick Callaerts]] and colleagues publish the first classic demonstration of the role of the [[PAX6]] gene in the development of eyes.<ref>{{cite journal|author=Halder, G.; Callaerts, P.; Gehring, W. J.|title=Induction of ectopic eyes by targeted expression of the eyeless gene in ''Drosophila''|journal=Science|volume=267|pages=1788–1792|year=1995|issue=5205|doi=10.1126/science.7892602|pmid=7892602|bibcode=1995Sci...267.1788H}}</ref>
+* The genome of ''[[Haemophilus influenzae]]'' is the first genome of a free living organism to be sequenced.
+* [[Sudden oak death]], the tree disease caused by the [[plant pathogen]] ''[[Phytophthora ramorum]]'', is first observed, in [[California]], United States.<ref>{{cite web |last=Hansard |first=Carolyn |title=Introduced Species Summary Project Sudden Oak Death (Phytophthora ramorum) |url=http://www.columbia.edu/itc/cerc/danoff-burg/invasion_bio/inv_spp_summ/Phytophthora_ramorum.htm |website=Columbia University}}</ref>
+
+==Computer science==
+* January 27 – [[Prodigy (online service)]] offers access to the [[World Wide Web]].<ref>{{Cite news|url=https://www.nytimes.com/1995/01/31/business/company-news-prodigy-sees-quick-growth-from-internet-web-service.html|title = COMPANY NEWS; Prodigy Sees Quick Growth from Internet Web Service|newspaper = The New York Times|date = 31 January 1995|last1 = Lewis|first1 = Peter H.}}</ref>
+* March 1 – The first [[Yahoo! Search]] interface is founded.
+* March 25 – [[Ward Cunningham]] loads the first [[wiki]] software, [[WikiWikiWeb]], in [[Oregon]].
+* April 30 – The United States government stops funding the [[NSFNET]], making the [[Internet]] a wholly privatized system.<ref>{{cite web|url=http://www.cybertelecom.org/notes/nsfnet.htm|title=Cybertelecom :: NSFNET|work=cybertelecom.org}}</ref>
+* May 23 – The [[Java (programming language)|Java programming language]] is announced to the world.
+* June 8 – [[Danish people|Danish]]/[[Greenland]]ic/[[Canadians|Canadian]] [[programmer]] [[Rasmus Lerdorf]] releases the first version of the [[scripting language]] [[PHP]], which in 15 years will be used as the [[server-side]] language on 75% of all [[Web server]]s.<ref>{{cite newsgroup|title=Announce: Personal Home Page Tools (PHP Tools)|last=Lerdorf|first=Rasmus|date=1995-06-08|newsgroup=comp.infosystems.www.authoring.cgi|url=https://groups.google.com/group/comp.infosystems.www.authoring.cgi/msg/cc7d43454d64d133|accessdate=2012-06-08}}</ref>
+* July 16 – [[Amazon.com]], incorporated a year earlier by [[Jeff Bezos]] in [[Washington (state)]] as an online [[bookstore]], sells its first book, [[Douglas Hofstadter]]'s ''[[Fluid Concepts and Creative Analogies|Fluid Concepts and Creative Analogies: Computer Models of the Fundamental Mechanisms of Thought]]''.<ref>{{cite web|url=http://phx.corporate-ir.net/phoenix.zhtml?c=176060&p=irol-corporateTimeline|title=History & Timeline|accessdate=2012-07-02}}</ref><ref>{{cite book|first=Ann|last=Byers|year=2006|title=Jeff Bezos: the founder of Amazon.com|publisher=The Rosen Publishing Group|url=https://books.google.com/books?id=Nz43wixr2IcC&pg=PA47|pages=46–47|isbn=9781404207172}}</ref>
+* November 22 – ''[[Toy Story]]'', the first feature film created using only [[computer-generated imagery]], is released in theaters in the United States.
+* [[Andy Harter]] and colleagues devise [[Virtual Network Computing]].
+
+==Earth sciences==
+* Bruce Luyendyk first proposes the name [[Zealandia]] for a southern continent.
+
+==Mathematics==
+* May – [[Wiles's proof of Fermat's Last Theorem]] is published in ''[[Annals of Mathematics]]''.<ref>{{cite journal|last=Wiles|first=Andrew|authorlink=Andrew Wiles|year=1995|title=Modular elliptic curves and Fermat's Last Theorem|url=http://math.stanford.edu/~lekheng/flt/wiles.pdf|journal=Annals of Mathematics|volume=141|issue=3|pages=443–551|issn=0003-486X|oclc=37032255|doi=10.2307/2118559|jstor=2118559|zbl=0823.11029|citeseerx=10.1.1.169.9076|access-date=2013-05-15|archive-date=2011-05-10|archive-url=https://web.archive.org/web/20110510062158/http://math.stanford.edu/%7Elekheng/flt/wiles.pdf|url-status=dead}}; {{cite journal|authorlink1=Richard Taylor (mathematician)|first1=Richard|last1=Taylor|first2=Andrew|last2=Wiles|year=1995|title=Ring-theoretic properties of certain Hecke algebras|journal=Annals of Mathematics|volume=141|issue=3|pages=553–572|url=http://math.stanford.edu/~lekheng/flt/taylor-wiles.pdf|doi=10.2307/2118560|oclc=37032255|jstor=2118560|zbl=0823.11030|citeseerx=10.1.1.128.531|access-date=2013-05-15|archive-date=2017-03-09|archive-url=https://web.archive.org/web/20170309154750/http://math.stanford.edu/~lekheng/flt/taylor-wiles.pdf|url-status=dead}}</ref>
+
+==Medicine==
+* January 30 – Workers from the [[National Institutes of Health]] announce the success of clinical trials testing the first preventive treatment for [[Sickle-cell disease|sickle cell anaemia]].
+* December 6 – The United States [[Food and Drug Administration]] approves [[Saquinavir]], the first [[Protease inhibitor (pharmacology)|protease inhibitor]] to treat [[HIV/AIDS]]. Within 2 years of its approval, annual deaths from AIDS in the United States fall from over 50,000 to approximately 18,000.<ref>{{Cite web| title =HIV Surveillance --- United States, 1981--2008| url =https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6021a2.htm| access-date =November 8, 2013| url-status=live| archive-url =https://web.archive.org/web/20131109001606/http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6021a2.htm| archive-date =November 9, 2013}}</ref>
+
+==Neuroscience==
+* The RELN gene and [[Reelin]] protein are discovered by Gabriella D'Arcangelo and colleagues, solving the mystery behind the formation of "inverted cortical layers" in the brain of [[reeler]] mutant mice, and sparking an avalanche of research into the Reelin's role in [[Neural development|neurodevelopment]].
+
+==Physics==
+* March 2 – [[Top quark]] discovery announced.<ref>{{cite journal|author=Abe, F. ''et al'' ([[CDF Collaboration]])|year=1995|title=Observation of Top Quark Production in {{SubatomicParticle|Antiproton}}{{SubatomicParticle|Proton}} Collisions with the Collider Detector at Fermilab|journal=[[Physical Review Letters]]|volume=74|issue=14|pages=2626–2631|doi=10.1103/PhysRevLett.74.2626|pmid=10057978|bibcode=1995PhRvL..74.2626A|arxiv=hep-ex/9503002|s2cid=119451328}}</ref><ref>{{cite journal|author=Abachi, S. ''et al'' ([[DØ Collaboration]])|year=1995|title=Search for High Mass Top Quark Production in {{SubatomicParticle|Proton}}{{SubatomicParticle|Antiproton}} Collisions at {{radical|''s''}}&nbsp;=&nbsp;1.8&nbsp;TeV|journal=Physical Review Letters|volume=74|issue=13|pages=2422–2426|doi=10.1103/PhysRevLett.74.2422|pmid=10057924|bibcode=1995PhRvL..74.2422A|arxiv=hep-ex/9411001|s2cid=119392677}}</ref><ref>{{cite journal|first1=T. M.|last1=Liss|first2=P. L.|last2=Tipton|year=1997|title=The Discovery of the Top Quark|url=http://www.hep.uiuc.edu/home/tml/SciAmTop.pdf|journal=[[Scientific American]]|volume=277|issue=3|pages=54–59|doi=10.1038/scientificamerican0997-54|bibcode=1997SciAm.277c..54L}}</ref>
+* Spring – [[M-theory]] is conjectured by [[Edward Witten]].
+
+==Psychology==
+* [[Elizabeth Loftus]] describes the "[[Lost in the mall technique]]" as a demonstration that [[confabulation]]s can be created through suggestions to experimental subjects.<ref>{{cite journal|last=Loftus|first=E. F.|author2=Pickrell, J. E.|year=1995|title=The formation of false memories|journal=Psychiatric Annals|volume=25|issue=12|url=http://users.ecs.soton.ac.uk/harnad/Papers/Py104/loftusmem1.pdf|pages=720–725|access-date=2011-02-27|archive-url=https://web.archive.org/web/20081203033217/http://users.ecs.soton.ac.uk/harnad/Papers/Py104/loftusmem1.pdf|archive-date=2008-12-03|url-status=dead|doi=10.3928/0048-5713-19951201-07}}</ref>
+
+==Organisations==
+* The first [[SampTA]] conference for mathematicians, engineers and applied scientists is held in [[Riga]], [[Latvia]].<ref>SampTA1995 [http://www.ciel.pl/projects/BENEFIT/Sampta95-Latvia.htm Sampta95 link]</ref>
+
+==Awards==
+* [[Nobel Prize]]s
+** [[Nobel Prize in Physics|Physics]] – [[Martin L. Perl]], [[Frederick Reines]]
+** [[Nobel Prize in Chemistry|Chemistry]] – [[Paul J. Crutzen]], [[Mario J. Molina]], [[F. Sherwood Rowland]]
+** [[Nobel Prize in Physiology or Medicine|Medicine]] – [[Edward B. Lewis]], [[Christiane Nüsslein-Volhard]], [[Eric F. Wieschaus|Eric Wieschaus]]
+** [[Nobel Peace Prize|Peace]] – [[Joseph Rotblat]]
+* [[Turing Award]] – [[Manuel Blum]]
+* [[Wollaston Medal|Wollaston Medal for Geology]] – [[George P. L. Walker]]
+* Enshrinement in the [[Panthéon, Paris]] – [[Pierre Curie|Pierre]] and [[Marie Curie]]
+* [[Spinoza Prize]] first awarded in the Netherlands.
+
+==Deaths==
+* January 30 – [[Gerald Durrell]] (b. [[1925 in science|1925]]), [[British people|British]] [[wildlife conservation]]ist.
+* March 24 – [[Joseph Needham]] (b. [[1900 in science|1900]]), [[English people|English]] [[biochemist]] and writer on the [[history of science and technology in China]].
+* April 2 – [[Hannes Alfvén]] (b. [[1908 in science|1908]]), [[Swedes|Swedish]] astrophysicist.
+* June 23 – [[Jonas Salk]] (b. [[1914 in science|1914]]), [[Americans|American]] medical researcher.
+* August 11 – [[Alonzo Church]] (b. [[1903 in science|1903]]), American [[mathematician]].
+* September 13 – [[A. E. Wilder-Smith]] (b. [[1915 in science|1915]]), British [[organic chemist]].
+* December 2 – [[Mária Telkes]] (b. [[1900 in science|1900]]), Hungarian-American scientist and inventor
+* December 14 – [[Constance Tipper]] (b. [[1894 in science|1894]]), English [[metallurgist]].
+* December 18 – [[Nathan Rosen]] (b. [[1909 in science|1909]]), American-born Israeli physicist.
+
+==References==
+{{Portal|1990s|Science}}
+{{reflist}}
+
+[[Category:1995 in science| ]]
+[[Category:20th century in science]]
+[[Category:1990s in science]]

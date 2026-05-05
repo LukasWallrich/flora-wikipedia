@@ -1,0 +1,99 @@
+{{Undisclosed paid|date=March 2024}}
+{{short description|American psychologist}}
+{{Infobox scientist
+| honorific_prefix          =
+| name                      = Emily Pronin
+| honorific_suffix          = 
+| native_name               = 
+| native_name_lang          = 
+| image                     = 
+| image_size                = 
+| image_upright             = 
+| alt                       = 
+| caption                   = 
+| birth_name                = <!-- if different from "name" -->
+| birth_date                = 
+| birth_place               = [[New York City]], [[New York (state)|New York]]
+| death_date                = 
+| death_place               =
+| death_cause               = 
+| resting_place             = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names               = 
+| pronounce                 = 
+| residence                 = 
+| citizenship               = 
+| fields                    = [[Self-perception theory]]<br>[[Behavior genetics]]
+| workplaces                = [[University of Princeton]]
+| patrons                   = 
+| education                 = 
+| alma_mater                = [[Stanford University]]<br> [[Yale University]]
+| thesis_title              = 
+| thesis_url                = 
+| thesis_year               = 
+| doctoral_advisor          = 
+| academic_advisors         = 
+| doctoral_students         = 
+| notable_students          = 
+| known_for                 = [[Introspection illusion]]<br>[[Bias blind spot]]
+
+| awards                    =
+| author_abbrev_bot         = 
+| author_abbrev_zoo         = 
+| spouse                    = {{marriage|Joshua Rabinowitz|2008}}
+| partner                   =  
+| children                  = 
+| signature                 = 
+| signature_alt             = 
+| website                   = <!--{{URL|www.example.com}}-->
+| footnotes                 =  
+}}
+'''Emily Pronin''' is an American psychologist who specializes in human [[Self-perception theory|self-perception]] and [[Decision-making|decision making]]. She is a professor of [[Psychology]] and Public affair at [[Princeton University]].<ref name=":0">{{cite web |title=Emily Pronin, Joshua Rabinowitz |url=https://www.nytimes.com/2008/08/24/fashion/weddings/24PRONIN.html |website=[[The New York Times]] |date=23 August 2008 }}</ref> She created and coined the terms [[Bias blind spot]] and [[Introspection illusion]].<ref>{{cite web |title=What is 'introspection illusion' in psychology? |url=https://www.thehindu.com/opinion/op-ed/what-is-introspection-illusion-in-psychology/article24026914.ece |website=[[The Hindu]] |language=en-IN |date=29 May 2018}}</ref>
+
+==Biography==
+She was born in [[New York City]] to Irwin Pronin, a regulatory lawyer and Vivian Pronin an independent geriatric care manager.<ref name=":0" /> She received her BA from [[Yale University]] and her PhD from [[Stanford University]].<ref>{{cite web |title=Misunderstanding, Bias, and the Introspection Illusion – BMCC |url=https://www.bmcc.cuny.edu/event/misunderstanding-bias-and-the-introspection-illusion/ |website=[[Borough of Manhattan Community College]]}}</ref>
+
+==Research==
+In 2002, Pronin and her colleagues initially defined the [[Bias blind spot]] in 2002, which is the observation that people feel they are less biassed in their judgements and conduct than the overall population, i.e., they are "blind" to their own cognitive biases. While that discovery inspired a slew of subsequent studies, no one has attempted to exactly reproduce the original tests.<ref>{{cite web |last1=Warren |first1=Matthew |title=The "bias blind spot" ("everyone else is more biased than me") just replicated |url=https://www.bps.org.uk/research-digest/bias-blind-spot-everyone-else-more-biased-me-just-replicated |website=[[British Psychological Society]] |language=en}}</ref>
+In 2002, Pronin's research introduced "[[Naïve realism (psychology)|Naive Realism]]," highlighting how people tend to believe they have a more objective view of others while underestimating that others might see them more clearly.<ref>{{cite web |last1=Magee |first1=Mike |title=Naive Realism and the Legal Profession – The Health Care Blog |url=https://thehealthcareblog.com/blog/2023/08/09/naive-realism-and-the-legal-profession/ |website=The Health Care |date=9 August 2023}}</ref> 
+Pronin coined the term "[[introspection illusion]]" to describe the mistaken belief in  own unbiased self-perception, she believes humans tend to think of themselves as more virtuous than they might be, while readily recognizing the faults in others.<ref>{{cite web |last1=Ayan |first1=Steve |title=10 Things You Don't Know about Yourself |url=https://www.scientificamerican.com/article/10-things-you-dont-know-about-yourself/ |website=[[Scientific American]] |date=July 2018 |language=en}}</ref> 
+
+In her research on [[free will]] Pronin explores how people perceive themselves versus others, her research shows that individuals often see their own judgments as rational and influenced by free will, while viewing others as predictable and less guided by free will.<ref>{{cite web |last1=Choi |first1=Charles Q |title=Everyone Thinks Everyone Else Has Less Free Will |url=https://insidescience.org/news/everyone-thinks-everyone-else-has-less-free-will |website=Inside Science |language=en |date=13 December 2010}}</ref>
+
+==Selected publications== 
+
+*{{cite journal|ref=none|last1=Pronin |first1=Emily |last2=Lin |first2=Daniel Y. |last3=Ross |first3=Lee |title=The Bias Blind Spot: Perceptions of Bias in Self Versus Others |journal=Personality and Social Psychology Bulletin |date=March 2002 |volume=28 |issue=3 |pages=369–381 |doi=10.1177/0146167202286008}}
+
+*{{cite journal|ref=none|last1=Pronin |first1=Emily |last2=Olivola |first2=Christopher Y. |last3=Kennedy |first3=Kathleen A. |title=Doing Unto Future Selves As You Would Do Unto Others: Psychological Distance and Decision Making |journal=Personality and Social Psychology Bulletin |date=February 2008 |volume=34 |issue=2 |pages=224–236 |doi=10.1177/0146167207310023|pmid=18156588 }}
+
+*{{cite journal|ref=none|last1=Kennedy |first1=Kathleen A. |last2=Pronin |first2=Emily |title=When Disagreement Gets Ugly: Perceptions of Bias and the Escalation of Conflict |journal=Personality and Social Psychology Bulletin |date=June 2008 |volume=34 |issue=6 |pages=833–848 |doi=10.1177/0146167208315158 |pmid=18469154 }}
+
+*{{cite journal|ref=none|last1=Pronin |first1=Emily |title=Chapter 1 The Introspection Illusion |journal=Advances in Experimental Social Psychology |date=2009 |volume=41 |pages=1–67 |doi=10.1016/S0065-2601(08)00401-2|isbn=978-0-12-374472-2 }}
+
+*{{cite journal|ref=none|last1=Pronin |first1=Emily |last2=Chandler |first2=Jesse J. |title=Fast Thought Speed Induces Risk Taking |journal=Psychological Science |date=April 2012 |volume=23 |issue=4 |pages=370–374 |doi=10.1177/0956797611431464|pmid=22395129 }}
+
+*{{cite journal|ref=none|last1=Pronin |first1=Emily |title=When the Mind Races: Effects of Thought Speed on Feeling and Action |journal=Current Directions in Psychological Science |date=August 2013 |volume=22 |issue=4 |pages=283–288 |doi=10.1177/0963721413482324}}
+
+*{{cite journal|ref=none|last1=Pronin |first1=Emily |last2=Gerbasi |first2=Margaret |last3=Todorov |first3=Alexander |last4=Kruse |first4=Elliott |last5=Hansen |first5=Katherine |title=People Claim Objectivity After Knowingly Using Biased Strategies |journal=Personality and Social Psychology Bulletin |date=June 2014 |volume=40 |issue=6 |pages=691–699 |doi=10.1177/0146167214523476|pmid=24562289 }}
+
+*{{cite journal|ref=none|last1=Sekhsaria |first1=Shriya |last2=Pronin |first2=Emily |title=Underappreciated Benefits of Reading Own and Others' Memories |journal=Social Cognition |date=August 2021 |volume=39 |issue=4 |pages=504–525 |doi=10.1521/soco.2021.39.4.504 }}
+
+*{{cite journal|ref=none|last1=Pronin |first1=Emily |last2=Hazel |first2=Lori |title=Humans' Bias Blind Spot and Its Societal Significance |journal=Current Directions in Psychological Science |date=October 2023 |volume=32 |issue=5 |pages=402–409 |doi=10.1177/09637214231178745}}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pronin, Emily}}
+[[Category:Stanford University alumni]]
+[[Category:Stanford University School of Humanities and Sciences alumni]]
+[[Category:Yale University alumni]]
+[[Category:American women psychologists]] 
+[[Category:Princeton University faculty]]
+[[Category:Scientists from New York City]]
+[[Category:American women social scientists]]
+[[Category:American social psychologists]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:21st-century American psychologists]]

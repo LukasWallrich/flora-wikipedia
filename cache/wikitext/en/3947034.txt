@@ -1,0 +1,112 @@
+{{Short description|Type of information}}
+{{Distinguish}}
+{{Too few opinions|date=August 2019}}
+[[File:Enciklopedija Jugoslavije 1st ed.jpg|thumb|An [[encyclopedia]] is a repository of general knowledge.]]
+
+'''General knowledge''' is information that has been accumulated over time through various media and sources.<ref>{{Cite web|url=https://dictionary.cambridge.org/us/dictionary/english/general-knowledge|title=GENERAL KNOWLEDGE|website=Cambridge English Dictionary|language=en-US|access-date=2019-08-24}}</ref> It excludes specialized learning that can only be obtained with extensive training and information confined to a single medium. General knowledge is an essential component of [[crystallized intelligence]]. It is strongly associated with [[G factor (psychometrics)|general intelligence]] and with [[openness to experience]].<ref>T. C. Bates and A. Shieles. (2003). Crystallized Intelligence is a product of Speed and Drive for Experience: The Relationship of Inspection Time and Openness to g and Gc. ''Intelligence'', '''31''', [https://dx.doi.org/10.1016/S0160-2896(02)00176-9 275-287]</ref>
+
+Studies have found that people who are highly [[knowledge]]able in a particular [[domain knowledge|domain]] tend to be knowledgeable in many.<ref name="rolfhus&ackerman">{{cite journal|last=Rolfhus|first=Eric L.|author2=Ackerman, Phillip L.|year=1999|title=Assessing individual differences in knowledge: Knowledge, intelligence, and related traits|url=http://internal.psychology.illinois.edu/~broberts/Rolfhus%20&%20Ackerman,%201999.pdf|journal=Journal of Educational Psychology|volume=91|issue=3|pages=511–526|doi=10.1037/0022-0663.91.3.511|access-date=2019-12-25|archive-url=https://web.archive.org/web/20120415101812/http://internal.psychology.illinois.edu/~broberts/Rolfhus%20%26%20Ackerman%2C%201999.pdf|archive-date=2012-04-15|url-status=dead}}</ref><ref name="ackerman2001">{{cite journal|last1=Ackerman|first1=Phillip L.|last2=Bowen|first2=Kristy R.|last3=Beier|first3=Margaret E.|last4=Kanfer|first4=Ruth|year=2001|title=Determinants of individual differences and gender differences in knowledge|url=http://www.mendeley.com/research/determinants-individual-differences-gender-differences-knowledge-5/|journal=Journal of Educational Psychology|volume=93|issue=4|pages=797–825|doi=10.1037/0022-0663.93.4.797|access-date=2011-12-04|archive-date=2016-04-05|archive-url=https://web.archive.org/web/20160405223507/https://www.mendeley.com/research/determinants-individual-differences-gender-differences-knowledge-5/|url-status=dead|url-access=subscription}}</ref> General knowledge is thought to be supported by long-term [[semantic memory]] ability.<ref>{{Cite journal|last1=Smith|first1=Amy M.|last2=Hughes|first2=Gregory I.|last3=Davis|first3=F. Caroline|last4=Thomas|first4=Ayanna K.|author4-link=Ayanna Kim Thomas|date=March 2019|title=Acute stress enhances general-knowledge semantic memory|journal=Hormones and Behavior|language=en|volume=109|pages=38–43|doi=10.1016/j.yhbeh.2019.02.003|pmid=30742829|s2cid=72334918|doi-access=free}}</ref> General knowledge also supports [[Schema (psychology)|schemata]] for textual understanding.<ref>{{Cite journal|last=An|first=Shuying|s2cid=26167875|date=2013-01-01|title=Schema Theory in Reading|journal=Theory and Practice in Language Studies|volume=3|issue=1|doi=10.4304/tpls.3.1.130-134|issn=1799-2591|doi-access=free|hdl=10818/31910|hdl-access=free}}</ref>
+
+==Individual differences==
+===Intelligence===
+High scorers on tests of general knowledge tend to also score highly on intelligence tests. [[IQ]] has been found to robustly predict general knowledge scores even after accounting for differences in age, and [[five factor model|five-factor model]] personality traits.<ref name=Furnham2006 /><ref name=chamorro /><ref name=Furnham2008>{{cite journal|last=Furnham|first=Adrian |author2=Swami, Viren |author3=Arteche, Adriane |author4-link=Tomas Chamorro-Premuzic |author4=Chamorro-Premuzic, Tomas|title=Cognitive ability, learning approaches and personality correlates of general knowledge|journal=Educational Psychology|year=2008|volume=28|pages=427–437|doi=10.1080/01443410701727376|issue=4|s2cid=144132702 }}</ref> However, many general knowledge tests are designed to create a normal distribution of answers, creating a [[Normal distribution|bell-shaped curve]].<ref>{{Cite web|url=http://www.psychologytoday.com/blog/the-gift-aging/201404/what-constitutes-general-knowledge|title=What Constitutes General Knowledge?|last=Stuart-Hamilton|first=Ian|date=6 April 2014|website=Psychology Today|language=en-US|access-date=2019-08-24}}</ref>
+
+General knowledge is also moderately associated with verbal ability, though only weakly or not at all with numerical and spatial ability.<ref name="rolfhus&ackerman" /> As with crystallized intelligence, general knowledge has been found to increase with age.<ref name=Furnham2007>{{cite journal|last1=Furnham|first1=Adrian|last2=Christopher|first2=Andrew N.|last3=Garwood|first3=Jeanette|last4=Martin|first4=G. Neil|title=Approaches to learning and the acquisition of general knowledge|journal=Personality and Individual Differences|year=2007|volume=43|pages=1563–1571|doi=10.1016/j.paid.2007.04.013|issue=6}}</ref>
+
+===Long-term semantic memory===
+General knowledge is stored as [[semantic memory]].<ref name=":0">{{Citation|last=Glisky|first=Elizabeth L.|title=Changes in Cognitive Function in Human Aging|date=2007|url=https://www.ncbi.nlm.nih.gov/books/NBK3885/|work=Brain Aging: Models, Methods, and Mechanisms|editor-last=Riddle|editor-first=David R.|series=Frontiers in Neuroscience|publisher=CRC Press/Taylor & Francis|isbn=9780849338182|pmid=21204355|access-date=2019-08-24}}</ref> Most semantic memory is preserved through old age, though there are deficits in retrieval of certain specific words correlated with aging.<ref name=":0" /> In addition, [[Stress (biology)|stress]] or various emotional levels can negatively affect semantic memory retrieval.<ref name=":0" />
+
+===Personality===
+People high in general knowledge tend to be highly [[openness to experience|open to new experiences]]<ref name=Furnham2006>{{cite journal|last=Furnham|first=Adrian|author2=Chamorro-Premuzic, Tomas |author-link2=Tomas Chamorro-Premuzic |title=Personality, intelligence, and general knowledge|journal=Learning and Individual Differences|year=2006|volume=16|pages=79–90|url=http://www.mendeley.com/research/personality-intelligence-general-knowledge/|doi=10.1016/j.lindif.2005.07.002|url-access=subscription}}</ref><ref name=chamorro>{{cite journal|last=Chamorro-Premuzic|first=Tomas|author2=Furnham, Adrian|author3=Ackerman, Phillip L.|title=Ability and personality correlates of general knowledge|journal=Personality and Individual Differences|year=2006|volume=41|pages=419–429|url=http://jupiter.gold.ac.uk/media/ChamorroPremuzicFunrhamAckerman2006PAID.pdf|doi=10.1016/j.paid.2005.11.036|issue=3|url-status=dead|archive-url=https://web.archive.org/web/20120426065554/http://jupiter.gold.ac.uk/media/ChamorroPremuzicFunrhamAckerman2006PAID.pdf|archive-date=2012-04-26}}</ref><ref name=Furnham2008 /><ref name=Furnham2007 /> and in [[typical intellectual engagement]].<ref name=chamorro /><ref name=Furnham2008 /> The relationship between openness to experience and general knowledge remains robust even when IQ is taken into account.<ref name=Furnham2006 /><ref name=Furnham2008 /> People high in openness may be more motivated to engage in intellectual pursuits that increase their knowledge.<ref name=Furnham2008 /> Relationships between general knowledge and other [[five factor model]] traits tend to be weak and inconsistent. Though one study found that [[extraversion]] and [[neuroticism]] were negatively [[correlation and dependence|correlated]] with general knowledge,<ref name=chamorro /> others found that they were unrelated.<ref name=Furnham2006 /><ref name=Furnham2007 /> Inconsistent results have also been found for [[conscientiousness]].{{refn|[[Adrian Furnham|Furnham]] et al.<ref name=Furnham2006 /> found positive correlations with general knowledge in his first and third studies, but no significant relationship in his second. Studies by others have found no significant relationship.<ref name=chamorro /><ref name=Furnham2007 />|group=note}}
+
+==Predictor of achievement==
+{{More citations needed section|date=April 2021}}
+A number of studies have assessed whether performance on a general knowledge test can predict achievement in particular areas, namely in academics,<ref name=Furnham2009>
+{{Cite journal
+ | first1 = Adrian
+ | last1 = Furnham
+ |last2 =Monsen
+ |first2 =J. & Ahmetoglu
+ | year = 2009
+ | title = Typical intellectual engagement, Big Five personality traits, approaches to learning and cognitive ability predictors of academic performance 
+ | journal = British Journal of Educational Psychology
+ | volume = 79
+ | issue = 4
+ | pages = 769–782
+ | pmid=19245744
+ | doi = 10.1348/978185409X412147}}
+</ref> proofreading,<ref name=proofreading>
+{{Cite journal
+ | first = Adrian
+ | last = Furnham
+ | year = 2010
+ | title = Proofreading as an index of crystallised intelligence
+ | journal = Educational Psychology
+ | volume = 30
+ | issue = 6
+ | pages = 735–754
+ | doi=10.1080/01443410.2010.506005| s2cid = 145775446
+ }}</ref> and creativity.<ref name=creativity>
+{{Cite journal
+ | first = Mark
+ | last = Batey |author2=Furnham, Adrian |author3=Safiullina, Xeniya
+ | year = 2010
+ | title = Intelligence, general knowledge and personality as predictors of creativity
+ | journal = Learning and Individual Differences
+ | volume = 20
+ | issue = 5
+ | pages = 532–535
+ | doi=10.1016/j.lindif.2010.04.008}}
+</ref>
+
+===Academic achievement===
+General knowledge helps to perform well on government exams<ref name=Furnham2009 /> The study examined cognitive ability and personality predictors of exam performance and found that general knowledge was positively correlated with [[GCSE]] English, mathematics, Grammar, History, Science and overall exam results. General knowledge test scores predicted exam results, even after controlling for IQ, five-factor model personality traits, and [[learning styles]].
+
+===Proofreading===
+General knowledge has been found to robustly predict proofreading skills in university students.<ref name=proofreading/> A study found that proofreading had a larger correlation with general knowledge than with general intelligence, verbal reasoning, or openness to experience. In a [[multiple regression|multiple regression analysis]] using general knowledge, general intelligence, verbal reasoning, five factor personality traits, and learning styles as predictors, only general knowledge was a significant predictor.
+
+===Creativity===
+General knowledge has been found to have weak associations with measures of creativity.<ref name=creativity/> In a study examining contributions of personality and intelligence to creativity, general knowledge was positively correlated with [[divergent thinking]] tests, but was unrelated to a biographical measure of creative achievement, self-rated creativity, or a composite measure of creativity. The relationship between general knowledge and divergent thinking became non-significant when controlling for fluid intelligence.
+
+[https://justknow.in/30-gk-questions-and-answers-in-english/]<ref>{{Cite web |last=Achary |first=K ram |date=3 April 2024 |title=30+ GK Questions and Answers in English {{!}} General Awareness Questions |url=https://justknow.in/30-gk-questions-and-answers-in-english/ |access-date=10 April 2024 |website=Just Know}}</ref>
+
+==Game shows and quizzes==
+{{Unreferenced section|date=April 2021}}
+Many [[game shows]] use general knowledge questions for entertainment purposes. Game shows such as ''[[Who Wants to Be a Millionaire?]]'' and ''[[Fifteen to One]]'' centre their questions on general knowledge, while other shows focus questions more on specific subjects. Some shows ask questions both on specific subjects and on general knowledge, including ''[[Eggheads (TV series)|Eggheads]]'' and ''[[Mastermind (TV series)|''Mastermind'']]''. In ''Mastermind'', contestants choose their own "specialist subject" before answering general knowledge questions, whereas in ''Eggheads'' the subjects are chosen at random. The game show ''[[Jeopardy!]]'' tests contestants' knowledge.
+[[File:Trivialpursuit Token.jpg|thumb|Questions drawn from the game [[Trivial Pursuit]] have been used in a number of psychological experiments concerning general knowledge.<ref>{{cite journal|last=Dijksterhuis |first=A. |author2=van Knippenberg, A. |title=The relation between perception and behavior, or how to win a game of trivial pursuit |journal=Journal of Personality and Social Psychology |year=1998 |volume=74 |issue=4 |pages=865–77 |pmid=9569649 |url=http://www.biz.colostate.edu/MPPCWorkshop/Documents/Readings/Campbell/Campbell_DijksterhuisVanKnippenbergJPSP1998.pdf |doi=10.1037/0022-3514.74.4.865 |url-status=dead |archive-url=https://web.archive.org/web/20100614042321/http://www.biz.colostate.edu/MPPCWorkshop/Documents/Readings/Campbell/Campbell_DijksterhuisVanKnippenbergJPSP1998.pdf |archive-date=2010-06-14 }}</ref><ref>{{cite journal|last=Dijksterhuis|first=A.|title=Seeing one thing and doing another: Contrast effects in automatic behavior|journal=Journal of Personality and Social Psychology|date=October 1998|volume=75|issue=4|pages=862–871|doi=10.1037/0022-3514.75.4.862}}</ref>]]
+
+==See also==
+* [[IQ]]
+* [[Intelligence]]
+* [[High culture]]
+* [[Cattell–Horn–Carroll theory]]
+* [[Cultural literacy]]
+* [[Core Knowledge Foundation]]
+* {{annotated link|Upper ontology}}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+<!--======================== {{No more links}} ============================
+                        | PLEASE BE CAUTIOUS IN ADDING MORE LINKS TO THIS ARTICLE. Wikipedia  |
+                        | is not a collection of links nor should it be used for advertising. |
+                        |                                                                     |
+                        |           Excessive or inappropriate links WILL BE DELETED.         |
+                        | See [[Wikipedia:External links]] & [[Wikipedia:Spam]] for details.  |
+                        |                                                                     |
+                        | If there are already plentiful links, please propose additions or   |
+                        | replacements on this article's discussion page, or submit your link |
+                        | to the relevant category at the Open Directory Project (dmoz.org)   |
+                        | and link back to that category using the {{dmoz}} template.         |
+                        ======================= {{No more links}} =============================-->
+{{Humanities}}
+
+{{Authority control}}
+[[Category:Knowledge]]
+[[Category:Intelligence]]
+[[Category:Factors related to intelligence]]
+[[Category:Psychological testing]]
+[[Category:Memory]]

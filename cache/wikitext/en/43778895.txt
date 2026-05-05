@@ -1,0 +1,233 @@
+'''Predictive genomics''' is at the intersection of multiple disciplines: [[predictive medicine]], [[personal genomics]] and [[translational bioinformatics]]. Specifically, predictive genomics deals with the future [[phenotypic]] outcomes via [[prediction]] in areas such as complex multifactorial [[disease]]s in humans.<ref name=goddard1>{{Cite journal | doi = 10.1101/gr.6665407| pmid = 17785532| title = Prediction of individual genetic risk to disease from genome-wide association studies| journal = [[Genome Research]]| volume = 17| issue = 10| pages = 1520–8| year = 2007| last1 = Wray | first1 = N. R.| last2 = Goddard | first2 = M. E. | author-link2 = Michael E. Goddard| last3 = Visscher | first3 = P. M. | pmc=1987352}}</ref> To date, the success of predictive genomics has been dependent on the genetic framework underlying these applications, typically explored in [[genome-wide association study|genome-wide association]] (GWA) studies.<ref>{{Cite journal | doi = 10.1038/nrg1521| pmid = 15716906| title = Genome-wide association studies for common diseases and complex traits| journal = Nature Reviews Genetics| volume = 6| issue = 2| pages = 95–108| year = 2005| last1 = Hirschhorn | first1 = J. N. | last2 = Daly | first2 = M. J. | s2cid = 2813666}}</ref> The identification of associated [[single-nucleotide polymorphism]]s (variation of a DNA sequence in a population) underpin GWA studies in complex diseases that have ranged from [[Diabetes mellitus type 2|Type 2 Diabetes]] (T2D), [[Macular degeneration|Age-related macular degeneration]] (AMD) and [[Crohn's disease]].
+
+Although the [[Human Genome Project]] has progressively improved the fidelity of sequence determination, the overbearing complexity of the genome hinders the identification of associated or ultimately causal variants.<ref>{{Cite journal | doi = 10.1093/hmg/ddn250| pmid = 18852206| title = Genome-based prediction of common diseases: Advances and prospects| journal = Human Molecular Genetics| volume = 17| issue = R2| pages = R166–73| year = 2008| last1 = Janssens | first1 = A. C. J. W. | last2 = Van Duijn | first2 = C. M.| doi-access = | hdl = 1765/30307| hdl-access = free}}</ref> In particular, there are likely to be a large number of implicated [[Locus (genetics)|genetic loci]] which exhibit small marginal effects.<ref name=potential1>{{Cite journal | doi = 10.1073/pnas.0903103106| title = Potential etiologic and functional implications of genome-wide association loci for human diseases and traits| journal = Proceedings of the National Academy of Sciences| volume = 106| issue = 23| pages = 9362–7| year = 2009| last1 = Hindorff | first1 = L. A.| last2 = Sethupathy | first2 = P.| last3 = Junkins | first3 = H. A.| last4 = Ramos | first4 = E. M.| last5 = Mehta | first5 = J. P.| last6 = Collins | first6 = F. S.| last7 = Manolio | first7 = T. A. | pmid=19474294 | pmc=2687147| bibcode = 2009PNAS..106.9362H| doi-access = free}}</ref>
+
+== Objectives ==
+
+A number of short- and long-term goals exist for predictive genomics. The identification of associated variants underpin all other downstream endeavors that point toward better data-cum-knowledge outcomes. In particular, those outcomes that facilitate clinical improvement and individualised healthcare further lead to actionable measures in [[Medical diagnosis|diagnosis]], [[prognosis]] and [[Preventive healthcare|prevention]].
+[[File:Predictive Genomics Objectives.png|thumb|Objectives as a hierarchy for predictive genomics.]]
+
+=== Identify associated variants to disease ===
+
+Whilst the single-gene, single-disease hypothesis holds for Mendelian disorders such as [[Huntington's disease]] and [[cystic fibrosis]], complex diseases and traits are affected by a number of gene loci and genetic variants with varying risk.<ref name=goddard1 /> A precursor to the development of preventative, prognostic and diagnostic tools in these diseases requires mapping genetic loci in disease etiology and discovering causal mutations.<ref>{{Cite journal | doi = 10.1016/j.gde.2008.07.006| pmid = 18682292| title = Prediction of individual genetic risk of complex disease| journal = Current Opinion in Genetics & Development| volume = 18| issue = 3| pages = 257–263| year = 2008| last1 = Wray | first1 = N. R. | last2 = Goddard | first2 = M. E. | author-link2 = Michael E. Goddard| last3 = Visscher | first3 = P. M. }}</ref> Creating a 'genomic profile' of individuals with the number of variants at the genome-wide level facilitates not only the prediction of disease prior to onset, but also serves as a primer to increasing the knowledge of causal variants.<ref>{{Cite journal | doi = 10.1016/j.trsl.2009.09.005| pmid = 19931193| title = Genomic and personalized medicine: Foundations and applications| journal = Translational Research| volume = 154| issue = 6| pages = 277–87| year = 2009| last1 = Ginsburg | first1 = G. S. | last2 = Willard | first2 = H. F. }}</ref>
+
+The foremost difficulty in achieving this goal is to understand the functionality of these variants with respect to areas of physiological and molecular importance in conjunction with phenotype.<ref name=potential1 /> If associated variants are mapped to sequences with unknown function, then this restricts the ability for specific targeting in areas of interest. Therefore, the ability for predictive genomics to succeed also depends upon other related areas such as the functional annotation of the genome ([[ENCODE]]).<ref name=consensus1>{{Cite journal | doi = 10.1038/nrg2344| pmid = 18398418| title = Genome-wide association studies for complex traits: Consensus, uncertainty and challenges| journal = Nature Reviews Genetics| volume = 9| issue = 5| pages = 356–69| year = 2008| last1 = McCarthy | first1 = M. I. | last2 = Abecasis | first2 = G. A. R. | last3 = Cardon | first3 = L. R. | last4 = Goldstein | first4 = D. B. | last5 = Little | first5 = J. | last6 = Ioannidis | first6 = J. P. A. | last7 = Hirschhorn | first7 = J. N. | s2cid = 15032294}}</ref>
+
+=== Translation: research to clinical ===
+
+The identification of causal variants, genes and pathways leads to opportunities that bridge the divide between research and clinical usage. If successful, the subsequent discovery of therapeutic targets within implicated biological pathways have consequences for both treatment and prevention.<ref>{{Cite journal | doi = 10.1186/gm174| pmid = 20701793| title = Predictive biomarker discovery through the parallel integration of clinical trial and functional genomics datasets| journal = Genome Medicine| volume = 2| issue = 8| page = 53| year = 2010| last1 = Swanton | first1 = C. | last2 = Larkin | first2 = J. M. | last3 = Gerlinger | first3 = M. | last4 = Eklund | first4 = A. C. | last5 = Howell | first5 = M. | last6 = Stamp | first6 = G. | last7 = Downward | first7 = J. | last8 = Gore | first8 = M. | last9 = Futreal | first9 = P. A. | last10 = Escudier | first10 = B. | last11 = Andre | first11 = F. | last12 = Albiges | first12 = L. | last13 = Beuselinck | first13 = B. | last14 = Oudard | first14 = S. | last15 = Hoffmann | first15 = J. | last16 = Gyorffy | first16 = B. Z. | last17 = Torrance | first17 = C. J. | last18 = Boehme | first18 = K. A. | last19 = Volkmer | first19 = H. | last20 = Toschi | first20 = L. | last21 = Nicke | first21 = B. | last22 = Beck | first22 = M. | last23 = Szallasi | first23 = Z. | pmc=2945010| doi-access = free}}</ref> Furthermore, the downstream effect of identifying disease-relevant biomarkers allow for improvements to monitoring disease progression and response-to-treatment, where the implementation of these results into [[clinical decision support system]]s (CDSS) facilitate personalised medicine and outcomes.<ref>{{Cite journal | doi = 10.1186/1472-6947-9-17| pmid = 19309514| pmc = 2666673| title = A national clinical decision support infrastructure to enable the widespread and consistent practice of genomic and personalized medicine| journal = BMC Medical Informatics and Decision Making| volume = 9| page = 17| year = 2009| last1 = Kawamoto | first1 = K. | last2 = Lobach | first2 = D. F. | last3 = Willard | first3 = H. F. | last4 = Ginsburg | first4 = G. S. | doi-access = free}}</ref> Even if only marginally effectual, the repeated replication of associated variants can offer significant translational value.<ref name=consensus1 />
+
+=== Individualising healthcare ===
+
+The significance of translation from research to clinical usage relates to use of the complete knowledge of an individual to develop personalised approaches to disease management. The caveat with this is that there have been difficulties in both prediction and inference for complex diseases.<ref name=missing>{{Cite journal | last1 = Manolio | first1 = T. A. | last2 = Collins | first2 = F. S. | last3 = Cox | first3 = N. J. | last4 = Goldstein | first4 = D. B. | last5 = Hindorff | first5 = L. A. | last6 = Hunter | first6 = D. J. | last7 = McCarthy | first7 = M. I. | last8 = Ramos | first8 = E. M. | last9 = Cardon | first9 = L. R. | doi = 10.1038/nature08494 | last10 = Chakravarti | first10 = A. | last11 = Cho | first11 = J. H. | last12 = Guttmacher | first12 = A. E. | last13 = Kong | first13 = A. | last14 = Kruglyak | first14 = L. | last15 = Mardis | first15 = E. | last16 = Rotimi | first16 = C. N. | last17 = Slatkin | first17 = M. | last18 = Valle | first18 = D. | last19 = Whittemore | first19 = A. S. | last20 = Boehnke | first20 = M. | last21 = Clark | first21 = A. G. | last22 = Eichler | first22 = E. E. | last23 = Gibson | first23 = G. | last24 = Haines | first24 = J. L. | last25 = MacKay | first25 = T. F. C. | last26 = McCarroll | first26 = S. A. | last27 = Visscher | first27 = P. M. | title = Finding the missing heritability of complex diseases | journal = Nature | volume = 461 | issue = 7265 | pages = 747–753 | year = 2009 | pmid =  19812666| pmc =2831613 | bibcode = 2009Natur.461..747M }}</ref> Therefore, unless individuals have an overwhelming high or low number of risk [[alleles]], there is a limit to the predictive accuracy of their 'genomic profiles'. However, preliminary examples of predictive genomics for personalising healthcare include: using an individual's [[gene expression]] data to monitor progress to treatment,<ref>{{Cite journal
+ | pmid = 12869696
+| pmc = 170965
+| year = 2003
+| last1 = Gunther
+| first1 = E. C.
+| title = Prediction of clinical drug efficacy by classification of drug-induced genomic expression profiles in vitro
+| journal = Proceedings of the National Academy of Sciences
+| volume = 100
+| issue = 16
+| pages = 9608–13
+| last2 = Stone
+| first2 = D. J.
+| last3 = Gerwien
+| first3 = R. W.
+| last4 = Bento
+| first4 = P
+| last5 = Heyes
+| first5 = M. P.
+| doi = 10.1073/pnas.1632587100
+| bibcode = 2003PNAS..100.9608G
+| doi-access = free
+}}</ref> or using the genomic profile of the P450 drug metabolising system of individuals to assist dosage and selection.<ref>{{Cite journal
+ | pmid = 16771600
+| year = 2006
+| last1 = De Leon
+| first1 = J
+| title = The Ampli ''Chip'' CYP450 genotyping test: Integrating a new clinical tool
+| journal = Molecular Diagnosis & Therapy
+| volume = 10
+| issue = 3
+| pages = 135–51
+| last2 = Susce
+| first2 = M. T.
+| last3 = Murray-Carmichael
+| first3 = E
+ | doi=10.1007/bf03256453
+| s2cid = 27626247
+}}</ref>
+
+== Applications in complex human diseases ==
+
+In the table below is a performance comparison of diseases selected on disease frequency and known heritability estimates, with use of [[single-nucleotide polymorphism]] (SNP) based models reflecting known genetic factors for a European population (subject to change as more associations are discovered).<ref name=compare/>
+<math>K</math> denotes lifetime morbid risk, <math>h^2_L</math> denotes heritability of liability, <math>AUC</math> denotes area under the ROC curve.
+{| class="wikitable sortable"
+|-
+! Disease !! <math>K</math> !! <math>h^2_L</math> !! <math>AUC</math>
+|-
+| [[Coronary artery disease]] || 0.402 || 0.49 || 0.584
+|-
+| [[Diabetes mellitus type 2|Type 2 diabetes]] || 0.339 || 0.30 || 0.592
+|-
+| [[Atrial fibrillation]] || 0.245 || 0.62 || 0.593
+|-
+| [[Stroke]] || 0.190 || 0.17 || 0.528
+|-
+| [[Prostate cancer]] || 0.165 || 0.42 || 0.614
+|-
+| [[Alzheimer's disease|Alzheimer disease]] || 0.132 || 0.79 || 0.648
+|-
+| [[Breast cancer]] || 0.123 || 0.25 || 0.586
+|-
+| [[Lung cancer]] || 0.069 || 0.08 || 0.525
+|-
+| [[Bipolar disorder]] || 0.051 || 0.60 || 0.550
+|-
+| [[Colorectal cancer]] || 0.051 || 0.13 || 0.564
+|-
+| [[Macular degeneration|Age-related macular degeneration]] || 0.047 || 0.71 || 0.758
+|-
+| [[Bladder cancer]] || 0.024 || 0.08 || 0.577
+|-
+| [[Multiple sclerosis]] || 0.020 || 0.51 || 0.622
+|-
+| [[Melanoma]] || 0.020 || 0.21 || 0.640
+|-
+| [[Diabetes mellitus type 1|Type 1 diabetes]] || 0.018 || 0.87 || 0.638
+|-
+| [[Parkinson's disease|Parkinson disease]] || 0.016 || 0.27 || 0.592
+|-
+| [[Pancreatic cancer]] || 0.015 || 0.36 || 0.557
+|-
+| [[Ovarian cancer]] || 0.014 || 0.22 || 0.548
+|-
+| [[Thyroid cancer]] || 0.010 || 0.53 || 0.614
+|-
+| [[Ulcerative colitis]] || 0.009 || 0.53 || 0.666
+|-
+| [[Schizophrenia]] || 0.007 || 0.66 || 0.540
+|-
+| [[Coeliac disease|Celiac disease]] || 0.007 || 0.75 || 0.733
+|-
+| [[Crohn's disease]] || 0.005 || 0.56 || 0.717
+|}
+
+In the applications of predictive genomics below, these complex diseases either lack or are lacking reliable diagnostics for disease. Given the medical consequences of these diseases, the economic impact is also significant. However, none of the use cases below has been translated into the clinic.
+
+=== Age-related macular degeneration ===
+
+[[Macular degeneration|Age-related macular degeneration]] (AMD) is one of the flagship complex diseases from the genomic revolution with over 19 associated genetic loci replicated in GWA studies.<ref name=seven1>{{Cite journal | doi = 10.1038/ng.2578| pmid = 23455636| title = Seven new loci associated with age-related macular degeneration| journal = Nature Genetics| volume = 45| issue = 4| pages = 433–9, 439e1–2| year = 2013| last1 = Fritsche | first1 = L. G. | last2 = Chen | first2 = W. | last3 = Schu | first3 = M. | last4 = Yaspan | first4 = B. L. | last5 = Yu | first5 = Y. | last6 = Thorleifsson | first6 = G. | last7 = Zack | first7 = D. J. | last8 = Arakawa | first8 = S. | last9 = Cipriani | first9 = V. | last10 = Ripke | first10 = S. | last11 = Igo | first11 = R. P. | last12 = Buitendijk | first12 = G. L. H. S. | last13 = Sim | first13 = X. | last14 = Weeks | first14 = D. E. | last15 = Guymer | first15 = R. H. | last16 = Merriam | first16 = J. E. | last17 = Francis | first17 = P. J. | last18 = Hannum | first18 = G. | last19 = Agarwal | first19 = A. | last20 = Armbrecht | first20 = A. M. | last21 = Audo | first21 = I. | last22 = Aung | first22 = T. | last23 = Barile | first23 = G. R. | last24 = Benchaboune | first24 = M. | last25 = Bird | first25 = A. C. | last26 = Bishop | first26 = P. N. | last27 = Branham | first27 = K. E. | last28 = Brooks | first28 = M. | last29 = Brucker | first29 = A. J. | last30 = Cade | first30 = W. H. | display-authors = 29 | pmc=3739472}}</ref> In particular, the first significant genetic risk variant was identified in the complement factor H(''CFH'') gene in 2005 motivating the search for more genetic variants in the disease. Over the past decade, a number of models have been proposed to assess individual risk to AMD.<ref>{{Cite book | doi = 10.1007/978-1-4614-3209-8_37| pmid = 24664710| chapter = Genetic Risk Models in Age-Related Macular Degeneration| title = Retinal Degenerative Diseases| volume = 801| pages = 291–300| series = Advances in Experimental Medicine and Biology| year = 2014| last1 = Grassmann | first1 = F. | last2 = Heid | first2 = I. M. | last3 = Weber | first3 = B. H. F. | isbn = 978-1-4614-3208-1}}</ref> The genetic predisposition of AMD risk varies from 45% to 71% where highly effectual [[odds ratio]]s (OR) have been reported (greater than 2.0 per allele in some cases).<ref name=seven1 /> In 2013, a comprehensive case-control GWA study with approximately 77,000 observations involving 18 international research groups from the International AMD Genetics Consortium implicated 19 gene loci and 9 [[biological pathway]]s including the regulation of complement, [[lipid metabolism]] and [[Angiogenesis|angiogenic]] activity. The predictive performance of the full model including all 19 loci exhibited 0.74 [[Area under the curve|AUC]] - according to Jakobsdottir et al., 0.75 AUC is sufficient to distinguish between extreme cases and controls.<ref name=odds>{{Cite journal | doi = 10.1371/journal.pgen.1000337| pmid = 19197355| title = Interpretation of Genetic Association Studies: Markers with Replicated Highly Significant Odds Ratios May Be Poor Classifiers| journal = PLOS Genetics| volume = 5| issue = 2| article-number = e1000337| year = 2009| last1 = Jakobsdottir | first1 = J. | last2 = Gorin | first2 = M. B. | last3 = Conley | first3 = Y. P. | last4 = Ferrell | first4 = R. E. | last5 = Weeks | first5 = D. E. | pmc=2629574| doi-access = free}}</ref> In particular, of the 19 associated gene loci, there were 7 newly discovered loci, which the authors point to as additional entry points into AMD etiology and [[Biological target#Drug targets|drug targets]].<ref name=seven1/>
+
+=== Type 2 diabetes ===
+
+[[Diabetes mellitus type 2|Type 2 diabetes]] (T2D), an extremely common metabolic disorder, has demonstrated interplay between many environmental and genetic risk factors leading to disease onset.<ref>{{Cite journal | doi = 10.1371/journal.pmed.0020345| pmid = 17570749| title = Genetic Prediction of Future Type 2 Diabetes| journal = PLOS Medicine| volume = 2| issue = 12| article-number = e345| year = 2005| last1 = Lyssenko | first1 = V. | last2 = Almgren | first2 = P. | last3 = Anevski | first3 = D. | last4 = Orho-Melander | first4 = M. | last5 = Sjögren | first5 = M. | last6 = Saloranta | first6 = C. | last7 = Tuomi | first7 = T. | last8 = Groop | first8 = L. | pmc=1274281| doi-access = free}}</ref> A number of risk assessment models incorporating a number of demographic, environmental and clinical risk factors are already shown to elicit reasonable discrimination in case-control studies; it has been proposed that identifying genetic variants that contribute to T2D as for standalone prediction or in conjunction with current risk models can improve prediction of T2D risk, if current models lack sufficient coverage of the full effect of an individual's genotype.<ref name=utility1>{{Cite journal | doi = 10.1136/bmj.b4838| pmid = 20075150| pmc = 2806945| title = Utility of genetic and non-genetic risk factors in prediction of type 2 diabetes: Whitehall II prospective cohort study| journal = BMJ| volume = 340| article-number = b4838| year = 2010| last1 = Talmud | first1 = P. J. | last2 = Hingorani | first2 = A. D. | last3 = Cooper | first3 = J. A. | last4 = Marmot | first4 = M. G. | last5 = Brunner | first5 = E. J. | last6 = Kumari | first6 = M.| last7 = Kivimaki | first7 = M.| last8 = Humphries | first8 = S. E. }}</ref> Approximately 20 associated SNPs have been replicated in T2D; however, their effect sizes do not seem to be substantial: OR 1.37 for SNPs in the ''TCF7L2'' gene purported to give highest genetic risk.<ref>{{Cite journal | doi = 10.1056/NEJMoa0804742| pmid = 19020323| title = Genotype Score in Addition to Common Risk Factors for Prediction of Type 2 Diabetes| journal = New England Journal of Medicine| volume = 359| issue = 21| pages = 2208–19| year = 2008| last1 = Meigs | first1 = J. B. | last2 = Shrader | first2 = P. | last3 = Sullivan | first3 = L. M. | last4 = McAteer | first4 = J. B. | last5 = Fox | first5 = C. S. | last6 = Dupuis | first6 = J. E. | last7 = Manning | first7 = A. K. | last8 = Florez | first8 = J. C. | last9 = Wilson | first9 = P. W. F. | last10 = d'Agostino | first10 = R. B. | last11 = Cupples | first11 = L. A. | pmc=2746946}}</ref>
+
+In 2009, a study was conducted on the WTCCC (GWA study involving 7 cohorts with 7 diseases: including [[bipolar disorder]], [[Crohn's disease]], [[hypertension]], [[rheumatoid arthritis]], [[Diabetes mellitus type 1|Type I Diabetes]] (T1D) and [[Diabetes mellitus type 2|Type II Diabetes]] (T2D)).<ref name=harness>{{Cite journal | doi = 10.1093/hmg/ddp295| pmid = 19553258| title = Harnessing the information contained within genome-wide association studies to improve individual prediction of complex disease risk| journal = Human Molecular Genetics| volume = 18| issue = 18| pages = 3525–31| year = 2009| last1 = Evans | first1 = D. M.| last2 = Visscher | first2 = P. M.| last3 = Wray | first3 = N. R.| doi-access = free}}</ref> With particular attention to T2D, Evans et al. were able to discern a marginal increase in AUC (+0.04) based on genome-wide information with respect to known susceptible variants.<ref name=harness/> However, non-genetic based tests such as the Cambridge and Framingham offspring risk scores have been purported to perform better than genetic-risk models with 20 loci.<ref name=utility1/> Moreover, the addition of genetic risk with these phenotypical models did not produce statistically significant AUC results.
+
+=== Celiac disease ===
+
+[[Celiac disease]] (CD) is a complex immune disorder that has been found to have strong genetic links in disease. In particular, [[human leukocyte antigen]]  (HLA) genes are strongly implicated in CD development and HLA testing is undertaken in clinical practice. However, although there are serological and histological tests available for CD, these clinical screenings have been found to generate false positives.<ref name=accurate>{{Cite journal | doi = 10.1371/journal.pgen.1004137| pmid = 24550740| title = Accurate and Robust Genomic Prediction of Celiac Disease Using Statistical Learning| journal = PLOS Genetics| volume = 10| issue = 2| article-number = e1004137| year = 2014| last1 = Abraham | first1 = G. | last2 = Tye-Din | first2 = J. A. | last3 = Bhalala | first3 = O. G. | last4 = Kowalczyk | first4 = A. | last5 = Zobel | first5 = J. | last6 = Inouye | first6 = M. | pmc=3923679| doi-access = free}}</ref> In 2014, Abraham et al. used a genomic risk score (GRS) generated over 6 cohorts with an AUC of 0.86 to 0.90.<ref name=accurate/>
+
+== Limitations ==
+
+For predictive genomics to address their objectives, there must be an improvement in the accuracy of prediction through added methods or improvements to current techniques and to demonstrate that there is bonafide improvement in patient outcomes. Currently, although [[Receiver operating characteristic#Area under the curve|AUC]] (Area Under the ROC) is the de facto metric in comparing and evaluating the performance of predictive models, there is no consensus as to what kind of score is sufficient for clinical use. Jakobsdottir et al. states that 0.75 AUC is sufficient for discriminating between clear cases and controls; however, this is still arbitrary.<ref name=odds/> The [[Positive and negative predictive values#Positive predictive value|positive predictive value]] (PPV) must be high enough to avoid a higher prevalence of false-positives.
+
+=== Variants in prediction: SNPs and alternatives ===
+
+SNPs identified in GWA studies are considered to give better predictive performance if they have high effect sizes of Odds Ratios (OR). A case study involving 5 use cases of genomic prediction demonstrate that SNPs with extremely small p-values, and by implication extreme OR do not give extreme differences in discrimination.<ref name=odds/> They point out that use of significantly associated genetic variants does not necessarily lead to better classification. Alternatively, [[Copy-number variation|CNV]] (copy number variants) have been proposed to usurp SNPs as better candidates for prediction with [[Body mass index|BMI]] stratified across different ethnicities demonstrating better, although marginal, improvement of CNVs over SNPs for prediction.<ref>{{Cite journal | doi = 10.1186/1471-2164-15-368| pmid = 24884913| pmc = 4035084| title = On the association of common and rare genetic variation influencing body mass index: A combined SNP and CNV analysis| journal = BMC Genomics| volume = 15| page = 368| year = 2014| last1 = Peterson | first1 = R. E. | last2 = Maes | first2 = H. H. | last3 = Lin | first3 = P. | last4 = Kramer | first4 = J. R. | last5 = Hesselbrock | first5 = V. M. | last6 = Bauer | first6 = L. O. | last7 = Nurnberger | first7 = J. I. | last8 = Edenberg | first8 = H. J. | last9 = Dick | first9 = D. M. | last10 = Webb | first10 = B. T. | issue = 1| doi-access = free}}</ref> Furthermore, a comparison of over 10 complex disorders in prediction with respect to family history and SNPs for prediction did not suggest better discrimination with SNPs.<ref name=compare>{{Cite journal | doi = 10.1371/journal.pgen.1002973| title = Comparison of Family History and SNPs for Predicting Risk of Complex Disease| journal = PLOS Genetics| volume = 8| issue = 10| article-number = e1002973| year = 2012| last1 = Do | first1 = C. B. | last2 = Hinds | first2 = D. A. | last3 = Francke | first3 = U. | last4 = Eriksson | first4 = N. | pmid=23071447 | pmc=3469463| doi-access = free}}</ref>
+
+=== Interacting variants: higher order analysis ===
+
+Currently, the prevailing standard of risk models focus on univariate analysis rather than focusing upon interactions of higher order. Therefore, although typical GWA studies are able to detect a number of statistically significant loci, they have not been sufficient to fully explain the estimates of theoretical genetic heritability.<ref name=missing/> It has been demonstrated by Goudey et al. that both 2-way and 3-way interactions between SNPs are able to explain trait variance relative to single SNPs.<ref name=gwis>{{Cite journal | doi = 10.1186/1471-2164-14-S3-S10| title = GWIS - model-free, fast and exhaustive search for epistatic interactions in case-control GWAS| journal = BMC Genomics| volume = 14| pages = S10| year = 2013| last1 = Goudey | first1 = B. | last2 = Rawlinson | first2 = D. | last3 = Wang | first3 = Q. | last4 = Shi | first4 = F. | last5 = Ferra | first5 = H. | last6 = Campbell | first6 = R. M. | last7 = Stern | first7 = L. | last8 = Inouye | first8 = M. T. | last9 = Ong | first9 = C. S. | last10 = Kowalczyk | first10 = A. | issue = Suppl 3| pmid=23819779 | pmc=3665501| doi-access = free}}</ref> Goudey et al. also states that the barrier to expansion of higher order interactions has been limited by the intractability of exhaustive search techniques (see [[NP-complete]]).
+
+=== Population: size and scope ===
+
+The issues surrounding sample size and number of variants become exacerbated particularly when GWA studies consider variants of volume in the order of millions. Therefore, due to the current constraints in the curse of dimensionality, prior screening methods that decrease the number of loci to below the number of observations may be used before modelling disease risk.<ref>{{Cite journal
+ | pmid = 15522460
+| year = 2004
+| last1 = Thornton-Wells
+| first1 = T. A.
+| title = Genetics, statistics and human disease: Analytical retooling for complexity
+| journal = Trends in Genetics
+| volume = 20
+| issue = 12
+| pages = 640–7
+| last2 = Moore
+| first2 = J. H.
+| last3 = Haines
+| first3 = J. L.
+| doi = 10.1016/j.tig.2004.09.007
+| citeseerx = 10.1.1.325.3919
+}}</ref> Hayes et al. states that population size must be >100,000 in order to achieve high accuracy under their model assumptions; the exception is the case where there is a small effective population size.<ref name=cow>{{Cite journal | doi = 10.1371/journal.pgen.1001139| pmid = 20927186| title = Genetic Architecture of Complex Traits and Accuracy of Genomic Prediction: Coat Colour, Milk-Fat Percentage, and Type in Holstein Cattle as Contrasting Model Traits| journal = [[PLOS Genetics]]| volume = 6| issue = 9| article-number = e1001139| year = 2010| last1 = Hayes | first1 = B. J. | last2 = Pryce | first2 = J. | last3 = Chamberlain | first3 = A. J. | last4 = Bowman | first4 = P. J. | last5 = Goddard | first5 = M. E. | author-link5 = Michael E. Goddard | pmc=2944788| doi-access = free}} {{open access}}</ref> Furthermore, ethnic specific GWA studies show that each group has varied detectability of variants in terms of: frequency, [[linkage disequilibrium]]&nbsp;– the co-inheritance of SNPs through generations&nbsp;– and the actual loci themselves.<ref>{{Cite journal | doi = 10.1007/s10709-008-9308-0| pmid = 18704696| title = Genomic selection: Prediction of accuracy and maximisation of long term response| journal = Genetica| volume = 136| issue = 2| pages = 245–57| year = 2008| last1 = Goddard | first1 = M. | s2cid = 1780250| author-link1 = Michael E. Goddard}}</ref>
+
+== Other applications ==
+
+Predictive genomics has not been constrained to prediction of complex diseases. For instance, Hayes et al. uses genomic prediction for livestock, crop and forage species selection, where predicted results are currently in use.<ref name=cow /> Furthermore, Kambouris et al. discusses the use of 'genomic profiles' for the performance of elite athletes noting individualised and personalised training regimens for both dietary and physical aspects.<ref>{{Cite journal
+ | pmid = 22827597
+| year = 2012
+| last1 = Kambouris
+| first1 = M
+| title = Predictive genomics DNA profiling for athletic performance
+| journal = Recent Patents on DNA & Gene Sequences
+| volume = 6
+| issue = 3
+| pages = 229–39
+| last2 = Ntalouka
+| first2 = F
+| last3 = Ziogas
+| first3 = G
+| last4 = Maffulli
+| first4 = N
+ | doi=10.2174/187221512802717321
+}}</ref> Additionally, Kayser et al. point to [[DNA profiling]] in forensics as a beneficiary of the genomic revolution.<ref>{{Cite journal | doi = 10.1038/nrg2952| pmid = 21331090| title = Improving human forensics through advances in genetics, genomics and molecular biology| journal = Nature Reviews Genetics| volume = 12| issue = 3| pages = 179–92| year = 2011| last1 = Kayser | first1 = M. | last2 = De Knijff | first2 = P. | s2cid = 6448781}}</ref> Functionally validating novel genetic findings is crucial in rare disease. However, the analysis of individual genetic variants often requires several years of work. Variants that are most likely to occur and present as disease-causing can be predicted; distinct from and supplementary to pathogenicity prediction. This application guides research to test the effect of top candidate variants in preparation for novel disease cases.<ref>{{Cite journal
+ | pmid = 31388879
+| year = 2019
+| last1 = Lawless
+| first1 = D
+| title = Predicting the Occurrence of Variants in RAG1 and RAG2
+| journal = Journal of Clinical Immunology
+| last2 = Lango Allen
+| first2 = H
+| last3 = Thaventhiran
+| first3 = J
+| last4 = NIHR BioResource–Rare Diseases Consortium
+| last5 = Hodel
+| first5 = F
+| last6 = Anwar
+| first6 = R
+| last7 = Fellay
+| first7 = J
+| last8 = Walter
+| first8 = J
+| last9 = Savic
+| first9 = S
+| doi=10.1007/s10875-019-00670-z
+| doi-access = free
+ | volume = 39
+ | issue = 7
+| pmc = 6754361
+ | pages = 688–701
+}}</ref>
+
+== See also ==
+
+* [[Predictive medicine]]
+* [[Pharmacogenomics]]
+* [[Clinical decision support system]]
+* [[Personal genomics]]
+* [[Human Genome Project]]
+* [[Statistics]]
+* [[Machine learning]]
+* [[Receiver operating characteristic]]
+* [[Odds ratio]]
+* [[Logistic regression]]
+* [[Single-nucleotide polymorphism]]
+* [[Copy-number variation]]
+* [[Translational bioinformatics]]
+
+== References ==
+{{Reflist|35em}}
+
+[[Category:Genomics]]

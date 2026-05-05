@@ -1,0 +1,109 @@
+{{Short description|American psychologist}}
+{{Infobox person
+| name        = John Ridley Stroop
+| image                     = <!-- just the name, without the File: or Image: prefix or enclosing [[brackets]] -->
+| alt         = 
+| caption     = 
+| birth_name  = 
+| birth_date  = {{Birth date|1897|03|21}}
+| birth_place = [[Rutherford County, Tennessee]]
+| baptised              = 1913
+| other_names = J. R. Stroop
+| death_date  = {{Death date and age|1973|09|01|1897|03|21}} <!--(death date then birth date) -->
+| death_place = [[Nashville, Tennessee]]
+| death_cause               = 
+| body_discovered           = 
+| resting_place             = Woodlawn Cemetery<br>Nashville, Tennessee
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline}} -->
+| education      = Ph.D. in [[Experimental Psychology]]
+| alma_mater   = [[Peabody College]]
+| years_active  = 1921–1968
+| employer       = 
+| organization = [[David Lipscomb University|David Lipscomb College]]
+| occupation  = Teacher
+| known_for        = [[Stroop effect]]
+| notable_works = 
+| boards                    = <!-- Board of Directors -->
+| spouse                    = Zelma Dunn, great niece of Margaret Zellner, wife of [[David Lipscomb]]
+| children                  = 3 sons
+| parents                   = 
+| website                   = <!-- {{URL|www.example.com}} -->
+| footnotes                 = <ref name="MacLeod-Bio">{{cite journal | title=John Ridley Stroop: Creator of a landmark cognitive task | author=MacLeod, Colin M. | journal=Canadian Psychology |date=July 1991 | volume=32 | issue=3 | pages=521–524 | doi=10.1037/h0079012| hdl=11858/00-001M-0000-002C-5641-3 | s2cid=147412399 | hdl-access=free }}</ref><ref name="MacLeod.uwaterloo">{{Cite web
+ |last        = MacLeod
+ |first       = Colin M.
+ |title       = John Ridley Stroop: Creator of a landmark cognitive task
+ |url         = http://www.arts.uwaterloo.ca/~cmacleod/Research/Stroopbiog.htm
+ |publisher   = University of Waterloo
+ |access-date  = 9 October 2013
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20141006173032/http://www.arts.uwaterloo.ca/~cmacleod/Research/Stroopbiog.htm
+ |archive-date = 6 October 2014
+}}</ref>
+}}
+'''John Ridley Stroop''' ({{IPAc-en|s|t|r|uː|p}}; March 21, 1897 – September 1, 1973), better known as '''J. Ridley Stroop''', was an American psychologist whose research in [[cognition]] and [[Interference theory|interference]] continues to be considered by some as the [[gold standard (test)|gold standard]] in [[Attentional control|attentional studies]] and profound enough to continue to be cited for relevance into the 21st century.<ref name="MacLeod-Bio"/><ref name="MacLeod-Gold_Std">{{cite journal | title=The Stroop task: The "gold standard" of attentional measures. | author=MacLeod, Colin M. | journal=Journal of Experimental Psychology: General |date=March 1992 | volume=121 | issue=1 | pages=12–14 | doi=10.1037/0096-3445.121.1.12}}</ref> However, Christianity was the real passion of his life; psychology was simply an occupation.<ref name="MacLeod.uwaterloo"/>
+
+==Early life==
+John Ridley Stroop was born in the rural community of Hall's Hill, outside [[Murfreesboro, Tennessee|Murfreesboro]] in [[Rutherford County, Tennessee]].<ref name="MacLeod-Bio"/> In poor health as an infant, his family thought that he was not going to live long so he was spared part of the heaviest farm work.<ref name="MacLeod-Bio"/> Stroop was brilliant in his local county school at Kitrell, finishing the first of his class. He attended [[David Lipscomb Campus School|David Lipscomb High School]] in Nashville, graduating in 1919. Stroop then began to study at [[Lipscomb University|David Lipscomb College]], then a two-year junior college, in [[Nashville, Tennessee]], an institution where he would later return as a faculty member after his university doctoral work. Two years later, in 1921, he obtained his diploma from Lipscomb, graduating first in his class.<ref name="MacLeod.uwaterloo"/>
+
+On December 23, 1921, Stroop married Zelma Dunn (1899-1988) with whom he had 3 sons. Zelma was the great-niece of [[Margaret Zellner]], wife of [[David Lipscomb]].<ref name="MacLeod-Bio"/>
+
+==Academic career==
+Stroop spent his academic career at [[George Peabody College]] in [[Nashville, Tennessee|Nashville]] while also teaching courses at David Lipscomb College. He received his B.S. degree in 1924 and his M.S. in 1925.<ref name="MacLeod.uwaterloo"/>
+
+[[File:Stroop stimuli (cropped).png|thumb|Stroop's research into what became known as the [[Stroop effect]] showed that it takes  more time to name the color of a word where the word does not correspond to that color (conflict), than to name the color of a square (no conflict).]]
+
+Stroop's doctoral studies at Peabody were focused on [[Experimental Psychology]] with a minor in [[Educational Psychology]]. His research at the [[Morris Ketchum Jesup|Jesup]] Psychological Laboratory and his dissertation were under the direction of Joseph Peterson.<ref name="MacLeod.uwaterloo"/> Stroop's research was built on studies in the early 1880s by [[James McKeen Cattell|Cattell]] under the direction of [[Wilhelm Wundt]] to measure mental processes involving naming objects as well as reading object names. The elegance of Stroop's research was to apply experimental rigor and a clarity of explanation that led to identification of the tested processes with his name.<ref name="MacLeod.uwaterloo"/> Stroop developed a color-word task to demonstrate interference between reading an object's name and naming an object, and explained some of its psychological characteristics, which were later named the [[Stroop effect]].<ref name="Classics"/><ref name="stroop">
+{{cite journal|title=Studies of interference in serial verbal reactions|journal=Journal of Experimental Psychology|year=1935
+|first=John Ridley|last=Stroop |volume=18|issue=6|pages=643–662|url=http://psychclassics.yorku.ca/Stroop/|access-date=2008-10-08|doi=10.1037/h0054651|hdl=11858/00-001M-0000-002C-5ADB-7|hdl-access=free}}</ref> Soon after producing his dissertation on the color-word task to obtain his Ph.D, Stroop left experimental [[psychology]]. He produced only two other papers related to the color-word task.<ref name="MacLeod.uwaterloo"/>
+
+After obtaining his doctorate, Stroop worked briefly for the Tennessee Educational Commission and also for the Tennessee Polytechnic Institute, now [[Tennessee Technological University]]. He soon returned to David Lipscomb College, where he served as Registrar for eleven years, and then as chair of the Psychology Department from 1948 to 1964.<ref name="Classics">{{cite journal | title=The Stroop color-word test – a review| author=Arthur R. Jensen | journal=Citation Classic Commentaries| year=1981 |  issue=39 }}</ref> Stroop continued to teach psychology and Biblical studies until he retired in 1967. He served one year as dean of [[Ohio Valley College]] in [[Parkersburg, West Virginia]] before returning to Lipscomb as Emeritus Professor of Biblical Studies until his death on September 1, 1973.<ref name="MacLeod.uwaterloo"/>
+
+==Bibliography==
+Works he authored and edited were in the field of psychology and religion.
+
+===Psychology theses and dissertations===
+*A study of the inaccuracy of scoring handwriting by handwriting scales (1925)<ref name=Bibliography>{{cite web|title=Bibliography and Acknowledgments|url=http://blogs.acu.edu/johnridleystroop/bibliography/#.VBh7TRZ3Ypo|archive-url=https://web.archive.org/web/20160128030918/http://blogs.acu.edu/johnridleystroop/bibliography/#.VBh7TRZ3Ypo|url-status=dead|archive-date=January 28, 2016|website=John Ridley Stroop Digital Archive|publisher=Center for Restoration Studies – Brown Library – Abilene Christian University|access-date=16 September 2014}}</ref>
+*Studies of interference in serial verbal reactions (1935)<ref name=Bibliography/>
+
+===Psychology articles===
+*Is the judgment of the group better than that of the average member of the group? (1932; Journal of Experimental Psychology, 15, 550–562)<ref name="MacLeod.uwaterloo"/><ref name=Bibliography/>
+*Studies of interference in serial verbal reactions (1935; Journal of Experimental Psychology, 18, 643–662)<ref name="MacLeod.uwaterloo"/> 
+*The basis of Ligon's theory (1935; American Journal of Psychology, 47, 499–504)<ref name="MacLeod.uwaterloo"/><ref name=Bibliography/>
+*Factors affecting speed in serial verbal reactions (1938; Psychological Monographs, 50, 38–48)<ref name="MacLeod.uwaterloo"/>
+
+===Religion works===
+*Why do people not see the Bible alike? (1949)<ref name=Bibliography/>
+*God's plan and me. Book 1, Jesus’ mission and method (1950)<ref name=Bibliography/>
+*God's Plan and Me, How to Inherit Eternal Life (1954)<ref name=Bibliography/>
+*Syllabus on later Hebrew history (1960)<ref name=Bibliography/>
+*God's Plan and Me (1950–1961)<ref name=Bibliography/>
+*The gospel in context (1961)<ref name=Bibliography/>
+*The church of the Bible (1962)<ref name=Bibliography/>
+*Syllabus on Paul's briefer epistles and the general epistles (1965)<ref name=Bibliography/>
+*Restoration ideas on church organization (1966)<ref name=Bibliography/>
+*Galatians : the sufficiency of the gospel without the law (1971)<ref name=Bibliography/>
+*The superiority of the Gospel over the Law : (Hebrews) (1972)<ref name=Bibliography/>
+*Romans : righteousness through faith (1973)<ref name=Bibliography/>
+*What shall we do with the new Bible (Revised Standard Version)<ref name=Bibliography/>
+*The faith that saves (1950–1970)<ref name=Bibliography/>
+*Does love demand or excuse? (1950–1970)<ref name=Bibliography/>
+*Syllabus on the epistles of Paul to the churches.<ref name=Bibliography/>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Librivox author |id=3645}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Stroop, John Ridley}}
+[[Category:1897 births]]
+[[Category:1973 deaths]]
+[[Category:American members of the Churches of Christ]]
+[[Category:20th-century American psychologists]]
+[[Category:Lipscomb University faculty]]
+[[Category:Peabody College alumni]]
+[[Category:People from Rutherford County, Tennessee]]
+[[Category:Lipscomb University alumni]]
+[[Category:Ohio Valley University people]]

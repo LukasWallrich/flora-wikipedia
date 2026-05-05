@@ -1,0 +1,37 @@
+{{More categories|date=March 2025}}{{more footnotes|date=April 2013}}
+
+The '''irrelevant speech effect''' (ISE) or irrelevant sound effect is the degradation of [[Serial position effect|serial recall]] of a list when sounds, especially speech sounds, are presented. This occurs even if the list items are presented visually. The sounds do not need to be a language the participant understands, or even a real language; human speech sounds are sufficient to produce this effect.
+
+The theory covers speech as well as music or other background sounds. There have been many studies on this theory and it has been consistently proven that unrelated or irrelevant background sounds inhibits one's ability to perform well at serial recall.<ref>Perham, N., Vizard, J. (July 28, 2010). Can preference for background music mediate the irrelevant sound effect? Applied Cognitive Psychology, 2010; DOI: 10.1002/acp.1731. Retrieved 2022-06-04.</ref>
+
+==Interference hypothesis==
+It is possible that the visual stimuli (the list of items) is held in [[working memory]] as a [[Baddeley's model of working memory#Phonological loop|phonological code]]. The phonological loop is composed of the articulatory rehearsal loop and the phonological store.<ref name="pmid8433641">{{cite journal|date=January 1993|title=Articulatory rehearsal and phonological storage in working memory|journal=[[Memory & Cognition]]|volume=21|issue=1|pages=11–22|doi=10.3758/bf03211160|pmid=8433641|vauthors=Longoni AM, Richardson JT, Aiello A|doi-access=free}}<!--|accessdate=2013-04-25--></ref> If that is the case, the irrelevant speech could interfere with the articulatory rehearsal process, degrading the information in the phonological store. This would result in degraded performance on trials where irrelevant speech is presented. However, the effect should be greater for words rehearsed longer (i.e., presented earlier in the series) since they are rehearsed more often, hence having more opportunity for degradation.
+
+==References==
+{{reflist}}
+
+== Further reading ==
+* {{cite journal
+|doi=10.3758/BF03196503
+|pmid=12921421 |author1=J. Richard Hanley |author2=Eirini Bakopoulou|year=2003
+|title=Irrelevant speech, articulatory suppression, and phonological similarity: A test of the phonological loop model and the feature model
+|journal=Psychonomic Bulletin & Review
+|volume=10
+|issue=2
+|pages=435–444
+|doi-access=free
+}}
+* {{cite journal
+|author=Elliott E. M.
+|date= April 1, 2008 |title=The irrelevant-speech effect and children: Theoretical implications of developmental change
+|journal=Memory & Cognition
+|volume=30
+|issue=3
+|pages=478–487
+|url=http://www.ingentaconnect.com/search/download;jsessionid=n2tsxhhua0ka.alice?pub=infobike%3a%2f%2fpsocpubs%2fmrc%2f2002%2f00000030%2f00000003%2fart00015&mimetype=application%2fpdf
+|access-date=2008-10-08
+ |doi=10.3758/bf03194948|pmid= 12061768 |doi-access=free
+}}
+
+{{DEFAULTSORT:Irrelevant Speech Effect}}
+[[Category:Memory]]

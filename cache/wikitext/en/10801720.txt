@@ -1,0 +1,62 @@
+{{Short description|Proposed medical condition resulting from insufficient contact with nature}}
+'''Nature-deficit disorder''' is a proposed set of behavioral problems that result when humans, especially children, spend less time outdoors. This putative condition is not recognized in standard medical manuals for mental disorders, such as the [[ICD-10]] or the [[DSM-5]].
+
+==History==
+
+This term was coined by [[Richard Louv]] in 2005.<ref>{{Cite book |last=Louv |first=Richard |title=Last Child in the Woods |publisher=Algonquin Books of Chapel Hill |year=2005 |edition=1st}}</ref> Louv claimed that the word "disorder" did not imply a medical condition but was rather a metaphor to describe the health costs of alienation from nature.<ref>{{Cite web |last=Suttie |first=Jill |date=September 15, 2016 |title=How to Protect Kids from Nature-Deficit Disorder |url=https://greatergood.berkeley.edu/article/item/how_to_protect_kids_from_nature_deficit_disorder |access-date=April 2, 2023 |website=Greater Good Magazine}}</ref><ref name=schools>[http://www.publicschoolinsights.org/node/2212 Last Child In The Woods Interview] {{webarchive|url=https://web.archive.org/web/20090126233913/http://www.publicschoolinsights.org/node/2212 |date=2009-01-26 }} by Claus von Zastrow, Public School Insights</ref> He cited parental fears and a lack of access to [[natural landscape]]s as causes for the condition.<ref name="Stiffler">{{Cite news | last = Stiffler | first = Lisa | title = Parents worry about 'nature-deficit disorder' in kids | newspaper = Seattle Post-Intelligencer | date = January 6, 2007 | url = http://www.seattlepi.com/local/298708_nature06.html }}</ref>
+
+In the USA, the [[Children & Nature Network]] was co-founded by Louv to support people and organizations that work to reconnect children with nature. The unrelated [[No Child Left Inside (movement)|No Child Left Inside]] movement has a similar mission and a presence in some US states.
+
+In [[Colombia]], [[OpEPA]] (''Organización para la Educación y Protección Ambiental''),<ref>{{Cite web |url=http://www.opepa.org/ |title=OpEPA – Organización para la Educación y Protección Ambiental – Inicio |access-date=2020-04-15 |archive-url=https://web.archive.org/web/20160810092951/http://opepa.org/ |archive-date=2016-08-10 }}</ref> founded in 1998, works to reconnect children and youth to nature so they can act with environmental responsibility.
+
+== Proposed effects and causes ==
+
+Nature-deficit disorder is unrecognized by most medical institutions. Some preliminary research shows that lack of time outdoors does have negative effects on children's mental well-being.<ref>{{cite journal |last1=Putra |first1=I Gusti Ngurah Edi |last2=Astell-Burt |first2=Thomas |last3=Cliff |first3=Dylan P. |last4=Vella |first4=Stewart A. |last5=John |first5=Eme Eseme |last6=Feng |first6=Xiaoqi |title=The Relationship Between Green Space and Prosocial Behaviour Among Children and Adolescents: A Systematic Review |journal=Frontiers in Psychology |date=2020 |volume=11 |page=859 |doi=10.3389/fpsyg.2020.00859 |pmid=32425867 |pmc=7203527 |doi-access=free }}</ref><ref>{{cite thesis |last1=Dwyre |first1=Vanessa |title=Nature Deficit Disorder and the Need for Environmental Education |date=8 May 2015 |url=https://research.library.fordham.edu/environ_2015/11/ }}</ref>
+
+Research on the impact of natural environments, particularly the concept of [[urban green space]], has shown certain supporting claims:
+* A study on Italian undergraduate students showed how mental [[fatigue]] can be alleviated quicker by exposure to natural environments.<ref>{{Cite journal |last=Berto |first=Rita |date=September 2005 |title=Exposure to restorative environments helps restore attentional capacity |url=https://www.sciencedirect.com/science/article/pii/S0272494405000381 |journal=Journal of Environmental Psychology |volume=25 |issue=3 |pages=249–259 |doi=10.1016/j.jenvp.2005.07.001 |via=Elsevier Science Direct|url-access=subscription }}</ref>
+* In [[Edinburgh]], a survey found that more exposure to green space helps increase [[self-esteem]] in young children.<ref>{{Cite journal |last1=McCraken |first1=Deborah S. |last2=Allen |first2=Deonie A. |last3=Gow |first3=Allen J. |date=June 2016 |title=Associations between urban greenspace and health-related quality of life in children |journal=Preventative Medicine Reports |volume=3 |pages=211–221 |doi=10.1016/j.pmedr.2016.01.013 |pmid=27419017 |pmc=4929180 }}</ref>
+* A study in the [[Netherlands]] found a correlation between [[urbanization]] and various mental and physical health issues.<ref>{{Cite journal |last1=Mass |first1=J. |last2=Verheij |first2=R. A. |last3=de Vries |first3=S. |last4=Spreeuwenberg |first4=P. |last5=Schellevis |first5=F. G. |last6=Groenewegen |first6=P. P. |date=October 2009 |title=Morbidity is related to a green living environment |url=https://jech.bmj.com/content/63/12/967 |journal=Journal of Epidemiology and Community Health |volume=63 |issue=12 |pages=967–973 |doi=10.1136/jech.2008.079038 |pmid=19833605 |s2cid=14724097 |via=PubMed National Library of Medicine|doi-access=free }}</ref>
+
+Richard Louv has proposed certain causes for the putative condition of nature deficit disorder:
+* Parents keeping children indoors in order to protect them from "[[stranger danger]]", thus disrupting their connections to nature.<ref name=Agitators>{{cite news|url=https://www.pghcitypaper.com/news-2/outside-agitators-1340829/|title=Outside Agitators|last=O'Driscoll|first=Bill|newspaper=[[Pittsburgh City Paper]]|date=2 October 2008|access-date=17 March 2009}}</ref><ref>{{Cite journal |last=Clements |first=Rhonda |date=March 2004 |title=An Investigation of the Status of Outdoor Play |journal=Contemporary Issues in Early Childhood |volume=5 |issue=1 |pages=938–942 |doi=10.2304/ciec.2004.5.1.10 |s2cid=144879568 |doi-access=free }}</ref>
+* Loss of direct access to natural landscapes, with restricted areas and "do not walk off the trail" signs in parks and [[nature reserve]]s. Louv argues that such protections harm children's relationships with nature and affect their "eco-cultural" identities.<ref name=Agitators/><ref>Milstein, T. & Castro-Sotomayor, J. (2020). Routledge Handbook of Ecocultural Identity. London, UK: Routledge. https://doi.org/10.4324/9781351068840</ref>
+Research in the USA found that [[redlining]] has tended to limit the access of [[Poverty|low-income]] and [[Social exclusion|marginalized communities]] to green space.<ref>{{Cite journal |last1=Locke |first1=Dexter H. |last2=Hall |first2=Billy |last3=Grove |first3=J. Morgan |last4=Pickett |first4=Stewart T. A. |last5=Ogden |first5=Laura A. |last6=Aoki |first6=Carissa |last7=Boone |first7=Christopher G. |last8=O'Neil-Dunne |first8=Jarlath P. M. |date=25 March 2021 |title=Residential housing segregation and urban tree canopy in 37 US Cities |journal=npj Urban Sustainability |volume=1 |issue=1 |page=15 |doi=10.1038/s42949-021-00022-0 |s2cid=226719053 |doi-access=free |bibcode=2021npjUS...1...15L }}</ref> One study suggested additional exposure of these groups to the proposed nature-deficit disorder.<ref>{{Cite journal |last1=Alvarez |first1=Evelyn N. |last2=Garcia |first2=Alexys |last3=Le |first3=Pauline |date=September 2022 |title=A review of Nature Deficit Disorder (NDD) and its disproportionate impacts on Latinx populations |url=https://www.sciencedirect.com/science/article/pii/S2211464522000343#:~:text=This%20review%20was%20initiated%20in%20order%20to%20address,PubMed%20that%20explicitly%20mention%20NDD%20in%20Latinx%20communities |journal=Environmental Development |volume=43 |article-number=100732 |doi=10.1016/j.envdev.2022.100732 |s2cid=249827870 |via=Elsevier Science Direct|url-access=subscription }}</ref>[[File:Rat rock 2 020.jpg|thumb|right|Bouldering site in urban park]]
+
+== Criticisms ==
+
+Elizabeth Dickinson, a professor of business communication at the [[University of North Carolina at Chapel Hill]], has criticized the proposed condition as a "a misdiagnosis—a problematic contemporary environmental discourse that can obscure and mistreat the problem". In her view, the problems described by nature-deficit disorder arise not from children's access to the outdoors but rather from adults' own "psyche and dysfunctional cultural practices".<ref name = Dickinson>{{cite journal |last1=Dickinson |first1=Elizabeth |title=The Misdiagnosis: Rethinking 'Nature-deficit Disorder' |journal=Environmental Communication |date=1 September 2013 |volume=7 |issue=3 |pages=315–335 |doi=10.1080/17524032.2013.802704 |s2cid=143904628 }}</ref> Dickinson suggests that humanity's alienation from nature has occurred gradually rather than recently; that people tend to idealize their own childhoods; and that [[Ecological literacy|nature education]] should be expanded to include emotional aspects alongside science.<ref name="Dickinson" />
+
+== See also ==
+* [[Biophilia hypothesis]]
+* [[Ecopsychology]]
+* [[Environmental psychology]]
+* [[Plant blindness]]
+* [[Wilderness therapy]]
+* [[Nature prescription]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Louv, Richard. (2011) ''The Nature Principle: Human Restoration and the End of Nature-Deficit Disorder.'' [[Algonquin Books]]. 303pp.
+* Louv, Richard.  (2005)  ''Last Child in the Woods: Saving Our Children from Nature-Deficit Disorder'' (Paperback edition).  Algonquin Books.  335pp.
+* Louv, Richard, ''Web of Life: Weaving the Values That Sustain Us''.
+
+==External links==
+* [http://www.richardlouv.com/ Richard Louv's website]
+* [https://www.childrenandnature.org/ Children & Nature Network]
+* [https://grist.org/article/louv/ An interview with Richard Louv about the need to get kids out into nature], by David Roberts, ''[[The Grist: Environmental News and Commentary]]'', 30 Mar 2006.
+* [https://www.npr.org/templates/story/story.php?storyId=4665933 Saving kids from nature-deficit disorder] – May 25, 2005, [[NPR]]
+* [https://archive.today/20130113072259/http://www.publicschoolinsights.org/?storyId=19854&index=11 Public School Insights' Interview with Richard Louv] – April 22, 2008
+* [https://web.archive.org/web/20120122160524/http://kidsoutside.info/ Chicago Wilderness Leave No Child Inside Initiative]
+* [http://treeday.planetark.org/documents/doc-812-planting-trees-report-2012-06-25-final.pdf Planet Ark's Research Report on Children & Nature in Australia]
+* [https://conservationtools.org/library_items/1360-Nature-Play-Nurturing-Children-and-Strengthening-Conservation-through-Connections-to-the-Land Nature Play: Nurturing Children and Strengthening Conservation through Connections to the Land]
+
+{{DEFAULTSORT:Nature Deficit Disorder}}
+[[Category:Natural environment]]
+[[Category:Developmental psychology]]
+[[Category:Environmental psychology]]
+[[Category:Outdoor education]]
+[[Category:Childhood]]
+[[Category:Biophilia hypothesis]]

@@ -1,0 +1,67 @@
+{{more citations needed|date=October 2008}}
+{{Infobox journal
+| title = Philosophical Psychology
+| cover =
+| editor = [[Lisa Bortolotti]]
+| discipline = [[Philosophy]]
+| abbreviation = Philos. Psychol.
+| publisher = [[Routledge]]
+| country =
+| frequency = 8 issues a year
+| history = 1988–present
+| openaccess =
+| impact = 1.573
+| impact-year = 2021
+| website = http://www.tandfonline.com/action/journalInformation?journalCode=cphp20
+| link1 = http://www.tandfonline.com/toc/cphp20/current
+| link1-name = Online access
+| link2 = http://www.tandfonline.com/loi/cphp20
+| link2-name = Online archive
+| OCLC = 290556522
+| LCCN = sn88026864
+| CODEN =
+| ISSN = 0951-5089
+| eISSN = 1465-394X
+}}
+'''''Philosophical Psychology''''' is a [[peer review|peer-reviewed]] [[academic journal]] devoted to the links between [[philosophy]] and [[psychology]].
+
+The journal publishes research in ethical and philosophical issues emerging from the [[cognitive sciences]], [[social sciences]], and [[affective sciences]], [[neurosciences]], [[comparative psychology]], [[clinical psychology]], [[psychopathology]], [[psychiatry]], [[psychoanalysis]], [[educational psychology]], [[health psychology]], [[analytic philosophy]], [[moral psychology]], phenomenology, history of psychology, and [[experimental philosophy]].
+
+According to the ''[[Journal Citation Reports]]'', the journal has a 2021 [[impact factor]] of 1.573.<ref name=WoS>{{cite book |year=2021 |chapter=Journals Ranked by Impact: Ethics |title=2021 Journal Citation Reports |publisher=[[Thomson Reuters]] |edition=Social Sciences |series=[[Web of Science]]|title-link=Journal Citation Reports }}</ref>
+
+Since January 2021, ''Philosophical Psychology'' subscribes to the [https://bpa.ac.uk/diversity/good-practice-scheme/ British Philosophical Association Good Practice Scheme] and to the [https://www.ub.edu/biap/bp/ Barcelona Principles for a Globally Inclusive Philosophy], taking steps to ensure that members of underrepresented groups in academic philosophy (such as women and non-native speakers of English) are involved as journal editors, editorial board members, authors, and readers. (For more information, see {{cite web |url=https://dailynous.com/2021/10/15/journal-news-philosophical-psychology-and-neuroethics-guest-post/ |title=Journal News |author=<!--Not stated--> |date=2021 |website=Daily Nous |publisher= |access-date=2 October 2022 |quote=}})
+
+''Philosophical Psychology'' has [https://www.tandfonline.com/action/newsAndOffers?journalCode=cphp20 calls for papers] on topics of interest to the general public that can be investigated by philosophers and psychologists, such as collective irrationalities, bias, and trustworthiness.
+
+== Societies ==
+''Philosophical Psychology'' has links with the [https://www.europeanspp.org European Society for Philosophy and Psychology (ESPP).]
+
+==Most cited articles==
+Partial list of most cited articles (in date order):
+
+* {{Cite journal | last = Neisser | first = Ulric | author-link = Ulric Neisser | title = Five kinds of self-knowledge | journal = Philosophical Psychology | volume = 1 | issue = 1 | pages = 35–59 | doi = 10.1080/09515088808572924 | date = 1988 }} [https://edocs.uis.edu/Departments/LIS/Course_Pages/LIS301/papers/Self_Knowledge.pdf Pdf.]
+* {{Cite journal | last = Chalmers | first = David J. | author-link = David Chalmers | title = Connectionism and compositionality: Why Fodor and Pylyshyn were wrong (symposium) | journal = Philosophical Psychology | volume = 6 | issue = 3 | pages = 305–319| doi = 10.1080/09515089308573094 | date = 1993 }}
+* {{Cite journal | last = Revonsuo | first = Antti | title = Consciousness, dreams and virtual realities | journal = Philosophical Psychology | volume = 8 | issue = 1 | pages = 35–58 | doi = 10.1080/09515089508573144 | date = 1995 }}
+* {{Cite journal | last1 = Gallagher | first1 = Shaun | last2 = Meltzoff | first2 = Andrew N. | author-link1 = Shaun Gallagher | author-link2 = Andrew N. Meltzoff | title = The earliest sense of self and others: Merleau-Ponty and recent developmental studies | journal = Philosophical Psychology | volume = 9 | issue = 2 | pages = 211–233 | doi = 10.1080/09515089608573181 | pmid = 24307757 | date = 1996 | pmc = 3845406 }}
+* {{Cite journal | last = Knobe | first = Joshua | author-link = Joshua Knobe | title = Intentional action in folk psychology: An experimental investigation | journal = Philosophical Psychology | volume = 16 | issue = 2 | pages = 309–324 | doi = 10.1080/09515080307771 | date = 2003 | citeseerx = 10.1.1.318.5898 | s2cid = 12326690 }} [http://cogprints.org/2922/1/IntentionSkill.pdf Pdf.]
+* {{Cite journal | last = Hutchins | first = Edwin | author-link = Edwin Hutchins | title = The cultural ecosystem of human cognition | journal = Philosophical Psychology | volume = 27 | issue = 1 | pages = 34–49 | doi = 10.1080/09515089.2013.830548 | date = 2014 }}
+* {{Cite journal | last = Chapman | first = Robert | author-link = Robert Chapman (psychologist) | title = The reality of autism: On the metaphysics of disorder and diversity | journal = Philosophical Psychology | volume = 33 | issue = 6 | pages = 799–819 | doi = 10.1080/09515089.2020.1751103 | date = 2020 | hdl = 1983/309dc16c-cfe9-4356-81b8-6d95510b5eb0 | hdl-access = free }}
+
+== See also ==
+* [[List of ethics journals]]
+* [[List of philosophy journals]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Official website|http://www.tandfonline.com/toc/cphp20/current}}
+
+[[Category:Academic journals established in 1988]]
+[[Category:Philosophy of mind journals]]
+[[Category:Taylor & Francis academic journals]]
+[[Category:English-language journals]]
+[[Category:8 times per year journals]]
+
+
+{{philo-journal-stub}}

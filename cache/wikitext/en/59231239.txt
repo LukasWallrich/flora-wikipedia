@@ -1,0 +1,89 @@
+{{short description|Bargaining procedure}}
+'''Sequential bargaining''' (also known as '''alternate-moves bargaining''', '''alternating-offers protocol''', etc.) is a structured form of [[bargaining]] between two participants, in which the participants take turns in making offers. Initially, person #1 has the right to make an offer to person #2. If person #2 ''accepts'' the offer, then an agreement is reached and the process ends. If person #2 ''rejects'' the offer, then the participants switch turns, and now it is the turn of person #2 to make an offer (which is often called a ''counter-offer''). The people keep switching turns until either an agreement is reached, or the process ends with a disagreement due to a certain ''end condition''. Several end conditions are common, for example:
+
+* There is a pre-specified limit on the number of turns; after that many turns, the process ends.
+* There is a pre-specified limit on the negotiation time; when time runs out, the process ends.
+
+* The number of possible offers is finite, and the protocol rules disallow to offer the same agreement twice. Hence, if the number of possible offers is finite, at some point all them are exhausted, and the negotiation ends without an agreement.
+Several settings of sequential bargaining have been studied.
+
+* ''Dividing the Dollar'': two people should decide how to split a given amount of money between them. If they do not reach an agreement, they get nothing. This setting can represent a buyer and a seller bargaining on the price of an item, where the valuations of both players are known. In this case, the amount of money is the difference between the buyer's value and the seller's value.
+* ''Buyer and Seller'': a buyer and the seller bargain over the price of an item, and their valuations of the item are ''not'' known.
+* ''A general outcome set'': there is an arbitrary finite set of possible outcomes, each of which yields a different ''payment'' to each of the two players. This setting can represent, for example, two parties who have to choose an agreed [[arbitrator]] from a given set of candidates.
+
+== Game-theoretic analysis ==
+An alternating-offers protocol induces a [[sequential game]]. A natural question is what outcomes can be attained in an equilibrium of this game. At first glance, the first player has the power to make a very selfish offer. For example, in the Dividing the Dollar game, player #1 can offer to give only 1% of the money to player #2, and threaten that "if you do not accept, I will refuse all offers from now on, and both of us will get 0". But this is a [[non-credible threat]], since if player #2 refuses and makes a counter-offer  (e.g. give 2% of the money to player #1), then it is better for player #1 to accept. Therefore, a natural question is: what outcomes are a ''[[subgame perfect equilibrium]]'' (SPE) of this game? This question has been studied in various settings.
+
+=== Dividing the dollar ===
+[[Ariel Rubinstein]] studied a setting in which the negotiation is on how to divide $1 between the two players.<ref>{{Cite journal|last=Rubinstein|first=Ariel|date=1982|title=Perfect Equilibrium in a Bargaining Model|jstor=1912531|journal=Econometrica|volume=50|issue=1|pages=97–109|doi=10.2307/1912531|citeseerx=10.1.1.295.1434|s2cid=14827857 }}</ref> Each player in turn can offer any partition. The players bear a cost for each round of negotiation. The cost can be presented in two ways:
+
+# ''Additive cost'': the cost of each player ''i'' is ''c<sub>i</sub>'' per round. Then, if ''c<sub>1</sub>'' < ''c<sub>2</sub>'', the only SPE gives the entire $1 to player 1;  if ''c<sub>1</sub>'' > ''c<sub>2</sub>'', the only SPE gives ''$c<sub>2</sub>'' to player 1 and $1-''c<sub>2</sub>'' to player 2.
+# ''Multiplicative cost'': each player has a [[discount factor]] ''d<sub>i</sub>''. Then, the only SPE gives $(1-''d<sub>2</sub>'')/(1-''d<sub>1</sub>d<sub>2</sub>'') to player 1.
+Rubinstein and Wolinsky<ref>{{Cite journal|last1=Rubinstein|first1=Ariel|last2=Wolinsky|first2=Asher|date=1985|title=Equilibrium in a Market with Sequential Bargaining|url=https://www.jstor.org/stable/1911015|journal=Econometrica|volume=53|issue=5|pages=1133–1150|doi=10.2307/1911015|jstor=1911015|s2cid=7553405 |issn=0012-9682|url-access=subscription}}</ref> studied a market in which there are many players, partitioned into two types (e.g. "buyers" and "sellers"). Pairs of players of different types are brought together randomly, and initiate a sequential-bargaining process over the division of a surplus (as in the Divide the Dollar game). If they reach an agreement, they leave the market; otherwise, they remain in the market and wait for the next match. The steady-state equilibrium in this market it is quite different than [[competitive equilibrium]] in standard markets (e.g. [[Fisher market]] or [[Arrow–Debreu model|Arrow–Debreu market]]).
+
+=== Buyer and seller ===
+[[Drew Fudenberg|Fudenberg]] and [[Jean Tirole|Tirole]]<ref>{{Cite journal|last1=Fudenberg|first1=Drew|last2=Tirole|first2=Jean|date=1983|title=Sequential Bargaining with Incomplete Information|url=https://www.jstor.org/stable/2297414|journal=The Review of Economic Studies|volume=50|issue=2|pages=221–247|doi=10.2307/2297414|jstor=2297414|issn=0034-6527|url-access=subscription}}</ref> study sequential bargaining between a buyer and a seller who have [[incomplete information]], i.e., they do not know the valuation of their partner. They focus on a two-turn game (i.e., the seller has exactly two opportunities to sell the item to the buyer). Both players prefer a trade today than the same trade tomorrow. They analyze the [[Perfect Bayesian equilibrium]] (PBE) in this game, if the seller's valuation is known, then the PBE is generically unique; but if both valuations are private, then there are multiple PBE. Some surprising findings, that follow from the information transfer and the lack of commitment, are:
+
+* The buyer may do better when he is more impatient;
+* Increasing the size of the "contract zone" may decrease the probability of agreement;
+* Prices can increase over time;
+* Increasing the number of periods can decrease efficiency.
+Grossman and Perry<ref>{{Cite journal|last1=Grossman|first1=Sanford J|last2=Perry|first2=Motty|date=1986-06-01|title=Sequential bargaining under asymmetric information|url=https://dx.doi.org/10.1016/0022-0531%2886%2990023-2|journal=Journal of Economic Theory|language=en|volume=39|issue=1|pages=120–154|doi=10.1016/0022-0531(86)90023-2|s2cid=154201801|issn=0022-0531|url-access=subscription|doi-access=free}}</ref> study sequential bargaining between a buyer and a seller over an item price, where the buyer knows the gains-from-trade but the seller does not. They consider an infinite-turn game with [[time discounting]]. They show that, under some weak assumptions, there exists a unique [[perfect sequential equilibrium]], in which: 
+
+* Players communicate their private information by revealing their willingness to delay the agreement; 
+* The least patient buyers (that is, those whose gain from trade is larger) accept the seller's offer immediately;
+* The intermediately-patient respond with an acceptable counter-offer;
+* the most patient respond with a counter-offer that they know the seller will not accept (and thus reveal the fact that they are patient).
+*The seller cannot credibly threaten to reject an offer above the discounted value of the game in which all buyers are intermediately-patient.
+*If the seller gets an unacceptable offer, he updates his beliefs and the process repeats. This can go on for many rounds. 
+
+=== General outcome set ===
+Nejat Anbarci<ref>{{Cite journal|last=Anbarci|first=N.|date=1993-02-01|title=Noncooperative Foundations of the Area Monotonic Solution|url=https://academic.oup.com/qje/article-abstract/108/1/245/1898523|journal=The Quarterly Journal of Economics|language=en|volume=108|issue=1|pages=245–258|doi=10.2307/2118502|issn=0033-5533|jstor=2118502|url-access=subscription}}</ref> studied a setting with a finite number of outcomes, where each of the two agents may have a different preference order over the outcomes. The protocol rules disallow repeating the same offer twice. In any such game, there is a unique SPE. It is always [[Pareto optimal]]; it is always one of the two Pareto-optimal options of which rankings by the players are the closest. It can be found by finding the smallest integer ''k'' for which the sets of ''k'' best options of the two players have a non-empty intersection. For example, if the rankings are ''a''>''b''>''c''>''d'' and ''c''>''b''>''a''>''d'', then the unique SPE is ''b'' (with ''k''=2). If the rankings are ''a''>''b''>''c''>''d'' and ''d''>''c''>''b''>''a'', then the SPE is either ''b'' or ''c'' (with ''k''=3). 
+
+In a later study, Anbarci<ref>{{Cite journal|last=Anbarci|first=Nejat|date=2006-08-01|title=Finite Alternating-Move Arbitration Schemes and the Equal Area Solution|url=http://digitalcommons.fiu.edu/cgi/viewcontent.cgi?article=1062&context=economics_wps|journal=Theory and Decision|language=en|volume=61|issue=1|pages=21–50|doi=10.1007/s11238-005-4748-9|s2cid=122355062|issn=0040-5833|url-access=subscription}}</ref> studies several schemes for two agents who have to select an arbitrator from a given set of candidates:
+
+* In the ''Alternating Strike'' scheme, each agent in turn crosses off one candidate; the last remaining candidate is chosen. The scheme is not invariant to "bad" alternatives.
+* In contrast, the ''Voting by Alternating Offers and Vetoes'' scheme is invariant to bad alternatives.
+
+In all schemes, if the options are uniformly distributed over the bargaining set and their number approaches infinity, then the unique SPE outcome converges to the Equal-Area solution of the cooperative [[bargaining problem]].
+
+Erlich, Hazon and [[Sarit Kraus|Kraus]]<ref>{{cite journal|last1=Erlich|first1=Sefi|last2=Hazon|first2=Noam|last3=Kraus|first3=Sarit|date=2024|title=Negotiation strategies for agents with ordinal preferences: Theoretical analysis and human study|journal=Artificial Intelligence |volume=327 |article-number=104050 |doi=10.1016/j.artint.2023.104050 |arxiv=1805.00913}}</ref> study the ''Alternating Offers'' protocol in several informational settings:
+
+* With complete information (each agent knows the other agents' full ranking), there are strategies that specify a subgame-perfect equilibrium for the agents, and can be computed in linear time. They implement a known bargaining rule.
+* With partial information (only one agent knows the other's ranking) and no information (one agent knows the other's ranking), there are other solution concepts that are distribution-free.
+
+== Experimental analysis ==
+
+=== Laboratory studies ===
+The Dividing-the-Dollar game has been studied in several laboratory experiments. In general, subjects behave quite differently from the unique SPE. Subjects' behavior depends on the number of turns, their experience with the game, and their beliefs about fairness. There have been multiple experiments.<ref>{{multiref|{{Cite journal|last1=Güth|first1=Werner|last2=Schmittberger|first2=Rolf|last3=Schwarze|first3=Bernd|date=1982-12-01|title=An experimental analysis of ultimatum bargaining|url=https://dx.doi.org/10.1016/0167-2681%2882%2990011-7|journal=Journal of Economic Behavior & Organization|language=en|volume=3|issue=4|pages=367–388|doi=10.1016/0167-2681(82)90011-7|issn=0167-2681|url-access=subscription}}|{{Cite journal|last1=Binmore|first1=K.|last2=Shaked|first2=A.|last3=Sutton|first3=J.|date=1985|title=Testing Noncooperative Bargaining Theory: A Preliminary Study|url=https://www.jstor.org/stable/1818658|journal=The American Economic Review|volume=75|issue=5|pages=1178–1180|jstor=1818658|issn=0002-8282}}|{{Cite book|last1=Güth|first1=Werner|last2=Tietz|first2=Reinhard|title=Bounded Rational Behavior in Experimental Games and Markets |chapter=Ultimatum Bargaining for a Shrinking Cake — an Experimental Analysis — |date=1988|editor-last=Tietz|editor-first=Reinhard|editor2-last=Albers|editor2-first=Wulf|editor3-last=Selten|editor3-first=Reinhard|chapter-url=https://link.springer.com/chapter/10.1007/978-3-642-48356-1_9|series=Lecture Notes in Economics and Mathematical Systems|volume=314|language=en|location=Berlin, Heidelberg|publisher=Springer|pages=111–128|doi=10.1007/978-3-642-48356-1_9|isbn=978-3-642-48356-1}}|{{Cite journal|last1=Neelin|first1=Janet|last2=Sonnenschein|first2=Hugo|last3=Spiegel|first3=Matthew|date=1988|title=A Further Test of Noncooperative Bargaining Theory: Comment|url=https://www.jstor.org/stable/1811179|journal=The American Economic Review|volume=78|issue=4|pages=824–836|jstor=1811179|issn=0002-8282}}|{{Cite journal|last1=Ochs|first1=Jack|last2=Roth|first2=Alvin E.|date=1989|title=An Experimental Study of Sequential Bargaining|url=https://www.jstor.org/stable/1806850|journal=The American Economic Review|volume=79|issue=3|pages=355–384|jstor=1806850|issn=0002-8282}}|{{Cite journal|last1=Güth|first1=Werner|last2=Tietz|first2=Reinhard|date=1990-09-01|title=Ultimatum bargaining behavior: A survey and comparison of experimental results|url=https://dx.doi.org/10.1016/0167-4870%2890%2990021-Z|journal=Journal of Economic Psychology|language=en|volume=11|issue=3|pages=417–449|doi=10.1016/0167-4870(90)90021-Z|issn=0167-4870|url-access=subscription}}}}</ref>
+
+=== Field study ===
+A [[field study]] was done by Backus, Blake, Larsen and Tadelis.<ref>{{Cite journal|last1=Backus|first1=Matthew|last2=Blake|first2=Thomas|last3=Larsen|first3=Brad|last4=Tadelis|first4=Steven|date=2020-08-01|title=Sequential Bargaining in the Field: Evidence from Millions of Online Bargaining Interactions|url=https://academic.oup.com/qje/article/135/3/1319/5721265|journal=The Quarterly Journal of Economics|language=en|volume=135|issue=3|pages=1319–1361|doi=10.1093/qje/qjaa003|issn=0033-5533|url-access=subscription}}</ref> They studied back-and-forth sequential bargaining in over 25 million listings from the Best Offer platform of [[eBay]]. Their main findings are: 
+
+* About 1/3 of the interactions end in immediate agreement, as predicted by complete-information models.
+* Most interactions end in disagreement or delayed agreement, as predicted by incomplete-information models.
+* Stronger bargaining power and better outside options improve agents' outcomes.
+
+They also report some findings that cannot be rationalized by the existing theories: 
+
+* A reciprocal, gradual concession behavior, and delayed disagreement. 
+* A preference for making and accepting offers that split the difference between the two most recent offers.
+
+They suggest that these findings can be explained by [[Social norm|behavioral norms]].
+
+== Further reading ==
+
+* "Game-theoretic models of bargaining", edited by [[Alvin E. Roth|Alvin Roth]].<ref>{{Cite web|title=Game-Theoretic Models of Bargaining {{!}} Microeconomics|url=https://www.cambridge.org/us/academic/subjects/economics/microeconomics/game-theoretic-models-bargaining,%20https://www.cambridge.org/us/academic/subjects/economics/microeconomics|access-date=2021-02-05|website=Cambridge University Press|language=en}}</ref>
+
+== See also ==
+
+* [[Negotiation]]
+*[[Ultimatum game]]
+* [[Offer and acceptance]]
+*[[Fair division experiments]]
+
+== References ==
+{{reflist}}
+
+[[Category:Negotiation]]
+[[Category:Bargaining theory]]

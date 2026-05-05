@@ -1,0 +1,782 @@
+{{Short description|1984 book by Robert Axelrod}}
+{{multiple issues| {{cleanup book|reason=Uses colloquial rather than encyclopedic language. |date=October 2011}}{{Tone|date=July 2019}}{{Confusing|date=October 2011}}}}
+{{Use dmy dates|date=March 2020}}
+{{Infobox book
+| name = The Evolution of Cooperation
+| image = The Evolution of Cooperation.jpg| caption = Book cover
+| author = [[Robert Axelrod (political scientist)|Robert Axelrod]]
+| cover_artist =
+| country = United States
+| language = English
+| subject =
+| genre = [[Philosophy]], [[sociology]]
+| publisher = [[Basic Books]]
+| pub_date = April 1984
+| media_type = Hardback, paperback, audiobook
+| pages = 241
+| isbn = 0-465-00564-0
+| dewey = 302 14
+| congress = HM131.A89 1984
+| oclc = 76963800
+}}
+
+'''''The Evolution of Cooperation''''' is a 1984 book written by political scientist [[Robert Axelrod (political scientist)|Robert Axelrod]]<ref>Axelrod's book was summarized in Douglas Hofstadter's May 1983 "Metamagical Themas" column in Scientific American {{Harv|Hofstadter|1983}} (reprinted in his book {{Harv|Hofstadter|1985}}; see also Richard Dawkin's summary in the second edition of ''The Selfish Gene'' ({{Harvnb|Dawkins|1989}}, ch. 12).</ref> that expands upon a paper of the same name written by Axelrod and evolutionary biologist [[W. D. Hamilton|W.D. Hamilton]].{{sfn|Axelrod|Hamilton|1981}} The article's summary addresses the issue in terms of "cooperation in organisms, whether bacteria or primates".{{sfn|Axelrod|Hamilton|1981}}
+
+The book details a theory on the emergence of [[cooperation]] between individuals, drawing from [[game theory]] and [[evolutionary biology]]. Since 2006, reprints of the book have included a foreword by [[Richard Dawkins]] and have been marketed as a revised edition.
+
+The book provides an investigation into how [[cooperation]] can emerge and persist as explained by the application of [[game theory]].{{sfn|Axelrod|Hamilton|1981}} The book provides a detailed explanation of the evolution of cooperation, beyond traditional game theory. Academic literature regarding forms of cooperation that are not easily explained in traditional game theory, especially when considering [[evolutionary biology]], largely took its modern form as a result of Axelrod's and Hamilton's influential 1981 paper{{sfn|Axelrod|Hamilton|1981}} and the subsequent book.
+
+== Background: Axelrod's tournaments ==
+
+Axelrod initially solicited strategies from other game theorists to compete in the first tournament.  Each strategy was paired with each other strategy for 200 iterations of a [[Prisoner's Dilemma]] game and scored on the total points accumulated through the tournament.  The winner was a very simple strategy submitted by [[Anatol Rapoport]] called "[[tit for tat]]" (TFT) that cooperates on the first move, and subsequently echoes (reciprocates) what the other player did on the previous move.  The results of the first tournament were analyzed and published, and a second tournament was held to see if anyone could find a better strategy.  TFT won again.  Axelrod analyzed the results and made some interesting discoveries about the nature of cooperation, which he describes in his book.<ref>{{Harvnb|Axelrod|1984}}.</ref>
+
+In both actual tournaments and various replays, the best-performing strategies were nice:<ref>{{Harvnb|Axelrod|1984|p=113}}.</ref> that is, they were never the first to defect.  Many of the competitors went to great lengths to gain an advantage over the "nice" (and usually simpler) strategies, but to no avail:  tricky strategies fighting for a few points generally could not do as well as nice strategies working together. TFT (and other "nice" strategies generally) "won, not by doing better than the other player, but by eliciting cooperation [and] by promoting the mutual interest rather than by exploiting the other's weakness."<ref>{{Harvnb|Axelrod|1984|p=130}}.</ref>
+
+Being "nice" can be beneficial, but it can also lead to being suckered.  To obtain the benefit &ndash; or avoid exploitation &ndash; it is necessary to be provocable and forgiving.  When the other player defects, a nice strategy must immediately be provoked into retaliatory defection.<ref>{{Harvnb|Axelrod|1984|pp=62, 211}}.</ref> The same goes for forgiveness: return to cooperation as soon as the other player does.  Overdoing the punishment risks escalation, and can lead to an "unending echo of alternating defections" that depresses the scores of both players.<ref>{{Harvnb|Axelrod|1984|p=186}}.</ref>
+
+Most of the games that game theory had heretofore investigated are "[[zero-sum]]" &ndash; that is, the total rewards are fixed, and a player does well only at the expense of other players.  But real life is not zero-sum. Our best prospects are usually in cooperative efforts.  In fact, TFT ''cannot'' score higher than its partner; at best it can only do "as good as".  Yet it won the tournaments by consistently scoring a strong second-place with a variety of partners.<ref>{{Harvnb|Axelrod|1984|p=112}}.</ref> Axelrod summarizes this as "don't be envious";<ref>{{Harvnb|Axelrod|1984|pp=110–113}}.</ref> in other words, don't strive for a payoff ''greater'' than the other player's.<ref>{{Harvnb|Axelrod|1984|p=25}}.</ref>
+
+In any IPD game, there is a certain maximum score each player can get by always cooperating.  But some strategies try to find ways of getting a little more with an occasional defection (exploitation).  This can work against some strategies that are less provocable or more forgiving than TFT, but generally, they do poorly.  "A common problem with these rules is that they used complex methods of making inferences about the other player [strategy] &ndash; and these inferences were wrong."<ref>{{Harvnb|Axelrod|1984|p=120}}.</ref> Against TFT one can do no better than to simply cooperate.<ref>{{Harvnb|Axelrod|1984|pp=47,118}}.</ref> Axelrod calls this "clarity".  Or: "don't be too clever".<ref>{{Harvnb|Axelrod|1984|pp=120+}}.</ref>
+
+The success of any strategy depends on the nature of the particular strategies it encounters, which depends on the composition of the overall population.  To better model the effects of reproductive success Axelrod also did an "ecological" tournament, where the prevalence of each type of strategy in each round was determined by that strategy's success in the previous round.  The competition in each round becomes stronger as weaker performers are reduced and eliminated.  The results were amazing: a handful of strategies &ndash; all "nice" &ndash; came to dominate the field.<ref>{{Harvnb|Axelrod|1984|pp=48–53}}.</ref> In a sea of non-nice strategies the "nice" strategies &ndash; provided they were also provocable &ndash; did well enough with each other to offset the occasional exploitation. As cooperation became general the non-provocable strategies were exploited and eventually eliminated, whereupon the exploitive (non-cooperating) strategies were out-performed by the cooperative strategies.
+
+In summary, success in an evolutionary "game" correlated with the following characteristics:
+
+* Be nice: cooperate, never be the first to defect.
+* Be provocable: return defection for defection, cooperation for cooperation.
+* Don't be envious: focus on maximizing your own 'score', as opposed to ensuring your score is higher than your 'partner's'.
+* Don't be too clever: or, don't try to be tricky. Clarity is essential for others to cooperate with you.
+
+== Foundation of reciprocal cooperation ==
+
+The lessons described above apply in environments that support cooperation, but whether cooperation is supported at all, depends crucially on the probability (called ω [omega]) that the players will meet again,<ref>{{Harvnb|Axelrod|1984|p=13}}.</ref> also called the discount parameter or, figuratively, the shadow of the future. When ω is low – that is, the players have a negligible chance of meeting again – each interaction is effectively a single-shot Prisoner's Dilemma game, and one might as well defect in all cases (a strategy called "ALL D"), because even if one cooperates there is no way to keep the other player from exploiting that. But in the iterated PD the value of repeated cooperative interactions can become greater than the benefit/risk of single exploitation (which is all that a strategy like TFT will tolerate).
+
+Curiously, rationality and deliberate choice are not necessary, nor trust nor even consciousness,<ref>{{Harvnb|Axelrod|1984|pp=18, 174}}.</ref> as long as there is a pattern that benefits both players (e.g., increases fitness), and some probability of future interaction. Often the initial mutual cooperation is not even intentional, but having "discovered" a beneficial pattern both parties respond to it by continuing the conditions that maintain it.
+
+This implies two requirements for the players, aside from whatever strategy they may adopt. First, they must be able to recognize other players, to avoid exploitation by cheaters. Second, they must be able to track their previous history with any given player, in order to be responsive to that player's strategy.<ref>{{Harvnb|Axelrod|1984|p=174}}.</ref>
+
+Even when the discount parameter ω is high enough to permit reciprocal cooperation there is still a question of whether and how cooperation might start. One of Axelrod's findings is that when the existing population never offers cooperation nor reciprocates it – the case of ALL D – then no nice strategy can get established by isolated individuals; cooperation is strictly a [[sucker bet]]. (The "futility of isolated revolt".<ref>{{Harvnb|Axelrod|1984|p=150}}.</ref>) But another finding of great significance is that clusters of nice strategies can get established. Even a small group of individuals with nice strategies with infrequent interactions can yet do so well on those interactions to make up for the low level of exploitation from non-nice strategies.<ref>{{Harvnb|Axelrod|1984|pp=63–68, 99}}</ref>
+
+Cooperation becomes more complicated, however, as soon as more realistic models are assumed 
+that for instance offer more than two choices of action, 
+provide the possibility of gradual cooperation, 
+make actions constrain future actions ([[path dependence]]),
+or in which 
+interpret the associate's actions are is non-trivial (e.g. recognizing the degree 
+of cooperation shown)<ref>
+{{cite journal |last1=Prechelt |first1=Lutz |title=INCA: A multi-choice model of cooperation under restricted communication |journal=Biosystems |date=1996 |volume=37 |issue=1–2 |pages=127–134 |doi=10.1016/0303-2647(95)01549-3 |bibcode=1996BiSys..37..127P |ref=INCA|url=https://publikationen.bibliothek.kit.edu/159797/1178 |url-access=subscription }}</ref>
+
+== Subsequent work ==
+
+In 1984 Axelrod estimated that there were "hundreds of articles on the Prisoner's Dilemma cited in ''Psychological Abstracts''",<ref>
+  {{Harvnb|Axelrod|1984|pp=28}}.</ref> and estimated that citations to ''The Evolution of Cooperation'' alone were "growing at the rate of over 300 per year".<ref>{{Harvnb|Axelrod|1984|pp=3}}.</ref>
+To fully review this literature is infeasible.  What follows are therefore only a few selected highlights.
+
+Axelrod considers his subsequent book, ''[[The Complexity of Cooperation]]'',<ref>
+  {{Harvnb|Axelrod|1997}}.</ref>
+to be a sequel to ''The Evolution of Cooperation''.  Other work on the evolution of cooperation has expanded to cover [[prosocial behavior]] generally,<ref>
+  {{Harvnb|Boyd|2006}}; {{Harvnb|Bowles|2006}}.</ref>
+and in religion,<ref>
+  {{Harvnb|Norenzayan|Shariff|2008}}.</ref>
+<!-- Suppressed until proper citation is found.
+the promotion of conformity,<ref>
+  {{Harvnb|Bowles|2003}}.{{citation not found}}</ref> -->
+other mechanisms for generating cooperation,<ref>
+  {{Harvnb|Nowak|2006}}.</ref>
+the IPD under different conditions and assumptions,<ref>
+  {{Harvnb|Axelrod|Dion|1988}}; 
+  {{Harvnb|Hoffman|2000}} categorizes and summarizes over 50 studies</ref>
+and the use of other games such as the [[Public goods game|Public Goods]] and [[Ultimatum game|Ultimatum]] games to explore deep-seated notions of fairness and fair play.<ref>
+  {{Harvnb|Nowak|Page|Sigmund|2000}}; {{Harvnb|Sigmund|Fehr|Nowak|2002}}.</ref>
+It has also been used to challenge the rational and self-regarding "[[economic man]]" model of economics,<ref>
+  {{Harvnb|Camerer|Fehr|2006}}.</ref>
+and as a basis for replacing Darwinian [[sexual selection]] theory with a theory of [[social selection]].<ref>
+  {{Harvnb|Roughgarden|Oishi|Akcay|2006}}.</ref>
+
+Nice strategies are better able to invade if they have social structures or other means of increasing their interactions.  Axelrod discusses this in chapter 8; in a later paper he and [[Rick Riolo]] and Michael Cohen<ref>
+  {{Harvnb|Riolo|Cohen|Axelrod|2001}}.</ref>
+use computer simulations to show cooperation rising among agents who have negligible chance of future encounters but can recognize similarity of an arbitrary characteristic (such as a [[green beard]]); whereas other studies<ref>Stewart and Plotkin (2013)</ref> have shown that the only Iterated Prisoner's Dilemma strategies that resist invasion in a well-mixed evolving population are generous strategies.
+
+When an IPD tournament introduces noise (errors or misunderstandings), TFT strategies can get trapped into a long string of retaliatory defections, thereby depressing their score.  TFT also tolerates "ALL C" (always cooperate) strategies, which then give an opening to exploiters.<ref>
+{{Harvtxt|Axelrod|1984|pp=136&ndash;138}} has some interesting comments on the need to suppress universal cooperators.  See also a similar theme in Piers Anthony's novel ''[[Macroscope (novel by Piers Anthony)|Macroscope]]''.</ref>
+In 1992 [[Martin Nowak]] and Karl Sigmund demonstrated a strategy called Pavlov (or "win&ndash;stay, lose&ndash;shift") that does better in these circumstances.<ref>
+  {{Harvnb|Nowak|Sigmund|1992}}; see also {{Harvnb|Milinski|1993}}.</ref>
+Pavlov looks at its own prior move as well as the other player's move.  If the payoff was R or P (see "Prisoner's Dilemma", above) it cooperates; if S or T it defects.
+
+In a 2006 paper Nowak listed five mechanisms by which [[natural selection]] can lead to cooperation.<ref>
+  {{Harvnb|Nowak|2006 }};</ref>
+In addition to kin selection and direct reciprocity, he shows that:
+
+* Indirect reciprocity is based on knowing the other player's reputation, which is the player's history with other players. Cooperation depends on a reliable history being projected from past partners to future partners.
+* Network reciprocity relies on geographical or social factors to increase the interactions with nearer neighbors; it is essentially a virtual group.
+* Group selection<ref>Here group selection is not a form of evolution, which is problematical (see {{Harvtxt|Dawkins|1989}}, ch.&nbsp;7), but a mechanism for evolving cooperation.</ref> assumes that groups with cooperators (even altruists) will be more successful as a whole, and this will tend to benefit all members.
+
+The payoffs in the Prisoner's Dilemma game are fixed, but in real life defectors are often punished by cooperators.  Where punishment is costly there is a second-order dilemma amongst cooperators between those who pay the cost of enforcement and those who do not.<ref>
+  {{Harvnb|Hauert|others|2007}}.</ref>
+Other work has shown that while individuals given a choice between joining a group that punishes free-riders and one that does not initially prefer the sanction-free group, yet after several rounds they will join the sanctioning group, seeing that sanctions secure a better payoff.<ref>{{Harvnb|Gürerk|Irlenbusch|Rockenbach|2006}}</ref>
+
+In small populations or groups there is the possibility that indirect reciprocity (reputation) can interact with direct reciprocity (e.g. tit for tat) with neither strategy dominating the other.<ref>Phelps, S., Nevarez, G. & Howes, A., 2009. The effect of group size and frequency of encounter on the evolution of cooperation. In LNCS, Volume 5778, ECAL 2009, Advances in Artificial Life: Darwin meets Von Neumann. Budapest: Springer, pp. 37–44. [https://doi.org/10.1007%2F978-3-642-21314-4_5].</ref> The interactions between these strategies can give rise to dynamic [[social networks]] which exhibit some of the properties observed in empirical networks<ref>{{cite journal | last1 = Phelps | first1 = S | year = 2012 | title = Emergence of social networks via direct and indirect reciprocity | url = http://repository.essex.ac.uk/3900/1/trust.pdf| journal = Autonomous Agents and Multi-Agent Systems | doi = 10.1007/s10458-012-9207-8 | s2cid = 1337854 }}</ref> If network structure and choices in the Prisoner's dilemma co-evolve, then cooperation can survive. In the resulting networks cooperators will be more centrally located than defectors who will tend to be in the periphery of the network.{{sfn|Fosco|Mengel|2011}}
+
+In "The [[Coevolution]] of [[Parochial altruism|Parochial Altruism]] and War" by Jung-Kyoo Choi and Samuel Bowles. From their summary:
+
+<!-- Possible issue here: should quoted material retain em-dashes, in accord with the editing style of the original paper, or use spaced en-dashes, for consistency with this article.  I haven't found any style guidelines on this (yet), but am inclined to retain the style of the original. Note that Wiki style says to avoid using more than one pair of em-dashes in a sentence ([[MOS:MDASH]] &ndash; does this mean the quote has to be rewritten?  It makes more sense the Wiki rule should not be required of quotes from other sources. -->
+<blockquote>
+Altruism—benefiting fellow group members at a cost to oneself —and parochialism—hostility towards individuals not of one's own ethnic, racial, or other group—are common human behaviors.  The intersection of the two—which we term "parochial altruism"—is puzzling from an evolutionary perspective because altruistic or parochial behavior reduces one's payoffs by comparison to what one would gain from eschewing these behaviors.  But parochial altruism could have evolved if parochialism promoted intergroup hostilities and the combination of altruism and parochialism contributed to success in these conflicts....  [Neither] would have been viable singly, but by promoting group conflict they could have evolved jointly.<ref>{{Harvnb|Choi|Bowles|2007|p=636}}.</ref>
+</blockquote>
+
+Consideration of the mechanisms through which learning from the [[social environment]] occurs is pivotal in studies of evolution. In the context of this discussion, learning rules, specifically conformism and payoff-dependent imitation, are not arbitrarily predetermined but are biologically selected. Behavioral strategies, which include cooperation, defection, and cooperation coupled with punishment, are chosen in alignment with the agent's prevailing learning rule. Simulations of the model under conditions approximating those experienced by early hominids reveal that conformism can evolve even when individuals are solely faced with a cooperative dilemma, contrary to previous assertions. Moreover, the incorporation of conformists significantly amplifies the group size within which cooperation can be sustained. These model results demonstrate robustness, maintaining validity even under conditions of high migration rates and infrequent intergroup conflicts.<ref>{{Cite journal |last1=Guzmán |first1=R. A. |last2=Rodríguez-Sickert |first2=C. |last3=Rowthorn |first3=R. |year=2007 |title=When in Rome, do as the Romans do: the coevolution of altruistic punishment, conformist learning, and cooperation |journal=Evolution and Human Behavior |volume=28 |issue=2 |pages=112–117|doi=10.1016/j.evolhumbehav.2006.08.002 |bibcode=2007EHumB..28..112A |url=https://mpra.ub.uni-muenchen.de/2037/1/MPRA_paper_2037.pdf }}</ref>
+
+Neither Choi & Bowles nor Guzmán, Rodriguez-Sicket and Rowthorn claim that humans have actually evolved in this way, but that computer simulations show how war could be promoted by the interaction of these behaviors. A crucial [[open research]] question, thus, is how realistic the assumptions are on which these simulation models are based.<ref>{{Harvnb|Rusch|2014}}.</ref>
+
+== Software ==
+
+Several software packages have been created to run prisoner's dilemma simulations and tournaments, some of which have available source code.
+
+* The source code for the second tournament run by Robert Axelrod (written by Axelrod and many contributors in [[Fortran]]) is available online.<ref>{{cite web | title=Complexity of Cooperation Chapter 2 | url=http://www-personal.umich.edu/~axe/research/Software/CC/CC2.html }}</ref>
+* PRISON,<ref>https://web.archive.org/web/19991010053242/http://www.lifl.fr/IPD/ipd.frame.html</ref> a library written in [[Java (programming language)|Java]], last updated in 1999
+* Axelrod-Python,<ref>{{cite web | title=Axelrod-Python/Axelrod: V4.12.0 | website=[[GitHub]] | url=https://github.com/Axelrod-Python/Axelrod }}</ref> written in [[Python (programming language)|Python]]
+
+== Recommended reading ==
+
+<!-- Editors:  not just any item that might be of some interest, but the '''best'' items for whetting the reader's interest and leading deeper into the subject. -->
+
+* {{citation
+| first1 = Robert  |last1 = Axelrod
+| first2 = William D. |last2 = Hamilton
+| date  = 27 March 1981
+| title = The Evolution of Cooperation
+| journal = Science
+| volume = 211 |issue = 4489
+|pages = 1390&ndash;96
+| doi = 10.1126/science.7466396
+| url = http://www-personal.umich.edu/~axe/research/Axelrod%20and%20Hamilton%20EC%201981.pdf
+| pmid=7466396
+| bibcode = 1981Sci...211.1390A
+| ref=none}}
+* {{citation
+| year  = 1984
+| first1 = Robert |last1 = Axelrod
+| title = The Evolution of Cooperation
+| publisher = Basic Books
+| isbn = 0-465-02122-0
+| ref=none
+}}
+* {{citation
+| year  = 2006
+| first1 = Robert |last1 = Axelrod
+| title = The Evolution of Cooperation
+| edition = Revised
+| publisher = Perseus Books Group
+| isbn = 0-465-00564-0
+| ref=none
+}}
+* {{citation
+| first1 = Robert |last1 = Axelrod
+| year  = 1997
+| title = The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration
+| publisher = Princeton University Press
+| isbn = 0-691-01567-8
+| ref=none
+}}
+* {{citation
+| first1 = Richard
+| last1 = Dawkins
+| orig-date = 1976
+| year = 1989
+| title = The Selfish Gene
+| edition = 2nd
+| publisher = Oxford Univ. Press
+| isbn = 0-19-286092-5
+| url = https://archive.org/details/selfishgene00dawkrich
+| ref=none
+}}
+* {{citation
+| first1 = Stephen Jay |last1 = Gould
+| date  = June 1997
+| title = Kropotkin was no crackpot
+| journal = Natural History
+| volume = 106 |pages = 12&ndash;21
+| url = http://www.marxists.org/subject/science/essays/kropotkin.htm
+| ref=none
+}}
+{{Gutenberg|no=4341|author=Kropotkin, Peter|name=Mutual Aid: A Factor of Evolution}}
+* {{citation
+| year  = 1996
+| first1 = Matt |last1 = Ridley
+| title = The Origins of Virtue
+| publisher = Viking (Penguin Books)
+| isbn = 0-670-86357-2
+| ref=none
+}}
+* {{citation|first1=Karl |last1=Sigmund |first2=Ernest |last2=Fehr |first3=Martin A. |last3=Nowak |date=January 2002 |title=The Economics of Fair Play |volume=286 |issue=1 |magazine=Scientific American |pages=82&ndash;87 |url=http://www.ped.fas.harvard.edu/people/faculty/publications_nowak/SciAm02.pdf |archive-url=https://web.archive.org/web/20110518024042/http://www.ped.fas.harvard.edu/people/faculty/publications_nowak/SciAm02.pdf |archive-date=18 May 2011 |bibcode=2002SciAm.286a..82S |doi=10.1038/scientificamerican0102-82 |pmid=11799620 | ref=none}}
+* {{citation
+| first1 = Robert L. |last1 = Trivers
+| date  = March 1971
+| title = The Evolution of Reciprocal Altruism
+| journal = Quarterly Review of Biology
+| volume = 46 |pages = 35&ndash;57
+| doi = 10.1086/406755
+|s2cid = 19027999
+| url = http://lis.epfl.ch/~markus/References/Trivers71.pdf
+| ref=none
+}}{{dead link|date=March 2016}}
+* {{citation
+| first1 = Gretchen |last1 = Vogel
+| date  = 20 February 2004
+| title = News Focus: The Evolution of the Golden Rule
+| journal = Science |volume = 303
+| pages = 1128&ndash;31
+| doi = 10.1126/science.303.5661.1128
+|pmid = 14976292
+|issue=5661
+|s2cid = 178426383
+| ref=none
+}}
+
+== See also ==
+{{Portal|Philosophy|Books}}
+* [[Co-operation (evolution)]]
+
+== References ==
+{{Reflist|colwidth=20em}}
+
+=== Bibliography ===
+<small>
+Most of these references are to the scientific literature, to establish the authority of various points in the article.  A few references of lesser authority, but greater accessibility are also included.
+</small>
+<!-- please keep entries in alphabetical order -->
+{{div col|colwidth=30em}}
+* {{citation
+| year  = 1984
+| first1 = Robert |last1 = Axelrod
+| title = The Evolution of Cooperation
+| publisher = Basic Books
+| isbn = 0-465-02122-0
+}}
+* {{citation
+| first1 = Robert |last1 = Axelrod
+| year  = 1997
+| title = The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration
+|journal = Complexity
+|volume = 3
+|issue = 3
+|pages = 46–48
+| publisher = Princeton University Press
+|bibcode = 1998Cmplx...3c..46C
+|doi = 10.1002/(SICI)1099-0526(199801/02)3:3<46::AID-CPLX6>3.0.CO;2-K
+}}
+* {{citation
+| first1 = Robert |last1 = Axelrod
+| date  = July 2000
+| title = On Six Advances in Cooperation Theory
+| journal = Analyse & Kritik
+| volume = 22 |pages = 130–151
+|doi = 10.1515/auk-2000-0107
+|s2cid = 17399009
+| url = http://www-personal.umich.edu/~axe/research/SixAdvances.pdf
+}}
+* {{citation
+| year  = 2006
+| first1 = Robert |last1 = Axelrod
+| title = The Evolution of Cooperation
+| edition = Revised
+| publisher = Perseus Books Group
+| isbn = 0-465-00564-0
+}}
+* {{citation
+| first1 = Robert |last1 = Axelrod
+| first2 = Lisa |last2 = D'Ambrosio
+| year  = 1996
+| title = Annotated Bibliography on the Evolution of Cooperation
+| url = http://www-personal.umich.edu/~axe/research/SixAdvances.pdf
+}}
+* {{citation
+| first1 = Robert  |last1 = Axelrod
+| first2 = Douglas |last2 = Dion
+| date  = 9 December 1988
+| title = The Further Evolution of Cooperation
+| journal = Science
+| volume = 242 |pages = 1385–90
+| doi = 10.1126/science.242.4884.1385
+|pmid = 17802133
+| url = http://www-personal.umich.edu/~axe/research/Axelrod%20Dion%20Further%20EC%20Science%201988.pdf
+  |issue=4884
+| bibcode = 1988Sci...242.1385A |s2cid = 41453503
+}}
+* {{citation
+| first1 = Robert |last1 = Axelrod
+| first2 = William D. |last2 = Hamilton
+| date  = 27 March 1981
+| title = The Evolution of Cooperation
+| journal = Science
+| volume = 211 |issue = 4489
+|pages = 1390–96
+| doi = 10.1126/science.7466396
+| url = http://www-personal.umich.edu/~axe/research/Axelrod%20and%20Hamilton%20EC%201981.pdf
+| pmid=7466396
+| bibcode = 1981Sci...211.1390A }}
+* {{citation
+| first1 = Kenneth G. |last1 = Binmore
+| year  = 1994
+| title = Game Theory and the Social Contract: Vol. 1, Playing Fair
+| publisher = MIT Press
+}}
+* {{citation
+| year  = 1998a
+| first1 = Kenneth G. |last1 = Binmore
+| title = Game Theory and the Social Contract: Vol. 2, Just Playing
+| publisher = MIT Press
+}}
+* {{citation
+| year  = 1998b
+| first1 = Kenneth G. |last1 = Binmore
+| title = Review of 'The Complexity of Cooperation'
+| url = http://jasss.soc.surrey.ac.uk/1/1/review1.html
+}}
+* {{citation
+| first1 = Kenneth G.
+| last1 = Binmore
+| year = 2004
+| title = Reciprocity and the social contract
+| journal = Politics, Philosophy & Economics
+| volume = 3
+| pages = 5–6
+| doi = 10.1177/1470594X04039981
+| s2cid = 144880524
+| url = http://mydocs.strands.de/MyDocs/06037/06037.pdf
+}}{{Dead link|date=April 2026 |bot=InternetArchiveBot }}
+* {{citation
+| first1 = Peter J. |last1 = Bowler
+| year  = 1984
+| title = Evolution: The History of an Idea
+| publisher = Univ. of California Press
+| isbn = 0-520-04880-6}}
+* {{citation
+ |first1       = Samuel
+ |last1        = Bowles
+ |date         = 8 December 2006
+ |title        = Group Competition, Reproductive Leveling, and the Evolution of Human Altruism
+ |journal      = Science
+ |volume       = 314
+ |issue        = 5805
+ |pages        = 1569–72
+ |doi          = 10.1126/science.1134829
+ |url          = http://www.santafe.edu/~bowles/GroupCompetition
+ |bibcode      = 2006Sci...314.1569B
+ |pmid         = 17158320
+ |s2cid        = 6032103
+ |access-date  = 23 February 2009
+ |archive-date = 7 February 2009
+ |archive-url  = https://web.archive.org/web/20090207042004/http://www.santafe.edu/~bowles/GroupCompetition
+ }}
+* {{citation
+ |first1       = Samuel
+ |last1        = Bowles
+ |first2       = Jung-Koo
+ |last2        = Choi
+ |first3       = Astrid
+ |last3        = Hopfensitz
+ |year         = 2003
+ |title        = The co-evolution of individual behaviors and social institutions
+ |journal      = Journal of Theoretical Biology
+ |volume       = 223
+ |issue        = 2
+ |pages        = 135–147
+ |doi          = 10.1016/S0022-5193(03)00060-2
+ |pmid         = 12814597
+ |bibcode      = 2003JThBi.223..135B
+ |url          = http://www.santafe.edu/~jkchoi/jtb223_2.pdf
+ |access-date  = 23 February 2009
+ |archive-date = 19 February 2005
+ |archive-url  = https://web.archive.org/web/20050219024556/http://www.santafe.edu/~jkchoi/jtb223_2.pdf
+ }}
+* {{citation
+|first1 = Robert
+|last1 = Boyd
+|date = 8 December 2006
+|title = The Puzzle of Human Sociality
+|journal = Science
+|volume = 314
+|issue = 5805
+|pages = 1555–56
+|doi = 10.1126/science.1136841
+|pmid = 17158313
+|s2cid = 86630847
+|url = http://xcelab.net/rm/wp-content/uploads/2008/10/boyd-evolution-human-cooperation-review.pdf
+|access-date = 6 March 2011
+|archive-date = 17 October 2018
+|archive-url = https://web.archive.org/web/20181017140723/http://xcelab.net/rm/wp-content/uploads/2008/10/boyd-evolution-human-cooperation-review.pdf
+}}
+* {{citation
+| first1 = Colin F. |last1 = Camerer
+| first2 = Ernst   |last2 = Fehr
+| date  = 6 January 2006
+| title = When Does 'Economic Man' Dominate Social Behavior?
+| journal = Science
+| volume = 311 |issue = 5757
+|pages = 47–52
+| doi = 10.1126/science.1110600
+|pmid = 16400140
+| url = http://www.hss.caltech.edu/~camerer/ScienceInteraction06.pdf
+| bibcode = 2006Sci...311...47C |s2cid = 1316190
+}}
+* {{citation
+| first1 = Andrew |last1 = Carnegie
+| year  = 1900
+| title = The Gospel of Wealth, and Other Timely Essays
+}}
+* {{citation
+| first1 = Jung-Kyoo |last1 = Choi
+| first2 = Samuel    |last2 = Bowles
+| date  = 26 October 2007
+| title = The Coevolution of Parochial Altruism and War
+| journal = Science
+| volume = 318 |issue=<!-- 5850 --> |pages = 636–40
+| doi = 10.1126/science.1144237
+|pmid = 17962562
+| bibcode = 2007Sci...318..636C |s2cid = 2058440
+}}
+* {{citation
+| first1 = Charles |last1 = Darwin
+| orig-date  = 1859
+| year  = 1964
+| title = On the Origin of Species
+| publisher = Harvard Univ. Press
+| edition = A Facsimile of the First
+}}
+* {{citation
+| first1 = Richard
+| last1 = Dawkins
+| orig-date = 1976
+| year = 1989
+| title = The Selfish Gene
+| edition = 2nd
+| publisher = Oxford Univ. Press
+| isbn = 0-19-286092-5
+| url = https://archive.org/details/selfishgene00dawkrich
+}}
+* {{cite journal | last1 = Fosco | first1 = Constanza | author2-link = Friederike Mengel | last2 = Mengel | first2 = Friederike | year = 2011 | title = Cooperation through Imitation and Exclusion in Networks | url = http://ageconsearch.umn.edu/record/50723/files/37-09.pdf | journal = Journal of Economic Dynamics and Control | volume = 35 | issue = 5 | pages = 641–658 | doi = 10.1016/j.jedc.2010.12.002 }}{{Dead link|date=October 2022 |bot=InternetArchiveBot |fix-attempted=yes }}
+* {{citation
+| first1 = David P. |last1 = Gauthier
+| year  = 1986
+| title = Morals by agreement
+| publisher = Oxford Univ. Press
+}}
+* {{citation
+| editor-first = David P. |editor-last = Gauthier
+| year  = 1970
+| title = Morality and Rational Self-Interest
+| publisher = Prentice-Hall
+}}
+* {{citation
+| first1 = Stephen Jay |last1 = Gould
+| date  = June 1997
+| title = Kropotkin was no crackpot
+| journal = Natural History
+| volume = 106 |pages = 12–21
+| url = http://www.marxists.org/subject/science/essays/kropotkin.htm
+}}
+* {{citation |first1=Özgür |last1=Gürerk <!-- Ozgur Gurerk --> |first2=Bernd |last2=Irlenbusch |first3=Bettina |last3=Rockenbach |date=7 April 2006 |title=The Competitive Advantage of Sanctioning Institutions |journal=Science |volume=312 |issue=5770 |pages=108–11 |doi=10.1126/science.1123633 |url=http://www.lrz.de/~u516262/webserver/webdata/guererketal2006_sanctioningmechanisms_science.pdf |bibcode=2006Sci...312..108G |archive-url=https://web.archive.org/web/20110719060124/http://www.lrz.de/~u516262/webserver/webdata/guererketal2006_sanctioningmechanisms_science.pdf |archive-date=19 July 2011 |pmid=16601192 |s2cid=40038573 }}
+* {{citation
+| year  = 1963
+| first1 = William D. |last1 = Hamilton
+| title = The Evolution of Altruistic Behavior
+| journal = American Naturalist
+| volume = 97 | issue = 896 |pages = 354–56
+| doi = 10.1086/497114
+| bibcode = 1963ANat...97..354H | s2cid = 84216415 | url = http://westgroup.biology.ed.ac.uk/teach/social/Hamilton_63.pdf
+}}{{dead link|date=March 2016}}
+* {{citation|first1=William D. |last1=Hamilton |year=1964 |title=The Genetical Evolution of Social Behavior |journal=Journal of Theoretical Biology |volume=7 |issue=1 |pages=1–16, 17–52 |doi=10.1016/0022-5193(64)90038-4 |url=http://lis.epfl.ch/~markus/References/Hamilton64a.pdf |pmid=5875341 |bibcode=1964JThBi...7....1H |archive-url=https://web.archive.org/web/20091229084043/http://lis.epfl.ch/~markus/References/Hamilton64a.pdf |archive-date=29 December 2009 }}
+* {{citation|first1=Garrett |last1=Hardin |date=13 December 1968 |title=The Tragedy of the Commons |journal=Science |volume=162 |pages=1243–1248 |doi=10.1126/science.162.3859.1243 |pmid=5699198 |issue=3859 |bibcode=1968Sci...162.1243H |doi-access= }}
+* {{citation|ref=CITEREFHauertothers2007 |first1=Christoph |last1=Hauert |first2=Arne |last2=Traulsen |first3=Hannelore |last3=Brandt |first4=Martin A. |last4=Nowak |first5=Karl |last5=Sigmund |date=29 June 2007 |title=Via Freedom to Coercion: The Emergence of Costly Punishment |journal=Science |volume=316 |issue=5833 |pages=1905–07 |doi=10.1126/science.1141588 |url=http://www.ped.fas.harvard.edu/people/faculty/publications_nowak/science07.pdf |bibcode=2007Sci...316.1905H |archive-url=https://web.archive.org/web/20110518015457/http://www.ped.fas.harvard.edu/people/faculty/publications_nowak/science07.pdf |archive-date=18 May 2011 |pmid=17600218 |pmc=2430058}}
+* {{citation|first1=Joseph |last1=Henrich |date=7 April 2006 |title=Cooperation, Punishment, and the Evolution of Human Institutions |journal=Science |volume=312 |issue=5770 |pages=60–61 |doi=10.1126/science.1126398 |pmid=16601179 |s2cid=39232348 |url=https://www.sfu.ca/~wchane/sa304articles/Henrich.pdf |archive-url=https://web.archive.org/web/20110629014507/http://www.sfu.ca/~wchane/sa304articles/Henrich.pdf |archive-date=29 June 2011 }}
+* {{citation
+| ref = CITEREFHenrichothers2006
+| first1 = Joseph |last1 = Henrich
+| display-authors=etal
+| date  = 23 June 2007
+| title = Costly Punishment Across Human Societies
+| journal = Science
+| volume = 312 | issue = 5781 |pages = 1767–70
+| doi = 10.1126/science.1127333
+| url = http://www2.psych.ubc.ca/~henrich/Website/Papers/Science/Henrichetal2006Science.pdf
+ |pmid=16794075
+| bibcode = 2006Sci...312.1767H | s2cid = 4793548 }}
+* {{citation
+| first1 = Thomas |last1 = Hobbes
+| year = 1651
+| publication-date = 1958
+| title = Leviathan
+| publisher = Bobbs-Merrill [and others]
+}}
+* {{citation
+| year  = 2000
+| first1 = Robert |last1 = Hoffman
+| title = Twenty Years on: The Evolution of Cooperation Revisited
+| journal = Journal of Artificial Societies and Social Simulation| volume = 3 | issue = 2 |pages = 1390–1396
+| url = http://users.softlab.ntua.gr/~brensham/CourseSoc/Hoffmann2000.pdf
+}}
+* {{citation
+| first1 = Douglas R. |last1 = Hofstadter
+| date  = May 1983
+| title = Metamagical Themas: Computer Tournaments of the Prisoner's Dilemma Suggest How Cooperation Evolves
+| magazine = Scientific American
+| volume = 248 |pages = 16–26
+}}
+* {{citation
+| year  = 1985
+| first1 = Douglas R. |last1 = Hofstadter
+| chapter = The Prisoner's Dilemma Computer Tournaments and the Evolution of Cooperation
+| pages = 715–730
+| title = Metamagical Themas: Questing for the Essence of Mind and Pattern
+| publisher = Basic Books
+| isbn = 0-465-04540-5
+}}
+* {{citation
+| year  = 1986
+| first1 = Gregory S. |last1 = Kavka
+| title = Hobbesian moral and political theory
+| publisher = Princeton Univ. Press
+}}
+* {{citation
+| first1 = Petr |last1 = Kropotkin
+| year  = 1902
+| title = Mutual Aid: A Factor in Evolution
+| url = https://en.wikipedia.org/wiki/Mutual_Aid%3A_A_Factor_of_Evolution
+}}
+* {{citation
+| year  = 1976
+| first1 = John |last1 = Maynard Smith
+| title = Evolution and the Theory of Games
+| magazine = American Scientist
+| volume = 61 | issue = 1 |pages = 41–45
+| bibcode = 1976AmSci..64...41M }}
+* {{citation
+| first1 = John |last1 = Maynard Smith
+| date  = September 1978
+| title = The Evolution of Behavior
+| magazine = Scientific American
+| volume = 239 |issue = 3
+|pages = 176–92
+ |doi=10.1038/scientificamerican0978-176
+|pmid = 705322
+|bibcode = 1978SciAm.239c.176S}}
+* {{citation
+| year  = 1982
+| first1 = John |last1 = Maynard Smith
+| title = Evolution and the Theory of Games
+| publisher = Cambridge Univ. Press
+}}
+* {{citation
+| first1 = Herman |last1 = Melville
+| year = 1851
+| publication-date = 1977
+| title = Moby-Dick
+| publisher = Bobbs-Merrill [and others]
+}}
+* {{citation
+| first1 = Manfred |last1 = Milinski
+| date  = 1 July 1993
+| title = News and Views: Cooperation Wins and Stays
+| journal = Nature
+| volume = 364 |pages = 12–13
+| doi = 10.1038/364012a0
+ |pmid = 8316291
+|issue=6432
+| bibcode = 1993Natur.364...12M | doi-access = free
+}}
+* {{citation
+| first1 = Phillip M. |last1 = Morse
+| first2 = George E.  |last2 = Kimball
+|date=1970 |orig-date=1951 |isbn=978-0-262-13005-9
+| title = Methods of Operations Research |publisher=The MIT Press
+}}
+* {{citation
+| first1 = Phillip M. |last1 = Morse
+| first2 = George E.  |last2 = Kimball
+| chapter = How to Hunt a Submarine
+| year  = 1956
+| editor-first = James R. |editor-last = Newman
+| title = The World of Mathematics
+| publisher = Simon and Schuster
+| volume = 4 |pages = 2160–79
+}}
+* {{citation
+| first1 = Ara |last1 = Norenzayan
+| first2 = Azim F. |last2 = Shariff
+| date  = 3 October 2008
+| title = The Origin and Evolution of Religious Prosociality
+| journal = Science
+| volume = 322 |issue = 5898
+|pages = 58–62
+| doi = 10.1126/science.1158757
+| url = http://rifters.com/real/articles/Science_TheOriginandEvolutionofReligiousProsociality.pdf
+| bibcode = 2008Sci...322...58N | pmid=18832637|s2cid = 28514
+}}
+* {{citation|first1=Martin A |last1=Nowak |date=8 December 2006 |title=Five Rules for the Evolution of Cooperation |journal=Science |volume=314 |issue=5805 |pages=1560–63 |doi=10.1126/science.1133755 |url=http://www.ped.fas.harvard.edu/people/faculty/publications_nowak/Nowak_Science06.pdf |pmid=17158317 |bibcode=2006Sci...314.1560N |pmc=3279745 |archive-url=https://web.archive.org/web/20110518021052/http://www.ped.fas.harvard.edu/people/faculty/publications_nowak/Nowak_Science06.pdf |archive-date=18 May 2011 }}
+* {{citation|first1=Martin A |last1=Nowak |first2=Karen M. |last2=Page |first3=Karl |last3=Sigmund |date=8 September 2000 |title=Fairness Versus Reason in the Ultimatum Game |journal=Science |volume=289 |pages=1773–75 |doi=10.1126/science.289.5485.1773 |url=http://www.ped.fas.harvard.edu/people/faculty/publications_nowak/Science00.pdf |issue=5485 |pmid=10976075 |bibcode=2000Sci...289.1773N |archive-url=https://web.archive.org/web/20110719204742/http://www.ped.fas.harvard.edu/people/faculty/publications_nowak/Science00.pdf |archive-date=19 July 2011 }}
+* {{citation|first1=Martin A. |last1=Nowak |first2=Karl |last2=Sigmund |date=16 January 1992 |title=Tit For Tat in Heterogenous Populations |journal=Nature |volume=355 |pages=250–253 |doi=10.1038/315250a0 |pmid=3889654 |url=http://www.ped.fas.harvard.edu/people/faculty/publications_nowak/Nature92b.pdf |issue=6016 |bibcode=1985Natur.315..250T |s2cid=4344991 |archive-url=https://web.archive.org/web/20110616192929/http://www.ped.fas.harvard.edu/people/faculty/publications_nowak/Nature92b.pdf |archive-date=16 June 2011 }}
+* {{citation|first1=Martin A. |last1=Nowak |first2=Karl |last2=Sigmund |date=1 July 1993 |title=A strategy of win-stay, lose-shift that outperforms tit for tat in Prisoner's Dilemma |journal=Nature |volume=364 |pages=56–58 |doi=10.1038/364056a0 |url=http://www.ped.fas.harvard.edu/people/faculty/publications_nowak/Nature93.pdf |issue=6432 |bibcode=1993Natur.364...56N |archive-url=https://web.archive.org/web/20080704060932/http://www.ped.fas.harvard.edu/people/faculty/publications_nowak/Nature93.pdf |archive-date=4 July 2008 |pmid=8316296|s2cid=4238908 }}
+* {{citation
+| year  = 1992
+| first1 = William |last1 = Poundstone
+| title = Prisoner's Dilemma: John von Neumann, Game Theory and the Puzzle of the Bomb
+| publisher = Anchor Books
+| isbn = 0-385-41580-X
+}}
+* {{citation
+| ref = CITEREFQuervainothers2004
+| first1 = D. J.-F. |last1 = de Quervain
+| first2 = Urs      |last2 = Fischbacker
+| first3 = Valerie  |last3 = Treyer
+| first4 = Melanie  |last4 = Schellhammer
+| first5 = Ulrich   |last5 = Schnyder
+| first6 = Alfred   |last6 = Buck
+| first7 = Ernst    |last7 = Fehr
+| date  = 24 August 2004
+| title = The Neural Basis of Altruistic Punishment
+| journal = Science
+| volume = 305 |issue=<!-- 5688 --> |pages = 1254–1258
+| doi = 10.1126/science.1100735
+| pmid = 15333831 | bibcode = 2004Sci...305.1254D | s2cid = 264669 }}
+* {{citation
+| first1 = Ayn |last1 = Rand
+| year  = 1961
+| title = The Virtue of Selfishness: A New Concept of Egoism
+| publisher = The New American Library
+}}
+* {{citation
+| year  = 1965
+| first1 = Anatol    |last1 = Rapoport
+| first2 = Albert M. |last2 = Chammah
+| title = Prisoner's Dilemma
+| publisher = Univ. of Michigan Press
+}}
+* {{citation
+| first1 = Rick L. |last1 = Riolo
+| first2 = Michael D. |last2 = Cohen
+| first3 = Robert |last3 = Axelrod
+| date  = 23 November 2001
+| title = Evolution of cooperation without reciprocity
+| journal = Nature
+| volume = 414 |pages = 441–43
+| doi = 10.1038/35106555
+|pmid = 11719803
+| url = http://www-personal.umich.edu/~axe/research/EC_wo_reciprocity.pdf |issue=6862
+| bibcode = 2001Natur.414..441R |hdl = 2027.42/62686
+|s2cid = 4317386
+| hdl-access = free
+}}
+* {{citation|first1=Joan |last1=Roughgarden |first2=Meeko |last2=Oishi | author2-link = Meeko Oishi |first3=Erol |last3=Akcay |date=17 February 2006 |title=Reproductive Social Behavior: Cooperative Games to Replace Sexual Selection |journal=Science |volume=311 |issue=5763 |pages=965–69 |doi=10.1126/science.1110105 |url=http://www.ecfs.org/projects/pchurch/AT%20BIOLOGY/PAPERS/ReplacingDarwinsSexualSelection.pdf |pmid=16484485 |bibcode=2006Sci...311..965R |s2cid=32364112 |archive-url=https://web.archive.org/web/20110721215055/http://www.ecfs.org/projects/pchurch/AT%20BIOLOGY/PAPERS/ReplacingDarwinsSexualSelection.pdf |archive-date=21 July 2011 }}
+* {{citation
+| first1 = Jean Jacques |last1 = Rousseau
+| year = 1762
+| publication-date = 1950
+| title = The Social Contract
+| publisher = E. P. Dutton & Co. [and others]
+}}
+* {{citation
+| year  = 2014
+| first1 = Hannes |last1 = Rusch
+| title = The Evolutionary Interplay of Intergroup Conflict and Altruism in Humans: A Review of Parochial Altruism Theory and Prospects for its Extension
+| journal = Proceedings of the Royal Society B: Biological Sciences
+| volume = 281 | issue = 1794 |article-number = 20141539
+| doi = 10.1098/rspb.2014.1539
+ | pmid=25253457
+ | pmc=4211448
+}}
+* {{citation
+| first1 = Alan G. |last1 = Sanfey
+| date  = 26 October 2007
+| title = Social Decision-Making: Insights from Game Theory and Neuroscience
+| journal = Science
+| volume = 318 |issue = 5850
+|pages = 598–602
+| doi = 10.1126/science.1142996
+| pmid=17962552
+| bibcode = 2007Sci...318..598S | doi-access = 
+}}
+* {{citation|first1=Karl |last1=Sigmund |first2=Ernest |last2=Fehr |first3=Martin A. |last3=Nowak |date=January 2002 |title=The Economics of Fair Play |volume=286 |issue=1 |magazine=Scientific American |pages=82–87 |url=http://www.ped.fas.harvard.edu/people/faculty/publications_nowak/SciAm02.pdf |archive-url=https://web.archive.org/web/20110518024042/http://www.ped.fas.harvard.edu/people/faculty/publications_nowak/SciAm02.pdf |archive-date=18 May 2011 |bibcode=2002SciAm.286a..82S |doi=10.1038/scientificamerican0102-82 |pmid=11799620 }}
+* {{citation
+| first1 = Alexander  |last1 = Stewart
+| first2 = Joshua B. |last2 = Plotkin
+| date  = 17 September 2013
+| title = From extortion to generosity, evolution in the Iterated Prisoner's Dilemma
+| journal = Proceedings of the National Academy of Sciences
+| volume = 110 |issue = 38
+|pages = 15348–15353
+| doi = 10.1073/pnas.1306246110
+|pmid = 24003115
+|pmc = 3780848|bibcode = 2013PNAS..11015348S|doi-access = free
+}}
+* {{citation
+| first1 = Robert L. |last1 = Trivers
+| date  = March 1971
+| title = The Evolution of Reciprocal Altruism
+| journal = Quarterly Review of Biology
+| volume = 46 |pages = 35–57
+| doi = 10.1086/406755
+|s2cid = 19027999
+| url = http://lis.epfl.ch/~markus/References/Trivers71.pdf
+}}{{dead link|date=March 2016}}
+* {{citation
+| first1 = Gretchen |last1 = Vogel
+| date  = 20 February 2004
+| title = News Focus: The Evolution of the Golden Rule
+| journal = Science
+| volume = 303 |pages = 1128–31
+| doi = 10.1126/science.303.5661.1128
+|pmid = 14976292
+|issue=5661
+|s2cid = 178426383
+}}
+* {{citation
+| year  = 1944
+| first1 = John  |last1 = Von Neumann |author-link=John von Neumann
+| first2 = Oskar |last2 = Morgenstern |author-link2=Oskar Morgenstern
+| title = Theory of Games and Economic Behavior
+| journal = Nature | volume = 157 | issue = 3981 | page = 172 | publisher = Princeton Univ. Press
+| bibcode = 1946Natur.157..172R | doi = 10.1038/157172a0 | s2cid = 29754824 }}
+* {{citation
+| first1 = Nicholas |last1 = Wade
+| date  = 20 March 2007
+| title = Scientist Finds the Beginnings of Morality in Primitive Behavior
+| journal = The New York Times
+| page = D3
+| url = https://www.nytimes.com/2007/09/18/science/18mora.html?pagewanted=1
+}}
+* {{citation
+| year  = 1954
+| first1 = John D. |last1 = Williams
+| title = The Compleat Strategyst
+| publisher = RAND Corp.
+}}
+* {{citation
+| year  = 1966
+| first1 = John D. |last1 = Williams
+| title = The Compleat Strategyst: being a primer on the theory of games of strategy
+| edition = 2nd
+| publisher = McGraw-Hill Book Co.
+}}
+* {{citation
+| first1 = Edward O. |last1 = Wilson
+| orig-date  = 1975
+| year  = 2000
+| edition = 25th Anniversary
+| title = Sociobiology: The New Synthesis
+| publisher = Harvard Univ. Press
+| isbn = 0-674-00235-0
+}}
+{{div col end}}
+<!-- please keep entries in alphabetical order -->
+
+==External links==
+* [https://www.youtube.com/watch?v=BOvAbjfJ0x0 The Iterated Prisoner's Dilemma and The Evolution of Cooperation]
+* [https://web.archive.org/web/20181229222135/https://ncase.me/trust/ The Evolution of Trust]
+
+{{DEFAULTSORT:Evolution of Cooperation, The}}
+[[Category:1984 non-fiction books]]
+[[Category:Books about evolutionary psychology]]
+[[Category:Books about game theory]]
+[[Category:Holism]]
+[[Category:Basic Books books]]

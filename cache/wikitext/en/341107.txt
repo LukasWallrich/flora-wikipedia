@@ -1,0 +1,87 @@
+{{short description|Substitute good, particularly in wartime}}
+{{Redirect|Ersatz}}
+{{more citations needed|date=April 2014}}
+An '''ersatz good''' ({{IPAc-en|UK|ˈ|ɛər|z|æ|t|s}} {{respell|AIR|zats}}, {{IPAc-en|US|ˈ|ɛər|z|ɑː|t|s}} {{respell|AIR|zahts}}, {{small|both}} {{IPAc-en|also|ˈ|ɜːr|-}} {{respell|UR|-}}) is a [[substitute good]], especially one that is considered inferior to the good it replaces.<ref>{{cite book|title=Human Action|author=Mises, Ludwig von|quote=A substitute is a good which is either less suitable or more expensive or both less suitable and more expensive than the proper good which it is designed to replace.|date=1949|chapter=War and Autarky|chapter-url=https://mises.org/library/human-action-0/html/pp/906|archive-date=2017-02-03|access-date=2017-01-10|archive-url=https://web.archive.org/web/20170203213817/https://mises.org/library/human-action-0/html/pp/906|url-status=dead}}</ref> It has particular connotations of wartime usage.
+
+==Etymology==
+''Ersatz'' ({{IPA|de|ɛʁˈzats|lang|De-Ersatz.ogg}}) is a German word meaning ''substitute'' or ''replacement''.<ref>{{cite web|url=http://www.merriam-webster.com/dictionary/ersatz |title=Ersatz - Definition and More from the Free Merriam-Webster Dictionary |publisher=Merriam-webster.com |date=2012-08-31 |access-date=2013-08-18}}</ref> Although it is used as an adjective in [[English language|English]], it is a noun in German. In German orthography noun phrases formed are usually represented as a single word, forming compound nouns such as ''Ersatzteile'' ("spare parts") or ''Ersatzspieler'' ("substitute player"). While ''ersatz'' in English generally means that the substitution is of unsatisfactory or inferior quality compared with the "real thing", in German, there is no such implication: e.g., ''Ersatzteile'' 'spare parts' is a technical expression without any implication about quality, ''Kaffeeersatz'' '[[coffee substitute]]' is a drink from something other than coffee beans, and ''Ersatzzug'' 'replacement train' performs a comparable service. The term for inferior substitute in German would be ''Surrogat'', which is cognate to the English word "surrogate".
+
+==Historical examples==
+===World War I===
+In the opening months of [[World War I]], replacement troops for battle-depleted German infantry units were drawn from lesser-trained [[Ersatz Corps]], which were less effective than the troops they replaced.
+[[File:Ludwig Hohlwein - Feima Kaffee-Ersatz mit Bohnenkaffee, 1926.jpg|thumb|Advertisement for ''ersatz'' coffee (containing some [[coffee beans]]) in 1926]]
+Another example of the word's usage in Germany exists in the [[Imperial German Navy|German naval]] construction programs at the beginning of the 20th century. In this context, the phrasing "Ersatz (ship name)" indicates that a new, larger or more capable ship was a replacement for an ageing or lost vessel. Because German practice was not to reveal the name of a new ship until its launch, this meant that the ship was known by its "Ersatz (ship name)" throughout its construction. At the end of World War I, the last three ships of the planned {{Sclass|Mackensen|battlecruiser|4}} of battlecruisers were redesigned and initially known simply as the {{Sclass|Ersatz Yorck|battlecruiser|4}}, since the first ship was considered to be a replacement for the lost [[armored cruiser]] {{SMS|Yorck||2}}.
+
+The Allied naval [[Blockade of Germany (1914–1919)|blockade of Germany]] limited maritime commerce with Germany, forcing Germany and Austria-Hungary to develop substitutes for products such as [[chemical compound]]s and [[wikt:provision|provisions]]. More than 11,000 ersatz products were sold in Germany during the war. Patents for ersatz products were granted for 6000 varieties of beer, wine and lemonade; 1000 kinds of soup cubes; 837 types of sausage and 511 assortments of coffee.<ref>{{cite book |last1=Luders |first1=Marie-Elisabeth |title=Das unbekannte Heer. Frauen kampfen fur Deutschland 1914-1918 |date=1936 |publisher=E.S. Mittler & Sohn |location=Berlin |page=122}}</ref>
+
+[[File:Ersatz bread (cropped).jpg|thumb|Ersatz bread from World War I on display at the [[Imperial War Museum]] in London. It is an extreme example of an Ersatz good, estimated to actually only be 20% bread.]]
+
+''Ersatz'' products developed in Germany and Austria-Hungary during this time included:<ref>{{cite book |last1=Herwig |first1=Holger H |title=The First World War Germany and Austria-Hungary 1914-1918 |date=1997 |publisher=Arnold |location=London |isbn=0340677538 |pages=256, 257, 275–6, 288–9}}</ref>
+*[[synthetic rubber]] ''Kautschuk'' produced from petroleum for rubber
+*[[benzene]] for heating oil (coal gas)
+*industrial lubricants made by extracting oils from coal tar and brown-coal slags
+*synthetic [[camphor]] for imported natural camphor
+*[[nitrate]] crepe paper made from [[cellulose]] for [[gun cotton]]
+*[[glycerin]] from sugar rather than fats
+*[[gypsum]]-yielded [[sulphur]]
+*pigeon [[guano]] used to make fertilizer
+*flowers and weeds processed to make alcohol for ammunition
+*[[rosin]]s and gums extracted from coal derivatives
+*tea composed of roasted barley, grasses, wild flowers, ground raspberry leaves or [[catnip]]
+*coffee substitute using roasted [[acorn]]s, chicory and beechnuts (stretched with caramel-flavoured raw sugar and beet flower later in the war)
+*butter replaced by curdled milk, sugar and food colouring
+*cooking oil replaced by a mixture of beets, carrots, turnips and spices
+*[[salad oil]] was 99% [[mucilage]]
+*eggs replaced by yellow-coloured corn or potato flour
+*ground European beetles ([[cockchafer]]s) and [[Linden tree#Wood|linden wood]] replaced fats
+*sausage made of water, plant fibres, animal scraps and blood (the infamous 'war sausage' which was equated to 'a mouthful of sawdust')
+*[[bouillon cubes]] made 70&ndash;90% of salt rather than meat extract
+*wheat flour stretched by adding potato flour and powdered hay
+*chocolates and cocoa replaced by ground cocoa shells and mixed pure pepper
+*oil and sunflower 'cakes' replaced corn and oats as horse feed
+*[[rapeseed]], [[poppy]] and mustard 'cakes' replaced green feed for cattle
+*paper, [[peat]], [[reed (plant)|reed]]s, [[bulrush]]es and free-growing stinging [[nettle]] fibres replaced cotton in textiles
+*wood and paper used for shoe soles
+
+Germany also stretched its supply of petrol with '[[Common ethanol fuel mixtures|gasohol]]' (''Benzolspiritus''), which by today's standards would be classed as E25 petrol, consisting of 75% petrol and 25% distilled alcohol, likely [[ethanol]].{{citation needed|date=April 2022}}
+
+===World War II===
+In [[World War II]], ''Ersatzbrot'' (substitute bread) made of [[potato starch]], frequently stretched with extenders such as sawdust, was furnished to soldiers as ''Kommissbrot'', a dark German bread baked from rye and other flours used for [[military rations]],<ref>{{Cite web | last =Ganse | first =Alexander | title =War Economies | work =History of the Economy | publisher =World History at KMLA | date =15 February 2002 | url =http://www.zum.de/whkmla/economy/period/warecwwi.html | access-date =1 September 2011}}</ref><ref>{{Cite magazine | title=Medicine: Feeding the Reichswehr | magazine=[[Time (magazine)|Time]] | date =28 July 1941 | url =http://www.time.com/time/magazine/article/0,9171,795450,00.html | archive-url =https://web.archive.org/web/20100624094216/http://www.time.com/time/magazine/article/0,9171,795450,00.html | url-status =dead | archive-date =June 24, 2010 | access-date =1 September 2011}}</ref> and also to [[prisoners of war]].<ref name="AkitaMemoir">{{cite web |last1=Akita |first1=Stanley |title=Life at Stalag VII A |url=http://nisei.hawaii.edu/object/io_1158869130986.html |website=The Hawaiʻi Nisei Story: Americans of Japanese Ancestry During WWII |publisher=[[University of Hawaiʻi]] |access-date=13 May 2020 |archive-date=13 June 2007 |archive-url=https://web.archive.org/web/20070613113605/http://nisei.hawaii.edu/object/io_1158869130986.html |url-status=dead}}</ref><ref name="Sumner2019">{{cite book |last1=Sumner |first1=Judith |title=Plants Go to War: A Botanical History of World War II |date=2019 |publisher=McFarland |isbn=978-1476676128 |page=297 |url=https://books.google.com/books?id=D_WaDwAAQBAJ&pg=PA297 |access-date=13 May 2020}}</ref><ref name="OssadNordhausen">{{cite web |last1=Ossad |first1=Steve |title=The Liberation of Nordhausen Concentration Camp |url=https://warfarehistorynetwork.com/2019/12/31/the-liberation-of-nordhausen-concentration-camp/ |website=Warfare History Network |access-date=13 May 2020}}</ref> One recipe reportedly discovered in the "Food Providing Ministry" (''[[Reichsnährstand]]'') in Berlin, labeled "(Top Secret) Berlin 24.X1 1941", contained 50% bruised rye grain, 20% sliced [[sugar beet]]s, 20% "tree flour" (sawdust), and 10% minced leaves and straw.<ref name="AkitaMemoir"/>
+
+[[File:Лепёшки из лебеды и машинного масла.jpg|thumb|Ersatz food from the siege of Leningrad, made from [[Chenopodium album|goose-foot seed]] and bran, and fried in [[mineral oil]]]]
+
+During the [[siege of Leningrad]], its citizens were given ersatz flour instead of actual wheat flour (of which there was an extremely limited supply then) by the Soviet authorities. The lack of proper food with any nutrition meant that the city residents not only starved but became vulnerable to deadly illnesses and diseases (such as [[dysentery]]) owing to their weakened physical conditions.<ref>{{cite book |last1=Simmons |first1=Cynthia |last2=Perlina |first2=Nina |title=Writing The Siege Of Leningrad: Women's Diaries, Memoirs, and Documentary Prose (Pitt Series in Russian and East European Studies) |date=2005-01-19 |publisher=University of Pittsburgh Press |isbn=0822958694 |page=97 |edition=1st}}</ref> As a result, the word ersatz entered as a [[pejorative]] into Russian and other [[Slavic languages]].
+
+In Britain, this was additionally popularised as an adjective from the experiences of thousands of U.S., British, and other English-speaking combat personnel, primarily airmen, who were captured in the [[European Theater of Operations]] during World War II. These Allied [[prisoners of war]] were given ersatz goods such as ''Ersatzkaffee'', an inferior ''Getreidekaffee'' or "[[roasted grain beverage|grain coffee]]" as a [[coffee substitute]] by their German captors.
+
+===Eastern Bloc===
+In the [[Eastern Bloc]], many agricultural goods could not be produced domestically, such as tea, coffee, nuts, and citrus fruits. These were generally imported from abroad with scarce foreign currency reserves, or inferior substitutes were produced domestically. In 1977, the [[East German coffee crisis]] resulted in the introduction of many [[coffee substitute]]s, which were generally rejected by the population. Replacements for [[orangeat]] and [[succade]] were made from candied carrot and unripe tomatoes.<ref>{{cite news |url=http://www.spiegel.de/spiegel/print/d-13490070.html |title=Geheimsache Süßtafel |date=22 April 1991 |work=[[Der Spiegel]] |language=de |access-date=1 April 2018}}</ref>
+
+===Other===
+A study of conditions in the Southern United States during the [[American Civil War]] is called ''Ersatz in the Confederacy''.<ref>{{cite book | title = Ersatz in the Confederacy: Shortages and Substitutes on the Southern Homefront | date = 1952 | publisher = University of South Carolina | first = Mary Elizabeth | last = Massey}}</ref>
+
+==Effectiveness==
+When presented with a choice of ersatz, one tends to prefer the [[Generic brand|generic version]] of the brand rather than an entirely different product. Specifically one that most closely resembles the original and [[equifinality|meets the same goal]]. 
+
+For instance, a person who desires a gourmet chocolate is more likely to choose another, less expensive chocolate as a substitute than a different kind of dessert or snack. Because such "within-category" substitutes are easier to compare to the desired good, however, those that are inferior are less effective than "cross-category" substitutes that fulfill the same goal. People are more able to notice their inferiority during consumption, which leads them to be less satisfying than goal-derived substitutes from different taxonomic categories.<ref>{{Cite journal|last1=Huh|first1=Young Eun|last2=Vosgerau|first2=Joachim|last3=Morewedge|first3=Carey K.|date=2016-06-01|title=More Similar but Less Satisfying Comparing Preferences for and the Efficacy of Within- and Cross-Category Substitutes for Food|journal=Psychological Science|language=en|volume=27|issue=6|pages=894–903|doi=10.1177/0956797616640705|issn=0956-7976|pmid=27142460|s2cid=4829178}}</ref>
+
+During the First World War in Germany and Austria-Hungary, people succumbed to sickness from the consumption of ersatz goods. In Austria, the term "Vienna sickness" was coined after malnutrition from such goods was linked to a cause of the tuberculosis epidemic (10,000 reported cases).<ref>{{cite book |last1=May |first1=Arthur J |title=The Passing of the Hapsburg Monarchy 1914-1918 |date=1966 |publisher=University of Pennsylvania Press |location=Philadelphia |pages=287–9}}</ref>
+
+In Germany, [[Evelyn, Princess Blücher|Princess Blücher]] suffered from influenza in 1916, suggesting that she was suffering from "ersatz illness". She writes: "everyone is feeling ill from too many chemicals in the hotel food. I don't believe that Germany will ever be starved out, but she will be poisoned out first with these substitutes."<ref>{{cite book |last1=Princess Blucher |first1=Evelyn |title=An English Wife in Berlin: A Private Memoir of Events, Politics, and Daily Life in Germany throughout the War and the Social Revolution of 1918 |date=1920 |publisher=E.P. Dutton |location=New York |page=122}}</ref>
+
+==See also==
+*[[Adulterant]]
+*[[Austerity]]
+*[[Backstop resources]]
+*[[Claytons]], a word used in Australian and New Zealand English
+*[[Counterfeit]]
+*[[Giffen good]], a good for which there is no ersatz replacement, causing demand to rise with prices
+
+==References==
+{{Reflist}}
+
+[[Category:German words and phrases]]
+[[Category:Goods]]
+[[Category:Imitation foods]]
+[[Category:Perfect competition]]
+[[Category:Survival skills]]

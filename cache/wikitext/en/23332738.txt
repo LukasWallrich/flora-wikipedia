@@ -1,0 +1,96 @@
+{{Short description|Mental picture of self that comes from different sources}}
+{{Distinguish|Self-awareness|Self-concept|Self-consciousness|Self-perception theory|Self-esteem|Confidence{{!}}Self-confidence}}
+[[File:How you think you look when a flashlight is taken.webp|thumb|upright=1.3|A 1921 cartoon representation of a person's self-image compared to their reality.]]
+{{Self sidebar}}
+'''Self-image''' is the mental picture, generally of a kind that is quite resistant to change, that depicts not only details that are potentially available to an objective investigation by others (height, weight, hair color, etc.), but also items that have been learned by persons about themselves, either from personal experiences or by [[Internalization (psychology)|internalizing]] the judgments of others. In some formulations, it is a component of [[self-concept]].
+
+Self-image may consist of six types:{{fact|date=January 2024}}<ref>{{Citation |last=Gronbeck |first=Bruce E. |title=Negative Political Ads and American Self Images |date=2019-06-26 |work=Presidential Campaigns and American Self Images |pages=60–81 |url=http://dx.doi.org/10.4324/9780429302947-5 |access-date=2024-01-22 |publisher=Routledge |doi=10.4324/9780429302947-5 |isbn=978-0-429-30294-7|s2cid=199144382 |url-access=subscription }}</ref>
+# Self-image resulting from how an individual sees oneself.
+# Self-image resulting from how others see the individual.
+# Self-image resulting from how the individual perceives the individual seeing oneself.
+# Self-image resulting from how the individual perceives how others see the individual.
+# Self-image resulting from how others perceive how the individual sees oneself.
+# Self-image resulting from how others perceive how others see the individual.
+
+These six types may or may not be an accurate representation of the person. All, some, or none of them may be true.
+
+A more technical term for self-image that is commonly used by social and cognitive psychologists is '''[[self-schema]]'''. Like any [[Schema (psychology)|schema]], self-schemas store information and influence the way we think and remember. For example, research indicates that information which refers to the self is preferentially encoded and recalled in memory tests, a phenomenon known as "[[self-referential encoding]]".<ref>{{cite journal |last1=Rogers |first1=T. B. |last2=Kuiper |first2=N. A. |last3=Kirker |first3=W. S. |year=1977 |title=Self-Reference and the Encoding of Personal Information |journal=Journal of Personality and Social Psychology |volume=35 |issue=9 |pages=677–688 |doi=10.1037/0022-3514.35.9.677 |pmid=909043 }}</ref> Self-schemas are also considered the traits people use to define themselves, they draw information about the self into a coherent scheme.<ref name=Schacter>{{cite book |last=Schacter |title=Psychology |url=https://archive.org/details/psychology0000scha |url-access=registration |edition=2nd |publisher=Worth Publishers |isbn=978-1-4292-3719-2|date=2010-12-10 }}</ref><ref>{{cite book |last=Schacter |first=Daniel L. |title=Psychology |url=https://archive.org/details/psychology0000scha |url-access=registration |year=2011 |publisher=Worth Publishers |location=New York, NY |pages=[https://archive.org/details/psychology0000scha/page/494 494] |edition=2nd |author2=Daniel T. Gilbert |author3=Daniel M. Wegner |isbn=9781429237192 }}</ref>
+
+==Poor self-image==
+
+Poor self-image may be the result of accumulated criticisms that the person collected as a child which have led to damaging their own view of themselves. Children in particular are vulnerable to accepting negative judgments from authority figures because they have yet to develop competency in evaluating such comments. Also, adolescents are highly targeted to suffer from poor body-image issues. Individuals who already exhibit a low sense of self-worth may be vulnerable to develop social disorders.
+
+Negative self-images can arise from a variety of factors. A prominent factor, however, is personality type. [[Perfectionism (psychology)|Perfectionists]], high achievers and those with "[[Type A personality|type A]]" personalities seem to be prone to having negative self-images.<ref>{{cite book |last1=Adler |first1=Ronald B. |first2=Lawrence B. |last2=Rosenfeld |first3=Russell F. |last3=Proctor |title=Interplay: The Process of Interpersonal Communication |page=25 }}</ref><ref>{{cite journal |last1=Flett |first1=Gordon L. |last2=Panico |first2=Teresa |last3=Hewitt |first3=Paul L. |title=Perfectionism, Type A Behavior, and Self-Efficacy in Depression and Health Symptoms among Adolescents |journal=Current Psychology |date=June 2011 |volume=30 |issue=2 |pages=105–116 |doi=10.1007/s12144-011-9103-4}}</ref>{{Full citation needed|date=December 2018}} This is because such people constantly set the standard for success high above a reasonable, attainable level. Thus, they are constantly disappointed in this "failure."
+
+Another factor that contributes to a negative self-image is the beauty values of the society in which a person lives. In the American society, a popular beauty ideal is a slimness. Oftentimes, girls believe that they do not measure up to society's "thin" standards, which leads to their having a negative self-image.<ref>{{cite web |url=https://www.nationaleatingdisorders.org/risk-factors |title=Risk Factors |date= 2017-02-21}}</ref>
+
+==Maintenance==
+When people are in the position of evaluating others, self-image maintenance processes can lead to a more negative evaluation depending on the self-image of the evaluator. That is to say [[prejudice|stereotyping and prejudice]] may be the way individuals maintain their self-image. When individuals evaluate a member of a stereotyped group, they are less likely to evaluate that person negatively if their self-images had been bolstered through a self-affirmation procedure, and they are more likely to evaluate that person stereotypically if their self-images have been threatened by negative feedback.<ref name="Fein & Spencer">{{cite journal |last1=Fein |first1=S. |last2=Spencer |first2=S. J. |year=1997 |title=Prejudice as self-image maintenance: Affirming the self through derogating others |journal=Journal of Personality and Social Psychology |volume=73 |issue=1 |pages=31–44 |doi=10.1037/0022-3514.73.1.31 |s2cid=10447603 }}</ref> Individuals may restore their self-esteem by derogating the member of a stereotyped group.<ref>{{cite journal |last1=Florack |first1=A. |last2=Scarabis |first2=M. |last3=Gosejohann |first3=S. |year=2005 |title=The Effects of Self-Image Threat on the Judgment of Out-Group Targets |journal=[[Swiss Journal of Psychology]] |volume=64 |issue=2 |pages=87–101 |doi= 10.1024/1421-0185.64.2.87}}</ref>
+
+Fein and Spencer (1997) conducted a study on Self-image Maintenance and Discriminatory Behavior. This study showed evidence that increased prejudice can result from a person's need to redeem a threatened positive perception of the self. The aim of the study was to test whether a particular threat to the self would instigate increased stereotyping and lead to actual discriminatory behavior or tendencies towards a member of a "''negatively''" stereotyped group. 
+The study began when Fein and Spencer gave participants an ostensible test of intelligence. Some of them received negative feedback, and others, positive and supportive feedback. In the second half of the experiment, the participants were asked to evaluate another person who either belonged to a ''negatively stereotyped group'', or one who did not. 
+The results of the experiment showed that the participants who had previously received unfavorable comments on their test, evaluated the target of the ''negatively stereotyped group'' in a more antagonistic or opposing way, than the participants who were given excellent reports on their intelligence test. They suggested that the negative feedback on the test threatened the participants' self-image and they evaluated the target in a more negative manner, all in efforts to restore their own self-esteem.<ref name="Fein & Spencer" />
+
+A present study extends the studies of Fein and Spencer in which the principal behavior examined was avoidance behavior.  In the study, Macrae et al. (2004) found that participants that had a salient negative stereotype of "skinheads" attached, physically placed themselves further from a skinhead target compared to those in which the stereotype was not as apparent.  Therefore, greater salience of a negative stereotype led participants to show more stereotype-consistent behavior towards the target.<ref>{{cite journal |last=Macrae |year=1994 |title=Self-image Maintenance and Discriminatory Behavior |journal=Revue Internationale de Psychologie Sociale |pages=153–171 }}</ref>
+
+==Residual==
+'''Residual self-image''' is the concept that individuals tend to think of [[Self (psychology)|themselves]] as projecting a certain [[Human physical appearance|physical appearance]],<ref>{{cite journal |journal=Literature and Psychology |issue=4 |volume=49 |page=43 |issn=0024-4759 }}</ref>{{Full citation needed|date=December 2018}}<ref>{{cite book |first1=Stephen R. |last1=Lankton |first2=Carol H. |last2=Lankton |title=Enchantment and Intervention in Family Therapy |location=New York |publisher=Brunner/Mazel |year=1986 |page=[https://archive.org/details/enchantmentinter0000lank/page/57 57] |isbn=978-0-87630-428-0 |url=https://archive.org/details/enchantmentinter0000lank/page/57 }}</ref> or certain position of social entitlement, or lack thereof.<ref>{{cite book |first1=Kum-Kum |last1=Bhavnani |first2=Ann |last2=Phoenix |author-link2=Ann Phoenix |title=Shifting Identities, Shifting Racisms: A Feminism & Psychology Reader |location=Thousand Oaks, CA |publisher=Sage |year=1994 |page=31 |isbn=978-0-8039-7787-7 }}</ref> The term was used at least as early as 1968,<ref>{{cite journal |title='I Can't' Versus 'He Won't'; Further Considerations of the Psychical Consequences of the Anatomic and Physiological Differences Between the Sexes |first=Marjorie C. |last=Barnett |journal=Journal of the American Psychoanalytic Association |volume=16 |issue=3–4 |year=1968 |pages=588–600 [p. 594] |doi=10.1177/000306516801600312 |pmid=5685227 |s2cid=37404582 |quote=Women remain 'depriving competitors,' and the residual self image is 'I don't have the equipment to attract men. }}</ref> but was popularized in fiction by the [[The Matrix (series)|''Matrix'' series]], where persons who existed in a digitally created world would subconsciously maintain the physical appearance that they had become accustomed to projecting.<ref>{{cite book |first=Matt |last=Lawrence |title=Like a Splinter in Your Mind: The Philosophy Behind the Matrix |location=Malden |publisher=Blackwell |year=2004 |page=212 |isbn=978-1-4051-2523-9 }}</ref>
+
+==Victimisation==
+Victims of [[abuse]] and [[Psychological manipulation|manipulation]] often get trapped into a self-image of [[victimisation]]. The psychological profile of victimisation includes a pervasive sense of helplessness, passivity, [[locus of control|loss of control]], [[pessimism]], negative thinking, strong feelings of self-guilt, [[shame]], [[Blame#Self-blame|self-blame]] and [[Depression (mood)|depression]]. This way of thinking can lead to hopelessness and despair.<ref name=braiker>{{cite book |last=Braiker |first=Harriet B. |title=Who's Pulling Your Strings? How to Break The Cycle of Manipulation |location=New York |publisher=McGraw-Hill |year=2004 |isbn=978-0-07-140278-1 |url-access=registration |url=https://archive.org/details/whospullingyours00harr }}</ref>
+
+==Children's disparity==
+Self-image disparity was found to be positively related to chronological age (CA) and intelligence. Two factors thought to increase concomitantly with maturity were capacity for guilt and ability for cognitive differentiation.<ref>{{cite journal |last1=Katz |first1=P. |last2=Zigler |first2=E. |year=1967 |title=Self-image Disparity: A Developmental Approach |journal=Journal of Personality and Social Psychology |volume=5 |issue=2 |pages=186–195 |doi=10.1037/h0024190 |pmid=5633508 }}</ref> However, males had larger self-image disparities than females, Caucasians had larger disparities and higher ideal self-images than African Americans, and socioeconomic status (SES) affected self-images differentially for the 2nd and 5th graders.<ref>{{cite journal |last1=Phillips |first1=D. A. |last2=Zigler |first2=E. F. |year=1980 |title=Children's self-image disparity: Effects of age, socioeconomic status, ethnicity, and gender |journal=Journal of Personality and Social Psychology |volume=39 |issue=4 |pages=689–700 |doi=10.1037/0022-3514.39.4.689 }}</ref>
+
+===Strengtheners===
+A child's self-awareness of who they are differentiates into three categories around the age of five: their social self, academic persona, and physical attributes. Several ways to strengthen a child's self-image include communication, reassurance, support of hobbies, and finding good role models.<ref>{{cite web |title=Empowering Self-Esteem in Young Kids: Proven Strategies for Parents {{!}} Kids Bedtime Stories |url=https://lionheartstoryz.com/blog/childhood-self-esteem |website=LionHeart Storyz |access-date=8 September 2024 |language=en}}</ref><ref>{{cite web |title=Tips to Build Self-Esteem and Self-Confidence in Your Child (and Yourself) |url=https://ccy.jfcs.org/tips-to-build-self-esteem-and-self-confidence-in-your-child-and-yourself/ |website=Center for Children and Youth |access-date=8 September 2024 |date=11 December 2013}}</ref>
+
+==Evolved awareness in mirror==
+In the earliest stages of development, infants are not aware that images in mirrors are themselves. Research was done on 88 children between 3 and 24 months.<ref>{{cite journal |last=Amsterdam |first=B. |year=1972 |title=Mirror self-image reactions before age two |journal=Developmental Psychobiology |volume=5 |issue=4 |pages=297–305 |doi=10.1002/dev.420050403 |pmid=4679817 }}</ref> Their behaviors were observed before a mirror. The results indicated that children's awareness of self-image followed three major age-related sequences:  
+* From about 6 through 12 months of age, the first prolonged and repeated reaction of an infant to their mirror image is that of a sociable “playmate”. 
+* In the second year of life, wariness and withdrawal appeared; self-admiring and embarrassed behavior accompanied those avoidance behaviors starting at 14 months, and was shown by 75% of the subjects after 20 months of age. 
+* During the last part of the second year of life, from 20 to 24 months of age, 65% of the subjects demonstrated recognition of their mirror images.
+
+==Women's sexual behavior== 
+A magazine survey that included items about body image, self-image, and sexual behaviors was completed by 3,627 women. The study found that overall self-image and body image are significant predictors of sexual activity. Women who were more satisfied with body image reported more sexual activity, orgasm, and initiating sex, greater comfort undressing in front of their partner, having sex with the lights on, trying new sexual behaviors (e.g. anal sex), and pleasing their partner sexually than those dissatisfied.<ref>{{cite journal |last1=Ackard |first1=D. M. |last2=Kearney-Cooke |first2=A. |last3=Peterson |first3=C. B. |year=2000 |title=Effect of body image and self-image on women's sexual behaviors |journal=International Journal of Eating Disorders |volume=28 |issue=4 |pages=422–429 |doi=10.1002/1098-108X(200012)28:4<422::AID-EAT10>3.0.CO;2-1 |pmid=11054789 }}</ref> Positive body image was inversely related to self-consciousness and importance of physical attractiveness, and directly related to relationships with others and overall satisfaction.
+
+==Men's sexual behavior==
+An article published in the journal, ''Psychology of Men & Masculinity'', analyzed how (perceived) penile size affected body satisfaction in males. Based on the responses received from 110 heterosexual individuals (67 men; 43 women) to questions on the matter, the article concluded:<blockquote>Men showed significant dissatisfaction with penile size, despite perceiving themselves to be of average size. Importantly, there were significant relationships between penile dissatisfaction and comfort with others seeing their penis, and with likelihood of seeking medical advice with regard to penile and/or sexual function. Given the negative consequences of low body satisfaction and the importance of early intervention in sexually related illnesses (e.g., testicular cancer), it is imperative that attention be paid to male body dissatisfaction.<ref>{{cite journal |last1=Johnston |first1=Lucy |first2=Tracey |last2=McLellan |first3=Audrey |last3=McKinlay |year=2014 |title=(Perceived) Size Really Does Matter: Male Dissatisfaction With Penis Size |journal=Psychology of Men & Masculinity |volume=15 |issue=2 |pages=225–228 |doi=10.1037/a0033264 }}</ref></blockquote>
+
+==See also==
+{{Div col|colwidth=18em}}
+* [[Acquiescence]]
+* [[Body image]]
+* [[Body schema]]
+* [[Culture of poverty]]
+* [[Dunning–Kruger effect]]
+* [[End-of-history illusion]]
+* [[Face (self image)]]
+* [[Fear of negative evaluation]]
+* [[Figure rating scale]]
+* [[Justice|Ideas of fairness]]
+* [[Identity formation]]
+* [[Identity performance]]
+* [[Inferiority complex]]
+* [[The Honest Body Project]]
+* [[Positive mental attitude]]
+* [[Psychological projection]]
+* [[Self-concealment]]
+* [[Self-concept]]
+* [[Self-efficacy]]
+* [[Self-esteem]]
+* [[Self (psychology)]]
+* [[Self-schema]]
+* [[Style of life]]
+* [[Victimology]]
+{{Div col end}}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Self Image}}
+[[Category:Conceptions of self]]
+[[Category:Perception]]
+[[Category:Psychological theories]]

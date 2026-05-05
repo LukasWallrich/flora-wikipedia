@@ -1,0 +1,28 @@
+{{Short description|Tunisian geneticist}}{{Infobox person
+| name               = Mounira Hmani Aifa
+| birth_date         = 1972
+| birth_place        = Sfax
+| citizenship        = Tunisia
+| occupation         = geneticist
+}}
+'''Mounira Hmani Aifa''' (born 1972) is a Tunisian geneticist, best known for her work in mapping the PRSS56 gene.<ref name=":0">{{Cite web |date=2012-03-24 |title=Mounira Hmani Aifa - The discoveries of an Arab woman |url=https://www.theafricareport.com/7426/mounira-hmani-aifa-the-discoveries-of-an-arab-woman/ |access-date=2022-10-01 |website=The Africa Report.com |language=en-US}}</ref> She has been a recipient of the "Sur les traces de Marie Curie" award from [[UNESCO]] and the L'Oreal Foundation in 2012, and a fellowship from them in 2002. 
+
+Aifa is from [[Sfax]], in [[Tunisia]], and currently teaches and researches at the Sfax Biotechnology Center.<ref name=":0" /> In 2002, she won a fellowship from [[L'Oréal-UNESCO For Women in Science Awards|L'Oréal-UNESCO For Women in Science]], which allowed her to pursue post-graduate research in human [[genetics]] at the Faculty of Medical Sciences in [[Linköping]], [[Sweden]].<ref name=":1">{{Cite web |last=Djait |first=Amel |date=2012-04-19 |title=Mounira Hmani-Aifa lauréate de la Bourse UNESCO-L'Oréal: Une scientifique tunisienne sur les traces de Marie Curie |url=https://www.baya.tn/rubriques/society/societe/mounira-hmani-aifa-laureate-de-la-bourse-unesco-loreal-une-scientifique-tunisienne-sur-les-traces-de-marie-curie/ |access-date=2022-10-01 |language=fr-FR}}</ref> She continued this research in Tunisia, working on a project which studied the genetic origins of hereditary deafness.<ref name=":1" /> She also pursued research on [[Microphthalmia|posterior microphthalmia]], a rare genetic condition affecting the eye, for which she mapped the PRSS56 gene, and established its potential links with a type of [[glaucoma]].<ref>{{Cite web |title=Gene behind glaucoma identified |url=https://www.sciencedaily.com/releases/2011/05/110531084754.htm |access-date=2022-10-01 |website=ScienceDaily |language=en}}</ref><ref>{{Cite journal |last1=Nair |first1=K. Saidas |last2=Hmani-Aifa |first2=Mounira |last3=Ali |first3=Zain |last4=Kearney |first4=Alison L. |last5=Salem |first5=Salma Ben |last6=Macalinao |first6=Danilo G. |last7=Cosma |first7=Ioan M. |last8=Bouassida |first8=Walid |last9=Hakim |first9=Bochra |last10=Benzina |first10=Zeineb |last11=Soto |first11=Ileana |last12=Söderkvist |first12=Peter |last13=Howell |first13=Gareth R. |last14=Smith |first14=Richard S. |last15=Ayadi |first15=Hammadi |date=June 2011 |title=Alteration of the serine protease PRSS56 causes angle-closure glaucoma in mice and posterior microphthalmia in humans and mice |journal=Nature Genetics |language=en |volume=43 |issue=6 |pages=579–584 |doi=10.1038/ng.813 |pmc=4388060 |issn=1546-1718}}</ref> In 2012, she was awarded the  "Sur les traces de Marie Curie" from UNESCO and the L'Oreal Foundation for this research.<ref>{{Cite news |date=20 March 2012 |title=Dr Mounira Hmani-Aifa et Emna Harigua sélectionnées pour des Bourses L'Oréal-Unesco |language=French |work=Leaders |url=https://www.leaders.com.tn/article/7974-dr-mounira-hmani-aifa-et-emna-harigua-selectionnees-pour-des-bourses-l-oreal-unesco}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:Aifa, Mounira Hmani}}
+[[Category:1972 births]]
+
+[[Category:Living people]]
+[[Category:People from Sfax]]
+[[Category:21st-century biologists]]
+[[Category:21st-century Tunisian women]]
+[[Category:21st-century Tunisian people]]
+[[Category:Tunisian women scientists]]
+[[Category:Tunisian geneticists]]
+[[Category:21st-century women biologists]]
+[[Category:Women geneticists]]
+{{Tunisia-scientist-stub}}

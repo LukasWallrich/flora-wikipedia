@@ -1,0 +1,52 @@
+{{Short description|Concept in marketing}}
+{{More citations needed|date=January 2021}}
+[[File:BILLBOARDS AND ADVERTISING CLUTTER ROADSIDE - NARA - 546184.jpg|thumb|Billboard clutter in Texas, 1972]]
+{{Pollution sidebar|Visual}}
+
+'''Advertising''' or '''marketing clutter''' refers to the large volume of advertising messages that the average consumer is exposed to on a daily basis.
+
+== Background ==
+One explanation, in a general sense, is that advertising clutter is often a result of a marketplace that is (over)-crowded with competing products. Heightened competition from this phenomenon has led to the emergence of other advertising strategies, including [[guerrilla marketing]], [[viral marketing]], and [[experiential marketing]] along with new focuses on humanising messaging within marketing.{{fact|date=July 2022}}
+
+== Online advertising clutter ==
+Studies have shown that [[annoyance factors]] from [[online advertising]] clutter is a significant contributor to advertising avoidance.{{syn|date=July 2022}}<ref name=Ha2017/><ref name=Morimoto2017/><ref name="Burns-Lutz 2006" /><ref name="Cho-Cheon 2004" /><ref name="Seyedghorban-Tahernejad-Matanda 2015" />
+
+== References ==
+=== Citations ===
+{{Reflist|30em|refs=
+
+<ref name=Ha2017>{{cite book |doi=10.4324/9781315623252-5 |chapter=Digital Advertising Clutter in an Age of Mobile Media |title=Digital Advertising |year=2017 |last1=Ha |first1=Louisa |pages=69–85 |isbn=978-1-315-62325-2 |chapter-url=https://books.google.com/books?id=6CslDwAAQBAJ&pg=PA69 }}</ref>
+
+<ref name=Morimoto2017>{{cite book |doi=10.4324/9781315623252-7 |chapter=Personalization, Perceived Intrusiveness, Irritation, and Avoidance in Digital Advertising |title=Digital Advertising |year=2017 |last1=Morimoto |first1=Mariko |pages=110–123 |isbn=978-1-315-62325-2 |chapter-url=https://books.google.com/books?id=6CslDwAAQBAJ&pg=PA110 }}</ref>
+
+<ref name="Burns-Lutz 2006">{{cite journal |last1=Burns |first1=Kelli S. |last2=Lutz |first2=Richard J. |title=The Function of Format: Consumer Responses to Six On-Line Advertising Formats |journal=Journal of Advertising |date=2006 |volume=35 |issue=1 |pages=53–63 |doi=10.2753/joa0091-3367350104 |jstor=20460712 |s2cid=143825277 }}</ref>
+
+<ref name="Cho-Cheon 2004">{{cite journal |last1=Cho |first1=Chang-Hoan |last2=Cheon |first2=Hongsik John |title=Why Do People Avoid Advertising on the Internet? |journal=Journal of Advertising |date=2004 |volume=33 |issue=4 |pages=89–97 |doi=10.1080/00913367.2004.10639175 |jstor=4189279 |s2cid=53486785 |citeseerx=10.1.1.614.2271 }})</ref>
+
+<ref name="Seyedghorban-Tahernejad-Matanda 2015">{{cite journal |last1=Seyedghorban |first1=Zahra |last2=Tahernejad |first2=Hossein |last3=Matanda |first3=Margaret Jekanyika |title=Reinquiry into Advertising Avoidance on the Internet: A Conceptual Replication and Extension |journal=Journal of Advertising |date=2 January 2016 |volume=45 |issue=1 |pages=120–129 |doi=10.1080/00913367.2015.1085819 |s2cid=146725666 }}</ref>
+
+}}
+
+=== Sources ===
+{{ref begin|50em}}
+<ol type="i" start="1">
+<li> [https://www.pbs.org/wgbh/pages/frontline/shows/persuaders/etc/synopsis.html "The Persuaders,"] ''[[Frontline (American TV program)|Frontline]],'' [[PBS]], November 9, 2004; {{OCLC|1056937285}}
+<li> {{Hanging indent |text=[https://web.archive.org/web/20051103213420/http://www.medialifemagazine.com/news2002/apr02/apr01/5_fri/news2friday.html "Research: Clutter rises, Even In Weak Ad Economy: Study: Nearly 1 in 4 Primetime Minutes in 2001]," by Keven Downey, article in ''[[Media Life]]'' (bygone [[eMagazine]]), April 5, 2002; {{OCLC|46765995}} (archival access host: [[Wayback Machine]])<div style="margin-left:2em">Note: The article is a review of "Clutter Watch 2002" (annual survey), Debbie Solomon, senior partner and group research director, [[Mindshare (firm)|Mindshare]], April 2001. Mindshare's data used in the survey was culled from Competitive Media Reporting, now owned by the [[Kantar Group]].</div> }}
+<li> [https://www.humanisethebrand.com/clutter-marketing/ "The Real Competition Is Clutter : Marty Neumeier,"] ''[[Humanise The Brand Magazine]]'' </ol>
+{{ref end}}
+
+==Further reading==
+* {{cite journal |last1=Ha |first1=Louisa |last2=McCann |first2=Kim |title=An integrated model of advertising clutter in offline and online media |journal=International Journal of Advertising |date=January 2008 |volume=27 |issue=4 |pages=569–592 |doi=10.2501/S0265048708080153 |s2cid=168088754 }}
+* {{cite journal |last1=Elliott |first1=Michael T. |last2=Speck |first2=Paul Surgi |title=Consumer perceptions of advertising clutter and its impact across various media |journal=Journal of Advertising Research |date=1998 |volume=38 |issue=1 |pages=29–30 |id={{Gale|A54376730}} |oclc=86771724 }}
+* {{cite journal |last1=Ha |first1=Louisa |title=Advertising clutter in consumer magazines: dimensions and effects |journal=Journal of Advertising Research |date=1996 |volume=36 |issue=4 |pages=76–85 |id={{Gale|A18782739}} |oclc=193912585 }}
+* {{cite journal |last1=Rumbo |first1=Joseph D. |title=Consumer resistance in a world of advertising clutter: The case of Adbusters |journal=Psychology and Marketing |date=February 2002 |volume=19 |issue=2 |pages=127–148 |doi=10.1002/mar.10006 }}
+* {{cite journal |last1=Ha |first1=Louisa |last2=Litman |first2=Barry R. |title=Does Advertising Clutter Have Diminishing and Negative Returns? |journal=Journal of Advertising |date=March 1997 |volume=26 |issue=1 |pages=31–42 |doi=10.1080/00913367.1997.10673516 }}
+* {{cite journal |last1=Brown |first1=Tom J. |last2=Rothschild |first2=Michael L. |title=Reassessing the Impact of Television Advertising Clutter |journal=Journal of Consumer Research |date=June 1993 |volume=20 |issue=1 |pages=138 |doi=10.1086/209339 }}
+* {{cite journal |last1=Speck |first1=Paul Surgi |last2=Elliott |first2=Michael T. |title=The Antecedents and Consequences of Perceived Advertising Clutter |journal=Journal of Current Issues & Research in Advertising |date=September 1997 |volume=19 |issue=2 |pages=39–54 |doi=10.1080/10641734.1997.10524436 }}
+* {{cite journal |last1=Lee |first1=Sang Yeal |last2=Cho |first2=Yong-Suk |title=Do Web Users Care About Banner Ads Anymore? The Effects of Frequency and Clutter in Web Advertising |journal=Journal of Promotion Management |date=8 July 2010 |volume=16 |issue=3 |pages=288–302 |doi=10.1080/10496490903582594 |citeseerx=10.1.1.688.1429 |s2cid=10211274 }}
+
+{{DEFAULTSORT:Cr (Advertising)}}
+[[Category:Advertising]]
+
+
+{{Advertising-stub}}

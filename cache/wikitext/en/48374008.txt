@@ -1,0 +1,78 @@
+{{Short description|American social psychologist}}
+{{Infobox scientist
+| name              = Brian Nosek
+| native_name       = 
+| native_name_lang  = 
+| image             = Brian Nosek Headshot 2022.jpg
+| image_size        = 
+| alt               = 
+| caption           = Nosek in 2022
+| birth_date        = <!--{{birth date |YYYY|MM|DD}}-->
+| birth_place       = 
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = [[Psychology]], [[Metascience]]
+| workplaces        = [[University of Virginia]]
+| patrons           = 
+| education         = [[California Polytechnic State University]] ([[Bachelor of Science|BS]])<br />[[Yale University]] ([[Master of Science|MS]], [[MPhil]], [[PhD]])
+| thesis_title      = Moderators of the relationship between implicit and explicit attitudes
+| thesis_url        = https://www.worldcat.org/oclc/54646614
+| thesis_year       = 2002
+| doctoral_advisor  = [[Mahzarin Banaji]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| influences        = 
+| influenced        = 
+| awards            = Fellow of the [[Association for Psychological Science]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = [[Bethany Teachman]]
+| partner           = <!--(or | partners = )-->
+| children          = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+'''Brian Arthur Nosek''' is an American social-cognitive psychologist, professor of [[psychology]] at the [[University of Virginia]], and the co-founder and director of the [[Center for Open Science]].<ref>{{cite journal | url=https://www.psychologicalscience.org/index.php/publications/observer/2014/may-june-14/champions-of-psychological-science-brian-nosek.html | title=Champions of Psychological Science: Brian Nosek | volume=27 | issue=5 | publisher=Association for Psychological Science | journal=Observer | date=2014 | access-date=26 October 2015 | author=APSSC}}</ref> He also co-founded the [[Society for the Improvement of Psychological Science]] and Project Implicit.<ref name="cv" /><ref>{{cite web |title=The Project Implicit Team |url=https://www.projectimplicit.net/who-we-are/team/ |website=Project Implicit |access-date=December 13, 2021}}</ref> He has been on the faculty of the University of Virginia since 2002.<ref name=cv/>
+
+==Education==
+Nosek received his B.S. from [[California Polytechnic State University]] in 1995, and his M.S., M.Phil., and Ph.D. from [[Yale University]] in 1998, 1999, and 2002, respectively.<ref name=cv>{{cite web | url=http://projectimplicit.net/nosek/papers/nosek.vita.pdf | title=Brian Nosek CV | access-date=26 October 2015}}</ref>
+
+==Work==
+In 2011, Nosek and his collaborators set up the [[Reproducibility Project]], with the aim of trying to replicate the results of 100 psychological experiments published in respected journals in 2008.<ref>{{cite web | url=https://www.theguardian.com/science/head-quarters/2015/aug/28/reproducibility-project-psychology-research-hopeless-case-or-pioneering-field | title=Psychology research: hopeless case or pioneering field? | work=The Guardian | date=28 August 2015 | access-date=26 October 2015 | author=Bishop, Dorothy}}</ref> In 2015, their results were published in ''[[Science (journal)|Science]]'', and found that only 36 out of the 100 replications showed [[Statistical significance|statistically significant]] results, compared with 97 of the 100 original experiments.<ref>{{cite journal|last1=Open Science|first1=Collaboration|title=PSYCHOLOGY. Estimating the reproducibility of psychological science.|journal=Science|date=28 August 2015|volume=349|issue=6251|article-number=aac4716|doi=10.1126/science.aac4716|pmid=26315443|hdl=10722/230596|s2cid=218065162|url=http://eprints.keele.ac.uk/877/1/Open%20Science%20%28Science%20Pre-Print%29.pdf|hdl-access=free}}</ref><ref>{{cite web | url=https://www.theatlantic.com/science/archive/2015/08/psychology-studies-reliability-reproducability-nosek/402466/ | title=How Reliable Are Psychology Studies? | work=The Atlantic | date=27 August 2015 | access-date=26 October 2015 | author=Yong, Ed}}</ref> In 2014 Nosek was guest-editor of a special issue of the journal ''[[Social Psychology (journal)|Social Psychology]]'' dedicated to the publication of [[pre-registration (science)|preregistered]] replications.<ref>{{cite web | url=https://www.npr.org/2014/05/19/313844261/why-reporting-on-scientific-research-may-warp-findings | title=Why Reporting On Scientific Research May Warp Findings | work=NPR | date=19 May 2014 | access-date=26 October 2015 | author=Vedantam, Shankar}}</ref>
+[[File:Brian Nosek for Center for Open Science.jpg|left|thumb|Nosek in 2020]]
+
+==Honors==
+In 2015, he was named one of "[[Nature's 10]]" by the scientific journal ''[[Nature (journal)|Nature]]''.<ref name=n102015>{{cite journal|title=365 days: Nature's 10|journal=Nature|volume=528|issue=7583|year=2015|pages=459–467|doi=10.1038/528459a|pmid=26701036|bibcode=2015Natur.528..459. |doi-access=free}}</ref> In 2018, Nosek was awarded, alongside [[Mahzarin Banaji]] and [[Anthony Greenwald]], with a [[Golden Goose Award]] from the [[American Association for the Advancement of Science]] for their work on implicit bias.<ref>{{Cite web|url=https://www.goldengooseaward.org/awardees/implicit-bias|title=2018: Implicit Bias, Explicit Science|website=The Golden Goose Award|language=en-US|access-date=2019-12-13|archive-date=2020-09-30|archive-url=https://web.archive.org/web/20200930025007/https://www.goldengooseaward.org/awardees/implicit-bias}}</ref>
+
+== See also==
+* [[Open science]]
+* [[Metascience]]
+* [[John Ioannidis]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.npr.org/sections/money/2018/03/07/591213302/episode-677-the-experiment-experiment The Experiment-experiment], a [[Planet Money]] podcast featuring Nosek
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nosek, Brian}}
+[[Category:Living people]]
+[[Category:American social psychologists]]
+[[Category:University of Virginia faculty]]
+[[Category:California Polytechnic State University alumni]]
+[[Category:Yale University alumni]]
+[[Category:Fellows of the Association for Psychological Science]]
+[[Category:Year of birth missing (living people)]]

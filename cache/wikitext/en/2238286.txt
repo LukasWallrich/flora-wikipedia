@@ -1,0 +1,71 @@
+{{Short description|American cognitive psychologist}}
+{{for|the politician|Daniel Goldstein (politician)}}
+{{Use mdy dates|date=July 2015}}
+{{Infobox scientist
+| name              = Daniel Goldstein
+| image             = 
+| caption           = 
+| birth_date        = {{Birth year and age|1969}}
+| birth_place       = United States
+| death_date        = 
+| death_place       = 
+| field             = [[Psychology]]<br />[[Behavioral economics]]
+| work_institutions = [[Microsoft Research]]<br />
+[[London Business School]]<br />
+[[Columbia University]]<br />
+[[Max Planck Institute]]
+| alma_mater        = [[University of Wisconsin–Madison]] ([[Bachelor of Science|BS]])<br />[[University of Chicago]] ([[PhD]])
+| doctoral_advisor  = [[Gerd Gigerenzer]]
+| known_for         = [[Decision making]]<br />[[heuristics]]
+| prizes            = [[Max Planck Institute]] [[Otto Hahn Medal]] (1997)
+| website           = {{URL|http://dangoldstein.com/}}
+| footnotes         = 
+}}
+
+'''Daniel G. Goldstein''' (born 1969) is an American [[cognitive psychology|cognitive psychologist]] known for the specification and testing of [[heuristic]]s and models of [[bounded rationality]] in the field of [[decision making|judgment and decision making]]. He is a Partner Research Manager at [[Microsoft Research]].
+
+==Education==
+Goldstein received his Bachelor of Science degree in [[computer science]] from the [[University of Wisconsin–Madison]] in 1993 and a Ph.D. in [[Cognitive Psychology|cognitive psychology]] from the [[University of Chicago]] in 1997.<ref>{{cite web |url=http://www.dangoldstein.com/cv.html |title=Daniel Goldstein CV}}</ref>
+
+==Career==
+Goldstein and his doctoral advisor [[Gerd Gigerenzer]] started the Center for Adaptive Behavior and Cognition at the [[Max Planck Institute]] in Germany, where Goldstein worked as a research scientist for several years.
+
+In 2002, Goldstein became associate director of the Center for the Decision Sciences<ref>{{Cite web |url=http://decisionsciences.columbia.edu/ |title=The Center for the Decision Sciences - Home |access-date=July 23, 2015 |archive-url=https://web.archive.org/web/20091021122436/http://decisionsciences.columbia.edu/ |archive-date=October 21, 2009 |url-status=dead }}</ref> at [[Columbia University]] before becoming an assistant professor of marketing at [[London Business School]] in 2005. In 2009, Goldstein accepted an offer as a principal research scientist at Yahoo! Research.<ref>{{cite web |url=http://research.yahoo.com/ |title = Home {{!}} research.yahoo.com}}</ref> In 2012, Goldstein was part of a group of Yahoo scientists who left ''en masse'' to found the New York City lab of [[Microsoft Research]], where he is now Partner Research Manager.<ref>{{cite news |url=https://www.pcmag.com/article2/0,2817,2403915,00.asp |work=[[PC Magazine]] |first=Adario |last=Strange |title=Microsoft Opens New York Research Lab With Former Yahoo Scientists |date=2012-05-03}}</ref><ref>{{Cite web|url=http://research.microsoft.com/en-us/people/dgg/|title = Dan Goldstein at Microsoft Research}}</ref>
+
+Goldstein's doctoral thesis used [[computer simulation]] to study the accuracy and frugality of satisficing heuristics for making inferences. Investigations of the [[take-the-best heuristic]]<ref>{{cite journal |title=Reasoning the fast and frugal way: Models of bounded rationality |journal=Psychological Review |year=1996 |first=Gerd |last=Gigerenzer |author2=Daniel G. Goldstein |volume=103 |issue=4 |pages=650–669 |url=http://content.apa.org/journals/rev/103/4/650 |accessdate=2008-02-27 |doi=10.1037/0033-295X.103.4.650 |pmid=8888650|hdl=21.11116/0000-0000-B771-2 |citeseerx=10.1.1.174.4404 }}</ref> and the [[recognition heuristic]]<ref>{{cite journal |title=Models of ecological rationality: The recognition heuristic. |journal=Psychological Review |author-link=Daniel Goldstein |first=Daniel G. |last=Goldstein |author2=Gerd Gigerenzer |volume=109 |issue=1 |pages=75–90 |url=http://content.apa.org/journals/rev/109/1/75 |accessdate=2008-02-27 |year=2002 |doi=10.1037/0033-295X.109.1.75 |pmid=11863042|hdl=11858/00-001M-0000-0025-9128-B |hdl-access=free }}</ref> were later published as journal articles in ''[[Psychological Review]]'' and in the book ''Simple Heuristics That Make Us Smart''.<ref>{{cite book |title=Simple Heuristics That Make Us Smart |author1=Gigerenzer, G. |author2=Todd, P. M. |others=the ABC Research Group |publisher=Oxford University Press |location=New York |year=1999 |isbn=978-0-19-514381-2}}</ref> These ''fast and frugal'' heuristics have since had an impact in medicine, law and politics, and other areas outside psychology.<ref>{{cite journal |title=Simple Minds, Smart Choices |journal=Science News |date=1999-05-29 |first=Bruce |last=Bower |volume=155 |issue=22 |pages=348–349 |doi=10.2307/4011573|jstor=4011573 }}</ref><ref>{{cite news|first=Louis |last=Menand |title=The Unpolitical Animal |date=2004-08-30 |url=https://www.newyorker.com/archive/2004/08/30/040830crat_atlarge?printable=true |magazine=The New Yorker |url-status=dead |archive-url=https://web.archive.org/web/20130604003959/http://www.newyorker.com/archive/2004/08/30/040830crat_atlarge?printable=true |archive-date=June 4, 2013 |df=mdy }}</ref><ref>{{cite news |first=Barbara |last=Kiviat |title=Why We Buy the Products We Buy |date=2007-08-16 |url=http://www.time.com/time/magazine/article/0,9171,1653659,00.html |magazine=[[Time (magazine)|Time]] |url-status=dead |archive-url=https://web.archive.org/web/20071018060403/http://www.time.com/time/magazine/article/0,9171,1653659,00.html |archive-date=October 18, 2007 |df=mdy }}</ref><ref>{{cite book |last=Gigerenzer |first=Gerd |author-link=Gerd Gigerenzer |author2=Christoph Engel |title=Heuristics and the Law |publisher=MIT Press |year=2006 |location=New York |url=http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=10993 |isbn=978-0-262-07275-5 |access-date=February 29, 2008 |archive-url=https://web.archive.org/web/20080302133058/http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=10993 |archive-date=March 2, 2008 |url-status=dead }}</ref> With Eric J. Johnson, Goldstein authored an article on [[organ donation]] in the journal ''[[Science (journal)|Science]]''<ref>{{cite journal |title=Do defaults save lives? |journal=Science |year=2003 |first=Eric J. |last=Johnson |author2=Daniel G. Goldstein |volume=302 |issue=5649 |pages=1338–1339 |doi=10.1126/science.1091721 |pmid=14631022|s2cid=166476782 }}</ref><ref>{{cite news |first=Eduardo |last=Porter |title=Choice Is Good. Yes, No or Maybe? |date=2005-03-27 |url=https://www.nytimes.com/2005/03/27/weekinreview/27port.html?ex%3D1186804800%26en%3D6a8b8eb46b18cb78%26ei%3D5070 |archive-url=https://web.archive.org/web/20170810133134/http://www.nytimes.com/2005/03/27/weekinreview/27port.html?ex=1186804800&en=6a8b8eb46b18cb78&ei=5070 |url-status=dead |archive-date=August 10, 2017 |work=[[The New York Times]] |accessdate=2008-02-27 |df=mdy-all }}</ref><ref>{{cite web |url=http://www.psychologymatters.org/behavioralecon.html |title=Looking for Sound Financial Advice? Look to Psychology |accessdate=2008-02-27 |date=2004-02-19 |work=APA Online; Psychology Matters |publisher=[[American Psychological Association]]}}</ref><ref>{{cite news |first=Richard |last=Thaler |title=Opting in vs. Opting Out |date=2009-09-27 |url=https://www.nytimes.com/2009/09/27/business/economy/27view.html |work=The New York Times |accessdate=2009-09-27 }}</ref> Along with [[Nobel Laureate]] [[William F. Sharpe]], he created the ''Distribution Builder'' method for eliciting probability distributions.<ref>{{cite journal |title=Choosing OutcomesVersus Choosing Products: Consumer-Focused Retirement Investment Advice |journal=Journal of Consumer Research |date=2008 |first=DanielG. |last=Goldstein |author-link=Daniel Goldstein |author2=Eric J. Johnson |author3=William F.Sharpe |volume=35 |issue= 3|pages=440–456 |doi=10.1086/589562|s2cid=10083583 }}</ref><ref>{{cite news |first=William F. |last=Sharpe |author2=Daniel G. Goldstein |author3=Philip W. Blythe |title=The Distribution Builder: A Tool for Inferring Investor Preferences |date=2000-10-10 |url=http://www.stanford.edu/~wfsharpe/art/qpaper/qpaper.html |accessdate=2008-02-27 |url-status=dead |archive-url=https://web.archive.org/web/20071015134730/http://stanford.edu/~wfsharpe/art/qpaper/qpaper.html |archive-date=October 15, 2007 |df=mdy }}</ref><ref>{{cite web |url=https://archive.org/details/DistBuilder |title=Distribution Builder Video |accessdate=2008-02-27 }}</ref> Hal Hershfield and Goldstein ran [[virtual reality]] experiments in which people saw renderings of themselves as senior citizens and increased their intentions to save for retirement, as discussed in Goldstein's TED talk [https://www.ted.com/talks/daniel_goldstein_the_battle_between_your_present_and_future_self?language=en The Battle Between Your Present and Future Self].<ref>{{cite journal |title=Increasing saving behavior through age-progressed renderings of the future self. |journal=Journal of Marketing Research |year=2011 |first=H. |last=Hershfield |author2=Goldstein, D. G. |author3=Sharpe, W. F. |author4=Fox, J. |author5=Yeykelis, L. |author6=Carstensen, L. L. |author7=Bailenson, J. N. |volume=48 |issue=SPL |pages=S23–S37 |doi=10.1509/jmkr.48.SPL.S23 |pmid=24634544 |pmc=3949005}}</ref>
+
+In 2014, Goldstein was elected president of the [[Society for Judgment and Decision Making]].<ref>{{cite web |url=http://www.sjdm.org |title=Society for Judgment and Decision Making}}</ref>
+
+== Notable contributions ==
+* [[Recognition heuristic]]
+* [[Take-the-best heuristic]]
+
+==References==
+{{Reflist|2}}
+{{Authority control}}
+
+==Selected publications (listed chronologically)==
+* {{cite journal |last1=Gigerenzer |first1=G. |last2=Goldstein |first2=D. G. |year=1996 |title=Reasoning the fast and frugal way: Models of bounded rationality |journal=Psychological Review |volume=103 |issue= 4|pages=650–669 |doi=10.1037/0033-295X.103.4.650 |pmid=8888650|citeseerx=10.1.1.174.4404 }}
+* {{cite journal |last1=Goldstein |first1=D. G. |last2=Gigerenzer |first2=G. |year=2002 |title=Models of ecological rationality: The recognition heuristic |journal=Psychological Review |volume=109 |issue=1 |pages=75–90 |doi=10.1037/0033-295X.109.1.75 |pmid=11863042|hdl=11858/00-001M-0000-0025-9128-B |hdl-access=free }}
+* {{cite journal |last1=Johnson |first1=E. J. |last2=Goldstein |first2=D. G. |year=2003 |title=Do defaults save lives? |journal=Science |volume=302 |issue= 5649|pages=1338–1339 |doi=10.1126/science.1091721 |pmid=14631022|s2cid=166476782 }}
+* {{cite journal |last1=Goldstein |first1=D. G. |last2=Johnson |first2=E. J. |last3=Sharpe |first3=W. F. |year=2008 |title=Choosing outcomes versus choosing products: Consumer-focused retirement investment advice |journal=Journal of Consumer Research |volume=35 |issue= 3|pages=440–456 |doi=10.1086/589562|s2cid=10083583 }}
+* {{cite journal |title=Increasing saving behavior through age-progressed renderings of the future self |journal=Journal of Marketing Research |year=2011 |first=H. |last=Hershfield |author2=Goldstein, D. G. |author3=Sharpe, W. F. |author4=Fox, J. |author5=Yeykelis, L. |author6=Carstensen, L. L. |author7=Bailenson, J. N. |volume=48 |issue=SPL |pages=S23–S37 |doi=10.1509/jmkr.48.SPL.S23 |pmid=24634544 |pmc=3949005}}
+* {{cite journal |title=Predicting individual behavior with social networks |journal=Marketing Science |year=2014 |first=S. |last=Goel |author2=Goldstein, D. G. |volume=33 |issue=1 |pages=82–93 |doi=10.1287/mksc.2013.0817}}
+* {{cite journal |title=The economic and cognitive costs of annoying display advertisements |journal=Journal of Marketing Research |year=2014 |first=D. G. |last=Goldstein |author2=Suri, S. |author3=McAfee, R. P. |author4=Ekstrand-Abueg, M. |author5=Diaz, F. |s2cid=866397 |volume=51 |issue=6 |pages=742–752 |doi=10.1509/jmr.13.0439}}
+* {{cite journal |title=The illusion of wealth and its reversal |journal=Journal of Marketing Research |year=2016 |first=D. |last=Goldstein |author2=Hershfield, H. E. |author3=Benartzi, S. |s2cid=51779359 |volume=53 |issue=5 |pages=804–813 |doi=10.1509/jmr.14.0652}}
+
+==External links==
+* {{Official website|http://www.dangoldstein.com/}}
+* [http://www.decisionsciencenews.com/ Decision Science News, edited by Goldstein]
+* {{TED speaker}}
+** [https://www.ted.com/talks/daniel_goldstein_the_battle_between_your_present_and_future_self "The battle between your present and future self" (TEDSalon NY2011)]
+
+
+{{DEFAULTSORT:Goldstein, Daniel}}
+[[Category:1969 births]]
+[[Category:Living people]]
+[[Category:21st-century American psychologists]]
+[[Category:University of Wisconsin–Madison faculty]]
+[[Category:University of Wisconsin–Madison College of Letters and Science alumni]]
+[[Category:Academic staff of Max Planck Society]]
+[[Category:20th-century American psychologists]]

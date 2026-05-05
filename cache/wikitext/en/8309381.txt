@@ -1,0 +1,86 @@
+{{distinguish|Journal of Personality{{!}}''Journal of Personality''}}
+{{Infobox journal
+| title = Journal of Personality and Social Psychology
+| cover = Journal of Personality and Social Psychology cover.gif
+| abbreviation = J. Pers. Soc. Psychol.
+| editor = [[Sandra L. Murray]], [[Dolores Albarracín]], [[Richard_Lucas_(psychologist)|Richard E. Lucas]]
+| discipline = [[Personality psychology]], [[social psychology]]
+| publisher = [[American Psychological Association]]
+| country = United States
+| frequency = Monthly
+| history = 1965–present
+| impact = 6.7
+| impact-year = 2024
+| website = http://www.apa.org/pubs/journals/psp/
+| link1 = http://content.apa.org/journals/psp
+| link1-name = Online access
+| ISSN = 0022-3514
+| eISSN = 
+| OCLC = 1783133
+| LCCN = 65009855
+| CODEN = JPSPB2
+}}
+The '''''Journal of Personality and Social Psychology''''' is a monthly [[peer-reviewed]] [[academic journal]] published by the [[American Psychological Association]] that was established in 1965. It covers the fields of [[social psychology (psychology)|social]] and [[personality psychology]]. The [[editors-in-chief]] are [[Sandra L. Murray]] ([[University at Buffalo]]), [[Dolores Albarracín]] ([[University of Pennsylvania]]), and [[Richard Lucas (psychologist)|Richard E. Lucas]] ([[Michigan State University]]).
+
+== Contents ==
+The journal's focus is on empirical research reports; however, specialized theoretical, methodological, and review papers are also published. For example, the journal's most highly cited paper, cited over 90,000 times, is a statistical methods paper discussing mediation and moderation.<ref>{{cite journal |last1=Baron |first1=Reuben M. |last2=Kenny |first2=David A. |title=The moderator–mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations. |journal=Journal of Personality and Social Psychology |date=1986 |volume=51 |issue=6 |pages=1173–1182 |doi=10.1037/0022-3514.51.6.1173|pmid=3806354 |s2cid=1925599 }}</ref>
+
+Articles typically involve a lengthy introduction and literature review, followed by several related studies that explore different aspects of a theory or test multiple competing hypotheses. Some researchers see the multiple-experiments requirement as an excessive burden that delays the publication of valuable work,<ref>{{cite journal |doi=10.1177/0146167292184017 |url=http://www.wjh.harvard.edu/~wegner/pdfs/Wegner%20Premature%20Demise%201992.pdf |title=The Premature Demise of the Solo Experiment |year=1992 |last1=Wegner |first1=D. M. |journal=Personality and Social Psychology Bulletin |volume=18 |issue=4 |pages=504–508 |s2cid=16303184 |url-status=dead |archive-url=https://web.archive.org/web/20070306230514/http://www.wjh.harvard.edu/~wegner/pdfs/Wegner%20Premature%20Demise%201992.pdf |archive-date=2007-03-06 }}</ref> but this requirement also helps maintain the impression that research that is published in JPSP has been thoroughly vetted and is less likely to be the result of a [[type I error]] or an unexplored [[confound]].{{citation needed|date=December 2013}}
+
+The journal is divided into three independently edited sections. ''Attitudes and Social Cognition'' addresses those domains of social behavior in which cognition plays a major role, including the interface of cognition with overt behavior, affect, and motivation. ''Interpersonal Relations and Group Processes'' focuses on psychological and structural features of interaction in dyads and groups. ''Personality Processes and Individual Differences'' publishes research on all aspects of personality psychology. It includes studies of individual differences and basic processes in behavior, emotions, coping, health, motivation, and other phenomena that reflect personality.
+
+The journal has implemented the Transparency and Openness Promotion (TOP) Guidelines.<ref>{{cite web|url=https://www.apa.org/pubs/journals/resources/transparency-openness-promotion|title=Transparency and Openness Promotion|website=APA.org|publisher=American Psychological Association|access-date=2021-09-30}}</ref> The TOP Guidelines provide structure to research planning and reporting and aim to make research more transparent, accessible, and reproducible.<ref>{{cite web|url=https://www.apa.org/pubs/journals/resources/top-guidelines-interview|title=What are the TOP Guidelines and why are they important?|website=APA.org|publisher=American Psychological Association|access-date=2021-09-30}}</ref>
+
+== Abstracting and indexing ==
+The journal is abstracted and indexed in:
+{{columns-list|colwidth=30em|
+* [[Academic ASAP]]
+* [[Academic OneFile]]
+* [[Academic Search Premier]]
+* [[AgeLine]]
+* [[Bibliography of Asian Studies]]
+* [[Current Contents]]
+* [[Current Index to Statistics]]
+* [[Dietrich's Index Philosophicus]]
+* [[FRANCIS]]
+* [[Family Index]]
+* [[Family Studies Abstracts]]
+* [[Higher Education Abstracts]]
+* [[InfoTrac]]
+* [[International Bibliography of the Social Sciences]]
+* [[MLA International Bibliography]]
+* [[MEDLINE]]/[[PubMed]]
+* [[Peace Research Abstracts Journal]]
+* [[ProQuest]]
+* [[PsycINFO]]
+* [[Race Relations Abstracts]]
+* [[Religion Index One]]
+* [[Russian Academy of Sciences Bibliographies]]
+* [[Scopus]]
+* [[Social Sciences Citation Index]]
+* [[Social Services Abstracts]]
+* [[Social Work Abstracts]]
+* [[SocINDEX]]
+* [[Sociological Abstracts]]
+}}
+According to the ''[[Journal Citation Reports]]'', the journal has a 2024 [[impact factor]] of 6.7.<ref name=WoS>{{cite book |year=2025 |chapter=Journal of Personality and Social Psychology |title=2024 Journal Citation Reports |publisher=[[Clarivate]] |edition=Social Sciences |via=[[Web of Science]] |title-link=Journal Citation Reports}}</ref>
+
+== Controversies ==
+
+JPSP is one of the journals analyzed in the Open Science Collaboration's [[Reproducibility Project]]<ref name="OSC2015">{{cite journal |last1=Open Science Collaboration |title=Estimating the reproducibility of psychological science |journal=Science |date=28 August 2015 |volume=349 |issue=6251 |article-number=aac4716 |doi=10.1126/science.aac4716|pmid=26315443 |hdl=10722/230596 |s2cid=218065162 |url=https://ink.library.smu.edu.sg/lkcsb_research/5257 |hdl-access=free }}</ref> after JPSP's publication of questionable research for mental time travel (Bem, 2011)<ref>{{cite web|url=https://replicationindex.wordpress.com/2017/05/04/how-replicable-are-statistically-significant-results-in-social-psychology-a-replication-and-extension-of-motyl-et-al-in-press/|title=How replicable are statistically significant results in social psychology? A replication and extension of Motyl et al. (in press).|date=5 May 2017}}</ref>  (see: [[Replication crisis#Replication|replication crisis]]; [[Daryl Bem#.22Feeling the Future.22 controversy|"Feeling the Future" controversy]]).
+
+The journal refused to publish refuting replications performed by [[Stuart J. Ritchie|Ritchie]]'s team, in relation to an earlier article they published in 2010 that suggested that psychic abilities may have been involved (backward causality).<ref>{{cite news|url=https://www.foxnews.com/science/controversial-psychic-ability-claim-doesnt-hold-up-in-new-experiments|title=Controversial psychic ability claim doesn't hold up in new experiments|date=15 March 2012|via=Fox News|publisher=Live Science|access-date=25 January 2021}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{Official website|http://www.apa.org/pubs/journals/psp/}}
+
+[[Category:Social psychology journals]]
+[[Category:Personality journals]]
+[[Category:Academic journals established in 1965]]
+[[Category:English-language journals]]
+[[Category:Monthly journals]]
+[[Category:American Psychological Association academic journals]]
+[[Category:Differential psychology journals]]

@@ -1,0 +1,207 @@
+{{Short description|Cognitive bias}}
+
+'''Naïve cynicism''' is a [[philosophy of mind]], [[cognitive bias]] and form of [[psychological egoism]] that occurs when people naïvely expect more [[egocentric bias]] in others than actually is the case.
+
+[[File:Naive Cynicism Flow Chart.jpg|thumb|right|Flow chart of naïve cynicism]]
+
+The term was formally proposed by [[Justin Kruger]] and [[Thomas Gilovich]] and has been studied across a wide range of contexts including: [[negotiation]]s,<ref name ="Tsay 2011">{{cite journal|last1=Tsay|first1=Chia-Jung|last2=Shu|first2=Lisa L.|last3=Bazerman|first3=Max H.|title=Naïveté and Cynicism in Negotiations and Other Competitive Contexts|journal=The Academy of Management Annals|date=2011|volume=5|issue=1|pages=495–518|doi=10.1080/19416520.2011.587283|url=https://repository.upenn.edu/mgmt_papers/60}}</ref> [[Ingroups and outgroups|group-membership]],<ref name="Kruger 1999">{{cite journal|last1=Kruger|first1=Justin|last2=Gilovich|first2=Thomas|title='Naive cynicism' in everyday theories of responsibility assessment: On biased assumptions of bias.|journal=Journal of Personality and Social Psychology|date=1999|volume=76|issue=5|pages=743–753|doi=10.1037/0022-3514.76.5.743}}</ref> [[marriage]],<ref name="Kruger 1999" /> [[economics]],<ref name="Heath 2006">{{cite journal|last1=Heath|first1=Joseph|title=Business ethics without stakeholders|journal=Business Ethics Quarterly|volume=16|issue=4|pages=533–557|url=http://benjaminferguson.org/wp-content/uploads/2013/01/Heath-2006-Business-Ethics-Quarterly.pdf|doi=10.5840/beq200616448|date=2006|access-date=2015-11-16|archive-date=2015-11-17|archive-url=https://web.archive.org/web/20151117033217/http://benjaminferguson.org/wp-content/uploads/2013/01/Heath-2006-Business-Ethics-Quarterly.pdf|url-status=dead}}</ref> [[public policy|government policy]]<ref name="Benforado 2008">{{cite journal|last1=Benforado|first1=Adam|last2=Hanson|first2=Jon|title=Naïve Cynicism: Maintaining False Perceptions in Policy Debates|journal=Emory Law Journal|date=2008|volume=57|issue=3|page=535|ssrn=1106690}}</ref> and more.
+
+==History==
+
+===Early examples from social psychology (1949)===
+The idea that 'people naïvely believe they see things objectively and others do not' has been acknowledged for quite some time in the field of [[social psychology]]. For example, while studying [[social cognition]], [[Solomon Asch]] and [[Gustav Ichheiser]] wrote in 1949:
+
+:"[W]e tend to resolve our perplexity arising out of the experience that other people see the world differently than we see it ourselves by declaring that those others, in consequence of some basic intellectual and moral defect, are unable to see the things “as they really are” and to react to them “in a normal way.” We thus imply, of course, that things are in fact as we see them and that our ways are the normal ways."<ref name="Ichheiser">{{cite journal|last1=Ichheiser|first1=Gustav|title=Misunderstandings in Human Relations: A Study in False Social Perception|journal=American Journal of Sociology|date=1949|volume=55|issue=2|url=http://psycnet.apa.org/psycinfo/1950-01772-001}}</ref>
+
+===Formal laboratory experimentation (1999)===
+The formal proposal of naïve cynicism came from Kruger and Gilovich's 1999 study called "'Naive cynicism' in everyday theories of responsibility assessment: On biased assumptions of bias".<ref name="Kruger 1999" />
+
+==Theory==
+The theory of naïve cynicism can be described as:
+# I am not [[bias]]ed.
+# You are [[bias]]ed if you disagree with me.
+# Your intentions/actions reflect your underlying egocentric [[bias]]es.
+
+=== A counter to naïve realism ===
+As with naïve cynicism, the theory of [[naïve realism (psychology)|naïve realism]] hinges on the acceptance of the following three [[beliefs]]:
+# I am not [[bias]]ed.
+# Reasonable people are not [[bias]]ed.
+# All others are [[bias]]ed.
+
+Naïve cynicism can be thought of as the counter to [[naïve realism (psychology)|naïve realism]], which is the belief that an individual perceives the social world objectively while others perceive it subjectively.<ref name="Baumeister 2007" />
+ 
+It is important to discern that naïve cynicism is related to the notion that others have an egocentric bias that motivates them to do things for their own self-interest rather than for altruistic reasons.
+
+Both of these theories, however, relate to the extent that adults credit or discredit the beliefs or statements of others.<ref name="Miller 1999">{{cite journal |last1=Miller |first1=Dale |title=The norm of self-interest |journal=American Psychologist |date=December 1999 |volume=54 |issue=12 |pages=1053–1060 |doi=10.1037/0003-066X.54.12.1053|pmid=15332526 }}</ref>
+
+===Relating to psychological egoism===
+[[Psychological egoism]] is the belief that humans are always motivated by self-interest.
+
+In a related quote, [[Joel Feinberg]], in his 1958 paper ''"Psychological Egoism"'', embraces a similar critique by drawing attention to the infinite regress of psychological egoism:
+<blockquote><poem>"All men desire only satisfaction."
+"Satisfaction of what?"
+"Satisfaction of their desires."
+"Their desires for what?"
+"Their desires for satisfaction."
+"Satisfaction of what?"
+"Their desires."
+"For what?"
+"For satisfaction"—etc., ''[[ad infinitum]]''.<ref name="Feinberg 2008">[[Joel Feinberg|Feinberg, Joel]]. "Psychological Egoism." In ''Reason & Responsibility: Readings in Some Basic Problems of Philosophy'', edited by Joel Feinberg and [[Russ Shafer-Landau]], 520-532. [[California]]: [[The Thomson Corporation|Thomson Wadsworth]], [[2008 in literature|2008]].</ref></poem></blockquote>
+
+The [[circular reasoning]] evidenced by Feinberg's quote exemplifies how this view can be thought of as the need for others to have incessant personal desires and satisfaction.
+
+==Definition==
+There are several ways to define naïve cynicism such as:
+* The tendency to expect others’ judgments will have a motivational bias and therefore will be biased in the direction of their self-interest.<ref name="Baumeister 2007">{{cite book |editor1-last=Baumeister |editor1-first=Roy |editor2-last=Vohs |editor2-first=Kathleen |title=Encyclopedia of Social Psychology |url=https://archive.org/details/encyclopediasoci00baum |url-access=limited |date=August 29, 2007 |publisher=SAGE Publications, Inc. |isbn=978-1-4129-1670-7 |page=[https://archive.org/details/encyclopediasoci00baum/page/n641 601]}}</ref>
+* Expecting that others are motivationally biased when determining responsibility for positive and negative outcomes.
+*The propensity to believe that others are prone to committing the [[fundamental attribution error]], [[false consensus effect]] or [[self-enhancement]] [[bias]].<ref name="Baumeister 2007" />
+*When our assumptions of others' [[bias]]es exceed their actual [[bias]]es.
+
+==Examples==
+
+===Historical examples===
+
+====Cold War====
+The American reaction to a Russian [[Strategic Arms Limitation Talks|SALT]] treaty during the [[Cold War]] is one well-known example of naïve cynicism in history. Political leaders negotiating on behalf of the United States discredited the offer simply because it was proposed by the Russian side.<ref name="Tsay 2011" /><ref name="Ross 1991">{{cite journal|last1=Ross|first1=Lee|last2=Stillinger|first2=Constance|title=Barriers to Conflict Resolution|journal=Negotiation Journal|date=1991|volume=7|issue=4|pages=389–404|doi=10.1111/j.1571-9979.1991.tb00634.x}}</ref>
+
+Former U.S. congressman [[Floyd Spence]] indicates the use of naïve cynicism in this quote:
+:"I have had a philosophy for some time in regard to SALT, and it goes like this: the Russians will not accept a SALT treaty that is not in their best interest, and it seems to me that if it is their best interests, it can‘t be in our best interest."<ref name="Ross 1991" />
+
+===Marketplace===
+Consumers exhibit naïve cynicism toward commercial companies and advertisers through suspicion and awareness toward marketing strategies used by such companies.<ref name="Friest">{{cite journal|last1=Friest|first1=Marian|last2=Wright|first2=Peter|title=The Persuasion Knowledge Model: How People Cope with Persuasion Attempts|journal=Journal of Consumer Research|date=June 1994|volume=21|issue=1|pages=1–31|jstor=2489738|doi=10.1086/209380|doi-access=free}}</ref>
+
+===Politics===
+The public displays naïve cynicism toward governments and political leaders through distrust.<ref name="Jamieson">{{cite journal|last1=Jamieson|first1=Kathleen|title=Setting the Record Straight Do Ad Watches Help or Hurt?|journal=The International Journal of Press/Politics|date=January 1997|volume=2|issue=1|pages=13–22|doi=10.1177/1081180x97002001003|s2cid=145615962}}</ref>
+
+===Decision-making behavior===
+Naïve cynicism can be exemplified in some decision-making behaviors such as:
+* '''Negotiations''' / '''Bargaining'''
+* '''Economic games'''
+** The Acquiring a Company Problem
+** The [[Monty Hall Problem]]
+* '''Competitive betting'''
+** [[Auction]]s
+
+===Other possible real-world examples===
+* Overestimating the influence of financial compensation on people’s willingness to give blood. 
+* If another person tends to favor himself when interpreting uncertain information, someone exhibiting naïve cynicism would believe the other person is intentionally misleading them for their own advantage.<ref name="Tenbrunsel">{{cite journal|last1=Tenbrunsel|first1=Anne|title=Trust as an Obstacle in Environmental-Economic Disputes|journal=American Behavioral Scientist|date=May 1999|volume=42|issue=8|pages=1350–1367|doi=10.1177/00027649921954895|s2cid=144973104}}</ref>
+* Assuming that group membership has a large influence on beliefs and attitudes.<ref name="Miller 1998">{{cite journal|last1=Miller|first1=Dale|last2=Ratner|first2=Rebecca|title=The disparity between the actual and assumed power of self-interest|journal=Journal of Personality and Social Psychology|date=1998|volume=74|issue=1|pages=53–62|doi=10.1037/0022-3514.74.1.53|pmid=9457775}}</ref>
+** If an individual of one political party makes an interpretation or a statement in favor of his own party and thus in accord with his self-interest, other adults discount his statement (especially if they belong to an opposing party).
+*** Likewise, if that individual makes a statement against his own self-interest, adults are more likely to believe him.<ref name="Murukutla">{{cite journal|last1=Murukutla|first1=N|last2=Armor|first2=DA|title=Illusions of objectivity in the dispute between India and Pakistan over Kashmir.|journal=Yale University|date=2003}}</ref>
+
+==Resulting negative outcomes==
+Naïve cynicism can contribute to several negative outcomes including:
+
+* Over-thinking the actions of others.
+* Making negative attributions about others' motivations without sufficient cause.
+* Missing opportunities that greater trust might capture.
+
+==Reducing==
+The major strategy to attenuate naïve cynicism in individuals has been shown by:
+
+* Viewing the other person as part of one's in-group or acknowledging they are working in cooperation.
+
+As a result of applying this strategy, happier married couples were less likely to exhibit cynical beliefs about each other’s judgments.<ref name="Kruger 1999" />
+
+Individuals are especially likely to exhibit naïve cynicism when the other person has a vested interest in the judgment at hand. However, if the other person is dispassionate about the judgment at hand, the individual will be less likely to engage in naïve cynicism and think the other person will see things the way they do.<ref name="Kruger 1999" />
+
+==Psychological contexts==
+Naïve cynicism may play a major role in these psychology-related contexts:
+
+===Groups===
+In one series of classic experiments by Kruger and Gilovich, groups including video game players, darts players and debaters were asked how often they were responsible for good or bad events relative to their partner. Participants evenly apportioned themselves for both good and bad events, but expected their partner to claim more responsibility for good events than bad events ([[egocentric bias]]) than they actually did.<ref name="Kruger 1999" />
+
+===Marriage===
+In the same study conducted by Kruger and Gilovich, married couples were also examined and ultimately exhibited the same type of naïve cynicism about their marriage partner as did partners of dart players, video game players and debaters.<ref name="Kruger 1999" />
+
+===Altruism===
+Naïve cynicism has been exemplified in the context of altruism. Explanations of selfless [[human behavior]] have been described in terms of individuals seeking personal advantage as opposed to absolute [[altruism]].<ref name="Boyd">{{cite journal|last1=Boyd|first1=Robert|last2=Peter|first2=Richerson|title=Solving the puzzle of human cooperation|journal=Evolution and Culture|date=2005|pages=105–132|doi=10.7551/mitpress/2870.003.0009 |isbn=9780262316224 |citeseerx=10.1.1.334.6027}}</ref>
+
+For example, naïve cynicism would explain the act of an individual donating money or items to charity as a way of self-enhancement rather than for altruistic purposes.
+
+===Dispositionists vs. situationists===
+[[Dispositionist]]s are described as individuals who believe people's actions are conditioned by some internal factor, such as beliefs, values, personality traits or abilities, rather than the situation they find themselves in.
+
+Situationists, in contrast, are described as individuals who believe people's actions are conditioned by external factors outside of one's control.
+
+[[Dispositionist]]s exemplify naïve cynicism while situationists do not.<ref name="Chiu 1997">{{cite journal|last1=Chiu|first1=Chi-yue|last2=Hong|first2=Ying-yi|title=Lay Dispositionism and Implicit Theories of Personality|journal=Journal of Personality and Social Psychology|date=1997|volume=73|issue=1|pages=19–30|url=https://psychology.stanford.edu/sites/all/files/Lay%20Dispositionism%20and%20Implicit%20Theories%20of%20Personality_0.pdf|doi=10.1037/0022-3514.73.1.19|pmid=9216077}}</ref> Therefore, situationist attributions are often thought to be more accurate than dispositionist attributions. However, dispositionist attributions are commonly believed to be the dominant schema because situationist attributions tend to be dismissed or attacked.
+
+In a direct quote from Benforado and Hanson's paper titled ''"Naïve Cynicism: Maintaining False Perceptions in Policy Debates"'', the situationist and dispositionist are described as:
+
+:"...&nbsp;the naïve cynic is a self-aware—even proud—critic. 
+:She speaks what she believes to be the truth, though it may require disparaging her opponents. 
+:She senses that she is delving below the surface of the complex arguments of the situationists; she “sees,” for example, the financial interest, the prejudice, or the distorting zealotry that motivates the situationist. 
+:She “sees” the bias and self-interest in those who would disagree—while maintaining an affirming view of herself as objective and other-regarding. 
+:The naïve cynic, then, is a dispositionist who cynically dispositionalizes the situationist. :She protects fundamentally flawed attributions by attacking the sources of potentially more accurate attributions. 
+:The naïve cynic understands (though rarely consciously) that [[the best defense is a good offense]]."<ref name="Benforado 2008" />
+
+====Examples of differences====
+* [[Dispositionist]]s might explain bankruptcy as the largely self-inflicted result of personal laziness and/or imprudence.
+* Situationists might explain bankruptcy as frequently caused by more complicated external forces, such as divorce or the medical and other costs of unanticipated illness.<ref name="Norton 2008">{{cite web|last=Norton|first=Helen|title=Situationism v. Dispositionism|url=http://prawfsblawg.blogs.com/prawfsblawg/2008/05/post1.html|work=article}}</ref>
+
+==Applied contexts==
+In addition to purely psychological contexts, naïve cynicism may play a major role in several applied contexts such as:
+
+===Negotiations===
+Naïve cynicism has been studied extensively in several contexts of negotiating such as bargaining tactics, specifically in the sense that too much naïve cynicism can be costly.<ref name="Tsay 2011" />
+
+Negotiators displaying naïve cynicism rely on distributive and competitive strategies and focus on gaining concessions rather than on problem-solving. This can be detrimental and lead to reduced information exchange, information concealment, coordination, cooperation and quality of information revealed.<ref name="Tsay 2011" />
+
+====Reducing naïve cynicism in negotiations====
+The following strategies have been identified as ways to reduce naïve cynicism in the context of negotiations:
+
+=====Perspective taking=====
+
+It has been shown that individuals who focus more on the perspectives of their opponents were more successful in experimental laboratory negotiations.
+
+Taking another person's perspective produced better predictions of opponents' goals and biases, though it is noted that many individuals lack the ability to properly change perspectives. These incapable individuals tend to view their opponents as passive and can be prone to ignore valuable information disseminated during negotiations.<ref name="Neale">{{cite journal|last1=Neale|first1=Margaret|last2=Bazerman|first2=Max|title=The Role of Perspective-Taking Ability in Negotiating under Different Forms of Arbitration|journal=ILR Review|date=April 1983|volume=36|issue=3|pages=378–388|doi=10.1177/001979398303600304|s2cid=154996728}}</ref>
+
+Negotiator [[role reversal]] is believed to be an important focus of training for individuals to be less inclined to use naïve cynicism during negotiations. This process involves having each negotiator verbally consider their opponents perspective prior to making any judgements.<ref name="Pruitt">{{cite book|last1=Pruitt|first1=Dean|title=Strategy in negotiation|date=1991|publisher=Jossey-Bass|location=San Francisco, California}}</ref>
+
+=====Communication=====
+
+It has been shown when [[communication]] between opponents in negotiations is strong, negotiators are more likely to avoid stalemates.<ref name="Bazerman 1998">{{cite book|last1=Bazerman|first1=Max|title=Can negotiators outperform game theory|date=1998|pages=79–99}}</ref>
+
+Negotiators who exhibit strong communication skills tend to believe integrity should be reciprocally displayed by both sides and thus regard open communication as a positive aspect in negotiations. Those negotiators high in communication skills also tend to view deadlocks as a negative event and will avoid reaching an impasse in order to reach an agreement.<ref name="Bazerman 1998" />
+
+=====Feedback=====
+
+Despite attempts to reduce errors of naïve cynicism in laboratory studies with [[corrective feedback|error-related feedback]], errors still persisted even after many trials and strong feedback.<ref name="Grosskopf">{{cite journal|last1=Grosskopf|first1=Brit|last2=Bereby-Meyer|first2=Yoella|last3=Bazerman|first3=Max|title=On the robustness of the winner's curse phenomenon|journal=Theory and Decision|date=2007|volume=63|issue=4|pages=389–418|doi=10.1007/s11238-007-9034-6|s2cid=189841254}}</ref>
+
+===Governmental policy debates===
+In relation to governmental policy debates, it is hypothesized that naïve cynicism fosters a distrust of other political parties and entities. Naïve cynicism is thought to be a critical contributor for why certain legal policies succeed and others fail.
+
+For example, naïve cynicism is thought{{By whom|date=June 2021}} to be a factor contributing to the existence of [[Administrative detention|detention center]]s such as [[Baghdad Central Prison|Abu Ghraib]], [[Guantanamo Bay detention camp|Guantanamo Bay]], [[Parwan Detention Facility|Bagram Air Base]] and more.{{how|date=June 2021}}<ref name="Benforado 2008" />
+
+==Related biases==
+Biases including the following have been argued to be caused at least partially by naïve cynicism:
+
+* [[Negativity bias]]
+* [[Fundamental attribution error]]
+* [[False-consensus effect]]
+* [[Bias blind spot]]
+* [[Self-interest]]
+* [[Curse of knowledge]]
+* [[Hindsight bias]]
+* [[Hostile media effect]]
+* [[Attitude polarization]]
+* [[Reactive devaluation]]
+* [[Hot-cold empathy gap]]
+* Some forms of [[confirmation bias]]
+
+==See also==
+
+* [[List of cognitive biases]]
+* [[Naïve realism (psychology)|Naïve realism]]
+* [[Psychological egoism]]
+* [[Attribution theory]]
+* [[Depressive realism]]
+* [[Discontinuity effect]]
+* [[Winner's curse]]
+* [[Gaslighting]]
+
+== References ==
+{{Reflist|30em}}
+
+{{DEFAULTSORT:Naive cynicism}}
+[[Category:Cognitive biases]]

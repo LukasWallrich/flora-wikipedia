@@ -1,0 +1,33 @@
+{{more footnotes needed|date=July 2012}}
+'''Melioration theory''' in [[behavioral psychology]] is a theoretical algorithm that predicts the [[matching law]].<ref>Vaughan and Herrnstein (1980)</ref> Melioration theory is used as an explanation for why an organism makes choices based on the rewards or [[reinforcer]]s it receives. The principle of melioration states that animals will invest increasing amounts of time and/or effort into whichever alternative is better. To meliorate essentially means to "make better".<ref>Mazur, James E. Learning and Behavior (6th ed.) Upper Saddle River NJ: 2006 p. 332-335</ref>
+
+Melioration theory accounts for many of the choices that organisms make when presented with two variable interval schedules. Melioration is a form of matching where the subject is constantly shifting its behavior from the poorer reinforcement schedule to the richer reinforcement schedule, until it is spending most of its time at the richest variable interval schedule. By matching, the subject is equalizing the price of the reinforcer they are working for. This is also called [[hyperbolic discounting]]. In making a choice between options, living organisms need not maximize expected payoff as classical economic theory posits. Rather than being aggregated, the options compete against one another based on differences in their local reinforcement rate. The organism continuously shifts from one alternative to the other, if one is better than the other, until the other is better than the first one, regardless of the effect on overall [[rate of reinforcement]]. Melioration is capable of accounting for behavior on both concurrent ratio and concurrent interval schedules.
+
+Melioration Equation
+R1/B1 = R2/B2
+
+If this ratio is not equal, the animal will shift its behavior to the alternative that currently has the higher response ratio. When the ratio is equal, the "cost" of each reinforcer is the same for both alternatives.
+
+Melioration theory grew out of an impersonal anonymous interest in how the [[matching law]] comes to hold on. [[Richard Herrnstein|Richard J. Herrnstein]] (1961) reported that on concurrent VIVIVI [[reinforcement]] schedules, the proportion of responses to one alternative was approximately equal to the proportion of reinforcer received there. This finding is summarized in the matching law, which generated a great deal of both matching research and matching theorizing. Herrnstein (1970) suggested that matching may be a basic behavioral process, whereas Rachlin et al. (1976) suggested that matching comes about because it maximizes rate of matching reinforcement.
+
+William Vaughan Jr. (1976) suggested that the local rate of matching reinforcement on each reinforcement matching schedule is evaluated, and if those local rates differ, the distribution of time on a schedule is shifted from the poorer to the better schedule. On concurrent VIVIVI reinforcement schedules this process gives rise to matching, whereas on concurrent VRVRVR reinforcement schedules it gives rise to exclusive preferences for the better alternative and not the worse alternative. This rule was subsequently named Melioration ([[Richard Herrnstein|Herrnstein]] & Vaughan, 1980). See also [[Richard Herrnstein|Herrnstein, 1982]], Vaughan, 1981; Vaughan & Herrnstein, 1987; Bland, Cowie, Podlesnik & Elliffe, 2018)
+
+==References==
+;Footnotes
+{{reflist}}
+;Sources
+* Bland, V.J.; Cowie,S.; Podlesnik, C.A.; & Elliffe, D. (2018). Melioration revisited: A systematic replication of Vaughan (1981).Journal of the experimental analysis of behavior 109(31).
+* {{cite journal|last1=Herrnstein|first1=R. J.|title=Relative and absolute strength of response as a function of frequency of reinforcement, 12|journal=Journal of the Experimental Analysis of Behavior|date=July 1961|volume=4|issue=3|pages=267–272|doi=10.1901/jeab.1961.4-267|pmc=1404074|pmid=13713775}}
+* {{cite journal|last1=Herrnstein|first1=R. J.|title=On the law of effect1|journal=Journal of the Experimental Analysis of Behavior|date=March 1970|volume=13|issue=2|pages=243–266|doi=10.1901/jeab.1970.13-243|pmid=16811440|pmc=1333768}}
+* Herrnstein, R.J. (1982). Melioration as behavioural dynamism. In Commons, M.L.; Herrnstein, R.J. & Rachlin, H. (Eds.), ''Quantitative analyses of behavior, vol. II: Matching and maximizing accounts'', pp.&nbsp;433–58. Ballinger Publishing Co., Cambridge, MA.
+* {{cite journal|last1=Herrnstein|first1=Richard J.|last2=Prelec|first2=Dražen|title=Melioration: A Theory of Distributed Choice|journal=The Journal of Economic Perspectives|date=1991|volume=5|issue=3|pages=137–156|doi=10.1257/jep.5.3.137|jstor=1942800|doi-access=free}}
+* Herrnstein, R.J. & Vaughan, W. Jr. (1980). Melioration and behavioral allocation. In J.E.R. Staddon (Ed.), ''Limits to action''. New York: Academic Press.
+* Rachlin, H.; Green, L.; Kagel, J.H. & Battalio, R.C. (1976). Economic demand theory and psychological studies of choice. In G.H. Bower (Ed.), ''The Psychology of Learning and Motivation'', 10, pp.&nbsp;129–54. New York: Academic Press.
+* Vaughan, W. Jr. (1976). ''Optimization and reinforcement''. Unpublished doctoral thesis, Harvard University.
+* {{cite journal | last1 = Vaughan | first1 = W. Jr | year = 1981 | title = Melioration, matching, and maximization | journal = Journal of the Experimental Analysis of Behavior | volume = 36 | issue = 2| pages = 141–49 | doi=10.1901/jeab.1981.36-141| pmid = 16812236 | pmc = 1333063}}
+* Vaughan, W. Jr. & Herrnstein, R.J. (1987). Stability, melioration, and natural selection. In L. Green & J.H. Kagel (Eds.), ''Advances in Behavioral Economics'', Vol. 1 (pp.&nbsp;185–215). Norwood, NJ: Ablex.
+* Vaughan, W. Jr. & Herrnstein, R.J. (1980). "Melioration and behavioral allocation." Limits to action: The allocation of individual behavior (1980): 143–176.
+
+[[Category:Behaviorism]]
+[[Category:Psychological theories]]
+[[Category:Theory of mind]]

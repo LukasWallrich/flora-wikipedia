@@ -1,0 +1,74 @@
+{{Short description|Theory that terms acquire referents via a chain of usage events}}
+A '''causal theory of reference''' or '''historical chain theory of reference''' is a theory of how terms acquire specific [[reference|referents]] based on evidence. Such theories have been used to describe many referring terms, particularly logical terms, [[proper names]], and [[natural kind]] terms. In the case of names, for example, a causal theory of reference typically involves the following claims:
+
+* a name's [[reference|referent]] is fixed by an original act of naming (also called a "dubbing" or, by [[Saul Kripke]], an "initial baptism"), whereupon the name becomes a [[rigid designator]] of that object.
+* later uses of the name succeed in referring to the referent by being linked to that original act via a [[Causality|causal chain]].
+
+Weaker versions of the position (perhaps not properly called "causal theories") claim merely that, in many cases, events in the causal history of a speaker's use of the term, including when the term was first acquired, must be considered to correctly assign references to the speaker's words.
+
+Causal theories of names became popular during the 1970s, under the influence of work by Saul Kripke and [[Keith Donnellan]]. Kripke and [[Hilary Putnam]] also defended an analogous causal account of [[natural kind]] terms.
+
+== Kripke's causal account of names ==
+In lectures later published as ''[[Naming and Necessity]]'', Kripke provided a rough outline of his causal theory of reference for names. Although he refused to explicitly endorse such a theory, he indicated that such an approach was far more promising than the then-popular [[descriptive theory of names]] introduced by [[Bertrand Russell|Russell]], according to which names are in fact disguised [[definite descriptions]]. Kripke argued that in order to use a name successfully to refer to something, you do not have to be acquainted with a uniquely identifying description of that thing. Rather, your use of the name need only be caused (in an appropriate way) by the naming of that thing.
+
+Such a causal process might proceed as follows: the parents of a newborn baby name it, pointing to the child and saying "we'll call her 'Jane'." Henceforth everyone calls her 'Jane'. With that act, the parents give the girl her name. The assembled family and friends now know that 'Jane' is a name which refers to Jane. This is referred to as Jane's dubbing, naming, or initial baptism.
+
+However, not everyone who knows Jane and uses the name 'Jane' to refer to her was present at this naming. So how is it that when ''they'' use the name 'Jane', they are referring to Jane? The answer provided by causal theories is that there is a causal chain that passes from the original observers of Jane's naming to everyone else who uses her name. For example, maybe Jill was not at the naming, but Jill learns about Jane, and learns that her name is 'Jane', from Jane's mother, who ''was'' there. She then uses the name 'Jane' with the intention of referring to the child Jane's mother referred to. Jill can now use the name, and her use of it can in turn transmit the ability to refer to Jane to other speakers.
+
+Philosophers such as [[Gareth Evans (philosopher)|Gareth Evans]] have insisted that the theory's account of the dubbing process needs to be broadened to include what are called 'multiple groundings'. After her initial baptism, uses of 'Jane' in the presence of Jane may, under the right circumstances, be considered to further ground the name ('Jane') in its referent (Jane). That is, if I am in direct contact with Jane, the reference for my utterance of the name 'Jane' may be fixed not simply by a causal chain through people who had encountered her earlier (when she was first named); it may also be indexically fixed to Jane at the moment of my utterance. Thus our modern day use of a name such as 'Christopher Columbus' can be thought of as referring to Columbus through a causal chain that terminates not simply in one instance of his naming, but rather in a series of grounding uses of the name that occurred throughout his life. Under certain circumstances of confusion, this can lead to the alteration of a name's referent (for one example of how this might happen, see [[Twin Earth thought experiment]]).
+
+== Motivation ==
+Causal theories of reference were born partially in response to the widespread acceptance of Russellian descriptive theories. Russell found that certain [[logic]]al [[contradiction]]s could be avoided if names were considered disguised [[definite description]]s (a similar view is often attributed to [[Gottlob Frege]], mostly on the strength of a footnoted comment in "[[On Sense and Reference]]", although many Frege scholars consider this attribution misguided).{{citation needed|date=January 2012}} On such an account, the name 'Aristotle' might be seen as meaning 'the student of Plato and teacher of Alexander the Great'. Later description theorists expanded upon this by suggesting that a name expressed not one particular description, but many (perhaps constituting all of one's essential knowledge of the individual named), or a weighted average of these descriptions.
+
+Kripke found this account to be deeply flawed, for a number of reasons. Notably:
+
+* We can successfully refer to individuals for whom we have ''no'' uniquely identifying description. (For example, a speaker can talk about Phillie Sophik even if one only knows him as 'some poet'.)
+* We can successfully refer to individuals for whom the only identifying descriptions we have fail to refer as we believe them to. (Many speakers have no identifying beliefs about [[Christopher Columbus]] other than 'the first European in North America' or 'the first person to believe that the earth was round'. Both of these beliefs are incorrect. Nevertheless, when such a person says 'Christopher Columbus', we acknowledge that they are referring to Christopher Columbus, not to whatever individual satisfies one of those descriptions.)
+* We use names to speak hypothetically about what ''could'' have happened to a person. A name functions as a [[rigid designator]], while a definite description does not. (One could say 'If Aristotle had died young, he would never have taught Alexander the Great.' But if 'the teacher of Alexander the Great' were a component of the ''meaning'' of 'Aristotle' then this would be nonsense.)
+
+A causal theory avoids these difficulties. A name refers rigidly to the bearer to which it is causally connected, regardless of any particular facts about the bearer, and in all [[possible worlds]] where the bearer exists.
+
+The same motivations apply to causal theories in regard to other sorts of terms. Putnam, for instance, attempted to establish that 'water' refers rigidly to the stuff that we do in fact call 'water', to the exclusion of any possible identical water-like substance for which we have no causal connection. These considerations motivate [[semantic externalism]]. Because speakers interact with a natural kind such as water regularly, and because there is generally no naming ceremony through which their names are formalized, the multiple groundings described above are even more essential to a causal account of such terms. A speaker whose environment changes may thus observe that the referents of his terms shift, as described in the [[Twin Earth thought experiment|Twin Earth]] and [[Swampman]] [[thought experiment]]s.
+
+== Variations<!--'Causal-historical theory of reference', 'Causal-descriptive theory of reference', and 'Descriptive-causal theory of reference' redirect here--> ==
+Variations of the causal theory include:
+* The '''causal-historical theory of reference'''<!--boldface per WP:R#PLA--> is the original version of the causal theory. It was put forward by [[Keith Donnellan]] in 1972<ref>Donnellan, Keith. (1972). "Proper Names and Identifying Descriptions." In Donald Davidson; Gilbert Harman (eds.). ''Semantics of Natural Language''. Dordrecht: D. Reidel. pp. 356–379.</ref> and [[Saul Kripke]] in 1980.<ref>Kripke, S. "A Puzzle about Belief", in A. Margalit (ed.), ''Meaning and Use'', Reidel, pp. 239–83 (1979).</ref><ref name=SEP>[https://plato.stanford.edu/entries/names/ Names (Stanford Encyclopedia of Philosophy)]</ref> This view introduces the idea of reference-passing links in a causal-historical chain.<ref name=SEP/>
+* The '''descriptive-causal theory of reference'''<!--boldface per WP:R#PLA--> (also '''causal-descriptive theory of reference'''),<!--boldface per WP:R#PLA--><ref name=Psillos279>[[Stathis Psillos]], ''Scientific Realism: How Science Tracks Truth'', Routledge, 1999, p. 279.</ref> a view put forward by [[David Lewis (philosopher)|David Lewis]]<ref name=Psillos279/><ref name=Gattei>Stefano Gattei, ''Thomas Kuhn's 'Linguistic Turn' and the Legacy of Logical Empiricism: Incommensurability, Rationality and the Search for Truth'', Ashgate Publishing, 2012, p. 122.</ref> in 1984,<ref>D. K. Lewis (1984), "Putnam's Paradox." ''Australasian Journal of Philosophy'', '''62'''(3), 221–36; reprinted in D. Lewis (1999), ''Papers on metaphysics and epistemology'', Cambridge University Press, pp. 56–77.</ref> introduces the idea that a minimal descriptive apparatus needs to be added to the causal relations between speaker and object.<ref name=Gattei/>{{efn|See also [[Structuralism (philosophy of science)#Further criticism|Criticism of structuralism]].}}
+
+== Criticism of the theory ==
+[[Gareth Evans (philosopher)|Gareth Evans]] argued that the causal theory, or at least certain common and over-simple variants of it, have the consequence that, however remote or obscure the causal connection between someone's use of a proper name and the object it originally referred to, they still refer to that object when they use the name. (Imagine a name briefly overheard in a train or café.) The theory effectively ignores context and makes reference into a magic trick. Evans describes it as a "[[photograph]]" theory of reference.<ref>{{Cite journal|last1=Evans|first1=Gareth|last2=Altham|first2=J. E. J.|date=1973|title=The Causal Theory of Names|journal=Proceedings of the Aristotelian Society, Supplementary Volumes|volume=47|pages=187–225|issn=0309-7013|jstor=4106912|doi=10.1093/aristoteliansupp/47.1.187}}</ref>
+
+The links between different users of the name are particularly obscure. Each user must somehow pass the name on to the next, and must somehow "mean" the right individual as they do so (suppose "Socrates" is the name of a pet). Kripke himself notes the difficulty, [[John Searle]] makes much of it.{{Citation needed|reason=Reliable source needed for the whole sentence|date=September 2015}}
+
+[[Mark Sainsbury (philosopher)|Mark Sainsbury]] argued<ref>Sainsbury, R.M., ''Departing From Frege: Essays in the Philosophy of Language'', Routledge, 2002, Essay XII.</ref> for a causal theory similar to Kripke's, except that the baptised object is eliminated. A "baptism" may be a baptism of nothing, he argues: a name can be intelligibly introduced even if it names nothing.<ref>{{
+harvnb|Sainsbury|2001|p=212}}</ref> The causal chain we associate with the use of proper names may begin merely with a "journalistic" source.<ref>{{
+harvnb|Sainsbury|2001|p=165}}</ref>
+
+The causal theory has a difficult time explaining the phenomenon of reference change. [[Gareth Evans (philosopher)|Gareth Evans]] cites the example of when [[Marco Polo]] unknowingly referred to the African Island as "Madagascar" when the natives actually used the term to refer to a part of the mainland. Evans claims that Polo clearly intended to use the term as the natives do, but somehow changed the meaning of the term "Madagascar" to refer to the island as it is known today. [[Michael Devitt]] claims that repeated groundings in an object can account for reference change. However, such a response leaves open the problem of cognitive significance that originally intrigued Russell and Frege.
+
+==See also==
+{{Portal|Philosophy}}
+*[[Brain in a vat]]
+*[[Mediated reference theory]]
+
+==Notes==
+{{notelist}}
+
+==Citations==
+{{reflist}}
+
+==References==
+* [[Gareth Evans (philosopher)|Evans, G.]] (1985). "The Causal Theory of Names". In [[Aloysius Martinich|Martinich, A. P.]], ed. ''The Philosophy of Language''. Oxford University Press, 2012.
+* Evans, G. ''The Varieties of Reference'', Oxford 1982.
+* [[Saul Kripke|Kripke, Saul.]] 1980. ''Naming and Necessity''. Cambridge, Mass.: Harvard University Press.
+* [[John McDowell|McDowell, John.]] (1977) "On the Sense and Reference of a Proper Name."
+* [[Nathan Salmon|Salmon, Nathan]]. (1981) ''Reference and Essence'', Prometheus Books. 
+* {{cite journal |last1=Machery |first1=E. |last2=Mallon |first2=R. |last3=Nichols |first3=S. |last4=Stich |first4=S. P. |year=2004 |title=Semantics, Cross-cultural Style |journal=Cognition |volume=92 |issue=3 |pages=B1–B12 |doi=10.1016/j.cognition.2003.10.003|pmid=15019555 |citeseerx=10.1.1.174.5119 |s2cid=15074526 }}
+* {{cite book |last=Sainsbury |first=R.M. |chapter=Sense without Reference |title=Building on Frege |editor1-last=Newen |editor1-first=A. |editor2-last=Nortmann |editor2-first=U.| editor3-last=Stuhlmann Laisz |editor3-first=R. |location=Stanford |date=2001 }}
+
+{{philosophy of language}}
+
+[[Category:Names]]
+[[Category:Theories of language]]
+[[Category:Causality]]
+[[Category:Meaning (philosophy of language)]]

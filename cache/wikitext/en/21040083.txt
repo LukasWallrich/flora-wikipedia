@@ -1,0 +1,61 @@
+{{Short description|American academic}}
+{{Infobox scientist
+| name              = David Rand
+| image             = DavidGRandPic.jpg
+| image_size        = 
+| caption           = 
+| birth_date        = 
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| residence         = 
+| field             = [[Psychology]], [[Economics]], [[Marketing]], [[Mathematical Biology]], [[Cognitive Science]], [[Management]]
+| work_institution  = [[Cornell University]]
+| alma_mater        = [[Cornell University]] <br />[[Harvard University]]
+| doctoral_advisor  = [[Martin Nowak]]
+| academic_advisors = [[Joshua Greene (psychologist)|Joshua Greene]]
+| website           = http://www.DaveRand.org
+}}
+
+'''David G. Rand''' is a Professor of Information Science, Marketing, and Psychology at [[Cornell University]].
+
+==Biography==
+Rand grew up in [[Ithaca, New York]], where his father is a professor at [[Cornell University]]. As a teenager he was in several rock bands,<ref name=Edge>{{cite news|last1=Rand|first1=David|title=The Cost of Cooperating: A Conversation With David Rand|url=https://www.edge.org/conversation/david_rand-the-cost-of-cooperating|work=Edge|date=November 9, 2016|language=en}}</ref> including solo project [[Robot Goes Here]].
+
+He earned his undergraduate degree from Cornell in [[computational biology]] in 2004, then worked for two years at [[Gene Network Sciences]].<ref name=Edge/><ref name=CV>{{cite web|title=David G. Rand |type=CV |url=https://static1.squarespace.com/static/51ed234ae4b0867e2385d879/t/5c51cecf032be418141ffd27/1548865284991/CV.pdf |archive-url=https://web.archive.org/web/20190302025437/https://static1.squarespace.com/static/51ed234ae4b0867e2385d879/t/5c51cecf032be418141ffd27/1548865284991/CV.pdf |archive-date=2019-03-02 |access-date=21 May 2018}}{{rs|date=August 2022}}</ref>  He then went to Harvard, where he earned a PhD in [[systems biology]] in 2009.  After 4 years of post-doctoral studies at Harvard, in 2013 Rand began an assistant professorship at [[Yale University]] in psychology, economics, management. In 2017 he was appointed a tenure-track associate professor in psychology at Yale. In 2018 he was promoted to associate professor with tenure at Yale, and then moved to MIT as a tenured associate professor, where he then became full professor. In 2025, he joined [[Cornell University]] as a professor of Information Science, Marketing, and Psychology.<ref>{{Cite web |title=About |url=https://davidrand-cooperation.com/about |access-date=2025-11-21 |website=David Rand |language=en-US}}</ref>
+
+In January 2012, Rand was named to [[Wired Magazine]]'s Smart List 2012 as one of "50 people who will change the world".<ref>{{cite magazine|title=The Smart List 2012: 50 people who will change the world|url=https://www.wired.co.uk/article/the-smart-list|magazine=Wired|date=24 January 2012}}</ref>
+
+==Publications==
+;Scientific:
+* {{cite journal|last1=Dreber|first1=A|last2=Rand|first2=DG|last3=Fudenberg|first3=D|last4=Nowak|first4=MA|title=Winners don't punish.|journal=Nature|date=20 March 2008|volume=452|issue=7185|pages=348–51|doi=10.1038/nature06723|pmid=18354481|pmc=2292414|bibcode=2008Natur.452..348D}}
+* {{cite journal|last1=Rand|first1=DG|last2=Dreber|first2=A|last3=Ellingsen|first3=T|last4=Fudenberg|first4=D|last5=Nowak|first5=MA|title=Positive interactions promote public cooperation.|journal=Science|date=4 September 2009|volume=325|issue=5945|pages=1272–5|doi=10.1126/science.1177418|pmid=19729661|pmc=2875121|bibcode=2009Sci...325.1272R}}
+* {{cite journal|last1=Rand|first1=DG|last2=Pfeiffer|first2=T|last3=Dreber|first3=A|last4=Sheketoff|first4=RW|last5=Wernerfelt|first5=NC|last6=Benkler|first6=Y|title=Dynamic remodeling of in-group bias during the 2008 presidential election.|journal=Proceedings of the National Academy of Sciences of the United States of America|date=14 April 2009|volume=106|issue=15|pages=6187–91|doi=10.1073/pnas.0811552106|pmid=19332775|pmc=2664153|bibcode=2009PNAS..106.6187R|doi-access=free}}
+* {{cite journal|last1=Beale|first1=N|last2=Rand|first2=DG|last3=Battey|first3=H|author3-link=Heather Battey|last4=Croxson|first4=K|last5=May|first5=RM|last6=Nowak|first6=MA|title=Individual versus systemic risk and the Regulator's Dilemma.|journal=Proceedings of the National Academy of Sciences of the United States of America|date=2 August 2011|volume=108|issue=31|pages=12647–52|doi=10.1073/pnas.1105882108|pmid=21768387|pmc=3150885|bibcode=2011PNAS..10812647B|doi-access=free}}
+* {{cite journal|last1=Rand|first1=DG|last2=Arbesman|first2=S|last3=Christakis|first3=NA|title=Dynamic social networks promote cooperation in experiments with humans.|journal=Proceedings of the National Academy of Sciences of the United States of America|date=29 November 2011|volume=108|issue=48|pages=19193–8|doi=10.1073/pnas.1108243108|pmid=22084103|pmc=3228461|bibcode=2011PNAS..10819193R|doi-access=free}}
+* {{cite journal|last1=Shenhav|first1=A|last2=Rand|first2=DG|last3=Greene|first3=JD|title=Divine intuition: cognitive style influences belief in God.|journal=Journal of Experimental Psychology. General|date=August 2012|volume=141|issue=3|pages=423–8|doi=10.1037/a0025391|pmid=21928924}}
+* {{cite journal|last1=Fudenberg|first1=Drew|last2=Rand|first2=David G|last3=Dreber|first3=Anna|title=Slow to Anger and Fast to Forgive: Cooperation in an Uncertain World|journal=American Economic Review|date=April 2012|volume=102|issue=2|pages=720–749|doi=10.1257/aer.102.2.720|citeseerx=10.1.1.362.1558|s2cid=14247829}} [https://dash.harvard.edu/handle/1/11223697 Author's manuscript at Harvard repository]
+* {{cite journal|last1=Rand|first1=DG|last2=Greene|first2=JD|last3=Nowak|first3=MA|title=Spontaneous giving and calculated greed.|journal=Nature|date=20 September 2012|volume=489|issue=7416|pages=427–30|doi=10.1038/nature11467|pmid=22996558|bibcode=2012Natur.489..427R|s2cid=4326080}}
+* {{cite journal|last1=Rand|first1=DG|last2=Epstein|first2=ZG|title=Risking your life without a second thought: intuitive decision-making and extreme altruism.|journal=PLOS ONE|date=2014|volume=9|issue=10|article-number=e109687|doi=10.1371/journal.pone.0109687|pmid=25333876|pmc=4198114|bibcode=2014PLoSO...9j9687R|doi-access=free}}
+
+;
+;Popular media
+* {{cite news|last1=Rand|first1=David|last2=Nowak|first2=Martin|title=Comment: How reputation could save the Earth|url=https://www.newscientist.com/article/mg20427347-100-how-reputation-could-save-the-earth/|work=New Scientist|date=11 November 2009}}
+* {{cite news|last1=Yoeli|first1=Erez|last2=Rand|first2=David|title=Opinion: The Trick to Acting Heroically|url=https://www.nytimes.com/2015/08/30/opinion/the-trick-to-acting-heroically.html|work=The New York Times|date=28 August 2015}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+* [http://davidrand-cooperation.com/ Professional Website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rand, David G}}
+[[Category:Harvard University alumni]]
+[[Category:Cornell University alumni]]
+[[Category:Living people]]
+[[Category:Berkman Fellows]]
+[[Category:Year of birth missing (living people)]]
+[[Category:People from Ithaca, New York]]
+[[Category:MIT School of Science faculty]]

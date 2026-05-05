@@ -1,0 +1,107 @@
+{{Short description|Norwegian linguist}}
+{{Infobox academic
+| honorific_prefix   = <!-- see [[MOS:CREDENTIAL]] and [[MOS:HONORIFIC]] -->
+| name               = Marit Westergaard
+| honorific_suffix   = 
+| image              =
+| image_size         = 
+| alt                = 
+| caption            = 
+| native_name        = 
+| native_name_lang   = 
+| birth_name         = <!-- use only if different from full/othernames -->
+| birth_date         = <!-- {{birth date and age|YYYY|MM|DD}}  -->
+| birth_place        = [[Tromsø|Tromsø municipality]]
+| death_date         = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place        = 
+| death_cause        = 
+| citizenship        = Norway
+| other_names        = 
+| occupation         = Professor, Department of Language and Culture; Director of AcqVa Aurora group 
+| period             = 
+| known_for          = Second language acquisition, third language acquisition, linguistics
+| title              = Professor, Professor II
+| boards             = <!--board or similar positions extraneous to main occupation-->
+| spouse             = 
+| partner            = 
+| children           = 
+| parents            = 
+| relatives          = 
+| awards             = Member of The [[Norwegian Academy of Science and Letters|NASL]], Academia Borealis
+| website            = [https://site.uit.no/maritwestergaard site.uit.no/maritwestergaard]
+| education          = MA in Linguistics, [[UC San Diego]], Cand. Phil in Linguistics and German, [[University of Tromsø]], D.Phil in Linguistics, [[University of Tromsø]] 
+| alma_mater         = [[University of Tromsø]]
+| thesis_title       = The Development of Word Order in Norwegian Child Language: The Interaction of Input and Economy Principles in the Acquisition of V2
+| thesis_url         = 
+| thesis_year        = 2005
+| school_tradition   = 
+| doctoral_advisor   = 
+| academic_advisors  = 
+| influences         = <!--must be referenced from a third-party source-->
+| era                = 
+| discipline         = Language Acquisitionist, Linguist
+| sub_discipline     = [[Bilingualism]] and [[multilingualism]]
+| workplaces         = [[UiT The Arctic University of Norway]]
+| doctoral_students  = <!--only those with WP articles-->
+| notable_students   = 
+| main_interests     = 
+| notable_works      = 
+| notable_ideas      = 
+| influenced         = <!--must be referenced from a third-party source-->
+| signature          = 
+| signature_alt      = 
+| signature_size     = 
+| footnotes          = 
+}}
+
+'''Marit Kristine Richardsen Westergaard''' (born 12 August 1956) is a Norwegian linguist, known for her work on child language acquisition and multilingualism.
+
+She defended her PhD thesis ''The Development of Word Order in Norwegian Child Language: The Interaction of Input and Economy Principles in the Acquisition of V2'' at the [[University of Tromsø]] in 2005.<ref>{{Cite web|date=2016-04-13|title=Professor til Videnskaps-akademiet|url=https://www.itromso.no/nyheter/2016/04/13/Professor-til-Videnskaps-akademiet-12595508.ece|access-date=2021-03-24|website=itromso.no|language=nb|archive-date=2016-07-01|archive-url=https://web.archive.org/web/20160701022554/http://www.itromso.no/nyheter/2016/04/13/Professor-til-Videnskaps-akademiet-12595508.ece|url-status=dead}}</ref> She was hired as a professor at the [[University of Tromsø]] in 2009, and also has held an [[adjunct professor]] position at the [[Norwegian University of Science and Technology]] since 2015. She has been a fellow of the [[Norwegian Academy of Science and Letters]] since 2016.<ref>{{cite news|title=Professor til Videnskapsakademiet|work=iTromsø|date=14 April 2016|language=Norwegian}}</ref>
+
+== Research ==
+Much of Wetergaard's work has been focused on language acquisition and multilingualism. In her role as AcqVA (Acquisition, Variation, and [[Language attrition|Attrition]]) Aurora Center Director, she oversees projects on multilingual [[Language acquisition|acquisition]] of gender (together with [[Terje Lohndal]])<ref name=":1" /><ref>{{Cite journal|last1=Lohndal|first1=Terje|last2=Westergaard|first2=Marit|date=2016-03-16|title=Grammatical Gender in American Norwegian Heritage Language: Stability or Attrition?|journal=Frontiers in Psychology|volume=7|page=344 |doi=10.3389/fpsyg.2016.00344|pmid=27014151 |pmc=4793186 |issn=1664-1078|doi-access=free}}</ref><ref>{{Cite journal|last1=Mitrofanova|first1=Natalia|last2=Rodina|first2=Yulia|last3=Urek|first3=Olga|last4=Westergaard|first4=Marit|date=2018-10-11|title=Bilinguals' Sensitivity to Grammatical Gender Cues in Russian: The Role of Cumulative Input, Proficiency, and Dominance|journal=Frontiers in Psychology|volume=9|page=1894 |doi=10.3389/fpsyg.2018.01894|pmid=30364150 |pmc=6193086 |issn=1664-1078|doi-access=free}}</ref><ref>{{Cite web|title=MultiGender: A Multilingual Approach to Grammatical Gender|url=https://cas.oslo.no/research-groups/multigender-a-multilingual-approach-to-grammatical-gender-article2752-827.html|access-date=2021-03-08|website=CAS|date=3 October 2017|language=en|archive-date=2019-10-18|archive-url=https://web.archive.org/web/20191018091431/https://cas.oslo.no/research-groups/multigender-a-multilingual-approach-to-grammatical-gender-article2752-827.html|url-status=dead}}</ref> and acquisition and [[Language processing in the brain|processing]] of [[morphosyntax]].<ref>{{Cite journal|last1=Jensen|first1=Isabel Nadine|last2=Slabakova|first2=Roumyana|last3=Westergaard|first3=Marit|last4=Lundquist|first4=Björn|date=2019-02-28|title=The Bottleneck Hypothesis in L2 acquisition: L1 Norwegian learners' knowledge of syntax and morphology in L2 English|journal=Second Language Research|volume=36|issue=1|pages=3–29|doi=10.1177/0267658318825067|issn=0267-6583|hdl=10037/18039|s2cid=151194074 |hdl-access=free}}</ref><ref>{{Cite journal|last1=Wolleb|first1=Anna|last2=Sorace|first2=Antonella|last3=Westergaard|first3=Marit|date=2018-11-02|title=Exploring the role of cognitive control in syntactic processing|journal=Linguistic Approaches to Bilingualism|volume=8|issue=5|pages=606–636|doi=10.1075/lab.17002.wol|s2cid=54028600 |issn=1879-9264|hdl=20.500.11820/1b92ad6a-ca5d-4f4e-876f-f048266819f1|hdl-access=free}}</ref><ref>{{Cite web|title=PoLaR lab|url=https://site.uit.no/polar/|access-date=2021-03-08|language=en-US}}</ref> One of the most prominent areas of Westergaard's expertise is micro-variation and the role of micro-variation in [[Multilingualism|multilingual]] context. Her work explores the nature of language acquisition as it relates to micro-variation as well as language change.<ref>{{Cite web|title=Marit Westergaard|url=https://scholar.google.com/citations?user=KFsnIxQAAAAJ&hl=en|access-date=2021-03-09|website=scholar.google.com}}</ref>
+
+== The Linguistic Proximity Model of third language acquisition ==
+Westergaard proposed an influential model of third language acquisition: the Linguistic Proximity Model (LPM). This model is based on property-by-property acquisition of the target language grammar, and it claims that the acquisition mechanism is based on the typological similarity between the target language property and the previous languages acquired by the language learner.<ref name=":0">{{Cite journal|last1=Westergaard|first1=Marit|last2=Mitrofanova|first2=Natalia|last3=Mykhaylyk|first3=Roksolana|last4=Rodina|first4=Yulia|date=December 2017|title=Crosslinguistic influence in the acquisition of a third language: The Linguistic Proximity Model|url=http://journals.sagepub.com/doi/10.1177/1367006916648859|journal=International Journal of Bilingualism|language=en|volume=21|issue=6|pages=666–682|doi=10.1177/1367006916648859|issn=1367-0069|hdl=10037/10725|s2cid=102492313 |hdl-access=free}}</ref> For example, a person who already speaks Russian is likely to transfer the Russian system of gender and the English article system while acquiring German. Westergaard's LPM model is closely related to other partial-transfer models (such as [[Roumyana Slabakova|Slabakova]]'s Scalpel Model<ref>{{Cite journal|last=Slabakova|first=Roumyana|date=December 2017|title=The scalpel model of third language acquisition|url=http://journals.sagepub.com/doi/10.1177/1367006916655413|journal=International Journal of Bilingualism|language=en|volume=21|issue=6|pages=651–665|doi=10.1177/1367006916655413|s2cid=20549795 |issn=1367-0069|url-access=subscription}}</ref> and [[Suzanne Flynn|Flynn]]'s Cumulative-Enhancement Model<ref>{{Cite journal|last1=Flynn|first1=Suzanne|last2=Foley|first2=Claire|last3=Vinnitskaya|first3=Inna|date=January 2004|title=The Cumulative-Enhancement Model for Language Acquisition: Comparing Adults' and Children's Patterns of Development in First, Second and Third Language Acquisition of Relative Clauses|url=http://www.tandfonline.com/doi/abs/10.1080/14790710408668175|journal=International Journal of Multilingualism|language=en|volume=1|issue=1|pages=3–16|doi=10.1080/14790710408668175|s2cid=146563649 |issn=1479-0718|url-access=subscription}}</ref>) and stands in opposition to wholesale transfer models like Typological Proximity Model.<ref>{{Cite journal|last=Rothman|first=Jason|date=January 2011|title=L3 syntactic transfer selectivity and typological determinacy: The typological primacy model|url=http://journals.sagepub.com/doi/10.1177/0267658310386439|journal=Second Language Research|language=en|volume=27|issue=1|pages=107–127|doi=10.1177/0267658310386439|s2cid=145722158 |issn=0267-6583|url-access=subscription}}</ref> In 2020, Westergaard published a keynote article in [[Second Language Research|SLR]], arguing for what she called Full Transfer Potential (FTP), where rather than assuming that 'everything does transfer', she argues that 'anything may transfer'.<ref>{{Cite journal|last=Westergaard|first=Marit|date=2019-11-12|title=Microvariation in multilingual situations: The importance of property-by-property acquisition|journal=Second Language Research|volume=37 |issue=3 |language=en|pages=379–407|doi=10.1177/0267658319884116|issn=0267-6583|hdl=10037/16671|s2cid=210529591 |hdl-access=free}}</ref> 
+
+== The Micro-cue Model of first language acquisition ==
+Westergaard is also the author of the Micro-cue Model of [[L1 acquisition]], arguing that children are sensitive to fine distinctions in syntax and information structure from early on (micro-cues). The model has also been used to account for diachronic change. The model is currently receiving increased attention, resulting in invitations as keynote speaker and contributor to handbooks.<ref>{{Cite journal|last=Westergaard|first=Marit|date=2014-01-01|title=Linguistic variation and micro-cues in first language acquisition|url=https://www.jbe-platform.com/content/journals/10.1075/lv.14.1.02wes|journal=Linguistic Variation|language=en|volume=14|issue=1|pages=26–45|doi=10.1075/lv.14.1.02wes|issn=2211-6834|hdl=10037/7185|hdl-access=free}}</ref><ref>{{Citation|last=Westergaard|first=Marit|title=Gradience and Gradualness vs Abruptness|date=2017|url=https://www.cambridge.org/core/books/cambridge-handbook-of-historical-syntax/gradience-and-gradualness-vs-abruptness/C2260E1FDF01771D21B538861019C78E|work=The Cambridge Handbook of Historical Syntax|pages=446–466|editor-last=Ledgeway|editor-first=Adam|series=Cambridge Handbooks in Language and Linguistics|place=Cambridge|publisher=Cambridge University Press|isbn=978-1-107-04960-4|access-date=2021-03-24|editor2-last=Roberts|editor2-first=Ian}}</ref><ref name=":2">{{Cite book|last=Westergaard|first=Marit|url=https://benjamins.com/catalog/la.145|title=The Acquisition of Word Order|publisher=John Benjamins Publishing Company|year=2009|isbn=978-90-272-5528-0|language=English}}</ref>
+
+== Cooperation and contributions ==
+In cooperation with [[Antonella Sorace]] and Bilingualism Matters at the [[University of Edinburgh]], Westergaard runs an advice and information service called ''Flere språk til flere'' for bilingual families and the general public, based on current research in the field.
+
+== Honors and awards ==
+
+* Outstanding Research Award 2019, UiT The Arctic University of Norway.<ref>{{Cite web|title=Exciting news: Marit Westergaard receives highly regarded research award « AcqVA: Acquisition, Variation & Attrition|url=https://site.uit.no/acqva/exciting-news-marit-westergaard-receives-highly-regarded-research-award/|access-date=2021-03-23|language=en-US|archive-date=2021-09-27|archive-url=https://web.archive.org/web/20210927071740/https://site.uit.no/acqva/exciting-news-marit-westergaard-receives-highly-regarded-research-award/|url-status=dead}}</ref>
+* Member of The [[Norwegian Academy of Science and Letters]], 2016-.<ref>{{Cite web|title=Medlemmer {{!}} Det Norske Videnskaps-Akademi|url=https://www.dnva.no/medlemmer/24|access-date=2021-03-23|website=www.dnva.no}}</ref>
+* Member of The [[Royal Norwegian Society of Sciences and Letters|Royal Norwegian Society of Science and Letters]], 2019-.<ref>{{Cite web|title=Gruppe III Språkvitenskap|url=https://www.dknvs.no/akademiet/medlemmer/gruppe-iii-sprakvitenskap/|access-date=2021-03-23|website=DKNVS|language=nb-NO}}</ref>
+* Member of [[Academia Borealis]], Academy of Science and Letters North Norway, 2016-.
+* Member of the Executive Committee of IASCL ([[International Association for the Study of Child Language]]), 2011-2017.
+
+== Selected bibliography ==
+
+* Rodina, Yulia, Tanja Kupisch, Natalia Meir, Natalia Mitrofanova, Olga Urek & Marit Westergaard. 2020. Internal and External Factors in Heritage Language Acquisition: Evidence from Heritage Russian in Israel, Germany, Norway, Latvia and the UK. ''Frontiers in Psychology''.<ref>{{Cite journal|last1=Rodina|first1=Yulia|last2=Kupisch|first2=Tanja|last3=Meir|first3=Natalia|last4=Mitrofanova|first4=Natalia|last5=Urek|first5=Olga|last6=Westergaard|first6=Marit|date=2020-03-11|title=Internal and External Factors in Heritage Language Acquisition: Evidence From Heritage Russian in Israel, Germany, Norway, Latvia and the United Kingdom|journal=Frontiers in Education|volume=5|doi=10.3389/feduc.2020.00020|issn=2504-284X|doi-access=free|hdl=10037/18623|hdl-access=free}}</ref>
+*Leivada, Evelina & Marit Westergaard. 2019. Universal linguistic hierarchies are not innately wired: Evidence from multiple adjectives. ''PeerJ.''<ref>{{Cite journal|last1=Leivada|first1=Evelina|last2=Westergaard|first2=Marit|date=2019-08-01|title=Universal linguistic hierarchies are not innately wired. Evidence from multiple adjectives|journal=PeerJ|volume=7|article-number=e7438| pmid=31396461|doi=10.7717/peerj.7438|pmc=6679903 |issn=2167-8359|doi-access=free}}</ref>
+*Anderssen, Merete, Björn Lundquist &amp;amp; Marit Westergaard. 2018. Crosslinguistic similarities and differences in bilingual acquisition and attrition. ''Bilingualism: Language and Cognition'' 21:4, 748-764.<ref>{{Cite journal|last1=ANDERSSEN|first1=MERETE|last2=LUNDQUIST|first2=BJÖRN|last3=WESTERGAARD|first3=MARIT|date=2018-07-10|title=Cross-linguistic similarities and differences in bilingual acquisition and attrition: Possessives and double definiteness in Norwegian heritage language|journal=Bilingualism: Language and Cognition|volume=21|issue=4|pages=748–764|doi=10.1017/s1366728918000330|issn=1366-7289|hdl=10037/13634|s2cid=150315084 |hdl-access=free}}</ref>
+*Wolleb, Anna, Antonella Sorace & Marit Westergaard. 2018. Exploring the role of cognitive control in syntactic processing: Evidence from cross-language priming in bilingual children. ''Linguistic Approaches to Bilingualism'' 8:5, 606-636.<ref>{{Cite journal|last1=Wolleb|first1=Anna|last2=Sorace|first2=Antonella|last3=Westergaard|first3=Marit|date=2018-11-02|title=Exploring the role of cognitive control in syntactic processing: Evidence from cross-language priming in bilingual children|url=https://www.jbe-platform.com/content/journals/10.1075/lab.17002.wol|journal=Linguistic Approaches to Bilingualism|language=en|volume=8|issue=5|pages=606–636|doi=10.1075/lab.17002.wol|s2cid=54028600 |issn=1879-9264|hdl=20.500.11820/1b92ad6a-ca5d-4f4e-876f-f048266819f1|hdl-access=free}}</ref>
+* Rodina, Yulia, and Marit Westergaard. "Grammatical gender in bilingual Norwegian–Russian acquisition: The role of input and transparency." ''Bilingualism: Language and cognition'' 20.1 (2017): 197-214.<ref name=":1">{{Cite journal|last1=RODINA|first1=YULIA|last2=WESTERGAARD|first2=MARIT|date=2015-09-18|title=Grammatical gender in bilingual Norwegian–Russian acquisition: The role of input and transparency|journal=Bilingualism: Language and Cognition|volume=20|issue=1|pages=197–214|doi=10.1017/s1366728915000668|issn=1366-7289|hdl=10037/8525|hdl-access=free}}</ref>
+*Westergaard, Marit, et al. "Crosslinguistic influence in the acquisition of a third language: The Linguistic Proximity Model." ''International Journal of Bilingualism'' 21.6 (2017): 666-682.<ref name=":0" />
+*Rodina, Yulia & Marit Westergaard. 2012. A cue-based approach to the acquisition of grammatical gender in Russian. ''Journal of Child Language'' 39.5, 1077-1106.<ref>{{Cite journal|last1=Rodina|first1=Yulia|last2=Westergaard|first2=Marit|date=2012|title=A cue-based approach to the acquisition of grammatical gender in Russian|journal=Journal of Child Language |volume=39 |issue=5 |pages=1077–1106 |url=https://munin.uit.no/handle/10037/5578|doi=10.1017/S0305000911000419|pmid=22261116 |issn=0305-0009|hdl=10037/5578|hdl-access=free}}</ref>
+*Westergaard, Marit. 2009. The Acquisition of Word Order: Micro-cues, Information Structure and Economy. ''John Benjamins''. (Reviewed in ''Norsk Lingvistisk Tidsskrift'' 2009, ''Journal of Linguistics'' 2011).<ref name=":2" />
+
+== References ==
+{{Reflist}}
+
+
+{{authority control}}
+
+{{DEFAULTSORT:Westergaard, Marit}}
+[[Category:1956 births]]
+[[Category:Living people]]
+[[Category:Linguists from Norway]]
+[[Category:Academic staff of the University of Tromsø]]
+[[Category:Norwegian women academics]]
+[[Category:Members of the Norwegian Academy of Science and Letters]]
+[[Category:University of San Diego alumni]]
+
+[[Category:Women linguists]]

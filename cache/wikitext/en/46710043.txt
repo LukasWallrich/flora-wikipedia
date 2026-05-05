@@ -1,0 +1,63 @@
+{{short description|French professor and cognitive neuroscientist}}
+{{Infobox scientist
+| name              = Daphne Bavelier
+| image             = Daphné Bavelier.tif
+| fields            = [[Cognitive Neuroscience]]
+| workplaces        = [[University of Geneva]]<br>[[University of Rochester]]<br>[[Georgetown University]]<br>[[Salk Institute]]<br>[[Massachusetts Institute of Technology]]<br>[[École normale supérieure (Paris)]]
+| alma_mater        = [[École normale supérieure ]] (BSc)<br>[[Massachusetts Institute of Technology]] (PhD)
+| awards            = Klaus J. Jacobs Research Prize (2019) <ref>{{cite web |url=https://jacobsfoundation.org/en/awards/2019-research-prize/ |title= 2019 Research Prize|author=<!--Not stated--> |date= 2019|website= Jacobs Foundation |access-date= June 16, 2020|quote=}}</ref>
+| website           = https://www.unige.ch/fapse/brainlearning/
+}}
+
+'''Daphné Bavelier''' is a French cognitive neuroscientist specialized in [[brain plasticity]] and learning. She is full Professor at the [[University of Geneva]] in the Faculty of Psychology and Educational Sciences. She heads the Brain and Learning lab at [[Campus Biotech]] in Geneva, Switzerland.
+
+==Education and career==
+Bavelier received her undergraduate education at the [[École normale supérieure]] in biology, before moving to the [[Massachusetts Institute of Technology]] in 1988 to pursue a PhD in Brain and Cognitive sciences in Professor [[Molly Potter]]'s laboratory.  
+
+She received a  postdoctoral fellowship from the [[James S. McDonnell Foundation]] to carry research in brain plasticity and learning at the [[Salk Institute]] under Professor [[Helen Neville]]. 
+
+In 1996, she became assistant professor at the Georgetown Institute for Cognitive and Computational Sciences at [[Georgetown University]]. She then joined the Brain and Cognitive Science department at the [[University of Rochester]] in 1999, before moving to the department of Psychology within the Faculty of Psychology and Education Science at the [[University of Geneva]] in 2011. 
+
+==Research Interest==
+Bavelier’s interest lies in how the brain adapts to changes in experience. Early in her career, she investigated how being born deaf and using sign language alters brain organization for attentional functions and language processing.<ref name="Cross-modal plasticity">{{cite journal |last1=Bavelier |first1=Daphne |last2= Dye |first2= Matthew DG |last3=Hauser |first3=Peter C|s2cid=6456337 | date= 2006 |title= Cross-modal plasticity: where and how? Nature Reviews in Neuroscience|url= https://www.nature.com/articles/nrn848?proof=true|journal=  Nature Reviews. Neuroscience|volume= 3|issue= 6|pages= 443–452|doi=10.1038/nrn848 |pmid=12042879 |url-access=subscription }} {{closed access}}</ref><ref name="Deafness">{{cite journal |last1=Bavelier |first1=Daphne |last2= Neville |first2= Helen J | date= 2002 |title= Do deaf individuals see better?|url= |journal= Trends in Cognitive Sciences|volume= 10|issue= 11|pages= 512–518|doi=10.1016/j.tics.2006.09.006 |pmid=17015029 |pmc=2885708 }} {{closed access}}</ref> In 2000, Bavelier and her student (and now colleague) C. Shawn Green<ref>{{cite web |url=https://psych.wisc.edu/staff/green-c-shawn/
+|title= Green, C.Shawn |author=<!--Not stated--> |date= 2020|website= UW-Madison |access-date= June 16, 2020|quote=}}</ref> made an unexpected discovery that video games could be powerful tools to induce brain plasticity. In particular, action video games were shown to enhance attention.<ref name="Nature">{{cite journal |last1= Green |first1= C Shawn| last2=Bavelier |first2=Daphne |s2cid= 1521273| date= 2003 |title= Action video game modifies visual selective attention|journal= Nature|volume= 423|issue= 6939|pages= 534–537|doi= 10.1038/nature01647|pmid= 12774121|bibcode= 2003Natur.423..534G|doi-access= free}} {{closed access}}</ref> Since then, Bavelier has been interested in understanding how to leverage video games, and more generally digital technologies, to facilitate brain plasticity and learning.<ref name="Meta-Analysis">{{cite journal |last1=Bediou |first1=Benoit |last2= Deanne |first2= M Adams|last3= Mayer|first3=Richard E |last4= Tipton|first4=Elizabeth|author4-link=Elizabeth Tipton|last5= Green|first5=C Shawn |last6= Bavelier|first6=Daphne |s2cid=28600362 |date= 2018 |title= Meta-analysis of action video game impact on perceptual, attentional, and cognitive skills.|journal= Psychological Bulletin|volume= 144|issue= 1|pages= 77–110|doi=10.1037/bul0000130 |pmid=29172564 |doi-access= free}} {{closed access}}</ref><ref name="Neuron-review">{{cite journal |last1=Bavelier |first1=Daphne |last2= Green |first2= C Shawn|s2cid=203931913 |date= 2019 |title= Enhancing Attentional Control: Lessons from Action Video Games|journal= Neuron|volume= 104|issue= 1|pages= 147–163|doi=10.1016/j.neuron.2019.09.031 |pmid=31600511 |doi-access= free}} {{closed access}}</ref> The Brain and Learning Lab <ref>{{cite web |url=https://www.unige.ch/fapse/brainlearning/
+|title= Brain and Learning Lab|author=<!--Not stated--> |date= 2020|website= Bavelier Lab |access-date= June 16, 2020|quote=}}</ref> now focuses on clarifying the factors that promote learning and brain plasticity using a multidisciplinary approach (behavior, brain imaging, eye tracking and vital statistics).
+
+With an additional interest in translational work, Bavelier is one of the co-founders of Akili Interactive,<ref>{{cite web |url=https://www.akiliinteractive.com| author=<!--Not stated--> | website= Akili Interactive |title = Akili Interactive|access-date= June 16, 2020|quote=}}</ref> a company dedicated to leverage video games for therapeutic interventions.
+
+==Honors and awards==
+
+*2019. Recipient of the 2019 Klaus J. Jacobs Research Prize<ref>{{cite web |url=https://jacobsfoundation.org/en/awards/2019-research-prize/ |title= 2019 Research Prize|author=<!--Not stated--> |date= 2019|website= Jacobs Foundation |access-date= June 16, 2020|quote=}}</ref>
+*2018. TIGA Awards, Anxiety-relief video game shortlisted in the “Best Educational Game”<ref name="TIGA Awards">{{cite journal |last1= Provost |first1= Antoine| last2=Bourdon |first2=Valentin |last3= Bavelier |first3= Daphne |last4=Pichon |first4=Swann | date= 2018 |title= Serious Game for Attention Bias Modification |url= https://www.youtube.com/watch?v=nR3BY084p48|journal= TIGA Games Industry Award 2018.|volume= Finalist in the Best Educational Game category }} {{closed access}}</ref>
+*2018. Nominated fellow of the [[American Psychological Society]] in recognition of her "sustained outstanding contributions to the science of psychology"<ref name=":0">{{Cite web|title=2019 Klaus J. Jacobs Research Prize Recipient Prof. Daphne Bavelier, PhD|url=https://jacobsfoundation.org/app/uploads/2019/07/Short-Profile-Bavelier_ENG_final.pdf|url-status=live|access-date=2021-09-09|archive-url=https://web.archive.org/web/20210909162617/https://jacobsfoundation.org/app/uploads/2019/07/Short-Profile-Bavelier_ENG_final.pdf |archive-date=2021-09-09 }}</ref>
+*2008. Blavatnik Awards for Young Scientist – Finalist in the faculty category<ref name=":0" />
+*2000-2004. John Merck Scholar Award<ref name=":0" />
+*1999-2000. Award for Beginning Academics – [[National Science Foundation]]{{cn|date=July 2020}}
+*1988-1989. Award from the American Women's Group in Paris to study abroad{{cn|date=July 2020}}
+
+==Science in the public interest== 
+*2019. 100 Women and Thousands More, promoting women and their exceptional careers<ref>{{cite web |url=https://100women.ch/portraits/daphne-bavelier/|title= 100 Women|author=<!--Not stated--> |date= 2019|website= 100women.ch |access-date= June 16, 2020|quote=}}</ref>
+*2016-2018. Expert on Human Enhancement, Global Future Councils [[World Economic Forum]]<ref name=":1">{{Cite web|title=Daphne Bavelier|url=https://www.intelligencesquaredus.org/about/debaters/daphne-bavelier|url-status=live|access-date=2021-09-09|website=intelligence squared|archive-url=https://web.archive.org/web/20170508201254/http://www.intelligencesquaredus.org:80/about/debaters/daphne-bavelier |archive-date=2017-05-08 }}</ref>
+*2017. Selected as "100 personnalités qui font la Suisse romande", [[Le Temps]]<ref>{{cite web |url=https://labs.letemps.ch/interactive/2018/_archives_f100/2017/mag.pdf |title= Forum des 100|author=<!--Not stated--> |website= Le Temps |access-date= June 16, 2020|quote=}}</ref>
+*2014-2016. Expert on the ‘New Vision for Education’ project of the [[World Economic Forum]]<ref name=":1" />
+*2016. Research on video games featured in [[Scientific American]]<ref name="Scientific America">{{cite journal |last1=Bavelier |first1=Daphne |last2= Green |first2= C Shawn|date= 2016 |title= The brain boosting power of video games|url= https://www.scientificamerican.com/article/brain-tune-up-from-action-video-game-play/|journal= Scientific American|volume= 315|issue= 1|pages= 26–31|doi=10.1038/scientificamerican0716-26 |pmid=27348376 |bibcode=2016SciAm.315a..26B |url-access= subscription}} {{closed access}}</ref>
+*2012. Expert at the meeting on 'Interactive Media, Attention and Well-being' hosted by the [[White House]] [[Office of Science and Technology Policy]]<ref name="White House">{{cite journal |last1= Bavelier |first1= Daphne| last2=Davidson |first2=Richard J|s2cid= 4392689| date= 2013 |title= Brain Training: Games to Do You Good |journal= Nature |volume= 494 |issue= 7438|pages = 425–426|doi= 10.1038/494425a|pmid= 23446401|bibcode= 2013Natur.494..425B|doi-access= free}} {{closed access}}</ref>
+*2012.	[[TED (conference)|TED]] Talk - Your brain on video games<ref>{{cite web |url=https://www.ted.com/speakers/daphne_bavelier |title= Your brain on video games|author=<!--Not stated--> |date= 2012|website= TED |access-date= June 16, 2020|quote=}}</ref>
+*2009. Ranked among the top 50 French in the US by [[France-Amerique]]{{cn|date=July 2020}}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Bavelier, Daphne}}
+[[Category:Living people]]
+[[Category:Academic staff of the University of Geneva]]
+[[Category:University of Rochester faculty]]
+[[Category:MIT School of Science alumni]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Place of birth missing (living people)]]
+[[Category:French expatriates in Switzerland]]
+[[Category:French expatriate academics in the United States]]
+[[Category:20th-century French women scientists]]
+[[Category:21st-century French women scientists]]

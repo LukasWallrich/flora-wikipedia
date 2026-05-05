@@ -1,0 +1,82 @@
+{{Short description|Ability to make ethical judgements}}
+'''Moral agency''' is an individual's ability to make [[morality|moral]] choices based on some notion of [[ethics|right and wrong]] and to be held accountable for these actions.<ref name="Angus20">{{cite book|last=Angus|first=Taylor|title=Animals & Ethics: An Overview of the Philosophical Debate|publisher=Broadview Press|year=2003|location=Peterborough, Ontario|page=20}}</ref> A '''moral agent''' is "a being who is capable of acting with reference to right and wrong."<ref>[http://machaut.uchicago.edu/?resource=Webster%27s&word=moral&use1913=on "Moral,"] {{Webarchive|url=https://web.archive.org/web/20150908212245/http://machaut.uchicago.edu/?resource=Webster%27s&word=moral&use1913=on |date=2015-09-08 }} ''Websters Revised Unabridged Dictionary'', 1913, p. 943.</ref>
+
+==Development and analysis==
+{{more sources|section|date=April 2024}}
+Most [[philosopher]]s suggest only [[rationality|rational]] beings, who can [[reason]] and form self-interested judgments, are capable of being moral agents. Some suggest those with limited rationality (for example, people who are mildly [[mentally disabled]] or infants<ref name="Angus20" />) also have some basic moral capabilities.<ref>{{cite book|title=The Animal Rights, Environmental Ethics Debate: The Environmental Perspective|year=1992|publisher=State Univ. of New York Press|location=Albany|isbn=978-0-7914-0933-6|pages=3–4|url=https://books.google.com/books?id=8G4iDy1a0FcC&pg=PA3 |editor=Hargrove, Eugene C.}}</ref>
+
+[[Determinist]]s argue all of our actions are the product of antecedent causes, and some believe this is [[Compatibilism|incompatible]] with [[free will]] and thus claim that we have no real control over our actions. [[Immanuel Kant]] argued that whether or not our [[real self]], the [[noumenon|noumenal]] self, can choose, we have no choice but to believe that we choose freely when we make a choice. This does not mean that we can ''control'' the effects of our actions.
+Some Indeterminists would argue we have no free will either. If, with respect to human behavior, a so-called 'cause' results in an indeterminate number of possible, so-called 'effects', that does not mean the person had the free-thinking independent will to choose that 'effect'. More likely, it was the indeterminate consequence of his chance genetics, chance experiences and chance circumstances relevant at the time of the 'cause'.
+
+In Kant's philosophy, this calls for an act of faith, the faith free agent is based on something ''a priori'', yet to be known, or immaterial. Otherwise, without free agent's ''a priori'' fundamental source, socially essential concepts created from human mind, such as justice, would be undermined (responsibility implies freedom of choice) and, in short, civilization and human values would crumble.
+
+It is useful to compare the idea of moral agency with the [[legal]] doctrine of ''[[mens rea]]'', which means guilty mind, and states that a person is legally responsible for what he does as long as he ''should'' know what he is doing, and his choices are deliberate. Some theorists discard any attempts to evaluate mental states and, instead, adopt the doctrine of ''[[strict liability]]'', whereby one is liable under the law without regard to capacity, and that the only thing is to determine the degree of [[punishment]], if any. Moral determinists would most likely adopt a similar point of view.
+
+Psychologist [[Albert Bandura]] has observed that moral agents engage in selective [[moral disengagement]] in regards to their own inhumane conduct.<ref>{{cite journal|last=Bandura|first=Albert|title=Selective Moral Disengagement in the Exercise of Moral Agency|journal=Journal of Moral Education|date=June 2002|volume=31|issue=2|pages=101–119|doi=10.1080/0305724022014322|citeseerx=10.1.1.473.2026|s2cid=146449693}}</ref>
+
+==Distinction between moral agents and moral patients==
+
+'''Moral agents''' are entities whose actions are eligible for moral consideration. An example of this would be a young child old enough to understand right from wrong, yet they hit their siblings on an occasion when they get angry. The action of hitting is up for moral consideration because the child is old enough to consider whether or not it is the correct action to take and the morality of their behavior.<ref name=":0">{{Cite journal |last1=Gray |first1=Kurt |last2=Wegner |first2=Daniel M. |date=March 2009 |title=Moral typecasting: Divergent perceptions of moral agents and moral patients. |url=https://doi.apa.org/doi/10.1037/a0013748 |journal=Journal of Personality and Social Psychology |language=en |volume=96 |issue=3 |pages=505–520 |doi=10.1037/a0013748 |pmid=19254100 |issn=1939-1315|url-access=subscription }}</ref>
+
+[[Moral patienthood|Moral patients]] are entities that themselves are eligible for moral consideration. An example of this would be a child who does not know how to determine right from wrong. A child in this situation is up for moral consideration by others because those around them understand they are incapable of understanding the consequences of their actions and are therefore unable to understand the morality of a situation due to developmental barriers.<ref name=":0" />
+
+Many philosophers, such as [[Immanuel Kant]], view morality as a transaction among rational parties, i.e., among moral agents. In Richard Dean’s article on Kant’s moral theory he discusses how agents who are able to control their tendencies or drives, are able to remain unbiased as they determine the path of moral action. The ability to be able to control this is called moral commitment. Agents need to become experts in this control in order to be able to declare something as moral or immoral and retain reputability.<ref>{{Cite journal |last=Wolemonwu |first=Victor Chidi |date=2020-06-01 |title=Richard Dean: The Value of Humanity in Kant's Moral Theory |url=https://doi.org/10.1007/s11019-019-09926-2 |journal=Medicine, Health Care and Philosophy |language=en |volume=23 |issue=2 |pages=221–226 |doi=10.1007/s11019-019-09926-2 |pmid=31571029 |issn=1572-8633|pmc=7260255 }}</ref> For this reason, they would exclude other animals from moral consideration.
+
+[[Utilitarianism|Utilitarian]] philosophers [[Jeremy Bentham]] and [[Peter Singer]] have argued that the key to inclusion in the [[moral community]] is not rationality &mdash; for if it were, we might have to exclude some disabled people and infants, and might also have to distinguish between the degrees of rationality of healthy adults &mdash; but the real object of moral action is the avoidance of suffering.<ref>{{Cite web |title=Utilitarianism, Act and Rule {{!}} Internet Encyclopedia of Philosophy |url=https://iep.utm.edu/util-a-r/ |access-date=2024-03-20 |language=en-US}}</ref><ref>{{Cite journal |last=Singer |first=Peter |date=1972 |title=Famine, Affluence, and Morality |url=https://www.jstor.org/stable/2265052 |journal=Philosophy & Public Affairs |volume=1 |issue=3 |pages=229–243 |jstor=2265052 |issn=0048-3915}}</ref> An example of this is the [[abortion debate]]. Further examples can be taken from the [[argument from marginal cases]].
+
+==Artificial moral agents==
+
+Discussions of artificial moral agency center around a few main ideas. The first discussion is on whether it is possible for an artificial system to be a moral agent - see [[Moral responsibility#Artificial systems|artificial systems and moral responsibility]].
+The second discussion concerns efforts to construct machines with ethically-significant behaviors - see [[machine ethics]]. 
+Finally, there is debate about whether robots ''should'' be constructed as moral agents.
+
+Research has shown that humans do perceive robots as having varying degrees of moral agency. These perceptions can manifest in two distinct ways: 1. ideas about a robot’s moral capacity (the ability to be/do good or bad) and 2. ideas about its dependence or independence on programming (where high dependency equates to low agency).<ref>{{Cite journal|date=2019-01-01|title=A perceived moral agency scale: Development and validation of a metric for humans and social machines|url=https://www.sciencedirect.com/science/article/abs/pii/S0747563218304035|journal=Computers in Human Behavior|language=en|volume=90|pages=363–371|doi=10.1016/j.chb.2018.08.028|issn=0747-5632|last1=Banks|first1=Jaime| s2cid=53783430 |url-access=subscription}}</ref>
+
+Research suggests that the moral judgment of an action may not depend on whether the agent is a human or a robot. However, robots are rarely given credit for acting well, and must behave more consistently well to be trusted.<ref>{{Cite journal|last=Banks|first=Jaime|date=2020-09-10|title=Good Robots, Bad Robots: Morally Valenced Behavior Effects on Perceived Mind, Morality, and Trust|journal=International Journal of Social Robotics| volume=13 | issue=8 | pages=2021–2038 |language=en|doi=10.1007/s12369-020-00692-3|issn=1875-4805|doi-access=free|hdl=2346/89911|hdl-access=free}}</ref>
+
+Creating a robot or "social machine" capable of understanding moral judgments as moral judgments and not through proxies (which is how AI systems are trained to align with human values/moral/ethical codes) does not seem likely soon. However, a machine with those capabilities could be potentially created in the future.<ref>{{Cite book |last=Banks |first=Jamie |title=Computers in Human Behavior |publisher=[[Science Direct]] |date=18 November 2018 |volume=90 |publication-date=January 2019 |pages=363–371}}</ref>
+
+==Non-human animals==
+
+Discussion of moral agency in non-human animals involves both debate about the nature of morality and about the capacities and behavior of human and non-human animals.<ref>{{cite journal |last1=Johannsen |first1=Kyle |title=Are some animals also moral agents? |journal=Animal Sentience |date=1 January 2019 |volume=3 |issue=23 |doi=10.51291/2377-7478.1404 |s2cid=159071494 |url=https://www.wellbeingintlstudiesrepository.org/cgi/viewcontent.cgi?article=1404&context=animsent |access-date=30 April 2022|doi-access=free }}</ref><ref>{{cite journal |last1=Behdadi |first1=Dorna |title=A Practice-Focused Case for Animal Moral Agency |journal=Journal of Applied Philosophy |date=May 2021 |volume=38 |issue=2 |pages=226–243 |doi=10.1111/japp.12486 |s2cid=229471000 |doi-access=free }}</ref> Thinkers who agree about the nature, behavior and abilities of different species may still disagree about which capacities are important for moral agency or about the significance of particular behaviors in determining moral agency.<ref>{{cite journal |last1=Willows |first1=Adam M. |last2=Baynes-Rock |first2=Marcus |title=Two Perspectives on Animal Morality |journal=Zygon |date=December 2018 |volume=53 |issue=4 |pages=953–970 |doi=10.1111/zygo.12464 |s2cid=150204045 |url=https://philpapers.org/archive/WILTPO-158.pdf}}</ref> Since moral agents are often thought to warrant particular moral consideration, this discussion is sometimes linked to debates in animal rights about practices involving non-human animals.<ref>{{cite journal |author1-link=Susana Monsó |last1=Monsó |first1=Susana |last2=Benz-Schwarzburg |first2=Judith |last3=Bremhorst |first3=Annika |title=Animal Morality: What It Means and Why It Matters |journal=The Journal of Ethics |date=1 December 2018 |volume=22 |issue=3 |pages=283–310 |doi=10.1007/s10892-018-9275-3 |pmid=30930677 |pmc=6404642 |language=en |issn=1572-8609}}</ref>
+
+Studies of animal biology and behavior have provided strong evidence of complex social structures and behavioral norms in non-human species. There is also evidence that some non-human species, especially other primates, can demonstrate empathy and emotions such as guilt or grief, though some thinkers dispute this.<ref>{{cite book |last1=Waal |first1=F. B. M. de |title=Primates and Philosophers : How Morality Evolved |date=2016 |location=Princeton, N.J. |isbn=9780691169163 |url=https://press.princeton.edu/books/paperback/9780691169163/primates-and-philosophers}}</ref><ref>{{cite book |last1=Tomasello |first1=Michael |title=A Natural History of Human Morality |date=2016 |location=Cambridge, Mass. |isbn=9780674088641 |url=http://www.hup.harvard.edu/catalog.php?isbn=9780674088641}}</ref> However, humans display distinctive capacities related to intelligence and rationality such as the ability to engage in abstract and symbolic thought and to employ complex language.<ref>{{cite book |last1=Tse |first1=Peter Ulric |editor1-last=Sinnott-Armstrong |editor1-first=Walter |title=Moral Psychology Volume 1: The Evolution of Morality: Adaptations and Innateness |date=2008–2014 |publisher=MIT Press |location=Cambridge, Mass. |isbn=978-0262693547 |pages=269–297 |chapter=Symbolic thought and the evolution of human morality}}</ref>
+
+Philosophers and biologists who claim that non-human animals are moral agents typically argue that moral agency is dependent on empathy or social relations, and stress the evidence for these in non-human animals.<ref>{{cite journal |last1=Clement |first1=Grace |title=Animals and Moral Agency: The Recent Debate and Its Implications |journal=Journal of Animal Ethics |date=1 April 2013 |volume=3 |issue=1 |pages=1–14 |doi=10.5406/janimalethics.3.1.0001}}</ref> They may also point out behaviors which in humans are described as moral activities, such as the punishment of individuals who break social norms. Some thinkers suggest that there are a variety of types or levels of moral agency which vary by species, or that animals may act morally without being full moral agents.<ref>{{cite book |last1=Rowlands |first1=Mark |title=Can animals be moral? |date=2012 |publisher=Oxford University Press |location=Oxford |isbn=9780199842001}}</ref><ref>{{cite journal |last1=Back |first1=Youngsun |title=Are animals moral?: Zhu Xi and Jeong Yakyong's views on nonhuman animals |journal=Asian Philosophy |date=3 April 2018 |volume=28 |issue=2 |pages=97–116 |doi=10.1080/09552367.2018.1453234 |s2cid=171543787 |url=https://www.academia.edu/36687053}}</ref>
+
+Thinkers who hold that only humans can be moral agents typically argue that moral agency depends on rationality. They highlight distinctive human abilities and the unique complexity of human behavior. They argue that shared behaviors such as the punishment of wrongdoers are nevertheless underpinned by very different internal processes, meaning that these behaviors qualify as moral activity for humans but not for non-humans.<ref>{{cite book |last1=Korsgaard |first1=Christine M. |title=Reflections on the Evolution of Morality |date=2010 |publisher=Amherst Lecture in Philosophy |location=The Department of Philosophy at Amherst College. |url=https://dash.harvard.edu/bitstream/handle/1/5141952/Korsgaard_Reflections.pdf?sequence=1&isAllowed=y}}</ref>
+
+== See also ==
+{{portal |Philosophy}}
+{{div col|colwidth=14em}}
+* [[Agency in Mormonism]]
+* [[Ethics]]
+* [[Fiduciary]]
+* [[Free will]]
+* [[Medical ethics]]
+* [[Morality]]
+* [[Moral responsibility]]
+* [[Argument from marginal cases]]
+* [[Tree of the knowledge of good and evil]]
+* [[Immanuel Kant]]
+* [[Peter Singer]]
+* [[Jeremy Bentham]]
+* ''[[Famine, Affluence, and Morality]]''
+* [[Abortion debate]]
+* [[Value theory]]
+{{div col end}}
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{wikiquote}}
+* {{cite book | last = Singer | first = Peter | author-link = Peter Singer | title = Animal Liberation: A New Ethics for our Treatment of Animals | publisher = HarperCollins | edition = 4 | date = 2009 | location = New York | pages = | url = | doi = | isbn = 978-0-06-171130-5}}
+
+{{Ethics}}
+
+{{DEFAULTSORT:Moral agency}}
+[[Category:Intention]]
+[[Category:Morality]]
+[[Category:Personhood]]
+[[Category:Concepts in ethics]]

@@ -1,0 +1,39 @@
+{{Short description|Protein found in humans}}
+{{Infobox_gene}}
+
+'''Zinc transporter 8''' ('''ZNT8''') is a [[protein]] that in humans is encoded by the ''SLC30A8'' [[gene]].<ref name="entrez">{{cite web | title = Entrez Gene: SLC30A8 solute carrier family 30 (zinc transporter), member 8| url = https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=ShowDetailView&TermToSearch=169026}}</ref> ZNT8 is a [[zinc transporter]] related to [[insulin]] secretion in humans.  In particular, ZNT8 is critical for the accumulation of zinc into beta cell secretory granules and the maintenance of stored insulin as tightly packaged hexamers. Certain [[allele]]s of the SLC30A8 gene may increase the risk for developing [[Diabetes mellitus type 2|type 2 diabetes]], but a loss-of-function mutation appears to greatly reduce the risk of diabetes.<ref name="Loss-of-function">{{cite journal|last=Flannick|first=Jason|title=Loss-of-function mutations in SLC30A8 protect against type 2 diabetes|journal=Nature Genetics|year=2014|doi=10.1038/ng.2915|display-authors=etal|volume=46|issue=4|pages=357–363|pmid=24584071|pmc=4051628}}</ref>
+
+== Clinical significance ==
+
+=== Association with type 2 diabetes (T2D)===
+Twelve rare variants in SLC30A8 have been identified through the sequencing or genotyping of approximately 150,000 individuals from 5 different ancestry groups. SLC30A8 contains a common variant (p.Trp325Arg), which is associated with T2D risk and levels of glucose and proinsulin.<ref>{{cite journal|last1=Dupis|first1=J.|title=New genetic loci implicated in fasting glucose homeostasis and their impact on type 2 diabetes risk.|journal=Nature Genetics|doi=10.1038/ng.520|pmid=20081858|volume=42|issue=2|date=Feb 2010|pages=105–16|display-authors=etal|pmc=3018764}}</ref><ref>{{cite journal|last1=Strawbridge|first1=R.J.|title=Genome-wide association identifies nine common variants associated with fasting proinsulin levels and provides new insights into the pathophysiology of type 2 diabetes.|journal=Diabetes|doi=10.2337/db11-0415|pmid=21873549|url=http://diabetes.diabetesjournals.org/content/60/10/2624|volume=60|issue=10|pmc=3178302|date=October 2011|pages=2624–34|display-authors=etal}}</ref><ref>{{cite journal|last1=Morris|first1=A.P.|title=Large-scale association analysis provides insights into the genetic architecture and pathophysiology of type 2 diabetes.|journal=Nature Genetics|doi=10.1038/ng.2383|pmid=22885922|volume=44|issue=9|date=Sep 2012|pages=981–90|display-authors=etal|pmc=3442244}}</ref> Individuals carrying protein-truncating variants collectively had 65% reduced risk of T2D. Additionally, non-diabetic individuals from Iceland harboring a frameshift variant p.&nbsp;Lys34Serfs*50 demonstrated reduced glucose levels.<ref name="Loss-of-function" /> Earlier functional studies of SLC30A8 suggested that reduced zinc transport increased T2D risk.<ref>{{cite journal|last1=Nicolson|first1=T.J.|title=Insulin storage and glucose homeostasis in mice null for the granule zinc transporter ZnT8 and studies of the type 2 diabetes–associated variants.|journal=Diabetes|doi=10.2337/db09-0551|pmid=19542200|url=http://diabetes.diabetesjournals.org/content/58/9/2070|volume=58|issue=9|date=Sep 2009|pages=2070–83|display-authors=etal|pmc=2731533}}</ref><ref>{{cite journal|last1=Rutter|first1=G.A.|title=Think zinc: new roles for zinc in the control of insulin secretion.|journal=Islets|doi=10.4161/isl.2.1.10259|pmid=21099294|volume=2|issue=1|pages=49–50|display-authors=etal|year=2010|doi-access=free}}</ref> Conversely, loss-of-function mutations in humans indicate that SLC30A8 [[haploinsufficiency]] protects against T2D. Therefore, ZnT8 inhibition can serve as a therapeutic strategy in preventing T2D.<ref name="Loss-of-function" />
+
+==See also==
+* [[Solute carrier family]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+{{refbegin | 2}}
+*{{cite journal  |vauthors=Chimienti F, Favier A, Seve M |title=ZnT-8, a pancreatic beta-cell-specific zinc transporter. |journal=Biometals |volume=18 |issue= 4 |pages= 313–7 |year= 2006 |pmid= 16158222 |doi= 10.1007/s10534-005-3687-9 |s2cid=25680038 }}
+*{{cite journal  |vauthors=Hartley JL, Temple GF, Brasch MA |title=DNA cloning using in vitro site-specific recombination. |journal=Genome Res. |volume=10 |issue= 11 |pages= 1788–95 |year= 2001 |pmid= 11076863 |doi=10.1101/gr.143000  | pmc=310948  }}
+*{{cite journal   |vauthors=Wiemann S, Weil B, Wellenreuther R, etal |title=Toward a catalog of human genes and proteins: sequencing and analysis of 500 novel complete protein coding human cDNAs. |journal=Genome Res. |volume=11 |issue= 3 |pages= 422–35 |year= 2001 |pmid= 11230166 |doi= 10.1101/gr.GR1547R  | pmc=311072 }}
+*{{cite journal   |vauthors=Strausberg RL, Feingold EA, Grouse LH, etal |title=Generation and initial analysis of more than 15,000 full-length human and mouse cDNA sequences. |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=99 |issue= 26 |pages= 16899–903 |year= 2003 |pmid= 12477932 |doi= 10.1073/pnas.242603899  | pmc=139241 |bibcode=2002PNAS...9916899M |doi-access=free }}
+*{{cite journal  |vauthors=Seve M, Chimienti F, Devergnas S, Favier A |title=In silico identification and expression of SLC30 family genes: an expressed sequence tag data mining strategy for the characterization of zinc transporters' tissue expression. |journal=BMC Genomics |volume=5 |pages= 32 |year= 2004 |pmid= 15154973 |doi= 10.1186/1471-2164-5-32  | pmc=428573 |issue=1 |doi-access=free }}
+*{{cite journal  |vauthors=Chimienti F, Devergnas S, Favier A, Seve M |title=Identification and cloning of a beta-cell-specific zinc transporter, ZnT-8, localized into insulin secretory granules. |journal=Diabetes |volume=53 |issue= 9 |pages= 2330–7 |year= 2004 |pmid= 15331542 |doi=10.2337/diabetes.53.9.2330  |doi-access=free }}
+*{{cite journal   |vauthors=Gerhard DS, Wagner L, Feingold EA, etal |title=The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC). |journal=Genome Res. |volume=14 |issue= 10B |pages= 2121–7 |year= 2004 |pmid= 15489334 |doi= 10.1101/gr.2596504  | pmc=528928 }}
+*{{cite journal   |vauthors=Wiemann S, Arlt D, Huber W, etal |title=From ORFeome to biology: a functional genomics pipeline. |journal=Genome Res. |volume=14 |issue= 10B |pages= 2136–44 |year= 2004 |pmid= 15489336 |doi= 10.1101/gr.2576704  | pmc=528930 }}
+*{{cite journal   |vauthors=Mehrle A, Rosenfelder H, Schupp I, etal |title=The LIFEdb database in 2006. |journal=Nucleic Acids Res. |volume=34 |issue= Database issue |pages= D415–8 |year= 2006 |pmid= 16381901 |doi= 10.1093/nar/gkj139  | pmc=1347501 }}
+*{{cite journal   |vauthors=Sladek R, Rocheleau G, Rung J, etal |title=A genome-wide association study identifies novel risk loci for type 2 diabetes. |journal=Nature |volume=445 |issue= 7130 |pages= 881–5 |year= 2007 |pmid= 17293876 |doi= 10.1038/nature05616 |bibcode=2007Natur.445..881S |s2cid=4302932 }}
+*{{cite journal   |vauthors=Wenzlau JM, Juhl K, Yu L, etal |title=The cation efflux transporter ZnT8 (Slc30A8) is a major autoantigen in human type 1 diabetes. |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=104 |issue= 43 |pages= 17040–5 |year= 2007 |pmid= 17942684 |doi= 10.1073/pnas.0705894104  | pmc=2040407 |bibcode=2007PNAS..10417040W |doi-access=free }}
+{{refend}}
+
+==External links==
+*[https://news.bbc.co.uk/2/hi/health/6342855.stm Type 2 diabetes genes mapped out], BBC News article
+
+[[Category:Solute carrier family]]
+
+
+{{genetics-stub}}
+{{membrane-protein-stub}}

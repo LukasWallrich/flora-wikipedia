@@ -1,0 +1,57 @@
+{{Short description|Finnish psychologist, professor (b. 1967)}}
+{{Infobox academic
+|name=Christina Salmivalli
+|birth_date={{birth date and age|1967|09|18|df=y}}
+|alma_mater=[[University of Turku]]
+|discipline=Psychology
+|sub_discipline=[[Educational psychology]]<br />
+[[Developmental psychology]]
+|workplaces=University of Turku
+}}
+
+'''Christina Salmivalli''' (born 18 September 1967)<ref name=":6">{{Cite book|title=Suomen professorit 1640–2007|publisher=Professoriliitto|year=2008|isbn=978-952-99281-1-8|editor-last=Ellonen|editor-first=Leena|location=Helsinki|pages=640}}</ref> is a [[Finland|Finnish]] professor of [[psychology]] and the deputy head of the INVEST research flagship at the [[University of Turku]] in Finland. Salmivalli is recognized as an expert on peer relations and [[school bullying]].
+
+== Biography ==
+In 1992, Salmivalli completed a master's degree in psychology from the University of Turku.<ref name=":3">{{Cite web|url=https://www.utu.fi/en/people/christina-salmivalli|title=Christina Salmivalli|website=University of Turku|language=en|access-date=2020-01-26}}</ref> She earned her doctoral degree in psychology from the University of Turku in 1998.<ref name=":3" /> Her research, on [[Social psychology|social]] and [[Personality psychology|personality]] factors of school bullying,<ref>{{Cite book|last=Salmivalli|first=Christina|url=https://kansalliskirjasto.finna.fi/Record/helka.1118456|title=Not only bullies and victims : participation in harassment in school classes : some social and personality factors|date=1998|isbn=978-951-29-1080-9|access-date=2020-02-16|archive-date=2018-08-09|archive-url=https://web.archive.org/web/20180809215903/https://kansalliskirjasto.finna.fi/Record/helka.1118456|url-status=dead}}</ref> won the [[Finnish Academy of Science and Letters]] doctoral dissertation award in 1999.<ref name=":6" />  
+
+Salmivalli joined the psychology faculty at the University of Turku as an adjunct professor in 2001, becoming a full professor of psychology in 2004.<ref name=":4">{{Cite web|url=https://www.aka.fi/en/about-us/media/whats-new/2017/professor-christina-salmivalli-wins-finnish-science-award/|title=Professor Christina Salmivalli wins Finnish Science Award|date=2017-06-07|website=Academy of Finland|access-date=2020-01-25|archive-date=2020-01-25|archive-url=https://web.archive.org/web/20200125032040/https://www.aka.fi/en/about-us/media/whats-new/2017/professor-christina-salmivalli-wins-finnish-science-award/|url-status=dead}}</ref> She has held several visiting professorships, including positions at the [[University of Stavanger]] in Norway; at [[Edith Cowan University]] in [[Perth]], Australia; and at [[Shandong Normal University]] in [[Jinan]], China.<ref name=":3" /><ref name=":4" />
+
+In 2020, amid the [[COVID-19 pandemic in Finland]], the [[Prime Minister of Finland|Prime Minister]]'s office appointed Salmivalli to lead a 13-member science panel to advise on efforts to mitigate the long-term effects of the pandemic.<ref>{{Cite web|title=Koulukiusaamista tutkinut Christina Salmivalli johtaa nyt tiedepaneelia, joka auttaa hallitusta ulos koronakriisistä|url=https://www.hs.fi/politiikka/art-2000006506785.html|last=Liiten|first=Marjukka|date=2020-05-14|website=Helsingin Sanomat|language=fi|access-date=2020-05-25}}</ref>
+
+== Research ==
+Salmivalli conducts research within the fields of [[developmental psychology]] and prevention research, focusing on children's and adolescent's peer relations and evidence-based interventions to prevent peer adversities such as school bullying.<ref name=":4" /> She has published widely on the role of the peer group in bullying and on interventions aiming to change the peer dynamics contributing to bullying.<ref>{{Cite journal|last=Salmivalli|first=Christina|date=2010|title=Bullying and the peer group: A review|journal=Aggression and Violent Behavior|language=en|volume=15|issue=2|pages=112–120|doi=10.1016/j.avb.2009.08.007}}</ref><ref>{{Cite journal|last=Salmivalli|first=Christina|date=1999|title=Participant role approach to school bullying: implications for interventions|journal=Journal of Adolescence|language=en|volume=22|issue=4|pages=453–459|doi=10.1006/jado.1999.0239|pmid=10469509}}</ref>
+
+=== KiVa ===
+In 2006, Salmivalli began leading a team of researchers tasked by Finland's [[Ministry of Education and Culture (Finland)|Ministry of Education and Culture]] to develop and evaluate a bullying intervention program.<ref name=":0">{{Cite web|url=https://brasil.elpais.com/brasil/2018/11/06/internacional/1541516726_663171.html|title=A fórmula da Finlândia para combater o 'bullying'|last=García-Ajofrín|first=Lola|date=2018-11-28|website=EL PAÍS|language=pt-br|access-date=2020-02-08}}</ref> The resulting program, named KiVa (short for "kiusaamista vastaan", Finnish for "against bullying"), includes lessons on emotions, healthy relationships, and [[Bystander effect|bystander responses]] to bullying.<ref name=":0" /> The program also outlines a specific protocol for school staff to follow when they encounter incidents of bullying.<ref name=":0" /><ref>{{Cite web|url=https://www.ara.cat/societat/metode-antibullying-que-triomfa-Finlandia_0_1804019628.html|title=El mètode 'antibullying' que triomfa a Finlàndia|last=Glory|first=Pivetal|date=2017-05-27|website=Ara.cat|language=ca-ES|access-date=2020-02-08}}</ref>
+
+KiVa is Finland's national bullying prevention program;<ref name=":5">{{Cite web|url=http://newsroom.ucla.edu/releases/anti-bullying-program-focused-on-bystanders-helps-the-students-who-need-it-the-most|title=Anti-bullying program focused on bystanders helps the students who need it the most|last=Wolpert|first=Stuart|date=2016-02-01|website=UCLA Newsroom|language=en-US|access-date=2020-01-25}}</ref> as of 2016, it had been implemented in over 2,300 Finnish schools.<ref>{{Cite web|url=https://www.irishexaminer.com/ireland/anti-bullying-programme-focused-on-changing-bystander-behaviour-should-be-in-irish-schools-404099.html|title=Anti-bullying programme focused on changing bystander behaviour should be in Irish schools|last=Ring|first=Evelyn|date=2016-06-10|website=Irish Examiner|language=en|access-date=2020-02-16}}</ref> It is also used at schools in more than countries around the world, including the Netherlands, Chile, Italy, the United Kingdom.<ref name=":1">{{Cite web|url=https://www.latercera.com/tendencias/noticia/profesores-factor-mas-influyente-prevenir-acoso-escolar/277710/|title=Profesores son el factor más influyente para prevenir el acoso escolar|last=Sepúlveda|first=Paulina|date=2018-08-10|website=La Tercera|language=es-CL|access-date=2020-02-08}}</ref><ref name=":2">{{Cite web|url=https://yle.fi/uutiset/3-9651188|title=KiVa-koulun kehittäjä, professori Christina Salmivalli sai 100 000 euron tiedepalkinnon|website=Yle Uutiset|date=6 June 2017|language=fi|access-date=2020-02-08}}</ref>
+
+KiVa's effectiveness has been evaluated in a number of [[Longitudinal study|longitudinal studies]]. One study of more than 7,000 Finnish students found significant improvements among students' bullying and mental health at schools involved in KiVa, compared to control schools.<ref name=":5" /> A large-scale replication in the Netherlands, led by Gijs Huitsing and [[René Veenstra]], found also evidence of the effectiveness of the KiVa program.<ref>{{Cite journal |last=Huitsing |first=Gijs |last2=Lodder |first2=Gerine M. A. |last3=Browne |first3=Wiliam J. |last4=Oldenburg |first4=Beau |last5=Van der Ploeg |first5=Rozemarijn |last6=Veenstra |first6=René |date=2020 |title=A Large-Scale Replication of the Effectiveness of the KiVa Antibullying Program: a Randomized Controlled Trial in the Netherlands |url=http://dx.doi.org/10.1007/s11121-020-01116-4 |journal=Prevention Science |volume=21 |issue=5 |pages=627–638 |doi=10.1007/s11121-020-01116-4 |issn=1389-4986|pmc=7305071 }}</ref>
+
+== Awards and honours ==
+Salmivalli was named Psychologist of the Year by the Finnish Psychological Association in 2009.<ref name=":4" /> In 2017, the Minister of Education and Culture, [[Sanni Grahn-Laasonen]], presented Salmivalli with the Finnish Science Prize, worth €100,000.<ref name=":4" /><ref name=":2" /> In 2021, Salmivalli was awarded with the William Thierry Preyer Award for Excellence in Research on Human Development by European Association of Developmental Psychology. In 2024, she received the	ISSBD (International Society for the Study of Behavioral Development) Award for Distinguished Contributions to the International Advancement of Research and Theory in Behavioural Development.
+
+== Selected works ==
+{{refbegin|30em}}
+* {{Cite journal|last1=Salmivalli|first1=Christina|last2=Lagerspetz|first2=Kirsti|last3=Björkqvist|first3=Kaj|last4=Österman|first4=Karin|last5=Kaukiainen|first5=Ari|date=1998|title=Bullying as a group process: Participant roles and their relations to social status within the group|journal=Aggressive Behavior|volume=22|issue=1|pages=1–15|doi=10.1002/(SICI)1098-2337(1996)22:1<1::AID-AB1>3.0.CO;2-T|issn=0096-140X}}
+* {{Cite journal|last=Salmivalli|first=Christina|date=1999|title=Participant role approach to school bullying: implications for interventions|journal=Journal of Adolescence|language=en|volume=22|issue=4|pages=453–459|doi=10.1006/jado.1999.0239|pmid=10469509}}
+* {{Cite journal|last1=Salmivalli|first1=Christina|last2=Nieminen|first2=Eija|date=2002|title=Proactive and reactive aggression among school bullies, victims, and bully-victims|journal=Aggressive Behavior|language=en|volume=28|issue=1|pages=30–44|doi=10.1002/ab.90004|issn=0096-140X}}
+* {{Cite journal|last1=Salmivalli|first1=Christina|last2=Voeten|first2=Marinus|date=2004|title=Connections between attitudes, group norms, and behaviour in bullying situations|journal=International Journal of Behavioral Development|language=en|volume=28|issue=3|pages=246–258|doi=10.1080/01650250344000488|s2cid=145536080|issn=0165-0254}}
+* {{Cite journal|last=Salmivalli|first=Christina|date=2010|title=Bullying and the peer group: A review|journal=Aggression and Violent Behavior|language=en|volume=15|issue=2|pages=112–120|doi=10.1016/j.avb.2009.08.007}}
+* {{Cite journal|last1=Kärnä|first1=Antti|last2=Voeten|first2=Marinus|last3=Little|first3=Todd D.|last4=Poskiparta|first4=Elisa|last5=Kaljonen|first5=Anne|last6=Salmivalli|first6=Christina|date=2011|title=A Large-Scale Evaluation of the KiVa Antibullying Program: Grades 4-6: Evaluation of KiVa Antibullying Program|journal=Child Development|language=en|volume=82|issue=1|pages=311–330|doi=10.1111/j.1467-8624.2010.01557.x|pmid=21291444}}
+{{refend}}
+
+== References ==
+{{reflist}}
+{{Bullying}}
+{{authority control}}
+
+{{DEFAULTSORT:Salmivalli, Christina}}
+[[Category:Living people]]
+[[Category:1967 births]]
+[[Category:Developmental psychologists]]
+[[Category:University of Turku alumni]]
+[[Category:Finnish women academics]]
+[[Category:Finnish psychologists]]
+[[Category:Finnish women psychologists]]
+[[Category:Academic staff of the University of Turku]]

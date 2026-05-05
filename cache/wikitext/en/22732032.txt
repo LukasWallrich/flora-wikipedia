@@ -1,0 +1,89 @@
+{{Short description|Singaporean economist}}
+{{family name hatnote|[[He (surname)|Ho]]|lang=Chinese}}
+{{Use dmy dates|date=December 2024}}
+{{Infobox officeholder
+| name                = Teck-Hua Ho
+| image               = NTU PRESIDENT-236.jpg
+| caption             = Ho in 2023
+| office              = 5th President of [[Nanyang Technological University]]
+| term_start          = 24 April 2023
+| term_end            = 
+| predecessor         = [[Subra Suresh]]
+| successor           = 
+| birth_date          = {{Birth date and age|1961|05|10|df=y}}
+| birth_place         = [[Singapore]]
+| awards              = 
+| education           = [[National University of Singapore]] ([[Bachelor of Science|BS]], [[Master of Science|MS]])<br />[[University of Pennsylvania]] ([[Master of Arts|MA]], [[PhD]])
+| module              = {{Infobox scientist | embed=yes
+  | fields            = 
+  | workplaces        = {{plainlist|
+* [[Nanyang Technological University]]
+* [[National University of Singapore]]
+* [[University of California, Berkeley]]
+* [[University of Pennsylvania]]
+* [[University of California, Los Angeles]]
+}}
+  | alma_mater        = 
+  | thesis_title      = Product design strategy analysis: The marketing-manufacturing interface
+  | thesis_url        = https://www.proquest.com/docview/304073711/
+  | thesis_year       = 1993
+  | doctoral_advisors = Morris Cohen<br>Jehoshua Eliashberg
+  | academic_advisors = 
+  }}
+| native_name         = {{no bold|何德华}}
+}}
+
+'''Teck-Hua Ho''' ({{lang-zh|c=何德华|p=Hé Déhuá}}) is the fifth president of the [[Nanyang Technological University, Singapore]] (NTU).<ref>{{Cite web|url=https://www.ntu.edu.sg/about-us/leadership-organisation/profiles/professor-ho-teck-hua|title=Professor Ho Teck Hua|website=Corporate NTU}}</ref> He is also a Distinguished University Professor at NTU Singapore. Prior to joining NTU, he was the senior deputy president and provost at the [[National University of Singapore]] (NUS), and the William Halford Jr. Family Professor of Marketing at the [[Haas School of Business]] ([[University of California, Berkeley]]).<ref>{{cite web |url=http://facultybio.haas.berkeley.edu/faculty-list/ho-teck |title=Teck Ho |work=Faculty Directory |publisher=[[Haas School of Business]] |access-date=11 February 2014 |archive-date=18 June 2018 |archive-url=https://web.archive.org/web/20180618102523/http://facultybio.haas.berkeley.edu/faculty-list/ho-teck/ |url-status=dead }}</ref>  In 2022, Ho was appointed as president of the Academy of Engineering, Singapore.<ref>{{cite web|url=https://www.saeng.sg/committee-expert-groups/the-president/?fa=h|title=The President|work=saeng.sg}}</ref> Since July 2017, he has been the founding executive chairman of AI Singapore, a national research and development programme in [[artificial intelligence]].<ref>{{Cite web |url=https://www.mddi.gov.sg/newsroom/aisg-new-national-programme-to-catalyse-synergise-and-boost-singapore-s-artificial-intelligence-capabilities|title=AI.SG: New National Programme to Catalyse, Synergise and Boost Singapore's AI Capabilities|website=Government Singapore}}</ref><ref>{{Cite web |url=https://www.nus.edu.sg/newshub/news/2017/2017-07/2017-07-31/ARTIFICIAL-bt-31jul-p6.pdf|title=The Promise of Artificial Intelligence Is Not Assured|website=Corporate NUS}}</ref><ref>{{Cite web |url=https://aisingapore.org/home/the-team/|title=The Team - AI Singapore|website=Corporate AI Singapore|date=3 September 2022 }}</ref>
+
+== Education ==
+Ho obtained a bachelor's degree with first class honours in [[electrical engineering]] in 1985 and a master's degree in [[computer science|computer]] and [[information sciences]] in 1989 from NUS. He then obtained a master's degree in 1991 and a PhD in 1993 in [[decision sciences]] from the [[Wharton School of the University of Pennsylvania]].<ref>{{Cite web|url=https://www.ntu.edu.sg/about-us/leadership-organisation/profiles/professor-ho-teck-hua|title=Professor Ho Teck Hua|website=Corporate NTU}}</ref>
+
+Ho's research interests include behavioral game theory and alternatives to equilibrium models, behavioral change in the field, and data-driven decision sciences.<ref>{{Cite web|url=https://scholar.google.com/citations?user=Wy7ZZTEAAAAJ&hl=en&oi=ao|title=Teck-Hua Ho|website=scholar.google.com}}</ref>
+
+== Career ==
+From 1997 to 2002, Ho was [[associate professor]] of marketing at the Wharton School. Prior to his time at the Wharton School, he was [[assistant professor]] of [[operations and technology management]] at the [[UCLA Anderson School of Management]].<ref>{{Cite web |title=Archived copy |url=http://tanfoundation.com.sg/wp-content/uploads/2014/10/Prof_HoTeckHua.pdf |url-status=dead |archive-url=https://web.archive.org/web/20160303221313/http://tanfoundation.com.sg/wp-content/uploads/2014/10/Prof_HoTeckHua.pdf |archive-date=3 March 2016 |access-date=17 June 2015}}</ref>
+
+From 2002 to 2015, Ho was a professor at the [[Haas School of Business]]. At the School, he was the William Halford Jr. Family Chair in Marketing and director of the Asia Business Center.<ref>{{Cite web |title=Teck Ho &#124; Faculty Directory &#124; Berkeley-Haas |url=http://facultybio.haas.berkeley.edu/faculty-list/ho-teck |url-status=dead |archive-url=https://web.archive.org/web/20180618102523/http://facultybio.haas.berkeley.edu/faculty-list/ho-teck/ |archive-date=18 June 2018 |access-date=11 February 2014}}</ref> He was also associate dean of academic affairs (2004-2006) and chair of the marketing group (2004-2006 and 2008-2011).
+
+Ho served as the [[editor-in-chief]] of [[Management Science (journal)|''Management Science'']] from 1 July 2014 to 31 December 2017.
+
+Ho was senior deputy president and provost (2018-2023),<ref>{{Cite web |title=Professor Ho Teck Hua to assume NTU presidency |url=https://news.nus.edu.sg/professor-ho-teck-hua-to-assume-ntu-presidency/ |access-date=4 May 2023 |website=Professor Ho Teck Hua to assume NTU presidency |language=en-sg}}</ref> deputy president of research and technology (2015-2017) and vice president of research strategy (2011-2012)<ref>{{Cite web |title=Prof Dr HO Teck Hua – Future Resilient Systems &#124; ETH Zurich |url=https://www.ethz.ch/content/specialinterest/dual/frs/en/people/PI/HoTeckHua.html |url-status=dead |archive-url=https://web.archive.org/web/20180826214441/https://www.ethz.ch/content/specialinterest/dual/frs/en/people/PI/HoTeckHua.html |archive-date=26 August 2018 |access-date=26 August 2018}}</ref> at NUS. He was also a [[professor]] of [[economics]] and [[marketing]] at the NUS Business School and director of the NUS Centre for Behavioural Economics.
+
+In 2023, Ho was appointed as the fifth president of NTU.<ref>{{cite web |title=Professor Ho Teck Hua appointed president of NTU |url=https://www.ntu.edu.sg/news/detail/professor-ho-teck-hua-appointed-president-of-ntu}}</ref> 
+
+Ho also sits on the boards of the Communicable Diseases Agency,<ref>{{Cite web |url=https://www.cda.gov.sg/about-cda/who-we-are |title=Board Members |website=cda.gov.sg}}</ref> [[DSO National Laboratories]],<ref>{{cite web|url=https://www.dso.org.sg/about/directors/|title=Board of Directors|work=dso.org.sg}}</ref> the [[Government Technology Agency]],<ref>{{cite web|url=https://www.tech.gov.sg/about-us/our-team/|title=Our Team|work=tech.gov.sg|date=9 February 2022}}</ref> the [[Monetary Authority of Singapore]],<ref>{{cite web|url=https://www.mas.gov.sg/who-we-are/board-of-directors|title=Board of Directors|website=mas.gov.sg}}</ref> and the National Research Foundation.<ref>{{Cite web |title=NRF Singapore |url=https://www.nrf.gov.sg/about/governance/nrfb/ |website=nrf.gov.sg}}</ref>
+==Awards==
+At the Haas School of Busines, Ho won the Berkeley Distinguished Teaching Award in 2010<ref>{{Cite web |title=Past DTA Recipients &#124; Center for Teaching & Learning |url=http://teaching.berkeley.edu/programs/distinguished-teaching-award/past-dta-recipients}}</ref> and the Earl F. Cheit Award for Excellence in Teaching, in 2004, 2005, and 2006.<ref>{{Cite web |title=Previous Cheit Award Recipients |url=https://haas.berkeley.edu/faculty-research/teaching-awards/previous-awards/ |website=Berkeley Haas}}</ref> In 2015, Ho won the Williamson Award.<ref>{{Cite web |date=19 February 2015 |title=Prof. Teck Ho Receives Prestigious Williamson Award |url=http://newsroom.haas.berkeley.edu/article/prof-teck-ho-receives-prestigious-williamson-award}}</ref> This is Haas School’s highest faculty award and celebrates honorees who best reflect the character and integrity associated with the scholarly work and legacy of UC Berkeley faculty member [[Oliver E. Williamson]], the 2009 Nobel Laureate in Economic Sciences. 
+
+Ho was elected an academician of [[Academia Sinica]] in 2022<ref>{{cite news |title=院士簡歷 |url=https://academicians.sinica.edu.tw/index.php?r=academician-n%2Fshow&id=792 |newspaper=academicians.sinica.edu.tw}}</ref> and a fellow of the [[Institute for Operations Research and the Management Sciences]] (INFORMS) in 2024.<ref>{{cite web |title=INFORMS Names Class of 2024 Fellows |url=https://www.informs.org/News-Room/INFORMS-Releases/Awards-Releases/INFORMS-Names-Class-of-2024-Fellows?fa=h |work=informs.org}}</ref>
+
+Ho was awarded the [[Pingat Pentadbiran Awam]] (Public Administration Medal) - Gold in 2023<ref>{{cite web |url=https://www.pmo.gov.sg/national-day-awards/recipients?page=1&keywords=ho%20teck%20hua&award=&year= |title=PMO Recipients |website=pmo.gov.sg}}</ref> and the President's Science and Technology Medal in 2024. The latter is Singapore’s top honour and is awarded to people who have made “distinguished, sustained and exceptional contributions" in advancing science and technology ecosystems in the country.<ref>{{cite web | url=https://www.psta.gov.sg/president-s-science-technology-medal-2024/ | title=President's Science & Technology Medal 2024 | website=psta.gov.sg}}</ref><ref>{{cite web|url=https://www.ntu.edu.sg/news/detail/ntu-president-honoured-for-contributions-with-two-awards|title=NTU President honoured for contributions with two awards|website=Nanyang Technological University|access-date=9 September 2025}}</ref><ref>{{cite web|url=https://www.ntu.edu.sg/business/news-events/news/story-detail/an-accomplished-award-winner---prof-ho-teck-hua|title=NTU President Prof Ho Teck Hua recognised with two prestigious awards|website=Nanyang Technological University|access-date=9 September 2025}}</ref>
+
+In 2025, ''[[Asian Scientist]]'' listed him on the [[Asian Scientist 100]].<ref>{{cite web |title=Asian Scientist 100 |url=https://www.asianscientist.com/as100/ |access-date=9 September 2025 |publisher=Asian Scientist Magazine}}</ref>
+== Selected papers==
+# Camerer, C. and Ho, T-H., “[https://doi.org/10.1111/1468-0262.00054 Experience-weighted Attraction Learning in Normal Form Games]”, ''Econometrica'' 67(4): 827-874, 1999. 
+# Camerer, C., Ho, T-H. and Chong J-K., “[https://doi.org/10.1162/0033553041502225 A Cognitive Hierarchy Model of Games]”, ''Quarterly Journal of Economics'' 119(3): 861-898, 2004. 
+# Camerer, C., Dreber, A., Forsell, E., Ho, T-H., Huber, J., Johannesson, M., Kirchler, M., Almenberg, J., Altmejd, A., Chan, T., Heikensten, E., Holzmeister, F., Imai, T., Isaksson, S., Nave, G., Pfeiffer, T., Razen, M., Wu, H. “[https://doi.org/10.1126/science.aaf0918 Evaluating replicability of laboratory experiments in Economics]”, ''Science'' 351(6280): 1433–1436, 2016.
+# Camerer C., Dreber A., Holzmeister F., Ho T-H., Huber J., Johannesson M., Kirchler M., Nave G., Nosek B., Pfeiffer T., Altmejd A., Buttrick N., Chan T., Chen Y., Forsell E., Gampa A., Heikensten E., Hummer L., Imai T., Isaksson S., Manfredi D., Rose J., Wagenmakers E-J., Wu H., “[https://www.nature.com/articles/s41562-018-0399-z Evaluating the Replicability of Social Science Experiments in ''Science'' & ''Nature'' between 2010 and 2015]”, ''Nature Human Behaviour'' 2: 627-644, 2018.
+
+== References ==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category}}
+*[http://www.teckho.com/ Personal Website]
+*[https://www.ntu.edu.sg/about-us/leadership-organisation/profiles/professor-ho-teck-hua Profile at the Nanyang Technological University, Singapore]
+
+{{Nanyang Technological University}}
+{{Authority control}}
+
+{{DEFAULTSORT:Ho, Teck-Hua}}
+[[Category:1961 births]]
+[[Category:Living people]]
+[[Category:Singaporean people of Chinese descent]]
+[[Category:Wharton School alumni]]
+[[Category:Haas School of Business faculty]]
+[[Category:UCLA Anderson School of Management faculty]]
+[[Category:University of Pennsylvania faculty]]
+[[Category:National University of Singapore alumni]]
+[[Category:Members of Academia Sinica]]

@@ -1,0 +1,30 @@
+{{Short description|Decision-making bias}}
+The '''outcome bias''' is an error made in evaluating the quality of a decision when the outcome of that [[Decision-making|decision]] is already known. Specifically, the outcome effect occurs when the same "behavior produce[s] more ethical condemnation when it happen[s] to produce bad rather than good outcome, even if the outcome is determined by chance".<ref name="GinoMoore2009">{{cite web |last1=Gino |first1=Francesca |last2=Moore |first2=Don A. |last3=Bazerman |first3=Max H. |title=No Harm, No Foul: The Outcome Bias in Ethical Judgments |year=2009 |url=https://www.hbs.edu/faculty/Publication%20Files/08-080.pdf |access-date=2013-04-04 |archive-url=https://web.archive.org/web/20140630095945/http://www.hbs.edu/faculty/Publication%20Files/08-080.pdf |archive-date=2014-06-30 |ssrn=1099464}} [[Harvard Business School]] Working Paper, No. 08-080.</ref>
+
+While similar to the [[hindsight bias]], the two phenomena are markedly different. Hindsight bias focuses on memory distortion to favor the actor, while the outcome bias focuses exclusively on weighting the outcome heavier than other pieces of information in deciding if a past decision was correct.
+
+==Overview==
+One will often judge a past decision by its ultimate outcome instead of based on the quality of the decision at the time it was made, given what was known at that time. This is an error because no decision-maker ever knows whether or not a [[risk assessment|calculated risk]] will turn out for the best. The actual outcome of the decision will often be determined by chance, with some risks working out and others not. Individuals whose judgments are influenced by outcome bias are seemingly holding decision-makers responsible for events beyond their control.
+
+Baron and Hershey (1988) presented subjects with hypothetical situations in order to test this.<ref name="BaronHershey1988">{{cite journal|last1=Baron|first1=Jonathan | author-link = Jonathan Baron|last2=Hershey|first2=John C.|title=Outcome bias in decision evaluation|journal=Journal of Personality and Social Psychology|volume=54|issue=4|year=1988|pages=569–579|url=http://commonweb.unifr.ch/artsdean/pub/gestens/f/as/files/4660/21931_171009.pdf|doi=10.1037/0022-3514.54.4.569|pmid=3367280 |s2cid=26091312 }}</ref>
+One such example involved a surgeon deciding whether or not to do a risky surgery on a patient. The surgery had a known probability of success. Subjects were presented with either a good or bad outcome (in this case living or dying), and asked to rate the quality of the surgeon's pre-operation decision. Those presented with bad outcomes rated the decision worse than those who had good outcomes. "[[The ends justify the means]]" is an often-used aphorism to express the outcome effect when the outcome is desirable.
+
+This mistake occurs when currently available information is incorporated when evaluating a past decision. To avoid the influence of outcome bias, one would evaluate a decision by ignoring information collected after the fact and focusing on what the right answer is, or was at the time the decision was made.
+
+Outside of [[psychological experiment]]s, the outcome bias has been found to be substantially present in real world situations. A study looking at the evaluation of football players' performance by coaches and journalists found that players' performance is judged to be substantially better—over a whole match—if the player had a lucky goal rather than an unlucky miss (after a player's shot hit one of the goal posts).<ref>{{cite journal | doi=10.1162/rest_a_00783 | title=Fooled by Performance Randomness: Overrewarding Luck | year=2019 | last1=Gauriot | first1=Romain | last2=Page | first2=Lionel | journal=The Review of Economics and Statistics | volume=101 | issue=4 | pages=658–666 | s2cid=151803360 | url=http://external-apps.qut.edu.au/business/documents/QuBEWorkingPapers/2017/Fooled%20by%20randomness.pdf }}</ref>  Another study found that professional basketball coaches are "more likely to revise their strategy after a loss than a win... even when a loss was expected and even when failure is due to factors beyond the team's control."<ref>{{cite journal|doi=10.1287/mnsc.2014.1966 |jstor=24550666 |title=Sticking with What (Barely) Worked: A Test of Outcome Bias |year=2015 |last1=Lefgren |first1=Lars |last2=Platt |first2=Brennan |last3=Price |first3=Joseph |journal=Management Science |volume=61 |issue=5 |pages=1121–1136 }}</ref>
+
+The outcome bias is closely related to the philosophical concept of [[moral luck]] as in both concepts, the evaluation of actions is influenced by factors that are not logically justifiable.<ref name="MaxUhl23">{{cite journal|last1=Max|first1=Raphael | author-link = Raphael Max|last2=Uhl|first2=Matthias|title=Moral luck in investment contexts: We consciously find unprofitable investments less moral|journal=PLOS ONE|volume=18|issue=1|year=2023|article-number=e0278677|doi=10.1371/journal.pone.0278677 |pmid=36649364 |pmc=9844880 |doi-access=free |bibcode=2023PLoSO..1878677M }}</ref>
+
+==See also==
+* [[Deontology]] vs. [[teleology]] and [[consequentialism]] ([[ethical]] theories)
+* [[Group attribution error]]
+* [[Hindsight bias]]
+* [[Historian's fallacy]]
+* [[List of cognitive biases]]
+
+==References==
+{{reflist}}
+
+{{Biases}}
+
+[[Category:Cognitive biases]]

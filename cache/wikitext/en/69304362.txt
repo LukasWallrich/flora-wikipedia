@@ -1,0 +1,33 @@
+{{Short description|Deceptive argument style}}
+'''Paltering''' is the active use of selective truthful statements to mislead.<ref name=":0">{{Cite journal|last1=Rogers|first1=Todd|last2=Zeckhauser|first2=Richard|last3=Gino|first3=Francesca|last4=Norton|first4=Michael I.|last5=Schweitzer|first5=Maurice E.|date=March 2017|title=Artful paltering: The risks and rewards of using truthful statements to mislead others|journal=Journal of Personality and Social Psychology|volume=112|issue=3|pages=456–473|doi=10.1037/pspi0000081|issn=1939-1315|pmid=27936834|s2cid=3402556}}</ref><ref name=":1">{{cite web|last1=Hogenboom |first1=Melissa |title=The devious art of lying by telling the truth |url=https://www.bbc.com/future/article/20171114-the-disturbing-art-of-lying-by-telling-the-truth |work=[[BBC Future]] |date=15 November 2017 |language=en|access-date=2021-11-18}}</ref><ref name=":2">{{Cite news|last=McGregor|first=Jena|date=December 29, 2016|title=When telling the truth is actually dishonest|language=en-US|newspaper=Washington Post|url=https://www.washingtonpost.com/news/on-leadership/wp/2016/12/29/when-telling-the-truth-is-actually-dishonest/|access-date=2021-11-18|issn=0190-8286}}</ref><ref>{{cite journal |last1=Gino |first1=Francesca |author1-link=Francesca Gino |title=There's a Word for Using Truthful Facts to Deceive: Paltering |url=https://hbr.org/2016/10/theres-a-word-for-using-truthful-facts-to-deceive-paltering |journal=[[Harvard Business Review]] |archive-url=https://web.archive.org/web/20170105085949/https://hbr.org/2016/10/theres-a-word-for-using-truthful-facts-to-deceive-paltering |archive-date=5 January 2017 |date=5 October 2016}}</ref> 
+
+The term as applied in psychology and [[mediation]] studies was developed by researchers at the [[John F. Kennedy School of Government]] in the late 2000s.<ref>{{cite report|last1=Schauer |first1=Frederick |last2=Zeckhauser |first2=Richard |title=Paltering |series=KSG Faculty Research Working Paper Series|docket=RWP07-006 |date=February 2007 |url=https://papers.ssrn.com/sol3/papers.cfm?abstract_id=832634 |publisher=[[Social Science Research Network]] |language=en|doi=10.2139/ssrn.832634|ssrn=832634 |url-access=subscription |doi-access=free }}</ref><ref>{{cite book |last1=Schauer |first1=Frederick |last2=Zeckhauser |first2=Richard |editor1-last=Harrington |editor1-first=Brooke |editor1-link=Brooke Harrington |title=Deception: From Ancient Empires to Internet Dating |date=2009 |publisher=[[Stanford University Press]] |isbn=9780804756495 |pages=38–54 |chapter=Paltering}}</ref><ref>{{cite journal |last1=Harnack |first1=Klaus |title=Paltering – wie man mit Wahrheiten lügen kann |journal=Die Mediation |date=2019 |pages=26–27 |url=https://www.klausharnack.de/wp-content/uploads/2020/02/Klaus-Harnack_Die-wissenschaftliche-Kolumne_Paltering.pdf |trans-title=Paltering - how to lie with truths |language=de|issn=2366-2336}}</ref> The first known use of ''palter'' to describe acting insincerely or deceitfully was in the 1580s.<ref>{{Cite web|title=Definition of PALTER|url=https://www.merriam-webster.com/dictionary/palter|access-date=2021-11-19|website=www.merriam-webster.com|language=en}}</ref>
+
+Paltering is considered both more serious and more common than a [[lie of omission]] (a passive failure to correct a wrong statement).<ref name=":2"/> Paltering differs from a lie of omission in the following way, as described by [[Todd Rogers (behavioral scientist)|Todd Rogers]] of the Kennedy School: When selling a used car with engine trouble, a lie of omission would be a silent failure to correct a buyer who said, "I presume the car is in excellent shape and the engine runs well". On the other hand paltering would involve deceiving the buyer by responding to "has this car ever had mechanical issues?" with statements such as "I drove it yesterday in 5-below temperatures and it drove well".<ref name=":2"/> The statement does not directly answer the question posed by the buyer, but instead gives the impression of an answer, specifically "the car does not have mechanical issues". 
+
+People who palter often believe it is less [[Ethics|unethical]] than outright [[Lie|lying]].<ref name=":3">{{Cite web|last=Gerdeman|first=Dina|date=2016-12-05|title=How To Deceive Others With Truthful Statements (It's Called 'Paltering,' And It's Risky)|url=http://hbswk.hbs.edu/item/why-one-must-not-palter-when-negotiating|access-date=2021-11-18|website=HBS Working Knowledge|language=en}}</ref> 
+__NOTOC__
+== Usage ==
+Paltering appears to be common in negotiations. More than half of 184 business executives surveyed in a study by the Kennedy School admitted that they had paltered. Among those who did, most told the researchers they paltered to get a better deal. But the practice is risky, because when it is caught, it causes conflict, reduces trust and undermines relationships.<ref name=":3"/><ref name=":1"/><ref name=":0"/>
+
+Politicians sometimes palter to dodge questions in a [[debate]].<ref name=":1"/>
+== See also ==
+* [[Evasion (ethics)]]
+* [[Lie of omission]]
+* [[Disinformation]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [[wiktionary:palter|Palter]] at [[Wiktionary]]
+*[[mwod:palter|Palter]] at [[Merriam-Webster]]
+
+{{Propaganda}}
+
+[[Category:Deception]]
+[[Category:Lying]]
+[[Category:Propaganda techniques]]
+
+
+{{Psychology-stub}}

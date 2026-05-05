@@ -1,0 +1,101 @@
+{{Short description|American linguist}}
+{{Infobox academic
+| honorific_prefix   = <!-- see [[MOS:CREDENTIAL]] and [[MOS:HONORIFIC]] -->
+| name               = Suzanne Flynn
+| honorific_suffix   = 
+| image              =
+| image_size         = 
+| alt                = 
+| caption            = 
+| native_name        = 
+| native_name_lang   = 
+| birth_name         = <!-- use only if different from full/othernames -->
+| birth_date         = <!-- {{birth date and age|YYYY|MM|DD}}  -->
+| birth_place        = [[Cambridge, Massachusetts|Cambridge]], MA, USA
+| death_date         = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place        = 
+| death_cause        = 
+| nationality        = 
+| citizenship        =
+| other_names        = 
+| occupation         = Professor, Department of Linguistics and Philosophy, [[MIT]]; Speech-Language Pathologist, [[Boston Children's Hospital|BCH]]  
+| period             = 
+| known_for          = Cumulative-enhancement model of third language acquisition, anaphora in [[Second-language acquisition|SLA]] 
+| title              = Professor of Foreign Languages and Linguistics
+| boards             = <!--board or similar positions extraneous to main occupation-->
+| spouse             = 
+| partner            = 
+| children           = 
+| parents            = 
+| relatives          = 
+| awards             = fellow of [[American Association for the Advancement of Science|AAAS]]
+| website            = [https://SFlynn.org]
+| education          = BA, [[University of Massachusetts-Boston]]; MS, [[University of Puerto Rico]]; PhD, [[Cornell University]]   
+| alma_mater         = [[Cornell University]]
+| thesis_title       = A Study of the Effects of Principal Branching Direction in Second Language Acquisition: The Generalization of a Parameter of Universal Grammar from First to Second Language Acquisition
+| thesis_url         = https://books.google.com/books?id=bwgkmgEACAAJ
+| thesis_year        = 1984
+| school_tradition   = 
+| doctoral_advisor   = 
+| academic_advisors  = 
+| influences         = [[Noam Chomsky]], Samuel Epstein, Barbara Lust
+| era                = 
+| discipline         = language acquisitionist, linguist
+| sub_discipline     = [[Bilingualism]] and [[multilingualism]]
+| workplaces         = [[Massachusetts Institute of Technology|Massachusetts Institute of Technology (MIT)]]
+| doctoral_students  = <!--only those with WP articles-->
+| notable_students   = 
+| main_interests     = 
+| notable_works      = 
+| notable_ideas      = 
+| influenced         = <!--must be referenced from a third-party source-->
+| signature          = 
+| signature_alt      = 
+| signature_size     = 
+| footnotes          = 
+}}
+
+'''Suzanne Flynn''' (June 30, 1950- ) is an American linguist and Professor of Linguistics at [[Massachusetts Institute of Technology|MIT]] who has contributed to the fields of second and third language acquisition. She has also investigated language disorders.<ref>{{Cite web|last=Flynn|first=Suzanne|date=11 March 2021|title=Google Scholar|url=https://scholar.google.com/scholar?q=suzanne+flynn+mit|access-date=2021-03-11|website=scholar.google.com}}</ref>
+
+== Research ==
+Suzanne Flynn received her PhD from Cornell University in 1983. Her work has spanned from syntax and second-language acquisition of [[Syntax (linguistics)|syntax]] to [[Language processing in the brain|language processing]] in people with [[neurocognitive disorders]], such as changes in language during the [[Prodrome|prodromal]] course in the development of [[Alzheimer's disease|Alzheimer's disease]].<ref>{{Cite web|last=SUTDPillarAdministrator|title=HASS Colloquium Series (Prof Suzanne Flynn) - Last In, First Out: Does Language Loss Reverse First Language Acquisition?|url=https://hass.sutd.edu.sg/news-events/event/seminar-series/hass-colloquium-series-prof-suzanne-flynn-last-first-language-loss-reverse-first-language-acquisition/|access-date=2021-03-15|website=Humanities, Arts and Social Sciences (HASS)|language=en-US}}</ref>
+
+=== Early work ===
+In 1987, Flynn published a book which explored [[second-language acquisition]] (SLA) of [[Anaphora (linguistics)|anaphora]] and offered a [[Principles and parameters|parametric]] model for acquisition of this property. In line with the reorganization of the linguistic field at that point, the book considered characterization of [[Universal grammar|Universal Grammar]] (UG) as a set of subtheories, each with its set of central principles and parameters according to which a principle can vary between an unmarked ('-') and a marked ('+') parametric value.<ref>{{Cite book|title=A Parameter-Setting Model of L2 Acquisition|author=Suzanne Flynn|year=2012|isbn=978-90-277-2374-1|series=Studies in Theoretical Psycholinguistics|volume=5|publisher=Springer|url=https://link.springer.com/book/10.1007/978-94-009-3747-5#authorsandaffiliationsbook|language=en-gb|doi=10.1007/978-94-009-3747-5}}</ref> At the same time, Flynn was one of the key SLA specialists to start the GASLA ([[Generative Approaches to Second-Language Acquisition]]) conference.<ref>{{Cite book|last1=Flynn|first1=Suzanne|url=https://books.google.com/books?id=AqeYAgAAQBAJ&q=The+Generative+Study+of+Second+Language+Acquisition&pg=PP1|title=The Generative Study of Second Language Acquisition|last2=Martohardjono|first2=Gita|last3=O'Neil|first3=Wayne|date=2014-01-14|publisher=Psychology Press|isbn=978-1-317-78065-6|language=en}}</ref>
+
+In 1996, Flynn, along with S.D. Epstein and Gita Martohardjono published a seminal paper evaluating key debates in the SLA field at the time.<ref>{{Cite journal|last1=Epstein|first1=Samuel David|last2=Flynn|first2=Suzanne|last3=Martohardjono|first3=Gita|date=December 1996|title=Second language acquisition: Theoretical and experimental issues in contemporary research|url=https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/second-language-acquisition-theoretical-and-experimental-issues-in-contemporary-research/7FE95B59042F2946B99AF5DE453AC900|journal=Behavioral and Brain Sciences|language=en|volume=19|issue=4|pages=677–714|doi=10.1017/S0140525X00043521|s2cid=144054857 |issn=1469-1825|url-access=subscription}}</ref> One of the most important questions was to what extent, if any, [[Universal grammar|Universal Grammar]] constrains second language acquisition? At the moment, three hypotheses of SLA were articulated. The first one was the “no access” hypothesis that claims that no aspect of UG is available to the L2 learner.<ref>{{Citation|last1=Vainikka|first1=Anne|title=Direct Access to X'-Theory|date=1994|url=http://dx.doi.org/10.1075/lald.8.13vai|work=Language Acquisition Studies in Generative Grammar|pages=265|place=Amsterdam|publisher=John Benjamins Publishing Company|isbn=978-90-272-2472-9|access-date=2021-03-08|last2=Young-Scholten|first2=Martha|doi=10.1075/lald.8.13vai|url-access=subscription}}</ref> The second is the “partial access” hypothesis that claims that only LI instantiated principles and LI instantiated parameter-values of UG are available to the learner.<ref>{{Cite journal|last=Eubank|first=Lynn|date=August 1993|title=On the Transfer of Parametric Values in L2 Development|url=http://dx.doi.org/10.1207/s15327817la0303_1|journal=Language Acquisition|volume=3|issue=3|pages=183–208|doi=10.1207/s15327817la0303_1|issn=1048-9223|url-access=subscription}}</ref> The third, called the “full access” hypothesis, asserts that UG in its entirety constrains L2 acquisition.<ref>{{Cite journal|last1=Schwartz|first1=Bonnie D.|last2=Sprouse|first2=Rex A.|date=1996-01-01|title=L2 cognitive states and the Full Transfer/Full Access model|url=https://doi.org/10.1177/026765839601200103|journal=Second Language Research|language=en|volume=12|issue=1|pages=40–72|doi=10.1177/026765839601200103|s2cid=146199732|issn=0267-6583|url-access=subscription}}</ref> Flynn and co-authors argued for the "full access" hypothesis which remains a valid theory today and guides much of modern research.
+
+From the early days of her work in SLA, Flynn has been a staunch proponent of principled approach to explaining processes which language acquisition involves. As such, she strongly advocates for strictly linguistic accounts of language acquisition within [[Chomskyan linguistics|Chomskian]] tradition which are grounded in [[Minimalist program|Minimalist Program]] and stem from our understanding of syntactic theory.<ref>{{Cite journal|last=Flynn|first=Suzanne|date=2020-07-27|title=Microvariation in multilingual situations: The importance of property-by-property acquisition: Pros and cons|url=http://dx.doi.org/10.1177/0267658320945761|journal=Second Language Research|volume=37|issue=3|pages=481–488|doi=10.1177/0267658320945761|s2cid=225495744|issn=0267-6583|url-access=subscription}}</ref>
+
+=== Third language acquisition ===
+In line with Flynn's earlier work on accessibility of the UG, she co-authored one of the first models of [[third language acquisition]]: The Cumulative-Enhancement Model (CEM).<ref>{{Cite journal|last1=Flynn|first1=Suzanne|last2=Foley|first2=Claire|last3=Vinnitskaya|first3=Inna|date=2004-01-01|title=The Cumulative-Enhancement Model for Language Acquisition: Comparing Adults' and Children's Patterns of Development in First, Second and Third Language Acquisition of Relative Clauses|url=https://doi.org/10.1080/14790710408668175|journal=International Journal of Multilingualism|volume=1|issue=1|pages=3–16|doi=10.1080/14790710408668175|s2cid=146563649|issn=1479-0718|url-access=subscription}}</ref> The model argued that language learning is cumulative and all previous languages (i.e., the native language and the second language) can facilitate language learning. The model, notably, does not claim that previous languages exert an exclusively facilitative effect. On the contrary, the model allows for more than occasional interferences from previous languages while claiming that the acquisition process ''per se'' cannot be characterized through a deficit model or alike.<ref>{{Citation|last1=Berkes|first1=Éva|title=Further evidence in support of the Cumulative-Enhancement Model|date=2012|url=http://dx.doi.org/10.1075/sibil.46.11ber|work=Studies in Bilingualism|pages=143–164|place=Amsterdam|publisher=John Benjamins Publishing Company|isbn=978-90-272-4187-0|access-date=2021-03-08|last2=Flynn|first2=Suzanne|doi=10.1075/sibil.46.11ber|url-access=subscription}}</ref> The model has also been pointed out to be easily extendable to fourth language acquisition and beyond, which is not a feature most of the current models for L3 acquisition share. The CEM model stands in opposition to the so-called "wholesale" models of L3 acquisition (e.g. Typological Primacy Model<ref>{{Cite journal|last=Rothman|first=Jason|date=2011-01-01|title=L3 syntactic transfer selectivity and typological determinacy: The typological primacy model|url=https://doi.org/10.1177/0267658310386439|journal=Second Language Research|language=en|volume=27|issue=1|pages=107–127|doi=10.1177/0267658310386439|s2cid=145722158|issn=0267-6583|url-access=subscription}}</ref> or L2 Status<ref>{{Cite book|last1=Bardel|first1=Camilla|last2=Sánchez|first2=Laura|chapter=The L2 status factor hypothesis revisited|editor-last1=Angelovska|editor-first1=Tanja|editor-last2=Hahn|editor-first2=Angela|chapter-url=https://books.google.com/books?id=hxowDwAAQBAJ&q=l2+status&pg=PA85|title=L3 Syntactic Transfer: Models, new developments and implications|year=2017|publisher=John Benjamins Publishing Company|isbn=978-90-272-6560-9|language=en|doi=10.1075/bpa.5.05bar|pages=85–101}}</ref>).
+
+== Honors and distinctions ==
+Flynn is co-founding editor (with Samuel D. Epstein) of the peer-reviewed journal [[Syntax (journal)|''Syntax'']].
+
+Flynn was elected to the [[American Association for the Advancement of Science]] (AAAS) in 2019.<ref>{{Cite web|title=AAAS Announces Leading Scientists Elected as 2019 Fellows {{!}} American Association for the Advancement of Science|url=https://www.aaas.org/news/aaas-announces-leading-scientists-elected-2019-fellows|access-date=2021-03-11|website=www.aaas.org|language=en}}</ref><ref>{{Cite web|title=Six MIT faculty elected 2019 AAAS Fellows|url=https://news.mit.edu/2019/faculty-elected-aaas-fellows-1126|access-date=2021-03-11|website=MIT News {{!}} Massachusetts Institute of Technology|date=26 November 2019 |language=en}}</ref> [[Linguistic Society of America]] described her as "a leading researcher on syntax acquisition of children and adults in bilingual, second, and third language contexts".<ref>{{Cite web|title=Laurels to Linguists: Jennifer Cole, Suzanne Flynn, Allard Jongman, & Dan Jurafsky {{!}} Linguistic Society of America|url=https://www.linguisticsociety.org/news/2019/12/09/laurels-linguists-jennifer-cole-suzanne-flynn-allard-jongman-dan-jurafsky|access-date=2021-03-15|website=www.linguisticsociety.org}}</ref>
+
+== Selected bibliography ==
+
+* Flynn, Suzanne. ''A parameter-setting model of L2 acquisition: Experimental studies in anaphora''. Vol. 5. Springer Science & Business Media, 2012.<ref>{{Cite journal|last=Flynn|first=Suzanne|date=1987|title=A Parameter-Setting Model of L2 Acquisition|url=http://dx.doi.org/10.1007/978-94-009-3747-5|journal=Studies in Theoretical Psycholinguistics|volume=5|doi=10.1007/978-94-009-3747-5|isbn=978-90-277-2375-8|issn=1873-0043|url-access=subscription}}</ref>
+* Flynn, Suzanne, and Wayne O'Neil, eds. ''Linguistic theory in second language acquisition''. Vol. 8. Springer Science & Business Media, 2012.<ref>{{Cite journal|date=1988|editor-last=Flynn|editor-first=Suzanne|editor2-last=O’Neil|editor2-first=Wayne|title=Linguistic Theory in Second Language Acquisition|url=http://dx.doi.org/10.1007/978-94-009-2733-9|journal=Studies in Theoretical Psycholinguistics|volume=8|doi=10.1007/978-94-009-2733-9|isbn=978-1-55608-085-2|issn=1873-0043|url-access=subscription}}</ref>
+* Flynn, Suzanne, and Gita Martohardjono. "Mapping from the initial state to the final state: The separation of universal principles and language-specific properties." (1992).<ref>{{Citation|last1=Flynn|first1=Suzanne|title=Mapping from the Initial State to the Final State: The Separation of Universal Principles and Language-Specific Properties|date=2018-10-24|url=http://dx.doi.org/10.4324/9781315789217-17|work=Heads, Projections, and Learnability|pages=319–335|publisher=Psychology Press|isbn=978-1-315-78921-7|access-date=2021-03-08|last2=Martohardjono|first2=Gita|doi=10.4324/9781315789217-17|s2cid=208112173|url-access=subscription}}</ref>
+* Yow, W. Quin, Jessica SH Tan, and Suzanne Flynn. "[[Code-switching]] as a marker of linguistic competence in bilingual children." ''Bilingualism: Language and Cognition'' 21.5 (2018): 1075–1090.<ref>{{Cite journal|last1=YOW|first1=W. QUIN|last2=TAN|first2=JESSICA S. H.|last3=FLYNN|first3=SUZANNE|date=2017-09-04|title=Code-switching as a marker of linguistic competence in bilingual children|journal=Bilingualism: Language and Cognition|volume=21|issue=5|pages=1075–1090|doi=10.1017/s1366728917000335|issn=1366-7289|doi-access=free}}</ref>
+* Cabrelli-Amaro, Jennifer, Suzanne Flynn, and Jason Rothman. "Third language acquisition in adulthood." (2012).<ref>{{Cite book|date=2012-11-30|editor-last=Cabrelli Amaro|editor-first=Jennifer|editor2-last=Flynn|editor2-first=Suzanne|editor3-last=Rothman|editor3-first=Jason|title=Third Language Acquisition in Adulthood|url=http://dx.doi.org/10.1075/sibil.46|series=Studies in Bilingualism|volume=46|doi=10.1075/sibil.46|isbn=978-90-272-4187-0|issn=0928-1533 }}</ref>
+* Lust, Barbara, Yu-chin Chien, and Suzanne Flynn. "What children know: Methods for the study of first language acquisition." ''Studies in the acquisition of anaphora''. Springer, Dordrecht, 1987. 271–356.<ref>{{Citation|last1=Lust|first1=Barbara|title=What Children Know: Methods for the Study of First Language Acquisition|date=1987|url=http://dx.doi.org/10.1007/978-94-009-3387-3_12|pages=271–356|place=Dordrecht|publisher=Springer Netherlands|isbn=978-1-55608-023-4|access-date=2021-03-08|last2=Chien|first2=Yu-Chin|last3=Flynn|first3=Suzanne|series=Studies in Theoretical Psycholinguistics |volume=6 |doi=10.1007/978-94-009-3387-3_12|url-access=subscription}}</ref>
+* Szarkowski, Amy, Suzanne Flynn, and Terrell Clark. "Dually diagnosed: A retrospective study of the process of diagnosing [[autism spectrum]] disorders in children who are deaf and hard of hearing." ''Seminars in Speech and Language''. Vol. 35. No. 04. Thieme Medical Publishers, 2014.<ref>{{Cite journal|last1=Flynn|first1=Suzanne|last2=Clark|first2=Terrell|last3=Szarkowski|first3=Amy|date=2014-10-16|title=Dually Diagnosed: A Retrospective Study of the Process of Diagnosing Autism Spectrum Disorders in Children Who Are Deaf and Hard of Hearing|url=http://dx.doi.org/10.1055/s-0034-1389102|journal=Seminars in Speech and Language|volume=35|issue=4|pages=301–308|doi=10.1055/s-0034-1389102|pmid=25321854|s2cid=5057239 |issn=0734-0478|url-access=subscription}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Flynn, Suzanne}}
+[[Category:1950 births]]
+[[Category:Living people]]
+[[Category:Linguists from the United States]]
+[[Category:American women linguists]]
+[[Category:University of Massachusetts Boston alumni]]
+[[Category:Cornell University alumni]]
+[[Category:University of Puerto Rico alumni]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences faculty]]

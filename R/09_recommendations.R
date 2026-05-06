@@ -1,0 +1,200 @@
+source("/Users/lukaswallrich/Documents/Coding/flora-wikipedia/R/00_config.R")
+
+flora       <- read_parquet(file.path(DATA_DIR, "flora_normalised.parquet"))
+audit_long  <- read_parquet(file.path(OUTPUT_DIR, "audit_long.parquet"))
+contexts    <- read_parquet(file.path(OUTPUT_DIR, "citation_contexts.parquet"))
+unique_oa   <- read_parquet(file.path(DATA_DIR, "unique_dois_oa.parquet"))
+
+parse_authors <- function(json_str) {
+  if (is.na(json_str) || !nzchar(json_str)) return(tibble())
+  # Many flora rows for institutional authors store a plain string like
+  # "Open Science Collaboration" instead of a JSON list — handle that.
+  out <- tryCatch(jsonlite::fromJSON(json_str), error = function(e) NULL)
+  if (is.null(out)) {
+    return(tibble(family = str_trim(json_str), given = NA_character_,
+                  literal = TRUE))
+  }
+  if (!is.data.frame(out)) return(tibble())
+  if (!"family" %in% names(out)) out$family <- NA_character_
+  if (!"given"  %in% names(out)) out$given  <- NA_character_
+  out
+}
+
+format_authors_short <- function(json_str) {
+  a <- parse_authors(json_str)
+  if (nrow(a) == 0) return(NA_character_)
+  fam <- a$family[1]
+  if (is.na(fam) || !nzchar(fam)) return(NA_character_)
+  if (nrow(a) == 1) return(fam)
+  paste0(fam, " et al.")
+}
+
+build_cite_template <- function(row) {
+  authors <- parse_authors(row$author_r)
+  parts <- character()
+  if (nrow(authors) > 0) {
+    n_auth <- min(nrow(authors), 9)
+    for (i in seq_len(n_auth)) {
+      parts <- c(parts,
+        paste0("|last", i, "=", authors$family[i]),
+        paste0("|first", i, "=", authors$given[i])
+      )
+    }
+    if (nrow(authors) > 9) parts <- c(parts, "|display-authors=etal")
+  }
+  if (!is.na(row$year_r))    parts <- c(parts, paste0("|year=",   row$year_r))
+  if (!is.na(row$title_r))   parts <- c(parts, paste0("|title=",  row$title_r))
+  if (!is.na(row$journal_r)) parts <- c(parts, paste0("|journal=", row$journal_r))
+  if (!is.na(row$volume_r))  parts <- c(parts, paste0("|volume=", row$volume_r))
+  if (!is.na(row$issue_r))   parts <- c(parts, paste0("|issue=",  row$issue_r))
+  if (!is.na(row$pages_r))   parts <- c(parts, paste0("|pages=",  row$pages_r))
+  if (!is.na(row$doi_r))     parts <- c(parts, paste0("|doi=",    row$doi_r))
+
+  paste0("<ref>{{cite journal ", paste(parts, collapse = " "), "}}</ref>")
+}
+
+suggest_sentence <- function(outcome, replication_short, year_r, original_short) {
+  case_when(
+    outcome == "failed" ~ paste0(
+      "However, a replication attempt by ", replication_short, " (", year_r,
+      ") failed to reproduce this finding."
+    ),
+    outcome == "mixed" ~ paste0(
+      "A replication attempt by ", replication_short, " (", year_r,
+      ") reported mixed results."
+    ),
+    outcome == "successful" ~ paste0(
+      replication_short, " (", year_r, ") successfully replicated this finding."
+    ),
+    TRUE ~ paste0(
+      "See also ", replication_short, " (", year_r,
+      "), a replication study (outcome: ", outcome, ")."
+    )
+  )
+}
+
+# Per (article × pair) where doi_o is cited but doi_r is NOT.
+missing <- audit_long |>
+  filter(!r_also_cited) |>
+  rename(doi_o = doi_o_norm, doi_r = doi_r_norm) |>
+  inner_join(
+    flora |> select(pair_id, title_o, year_o, journal_o, author_o,
+                    title_r, year_r, journal_r, volume_r, issue_r, pages_r,
+                    author_r, doi_r = doi_r_norm,
+                    apa_ref_r, bibtex_ref_r),
+    by = c("pair_id", "doi_r"),
+    relationship = "many-to-one"
+  ) |>
+  left_join(
+    unique_oa |> select(doi_o = doi, cited_by_count_o = cited_by_count),
+    by = "doi_o"
+  ) |>
+  left_join(
+    unique_oa |> select(doi_r = doi, cited_by_count_r = cited_by_count),
+    by = "doi_r"
+  ) |>
+  mutate(
+    cited_by_count_o = coalesce(cited_by_count_o, 0L),
+    cited_by_count_r = coalesce(cited_by_count_r, 0L)
+  )
+
+# Pull section where original is cited (from contexts).
+o_section <- contexts |>
+  filter(doi == pair_doi_o) |>
+  group_by(lang, pageid, doi_o = pair_doi_o) |>
+  summarise(
+    sections = paste(unique(na.omit(section))[seq_len(min(2, n_distinct(na.omit(section))))],
+                     collapse = " · "),
+    o_ref_block = first(ref_block),
+    paragraph_excerpt = str_trunc(first(paragraph), 400),
+    .groups = "drop"
+  )
+
+missing <- missing |>
+  left_join(o_section, by = c("lang", "pageid", "doi_o"))
+
+# Filter: outcome informativeness + replication strength
+# Keep failed/mixed/successful; rank by (outcome priority * replication citations * sqrt(article impact))
+candidates <- missing |>
+  filter(outcome %in% c("failed", "mixed", "successful")) |>
+  mutate(
+    outcome_priority = case_when(
+      outcome == "failed" ~ 3,
+      outcome == "mixed" ~ 2,
+      outcome == "successful" ~ 1,
+      TRUE ~ 0
+    ),
+    # FORRT-curated batches are by definition vetted -> bonus.
+    curated_bonus = if_else(source %in% c("COS", "SCORE"), 1.5, 1),
+    # We don't have replication citation count for very-recent papers; use 1 as floor.
+    rep_strength = pmax(cited_by_count_r, 1),
+    score = outcome_priority * curated_bonus * log1p(rep_strength) * log1p(cited_by_count_o)
+  ) |>
+  filter(rep_strength >= 5)  # exclude truly orphan replications (0-4 citations)
+
+# Build wikitext + suggested sentence + edit URL.
+candidates <- candidates |>
+  rowwise() |>
+  mutate(
+    rep_short  = format_authors_short(author_r),
+    orig_short = format_authors_short(author_o),
+    cite_template = build_cite_template(cur_data() |> as.list()),
+    sentence_suggestion = suggest_sentence(outcome, rep_short, year_r, orig_short),
+    page_url  = paste0("https://", lang, ".wikipedia.org/wiki/",
+                       URLencode(str_replace_all(page_title, " ", "_"), reserved = FALSE)),
+    edit_url  = paste0("https://", lang, ".wikipedia.org/w/index.php?title=",
+                       URLencode(str_replace_all(page_title, " ", "_"), reserved = FALSE),
+                       "&action=edit")
+  ) |>
+  ungroup() |>
+  arrange(desc(score))
+
+# Top recommendations: dedupe so the same (article, pair) appears once.
+top <- candidates |>
+  distinct(lang, pageid, doi_o, doi_r, .keep_all = TRUE) |>
+  head(200)
+
+cli_alert_success("Generated {nrow(candidates)} candidate recommendations; top 200 written")
+
+# Export both CSV (for sanity) and JSON (for the web app).
+recs_csv <- top |> select(score, lang, page_title, page_url, edit_url,
+                          outcome, type, source,
+                          title_o, year_o, journal_o, doi_o, cited_by_count_o,
+                          title_r, year_r, journal_r, doi_r, cited_by_count_r,
+                          rep_short, sentence_suggestion, sections,
+                          paragraph_excerpt, o_ref_block, cite_template)
+write_csv(recs_csv, file.path(OUTPUT_DIR, "recommendations.csv"))
+
+# JSON for web app: lighter, fewer fields.
+recs_json <- top |>
+  transmute(
+    rank             = row_number(),
+    score            = round(score, 2),
+    page_title, page_url, edit_url, lang,
+    outcome, source,
+    original = pmap(list(title_o, year_o, journal_o, doi_o, cited_by_count_o, orig_short),
+                    function(t, y, j, d, c, s) list(title = t, year = y, journal = j,
+                                                     doi = d, citations = c, short = s)),
+    replication = pmap(list(title_r, year_r, journal_r, doi_r, cited_by_count_r, rep_short),
+                        function(t, y, j, d, c, s) list(title = t, year = y, journal = j,
+                                                         doi = d, citations = c, short = s)),
+    section_in_article = sections,
+    paragraph_excerpt,
+    sentence_suggestion,
+    cite_template
+  )
+
+dir_create(file.path(PROJECT_ROOT, "web"))
+jsonlite::write_json(
+  recs_json,
+  file.path(PROJECT_ROOT, "web", "data.json"),
+  pretty = TRUE, auto_unbox = TRUE, na = "null"
+)
+
+cli_alert_success("Wrote output/recommendations.csv and web/data.json")
+
+cat("\n--- Top 10 recommendations preview ---\n")
+top |> head(10) |>
+  select(page_title, outcome, rep_short, year_r, cited_by_count_r, journal_r) |>
+  mutate(across(c(page_title, journal_r), ~ str_trunc(.x, 35))) |>
+  print(n = Inf)

@@ -37,6 +37,14 @@ Run end-to-end: `Rscript R/01_load_flora.R && Rscript R/run_stage1.R && Rscript 
 Stage 1 takes ~35 min wall-clock at the API's 200 req/min rate limit; the
 rest is local.
 
+## Browse the recommendations
+
+A static editor-facing site is auto-deployed to GitHub Pages from `web/`:
+**https://lukaswallrich.github.io/flora-wikipedia/**. Each card shows a
+Wikipedia article, the original it cites, the missing replication, a
+sentence the editor could insert, and a `{{cite journal}}` ref block ready
+to paste — plus a one-click link to the article's edit view.
+
 ## Outputs
 
 - `output/REPORT.md` — written summary

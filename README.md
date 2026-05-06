@@ -30,8 +30,10 @@ Full write-up in [`output/REPORT.md`](output/REPORT.md).
 | 4 | `R/04_extract_dois.R` | regex-extract every DOI present in each cached article |
 | 5 | `R/05_audit.R` | join with flora to compute per-pair `r_also_cited`; pull `<ref>` block + section + paragraph for every hit |
 | 6 | `R/06_analysis.R` | per-original summary, breakdown by outcome |
+| 7 | `R/07_openalex.R` | OpenAlex `cited_by_count` for every unique DOI (batched, ~1 min) |
+| 8 | `R/08_estimate_misses.R` | Wikipedia presence by citation tier; title-search the top high-cited DOI-misses to estimate the DOI-pipeline miss rate |
 
-Run end-to-end: `Rscript R/01_load_flora.R && Rscript R/run_stage1.R && Rscript R/run_stages_2_to_6.R && Rscript R/06_analysis.R`.
+Run end-to-end: `Rscript R/01_load_flora.R && Rscript R/run_stage1.R && Rscript R/run_stages_2_to_6.R && Rscript R/06_analysis.R && Rscript R/07_openalex.R && Rscript R/08_estimate_misses.R`.
 Stage 1 takes ~35 min wall-clock at the API's 200 req/min rate limit; the
 rest is local.
 

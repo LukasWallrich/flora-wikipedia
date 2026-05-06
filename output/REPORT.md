@@ -116,6 +116,61 @@ rarely.
   above use the cleaner per-original view; the raw `flora_wikipedia_audit.csv`
   is per-pair.
 
+## Estimated misses (DOI-based pipeline only catches ~70% of high-cited papers)
+
+We pulled OpenAlex `cited_by_count` for every unique DOI in flora (3,223 of
+3,256 matched). Wikipedia presence rises sharply with citation count:
+
+| Citation count | # originals | % on enwiki via DOI | Median # citing pages |
+|---|---|---|---|
+| 0–10 | 123 | 4.9% | 1 |
+| 11–50 | 370 | 4.3% | 1 |
+| 51–200 | 641 | 11.1% | 1 |
+| 201–500 | 339 | 34.2% | 1 |
+| 501–1,000 | 160 | 61.3% | 2 |
+| >1,000 | 177 | **72.9%** | 2 |
+
+The top tier (>1,000 citations) achieves only 73% coverage via DOI matching —
+**~27% of very-influential papers are missing from our DOI-based pipeline**.
+Where do they go?
+
+We took the 50 highest-cited originals NOT found via DOI lookup and searched
+enwiki by title. **16 of 50 (32%) returned plausible matches** — i.e., the
+paper is mentioned in some Wikipedia article but without a DOI link.
+Spot-checked: Meltzoff & Moore 1977 *Imitation of facial and manual gestures*
+(3,220 OpenAlex citations) appears on the *Andrew N. Meltzoff* Wikipedia
+article but with no DOI in any extlink. Confirmed miss.
+
+| DOI | Citations | Likely Wikipedia hit |
+|---|---|---|
+| 10.1016/s1386-4181(01)00024-6 (Amihud, illiquidity) | 10,217 | Efficient-market hypothesis |
+| 10.1016/j.biopsych.2006.03.040 | 4,956 | Massachusetts General Hospital |
+| 10.1016/b978-0-12-205050-3.50008-7 (Easterlin) | 4,363 | Easterlin paradox |
+| 10.1126/science.198.4312.75 (Meltzoff & Moore) | 3,220 | Andrew N. Meltzoff |
+| 10.1080/00208825.1980.11656300 (Hofstede) | 2,947 | Hofstede's cultural dimensions |
+| 10.1037/0033-295x.114.2.245 | 1,046 | Fei Xu \| Number sense |
+| 10.1016/0022-1031(91)90011-t (Spranca, omission bias) | 1,035 | Omission bias |
+
+(Full list: `output/candidate_misses_by_title.csv`.)
+
+**Implications.**
+
+1. The 23.5% headline coverage rate is a lower bound. Adjusting for the
+   ~30% miss rate among high-cited papers, the *true* fraction of flora
+   originals appearing on enwiki is plausibly **30–35%**.
+2. If originals are missed, replications are too. The 12.8% co-citation
+   rate is therefore likely an over-estimate, not under: the missed
+   citations are disproportionately to *originals* (which have famous
+   names) rather than replications (which usually don't), so finding
+   the original via title-search wouldn't necessarily uncover the
+   replication on the same page. Rough guess: true co-citation rate is
+   in the 8–12% range.
+3. To genuinely close the gap we'd need to combine DOI-matching with
+   title/author/year matching against article wikitext — feasible
+   given we already cache the wikitext for the candidate set, and
+   could be extended to a broader enwiki sweep using a title-similarity
+   index.
+
 ## Output files
 
 - `output/flora_wikipedia_audit.csv` — one row per (doi_o, doi_r) pair:
@@ -125,6 +180,12 @@ rarely.
 - `output/citation_contexts.csv` — long format: for every (article, DOI)
   hit, the surrounding `<ref>` block, paragraph, and section heading.
 - `output/audit_long.parquet` — relational form for downstream joins.
+- `output/per_original_with_citations.csv` — per unique original DOI, with
+  OpenAlex `cited_by_count`, `publication_year`, `title`, and Wikipedia hit
+  count.
+- `output/candidate_misses_by_title.csv` — high-cited originals not found
+  via DOI but plausibly matched by title-only Wikipedia search.
+- `data/unique_dois_oa.parquet` — OpenAlex enrichment for every unique DOI.
 - `data/exturlusage_en.parquet` — raw API hits per DOI.
 - `data/article_dois.parquet` — every DOI extracted from each candidate
   article (useful for alternative join strategies).

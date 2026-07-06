@@ -10,6 +10,15 @@ const state = {
   sort: 'score',
 };
 
+/* Display labels for outcome categories. Underlying keys stay
+   failed/mixed/successful; only the user-facing wording avoids binary
+   "replicated/failed" framing. */
+const OUTCOME_LABEL = {
+  failed: 'Not replicated',
+  mixed: 'Mixed evidence',
+  successful: 'Replicated',
+};
+
 const $ = (sel) => document.querySelector(sel);
 const $$ = (sel) => Array.from(document.querySelectorAll(sel));
 
@@ -153,9 +162,9 @@ function renderCounters(rows) {
   const counts = { failed: 0, mixed: 0, successful: 0 };
   rows.forEach((r) => { if (counts[r.outcome] !== undefined) counts[r.outcome]++; });
   $('#count-by-outcome').innerHTML =
-    `<span style="color:var(--failed)">${counts.failed} failed</span> · ` +
-    `<span style="color:var(--mixed)">${counts.mixed} mixed</span> · ` +
-    `<span style="color:var(--successful)">${counts.successful} successful</span>`;
+    `<span style="color:var(--failed)">${counts.failed} not replicated</span> · ` +
+    `<span style="color:var(--mixed)">${counts.mixed} mixed evidence</span> · ` +
+    `<span style="color:var(--successful)">${counts.successful} replicated</span>`;
 }
 
 /* =================== Render feed =================== */
@@ -210,7 +219,7 @@ function cardHtml(r, staggerIdx) {
   const sentence   = r.sentence_suggestion || '';
   const cite       = r.cite_template || '';
 
-  const outcomeLabel = (r.outcome || '').toUpperCase();
+  const outcomeLabel = OUTCOME_LABEL[r.outcome] || (r.outcome || '');
 
   const cleanedExcerpt = cleanWikitext(r.paragraph_excerpt);
   const excerpt = cleanedExcerpt
@@ -329,6 +338,5 @@ function showToast(msg) {
   toastTimer = setTimeout(() => t.classList.remove('visible'), 1500);
 }
 
-/* Fill in generated date dynamically if present in URL. */
-const today = new Date();
-$('#generated-date').textContent = today.toLocaleString('en-US', { month: 'long', year: 'numeric' });
+/* The kicker date is the crawl/provenance date (set in index.html), not the
+   viewing date — a live "now" date would contradict the pilot crawl month. */

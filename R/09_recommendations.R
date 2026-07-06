@@ -57,7 +57,7 @@ suggest_sentence <- function(outcome, replication_short, year_r, original_short)
   case_when(
     outcome == "failed" ~ paste0(
       "However, a replication attempt by ", replication_short, " (", year_r,
-      ") failed to reproduce this finding."
+      ") did not reproduce the original finding."
     ),
     outcome == "mixed" ~ paste0(
       "A replication attempt by ", replication_short, " (", year_r,

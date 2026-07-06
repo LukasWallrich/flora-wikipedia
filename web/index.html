@@ -14,7 +14,7 @@
 </head>
 <body>
 
-<div class="demo-banner" role="alert">Demo page — not for use</div>
+<div class="pilot-banner" role="status">Pilot &middot; English Wikipedia crawl, May 2026</div>
 
 <div class="grain"></div>
 
@@ -30,16 +30,23 @@
       <span class="title-line">Gap</span>
     </h1>
     <p class="dek">
-      Of <strong>422 unique studies</strong> in the FReD replication database
-      that English Wikipedia cites, only <strong>12.8%</strong> also cite the
-      replication. The list below is the highest-impact gaps — Wikipedia
-      articles that cite an original finding but quietly omit the published
-      replication. Each entry is one click away from being fixed.
+      Of <strong>422 unique studies</strong> in
+      <strong>FLoRA</strong> (FORRT Library of Replication Attempts, formerly
+      FReD) that English Wikipedia cites, only <strong>12.8%</strong> also cite
+      the replication. The list below is the highest-impact gaps — Wikipedia
+      articles that cite an original finding where the published replication is
+      not yet cited. Each entry links the sources an editor needs to add the
+      replication.
+    </p>
+
+    <p class="community-note">
+      Suggestions are starting points for editors: all changes are made by
+      people, following Wikipedia's sourcing and neutrality policies.
     </p>
 
     <div class="byline">
       <a class="byline-link" href="https://github.com/forrtproject/FReD-data" target="_blank" rel="noopener">
-        FReD-data
+        FLoRA data
       </a>
       <span class="byline-sep">·</span>
       <a class="byline-link" href="https://github.com/LukasWallrich/flora-wikipedia" target="_blank" rel="noopener">
@@ -65,9 +72,9 @@
     <div class="control-block">
       <label class="control-label">Replication outcome</label>
       <div class="chip-group" id="outcome-filter" role="group">
-        <button class="chip chip-failed" data-value="failed" aria-pressed="true">Failed</button>
-        <button class="chip chip-mixed" data-value="mixed" aria-pressed="true">Mixed</button>
-        <button class="chip chip-successful" data-value="successful" aria-pressed="true">Successful</button>
+        <button class="chip chip-failed" data-value="failed" aria-pressed="true">Not replicated</button>
+        <button class="chip chip-mixed" data-value="mixed" aria-pressed="true">Mixed evidence</button>
+        <button class="chip chip-successful" data-value="successful" aria-pressed="true">Replicated</button>
       </div>
     </div>
 
@@ -109,10 +116,15 @@
     for caveats.
   </p>
   <p class="footer-fine">
-    Built on <a href="https://github.com/forrtproject/FReD-data" target="_blank" rel="noopener">FReD-data</a>
-    (FORRT Replication Database) &middot;
+    Built on <a href="https://github.com/forrtproject/FReD-data" target="_blank" rel="noopener">FLoRA</a>
+    (FORRT Library of Replication Attempts, formerly FReD) &middot;
     citation counts via <a href="https://openalex.org" target="_blank" rel="noopener">OpenAlex</a> &middot;
     <a href="https://github.com/LukasWallrich/flora-wikipedia" target="_blank" rel="noopener">code &amp; data on GitHub</a>
+  </p>
+  <p class="footer-fine">
+    Built by the Making Replications Count project (UKRI award UKRI1078) with
+    <a href="https://forrt.org" target="_blank" rel="noopener">FORRT</a> &middot;
+    contact: <a href="mailto:l.wallrich@bbk.ac.uk">l.wallrich@bbk.ac.uk</a>
   </p>
 </footer>
 

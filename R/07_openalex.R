@@ -1,8 +1,9 @@
-source("/Users/lukaswallrich/Documents/Coding/flora-wikipedia/R/00_config.R")
+source(file.path(Sys.getenv("FLORA_PROJECT_ROOT", unset = getwd()), "R/00_config.R"))
 
-OPENALEX_MAILTO <- "lukas.wallrich@gmail.com"
+OPENALEX_MAILTO <- Sys.getenv("OPENALEX_MAILTO", unset = "")
 
 openalex_batch <- function(dois, batch_size = 50) {
+  assert_live()
   out <- list()
   batches <- split(dois, ceiling(seq_along(dois) / batch_size))
 

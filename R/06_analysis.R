@@ -1,4 +1,4 @@
-source("/Users/lukaswallrich/Documents/Coding/flora-wikipedia/R/00_config.R")
+source(file.path(Sys.getenv("FLORA_PROJECT_ROOT", unset = getwd()), "R/00_config.R"))
 
 flora <- read_parquet(file.path(DATA_DIR, "flora_normalised.parquet"))
 audit_long <- read_parquet(file.path(OUTPUT_DIR, "audit_long.parquet"))
@@ -91,7 +91,7 @@ flora |>
   arrange(desc(n_originals)) |>
   print()
 
-cat("\n--- Top 15 originals on Wikipedia where the replication is MISSING ---\n")
+cat("\n--- Top 15 originals on Wikipedia without a detected replication DOI ---\n")
 per_unique_o |>
   filter(!any_co_cited) |>
   arrange(desc(n_articles_citing)) |>
@@ -108,7 +108,7 @@ per_unique_o |>
   mutate(pages = str_trunc(pages, 70)) |>
   print(n = Inf)
 
-cat("\n--- Examples where Wikipedia DOES cite the replication ---\n")
+cat("\n--- Examples where both DOI strings are detected ---\n")
 audit_full |>
   filter(any_co_citation, n_pages_citing_o >= 2) |>
   arrange(desc(n_pages_citing_o)) |>

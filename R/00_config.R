@@ -6,20 +6,39 @@ suppressPackageStartupMessages({
   library(stringr)
   library(purrr)
   library(jsonlite)
-  library(arrow)
+  # nanoparquet is a small, portable alternative to Arrow.
+  if (!requireNamespace("arrow", quietly = TRUE) &&
+      !requireNamespace("nanoparquet", quietly = TRUE))
+    stop("Install arrow or nanoparquet; see R/setup.R")
   library(fs)
   library(glue)
   library(cli)
 })
 
-PROJECT_ROOT <- "/Users/lukaswallrich/Documents/Coding/flora-wikipedia"
+PROJECT_ROOT <- normalizePath(Sys.getenv("FLORA_PROJECT_ROOT", unset = getwd()), mustWork = TRUE)
+LANG <- Sys.getenv("FLORA_LANG", unset = "en")
+if (!grepl("^[a-z]{2,3}$", LANG)) stop("Invalid Wikipedia language code")
+RUN_DIR <- Sys.getenv("FLORA_RUN_DIR", unset = PROJECT_ROOT)
 
-DATA_DIR   <- file.path(PROJECT_ROOT, "data")
-CACHE_DIR  <- file.path(PROJECT_ROOT, "cache")
-OUTPUT_DIR <- file.path(PROJECT_ROOT, "output")
+DATA_DIR   <- file.path(RUN_DIR, "data")
+CACHE_DIR  <- file.path(RUN_DIR, "cache")
+OUTPUT_DIR <- file.path(RUN_DIR, "output")
 WIKITEXT_DIR <- file.path(CACHE_DIR, "wikitext")
 
-USER_AGENT <- "FReD-Wikipedia-Audit/0.1 (https://github.com/forrtproject/FReD-data; lukas.wallrich@gmail.com)"
+USER_AGENT <- "FLoRA-Wikipedia-Audit/0.2 (https://github.com/LukasWallrich/flora-wikipedia)"
+OFFLINE <- identical(Sys.getenv("FLORA_OFFLINE"), "1")
+dir_create(c(DATA_DIR, CACHE_DIR, OUTPUT_DIR))
+read_parquet <- function(path) {
+  if (requireNamespace("arrow", quietly = TRUE)) return(arrow::read_parquet(path))
+  tibble::as_tibble(nanoparquet::read_parquet(path))
+}
+write_parquet <- function(x, path) {
+  tmp <- paste0(path, ".tmp")
+  if (requireNamespace("arrow", quietly = TRUE)) arrow::write_parquet(x, tmp)
+  else nanoparquet::write_parquet(as.data.frame(x), tmp)
+  if (!file.rename(tmp, path)) stop("Cannot atomically replace ", path)
+}
+assert_live <- function() if (OFFLINE) stop("Network prohibited in offline mode")
 
 LANGS_PRIMARY <- c("en")
 LANGS_EXTENDED <- c("en", "de", "fr", "es", "it", "nl", "pt", "ru", "ja", "zh")

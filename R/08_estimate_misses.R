@@ -1,8 +1,8 @@
-source("/Users/lukaswallrich/Documents/Coding/flora-wikipedia/R/02_exturlusage.R")
+source(file.path(Sys.getenv("FLORA_PROJECT_ROOT", unset = getwd()), "R/02_exturlusage.R"))
 
 flora       <- read_parquet(file.path(DATA_DIR, "flora_normalised.parquet"))
 unique_oa   <- read_parquet(file.path(DATA_DIR, "unique_dois_oa.parquet"))
-hits        <- read_parquet(file.path(DATA_DIR, "exturlusage_en.parquet")) |>
+hits        <- read_parquet(file.path(DATA_DIR, paste0("exturlusage_", LANG, ".parquet"))) |>
   filter(!is.na(pageid))
 
 # Per-original: did we find any DOI hit, and what's its citation count?
@@ -54,7 +54,7 @@ candidates |>
 # Wikipedia full-text search to see whether each is mentioned somewhere
 # (in prose, in a cite template missing the DOI, etc.)
 wiki_search <- function(query, limit = 5) {
-  resp <- mw_request("en") |>
+  resp <- mw_request(LANG) |>
     req_url_query(
       action     = "query",
       list       = "search",

@@ -1,4 +1,4 @@
-source("/Users/lukaswallrich/Documents/Coding/flora-wikipedia/R/04_extract_dois.R")
+source(file.path(Sys.getenv("FLORA_PROJECT_ROOT", unset = getwd()), "R/04_extract_dois.R"))
 
 # Extract surrounding context for each DOI mention. Returns one row per
 # (lang, pageid, doi, occurrence) with the <ref>...</ref> block when present
@@ -29,7 +29,7 @@ extract_contexts <- function(lang, pageid, target_dois) {
 
       # Find enclosing <ref>...</ref> if any.
       ref_block <- NA_character_
-      ref_starts <- str_locate_all(text, regex("<ref[^>]*>", ignore_case = TRUE))[[1]]
+      ref_starts <- str_locate_all(text, regex("<ref\\b[^>]*>", ignore_case = TRUE))[[1]]
       ref_ends   <- str_locate_all(text, regex("</ref>",     ignore_case = TRUE))[[1]]
       if (nrow(ref_starts) > 0 && nrow(ref_ends) > 0) {
         prior_starts <- ref_starts[ref_starts[, "end"] < pos, , drop = FALSE]
@@ -38,20 +38,21 @@ extract_contexts <- function(lang, pageid, target_dois) {
           following_ends <- ref_ends[ref_ends[, "start"] > pos, , drop = FALSE]
           if (nrow(following_ends) > 0) {
             e <- following_ends[1, "end"]
-            ref_block <- str_sub(text, s, e)
+            candidate <- str_sub(text, s, e)
+            opening <- str_sub(text, s, prior_starts[nrow(prior_starts), "end"])
+            before_doi <- str_sub(text, s, pos - 1L)
+            if (!str_detect(opening, "/>\\s*$") &&
+                !str_detect(before_doi, regex("</ref>", ignore_case = TRUE))) ref_block <- candidate
           }
         }
       }
 
-      # Surrounding paragraph (block separated by \n\n).
-      window_start <- max(1L, pos - 2000L)
-      window_end   <- min(nchar(text), pos + 2000L)
-      window <- str_sub(text, window_start, window_end)
-      paras <- str_split(window, "\n\n+")[[1]]
-      offsets <- cumsum(nchar(paras) + 2L)
-      rel_pos <- pos - window_start + 1L
-      idx <- which(offsets >= rel_pos)[1]
-      paragraph <- if (!is.na(idx)) paras[idx] else NA_character_
+      # Whole raw paragraph; separators have variable length.
+      breaks <- str_locate_all(text, "\\n\\n+")[[1]]
+      starts <- c(1L, if (nrow(breaks)) breaks[, "end"] + 1L else integer())
+      ends <- c(if (nrow(breaks)) breaks[, "start"] - 1L else integer(), nchar(text))
+      idx <- which(starts <= pos & ends >= pos)[1]
+      paragraph <- if (!is.na(idx)) str_sub(text, starts[idx], ends[idx]) else NA_character_
 
       # Section heading: nearest preceding `==Heading==`.
       head_locs <- str_locate_all(str_sub(text, 1, pos), regex("^==+\\s*([^=].*?)\\s*==+\\s*$", multiline = TRUE))[[1]]
@@ -74,7 +75,7 @@ extract_contexts <- function(lang, pageid, target_dois) {
 
 build_audit <- function() {
   flora <- read_parquet(file.path(DATA_DIR, "flora_normalised.parquet"))
-  hits  <- read_parquet(file.path(DATA_DIR, "exturlusage_en.parquet")) |>
+  hits  <- read_parquet(file.path(DATA_DIR, paste0("exturlusage_", LANG, ".parquet"))) |>
     filter(!is.na(pageid))
 
   # All DOIs found in each candidate article (from cached wikitext).
@@ -110,6 +111,12 @@ build_audit <- function() {
     select(lang, pageid, page_title, pairs) |>
     unnest(pairs)
 
+  if (!"pair_id" %in% names(audit_long)) {
+    audit_long <- bind_cols(candidate_pages[0, ],
+      flora[0, ] |> select(pair_id, doi_o_norm, doi_r_norm, outcome, type, source,
+        self_identified_replication, replication_intent_confidence),
+      tibble(r_also_cited = logical()))
+  }
   write_parquet(audit_long, file.path(OUTPUT_DIR, "audit_long.parquet"))
 
   audit_summary <- audit_long |>
@@ -167,7 +174,10 @@ build_contexts <- function() {
     }
   }
 
-  contexts <- bind_rows(rows)
+  contexts <- if (length(rows)) bind_rows(rows) else tibble(
+    lang = character(), pageid = integer(), doi = character(), match_pos = integer(),
+    ref_block = character(), paragraph = character(), section = character(),
+    pair_doi_o = character(), pair_doi_r = character(), doi_role = character())
   write_parquet(contexts, file.path(OUTPUT_DIR, "citation_contexts.parquet"))
 
   # Joined view with flora outcome.

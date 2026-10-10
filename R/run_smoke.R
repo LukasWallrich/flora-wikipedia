@@ -1,4 +1,4 @@
-source("/Users/lukaswallrich/Documents/Coding/flora-wikipedia/R/02_exturlusage.R")
+source(file.path(Sys.getenv("FLORA_PROJECT_ROOT", unset = getwd()), "R/02_exturlusage.R"))
 
 # Smoke test: 5 known-Wikipedia DOIs to validate the fetcher.
 known_dois <- c(
@@ -9,11 +9,10 @@ known_dois <- c(
   "10.1177/0956797610383437"                   # Carney et al. power posing
 ) |> normalise_doi()
 
-cli_h1("Smoke test on enwiki")
-out <- file.path(DATA_DIR, "smoke_exturlusage.parquet")
-if (file_exists(out)) file_delete(out)
+cli_h1("Smoke test on selected wiki")
+out <- file.path(DATA_DIR, paste0("smoke_exturlusage_", LANG, ".parquet"))
 
-res <- run_exturlusage(known_dois, lang = "en", out_path = out, log_every = 1, resume = FALSE)
+res <- run_exturlusage(known_dois, lang = LANG, out_path = out, log_every = 1, resume = TRUE)
 
 cat("\n=== Results ===\n")
 res |>

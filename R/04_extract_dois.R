@@ -1,4 +1,4 @@
-source("/Users/lukaswallrich/Documents/Coding/flora-wikipedia/R/00_config.R")
+source(file.path(Sys.getenv("FLORA_PROJECT_ROOT", unset = getwd()), "R/00_config.R"))
 
 DOI_RE <- regex("10\\.[0-9]{4,9}/[^\\s|}\\]<>\"'\\\\)]+", ignore_case = TRUE)
 
@@ -36,8 +36,8 @@ extract_dois_for_page <- function(lang, pageid) {
   extract_dois_from_text(text)
 }
 
-build_article_dois <- function() {
-  pages <- dir_ls(WIKITEXT_DIR, recurse = TRUE, type = "file", glob = "*.txt")
+build_article_dois <- function(lang = LANG) {
+  pages <- dir_ls(file.path(WIKITEXT_DIR, lang), recurse = TRUE, type = "file", glob = "*.txt")
   cli_alert_info("Extracting DOIs from {length(pages)} cached articles")
 
   rows <- map(pages, function(p) {
@@ -50,5 +50,7 @@ build_article_dois <- function() {
     tibble(lang = lang, pageid = pageid, doi = dois)
   })
 
+  if (!length(rows) || all(vapply(rows, is.null, logical(1))))
+    return(tibble(lang = character(), pageid = integer(), doi = character()))
   bind_rows(rows)
 }

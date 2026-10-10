@@ -1,8 +1,8 @@
-source("/Users/lukaswallrich/Documents/Coding/flora-wikipedia/R/03_wikitext.R")
-source("/Users/lukaswallrich/Documents/Coding/flora-wikipedia/R/05_audit.R")
+source(file.path(Sys.getenv("FLORA_PROJECT_ROOT", unset = getwd()), "R/03_wikitext.R"))
+source(file.path(Sys.getenv("FLORA_PROJECT_ROOT", unset = getwd()), "R/05_audit.R"))
 
 cli_h1("Stage 2: fetch wikitext for candidate pages")
-hits <- read_parquet(file.path(DATA_DIR, "exturlusage_en.parquet")) |>
+hits <- read_parquet(file.path(DATA_DIR, paste0("exturlusage_", LANG, ".parquet"))) |>
   filter(!is.na(pageid))
 fetch_all_wikitext(hits)
 

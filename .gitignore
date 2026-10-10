@@ -5,3 +5,8 @@
 *.Rproj
 .DS_Store
 logs/
+
+# Resumable audit products are retained locally; distribute as private archives.
+runs/
+
+__pycache__/

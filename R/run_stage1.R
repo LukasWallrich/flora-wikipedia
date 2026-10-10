@@ -1,14 +1,14 @@
-source("/Users/lukaswallrich/Documents/Coding/flora-wikipedia/R/02_exturlusage.R")
+source(file.path(Sys.getenv("FLORA_PROJECT_ROOT", unset = getwd()), "R/02_exturlusage.R"))
 
 unique_dois <- read_parquet(file.path(DATA_DIR, "unique_dois.parquet"))
 
 cli_h1("Stage 1: exturlusage on enwiki ({nrow(unique_dois)} DOIs)")
 
-out_path <- file.path(DATA_DIR, "exturlusage_en.parquet")
+out_path <- file.path(DATA_DIR, paste0("exturlusage_", LANG, ".parquet"))
 
 res <- run_exturlusage(
   dois     = unique_dois$doi,
-  lang     = "en",
+  lang     = LANG,
   out_path = out_path,
   log_every = 100,
   resume   = TRUE

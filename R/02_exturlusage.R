@@ -1,157 +1,90 @@
-source("/Users/lukaswallrich/Documents/Coding/flora-wikipedia/R/00_config.R")
+source(file.path(Sys.getenv("FLORA_PROJECT_ROOT", unset = getwd()), "R/00_config.R"))
 
-api_url <- function(lang) glue("https://{lang}.wikipedia.org/w/api.php")
-
+api_url <- function(lang = LANG) {
+  if (length(lang) != 1L || !grepl("^[a-z]{2,3}$", lang)) stop("Invalid language")
+  paste0("https://", lang, ".wikipedia.org/w/api.php")
+}
+is_mw_transient <- function(resp) {
+  if (resp_status(resp) %in% c(429, 500, 502, 503, 504)) return(TRUE)
+  if (resp_status(resp) != 200) return(FALSE)
+  body <- tryCatch(resp_body_json(resp), error = function(e) NULL)
+  !is.null(body$error$code) && body$error$code %in% c("maxlag", "ratelimited", "readonly")
+}
 mw_request <- function(lang) {
+  assert_live()
   request(api_url(lang)) |>
     req_user_agent(USER_AGENT) |>
-    req_throttle(rate = 180 / 60) |>
-    req_retry(
-      max_tries = 5,
-      backoff = ~ min(2^.x, 30),
-      is_transient = function(resp) {
-        status <- resp_status(resp)
-        if (status %in% c(429, 503)) return(TRUE)
-        if (status == 200) {
-          body <- tryCatch(resp_body_json(resp), error = function(e) NULL)
-          if (!is.null(body$error$code) && body$error$code == "maxlag") return(TRUE)
-        }
-        FALSE
-      }
-    )
+    req_timeout(45) |>
+    req_throttle(capacity = 1, fill_time_s = 0.5, realm = "flora-wikimedia") |>
+    req_retry(max_tries = 5, retry_on_failure = TRUE,
+              backoff = ~ min(2^.x, 30), is_transient = is_mw_transient)
 }
-
-exturl_one <- function(lang, query, max_pages = 5) {
-  hits <- list()
-  eu_offset <- NULL
-
+mw_body <- function(resp) {
+  body <- resp_body_json(resp)
+  if (!is.null(body$error)) stop("MediaWiki error: ", body$error$code)
+  if (is.null(body$query)) stop("Malformed MediaWiki response")
+  body
+}
+exturl_one <- function(lang, query, protocol = "", max_pages = 1000) {
+  hits <- list(); continuation <- list()
   for (i in seq_len(max_pages)) {
-    params <- list(
-      action      = "query",
-      list        = "exturlusage",
-      euquery     = query,
-      eulimit     = "500",
-      euprotocol  = "https",
-      eunamespace = "0",
-      format      = "json",
-      maxlag      = "5"
-    )
-    if (!is.null(eu_offset)) params$euoffset <- eu_offset
-
-    resp <- mw_request(lang) |>
-      req_url_query(!!!params) |>
-      req_perform()
-
-    body <- resp_body_json(resp)
-
-    if (!is.null(body$error)) {
-      cli_alert_warning("API error for query={query} on {lang}: {body$error$code}")
-      break
-    }
-
-    chunk <- body$query$exturlusage
-    if (length(chunk) > 0) hits <- c(hits, chunk)
-
-    if (is.null(body$continue$euoffset)) break
-    eu_offset <- body$continue$euoffset
+    params <- c(list(action = "query", list = "exturlusage", euquery = query,
+      eulimit = "500", euprotocol = protocol, eunamespace = "0",
+      format = "json", maxlag = "5"), continuation)
+    resp <- mw_request(lang) |> req_url_query(!!!params) |> req_perform()
+    body <- mw_body(resp)
+    hits <- c(hits, body$query$exturlusage)
+    if (is.null(body$continue)) return(hits)
+    continuation <- body$continue
   }
-
-  hits
+  stop("Pagination limit reached; query remains incomplete")
 }
-
-# Wikipedia's {{cite}} templates URL-encode the DOI's `/` to `%2F`.
-# Many older citations store the literal `/`. Query both forms and dedupe.
-# Also include `dx.doi.org` aliases.
 doi_query_variants <- function(doi) {
   encoded <- str_replace_all(doi, "/", "%2F")
-  unique(c(
-    paste0("doi.org/", doi),
-    paste0("doi.org/", encoded)
-  ))
+  unique(c(paste0("doi.org/", doi), paste0("doi.org/", encoded),
+           paste0("dx.doi.org/", doi), paste0("dx.doi.org/", encoded)))
 }
-
 exturl_for_doi <- function(lang, doi) {
-  variants <- doi_query_variants(doi)
-  hits <- unlist(lapply(variants, function(q) exturl_one(lang, q)), recursive = FALSE)
-
-  if (length(hits) == 0) {
-    return(tibble(
-      lang = character(), doi = character(),
-      pageid = integer(), page_title = character(),
-      url_hit = character()
-    ))
-  }
-
-  tibble(
-    lang       = lang,
-    doi        = doi,
-    pageid     = map_int(hits, "pageid"),
-    page_title = map_chr(hits, "title"),
-    url_hit    = map_chr(hits, "url")
-  ) |> distinct(pageid, .keep_all = TRUE)
+  hits <- list()
+  for (q in doi_query_variants(doi)) hits <- c(hits, exturl_one(lang, q, ""))
+  if (length(hits) == 0) return(tibble(lang = character(), doi = character(),
+    pageid = integer(), page_title = character(), url_hit = character()))
+  tibble(lang = lang, doi = doi, pageid = map_int(hits, "pageid"),
+    page_title = map_chr(hits, "title"), url_hit = map_chr(hits, "url")) |>
+    distinct(pageid, .keep_all = TRUE)
 }
-
-run_exturlusage <- function(dois, lang = "en", out_path,
+run_exturlusage <- function(dois, lang = LANG, out_path,
                             log_every = 50, resume = TRUE) {
   dir_create(dirname(out_path))
-
-  done <- character()
-  if (resume && file_exists(out_path)) {
-    prev <- read_parquet(out_path)
-    done <- unique(prev$doi_query)
-    cli_alert_info("Resuming: {length(done)} DOIs already queried")
-  } else {
-    prev <- tibble(
-      lang = character(), doi_query = character(), doi = character(),
-      pageid = integer(), page_title = character(), url_hit = character(),
-      n_hits = integer()
-    )
-  }
-
+  results <- if (resume && file_exists(out_path)) read_parquet(out_path) else
+    tibble(lang = character(), doi_query = character(), doi = character(),
+      pageid = integer(), page_title = character(), url_hit = character(), n_hits = integer())
+  if (nrow(results) && any(results$lang != lang)) stop("Cache language mismatch")
+  done <- unique(results$doi_query)
   todo <- setdiff(dois, done)
-  cli_alert_info("To query on {lang}: {length(todo)} DOIs")
-
-  if (length(todo) == 0) return(invisible(prev))
-
-  start <- Sys.time()
-  results <- prev
-  buffer <- list()
-  flush_every <- 100
-
+  cli_alert_info("To query on {lang}: {length(todo)} DOIs ({length(done)} cached)")
+  failures <- list()
   for (i in seq_along(todo)) {
     doi <- todo[i]
-
-    res <- tryCatch(
-      exturl_for_doi(lang, doi),
-      error = function(e) {
-        cli_alert_warning("Failed for {doi}: {conditionMessage(e)}")
-        tibble()
-      }
-    )
-
-    row <- if (nrow(res) > 0) {
-      mutate(res, doi_query = doi, n_hits = nrow(res)) |>
-        select(lang, doi_query, doi, pageid, page_title, url_hit, n_hits)
-    } else {
-      tibble(lang = lang, doi_query = doi, doi = doi,
-             pageid = NA_integer_, page_title = NA_character_,
-             url_hit = NA_character_, n_hits = 0L)
-    }
-    buffer[[length(buffer) + 1]] <- row
-
-    if (i %% log_every == 0 || i == length(todo)) {
-      elapsed <- as.numeric(difftime(Sys.time(), start, units = "mins"))
-      rate    <- i / max(elapsed, 0.01)
-      eta_min <- (length(todo) - i) / max(rate, 0.01)
-      cli_alert_info("[{i}/{length(todo)}] {round(rate, 1)} DOIs/min, ETA {round(eta_min, 1)} min")
-    }
-
-    if (i %% flush_every == 0 || i == length(todo)) {
-      results <- bind_rows(results, bind_rows(buffer))
-      write_parquet(results, out_path)
-      buffer <- list()
-    }
+    res <- tryCatch(exturl_for_doi(lang, doi), error = function(e) {
+      failures[[length(failures) + 1L]] <<- list(doi = doi, error = conditionMessage(e))
+      NULL
+    })
+    if (is.null(res)) next # A failed request is never a negative result.
+    row <- if (nrow(res)) mutate(res, doi_query = doi, n_hits = nrow(res)) |>
+      select(lang, doi_query, doi, pageid, page_title, url_hit, n_hits) else
+      tibble(lang = lang, doi_query = doi, doi = doi, pageid = NA_integer_,
+        page_title = NA_character_, url_hit = NA_character_, n_hits = 0L)
+    row$queried_at <- format(Sys.time(), tz = "UTC", usetz = TRUE)
+    results <- bind_rows(results, row)
+    write_parquet(results, out_path) # checkpoint every completed DOI, including zero hits
+    if (i %% log_every == 0 || i == length(todo)) cli_alert_info("[{i}/{length(todo)}] DOIs completed")
   }
-
+  if (!file_exists(out_path)) write_parquet(results, out_path)
+  if (length(failures)) {
+    write_json(failures, paste0(out_path, ".errors.json"), pretty = TRUE, auto_unbox = TRUE)
+    stop(length(failures), " DOI queries failed; rerun to resume. See .errors.json")
+  }
+  if (file_exists(paste0(out_path, ".errors.json"))) file_delete(paste0(out_path, ".errors.json"))
   invisible(results)
 }

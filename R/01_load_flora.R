@@ -1,14 +1,19 @@
-source("/Users/lukaswallrich/Documents/Coding/flora-wikipedia/R/00_config.R")
+source(file.path(Sys.getenv("FLORA_PROJECT_ROOT", unset = getwd()), "R/00_config.R"))
 
 FLORA_URL <- "https://raw.githubusercontent.com/forrtproject/FReD-data/main/output/flora.csv"
 FLORA_CSV <- file.path(DATA_DIR, "flora.csv")
 
 if (!file_exists(FLORA_CSV)) {
+  assert_live()
   cli_alert_info("Downloading flora.csv...")
   download.file(FLORA_URL, FLORA_CSV, quiet = TRUE)
 }
 
 flora_raw <- read_csv(FLORA_CSV, show_col_types = FALSE, na = c("", "NA"))
+
+# Current FLoRA no longer supplies these optional fields. Preserve absence as NA.
+if (!"self_identified_replication" %in% names(flora_raw)) flora_raw$self_identified_replication <- NA
+if (!"replication_intent_confidence" %in% names(flora_raw)) flora_raw$replication_intent_confidence <- NA_character_
 
 flora <- flora_raw |>
   mutate(

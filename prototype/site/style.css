@@ -215,3 +215,27 @@ table.evidence thead th { text-transform: none; letter-spacing: 0; font-size: .8
 .prose { border: 0; border-radius: 18px; padding: 2.2rem 2.8rem; } .prose h1, .prose h2 { font-family: var(--serif); font-weight: 500; }
 @media (max-width: 1100px) { .layout { padding: 0 .4rem 1rem; gap: 0; } .detail h2 { font-size: 1.8rem; } .top { padding: 1.1rem 1rem .7rem; } .notice { padding: 0 1rem .7rem; } }
 @media (prefers-reduced-motion: reduce) { button, .btn { transition: none; } }
+
+/* tighter pass: keep the editorial type, give back the density */
+.top { padding: .9rem 1.6rem .5rem; } .top h1 { font-size: 1.4rem; } .top .sub { font-size: .86rem; margin-top: .15rem; }
+.notice { padding: 0 1.6rem .6rem; font-size: .86rem; }
+.layout { grid-template-columns: 205px 370px 1fr; height: calc(100vh - 104px); gap: 0 .6rem; }
+.fgroup { margin-top: .9rem; } .fgroup legend, .more summary { font-size: .84rem; } .fgroup label { font-size: .85rem; padding: .15rem 0; }
+.card-btn { padding: .5rem .8rem .45rem; margin-bottom: .35rem; border-radius: 10px; }
+.card-btn .t { font-size: 1.02rem; } .card-btn .m { font-size: .79rem; margin: .1rem 0 .2rem; line-height: 1.35; }
+.badge { font-size: .7rem; padding: .06rem .45rem; }
+.detail { padding: 1.4rem clamp(1rem, 2.5vw, 2.2rem) 2rem; border-radius: 14px; }
+.detail > *, .detail .item > details > * { max-width: 47rem; }
+.detail h2 { font-size: 1.75rem; margin-bottom: .3rem; }
+.revbar { padding: .3rem 0; margin: .5rem 0; font-size: .85rem; }
+.item { margin-top: 1.1rem; padding-top: .6rem; } .item-head { font-size: 1.08rem; }
+.item h4 { margin: 1rem 0 .25rem; font-size: .93rem; }
+.issue blockquote.target, blockquote.target { font-size: 1.06rem; line-height: 1.55; background-size: 100% 1.55em; }
+blockquote.small-q { font-size: .98rem; }
+.proposal, .proposal.edit, .proposal.other { padding: .7rem 1rem; margin-top: .7rem; border-radius: 12px; }
+.proposal p { margin: .35rem 0; } .proposal .verdict strong { font-size: 1.08rem; }
+.proposal > p:not(.small):not(.verdict):not(.twoRun) { font-size: .98rem; }
+.draft { padding: .7rem 1rem; border-radius: 12px; margin: .6rem 0; } .draft p { margin: .3rem 0; }
+.wording { font-size: .98rem; line-height: 1.55; padding: .55rem .8rem; }
+ul.verifs li { margin: .55rem 0; } blockquote.excerpt { font-size: .9rem; margin: .25rem 0 .1rem; }
+.ledger { padding: .8rem 1rem; border-radius: 12px; } .overview { padding: .6rem 1rem; border-radius: 12px; }

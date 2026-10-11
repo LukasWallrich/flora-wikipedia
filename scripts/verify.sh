@@ -15,7 +15,7 @@ python3 -m unittest discover -s tests -p test_wikidata.py > runs/verification/wi
 Rscript tests/test_citation_format.R > runs/verification/citation-format-tests.log 2>&1
 python3 -m py_compile scripts/prepare_adjudication.py scripts/reconcile_wikidata.py
 git diff --check
-git diff --quiet -- data cache output/audit_long.parquet output/citation_contexts.csv output/citation_contexts.parquet output/flora_wikipedia_audit.csv output/flora_wikipedia_audit.parquet output/per_original_summary.csv output/recommendations.csv web/data.json
+git diff --quiet -- data cache output/audit_long.parquet output/citation_contexts.csv output/citation_contexts.parquet output/flora_wikipedia_audit.csv output/flora_wikipedia_audit.parquet output/per_original_summary.csv output/recommendations.csv web/doi-screen/data.json
 python3 - <<'PY'
 import datetime, json, pathlib
 vdir = pathlib.Path('runs/verification')
@@ -36,7 +36,7 @@ record = {
         'R scripts parsed, Python scripts compiled, and git diff --check passed.',
         'Three review-ledger tests passed: dropped evidence preserved, decision reasons and large-project study matching enforced, retired generator rejected.',
         'Institutional and missing author names format without NA.',
-        'Archived data, caches, audit tables, contexts, and web/data.json unchanged.',
+        'Archived data, caches, audit tables, contexts, and web/doi-screen/data.json unchanged.',
     ],
     'remaining_limits': [
         'Full latest-snapshot Spanish results and their own scope/validation are recorded separately under runs/spanish-full-latest/es/output.',

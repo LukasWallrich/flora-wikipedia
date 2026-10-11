@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>The Replication Gap · Wikipedia citation audit</title>
-<meta name="description" content="A list of Wikipedia articles citing original studies that have been replicated — and where the replication is missing. Editor-actionable." />
+<title>Archived FLoRA DOI screening prototype</title>
+<meta name="description" content="Archived DOI screening observations requiring source-led review." />
 
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -14,7 +14,7 @@
 </head>
 <body>
 
-<div class="pilot-banner" role="status">Pilot &middot; English Wikipedia crawl, May 2026</div>
+<div class="pilot-banner" role="status">Archived prototype &middot; May 2026 &middot; historical ordering is not recommended edit priority</div>
 
 <div class="grain"></div>
 
@@ -25,23 +25,20 @@
       <span>FORRT &middot; Wikipedia Citation Audit &middot; <span id="generated-date">May 2026</span></span>
     </div>
     <h1 class="title">
-      <span class="title-line">The</span>
-      <span class="title-line"><em>Replication</em></span>
-      <span class="title-line">Gap</span>
+      <span class="title-line">FLoRA</span>
+      <span class="title-line"><em>DOI</em></span>
+      <span class="title-line">Screen</span>
     </h1>
     <p class="dek">
-      Of <strong>422 unique studies</strong> in
-      <strong>FLoRA</strong> (FORRT Library of Replication Attempts, formerly
-      FReD) that English Wikipedia cites, only <strong>12.8%</strong> also cite
-      the replication. The list below is the highest-impact gaps — Wikipedia
-      articles that cite an original finding where the published replication is
-      not yet cited. Each entry links the sources an editor needs to add the
-      replication.
+      Of <strong>422 unique original studies</strong> detected on English Wikipedia,
+      <strong>54 (12.8%)</strong> had at least one page containing a replication DOI.
+      This is a percentage of originals, not of individual citations.
+      The cards identify pairs without a detected replication DOI for human review.
+      Replications may be acknowledged through DOI-free references or secondary sources.
     </p>
 
     <p class="community-note">
-      Suggestions are starting points for editors: all changes are made by
-      people, following Wikipedia's sourcing and neutrality policies.
+      Archived observations are retained for provenance. Outcome-ranked insertion advice is retired; review article scope, citation function and current sources before deciding to act, drop or defer. No edit or sentence-copy controls are enabled.
     </p>
 
     <div class="byline">
@@ -72,9 +69,9 @@
     <div class="control-block">
       <label class="control-label">Replication outcome</label>
       <div class="chip-group" id="outcome-filter" role="group">
-        <button class="chip chip-failed" data-value="failed" aria-pressed="true">Not replicated</button>
-        <button class="chip chip-mixed" data-value="mixed" aria-pressed="true">Mixed evidence</button>
-        <button class="chip chip-successful" data-value="successful" aria-pressed="true">Replicated</button>
+        <button class="chip chip-failed" data-value="failed" aria-pressed="true">FLoRA: failed</button>
+        <button class="chip chip-mixed" data-value="mixed" aria-pressed="true">FLoRA: mixed</button>
+        <button class="chip chip-successful" data-value="successful" aria-pressed="true">FLoRA: successful</button>
       </div>
     </div>
 
@@ -88,30 +85,29 @@
     <div class="control-block control-block-end">
       <label class="control-label" for="sort">Sort by</label>
       <select id="sort">
-        <option value="score">Priority score</option>
         <option value="rep_citations">Replication citations</option>
         <option value="orig_citations">Original citations</option>
-        <option value="article">Wikipedia article (A→Z)</option>
+        <option value="article" selected>Wikipedia article (A→Z)</option>
       </select>
     </div>
   </div>
 
   <div class="counters">
-    <span><strong id="count-shown">—</strong> recommendations shown</span>
+    <span><strong id="count-shown">—</strong> archived observations shown</span>
     <span class="counters-sep">·</span>
     <span id="count-by-outcome"></span>
   </div>
 </section>
 
 <main class="feed" id="feed">
-  <p class="loading">Loading recommendations…</p>
+  <p class="loading">Loading archived observations…</p>
 </main>
 
 <footer class="footer">
   <p>
     Pilot crawl, English Wikipedia, May 2026. DOI string match only — citations
-    in prose without a DOI are not detected. The 12.8% co-citation rate is
-    an upper bound; see the
+    in prose without a DOI are not detected. The 12.8% rate counts originals with any DOI co-citing page;
+    substantive acknowledgement remains unaudited. See the
     <a href="REPORT.md" target="_blank" rel="noopener">full report</a>
     for caveats.
   </p>

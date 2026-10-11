@@ -14,9 +14,17 @@ FReD project). Crawled 2026-05-05.
 | Distinct citing enwiki articles | 798 | — |
 | Total (article × DOI) hit rows | 1,041 | — |
 
-**The plain reading: when an enwiki article cites a study that has been
-replicated, it acknowledges the replication in only ~13% of cases.** The
-remaining ~87% of citations stand alone.
+**Denominator correction (October 2026).** The 54/422 (12.8%) measure counts
+unique originals with at least one co-citing page. It is not the share of
+individual citations or pages that acknowledge replications. A replay of the
+archived cache yields 66/847 (7.8%) article–original combinations containing
+at least one paired replication DOI. Of 798 candidate pages discovered via
+either role's DOI, 700 contain a detected original DOI in the scoped pairs.
+The 1,041 hit rows count discovery page–DOI matches across both roles.
+
+A missing replication DOI does not establish that the article fails to
+acknowledge evidence. DOI-free references and secondary sources may discuss
+replications. Both DOI presence and absence require substantive review.
 
 ## By replication outcome
 
@@ -36,13 +44,14 @@ Two patterns worth noting:
    draws editorial attention.
 2. **Once on Wikipedia, failed replications are co-cited slightly more often**
    than successful replications (16% vs 12%). But the gap is small and the
-   majority case (84% of originals with a *failed* replication) still presents
-   the original finding without acknowledging the failure.
+   remaining 84% of detected originals with a failed replication have no
+   detected paired replication DOI on any candidate page. Acknowledgement
+   through other references remains unaudited.
 
 These percentages are first-pass estimates; significance testing and
 sensitivity to the "worst outcome" rule are not in this pilot.
 
-## Top 15 originals on Wikipedia where the replication is *missing*
+## Top 15 originals without a detected paired replication DOI
 
 (Ranked by number of enwiki articles citing the original.)
 
@@ -64,17 +73,13 @@ sensitivity to the "worst outcome" rule are not in this pilot.
 | 10.1037/0022-3514.94.2.245 | successful | 5 | Physical …, … |
 | 10.1038/nature01647 | failed | 5 | Video games, … |
 
-The Hoffman et al. (2016) racial-pain-bias paper (failed replication, 11
-enwiki citations, none acknowledging the failure) and the Bleakley (2007)
-hookworm paper (also failed, 10 citations) are the most actionable cases:
-high-visibility findings with failed replications that Wikipedia is not
-flagging.
+The Hoffman et al. (2016) and Bleakley (2007) papers are candidates for
+context review because they have multiple detected original citations but no
+detected paired replication DOI. This does not show that Wikipedia fails to
+acknowledge contrary evidence. Historical citations such as Stroop, Milgram,
+and Asch also need different adjudication from current empirical claims.
 
-The Stroop test, Milgram obedience, and Asch impressions citations are
-expected — these are foundational papers cited as historical reference, not
-as live empirical claims, so the omission is less problematic.
-
-## Where Wikipedia *does* acknowledge the replication
+## Where both DOI strings are detected
 
 54 originals have at least one replication co-cited. Spot-checked example:
 
@@ -91,23 +96,22 @@ as live empirical claims, so the omission is less problematic.
   Ranehill et al. 2015 (failed replication) — the replication has its own
   section ("Replication failures and meta-analyses").
 
-These are exactly the editorial pattern we'd hope for; they exist, just
-rarely.
+These examples contain both DOI strings. Their substantive treatment of the
+evidence requires reading the surrounding article and sources.
 
 ## Methodology notes / caveats
 
 - **Coverage = enwiki only.** Not yet run for de/fr/es/it/nl/pt/ru/ja/zh.
-  Same crawl × 9 wikis would take ~6 hours and likely add ~50–100 more
-  citing articles (mostly de/fr).
+  October 2026 validation adds a selected Spanish sample (see README);
+  a full multilingual sweep has not been run. No coverage extrapolation is made.
 - **Citation = DOI present in current article wikitext.** No history;
   doesn't tell us whether the citation was added before vs after the
   replication was published. A citation added in 2010 to an original
   whose replication was published in 2020 is not necessarily editorial
-  neglect — the editor has to come back and update. This is a real
-  limitation of the present pilot.
+  neglect. Revision and citation histories remain unaudited.
 - **DOI string match only.** A study could be discussed in prose without
-  a structured citation; we'd miss that. Conversely, false positives are
-  unlikely — DOIs are unique.
+  a structured citation; we would miss that. DOI uniqueness does not establish
+  substantive citation relevance, and matching/extraction can also fail.
 - **URL-encoding.** Wikipedia stores cite-template DOIs with `/` →
   `%2F`. We query both forms. ~5% of legacy SICI DOIs (with `<>;()`)
   may still be missed; flagged but not corrected here.
@@ -116,7 +120,7 @@ rarely.
   above use the cleaner per-original view; the raw `flora_wikipedia_audit.csv`
   is per-pair.
 
-## Estimated misses (DOI-based pipeline only catches ~70% of high-cited papers)
+## Supplementary title-search candidates (not an estimated sensitivity)
 
 We pulled OpenAlex `cited_by_count` for every unique DOI in flora (3,223 of
 3,256 matched). Wikipedia presence rises sharply with citation count:
@@ -130,13 +134,14 @@ We pulled OpenAlex `cited_by_count` for every unique DOI in flora (3,223 of
 | 501–1,000 | 160 | 61.3% | 2 |
 | >1,000 | 177 | **72.9%** | 2 |
 
-The top tier (>1,000 citations) achieves only 73% coverage via DOI matching —
-**~27% of very-influential papers are missing from our DOI-based pipeline**.
-Where do they go?
+The 73% is the fraction of high-cited originals detected on Wikipedia,
+not the sensitivity of the DOI pipeline: the remaining studies may be absent
+from Wikipedia. A representative, manually verified reference standard would
+be needed to estimate sensitivity.
 
 We took the 50 highest-cited originals NOT found via DOI lookup and searched
-enwiki by title. **16 of 50 (32%) returned plausible matches** — i.e., the
-paper is mentioned in some Wikipedia article but without a DOI link.
+enwiki by title. **16 of 50 (32%) returned plausible matches** — these are
+search candidates, not 16 verified DOI-free citations.
 Spot-checked: Meltzoff & Moore 1977 *Imitation of facial and manual gestures*
 (3,220 OpenAlex citations) appears on the *Andrew N. Meltzoff* Wikipedia
 article but with no DOI in any extlink. Confirmed miss.
@@ -153,23 +158,11 @@ article but with no DOI in any extlink. Confirmed miss.
 
 (Full list: `output/candidate_misses_by_title.csv`.)
 
-**Implications.**
-
-1. The 23.5% headline coverage rate is a lower bound. Adjusting for the
-   ~30% miss rate among high-cited papers, the *true* fraction of flora
-   originals appearing on enwiki is plausibly **30–35%**.
-2. If originals are missed, replications are too. The 12.8% co-citation
-   rate is therefore likely an over-estimate, not under: the missed
-   citations are disproportionately to *originals* (which have famous
-   names) rather than replications (which usually don't), so finding
-   the original via title-search wouldn't necessarily uncover the
-   replication on the same page. Rough guess: true co-citation rate is
-   in the 8–12% range.
-3. To genuinely close the gap we'd need to combine DOI-matching with
-   title/author/year matching against article wikitext — feasible
-   given we already cache the wikitext for the candidate set, and
-   could be extended to a broader enwiki sweep using a title-similarity
-   index.
+**Interpretation limits.** Title searches produced candidates for review,
+not a validated miss rate. We cannot infer a corrected 30–35% coverage rate
+or an 8–12% co-citation rate from these data. Either role can be missed, so
+the direction of bias in co-citation is unknown. Title/author/year matching
+and manual review would be needed before making those estimates.
 
 ## Output files
 
@@ -191,17 +184,13 @@ article but with no DOI in any extlink. Confirmed miss.
   article (useful for alternative join strategies).
 - `cache/wikitext/en/{pageid}.txt` — raw wikitext (798 articles).
 
-## Suggested next steps
+## Next steps and October 2026 implementation
 
-1. **Extend to other language editions.** Same pipeline, change `lang`
-   parameter. ~6 hours wall-clock for the 9 additional wikis. Likely
-   marginal gain on the headline numbers but could surface a different
-   editorial culture in de/fr.
-2. **Add citation-add-date.** Use the article history (or Crossref Event
-   Data) to determine *when* each DOI was first added. A citation added
-   before the replication was published is exonerated; one added after
-   is genuinely an editorial gap.
-3. **Top-of-list outreach.** The high-traffic articles citing failed
-   replications without acknowledgement (Hoffman 2016 racial-pain-bias,
-   Bleakley hookworm, Bargh priming) are concrete candidates for a
-   WikiProject Psychology / Sociology talk-page note.
+The safe runner now supports English and Spanish, namespaces run products,
+checkpoints successful queries, leaves errors pending, records revision/time
+provenance for new pages, and exports raw contexts plus adjudication packets.
+The archived English audit is unchanged, and the selected Spanish sample is a
+functionality validation. Full Spanish discovery, citation histories,
+DOI-free sources, and substantive acknowledgement remain unaudited. See the
+README for commands, timings, and private review outputs. No Wikipedia edits
+or external messages were made.

@@ -59,7 +59,7 @@ metadata fields; the loader retains those as NA without imputing labels.
 
 New products live under `runs/<run>/<en|es>/{data,cache,output}`. Language
 namespaces isolate overlapping page IDs and files. Existing `data/`, `cache/`,
-`output/`, and `web/data.json` are archived pilot products; the new runner never
+`output/`, and `web/doi-screen/data.json` are archived pilot products; the new runner never
 writes to them. `--legacy` explicitly copies the English archive into a new
 namespace and retains its narrower discovery coverage. Legacy individual
 stage scripts remain available from the repository root, but can overwrite

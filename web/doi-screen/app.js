@@ -7,16 +7,16 @@ const state = {
   outcomes: new Set(['failed', 'mixed', 'successful']),
   sources: new Set(),     // populated after data load (all sources active)
   sourcesAll: [],
-  sort: 'score',
+  sort: 'article',
 };
 
 /* Display labels for outcome categories. Underlying keys stay
    failed/mixed/successful; only the user-facing wording avoids binary
    "replicated/failed" framing. */
 const OUTCOME_LABEL = {
-  failed: 'Not replicated',
-  mixed: 'Mixed evidence',
-  successful: 'Replicated',
+  failed: 'FLoRA: failed',
+  mixed: 'FLoRA: mixed',
+  successful: 'FLoRA: successful',
 };
 
 const $ = (sel) => document.querySelector(sel);
@@ -146,9 +146,8 @@ function apply() {
         return (b.original?.citations || 0) - (a.original?.citations || 0);
       case 'article':
         return a.page_title.localeCompare(b.page_title);
-      case 'score':
       default:
-        return (b.score || 0) - (a.score || 0);
+        return a.page_title.localeCompare(b.page_title);
     }
   });
 
@@ -214,11 +213,6 @@ function cardHtml(r, staggerIdx) {
     ? `<div class="card-section-hint">In section: ${escapeHtml(r.section_in_article)}</div>`
     : '';
 
-  const sentenceId = `sentence-${r.rank}`;
-  const refId      = `ref-${r.rank}`;
-  const sentence   = r.sentence_suggestion || '';
-  const cite       = r.cite_template || '';
-
   const outcomeLabel = OUTCOME_LABEL[r.outcome] || (r.outcome || '');
 
   const cleanedExcerpt = cleanWikitext(r.paragraph_excerpt);
@@ -234,7 +228,7 @@ function cardHtml(r, staggerIdx) {
       <header class="card-head">
         <div>
           <div class="card-rank">
-            <span class="card-rank-num">#${r.rank}</span>
+            <span class="card-rank-num">#${r.rank} (historical order)</span>
             <span>${escapeHtml((r.lang || 'en').toUpperCase())}.WIKIPEDIA</span>
           </div>
           <h2 class="card-title">
@@ -245,7 +239,7 @@ function cardHtml(r, staggerIdx) {
         <div class="card-actions">
           <span class="outcome-badge" data-outcome="${escapeHtml(r.outcome)}">${escapeHtml(outcomeLabel)}</span>
           ${r.source ? `<span class="source-badge">${escapeHtml(r.source)}</span>` : ''}
-          <a class="btn-edit" href="${escapeHtml(r.edit_url)}" target="_blank" rel="noopener">Edit</a>
+
         </div>
       </header>
 
@@ -265,7 +259,7 @@ function cardHtml(r, staggerIdx) {
         </section>
 
         <section class="work work-rep" data-outcome="${escapeHtml(r.outcome)}">
-          <div class="work-label"><span class="work-label-icon"></span>Missing &mdash; replication</div>
+          <div class="work-label"><span class="work-label-icon"></span>Paired replication &mdash; DOI not detected</div>
           <div class="work-byline">
             <strong>${escapeHtml(rep.short || '—')}</strong>
             ${rep.year ? ` · ${escapeHtml(rep.year)}` : ''}
@@ -280,31 +274,6 @@ function cardHtml(r, staggerIdx) {
       </div>
 
       <div class="suggest">
-        ${sentence ? `
-          <div class="suggest-block">
-            <div class="suggest-marker">Sentence</div>
-            <div class="suggest-content">
-              <p class="suggest-text" id="${sentenceId}" data-text="${escapeHtml(sentence)}">${escapeHtml(sentence)}</p>
-              <div class="suggest-buttons">
-                <button class="btn btn-copy" data-target="${sentenceId}">Copy sentence</button>
-              </div>
-            </div>
-          </div>
-        ` : ''}
-
-        ${cite ? `
-          <div class="suggest-block">
-            <div class="suggest-marker">Wikitext &lt;ref&gt;</div>
-            <div class="suggest-content">
-              <pre class="cite-block" id="${refId}" data-text="${escapeHtml(cite)}">${escapeHtml(cite)}</pre>
-              <div class="suggest-buttons">
-                <button class="btn btn-copy" data-target="${refId}">Copy &lt;ref&gt;</button>
-                <a class="btn" href="${escapeHtml(r.edit_url)}" target="_blank" rel="noopener">Open editor ↗</a>
-              </div>
-            </div>
-          </div>
-        ` : ''}
-
         ${excerpt}
       </div>
     </article>

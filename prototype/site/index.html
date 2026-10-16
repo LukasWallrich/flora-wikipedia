@@ -30,38 +30,108 @@
 
 <div id="welcome" class="modal" role="dialog" aria-modal="true" aria-labelledby="welcome-title" hidden>
   <div class="modal-box">
-    <h2 id="welcome-title">Before you start</h2>
-    <p>Each card looks at one Wikipedia article and every study on it that others have tried to replicate (from FORRT's
-      database of replication attempts). An AI model read the article and the papers we could get, and suggested
-      what, if anything, should change. <strong>How to use it:</strong> read the card, check the sources, make any
-      edit on Wikipedia itself in another tab, then come back and record what you did.</p>
-    <ul class="welcome-list">
-      <li><strong>The AI wording is not for pasting.</strong> English Wikipedia bans AI-written article text, and other
-        editors may collapse talk-page comments that are obviously AI-written. Read the sources and write your own text.</li>
-      <li><strong>"No change needed" is a common, useful answer.</strong> A failed replication does not make a sentence
-        wrong: many articles cite a study for its history or already discuss the replication.</li>
-      <li><strong>Start with "Adds a replication".</strong> Our main aim is to bring replication evidence into
-        articles that lack it. The first tab lists the cards whose suggested edit would cite a replication the article
-        does not cite yet. Other corrections we noticed along the way are useful but secondary; they are under the other tabs.</li>
-      <li><strong>Labels.</strong> "Edit suggested" means the article says something its source does not support, or
-        leaves out a replication that bears on a claim it makes. "Optional addition" means the article is accurate and
-        the extra sentence is up to you. "Judgement call" means two independent drafting runs disagreed. "Minor notes" means no change to the text is suggested, but the card lists small things such as a reference typo or material that belongs in another article.</li>
-      <li><strong>Cards are snapshots.</strong> Use "Changes since this snapshot" or "Check now" to see whether someone
-        has already edited the article.</li>
-      <li><strong>"What we checked"</strong> lists the facts the model verified against the papers, each with the
-        quoted passage. Your part is the editorial judgement and writing, not re-checking facts; but if a quote looks
-        wrong, say so in your notes.</li>
-      <li><strong>Reviews outweigh single studies.</strong> One replication can support a short, attributed sentence;
-        claims about "the evidence" need a review. Take extra care with living people and health topics (flagged).
-        If unsure, raise it on the talk page or mark "needs more checking".</li>
-      <li><strong>Your records stay in this browser.</strong> Add your initials in the toolbar and use Export CSV or
-        Export JSON to save or share them.</li>
-    </ul>
-    <p class="small">These are AI suggestions, not yet checked by people. More detail:
-      <a href="guide.html">contributor workflow</a> · <a href="about.html">method &amp; coverage</a>.</p>
+    <p class="steps small" id="step-count" aria-live="polite"></p>
+    <section class="step">
+      <h2 id="welcome-title">Before you start</h2>
+      <p>Each card looks at one Wikipedia article and every study on it that others have tried to replicate (from FORRT's
+        database of replication attempts). An AI model read the article and the papers we could get, and suggested
+        what, if anything, could change.</p>
+      <p><strong>How to use it:</strong> read the card, read the sources, make any edit on Wikipedia itself in another
+        tab, then come back and record what you did.</p>
+      <ul class="welcome-list">
+        <li><strong>Write in your own words.</strong> English Wikipedia bans AI-written article text, and other editors
+          may collapse talk-page comments that are obviously AI-written.</li>
+        <li><strong>The suggestions are AI output, not yet checked by people.</strong> You decide what, if anything, to do.</li>
+        <li><strong>"No change needed" is a common, useful answer.</strong> A failed replication does not make a sentence
+          wrong: many articles cite a study for its history or already discuss the replication.</li>
+      </ul>
+    </section>
+    <section class="step" hidden>
+      <h2>Finding a card</h2>
+      <p>The tabs above the list sort the articles by what the AI suggested.</p>
+      <dl class="legend">
+        <dt>Adds a replication</dt><dd>Start here. The suggested edit cites a replication that the article does not cite
+          yet. This is our main aim; the other corrections we noticed along the way are useful but secondary.</dd>
+        <dt>Worth a look</dt><dd>Every card with an edit suggested or a judgement call, whether or not it involves a replication.</dd>
+        <dt><span class="badge edit">Edit suggested</span></dt><dd>The article says something its source does not
+          support, or leaves out a replication that tested a claim it makes.</dd>
+        <dt><span class="badge warn">Judgement call</span></dt><dd>Each article was drafted twice, independently, and
+          the two runs disagreed. The card shows both readings.</dd>
+        <dt><span class="badge info">Optional addition</span></dt><dd>The article is accurate; adding the extra
+          sentence is up to you.</dd>
+        <dt><span class="badge none">No change needed</span></dt><dd>Nothing to change in the text. Some of these also
+          carry <span class="badge">Minor notes</span>: small things such as a typo in a reference, or material that
+          belongs in another article.</dd>
+      </dl>
+      <p>Other labels on the list: <span class="badge repl">Adds a replication</span> (as above, shown alongside the
+        kind of suggestion), <span class="badge care">Living person</span> and <span class="badge care">Health</span>
+        (extra care, see later), <span class="badge warn">Edited since</span> (the article changed after our snapshot)
+        and <span class="badge done">✓ reviewed</span> (you have recorded a decision).</p>
+    </section>
+    <section class="step" hidden>
+      <h2>Reading a card</h2>
+      <p>A card has one section per study. Each section runs from the article to the evidence:</p>
+      <dl class="legend">
+        <dt>The sentence at issue</dt><dd>Quoted from the article snapshot with its citations:
+          <span class="cite focal">[this study]</span>, <span class="cite paired">[replication]</span> and
+          <span class="cite other">[other source]</span>. Hover over a citation to see the full reference. Some
+          suggestions are about a claim the cited study does not support rather than about a replication.</dd>
+        <dt>The suggestion</dt><dd>What the AI proposes and why, and whether the two drafting runs agreed.</dd>
+        <dt>What we checked</dt><dd>The facts the suggestion relies on, each with the passage from the paper. Points are
+          supported by the source unless marked <span class="badge bad">✗ Contradicted</span>,
+          <span class="badge bad">✗ Not in the source</span> or <span class="badge warn">? Source not obtained</span>.
+          Papers were read in full unless marked <span class="lvl abs">Abstract only</span> or
+          <span class="lvl thin">Title and details only</span>.</dd>
+        <dt>Your call</dt><dd>The editorial questions the AI could not settle. Tick them off as you go.</dd>
+        <dt>The studies</dt><dd>The original study and its replications, with links and what the AI read of each.</dd>
+        <dt>Suggested points to cover</dt><dd>Facts from the sources that an edit could draw on.</dd>
+      </dl>
+    </section>
+    <section class="step" hidden>
+      <h2>Reading a replication</h2>
+      <p>A replication repeats an earlier study to see whether its result holds. What it tells you depends on how it was done.</p>
+      <ul class="welcome-list">
+        <li><strong>Did it test the same claim?</strong> A <em>direct</em> replication repeats the original method as
+          closely as it can; a <em>conceptual</em> one tests the same idea another way. A replication may also cover
+          only one experiment in a paper. Check that it tested the claim the article makes (the card's "How this
+          suggestion was made" section gives the AI's view).</li>
+        <li><strong>One study settles little either way.</strong> A failed replication does not show that the original
+          finding was false, and a successful one does not prove it true. Larger samples, preregistered designs and
+          multi-lab projects (such as Many Labs or Registered Replication Reports) carry more weight than a single
+          small study.</li>
+        <li><strong>Mixed results are common.</strong> Avoid words such as "debunked" or "confirmed". Say what was
+          done and found, and who did it: "A 2012 replication with 120 participants did not find the effect."</li>
+        <li><strong>Reviews outweigh single studies.</strong> One replication can support a short, attributed sentence
+          in an article about the effect. Statements about "the evidence" or whether an effect is real need a review
+          or meta-analysis; the card lists any reviews we found that discuss the replication.</li>
+        <li><strong>Keep due weight.</strong> In a broad article, or where the study is mentioned in passing, making the
+          claim more precise often works better than a new paragraph on replication.</li>
+        <li><strong>The database's labels ("failed", "mixed") are screening labels.</strong> They help us find cards;
+          they are not citable and are not a verdict.</li>
+      </ul>
+    </section>
+    <section class="step" hidden>
+      <h2>Checking, deciding and recording</h2>
+      <ul class="welcome-list">
+        <li><strong>Read the sources yourself.</strong> The AI's quotes match the papers word for word, but that does
+          not mean it understood them. Check anything your edit will rely on, and note in your record if something looks wrong.</li>
+        <li><strong>Cards are snapshots.</strong> Use "Changes since this snapshot" or "Check now" to see whether
+          someone has already edited the article.</li>
+        <li><strong>Take extra care with living people and health topics.</strong> Findings are about studies, not
+          people (WP:BLP); health claims need reviews, not single studies (WP:MEDRS).</li>
+        <li><strong>If you are unsure,</strong> raise it on the article's talk page or record "Needs more checking first".</li>
+        <li><strong>Your records stay in this browser.</strong> Add your initials in the toolbar and use Export CSV or
+          Export JSON to save or share them.</li>
+      </ul>
+      <p class="small">More detail: <a href="guide.html">contributor workflow</a> · <a href="about.html">method &amp; coverage</a>.</p>
+    </section>
     <div class="modal-actions">
       <label><input type="checkbox" id="welcome-hide"> Don't show this again</label>
-      <button type="button" id="welcome-close" class="primary">Start reviewing</button>
+      <span class="row">
+        <button type="button" id="step-back">Back</button>
+        <button type="button" id="step-next" class="primary">Next</button>
+        <button type="button" id="welcome-close">Skip</button>
+      </span>
     </div>
   </div>
 </div>
@@ -90,8 +160,8 @@
   <article id="detail" class="detail" tabindex="-1">
     <div class="placeholder">
       <h2>Pick a card from the list</h2>
-      <p>Cards marked <span class="badge repl">Replication missing</span> are our main focus: the article relies on a
-        study and does not mention a replication that tested it. <button class="linklike" type="button" data-open-help>How this works</button></p>
+      <p>Cards marked <span class="badge repl">Adds a replication</span> are our main focus: the suggested edit cites a
+        replication the article does not cite yet. <button class="linklike" type="button" data-open-help>How this works</button></p>
     </div>
   </article>
 </main>

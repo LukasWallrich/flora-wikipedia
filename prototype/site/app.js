@@ -31,7 +31,7 @@ const DECISIONS = {
 };
 const DECISION_QUEUE = {edit: 'retain', talk: 'retain', no_change: 'drop', later: 'defer', skip: 'defer'};
 const KIND = {edit: ['Edit suggested', 'edit'], judgement: ['Judgement call', 'warn'], optional: ['Optional addition', 'info'],
-  other: ['No change · minor notes', 'other'], none: ['No change needed', 'none']};
+  other: ['No change needed', 'none'], none: ['No change needed', 'none']};
 const STRENGTH = {fix: 'Fix: the article says something the source does not support',
   recommended_addition: 'Add missing evidence: a replication that bears on this claim is not mentioned',
   optional_addition: 'Optional: the article is accurate; this would only add to it', none: 'Nothing to change'};
@@ -41,7 +41,8 @@ const filters = {};
 
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'}[c]));
 const doiLink = d => d && !/^needs/i.test(d) ? `<a href="https://doi.org/${esc(d)}" target="_blank" rel="noopener">doi:${esc(d)}</a>` : '';
-const lvlBadge = l => `<span class="badge ${l === 'full_text' ? 'ok' : l === 'abstract' ? 'info' : 'warn'}">${esc(LEVEL[l] || l)}</span>`;
+// What the model read. In lists, full text is the default and stays unmarked; anything less is named.
+const lvlBadge = (l, quiet) => quiet && l === 'full_text' ? '' : `<span class="lvl ${l === 'full_text' ? '' : l === 'abstract' ? 'abs' : 'thin'}">${esc(LEVEL[l] || l)}</span>`;
 
 
 function itemKind(it) { return it.kind || (EDIT_ACTIONS.has(it.suggestion.proposed_action) ? 'edit' : 'none'); }
@@ -49,15 +50,12 @@ const KORDER = {edit: 0, judgement: 1, optional: 2, other: 3, none: 4};
 function pageKind(p) {
   const ks = p.items.map(itemKind);
   for (const k of ['edit', 'judgement', 'optional']) if (ks.includes(k)) return k;
-  if (p.adjacent.length || p.items.some(it => (it.suggestion.alternatives || []).length)) return 'other';
+  if (p.adjacent.length || p.items.some(it => (it.suggestion.alternatives || []).length)) return 'other';  // no change, minor notes
   return 'none';
 }
-// Our main scope: edits that bring in a replication the page does not yet cite.
-const REPL = {recommended: 'Replication missing from the article', optional: 'Replication could be added (optional)'};
-function pageRepl(p) {
-  const ls = p.items.map(it => it.adds_replication?.level).filter(Boolean);
-  return ls.includes('recommended') ? 'recommended' : ls[0] || null;
-}
+// Our main scope: edits that bring in a replication the page does not yet cite. Whether that edit is
+// recommended or optional is already carried by the kind label, so this is a plain yes/no marker.
+const pageRepl = p => p.items.some(it => it.adds_replication);
 const flags = p => ({blp: p.items.some(i => i.suggestion.flags.blp), medrs: p.items.some(i => i.suggestion.flags.medrs)});
 
 function ledgerGet(id) { try { return JSON.parse(localStorage.getItem(LS + id)) || null; } catch { return null; } }
@@ -68,12 +66,11 @@ const reviewed = p => { const r = ledgerGet(p.page_id); return !!r && p.items.ev
 const SEGMENTS = [
   ['repl', 'Adds a replication', p => !!pageRepl(p)],
   ['worth', 'Worth a look', p => ['edit', 'judgement'].includes(pageKind(p))], ['edit', 'Edit suggested', p => pageKind(p) === 'edit'],
-  ['judgement', 'Judgement call', p => pageKind(p) === 'judgement'], ['optional', 'Optional', p => pageKind(p) === 'optional'], ['other', 'Minor notes', p => pageKind(p) === 'other'],
-  ['none', 'No change', p => pageKind(p) === 'none'], ['all', 'All', () => true]];
+  ['judgement', 'Judgement call', p => pageKind(p) === 'judgement'], ['optional', 'Optional', p => pageKind(p) === 'optional'],
+  ['none', 'No change', p => ['other', 'none'].includes(pageKind(p))], ['all', 'All', () => true]];
 const FACETS = [
   ['mine', 'My progress', p => reviewed(p) ? 'Reviewed' : 'Not reviewed yet', true],
   ['scope', 'Kind of article', p => SCOPE[p.items[0].suggestion.article_scope] || p.items[0].suggestion.article_scope, true],
-  ['repl', 'Replication', p => REPL[pageRepl(p)] || 'Edit is not about a replication', true],
   ['many', 'Studies on the page', p => p.items.length > 1 ? 'Several' : 'One', true],
   ['care', 'Extra care', p => [flags(p).blp && 'Living person (BLP)', flags(p).medrs && 'Health / medical (MEDRS)',
     p.live_check.changed_since_frozen && 'Article edited since'].filter(Boolean), true],
@@ -117,7 +114,7 @@ function renderList() {
       <span class="t">${esc(p.page.title)}</span>
       <span class="m">${esc(studies)}</span>
       <span class="badges"><span class="badge ${cls}">${label}</span>
-      ${pageRepl(p) ? `<span class="badge repl">${pageRepl(p) === 'recommended' ? 'Replication missing' : 'Replication optional'}</span>` : ''}
+      ${pageRepl(p) ? '<span class="badge repl">Adds a replication</span>' : ''}${pageKind(p) === 'other' ? '<span class="badge">Minor notes</span>' : ''}
       ${fl.blp ? '<span class="badge care">Living person</span>' : ''}${fl.medrs ? '<span class="badge care">Health</span>' : ''}
       ${p.live_check.changed_since_frozen ? '<span class="badge warn">Edited since</span>' : ''}
       ${reviewed(p) ? '<span class="badge done">✓ reviewed</span>' : ''}</span></button></li>`;
@@ -131,6 +128,39 @@ function markRefs(text) {
   return esc(text).replace(/\[FOCAL REF:([^\]]*)\]/g, (m, x) => `<mark class="focal" title="Citation of the study discussed here">[this study:${x}]</mark>`)
     .replace(/\[PAIRED REF:([^\]]*)\]/g, (m, x) => `<mark class="paired" title="Citation of a replication">[replication:${x}]</mark>`)
     .replace(/\[ref:([^\]]*)\]/g, '<span class="ref">[ref:$1]</span>');
+}
+// Compact citation markers for the sentence at issue; the full reference is in the tooltip.
+const MARKER = /\[(FOCAL REF|PAIRED REF|ref):([^\]]*)\]/g;
+function compactRefs(text) {
+  let out = '', last = 0;
+  for (const m of text.matchAll(MARKER)) {
+    const full = m[2].trim(), yr = full.match(/\((\d{4})\)/)?.[1];
+    const [cls, label] = m[1] === 'FOCAL REF' ? ['focal', 'this study'] : m[1] === 'PAIRED REF' ? ['paired', 'replication']
+      : ['other', yr ? `other source, ${yr}` : 'other source'];
+    out += esc(text.slice(last, m.index)) + `<span class="cite ${cls}" title="${esc(full)}">[${label}]</span>`;
+    last = m.index + m[0].length;
+  }
+  return out + esc(text.slice(last));
+}
+// Find a quoted sentence in the article passages and return it with the citations it carries,
+// including those right after it, so readers can see which source backs which part.
+function withRefs(quote, occs) {
+  const ws = c => /\s/.test(c), q = quote.replace(/\s+/g, ' ').trim();
+  for (const o of occs) {
+    const raw = o.paragraph_plain, at = [];
+    let plain = '';
+    for (let i = 0; i < raw.length; i++) {
+      if (raw[i] === '[') { const m = raw.slice(i).match(/^\[(FOCAL REF|PAIRED REF|ref):[^\]]*\]/); if (m) { i += m[0].length - 1; continue; } }
+      if (ws(raw[i])) { if (!plain.length || plain.endsWith(' ')) continue; plain += ' '; } else plain += raw[i];
+      at.push(i);
+    }
+    const k = plain.indexOf(q);
+    if (k < 0) continue;
+    let end = at[k + q.length - 1] + 1;
+    for (let m; (m = raw.slice(end).match(/^\s*\[(FOCAL REF|PAIRED REF|ref):[^\]]*\]/));) end += m[0].length;
+    return compactRefs(raw.slice(at[k], end));
+  }
+  return esc(quote);
 }
 function highlight(text, quotes) {
   let h = markRefs(text);
@@ -151,21 +181,23 @@ function issueBlock(it) {
   const label = target ? (d.operation === 'insert_after' ? 'The suggestion adds something after this sentence' : 'The sentence at issue')
     : claims.length ? 'Where the article relies on the study' : 'The study is not used for a visible claim';
   return `<h4>${esc(label)}</h4>
-    ${lead ? `<blockquote class="target">${esc(lead)}</blockquote>` : `<p>${esc(s.claim_sites[0]?.note || 'It only appears in a list or reference section.')}</p>`}
+    ${lead ? `<blockquote class="target">${withRefs(lead, it.occurrences)}</blockquote>` : `<p>${esc(s.claim_sites[0]?.note || 'It only appears in a list or reference section.')}</p>`}
     ${others.length ? `<p class="small">Also cited for: ${others.map(q => `“${esc(q.length > 160 ? q.slice(0, 157) + '…' : q)}”`).join(' · ')}</p>` : ''}`;
 }
 
-const RESULT = {confirmed: ['✓ Confirmed', 'ok'], contradicted: ['✗ Contradicted', 'bad'], not_in_source: ['✗ Not in the source', 'bad'],
+const RESULT = {confirmed: ['', ''], contradicted: ['✗ Contradicted', 'bad'], not_in_source: ['✗ Not in the source', 'bad'],
   source_unavailable: ['? Source not obtained', 'warn']};
 function checksBlock(it, rec) {
   const v = it.suggestion.verifications || [], s = it.suggestion;
   const judge = s.required_checks || [];
   const done = new Set(rec.checks_done?.[it.card_id] || []);
+  const off = v.filter(x => x.result !== 'confirmed').length;
   return `${v.length ? `<h4>What we checked</h4>
-    <ul class="verifs">${v.map(x => `<li><span class="badge ${RESULT[x.result][1]}">${RESULT[x.result][0]}</span> ${esc(x.claim)}
-      <span class="small">· ${doiLink(x.source.replace(/^doi:/i, ''))} ${lvlBadge(x.evidence_level)}</span>
-      ${x.quote ? `<blockquote class="excerpt">“${esc(x.quote)}”</blockquote>` : ''}</li>`).join('')}</ul>
-    <p class="small">Each quote was matched word for word against the copy of the paper the model read.</p>` : ''}
+    <p class="small">${off ? `The source supports each point unless it is marked (${off} marked).` : 'The source supports each point.'}
+      Read in full unless marked “abstract only”. Quotes match the paper word for word, which shows the words are there, not that the model read them correctly: do check anything your edit will rely on.</p>
+    <ul class="verifs">${v.map(x => `<li>${RESULT[x.result][0] ? `<span class="badge ${RESULT[x.result][1]}">${RESULT[x.result][0]}</span> ` : ''}${esc(x.claim)}
+      <span class="small">· ${doiLink(x.source.replace(/^doi:/i, ''))} ${lvlBadge(x.evidence_level, true)}</span>
+      ${x.quote ? `<blockquote class="excerpt">“${esc(x.quote)}”</blockquote>` : ''}</li>`).join('')}</ul>` : ''}
     ${judge.length ? `<h4>Your call</h4><ul class="checklist">${judge.map((x, i) => `<li><label><input type="checkbox" data-item="${it.card_id}" data-check="${i}" ${done.has(i) ? 'checked' : ''}> ${esc(x)}</label></li>`).join('')}</ul>` : ''}
     ${s.uncertainties.length ? `<details><summary>What remains uncertain (${s.uncertainties.length})</summary><ul class="tight">${s.uncertainties.map(u => `<li>${esc(u)}</li>`).join('')}</ul></details>` : ''}`;
 }
@@ -176,7 +208,7 @@ function evidenceBlock(it) {
   const row = (role, s, extra) => {
     const ex = excerpts(s.doi);
     return `<tr><th scope="row">${role}</th><td>${esc(s.citation)}<br>${doiLink(s.doi)}${extra || ''}
-      ${ex.length ? `<details><summary>Quoted passages (${ex.length})</summary>${ex.map(e => `<blockquote class="excerpt">“${esc(e.excerpt)}”<br><span class="small">${esc(e.what_it_supports)}</span></blockquote>`).join('')}<p class="small ok">Each quote was checked word for word against the copy the model read.</p></details>` : ''}</td>
+      ${ex.length ? `<details><summary>Quoted passages (${ex.length})</summary>${ex.map(e => `<blockquote class="excerpt">“${esc(e.excerpt)}”<br><span class="small">${esc(e.what_it_supports)}</span></blockquote>`).join('')}</details>` : ''}</td>
       <td>${lvlBadge(s.evidence_level)}</td></tr>`;
   };
   const known = [it.original.doi, ...it.replications.map(r => r.doi)].map(x => x.toLowerCase());
@@ -188,8 +220,8 @@ function evidenceBlock(it) {
     ${row('This study', it.original)}
     ${it.replications.map(r => row('Replication', r, `<br><span class="small">Database label: ${esc(r.flora_outcome)} (screening label, not citable)${r.doi_detected_on_page ? ' · already cited in the article' : ''}</span>`)).join('')}
     </tbody></table>
-    ${extra.length ? `<details><summary>Other sources the model used (${extra.length})</summary><ul class="tight">${extra.map(e => `<li>${doiLink(e.doi)} ${lvlBadge(e.evidence_level)} ${esc(e.what_it_supports)}${e.excerpt ? `<blockquote class="excerpt">“${esc(e.excerpt)}”</blockquote>` : ''}</li>`).join('')}</ul></details>` : ''}
-    ${revs.length ? `<details><summary>Review articles we checked for the replication: ${found.length} of ${revs.length} cite or mention it</summary><ul class="tight">${revs.map(r => `<li>${esc(r.title)} (${esc(r.year)}) ${doiLink(r.doi)} ${lvlBadge(r.evidence_level)} ${r.mentions ? '<span class="badge ok">mentions it</span>' : '<span class="badge none">no mention found</span>'}${r.snippets?.[0] ? `<blockquote class="excerpt">…${esc(r.snippets[0].slice(0, 400))}…</blockquote>` : ''}</li>`).join('')}</ul></details>` : ''}`;
+    ${extra.length ? `<details><summary>Other sources the model used (${extra.length})</summary><ul class="tight">${extra.map(e => `<li>${doiLink(e.doi)} ${lvlBadge(e.evidence_level, true)} ${esc(e.what_it_supports)}${e.excerpt ? `<blockquote class="excerpt">“${esc(e.excerpt)}”</blockquote>` : ''}</li>`).join('')}</ul></details>` : ''}
+    ${revs.length ? `<details><summary>Review articles we checked for the replication: ${found.length} of ${revs.length} cite or mention it</summary><ul class="tight">${revs.map(r => `<li>${esc(r.title)} (${esc(r.year)}) ${doiLink(r.doi)} ${lvlBadge(r.evidence_level, true)} · ${r.mentions ? '<strong>mentions it</strong>' : 'no mention found'}${r.snippets?.[0] ? `<blockquote class="excerpt">…${esc(r.snippets[0].slice(0, 400))}…</blockquote>` : ''}</li>`).join('')}</ul></details>` : ''}`;
 }
 
 function wordingHtml(d, used) {
@@ -218,9 +250,9 @@ function writingBlock(it) {
   const points = s.content_points.filter(x => !/^needs/i.test(x.source));
   if (!points.length && !s.alternatives.length) return '';
   const unread = points.some(x => x.evidence_level !== 'full_text');
-  return `<h4>${EDIT_ACTIONS.has(s.proposed_action) ? 'Points an edit would need to cover' : 'Points worth knowing'}</h4>
-    ${unread ? '<p class="small warntext">Points marked "Abstract only" or "Title and details only" come from summaries: check each against the full paper.</p>' : ''}
-    ${points.length ? `<ul class="tight">${points.map(x => `<li>${esc(x.point)} · ${doiLink(x.source)} ${lvlBadge(x.evidence_level)}</li>`).join('')}</ul>` : ''}
+  return `<h4>${EDIT_ACTIONS.has(s.proposed_action) ? 'Suggested points to cover' : 'Points worth knowing'}</h4>
+    ${unread ? '<p class="small">Points marked “Abstract only” or “Title and details only” come from summaries: check them against the full paper.</p>' : ''}
+    ${points.length ? `<ul class="tight">${points.map(x => `<li>${esc(x.point)} · ${doiLink(x.source)} ${lvlBadge(x.evidence_level, true)}</li>`).join('')}</ul>` : ''}
     ${s.alternatives.length ? `<details ${itemKind(it) === 'none' ? 'open' : ''}><summary>Other problems found and alternative fixes (${s.alternatives.length})</summary><ul class="tight">${s.alternatives.map(a => `<li><strong>${esc(a.action)}</strong>: ${esc(a.when)}</li>`).join('')}</ul></details>` : ''}`;
 }
 
@@ -250,9 +282,9 @@ function itemSection(it, i, n, rec) {
   const s = it.suggestion, k = itemKind(it), [label, cls] = KIND[k];
   const head = `${n > 1 ? `Study ${i + 1} of ${n}: ` : ''}${it.original.short}`;
   const body = `${issueBlock(it)}
-    <div class="proposal ${cls}"><p class="verdict"><span class="badge ${cls}">${label}</span> <strong>${esc(ACTION[s.proposed_action])}</strong></p>
+    <div class="proposal ${cls}"><p class="verdict"><strong>${esc(ACTION[s.proposed_action])}</strong></p>
       ${s.edit_strength ? `<p class="small">${esc(STRENGTH[s.edit_strength])}</p>` : ''}
-      ${it.adds_replication ? `<p class="small"><span class="badge repl">${esc(REPL[it.adds_replication.level])}</span> The suggested edit cites a replication that this article does not cite yet.</p>` : ''}
+      ${it.adds_replication ? '<p class="small">Adds a replication: the suggested edit cites a replication that this article does not cite yet.</p>' : ''}
       <p>${esc(s.rationale)}</p>
       ${it.two_run ? (it.two_run.agree ? '<p class="small ok">Two independent drafting runs reached the same verdict.</p>'
         : `<p class="twoRun"><strong>Two drafting runs disagreed, so this is your call.</strong> The one shown suggests “${esc(ACTION[it.two_run.shown.action])}”; the other concluded “${esc(ACTION[it.two_run.other.action])}”: ${esc(it.two_run.other.rationale)}</p>`) : ''}<p class="small">${esc(SCOPE[s.article_scope] || s.article_scope)}, ${esc(USE[s.citation_function] || s.citation_function)}</p></div>
@@ -264,7 +296,7 @@ function itemSection(it, i, n, rec) {
 function overview(p) {
   if (p.items.length < 2) return '';
   return `<section class="overview"><h3>${p.items.length} studies from the database are cited on this page</h3>
-    <ol>${p.items.map(it => `<li><a href="#item-${it.card_id}" data-jump="${it.card_id}">${esc(it.original.short)}</a> · <span class="badge ${KIND[itemKind(it)][1]}">${esc(ACTION[it.suggestion.proposed_action])}</span></li>`).join('')}</ol></section>`;
+    <ol>${p.items.map(it => `<li><a href="#item-${it.card_id}" data-jump="${it.card_id}">${esc(it.original.short)}</a> · ${esc(ACTION[it.suggestion.proposed_action])}</li>`).join('')}</ol></section>`;
 }
 
 function otherFixesBlock(p) {
@@ -392,12 +424,23 @@ function ledgerRows() {
 }
 
 // ---------- welcome ----------
+let STEP = 0;
+function showStep(i) {
+  const steps = [...document.querySelectorAll('#welcome .step')], last = steps.length - 1;
+  STEP = Math.max(0, Math.min(i, last));
+  steps.forEach((s, k) => s.hidden = k !== STEP);
+  document.getElementById('step-count').textContent = `Step ${STEP + 1} of ${steps.length}`;
+  document.getElementById('step-back').hidden = STEP === 0;
+  document.getElementById('step-next').textContent = STEP === last ? 'Start reviewing' : 'Next';
+  document.getElementById('welcome-close').hidden = STEP === last;
+  document.querySelector('#welcome .modal-box').scrollTop = 0;
+}
 function openHelp() {
   const m = document.getElementById('welcome');
   document.getElementById('welcome-hide').checked = localStorage.getItem(WELCOME_KEY) === '1';
   m.hidden = false;
-  m.querySelector('.modal-box').scrollTop = 0;
-  document.getElementById('welcome-close').focus({preventScroll: true});
+  showStep(0);
+  document.getElementById('step-next').focus({preventScroll: true});
 }
 function closeHelp() {
   localStorage.setItem(WELCOME_KEY, document.getElementById('welcome-hide').checked ? '1' : '0');
@@ -408,7 +451,7 @@ function closeHelp() {
 async function init() {
   DATA = await (await fetch('data/suggestions.json')).json();
   PAGES = DATA.pages;
-  PAGES.sort((a, b) => (pageRepl(a) === 'recommended' ? 0 : 1) - (pageRepl(b) === 'recommended' ? 0 : 1) || KORDER[pageKind(a)] - KORDER[pageKind(b)] || a.page.title.localeCompare(b.page.title));
+  PAGES.sort((a, b) => (pageRepl(a) && KORDER[pageKind(a)] < 2 ? 0 : 1) - (pageRepl(b) && KORDER[pageKind(b)] < 2 ? 0 : 1) || KORDER[pageKind(a)] - KORDER[pageKind(b)] || a.page.title.localeCompare(b.page.title));
   PAGES.forEach(p => p.search = [p.page.title, ...p.items.flatMap(it => [it.original.short, it.original.citation,
     it.suggestion.rationale, ...it.occurrences.map(o => o.paragraph_plain)])].join(' ').toLowerCase());
   const rv = document.getElementById('reviewer');
@@ -422,6 +465,8 @@ async function init() {
   document.getElementById('open-help').onclick = openHelp;
   document.querySelectorAll('[data-open-help]').forEach(b => b.onclick = openHelp);
   document.getElementById('welcome-close').onclick = closeHelp;
+  document.getElementById('step-back').onclick = () => showStep(STEP - 1);
+  document.getElementById('step-next').onclick = () => STEP === document.querySelectorAll('#welcome .step').length - 1 ? closeHelp() : showStep(STEP + 1);
   document.getElementById('welcome').addEventListener('keydown', e => { if (e.key === 'Escape') closeHelp(); });
   document.getElementById('export-json').onclick = () => download('flora-en-ledger.json', JSON.stringify({exported_at: new Date().toISOString(), build: DATA.build_id,
     pages: PAGES.map(p => ledgerGet(p.page_id)).filter(Boolean)}, null, 2), 'application/json');

@@ -49,17 +49,19 @@ The prototype has no edit, submit or copy-to-Wikipedia function by design.
 4. **Use "What we checked".** Before you see a card, the pipeline obtained the
    papers it could (open-access copies, author and repository versions) and the
    model checked the facts the suggestion relies on against them. Each check shows
-   its verdict and the quoted passage, matched word for word. You do not need to
-   repeat these checks; if a quote looks wrong or out of context, say so in your
-   notes. Each check is labelled with what was read. A clear abstract is used for
+   its verdict and the quoted passage, matched word for word. A word-for-word
+   match shows that the passage exists, not that the model understood it, so read
+   the sources yourself and check anything your edit will rely on. If a quote
+   looks wrong or out of context, say so in your notes. Each check is labelled
+   with what was read. A clear abstract is used for
    what it plainly states (what was tested, in whom, the main result); details
    beyond the abstract are only stated where the full paper was read. If neither
    could be obtained, the card says so in one line.
 5. **Weigh the evidence.** A single replication is a primary source: it can
    support a short, attributed, descriptive sentence in an article about that
    effect, but not a conclusion about "the evidence". Review articles the pipeline
-   found that discuss the replication are listed on the card. Do not ask other
-   Wikipedia editors to check sources for you.
+   found that discuss the replication are listed on the card. See "Reading a
+   replication" below. Do not ask other Wikipedia editors to check sources for you.
 6. **Decide on the smallest change that makes the claim accurate.** The options
    are: no change; add context; narrow the wording; replace or upgrade the
    source; remove an unsupported claim or citation (only where the source does
@@ -82,6 +84,32 @@ The prototype has no edit, submit or copy-to-Wikipedia function by design.
    change, needs more checking, or skip; give a reason when you disagree with
    the suggestion) and export it. The record notes which article version you
    reviewed.
+
+## Reading a replication
+
+A replication repeats an earlier study to see whether its result holds. What it
+tells you depends on how it was done.
+
+- **Did it test the same claim?** A direct replication repeats the original
+  method as closely as it can; a conceptual one tests the same idea another way,
+  and a failure says less about the original study. A replication may also cover
+  only one experiment in a paper. Check that it tested the claim the article
+  makes; the card's "How this suggestion was made" section gives the model's view.
+- **One study settles little either way.** A failed replication does not show
+  that the original finding was false, and a successful one does not prove it
+  true. Larger samples, preregistered designs and multi-lab projects (such as
+  Many Labs or Registered Replication Reports) carry more weight than a single
+  small study.
+- **Mixed results are common.** Avoid "debunked" or "confirmed". Say what was done
+  and found, and who did it: "A 2012 replication with 120 participants did not
+  find the effect."
+- **Reviews outweigh single studies.** Statements about "the evidence" or whether
+  an effect is real need a review or meta-analysis.
+- **Keep due weight.** In a broad article, or where the study is mentioned in
+  passing, a more precise claim often works better than a new paragraph on
+  replication.
+- **FLoRA's outcome labels are screening labels.** They are not citable and are
+  not a verdict on the study.
 
 ## Extra care
 

@@ -239,3 +239,17 @@ blockquote.small-q { font-size: .98rem; }
 .wording { font-size: .98rem; line-height: 1.55; padding: .55rem .8rem; }
 ul.verifs li { margin: .55rem 0; } blockquote.excerpt { font-size: .9rem; margin: .25rem 0 .1rem; }
 .ledger { padding: .8rem 1rem; border-radius: 12px; } .overview { padding: .6rem 1rem; border-radius: 12px; }
+
+/* quieter pass: fewer pills and highlight colours */
+blockquote.target { display: block; background: none; border-left: 2px solid var(--line); padding: .1rem 0 .1rem .9rem; }
+.issue blockquote.target, blockquote.target { margin: .4rem 0 .8rem; padding: .1rem 0 .1rem .9rem; }
+mark.claim { box-shadow: none; text-decoration: underline; text-decoration-color: #9aa3c4; text-underline-offset: 3px; }
+mark.focal, mark.paired { background: none; font-family: "Figtree", system-ui, sans-serif; font-size: .8em; font-weight: 600; }
+mark.focal, .cite.focal { color: var(--accent); } mark.paired, .cite.paired { color: #25592b; }
+.cite { font-family: "Figtree", system-ui, sans-serif; font-size: .78em; font-weight: 600; color: var(--muted); cursor: help; white-space: nowrap; }
+.lvl { font-size: .8rem; color: var(--muted); font-style: italic; } .lvl.thin { color: var(--warn); }
+.draft { background: var(--bg); } .wording { background: #fff; }
+.steps { margin: 0 0 .3rem; }
+.modal-actions .row { display: flex; gap: .5rem; }
+.modal-actions [hidden] { display: none; }
+dl.legend { margin: .4rem 0; } dl.legend dt { font-weight: 700; margin-top: .6rem; } dl.legend dd { margin: .1rem 0 0; }

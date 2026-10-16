@@ -244,3 +244,6 @@ mark.focal, .cite.focal { color: var(--accent); } mark.paired, .cite.paired { co
 .modal-actions .row { display: flex; gap: .5rem; }
 .modal-actions [hidden] { display: none; }
 dl.legend { margin: .4rem 0; } dl.legend dt { font-weight: 700; margin-top: .6rem; } dl.legend dd { margin: .1rem 0 0; }
+.badge.bad { background: var(--bad-soft); color: var(--bad); }
+.modal-box .badge, .lvl { margin: 0; }
+@media (max-width: 1100px) { .layout { grid-template-columns: 1fr; height: auto; } }

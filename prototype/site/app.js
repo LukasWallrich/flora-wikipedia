@@ -248,7 +248,7 @@ function writingBlock(it) {
   return `${pointerBlock(it)}<h4>${EDIT_ACTIONS.has(s.proposed_action) ? 'Suggested points to cover' : 'Points worth knowing'}</h4>
     ${unread ? '<p class="small">Points marked “Abstract only” or “Title and details only” come from summaries: check them against the full paper.</p>' : ''}
     ${points.length ? `<ul class="tight">${points.map(x => `<li>${esc(x.point)} · ${doiLink(x.source)} ${lvlBadge(x.evidence_level, true)}</li>`).join('')}</ul>` : ''}
-    ${s.alternatives.length ? `<details ${itemKind(it) === 'none' ? 'open' : ''}><summary>Other problems found and alternative fixes (${s.alternatives.length})</summary><ul class="tight">${s.alternatives.map(a => `<li><strong>${esc(a.action)}</strong>: ${esc(a.when)}</li>`).join('')}</ul></details>` : ''}`;
+    ${s.alternatives.length ? `<details ${itemKind(it) === 'none' ? 'open' : ''}><summary>Other problems found and alternative fixes (${s.alternatives.length})</summary><ul class="tight">${s.alternatives.map(a => `<li>${esc(a.action)} <span class="small">${esc(a.when)}</span></li>`).join('')}</ul></details>` : ''}`;
 }
 
 function contextBlock(it) {

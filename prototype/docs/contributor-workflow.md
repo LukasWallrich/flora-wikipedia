@@ -23,11 +23,10 @@ generated can be collapsed
 ([WP:AITALK](https://en.wikipedia.org/wiki/Wikipedia:Talk_page_guidelines#LLM-generated),
 revision 1378840295).
 
-The model wording on each card therefore shows what the sources might support
-and where a change would go. Do not paste it into an article, an edit summary or
-a talk page, and do not lightly reword it. Use it to check your own reading,
-then write your own text from the sources you have read. If you find yourself
-unable to write the change without the model text, the change is not ready.
+The cards therefore give no ready-made wording. Each suggested edit says where a
+change could go, which sources it could cite and which points from those sources
+it could cover; the text is yours to write from the sources you have read. Do
+not use model output in an article, an edit summary or a talk page.
 
 Clicking "save" yourself does not turn a generated suggestion into your own
 work, and making many similar edits from a list can be treated as bot-like

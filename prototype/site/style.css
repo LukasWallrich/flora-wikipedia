@@ -83,8 +83,6 @@ table.evidence th, table.evidence td { border-bottom: 1px solid var(--line); pad
 table.evidence thead th { font-size: .78rem; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
 blockquote.excerpt { margin: .35rem 0; padding: .3rem .6rem; border-left: 3px solid var(--ok); background: var(--ok-soft); font-size: .88rem; }
 details { margin: .35rem 0; } summary { cursor: pointer; color: var(--accent); font-size: .9rem; }
-.draft { margin: .8rem 0; border: 1px solid #e0c48a; background: #fffaf0; border-radius: 6px; padding: .5rem .9rem; }
-.wording { white-space: pre-wrap; margin: .4rem 0; padding: .5rem; background: #fff; border: 1px solid #eadcbc; border-radius: 4px; font-size: .92rem; user-select: text; }
 .passage { background: #fbfbf8; border-left: 3px solid var(--line); padding: .6rem .8rem; white-space: pre-wrap; font-size: .92rem; }
 mark.focal { background: var(--focal); } mark.paired { background: var(--paired); }
 mark.claim { background: none; box-shadow: inset 0 -.45em 0 #ffe066; }
@@ -129,12 +127,10 @@ ul.tight { margin: .2rem 0; padding-left: 1.2rem; } ul.tight li { margin: .3rem 
 .proposal .verdict { margin: 0 0 .3rem; }
 .proposal { margin-top: .6rem; }
 ol.refs { margin: .2rem 0 .4rem; padding-left: 1.6rem; }
-.wording sup { color: var(--accent); }
 ul.verifs { list-style: none; padding: 0; margin: .2rem 0; } ul.verifs li { margin: .45rem 0; }
 .twoRun { background: var(--warn-soft); border-radius: 6px; padding: .4rem .6rem; font-size: .9rem; }
 
 .badge.repl { background: #e7f0e4; color: #2c5a1e; border: 1px solid #b9d3ae; }
-.draft h4 { margin: .2rem 0 .3rem; }
 
 /* ---------- editorial layer: a reading room, not a control panel ---------- */
 :root {
@@ -202,8 +198,6 @@ blockquote.small-q { font-size: 1.05rem; }
 .proposal .verdict strong { font-family: var(--serif); font-weight: 600; font-size: 1.22rem; }
 .proposal > p:not(.small):not(.verdict):not(.twoRun) { font-size: 1.04rem; }
 .twoRun { border-radius: 10px; padding: .6rem .8rem; }
-.draft { border: 0; background: #fdf6e3; border-radius: 16px; padding: 1.1rem 1.3rem; }
-.wording { font-family: var(--serif); font-size: 1.04rem; line-height: 1.65; border: 0; border-radius: 10px; padding: .8rem 1rem; }
 blockquote.excerpt { font-family: var(--serif); font-style: italic; font-size: .95rem; background: none; border-left: 2px solid #9cc5ac; padding: .1rem 0 .1rem .9rem; margin: .4rem 0 .2rem; color: #3c4257; }
 ul.verifs li { margin: .9rem 0; }
 table.evidence thead th { text-transform: none; letter-spacing: 0; font-size: .84rem; }
@@ -235,8 +229,6 @@ blockquote.small-q { font-size: .98rem; }
 .proposal, .proposal.edit, .proposal.other { padding: .7rem 1rem; margin-top: .7rem; border-radius: 12px; }
 .proposal p { margin: .35rem 0; } .proposal .verdict strong { font-size: 1.08rem; }
 .proposal > p:not(.small):not(.verdict):not(.twoRun) { font-size: .98rem; }
-.draft { padding: .7rem 1rem; border-radius: 12px; margin: .6rem 0; } .draft p { margin: .3rem 0; }
-.wording { font-size: .98rem; line-height: 1.55; padding: .55rem .8rem; }
 ul.verifs li { margin: .55rem 0; } blockquote.excerpt { font-size: .9rem; margin: .25rem 0 .1rem; }
 .ledger { padding: .8rem 1rem; border-radius: 12px; } .overview { padding: .6rem 1rem; border-radius: 12px; }
 
@@ -248,7 +240,6 @@ mark.focal, mark.paired { background: none; font-family: "Figtree", system-ui, s
 mark.focal, .cite.focal { color: var(--accent); } mark.paired, .cite.paired { color: #25592b; }
 .cite { font-family: "Figtree", system-ui, sans-serif; font-size: .78em; font-weight: 600; color: var(--muted); cursor: help; white-space: nowrap; }
 .lvl { font-size: .8rem; color: var(--muted); font-style: italic; } .lvl.thin { color: var(--warn); }
-.draft { background: var(--bg); } .wording { background: #fff; }
 .steps { margin: 0 0 .3rem; }
 .modal-actions .row { display: flex; gap: .5rem; }
 .modal-actions [hidden] { display: none; }

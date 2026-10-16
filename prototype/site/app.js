@@ -224,33 +224,28 @@ function evidenceBlock(it) {
     ${revs.length ? `<details><summary>Review articles we checked for the replication: ${found.length} of ${revs.length} cite or mention it</summary><ul class="tight">${revs.map(r => `<li>${esc(r.title)} (${esc(r.year)}) ${doiLink(r.doi)} ${lvlBadge(r.evidence_level, true)} · ${r.mentions ? '<strong>mentions it</strong>' : 'no mention found'}${r.snippets?.[0] ? `<blockquote class="excerpt">…${esc(r.snippets[0].slice(0, 400))}…</blockquote>` : ''}</li>`).join('')}</ul></details>` : ''}`;
 }
 
-function wordingHtml(d, used) {
-  // [cite: DOI] markers become numbered references listed under the example.
-  const refs = [];
-  const body = esc(d.wording).replace(/\[cite:\s*([^\]]+)\]/g, (m, doi) => {
-    doi = doi.trim();
-    if (/^needs/i.test(doi)) return '';
-    let n = refs.indexOf(doi);
-    if (n < 0) { refs.push(doi); n = refs.length - 1; }
-    return `<sup>[${n + 1}]</sup>`;
-  });
-  return `<div class="wording">${body}</div>${refs.length ? `<ol class="refs small">${refs.map(r => `<li>${doiLink(r)}</li>`).join('')}</ol>` : ''}`;
-}
-
-function draftBlock(it) {
+// The suggested edit as a pointer (where, what kind of change, which sources), never as article prose:
+// contributors write the text themselves from the points below.
+const OPERATION = {insert_after: 'Add a sentence after the sentence quoted above', replace: 'Reword the sentence quoted above',
+  modify: 'Adjust the sentence quoted above', remove: 'Remove the sentence quoted above'};
+function pointerBlock(it) {
   const d = it.suggestion.draft;
-  if (!['provided', 'conditional'].includes(d.status) || !d.wording.trim()) return '';
-  return `<div class="draft"><h4>Example wording <span class="small">(written by a model; do not copy)</span></h4>
-    <p class="small">Where: ${esc(d.location)}</p>${wordingHtml(d, it.suggestion.evidence_used)}
-    <p class="small warntext">English Wikipedia does not allow AI-written article text: use this to see what the sources support, then write your own.${d.status === 'conditional' ? ' It depends on one of the checks below.' : ''}</p></div>`;
+  if (!['provided', 'conditional'].includes(d.status)) return '';
+  const names = Object.fromEntries([it.original, ...it.replications].map(x => [x.doi.toLowerCase(), x.short.split(':')[0]]));
+  const cites = (d.citations || []).filter(x => x && !/^needs/i.test(x));
+  const op = d.target_text && OPERATION[d.operation];
+  return `<h4>Suggested edit</h4>
+    <p>${op ? esc(op) + '. ' : ''}<span class="small">Where: ${esc(d.location)}</span></p>
+    ${cites.length ? `<p>Sources it could cite: ${cites.map(x => `${names[x.toLowerCase()] ? esc(names[x.toLowerCase()]) + ', ' : ''}${doiLink(x)}`).join('; ')}</p>` : ''}
+    ${d.status === 'conditional' ? '<p class="small">This depends on one of the questions under “Your call”.</p>' : ''}`;
 }
 
 function writingBlock(it) {
   const s = it.suggestion, d = s.draft;
   const points = s.content_points.filter(x => !/^needs/i.test(x.source));
-  if (!points.length && !s.alternatives.length) return '';
+  if (!points.length && !s.alternatives.length) return pointerBlock(it);
   const unread = points.some(x => x.evidence_level !== 'full_text');
-  return `<h4>${EDIT_ACTIONS.has(s.proposed_action) ? 'Suggested points to cover' : 'Points worth knowing'}</h4>
+  return `${pointerBlock(it)}<h4>${EDIT_ACTIONS.has(s.proposed_action) ? 'Suggested points to cover' : 'Points worth knowing'}</h4>
     ${unread ? '<p class="small">Points marked “Abstract only” or “Title and details only” come from summaries: check them against the full paper.</p>' : ''}
     ${points.length ? `<ul class="tight">${points.map(x => `<li>${esc(x.point)} · ${doiLink(x.source)} ${lvlBadge(x.evidence_level, true)}</li>`).join('')}</ul>` : ''}
     ${s.alternatives.length ? `<details ${itemKind(it) === 'none' ? 'open' : ''}><summary>Other problems found and alternative fixes (${s.alternatives.length})</summary><ul class="tight">${s.alternatives.map(a => `<li><strong>${esc(a.action)}</strong>: ${esc(a.when)}</li>`).join('')}</ul></details>` : ''}`;
@@ -288,7 +283,7 @@ function itemSection(it, i, n, rec) {
       <p>${esc(s.rationale)}</p>
       ${it.two_run ? (it.two_run.agree ? '<p class="small ok">Two independent drafting runs reached the same verdict.</p>'
         : `<p class="twoRun"><strong>Two drafting runs disagreed, so this is your call.</strong> The one shown suggests “${esc(ACTION[it.two_run.shown.action])}”; the other concluded “${esc(ACTION[it.two_run.other.action])}”: ${esc(it.two_run.other.rationale)}</p>`) : ''}<p class="small">${esc(SCOPE[s.article_scope] || s.article_scope)}, ${esc(USE[s.citation_function] || s.citation_function)}</p></div>
-    ${draftBlock(it)}${checksBlock(it, rec)}${evidenceBlock(it)}${writingBlock(it)}${contextBlock(it)}${provenanceBlock(it)}`;
+    ${writingBlock(it)}${checksBlock(it, rec)}${evidenceBlock(it)}${contextBlock(it)}${provenanceBlock(it)}`;
   return `<section class="item" id="item-${it.card_id}">
     <details ${k !== 'none' || n === 1 || s.alternatives.length ? 'open' : ''}><summary class="item-head"><span class="badge ${cls}">${label}</span> ${esc(head)}</summary>${body}</details></section>`;
 }

@@ -1,0 +1,590 @@
+[
+  {
+    "card_id": "9a80ed0ec88ae488697b",
+    "field": "suggestion.alternatives[1].when",
+    "old": "As an addition to, or instead of, the new sentence in 'In daily life'.",
+    "new": "As an addition to, or instead of, the suggested sentence on the walking-speed replication in 'In daily life'."
+  },
+  {
+    "card_id": "be3dfef25a6156f0b608",
+    "field": "suggestion.alternatives[0].action",
+    "old": "Make only the correction (first sentence of the example wording) and leave out the replication sentence.",
+    "new": "Correct only the description of the original study (participants rated a fictional person described on paper, not an interviewer) and leave out the replication sentence."
+  },
+  {
+    "card_id": "be3dfef25a6156f0b608",
+    "field": "suggestion.content_points[3].point",
+    "old": "Chabris et al. is the submitted version of a manuscript accepted by the journal Social Psychology; the packet's Crossref record lists the journal version as doi:10.1027/1864-9335/a000361.",
+    "new": "Chabris et al. is the submitted version of a manuscript accepted by the journal Social Psychology; the Crossref record lists the journal version as doi:10.1027/1864-9335/a000361."
+  },
+  {
+    "card_id": "3cd12104e070f0823407",
+    "field": "suggestion.verifications[6].claim",
+    "old": "Whether Tulving, Schacter and Stark (1982), the other reference on the clause, supports 'contested': neither full text nor abstract is in the packet.",
+    "new": "Whether Tulving, Schacter and Stark (1982), the other reference on the clause, supports 'contested': we could obtain neither the full text nor the abstract."
+  },
+  {
+    "card_id": "b71eb676ccdfbbc8317c",
+    "field": "suggestion.assessment",
+    "old": "The article describes Cohen et al. (2006) accurately: seventh-graders at a middle school, a brief in-class writing exercise about an important value, improved grades for African American students and a roughly 40% reduction in the gap. It uses the study as evidence that self-affirmation exercises show 'promising results', and reports nothing about later replications. Three later studies in the packet tested the same exercise and found no effect or little evidence of one, including one (Protzko & Aronson 2016) that set out to replicate this specific study with the same materials. A 2020 review cites two of them as cases where such interventions did not work.",
+    "new": "The article describes Cohen et al. (2006) accurately: seventh-graders at a middle school, a brief in-class writing exercise about an important value, improved grades for African American students and a roughly 40% reduction in the gap. It uses the study as evidence that self-affirmation exercises show 'promising results', and reports nothing about later replications. Three later studies tested the same exercise and found no effect or little evidence of one, including one (Protzko & Aronson 2016) that set out to replicate this specific study with the same materials. A 2020 review cites two of them as cases where such interventions did not work."
+  },
+  {
+    "card_id": "dcaebad614cf590f87ce",
+    "field": "suggestion.alternatives[0].when",
+    "old": "If a contributor prefers to keep the lead short; the article has no section on the empirical evidence, which is why the lead sentence is the drafted location.",
+    "new": "If a contributor prefers to keep the lead short; the article has no section on the empirical evidence, which is why the suggested edit would go in the lead."
+  },
+  {
+    "card_id": "aeb4b03da60346639d65",
+    "field": "suggestion.alternatives[0].when",
+    "old": "If a lighter edit than the drafted two-sentence replacement is preferred.",
+    "new": "If a lighter edit than rewording both sentences is preferred."
+  },
+  {
+    "card_id": "aeb4b03da60346639d65",
+    "field": "suggestion.alternatives[2].when",
+    "old": "Default for this article: a 32-participant replication of one experiment is too fine-grained for the general 'Video game' article, and the drafted rewording already drops the claim it bears on.",
+    "new": "Default for this article: a 32-participant replication of one experiment is too fine-grained for the general 'Video game' article, and the suggested edit already removes the claim it bears on."
+  },
+  {
+    "card_id": "59c565aa69b0392e3137",
+    "field": "suggestion.assessment",
+    "old": "The article's sentence is accurate: Basol et al. (2020) did evaluate the Bad News game, in a randomised experiment against a Tetris control. A 2023 extended replication (Graham et al., four parallel studies, 353 participants) reproduced the fall in belief in false tweets but found that belief in true tweets fell to the same or almost the same extent, and its exploratory analyses found no improvement in telling true from false. The article reports no results at all, so nothing it says is contradicted; a short attributed summary of the original and the replication would enrich the Reception section. None of the five works the pipeline checked for mentions of the replication mentions it at the level read (abstracts), so only the two primary papers can be cited.",
+    "new": "The article's sentence is accurate: Basol et al. (2020) did evaluate the Bad News game, in a randomised experiment against a Tetris control. A 2023 extended replication (Graham et al., four parallel studies, 353 participants) reproduced the fall in belief in false tweets but found that belief in true tweets fell to the same or almost the same extent, and its exploratory analyses found no improvement in telling true from false. The article reports no results at all, so nothing it says is contradicted; a short attributed summary of the original and the replication would enrich the Reception section. None of the five works we checked for mentions of the replication mentions it at the level read (abstracts), so only the two primary papers can be cited."
+  },
+  {
+    "card_id": "293d0730bf5ed1444af8",
+    "field": "suggestion.alternatives[0].when",
+    "old": "If the contributor judges that a short article about the game as a product should not go into individual study results, or does not add the sentences on the 2020 experiment and its 2023 replication from item 59c565aa69b0392e3137 (this sentence alone would present only the earliest, uncontrolled result).",
+    "new": "If the contributor judges that a short article about the game as a product should not go into individual study results, or does not add the suggested sentences on the 2020 experiment and its 2023 replication (see Basol et al. (2020) on this card); this sentence alone would present only the earliest, uncontrolled result."
+  },
+  {
+    "card_id": "293d0730bf5ed1444af8",
+    "field": "suggestion.content_points[3].point",
+    "old": "Basol et al. (2020), a replication and extension with a randomised Tetris control group, found a similar effect size (d = 0.60 against d = 0.52 in the 2019 study). The sentence reporting this study is drafted under item 59c565aa69b0392e3137.",
+    "new": "Basol et al. (2020), a replication and extension with a randomised Tetris control group, found a similar effect size (d = 0.60 against d = 0.52 in the 2019 study). The suggestion for Basol et al. (2020), on this card, covers this study."
+  },
+  {
+    "card_id": "293d0730bf5ed1444af8",
+    "field": "suggestion.verifications[8].claim",
+    "old": "A review checked by the pipeline describes Bad News as an inoculation intervention that can reduce susceptibility to fake news, citing both studies.",
+    "new": "A review we checked describes Bad News as an inoculation intervention that can reduce susceptibility to fake news, citing both studies."
+  },
+  {
+    "card_id": "d0f5428c75c410473ca5",
+    "field": "suggestion.alternatives[0].when",
+    "old": "Only if the sentence is reworded so that it no longer says the 2018 research evaluated Bad News itself; no source in the packet describes the 2018 card game as a forerunner of Bad News, so a rewording along those lines is not drafted here.",
+    "new": "Only if the sentence is reworded so that it no longer says the 2018 research evaluated Bad News itself; none of the sources we found describes the 2018 card game as a forerunner of Bad News, so a rewording along those lines is not suggested here."
+  },
+  {
+    "card_id": "d0f5428c75c410473ca5",
+    "field": "suggestion.verifications[9].claim",
+    "old": "The review 'Tackling misinformation with games' (flagged by the pipeline) mentions the Wong & Wu replication. Its full text was searched for 'Wong' and 'Singapore': the only hit is an unrelated author named Intawong.",
+    "new": "The review 'Tackling misinformation with games' (found in our search for reviews) mentions the Wong & Wu replication. Its full text was searched for 'Wong' and 'Singapore': the only hit is an unrelated author named Intawong."
+  },
+  {
+    "card_id": "f16a8bdee0e4a17f85eb",
+    "field": "suggestion.alternatives[1].when",
+    "old": "When editing the first paragraph, since the replacement wording makes most of this paragraph redundant.",
+    "new": "When editing the first paragraph, since the suggested edit would make most of this paragraph redundant."
+  },
+  {
+    "card_id": "2654544787ead829adc4",
+    "field": "suggestion.alternatives[2].action",
+    "old": "Put the replication of this paper and of Johnson, Bellman & Lohse (2002) in one place, since both come from the same 2023 article (see the card item for doi:10.1023/A:1015044207315, which drafts the sentence on the unsuccessful part).",
+    "new": "Put the replication of this paper and of Johnson, Bellman & Lohse (2002) in one place, since both come from the same 2023 article (the suggestion for Johnson, Bellman & Lohse (2002) on this card covers the unsuccessful part)."
+  },
+  {
+    "card_id": "40fd0f609decd698e343",
+    "field": "suggestion.alternatives[1].action",
+    "old": "Combine this sentence with the successful replication of Johnson & Goldstein (2003) from the same 2023 article (drafted in the card item for doi:10.1126/science.1091721) into one short passage: the organ-donor default effect was reproduced with a smaller effect, the consent-to-contact effect was not.",
+    "new": "Combine the sentence on the unsuccessful consent-to-contact replication with the successful replication of Johnson & Goldstein (2003) from the same 2023 article (see the suggestion for Johnson & Goldstein (2003) on this card) into one short passage: the organ-donor default effect was reproduced with a smaller effect, the consent-to-contact effect was not."
+  },
+  {
+    "card_id": "5f9410b0cdaec5e420f6",
+    "field": "two_run.other.rationale",
+    "old": "The sentence about Sachs and Warner is accurate, and the one replication study in the packet largely confirmed their result using the 1997 version of the paper. Adding one sentence about that replication is optional: it would tell readers the founding result was checked and held up, with a caveat about statistical method.",
+    "new": "The sentence about Sachs and Warner is accurate, and the one replication study we found largely confirmed their result using the 1997 version of the paper. Adding one sentence about that replication is optional: it would tell readers the founding result was checked and held up, with a caveat about statistical method."
+  },
+  {
+    "card_id": "066a57de8b7ccf083efe",
+    "field": "suggestion.alternatives[0].action",
+    "old": "Replace the sentence with the first sentence of the example wording only (the study's own result, correctly stated), without the re-analysis.",
+    "new": "Replace the sentence with an accurate account of the study's own result (school-based deworming in Kenya cut absenteeism in treatment schools by about a quarter), without the re-analysis."
+  },
+  {
+    "card_id": "96c886be06651c90b842",
+    "field": "suggestion.assessment",
+    "old": "The sentence is accurate as far as it goes: Bem's 2011 paper in the Journal of Personality and Social Psychology reported nine experiments that it presented as evidence for psi, which the paper itself indexes under ESP. The article uses the paper as a historical example of an event that drew attention to questionable research practices, not as support for the existence of ESP, so its argument does not rest on the finding. A reader is nonetheless told that 'scientific evidence' of ESP was published and not that replications reported in the packet, including seven experiments with 3,289 participants, failed to find the effect. One short attributed sentence would close that gap.",
+    "new": "The sentence is accurate as far as it goes: Bem's 2011 paper in the Journal of Personality and Social Psychology reported nine experiments that it presented as evidence for psi, which the paper itself indexes under ESP. The article uses the paper as a historical example of an event that drew attention to questionable research practices, not as support for the existence of ESP, so its argument does not rest on the finding. A reader is nonetheless told that 'scientific evidence' of ESP was published and not that replications, including seven experiments with 3,289 participants, failed to find the effect. One short attributed sentence would close that gap."
+  },
+  {
+    "card_id": "96c886be06651c90b842",
+    "field": "suggestion.verifications[0].claim",
+    "old": "Article: the paper was published in a psychology journal (described as one of the most highly respected). Journal identity confirmed; the evaluation itself is not a statement any packet source makes.",
+    "new": "Article: the paper was published in a psychology journal (described as one of the most highly respected). Journal identity confirmed; the evaluation itself is not made in any source we found."
+  },
+  {
+    "card_id": "90d2f257a47624146a5d",
+    "field": "suggestion.assessment",
+    "old": "The article's sentence about Asch's 1956 results is accurate: the monograph's Table 3 gives a mean error rate of 36.8% across 123 participants, 29 participants (24%) with no errors and 6 (about 5%) with errors on all twelve critical trials. Two replications in the packet, from Switzerland in 2023 and Bosnia and Herzegovina in 2019, found error rates of 33% and 35.4%, and a 2024 systematic review describes the 2023 replication as mirroring Asch's rates. The article does not mention any replication, but since they agree with Asch, adding one would only confirm what the article already says.",
+    "new": "The article's sentence about Asch's 1956 results is accurate: the monograph's Table 3 gives a mean error rate of 36.8% across 123 participants, 29 participants (24%) with no errors and 6 (about 5%) with errors on all twelve critical trials. Two replications, from Switzerland in 2023 and Bosnia and Herzegovina in 2019, found error rates of 33% and 35.4%, and a 2024 systematic review describes the 2023 replication as mirroring Asch's rates. The article does not mention any replication, but since they agree with Asch, adding one would only confirm what the article already says."
+  },
+  {
+    "card_id": "1ace7af762cf0b18e059",
+    "field": "suggestion.assessment",
+    "old": "The article cites van Dijk et al. (2008) once, as an example of emotions carrying information in social interaction: anger signals that someone has reached their limit and shapes the other side's response. The paper supports this: across its studies bargainers ascribed higher limits to angry opponents and adjusted their offers. The replications in the packet tested a different, narrower result from Experiment 3 (anger leading to lower offers when rejection has little consequence), which the article does not mention. The weak replication of that result therefore does not bear on the sentence.",
+    "new": "The article cites van Dijk et al. (2008) once, as an example of emotions carrying information in social interaction: anger signals that someone has reached their limit and shapes the other side's response. The paper supports this: across its studies bargainers ascribed higher limits to angry opponents and adjusted their offers. The replications we found tested a different, narrower result from Experiment 3 (anger leading to lower offers when rejection has little consequence), which the article does not mention. The weak replication of that result therefore does not bear on the sentence."
+  },
+  {
+    "card_id": "f3b297557e3370f7fed2",
+    "field": "suggestion.verifications[5].claim",
+    "old": "A later paper checked by the pipeline mentions Levy's result alongside Eeckhout's.",
+    "new": "A later paper we checked mentions Levy's result alongside Eeckhout's."
+  },
+  {
+    "card_id": "a4a8e22e3920a0af98bb",
+    "field": "suggestion.verifications[8].claim",
+    "old": "A review checked by the pipeline mentions the failed replication.",
+    "new": "A review we checked mentions the failed replication."
+  },
+  {
+    "card_id": "6cc6610710cf38644f14",
+    "field": "suggestion.verifications[4].claim",
+    "old": "A review checked by the pipeline summarises the replication as partial.",
+    "new": "A review we checked summarises the replication as partial."
+  },
+  {
+    "card_id": "05a03b11dfc887d85ddc",
+    "field": "suggestion.rationale",
+    "old": "The 2011 paper cited for this sentence is a laboratory and mouse study and says nothing about clinical trials, so half of the sentence has no source. A 2017 paper in the packet does say that several BET inhibitors were in clinical trials at that time, so the clause can be dated and given that source.",
+    "new": "The 2011 paper cited for this sentence is a laboratory and mouse study and says nothing about clinical trials, so half of the sentence has no source. A 2017 paper we found does say that several BET inhibitors were in clinical trials at that time, so the clause can be dated and given that source."
+  },
+  {
+    "card_id": "649f3d690423026070e6",
+    "field": "suggestion.assessment",
+    "old": "Both uses are supported by the abstract of Hurlemann et al. (2010): in double-blind experiments on healthy adult men, intranasal oxytocin increased emotional (but not cognitive) empathy. The 2020 study by Le et al. repeated the empathy test in 40 healthy men and found the same increase, so it agrees with the article. The claim is about a hormone's effect on human behaviour, where Wikipedia's medical sourcing guidance asks for reviews; the replication is a single primary study and none of the papers the pipeline checked is a review that discusses it. The article's wording is slightly broader than the source (\"empathy\" for \"emotional empathy\"), but the same paragraph already raises the cognitive-versus-emotional distinction.",
+    "new": "Both uses are supported by the abstract of Hurlemann et al. (2010): in double-blind experiments on healthy adult men, intranasal oxytocin increased emotional (but not cognitive) empathy. The 2020 study by Le et al. repeated the empathy test in 40 healthy men and found the same increase, so it agrees with the article. The claim is about a hormone's effect on human behaviour, where Wikipedia's medical sourcing guidance asks for reviews; the replication is a single primary study and none of the papers we checked is a review that discusses it. The article's wording is slightly broader than the source (\"empathy\" for \"emotional empathy\"), but the same paragraph already raises the cognitive-versus-emotional distinction."
+  },
+  {
+    "card_id": "558a76e9dd6407a8e450",
+    "field": "two_run.other.rationale",
+    "old": "The list entry describes the 1993 study accurately and already says that later evidence was mixed and mostly does not support a lasting benefit. Nothing in the packet shows the entry to be wrong or incomplete.",
+    "new": "The list entry describes the 1993 study accurately and already says that later evidence was mixed and mostly does not support a lasting benefit. Nothing in the sources we found shows the entry to be wrong or incomplete."
+  },
+  {
+    "card_id": "d002c0648f67a08a1429",
+    "field": "suggestion.alternatives[0].when",
+    "old": "Only if editors want a recent confirmatory source; note that the copy in the packets is an OSF-hosted manuscript.",
+    "new": "Only if editors want a recent confirmatory source; note that the available copy is an OSF-hosted manuscript."
+  },
+  {
+    "card_id": "cb004d84131f41223d62",
+    "field": "suggestion.assessment",
+    "old": "The entry is a general definition of the framing effect and agrees with Tversky and Kahneman (1981), who report predictable shifts of preference when the same problem is framed in different ways. The replications in the packet found the effect again: Otterbring et al. (2021) report that the classic problem is replicable, and a 2025 paper summarises the Many Labs result as a clear effect that was smaller than in the original study. The definition is accurate and nothing needs adding to a list entry.",
+    "new": "The entry is a general definition of the framing effect and agrees with Tversky and Kahneman (1981), who report predictable shifts of preference when the same problem is framed in different ways. The replications found the effect again: Otterbring et al. (2021) report that the classic problem is replicable, and a 2025 paper summarises the Many Labs result as a clear effect that was smaller than in the original study. The definition is accurate and nothing needs adding to a list entry."
+  },
+  {
+    "card_id": "2fd9886968cf6c26751b",
+    "field": "suggestion.specific_study_match.note",
+    "old": "Jung et al. (2023) replicated the two field studies on driving (studies 1 and 2); Balakrishnan et al. (2017) replicated study 7 (greed priming and unethical behaviour at work). The candy experiment named in the prize rationale is study 4, which none of the packet replications is shown to have tested. Boyce et al. (2023) is a collection of 176 student replications and its abstract does not identify the Piff study concerned.",
+    "new": "Jung et al. (2023) replicated the two field studies on driving (studies 1 and 2); Balakrishnan et al. (2017) replicated study 7 (greed priming and unethical behaviour at work). The candy experiment named in the prize rationale is study 4, which none of the replications we found is shown to have tested. Boyce et al. (2023) is a collection of 176 student replications and its abstract does not identify the Piff study concerned."
+  },
+  {
+    "card_id": "56cb2612b28eac4d7fb7",
+    "field": "suggestion.content_points[3].point",
+    "old": "The paper appeared in Judgment and Decision Making, vol. 17, no. 1, January 2022, pp. 449-486; the DOI held in the packet (10.17605/osf.io/7yfkc) is that of its OSF project page.",
+    "new": "The paper appeared in Judgment and Decision Making, vol. 17, no. 1, January 2022, pp. 449-486; the DOI we have for it (10.17605/osf.io/7yfkc) is that of its OSF project page."
+  },
+  {
+    "card_id": "881b2a79429fb4252d47",
+    "field": "suggestion.alternatives[0].action",
+    "old": "Make only the narrowing: replace the sentence with the first drafted sentence (373 seventh graders, mathematics grades, about two years) and leave out the Li & Bates sentence.",
+    "new": "Make only the narrowing: describe the original study (373 seventh graders, mathematics grades, about two years) and leave out the Li & Bates near-replication."
+  },
+  {
+    "card_id": "4d5939b8a0df7ceb1d5f",
+    "field": "suggestion.alternatives[1].action",
+    "old": "Use only the first drafted sentence (what Abascal & Baldassarri did and concluded) and omit the sentence on the 2020 review.",
+    "new": "Describe only what Abascal & Baldassarri did and concluded, and omit the 2020 review."
+  },
+  {
+    "card_id": "ec200c471454ce5d4f62",
+    "field": "suggestion.alternatives[1].when",
+    "old": "In any case; the first instance is in the opening paragraph and is not covered by the drafted replacement.",
+    "new": "In any case; the first instance is in the opening paragraph, which the suggested edit does not cover."
+  },
+  {
+    "card_id": "78ae066f960b98817e78",
+    "field": "suggestion.alternatives[0].action",
+    "old": "Reword the sentence together with its neighbours as drafted in the card for the 2012 study (naming the Thinker experiment, describing the 2018 project, and correcting 'Noernzayan' to 'Norenzayan').",
+    "new": "Reword the sentence together with its neighbours as suggested for Gervais and Norenzayan (2012) on this card (naming the Thinker experiment, describing the 2018 project, and correcting 'Noernzayan' to 'Norenzayan')."
+  },
+  {
+    "card_id": "78ae066f960b98817e78",
+    "field": "suggestion.existing_acknowledgement.note",
+    "old": "Not applicable in the usual sense: the paper is itself the replication evidence on this page, and nothing in the packet re-tests the result the article takes from it.",
+    "new": "Not applicable in the usual sense: the paper is itself the replication evidence on this page, and nothing we found re-tests the result the article takes from it."
+  },
+  {
+    "card_id": "9a80ed0ec88ae488697b",
+    "field": "suggestion.uncertainties[1]",
+    "old": "The lead's sentence that priming effects may 'have been entirely illusory' is cited jointly to a Science News article (not in the packet) and to Doyen et al.; it was not assessed here.",
+    "new": "The lead's sentence that priming effects may 'have been entirely illusory' is cited jointly to a Science News article (which we did not have) and to Doyen et al.; it was not assessed here."
+  },
+  {
+    "card_id": "be3dfef25a6156f0b608",
+    "field": "suggestion.uncertainties[0]",
+    "old": "The direct replication of the coffee experiment is available in the packet only as a preprint of the accepted manuscript; the journal version (doi:10.1027/1864-9335/a000361, per Crossref) was not fetched, so the example wording cites the preprint DOI.",
+    "new": "We had the direct replication of the coffee experiment only as a preprint of the accepted manuscript. Crossref lists the journal version as doi:10.1027/1864-9335/a000361, which we did not obtain; cite the journal version if you can get it."
+  },
+  {
+    "card_id": "be3dfef25a6156f0b608",
+    "field": "suggestion.uncertainties[1]",
+    "old": "No review in the packet's checked list mentions the Chabris et al. replication; the two that mention a replication discuss Lynott et al. (Study 2).",
+    "new": "None of the reviews we checked mentions the Chabris et al. replication; the two that mention a replication discuss Lynott et al. (Study 2)."
+  },
+  {
+    "card_id": "3cd12104e070f0823407",
+    "field": "suggestion.uncertainties[0]",
+    "old": "The other reference on the same clause (Tulving, Schacter and Stark 1982, doi:10.1037/0278-7393.8.4.336) is not in the packet, so whether it supports 'contested' could not be assessed.",
+    "new": "The other reference on the same clause (Tulving, Schacter and Stark 1982, doi:10.1037/0278-7393.8.4.336) was not available to us, so whether it supports 'contested' could not be assessed."
+  },
+  {
+    "card_id": "d6bc57905df5db6c86f5",
+    "field": "suggestion.uncertainties[0]",
+    "old": "The full text read for the replication is the University of Zurich working-paper version (February 2023), not the journal article. The example wording therefore uses only facts stated in the journal abstract; the percentage-point estimates in the working paper are left out because they may differ in the published version.",
+    "new": "The full text we read for the replication is the University of Zurich working-paper version (February 2023), not the journal article. Use only facts stated in the journal abstract: the percentage-point estimates in the working paper may differ in the published version."
+  },
+  {
+    "card_id": "b71eb676ccdfbbc8317c",
+    "field": "suggestion.uncertainties[0]",
+    "old": "Protzko & Aronson, Hanselman et al. and Baker et al. were read at abstract level only (for Hanselman only the supplementary tables were available as text), so sample sizes and school details beyond the abstracts are not stated in the wording.",
+    "new": "Protzko & Aronson, Hanselman et al. and Baker et al. were read at abstract level only (for Hanselman only the supplementary tables were available as text), so do not give sample sizes or school details beyond what the abstracts say."
+  },
+  {
+    "card_id": "b71eb676ccdfbbc8317c",
+    "field": "suggestion.uncertainties[1]",
+    "old": "Hanselman et al. replicate an earlier field experiment in their own setting rather than Cohen et al.'s school; the wording says so.",
+    "new": "Hanselman et al. replicate an earlier field experiment in their own setting rather than in Cohen et al.'s school; an edit should say so."
+  },
+  {
+    "card_id": "dcaebad614cf590f87ce",
+    "field": "suggestion.uncertainties[1]",
+    "old": "A second replication, in a Brazilian sample, is in the packet as a preprint and reports that all four problems replicated; its journal version (doi:10.1016/j.joep.2024.102744) was seen at metadata level only, so it is not used in the wording.",
+    "new": "A second replication, in a Brazilian sample, reports that all four problems replicated. We had it only as a preprint, and its journal version (doi:10.1016/j.joep.2024.102744) only as publication details, so it is not among the suggested sources."
+  },
+  {
+    "card_id": "dcaebad614cf590f87ce",
+    "field": "suggestion.evidence_used[2].what_it_supports",
+    "old": "The extension result mentioned in the example wording.",
+    "new": "The extension result mentioned in the suggested points."
+  },
+  {
+    "card_id": "dcaebad614cf590f87ce",
+    "field": "suggestion.evidence_used[3].what_it_supports",
+    "old": "A later paper (itself a replication, in preprint form) describes the Ziano et al. result the same way. It is a preprint, so it is not used as a citation in the wording.",
+    "new": "A later paper (itself a replication, in preprint form) describes the Ziano et al. result the same way. It is a preprint, so it is not suggested as a citation."
+  },
+  {
+    "card_id": "aeb4b03da60346639d65",
+    "field": "suggestion.uncertainties[0]",
+    "old": "The live article has been edited since the frozen revision; the pipeline's check reports the focal paragraph unchanged.",
+    "new": "The live article has been edited since the snapshot; our automatic check found the paragraph at issue unchanged."
+  },
+  {
+    "card_id": "18b1cb4274004eeec969",
+    "field": "suggestion.uncertainties[1]",
+    "old": "The replication was read at abstract level; the abstract does not say what the meta-analysis covered, so the draft wording leaves the meta-analysis out.",
+    "new": "The replication was read at abstract level; the abstract does not say what the meta-analysis covered, so leave the meta-analysis out."
+  },
+  {
+    "card_id": "0932007df66a09db2e5e",
+    "field": "suggestion.uncertainties[0]",
+    "old": "The reanalysis was read at abstract level only; the abstract states its conclusions plainly but gives no figures, so the draft wording contains none.",
+    "new": "The reanalysis was read at abstract level only; the abstract states its conclusions plainly but gives no figures, so do not quote any."
+  },
+  {
+    "card_id": "59c565aa69b0392e3137",
+    "field": "suggestion.uncertainties[0]",
+    "old": "Both sentences rest on primary sources; no review in the packet's checked list was found to mention Graham et al. (2023), and only their abstracts were available.",
+    "new": "Both sentences rest on primary sources; none of the reviews we checked mentions Graham et al. (2023), and only their abstracts were available."
+  },
+  {
+    "card_id": "59c565aa69b0392e3137",
+    "field": "suggestion.uncertainties[1]",
+    "old": "The original's abstract gives N = 196, while its method section lists 96 and 102 participants per condition and a footnote refers to 197 participants; the draft uses the abstract's figure, which Graham et al. also give.",
+    "new": "The original's abstract gives N = 196, while its method section lists 96 and 102 participants per condition and a footnote refers to 197 participants. The suggestion uses the abstract's figure, which Graham et al. also give."
+  },
+  {
+    "card_id": "293d0730bf5ed1444af8",
+    "field": "suggestion.draft.location",
+    "old": "Reception section, directly after the sentence ending \"evaluating its impact on fake news discernment and recognition.\" and before the sentences on the 2020 experiment drafted for item 59c565aa69b0392e3137",
+    "new": "Reception section, directly after the sentence ending \"evaluating its impact on fake news discernment and recognition.\" and before the sentences on the 2020 experiment suggested for Basol et al. (2020) on this card"
+  },
+  {
+    "card_id": "d0f5428c75c410473ca5",
+    "field": "suggestion.uncertainties[0]",
+    "old": "No source in the packet states how the 2018 card game relates to Bad News (both were made with DROG by the same authors), so the article cannot, from these sources, present the 2018 study as background to Bad News.",
+    "new": "None of the sources we found states how the 2018 card game relates to Bad News (both were made with DROG by the same authors), so the article cannot, from these sources, present the 2018 study as background to Bad News."
+  },
+  {
+    "card_id": "d0f5428c75c410473ca5",
+    "field": "suggestion.uncertainties[2]",
+    "old": "The pipeline marked the review 10.1080/10494820.2023.2299999 as mentioning the replication; the match is a false positive on an unrelated author name (see verifications).",
+    "new": "Our automatic search marked the review 10.1080/10494820.2023.2299999 as mentioning the replication; the match is a false positive on an unrelated author name (see What we checked)."
+  },
+  {
+    "card_id": "f16a8bdee0e4a17f85eb",
+    "field": "suggestion.uncertainties[2]",
+    "old": "The replication's conclusion describes the original data as coming from Israeli leagues, whereas the original describes its kicks as from top leagues and championships worldwide (its goalkeeper survey was Israeli). The draft follows the original's own description.",
+    "new": "The replication's conclusion describes the original data as coming from Israeli leagues, whereas the original describes its kicks as from top leagues and championships worldwide (its goalkeeper survey was Israeli). The suggestion follows the original's own description."
+  },
+  {
+    "card_id": "40fd0f609decd698e343",
+    "field": "suggestion.uncertainties[0]",
+    "old": "The 2024 article that mentions the replication (Chandrashekar & Fillon) is an empirical paper by the replication's first author, not an independent review; no independent review in the packet mentions the replication.",
+    "new": "The 2024 article that mentions the replication (Chandrashekar & Fillon) is an empirical paper by the replication's first author, not an independent review; no independent review we found mentions the replication."
+  },
+  {
+    "card_id": "40fd0f609decd698e343",
+    "field": "suggestion.uncertainties[1]",
+    "old": "The conceptual replication in the same article did find a default effect for opt-out versus opt-in in a different scenario, so the wording names the specific 2002 study and reports the authors' context-dependence conclusion rather than a blanket failure of default effects.",
+    "new": "The conceptual replication in the same article did find a default effect for opt-out versus opt-in in a different scenario, so an edit should name the specific 2002 study and report the authors' conclusion that the effect depends on context, not claim that default effects failed in general."
+  },
+  {
+    "card_id": "a9833b865f1809fd2aba",
+    "field": "suggestion.uncertainties[0]",
+    "old": "The sentence attributing a possible effort difference between lips and teeth positions is cited to Zajonc et al. (1989), which is not in the packet and was not checked.",
+    "new": "The sentence attributing a possible effort difference between lips and teeth positions is cited to Zajonc et al. (1989), which we did not have and did not check."
+  },
+  {
+    "card_id": "06dbebb53dc41a379e31",
+    "field": "suggestion.uncertainties[1]",
+    "old": "Whether the Brodeur papers changed awareness among economists, which is what the paragraph is about, is not something any of the packet sources addresses.",
+    "new": "Whether the Brodeur papers changed awareness among economists, which is what the paragraph is about, is not addressed by any of the sources we had."
+  },
+  {
+    "card_id": "96c886be06651c90b842",
+    "field": "suggestion.uncertainties[0]",
+    "old": "The phrase 'one of the most highly respected journals' is an evaluation that none of the packet sources states; only the journal's identity could be confirmed.",
+    "new": "The phrase 'one of the most highly respected journals' is an evaluation that none of the sources we had makes; only the journal's identity could be confirmed."
+  },
+  {
+    "card_id": "96c886be06651c90b842",
+    "field": "suggestion.uncertainties[1]",
+    "old": "The second mention groups 'Bem' with a fraud case under the word 'scandals' and is cited to a book review that is not in the packet, so what that source says could not be examined.",
+    "new": "The second mention groups 'Bem' with a fraud case under the word 'scandals' and is cited to a book review we did not have, so what that source says could not be examined."
+  },
+  {
+    "card_id": "96c886be06651c90b842",
+    "field": "suggestion.evidence_used[1].what_it_supports",
+    "old": "A large replication of Experiments 8 and 9 that did not find the effect; basis of the example wording.",
+    "new": "A large replication of Experiments 8 and 9 that did not find the effect; the main source for the suggested edit."
+  },
+  {
+    "card_id": "90d2f257a47624146a5d",
+    "field": "suggestion.uncertainties[0]",
+    "old": "The earlier sentences in the paragraph are cited to Asch (1951) and a website, which are not in the packet, so they were not checked.",
+    "new": "The earlier sentences in the paragraph are cited to Asch (1951) and a website, which we did not have, so they were not checked."
+  },
+  {
+    "card_id": "90d2f257a47624146a5d",
+    "field": "suggestion.uncertainties[1]",
+    "old": "In Franzen and Mader's study the 33% figure comes from the 102 participants in the condition without monetary incentives; the wording therefore gives no sample size.",
+    "new": "In Franzen and Mader's study the 33% figure comes from the 102 participants in the condition without monetary incentives, so do not give the study's total sample size with it."
+  },
+  {
+    "card_id": "357f5c75368a5fee02cb",
+    "field": "suggestion.uncertainties[0]",
+    "old": "The replication is conceptual, not exact: online participants, a 2-back demanding task, thought probes, and rater-scored creativity in place of uniqueness scoring. The wording therefore says 'conceptual replication'.",
+    "new": "The replication is conceptual, not exact: online participants, a 2-back demanding task, thought probes, and rater-scored creativity in place of uniqueness scoring. Call it a conceptual replication."
+  },
+  {
+    "card_id": "357f5c75368a5fee02cb",
+    "field": "suggestion.uncertainties[1]",
+    "old": "The packet's list of checked reviews marks none as mentioning the replication, but the full texts of two of them (10.1371/journal.pone.0267187 and 10.1080/10400419.2023.2254573) do cite it; both are research or theory articles, not systematic reviews.",
+    "new": "Our automatic search marked none of the checked reviews as mentioning the replication, but the full texts of two of them (10.1371/journal.pone.0267187 and 10.1080/10400419.2023.2254573) do cite it; both are research or theory articles, not systematic reviews."
+  },
+  {
+    "card_id": "357f5c75368a5fee02cb",
+    "field": "suggestion.uncertainties[2]",
+    "old": "Crossref dates the replication's journal issue to 2024; it appeared online in 2021, and the draft wording avoids a year.",
+    "new": "Crossref dates the replication's journal issue to 2024, but it appeared online in 2021, so avoid giving a year."
+  },
+  {
+    "card_id": "16e9fb65f7a10cc5949b",
+    "field": "suggestion.uncertainties[1]",
+    "old": "The phrase 'a country with a very similar culture and economic development' is not in Johnson and Goldstein; the sentence is also cited to Thaler's 2009 New York Times column, which is not in the packet.",
+    "new": "The phrase 'a country with a very similar culture and economic development' is not in Johnson and Goldstein; the sentence is also cited to Thaler's 2009 New York Times column, which we did not have."
+  },
+  {
+    "card_id": "9148bd2437f3f0e96106",
+    "field": "suggestion.uncertainties[1]",
+    "old": "The clause is also supported by Fox and Clemen (2005), which is not in the packet and was not read; the replication concerns only the 2003 study.",
+    "new": "The clause is also supported by Fox and Clemen (2005), which we did not have or read; the replication concerns only the 2003 study."
+  },
+  {
+    "card_id": "6a61b434691693f085f2",
+    "field": "suggestion.uncertainties[0]",
+    "old": "The 73.5% and 62.5% figures come from the opt-out (n = 476) and opt-in (n = 488) conditions of the direct replication; the study's total of 1,920 participants also covers a no-default condition and extension conditions, so the wording does not attach the total to this comparison.",
+    "new": "The 73.5% and 62.5% figures come from the opt-out (n = 476) and opt-in (n = 488) conditions of the direct replication. The study's total of 1,920 participants also covers a no-default condition and extension conditions, so do not attach the total to this comparison."
+  },
+  {
+    "card_id": "6a61b434691693f085f2",
+    "field": "suggestion.uncertainties[1]",
+    "old": "No review checked by the pipeline mentions the replication (the one review checked, a 2019 meta-analysis of default effects, predates it), so the addition rests on the replication paper alone, attributed.",
+    "new": "None of the reviews we checked mentions the replication (the one review checked, a 2019 meta-analysis of default effects, predates it), so the addition rests on the replication paper alone, attributed."
+  },
+  {
+    "card_id": "a4a8e22e3920a0af98bb",
+    "field": "suggestion.uncertainties[0]",
+    "old": "The article calls the 2021 data problem 'unrelated' to the 2023 allegations. The retraction notice says only that the validity of the data was questioned; the packet sources do not say which study's data each set of concerns involved, so that word is neither confirmed nor contradicted here.",
+    "new": "The article calls the 2021 data problem 'unrelated' to the 2023 allegations. The retraction notice says only that the validity of the data was questioned; the sources we had do not say which study's data each set of concerns involved, so that word is neither confirmed nor contradicted here."
+  },
+  {
+    "card_id": "05a03b11dfc887d85ddc",
+    "field": "suggestion.uncertainties[0]",
+    "old": "The preceding article sentence cites a 2014 review (Shi and Vakoc, doi:10.1016/j.molcel.2014.05.016) that is not in the packet and may also cover clinical trials of BET inhibitors; it was not read.",
+    "new": "The preceding article sentence cites a 2014 review (Shi and Vakoc, doi:10.1016/j.molcel.2014.05.016) that we did not have and that may also cover clinical trials of BET inhibitors; it was not read."
+  },
+  {
+    "card_id": "649f3d690423026070e6",
+    "field": "suggestion.uncertainties[1]",
+    "old": "The second source on the 'Social' sentence (Domes et al. 2007) is not in the packet and was not read.",
+    "new": "The second source on the 'Social' sentence (Domes et al. 2007) was not available to us and was not read."
+  },
+  {
+    "card_id": "558a76e9dd6407a8e450",
+    "field": "suggestion.uncertainties[1]",
+    "old": "The four later studies cited for the \"weight of subsequent evidence\" sentence are not in the packet and were not examined.",
+    "new": "The four later studies cited for the \"weight of subsequent evidence\" sentence were not available to us and were not examined."
+  },
+  {
+    "card_id": "cf499d86909151fbd33a",
+    "field": "suggestion.uncertainties[0]",
+    "old": "The packets contain no source that defines authority bias in terms of perceived accuracy, so the draft narrows the wording to Milgram's finding instead of supplying a different source.",
+    "new": "None of the sources we had defines authority bias in terms of perceived accuracy, so the suggestion narrows the wording to Milgram's finding rather than supplying a different source."
+  },
+  {
+    "card_id": "e7a5d2648c80813c8b7e",
+    "field": "suggestion.uncertainties[0]",
+    "old": "None of the review articles the pipeline checked mentions the 2015 replication.",
+    "new": "None of the review articles we checked mentions the 2015 replication."
+  },
+  {
+    "card_id": "94da14c2b142265f2ab3",
+    "field": "suggestion.uncertainties[0]",
+    "old": "The replication in the packets is a preprint (posted content), which is a weaker source than the Nature paper already cited.",
+    "new": "The replication we had is a preprint (posted content), which is a weaker source than the Nature paper already cited."
+  },
+  {
+    "card_id": "7b3d33cc48f39207c3b6",
+    "field": "suggestion.uncertainties[1]",
+    "old": "The wording of the prize rationale and the fact that the prize went to Wansink alone come from the Ig Nobel announcement, which is not among the packet sources.",
+    "new": "The wording of the prize rationale and the fact that the prize went to Wansink alone come from the Ig Nobel announcement, which we did not have."
+  },
+  {
+    "card_id": "7b3d33cc48f39207c3b6",
+    "field": "suggestion.evidence_used[1].what_it_supports",
+    "old": "Crossref metadata in the packet (Brian Wansink, James E. Painter, Jill North; Obesity Research; 2005; same title) matches the authors, journal, year and title in the article's reference.",
+    "new": "Crossref's record (Brian Wansink, James E. Painter, Jill North; Obesity Research; 2005; same title) matches the authors, journal, year and title in the article's reference."
+  },
+  {
+    "card_id": "2fd9886968cf6c26751b",
+    "field": "suggestion.uncertainties[1]",
+    "old": "The wording of the prize rationale and the countries '(USA, Mexico, Canada)' come from the Ig Nobel announcement, which is not among the packet sources; the paper lists affiliations in the United States and Canada only, which says nothing about nationality.",
+    "new": "The wording of the prize rationale and the countries '(USA, Mexico, Canada)' come from the Ig Nobel announcement, which we did not have; the paper lists affiliations in the United States and Canada only, which says nothing about nationality."
+  },
+  {
+    "card_id": "2fd9886968cf6c26751b",
+    "field": "suggestion.evidence_used[3].what_it_supports",
+    "old": "A 2019 review that the pipeline found to cite Balakrishnan et al. (2017); listed only as the secondary source available for the alternative below.",
+    "new": "A 2019 review that our search found to cite Balakrishnan et al. (2017); listed only as the secondary source available for the alternative below."
+  },
+  {
+    "card_id": "f84ff1fe303855ec730c",
+    "field": "suggestion.uncertainties[1]",
+    "old": "The wording of the prize rationale comes from the Ig Nobel announcement, which is not among the packet sources.",
+    "new": "The wording of the prize rationale comes from the Ig Nobel announcement, which we did not have."
+  },
+  {
+    "card_id": "7d53a3ae7f8f425cfab6",
+    "field": "suggestion.uncertainties[0]",
+    "old": "The wording of the prize rationale comes from the Ig Nobel announcement, which is not among the packet sources.",
+    "new": "The wording of the prize rationale comes from the Ig Nobel announcement, which we did not have."
+  },
+  {
+    "card_id": "4031a6c18f78687c2ec3",
+    "field": "suggestion.uncertainties[1]",
+    "old": "The follow-up study the article cites for the CASS4 variant (Ruiz et al. 2014, doi:10.1038/tp.2014.2) is not in the packet, so the sentence \"not found predictive\" and its Table 1 figures were not examined.",
+    "new": "The follow-up study the article cites for the CASS4 variant (Ruiz et al. 2014, doi:10.1038/tp.2014.2) was not available to us, so the sentence \"not found predictive\" and its Table 1 figures were not examined."
+  },
+  {
+    "card_id": "56cb2612b28eac4d7fb7",
+    "field": "suggestion.uncertainties[1]",
+    "old": "The packet identifies the replication by its OSF DOI. The cached text is the published journal article, so a citation written by a contributor would name the journal; the journal's own DOI is not in this packet.",
+    "new": "The database identifies the replication by its OSF DOI, but the text we read is the published journal article, so a citation should name the journal. We do not have the journal's own DOI."
+  },
+  {
+    "card_id": "7b6947af9be62e1ff93e",
+    "field": "suggestion.uncertainties[0]",
+    "old": "The same DOI, 10.1086/468020, is attached to two different papers in the article: Lott and Whitley, \"Safe-Storage Gun Laws\" (The Journal of Law and Economics, 2001), cited in the lead, and Lott, \"The concealed-handgun debate\" (The Journal of Legal Studies, 1998), cited under Support. A DOI identifies one paper, so at least one of these references carries the wrong DOI; the packet does not contain either paper, so which one is wrong was not established.",
+    "new": "The same DOI, 10.1086/468020, is attached to two different papers in the article: Lott and Whitley, \"Safe-Storage Gun Laws\" (The Journal of Law and Economics, 2001), cited in the lead, and Lott, \"The concealed-handgun debate\" (The Journal of Legal Studies, 1998), cited under Support. A DOI identifies one paper, so at least one of these references carries the wrong DOI; we had neither paper, so which one is wrong was not established."
+  },
+  {
+    "card_id": "7b6947af9be62e1ff93e",
+    "field": "suggestion.uncertainties[1]",
+    "old": "The claim that the book expands on the 1997 study concerns the book, which is not in the packet; only the facts about the 1997 paper were checked.",
+    "new": "The claim that the book expands on the 1997 study concerns the book, which we did not have; only the facts about the 1997 paper were checked."
+  },
+  {
+    "card_id": "881b2a79429fb4252d47",
+    "field": "suggestion.uncertainties[1]",
+    "old": "Li & Bates studied undergraduates, not adolescents, so it qualifies rather than overturns the 2007 finding; the drafted wording states the population for that reason.",
+    "new": "Li & Bates studied undergraduates, not adolescents, so their study qualifies rather than overturns the 2007 finding; an edit should state the population for that reason."
+  },
+  {
+    "card_id": "881b2a79429fb4252d47",
+    "field": "suggestion.uncertainties[2]",
+    "old": "None of the review articles the pipeline checked mentions Li & Bates (2020), so the replication sentence rests on the primary paper alone.",
+    "new": "None of the review articles we checked mentions Li & Bates (2020), so the replication sentence rests on the primary paper alone."
+  },
+  {
+    "card_id": "881b2a79429fb4252d47",
+    "field": "suggestion.evidence_used[2].what_it_supports",
+    "old": "Brez et al. tested an intervention, not the longitudinal association the article cites Blackwell for; it is therefore not used in the suggested wording.",
+    "new": "Brez et al. tested an intervention, not the longitudinal association the article cites Blackwell for, so it is not among the suggested sources."
+  },
+  {
+    "card_id": "881b2a79429fb4252d47",
+    "field": "suggestion.content_points[5].point",
+    "old": "The replication sample was university students at one UK university, whereas the original sample was seventh graders; the wording should make the difference in population visible.",
+    "new": "The replication sample was university students at one UK university, whereas the original sample was seventh graders; an edit should make the difference in population clear."
+  },
+  {
+    "card_id": "4d5939b8a0df7ceb1d5f",
+    "field": "suggestion.uncertainties[1]",
+    "old": "The sentences on voting, volunteering and trust being 'only half' in the civic-engagement section are cited to a newspaper article outside the packet and were not assessed.",
+    "new": "The sentences on voting, volunteering and trust being 'only half' in the civic-engagement section are cited to a newspaper article we did not have, and were not assessed."
+  },
+  {
+    "card_id": "946a7e1d692b84632cce",
+    "field": "suggestion.uncertainties[1]",
+    "old": "The second reference attached to the replication sentence (Radoja 2015, a conference chapter titled 'The Role of Counselling in Medical Settings') is outside the packet and was not assessed.",
+    "new": "The second reference attached to the replication sentence (Radoja 2015, a conference chapter titled 'The Role of Counselling in Medical Settings') was not available to us and was not assessed."
+  },
+  {
+    "card_id": "78ae066f960b98817e78",
+    "field": "suggestion.assessment",
+    "old": "The article cites this replication project for one thing: that a second team did not reproduce Gervais and Norenzayan's result. The project's supplementary results table lists that experiment as not replicated, and the original authors' letter treats it as a non-replication, so the sentence is supported. The later paper linked to this project in the database is an audit of scarcity research and does not concern the claim made here. The imprecise wording of the surrounding paragraph (which experiment was replicated, the misspelt surname) is dealt with once, in the card for the 2012 study on this page.",
+    "new": "The article cites this replication project for one thing: that a second team did not reproduce Gervais and Norenzayan's result. The project's supplementary results table lists that experiment as not replicated, and the original authors' letter treats it as a non-replication, so the sentence is supported. The later paper linked to this project in the database is an audit of scarcity research and does not concern the claim made here. The imprecise wording of the surrounding paragraph (which experiment was replicated, the misspelt surname) is dealt with once, under the 2012 study on this card."
+  },
+  {
+    "card_id": "78ae066f960b98817e78",
+    "field": "two_run.other.rationale",
+    "old": "The sentence correctly reports that the Camerer et al. project did not reproduce the Gervais and Norenzayan experiment, and the source supports it. Nothing about this citation needs changing; the spelling and the wording of the neighbouring sentence are covered in the other item on this card.",
+    "new": "The sentence correctly reports that the Camerer et al. project did not reproduce the Gervais and Norenzayan experiment, and the source supports it. Nothing about this citation needs changing; the spelling and the wording of the neighbouring sentence are covered under the other study on this card."
+  }
+]

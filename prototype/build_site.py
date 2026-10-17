@@ -24,10 +24,8 @@ from validate import check
 from write_about import about_md
 
 HERE = pathlib.Path(__file__).resolve().parent
-ROUTE_LABEL = {'claude_v4': 'Claude sub-agent (page-level, verified against papers)',
-               'claude_v41': 'Claude sub-agent (page-level, verified against papers and abstracts)',
-               'claude': 'Claude sub-agent', 'claude_ft': 'Claude sub-agent, re-drafted with added full text', 'codex': 'Codex CLI (ChatGPT subscription)', 'agy': 'Antigravity CLI',
-               'orchestrator': 'Orchestrator (Claude Opus 5.5) redraft'}
+ROUTE_LABEL = {k: 'Claude' for k in ('claude', 'claude_ft', 'claude_v4', 'claude_v41', 'claude_v5a', 'claude_v5b')}
+ROUTE_LABEL.update(codex='Codex', agy='Gemini', orchestrator='Claude')
 LEVEL = {'metadata_only': 0, 'abstract': 1, 'full_text': 2}
 
 
@@ -52,9 +50,9 @@ def short(s):
 
 
 def src_view(s):
-    note = {'full_text': f"Full text cached: {s.get('fulltext_source')}",
-            'abstract': f"Abstract only ({s.get('abstract_source')}); full text not inspected by the pipeline",
-            'metadata_only': 'Bibliographic metadata only; no abstract or full text obtained'}[s['evidence_level']]
+    note = {'full_text': 'Full text available',
+            'abstract': 'Abstract only; we could not get the full paper',
+            'metadata_only': 'Title and publication details only; no abstract or full text obtained'}[s['evidence_level']]
     return dict(doi=s['doi'], citation=cite(s), short=short(s), evidence_level=s['evidence_level'],
                 evidence_note=note, retrieved_at=s['retrieved_at'],
                 retracted=(s.get('openalex') or {}).get('is_retracted'))
@@ -160,12 +158,32 @@ def build_items():
             adds_replication=adds_replication(final, pk),
             kind=('judgement' if two_run and not two_run['agree'] else strength_class(final)),
             validation=dict(errors=errors, warnings=warnings),
-            provenance=dict(route=route, route_label=ROUTE_LABEL.get(route, route),
+            provenance=dict(route=route, route_label=ROUTE_LABEL.get(route, 'AI assessment'),
                             model=meta.get('model') or assignment.get('models', {}).get(route, ''),
                             finished_at=meta.get('finished_at', ''), fulltext_update=ft_note,
                             orchestrator=dict(verdict=(review or {}).get('verdict', 'not yet reviewed'),
                                               notes=(review or {}).get('notes', '')))))
+    apply_text_overrides(items)
     return items, missing
+
+
+def apply_text_overrides(cards):
+    """Apply display-only rewrites; reject stale paths or source text."""
+    by_id = {c['card_id']: c for c in cards}
+    for o in json.loads((HERE / 'text_overrides.json').read_text()):
+        label = f"{o['card_id']}:{o['field']}"
+        try:
+            target = by_id[o['card_id']]
+            keys = [int(k) if k.isdigit() else k for k in
+                    re.split(r'\.|\[|\]', o['field']) if k]
+            for key in keys[:-1]:
+                target = target[key]
+            old = target[keys[-1]]
+        except (KeyError, IndexError, TypeError) as e:
+            raise ValueError(f'Text override missing card or field: {label}') from e
+        if old != o['old']:
+            raise ValueError(f'Text override old text mismatch: {label}')
+        target[keys[-1]] = o['new']
 
 
 def build_pages(items):
@@ -281,7 +299,7 @@ def main():
     pages = build_pages(cards)
     built = datetime.datetime.now(datetime.timezone.utc).isoformat(timespec='seconds')
     data = dict(build_id=hashlib.sha256(json.dumps(cards, sort_keys=True).encode()).hexdigest()[:12], built_at=built,
-                status='PRIVATE RESEARCH/REVIEW MATERIAL: model-drafted, not human-adjudicated, not for publication',
+                status='Private research material, not for publication. Prepared with AI; nobody has checked it yet.',
                 counts=counts(cards, pages), missing_drafts=missing, pages=pages)
     (out / 'data').mkdir(parents=True, exist_ok=True)
     (out / 'downloads').mkdir(exist_ok=True)
@@ -290,7 +308,7 @@ def main():
     dump_json(out / 'data' / 'suggestions.json', data)
     (RUN / 'about.md').write_text(about_md(dict(data, cards=cards)))
     pandoc(HERE / 'docs' / 'contributor-workflow.md', out / 'guide.html', 'Contributor workflow')
-    pandoc(RUN / 'about.md', out / 'about.html', 'Method, coverage and drafting routes')
+    pandoc(RUN / 'about.md', out / 'about.html', 'Method & coverage')
     dl = out / 'downloads'
     shutil.copy2(out / 'data' / 'suggestions.json', dl / 'suggestions.json')
     (dl / 'suggestions.csv').write_text(flat_csv(cards))
@@ -313,14 +331,26 @@ def main():
                                       (RUN / 'cache', 'secondary/*.json'), (RUN / 'cache', 'live_revisions.json'),
                                       (RUN / 'cache', 'requests.jsonl'), (RUN / 'cache', 'policy/*.json')])
     (dl / 'README.txt').write_text(
-        'Private research material; not for publication.\n'
-        'source-cache.zip holds metadata, abstracts, OpenAlex leads, live-revision checks, the request log and policy '
-        'snapshots. Cached open-access full texts stay in runs/edit-prototype-en/cache/fulltext and are not '
-        'redistributed here, because some come from free-to-read copies without a reuse licence.\n')
+        'Private research material. Not for publication.\n\n'
+        'The cards were prepared with AI and nobody has checked them yet. Read the articles and sources before '
+        'acting, and write any edit in your own words. These downloads keep earlier AI-written draft wording (in '
+        'suggestions.json, suggestions.csv and drafts-all-routes.zip) for research. Do not copy it into Wikipedia.\n\n'
+        'suggestions.json holds the cards; suggestions.csv has one row per study. about.md describes the method and '
+        'coverage, and contributor-workflow.md explains how to review a card and record a decision. '
+        'papers-not-obtained.csv lists the papers we could not get in full, with notes on where we looked. '
+        'evidence-packets.zip holds the evidence the AI was given for each study. source-cache.zip holds publication '
+        'details, abstracts, possible review articles, revision checks, the request log and the saved Wikipedia '
+        'policies; a possible review article is a lead, not a checked source. The other files record the selection, '
+        'the AI comparisons, the checks and the costs.\n\n'
+        'Cached full texts stay in runs/edit-prototype-en/cache/fulltext and are not included here, because some '
+        'free-to-read copies have no reuse licence.\n')
     items = sorted(p.name for p in dl.iterdir() if p.name != 'index.html')
     (dl / 'index.html').write_text('<!doctype html><meta charset="utf-8"><meta name="robots" content="noindex">'
                                    '<link rel="stylesheet" href="../style.css"><div class="prose"><h1>Downloads</h1>'
-                                   '<p>Private research material. Not for publication.</p><ul>'
+                                   '<p>Private research material. Not for publication. The cards were prepared with AI and nobody has '
+                                   'checked them yet: read the sources and write any edit in your own words. Some files keep '
+                                   'earlier AI-written draft wording for research; do not copy it into Wikipedia. '
+                                   '<a href="README.txt">README.txt</a> says what each file holds.</p><ul>'
                                    + ''.join(f'<li><a href="{n}">{n}</a> ({(dl / n).stat().st_size // 1024} KB)</li>' for n in items)
                                    + '</ul><p><a href="../index.html">Back to the prototype</a></p></div>')
     print(json.dumps(dict(output=str(out), **data['counts'], missing=len(missing)), indent=1))

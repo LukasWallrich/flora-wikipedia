@@ -1,11 +1,10 @@
 ## What these cards are
 
 Each card describes one English Wikipedia article and every study on it that is
-listed in FLoRA (the FORRT Library of Replication Attempts). A language model
-read the article passage and the sources we could retrieve, then proposed what,
+listed in FLoRA (the FORRT Library of Replication Attempts). We used AI to read
+the article passage and the sources we could retrieve, and to suggest what,
 if anything, a careful editor might change. The cards are private research
-material. They are model review, not human adjudication, and they are not
-instructions to edit.
+material and nobody has checked them yet: whether to edit is your decision.
 
 A FLoRA match is a screening signal. The absence of a replication DOI on a page
 does not show that the article ignores replication evidence, and a failed
@@ -26,7 +25,7 @@ revision 1378840295).
 The cards therefore give no ready-made wording. Each suggested edit says where a
 change could go, which sources it could cite and which points from those sources
 it could cover; the text is yours to write from the sources you have read. Do
-not use model output in an article, an edit summary or a talk page.
+not use AI output in an article, an edit summary or a talk page.
 
 Clicking "save" yourself does not turn a generated suggestion into your own
 work, and making many similar edits from a list can be treated as bot-like
@@ -35,30 +34,29 @@ The prototype has no edit, submit or copy-to-Wikipedia function by design.
 
 ## Working through a card
 
-1. **Open the reviewed revision and the live article.** Use "Changes since
-   review" to see whether the passage has changed. If it has, re-read the current
-   text; the card describes the older revision only.
+1. **Open the snapshot and the live article.** Use "Changes since this
+   snapshot" to see whether the passage has changed. If it has, re-read the
+   current text; the card describes the snapshot only.
 2. **Read the whole section and the talk page**, including archives, for earlier
    discussion of the study or its replications. Existing consensus takes
-   precedence over our queue.
+   precedence over our suggestions.
 3. **Identify the claim.** Which sentence does the citation support, and is it
    presented as current empirical fact, as history ("X first proposed…"), as an
    example, or only as a bibliography entry? Historical wording that is used to
    support a present-day claim counts as current support.
-4. **Use "What we checked".** Before you see a card, the pipeline obtained the
-   papers it could (open-access copies, author and repository versions) and the
-   model checked the facts the suggestion relies on against them. Each check shows
-   its verdict and the quoted passage, matched word for word. A word-for-word
-   match shows that the passage exists, not that the model understood it, so read
-   the sources yourself and check anything your edit will rely on. If a quote
-   looks wrong or out of context, say so in your notes. Each check is labelled
-   with what was read. A clear abstract is used for
-   what it plainly states (what was tested, in whom, the main result); details
-   beyond the abstract are only stated where the full paper was read. If neither
-   could be obtained, the card says so in one line.
+4. **Use "What we checked".** We collected the papers we could (open-access
+   copies, author and repository versions), and the AI checked the facts each
+   suggestion relies on against them. Each check shows its verdict and the
+   passage it quotes. The quote appears word for word in the source, which shows
+   that the passage exists, not that the AI understood it, so read the sources
+   yourself and check anything your edit will rely on. If a quote looks wrong or
+   out of context, say so in your notes. Each check also says what was read: the
+   AI relies on an abstract only for what it plainly states (what was tested, in
+   whom, the main result) and gives further detail only where it read the full
+   paper. If neither could be obtained, the card says so.
 5. **Weigh the evidence.** A single replication is a primary source: it can
    support a short, attributed, descriptive sentence in an article about that
-   effect, but not a conclusion about "the evidence". Review articles the pipeline
+   effect, but not a conclusion about "the evidence". Review articles we
    found that discuss the replication are listed on the card. See "Reading a
    replication" below. Do not ask other Wikipedia editors to check sources for you.
 6. **Decide on the smallest change that makes the claim accurate.** The options
@@ -71,9 +69,9 @@ The prototype has no edit, submit or copy-to-Wikipedia function by design.
    something its cited source contradicts or does not support. A **recommended
    addition** means the article relies on the study and leaves out a replication
    that tested the same claim and failed or clearly qualified it. An **optional
-   addition** means the article is accurate and the extra sentence is your
-   choice. Each page was drafted twice; where the two runs disagreed the card is
-   marked **judgement call** and shows both readings.
+   addition** means the article is accurate and adding information is your
+   choice. A **judgement call** means two independent AI assessments disagreed about
+   whether a change is needed. The card shows both views for you to weigh.
 7. **Write in your own words**, matching the article's variety of English, tone
    and citation style. Attribute primary findings in text ("A 2016 preregistered
    replication by … found …"), avoid weasel words, and keep due weight: a
@@ -93,7 +91,7 @@ tells you depends on how it was done.
   method as closely as it can; a conceptual one tests the same idea another way,
   and a failure says less about the original study. A replication may also cover
   only one experiment in a paper. Check that it tested the claim the article
-  makes; the card's "How this suggestion was made" section gives the model's view.
+  makes; the card's "How this suggestion was made" section gives the AI's view.
 - **One study settles little either way.** A failed replication does not show
   that the original finding was false, and a successful one does not prove it
   true. Larger samples, preregistered designs and multi-lab projects (such as
@@ -130,11 +128,12 @@ tells you depends on how it was done.
 - **Disagreement.** If an edit is reverted or challenged, discuss it on the talk
   page; do not organise others to restore it.
 
-## What is not checked by the pipeline
+## Limits of the checks
 
-The pipeline checks that quoted article text and source excerpts occur verbatim
-in the cached revision and source texts, that cited DOIs come from the evidence
-packet or the article, and that the claimed evidence level matches what was
-retrieved. It does not check whether the model understood the sources, whether a
-secondary literature exists, or whether the suggestion is what an experienced
-editor would do. Those are your checks.
+Automatic checks confirm that the passages a card quotes from the article and
+the sources appear in the saved texts, that every source it cites was among
+those we collected or is already cited in the article, and that each label for
+what was read (full text, abstract, or title and details) is right. They do not
+show that the AI understood the sources, that every relevant review was found,
+or that the suggestion is what an experienced editor would do. Those checks are
+yours.

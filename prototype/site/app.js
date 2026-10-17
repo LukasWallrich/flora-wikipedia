@@ -26,7 +26,7 @@ const USE = {
 const LEVEL = {full_text: 'Full text read', abstract: 'Abstract only', metadata_only: 'Title and details only',
   needs_source: 'Source still to find'};
 const DECISIONS = {
-  edit: 'I will edit the article (in my own words)', talk: 'I will raise it on the talk page',
+  edit: 'I edited the article (in my own words)', talk: 'I raised it on the talk page',
   no_change: 'No change needed', later: 'Needs more checking first', skip: 'Skip (not my area / no access)'
 };
 const DECISION_QUEUE = {edit: 'retain', talk: 'retain', no_change: 'drop', later: 'defer', skip: 'defer'};
@@ -74,7 +74,7 @@ const FACETS = [
   ['many', 'Studies on the page', p => p.items.length > 1 ? 'Several' : 'One', true],
   ['care', 'Extra care', p => [flags(p).blp && 'Living person (BLP)', flags(p).medrs && 'Health / medical (MEDRS)',
     p.live_check.changed_since_frozen && 'Article edited since'].filter(Boolean), true],
-  ['evidence', 'What the model read', p => [...new Set(p.items.map(i => LEVEL[i.best_evidence]))], false],
+  ['evidence', 'What we could read', p => [...new Set(p.items.map(i => LEVEL[i.best_evidence]))], false],
 ];
 const facetVals = (p, f) => { const v = f[2](p); return Array.isArray(v) ? v : [v]; };
 
@@ -194,7 +194,7 @@ function checksBlock(it, rec) {
   const off = v.filter(x => x.result !== 'confirmed').length;
   return `${v.length ? `<h4>What we checked</h4>
     <p class="small">${off ? `The source supports each point unless it is marked (${off} marked).` : 'The source supports each point.'}
-      Read in full unless marked “abstract only”. Quotes match the paper word for word, which shows the words are there, not that the model read them correctly: do check anything your edit will rely on.</p>
+      Read in full unless marked “abstract only”. Each quote appears word for word in the paper, but the AI may have misread it: check anything your edit will rely on.</p>
     <ul class="verifs">${v.map(x => `<li>${RESULT[x.result][0] ? `<span class="badge ${RESULT[x.result][1]}">${RESULT[x.result][0]}</span> ` : ''}${esc(x.claim)}
       <span class="small">· ${doiLink(x.source.replace(/^doi:/i, ''))} ${lvlBadge(x.evidence_level, true)}</span>
       ${x.quote ? `<blockquote class="excerpt">“${esc(x.quote)}”</blockquote>` : ''}</li>`).join('')}</ul>` : ''}
@@ -216,11 +216,11 @@ function evidenceBlock(it) {
   const revs = it.reviews_checked || [];
   const found = revs.filter(r => r.mentions);
   return `<h4>The studies</h4>
-    <table class="evidence"><thead><tr><th>Role</th><th>Study</th><th>What the model read</th></tr></thead><tbody>
+    <table class="evidence"><thead><tr><th>Role</th><th>Study</th><th>What we could read</th></tr></thead><tbody>
     ${row('This study', it.original)}
     ${it.replications.map(r => row('Replication', r, `<br><span class="small">Database label: ${esc(r.flora_outcome)} (screening label, not citable)${r.doi_detected_on_page ? ' · already cited in the article' : ''}</span>`)).join('')}
     </tbody></table>
-    ${extra.length ? `<details><summary>Other sources the model used (${extra.length})</summary><ul class="tight">${extra.map(e => `<li>${doiLink(e.doi)} ${lvlBadge(e.evidence_level, true)} ${esc(e.what_it_supports)}${e.excerpt ? `<blockquote class="excerpt">“${esc(e.excerpt)}”</blockquote>` : ''}</li>`).join('')}</ul></details>` : ''}
+    ${extra.length ? `<details><summary>Other sources used for this card (${extra.length})</summary><ul class="tight">${extra.map(e => `<li>${doiLink(e.doi)} ${lvlBadge(e.evidence_level, true)} ${esc(e.what_it_supports)}${e.excerpt ? `<blockquote class="excerpt">“${esc(e.excerpt)}”</blockquote>` : ''}</li>`).join('')}</ul></details>` : ''}
     ${revs.length ? `<details><summary>Review articles we checked for the replication: ${found.length} of ${revs.length} cite or mention it</summary><ul class="tight">${revs.map(r => `<li>${esc(r.title)} (${esc(r.year)}) ${doiLink(r.doi)} ${lvlBadge(r.evidence_level, true)} · ${r.mentions ? '<strong>mentions it</strong>' : 'no mention found'}${r.snippets?.[0] ? `<blockquote class="excerpt">…${esc(r.snippets[0].slice(0, 400))}…</blockquote>` : ''}</li>`).join('')}</ul></details>` : ''}`;
 }
 
@@ -246,7 +246,7 @@ function writingBlock(it) {
   if (!points.length && !s.alternatives.length) return pointerBlock(it);
   const unread = points.some(x => x.evidence_level !== 'full_text');
   return `${pointerBlock(it)}<h4>${EDIT_ACTIONS.has(s.proposed_action) ? 'Suggested points to cover' : 'Points worth knowing'}</h4>
-    ${unread ? '<p class="small">Points marked “Abstract only” or “Title and details only” come from summaries: check them against the full paper.</p>' : ''}
+    ${unread ? '<p class="small">Points marked “Abstract only” or “Title and details only” were prepared without the full paper: check them against it.</p>' : ''}
     ${points.length ? `<ul class="tight">${points.map(x => `<li>${esc(x.point)} · ${doiLink(x.source)} ${lvlBadge(x.evidence_level, true)}</li>`).join('')}</ul>` : ''}
     ${s.alternatives.length ? `<details ${itemKind(it) === 'none' ? 'open' : ''}><summary>Other problems found and alternative fixes (${s.alternatives.length})</summary><ul class="tight">${s.alternatives.map(a => `<li>${esc(a.action)} <span class="small">${esc(a.when)}</span></li>`).join('')}</ul></details>` : ''}`;
 }
@@ -262,15 +262,14 @@ function contextBlock(it) {
 
 function provenanceBlock(it) {
   const p = it.provenance, v = it.validation;
+  const match = {matched: 'Yes', mismatch: 'No', not_applicable: 'Not applicable', partial: 'Partly', uncertain: 'Uncertain'};
+  const covered = {yes: 'Yes', no: 'No', partial: 'Partly', unclear: 'Unclear'};
   return `<details class="provenance"><summary>How this suggestion was made</summary><dl class="kv">
-    <dt>Written by</dt><dd>${esc(p.route_label)} (${esc(p.model)})${p.finished_at ? ', ' + esc(p.finished_at.slice(0, 10)) : ''}</dd>
-    <dt>Model's assessment</dt><dd>${esc(it.suggestion.assessment)}</dd>
-    <dt>Does the replication test this claim?</dt><dd>${esc(it.suggestion.specific_study_match.status)}: ${esc(it.suggestion.specific_study_match.note)}</dd>
-    <dt>Does the article already cover it?</dt><dd>${esc(it.suggestion.existing_acknowledgement.status)}: ${esc(it.suggestion.existing_acknowledgement.note)}</dd>
-    ${p.fulltext_update ? `<dt>Full-text update</dt><dd>${esc(p.fulltext_update)}</dd>` : ''}
-    ${p.orchestrator.notes ? `<dt>Reviewing model's note</dt><dd>${esc(p.orchestrator.notes)}</dd>` : ''}
-    <dt>Automatic checks</dt><dd>${v.errors.length ? `<span class="bad">${esc(v.errors.join('; '))}</span>` : 'Quotes, sources and numbers matched the texts the model read.'}</dd>
-    <dt>Status</dt><dd>Reviewed by AI models only; not yet checked by people.</dd></dl></details>`;
+    <dt>AI assessment</dt><dd>${esc(it.suggestion.assessment)}</dd>
+    <dt>Does the replication test this claim?</dt><dd>${esc(match[it.suggestion.specific_study_match.status] || 'Uncertain')}: ${esc(it.suggestion.specific_study_match.note)}</dd>
+    <dt>Does the article already cover it?</dt><dd>${esc(covered[it.suggestion.existing_acknowledgement.status] || 'Unclear')}: ${esc(it.suggestion.existing_acknowledgement.note)}</dd>
+    <dt>Automatic checks</dt><dd>${v.errors.length ? `<span class="bad">${esc(v.errors.join('; '))}</span>` : 'Quotes, sources and numbers match the saved texts. This does not show that the suggestion is right.'}</dd>
+    <dt>Status</dt><dd>Prepared with AI${p.finished_at ? ' on ' + esc(p.finished_at.slice(0, 10)) : ''}; not yet checked by people.</dd></dl></details>`;
 }
 
 function itemSection(it, i, n, rec) {
@@ -281,8 +280,7 @@ function itemSection(it, i, n, rec) {
       ${s.edit_strength ? `<p class="small">${esc(STRENGTH[s.edit_strength])}</p>` : ''}
       ${it.adds_replication ? '<p class="small">Adds a replication: the suggested edit cites a replication that this article does not cite yet.</p>' : ''}
       <p>${esc(s.rationale)}</p>
-      ${it.two_run ? (it.two_run.agree ? '<p class="small ok">Two independent drafting runs reached the same verdict.</p>'
-        : `<p class="twoRun"><strong>Two drafting runs disagreed, so this is your call.</strong> The one shown suggests “${esc(ACTION[it.two_run.shown.action])}”; the other concluded “${esc(ACTION[it.two_run.other.action])}”: ${esc(it.two_run.other.rationale)}</p>`) : ''}<p class="small">${esc(SCOPE[s.article_scope] || s.article_scope)}, ${esc(USE[s.citation_function] || s.citation_function)}</p></div>
+      ${it.two_run && !it.two_run.agree ? `<p class="twoRun"><strong>Judgement call: two independent AI assessments disagree.</strong> This one suggests “${esc(ACTION[it.two_run.shown.action])}”; the other suggests “${esc(ACTION[it.two_run.other.action])}”: ${esc(it.two_run.other.rationale)}</p>` : ''}<p class="small">${esc(SCOPE[s.article_scope] || s.article_scope)}, ${esc(USE[s.citation_function] || s.citation_function)}</p></div>
     ${writingBlock(it)}${checksBlock(it, rec)}${evidenceBlock(it)}${contextBlock(it)}${provenanceBlock(it)}`;
   return `<section class="item" id="item-${it.card_id}">
     <details ${k !== 'none' || n === 1 || s.alternatives.length ? 'open' : ''}><summary class="item-head"><span class="badge ${cls}">${label}</span> ${esc(head)}</summary>${body}</details></section>`;
@@ -297,7 +295,7 @@ function overview(p) {
 function otherFixesBlock(p) {
   if (!p.adjacent.length) return '';
   return `<section class="other-fixes"><h3>Other problems spotted on this page</h3>
-    <p class="small">Unrelated to the replication question; each was checked against the article text by the reviewing model.</p>
+    <p class="small">Unrelated to the replication question. The AI checked each against the article text; check it yourself before acting.</p>
     <ul class="tight">${p.adjacent.map(x => `<li><blockquote class="target small-q">${esc(x.sentence)}</blockquote>${esc(x.issue)} <strong>Suggested:</strong> ${esc(x.suggested_action)}</li>`).join('')}</ul></section>`;
 }
 
@@ -411,8 +409,8 @@ function ledgerRows() {
         stale_revision: r.live_revision_checked ? String(r.live_revision_checked) !== String(p.page.frozen_revid) : 'unchecked',
         decision: d, decision_label: DECISIONS[d], queue_decision: DECISION_QUEUE[d],
         checks_done: (r.checks_done?.[it.card_id] || []).length + '/' + it.suggestion.required_checks.length,
-        other_fix_done: r.other_fix_done || false, draft_usefulness: r.draft_usefulness || '', reviewer: r.reviewer || '',
-        updated_at: r.updated_at, model_proposed_action: it.suggestion.proposed_action, notes: r.notes || ''});
+        other_fix_done: r.other_fix_done || false, card_usefulness: r.draft_usefulness || '', reviewer: r.reviewer || '',
+        updated_at: r.updated_at, ai_suggested_action: it.suggestion.proposed_action, notes: r.notes || ''});
     }
   }
   return rows;
@@ -467,7 +465,7 @@ async function init() {
     pages: PAGES.map(p => ledgerGet(p.page_id)).filter(Boolean)}, null, 2), 'application/json');
   document.getElementById('export-csv').onclick = () => {
     const rows = ledgerRows();
-    const cols = ['page_id', 'page_title', 'card_id', 'study', 'reviewed_revision_id', 'live_revision_checked', 'stale_revision', 'decision', 'decision_label', 'queue_decision', 'checks_done', 'other_fix_done', 'draft_usefulness', 'reviewer', 'updated_at', 'model_proposed_action', 'notes'];
+    const cols = ['page_id', 'page_title', 'card_id', 'study', 'reviewed_revision_id', 'live_revision_checked', 'stale_revision', 'decision', 'decision_label', 'queue_decision', 'checks_done', 'other_fix_done', 'card_usefulness', 'reviewer', 'updated_at', 'ai_suggested_action', 'notes'];
     const q = v => '"' + String(v ?? '').replace(/"/g, '""') + '"';
     download('flora-en-ledger.csv', [cols.join(',')].concat(rows.map(r => cols.map(k => q(r[k])).join(','))).join('\n'), 'text/csv');
   };

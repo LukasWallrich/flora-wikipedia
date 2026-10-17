@@ -13,7 +13,7 @@
 <header class="top">
   <div class="brand">
     <h1>Replication evidence on Wikipedia: review cards</h1>
-    <p class="sub">A private prototype. The suggestions are written by AI models and not yet checked by people; nothing here is posted to Wikipedia.</p>
+    <p class="sub">A private prototype. The cards were prepared with AI help and have not yet been checked by people; nothing here is posted to Wikipedia.</p>
   </div>
   <nav aria-label="Pages">
     <button id="open-help" class="linklike" type="button">How this works</button>
@@ -33,8 +33,8 @@
     <p class="steps small" id="step-count" aria-live="polite"></p>
     <section class="step">
       <h2 id="welcome-title">Before you start</h2>
-      <p>Each card looks at one Wikipedia article and every study on it that others have tried to replicate (from FORRT's
-        database of replication attempts). An AI model read the article and the papers we could get, and suggested
+      <p>Each card looks at one Wikipedia article and the studies it cites that others have tried to replicate (from FORRT's
+        database of replication attempts). We used AI to read the article and the papers we could get, and to suggest
         what, if anything, could change.</p>
       <p><strong>How to use it:</strong> read the card, read the sources, make any edit on Wikipedia itself in another
         tab, then come back and record what you did.</p>
@@ -55,10 +55,10 @@
         <dt>Worth a look</dt><dd>Every card with an edit suggested or a judgement call, whether or not it involves a replication.</dd>
         <dt><span class="badge edit">Edit suggested</span></dt><dd>The article says something its source does not
           support, or leaves out a replication that tested a claim it makes.</dd>
-        <dt><span class="badge warn">Judgement call</span></dt><dd>Each article was drafted twice, independently, and
-          the two runs disagreed. The card shows both readings.</dd>
-        <dt><span class="badge info">Optional addition</span></dt><dd>The article is accurate; adding the extra
-          sentence is up to you.</dd>
+        <dt><span class="badge warn">Judgement call</span></dt><dd>Two independent AI assessments disagreed about whether a
+          change is needed. The card shows both views for you to weigh.</dd>
+        <dt><span class="badge info">Optional addition</span></dt><dd>The article is accurate; adding more
+          information is up to you.</dd>
         <dt><span class="badge none">No change needed</span></dt><dd>Nothing to change in the text. Some of these also
           carry <span class="badge">Minor notes</span>: small things such as a typo in a reference, or material that
           belongs in another article.</dd>
@@ -76,7 +76,7 @@
           <span class="cite focal">[this study]</span>, <span class="cite paired">[replication]</span> and
           <span class="cite other">[other source]</span>. Hover over a citation to see the full reference. Some
           suggestions are about a claim the cited study does not support rather than about a replication.</dd>
-        <dt>The suggestion</dt><dd>What the AI proposes and why, and whether the two drafting runs agreed.</dd>
+        <dt>The suggestion</dt><dd>What the AI suggests and why. On a judgement call, the second assessment too.</dd>
         <dt>Suggested edit and points to cover</dt><dd>Where an edit could go, which sources it could cite, and facts
           from those sources it could draw on. We deliberately give no ready-made wording: the text is yours to write.</dd>
         <dt>What we checked</dt><dd>The facts the suggestion relies on, each with the passage from the paper. Points are
@@ -114,8 +114,8 @@
     <section class="step" hidden>
       <h2>Checking, deciding and recording</h2>
       <ul class="welcome-list">
-        <li><strong>Read the sources yourself.</strong> The AI's quotes match the papers word for word, but that does
-          not mean it understood them. Check anything your edit will rely on, and note in your record if something looks wrong.</li>
+        <li><strong>Read the sources yourself.</strong> Each quoted passage appears word for word in the paper, but the AI may
+          have misread it. Check anything your edit will rely on, and note in your record if something looks wrong.</li>
         <li><strong>Cards are snapshots.</strong> Use "Changes since this snapshot" or "Check now" to see whether
           someone has already edited the article.</li>
         <li><strong>Take extra care with living people and health topics.</strong> Findings are about studies, not

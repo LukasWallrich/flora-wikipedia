@@ -240,7 +240,7 @@ def flat_csv(cards):
     buf = io.StringIO()
     cols = ['card_id', 'page_title', 'frozen_revid', 'stratum', 'article_scope', 'citation_function', 'proposed_action',
             'queue_recommendation', 'draft_status', 'confidence', 'blp', 'medrs', 'best_evidence', 'route', 'model',
-            'orchestrator_verdict', 'validation_errors', 'original_doi', 'replication_dois', 'rationale', 'draft_wording']
+            'orchestrator_verdict', 'validation_errors', 'original_doi', 'replication_dois', 'rationale']
     w = csv.DictWriter(buf, fieldnames=cols)
     w.writeheader()
     for c in cards:
@@ -252,8 +252,7 @@ def flat_csv(cards):
                         medrs=s['flags']['medrs'], best_evidence=c['best_evidence'], route=c['provenance']['route'],
                         model=c['provenance']['model'], orchestrator_verdict=c['provenance']['orchestrator']['verdict'],
                         validation_errors=len(c['validation']['errors']), original_doi=c['original']['doi'],
-                        replication_dois=' '.join(r['doi'] for r in c['replications']), rationale=s['rationale'],
-                        draft_wording=s['draft']['wording']))
+                        replication_dois=' '.join(r['doi'] for r in c['replications']), rationale=s['rationale']))
     return buf.getvalue()
 
 
@@ -297,6 +296,12 @@ def main():
         ap.error('Output directory must be outside the repository checkout')
     cards, missing = build_items()
     pages = build_pages(cards)
+    # Cards give no ready-made wording: archive the AI draft text outside the site, then drop it.
+    archive = RUN / 'archive'
+    archive.mkdir(exist_ok=True)
+    dump_json(archive / 'suggestions-with-draft-wording.json', cards)
+    for c in cards:
+        c['suggestion']['draft'].pop('wording', None)
     built = datetime.datetime.now(datetime.timezone.utc).isoformat(timespec='seconds')
     data = dict(build_id=hashlib.sha256(json.dumps(cards, sort_keys=True).encode()).hexdigest()[:12], built_at=built,
                 status='Private research material, not for publication. Prepared with AI; nobody has checked it yet.',
@@ -325,7 +330,7 @@ def main():
             shutil.copy2(RUN / name, dl / name)
     shutil.copy2(RUN / 'about.md', dl / 'about.md')
     shutil.copy2(HERE / 'docs' / 'contributor-workflow.md', dl / 'contributor-workflow.md')
-    zip_dir(dl / 'drafts-all-routes.zip', [(RUN / 'drafts', '*/*'), (RUN / 'review', '*.json')])
+    zip_dir(archive / 'drafts-all-routes.zip', [(RUN / 'drafts', '*/*'), (RUN / 'review', '*.json')])
     zip_dir(dl / 'evidence-packets.zip', [(RUN / 'evidence', '*/packet.*')])
     zip_dir(dl / 'source-cache.zip', [(RUN / 'cache', 'sources/*.json'),
                                       (RUN / 'cache', 'secondary/*.json'), (RUN / 'cache', 'live_revisions.json'),
@@ -333,8 +338,7 @@ def main():
     (dl / 'README.txt').write_text(
         'Private research material. Not for publication.\n\n'
         'The cards were prepared with AI and nobody has checked them yet. Read the articles and sources before '
-        'acting, and write any edit in your own words. These downloads keep earlier AI-written draft wording (in '
-        'suggestions.json, suggestions.csv and drafts-all-routes.zip) for research. Do not copy it into Wikipedia.\n\n'
+        'acting, and write any edit in your own words. The earlier AI-written draft wording is not included.\n\n'
         'suggestions.json holds the cards; suggestions.csv has one row per study. about.md describes the method and '
         'coverage, and contributor-workflow.md explains how to review a card and record a decision. '
         'papers-not-obtained.csv lists the papers we could not get in full, with notes on where we looked. '
@@ -348,8 +352,7 @@ def main():
     (dl / 'index.html').write_text('<!doctype html><meta charset="utf-8"><meta name="robots" content="noindex">'
                                    '<link rel="stylesheet" href="../style.css"><div class="prose"><h1>Downloads</h1>'
                                    '<p>Private research material. Not for publication. The cards were prepared with AI and nobody has '
-                                   'checked them yet: read the sources and write any edit in your own words. Some files keep '
-                                   'earlier AI-written draft wording for research; do not copy it into Wikipedia. '
+                                   'checked them yet: read the sources and write any edit in your own words. '
                                    '<a href="README.txt">README.txt</a> says what each file holds.</p><ul>'
                                    + ''.join(f'<li><a href="{n}">{n}</a> ({(dl / n).stat().st_size // 1024} KB)</li>' for n in items)
                                    + '</ul><p><a href="../index.html">Back to the prototype</a></p></div>')

@@ -58,7 +58,7 @@ def about_md(data):
          'publication. The dashboard does not edit Wikipedia or Wikidata, post messages or copy text into an editor.', '',
          'A card shows where an edit might help, which points it could cover and which sources to read. It gives no '
          'ready-made wording: contributors decide whether to edit, and write their own text from sources they have '
-         'read. The downloads keep earlier AI-written draft wording for research only.', '',
+         'read.', '',
          f"{actions} We show the no-change suggestions too: in most of them the "
          'citation is accurate in context.', '',
          f"{c['pages_with_several_studies']} articles cite more than one study. Studies on the same article were "
@@ -195,8 +195,7 @@ def about_md(data):
                     [(m['page'], m['role'], m['outcome'].replace('agree with', 'agrees with')) for m in inspected]), '',
               'The detailed readings are in `manual-inspection.json`.', '']
     L += ['## Writing and Wikipedia policies',
-          'Write your own text from sources you have read; the [contributor workflow](guide.html) explains how. Do not '
-          'copy the AI draft wording kept in the downloads into Wikipedia.', '',
+          'Write your own text from sources you have read; the [contributor workflow](guide.html) explains how.', '',
           'On 6 October 2026 we read [Writing articles with large language models]'
           '(https://en.wikipedia.org/wiki/Wikipedia:Writing_articles_with_large_language_models) (revision 1378473005, '
           '4 October 2026), the talk page guidelines (revision 1378840295) and the bot policy (revision 1372438517). '
@@ -215,8 +214,9 @@ def about_md(data):
           'bash prototype/build.sh --refresh-live  # also check current Wikipedia revision IDs',
           'python3 tests/test_edit_prototype.py', '```', '',
           '`prototype/run_route.py` reruns the AI assessments. It can resume, and skips saved results that already '
-          'parse. The instructions, AI outputs and settings are in the downloads; the instruction files are '
-          '`drafts/claude/*.prompt.txt`.', '',
+          'parse. The instructions, settings and full AI outputs, including the earlier draft wording, are archived '
+          'in `runs/edit-prototype-en` (instruction files in `drafts/claude/*.prompt.txt`, everything else in '
+          '`archive/`) and are not part of the downloads.', '',
           '## What still needs people',
           '- Read the article, its talk page and the full sources before acting, and check every fact your edit relies on.',
           '- Read secondary sources before saying anything about the overall state of the evidence.',
